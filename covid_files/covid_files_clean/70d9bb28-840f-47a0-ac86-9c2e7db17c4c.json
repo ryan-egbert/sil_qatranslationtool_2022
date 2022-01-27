@@ -1,0 +1,423 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"enb\":\"Akip\u014d k\u014dr\u014d\u014dyi p\u014d Coronavirus\"}",
+    "author": null,
+    "bookInstanceId": "70d9bb28-840f-47a0-ac86-9c2e7db17c4c",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,726d708d-535e-47af-8905-ce6e5e0d745c",
+    "bookSamples": {
+        "0": {
+            "enb": "Akip\u014d k\u014dr\u014d\u014dyi p\u014d Coronavirus",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "und": ""
+        },
+        "1": {
+            "enb": ""
+        },
+        "2": {
+            "enb": ""
+        },
+        "3": {
+            "enb": "",
+            "eng": ""
+        },
+        "4": {
+            "enb": "Mii kir AKOONG\u2019O kipaat nyoo nyoolchinii is\u014dwu akip\u014d W\u014cLOO KUUNOOMTOOY KEEY k\u014dr\u014d\u014dyi p\u014d coronavirus",
+            "eng": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+        },
+        "5": {
+            "enb": "",
+            "eng": "SPREADS"
+        },
+        "6": {
+            "enb": "Kuut",
+            "eng": "Mouth"
+        },
+        "7": {
+            "enb": "S\u0113ruun",
+            "eng": "Nose"
+        },
+        "8": {
+            "enb": "Koonyin",
+            "eng": "Eyes"
+        },
+        "9": {
+            "enb": "Kip\u0113\u0113chi chiich",
+            "eng": "Get into your"
+        },
+        "10": {
+            "enb": "Chiich nyoo karaam p\u014d\u014dr",
+            "eng": "Healthy Person"
+        },
+        "11": {
+            "enb": "Chiich nyoo mnyaanaat",
+            "eng": "Sick Person"
+        },
+        "12": {
+            "enb": "Kuunoomtooy keey k\u014dr\u014d\u014dyi n\u0113\u0113 raal nta kung\u2019alaal :chiich kupka ng\u2019ula",
+            "eng": "The virus spreads when \ufeffthese droplets"
+        },
+        "13": {
+            "enb": "Iryoong\u2019\u0113\u0113 yoo l\u014d\u014dw.\nRyoong\u2019\u0113\u0113 miita 2 si n\u0113\u0113 ng\u2019at iriip keey m\u0101p\u0113\u0113chiin ng\u2019ul\u0113\u0113p\u014d chiich",
+            "eng": "Keep your distance.\ufeff2m will keep you safe from large droplets."
+        },
+        "14": {
+            "enb": "1",
+            "eng": "1"
+        },
+        "15": {
+            "enb": "Miita 2",
+            "eng": "2m"
+        },
+        "16": {
+            "enb": "Tirsyaa",
+            "eng": "Achoo!"
+        },
+        "17": {
+            "enb": "N\u0113\u0113 roo chiich nyoo rool\u0113y / tirsyoon\u0113y / mnyanaat",
+            "eng": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+        },
+        "18": {
+            "enb": "T\u0113\u0113 akwaaneek tukun choo tuk\u0113\u0113 keey s\u0113r nk\u014d\u014d kuut. Muuk\u0113y kuroolchi nta kuutirsyoonchi tukuuchooch\u0113\u0113 sikuriip piich walak choo l\u0113\u0113kit\u0113\u0113n",
+            "eng": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby."
+        },
+        "19": {
+            "enb": "2",
+            "eng": "2"
+        },
+        "20": {
+            "enb": "Kartaasi nyoo\n/kuupuuk\u0113\u0113 s\u0113r",
+            "eng": "Thank you\ufeff*sniffles*"
+        },
+        "21": {
+            "enb": "NTA",
+            "eng": "OR,"
+        },
+        "22": {
+            "enb": "M\u0101 k\u0113\u0113l\u0113 mnyanaat :inyeentee, mii kipaat kuriip\u0113y keey",
+            "eng": "Maybe she's not sick, just protecting herself"
+        },
+        "23": {
+            "enb": "Muuk\u0113y kimnyaanaat :chiich w\u014dloo nyuun moomii kiyoo ng\u2019uutuuy kil\u0113 mnyaanaat, akuunoomtooy nyuun piich k\u014dr\u014d\u014dyi",
+            "eng": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+        },
+        "24": {
+            "enb": "Karaam im\u0113toor\u0113\u0113 keey w\u014dloo mii \u00a0:piich chaa chaang\u2019, \u0101mu m\u0113\u0113muuk\u0113y is\u014dwu kil\u0113 ng\u2019oo nyoo mnyaanaat",
+            "eng": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+        },
+        "25": {
+            "enb": "k\u0101tiiniit",
+            "eng": "Chopsticks"
+        },
+        "26": {
+            "enb": "Chiich nyaa karaam p\u014d\u014dr",
+            "eng": "Healthy person"
+        },
+        "27": {
+            "enb": "Misiipi nyoo /kir\u0101t\u0113\u0113 keey nk\u014d\u014d kari",
+            "eng": "Train straps"
+        },
+        "28": {
+            "enb": "Tukun choo /kinyipir\u0113y nk\u014d\u014d liipti ny\u0113p\u014d koropa",
+            "eng": "Lift buttons"
+        },
+        "29": {
+            "enb": "Kartaasi nyoo kuupuuk\u0113\u0113 keey",
+            "eng": "Tissues"
+        },
+        "30": {
+            "enb": "Kikoompeen",
+            "eng": "Cups"
+        },
+        "31": {
+            "enb": "Koompuuta nk\u014d\u014d siimuun",
+            "eng": "Digital devices"
+        },
+        "32": {
+            "enb": "nk\u014d\u014d mp\u014dsaang\u2019 ny\u0113p\u014d kir nyoo ituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut",
+            "eng": "& even on the outside of your face mask"
+        },
+        "33": {
+            "enb": "k\u0101riin choo /kin\u0101m\u0113y paani /kiloong\u2019\u0113y k\u014dp\u014d koropa",
+            "eng": "Stair bannisters"
+        },
+        "34": {
+            "enb": "Moorinoo koompuuta",
+            "eng": "Mouse"
+        },
+        "35": {
+            "enb": "Kalaamuun",
+            "eng": "Pens"
+        },
+        "36": {
+            "enb": "Kurkat",
+            "eng": "Door knobs"
+        },
+        "37": {
+            "enb": "\u0112\u0113ruun\u0113kwaak",
+            "eng": "Their hands"
+        },
+        "38": {
+            "enb": "Muuk\u0113y kup\u0113\u0113chi saayiitiis walak ng\u2019ula ch\u0113p\u014d chiich nyoo mnyaanaat tukun walak kil\u0113\u0113\u2026",
+            "eng": "However, sometimes a sick person's saliva can get on other things\u2026"
+        },
+        "39": {
+            "enb": "ku \u0101muuk\u0113y \u0101mnyoonch\u014d :t\u014dk\u014dl",
+            "eng": "you might all fall sick."
+        },
+        "40": {
+            "enb": "nta inam tokoch ny\u0113p\u014d choorweeng\u2019uung\u2019",
+            "eng": "or your loved one's face"
+        },
+        "41": {
+            "enb": "iting\u2019ting\u2019 keey koonyin",
+            "eng": "rub eyes"
+        },
+        "42": {
+            "enb": "N\u0113\u0113 nam tukuuchu kim\u0113\u0113nk\u0113t, aku n\u0113\u0113 ng\u2019at inam keey tokoch,",
+            "eng": "And if you do touch any of these things by accident, and then touch your face,"
+        },
+        "43": {
+            "enb": "oor kipaat nyoo /kuuwoong\u2019\u0113y kuutyaantaani \u0101puuy k\u014dr\u014d\u014dyi ku /k\u0113\u0113wuun tukuuchooch\u0113\u0113 nk\u014d\u014d s\u0101puni nta /k\u0113\u0113p\u0101yiisy\u0113\u0113r\u014d saakityaan nyoo /kuutiliil\u0113\u0113 tukun.",
+            "eng": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+        },
+        "44": {
+            "enb": "N\u0113\u0113 nam :kuutyaantaani \u0101puuy k\u014dr\u014d\u014dyi tukun kit\u0113p\u0113\u0113 saayitiis choo ng\u2019\u0113rin",
+            "eng": "Viruses can last for quite a few hours on objects,"
+        },
+        "45": {
+            "enb": "S\u0101puni",
+            "eng": "soap"
+        },
+        "46": {
+            "enb": "/sik\u0113\u0113riip keey",
+            "eng": "precautions"
+        },
+        "47": {
+            "enb": "Karaam nyuun /keetuup tukuuchu",
+            "eng": "Which is why it is also good to follow these"
+        },
+        "48": {
+            "enb": "Wuun\u0113\u0113 s\u0101puni kuti it yi",
+            "eng": "wash with soap up to here"
+        },
+        "49": {
+            "enb": "S\u0101puni",
+            "eng": "soap"
+        },
+        "50": {
+            "enb": "Kipkong\u2019",
+            "eng": "elbow"
+        },
+        "51": {
+            "enb": "Kimeenam keey tokoch. (Nta inam chiich aka tokoch.) N\u0113\u0113 m\u0101r\u0113y nama keey tokoch iwuun \u0113\u0113ruung\u2019uung\u2019 kukaraam kupok",
+            "eng": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+        },
+        "52": {
+            "enb": "T\u0113\u0113n\u014d saayit nyoo y\u0101m\u0113y keey /keetuum tuumi mwoor\u0113y kil\u0113, \u201cKumwooruun k\u014d\u014dnk\u0113y apoonyoon \u0101mu kaakisuwa \u0113\u0113ruung\u2019uung\u2019\u201d kunyil \u0101r\u0113\u0113ny",
+            "eng": "Enough time to sing \u201cHappy Birthday\u201d twice"
+        },
+        "53": {
+            "enb": "wuun\u014d siiriin",
+            "eng": "under the nails"
+        },
+        "54": {
+            "enb": "nk\u014d\u014d s\u0113kuunt\u0113\u0113n choo l\u0113\u0113 20",
+            "eng": "for 20 seconds"
+        },
+        "55": {
+            "enb": "wuun\u014d kw\u0113\u0113n ny\u0113p\u014d mooriin",
+            "eng": "between the fingers"
+        },
+        "56": {
+            "enb": "wuun\u014d saang\u2019 ny\u0113p\u014d \u0113\u0113ruun\u0113kuuk",
+            "eng": "wash the back of your hands"
+        },
+        "57": {
+            "enb": "/K\u0113\u0113wuun kukaraam ku /kee-ir nee?",
+            "eng": "What is thoroughly?"
+        },
+        "58": {
+            "enb": "N\u0113\u0113 koo keenam keey kim\u0113\u0113w\u0101riisy\u014d, wuun\u014d kipaat \u0113\u0113ruun\u0113kuuk kukaraam nk\u014d\u014d s\u0101puni",
+            "eng": "If you did, don't worry. Just wash your hands with soap after."
+        },
+        "59": {
+            "enb": "N\u0113\u0113 muuk\u0113\u0113 ku meenam mp\u014d saang\u2019 ny\u0113p\u014d kiyoon\u0113\u0113 /kituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut",
+            "eng": "Also, don't touch the outside of the mask if you can."
+        },
+        "60": {
+            "enb": "ng\u2019ul",
+            "eng": "droplets"
+        },
+        "61": {
+            "enb": "Kuutyaan nyoo \u0101puuy k\u014dr\u014d\u014dy kin\u0101r\u0113y nk\u014d\u014d or ny\u0113p\u014d kir nyoo /kituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut n\u0113\u0113 /kuulaak kil\u014d\u014dwiit",
+            "eng": "*Bacteria grows on the insides of your mask if you wear them too long"
+        },
+        "62": {
+            "enb": "N\u0113\u0113 nur kipaat kir nyoo /kituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut iwiirta. Kimeelaak kiyoon\u0113\u0113 kisiir p\u0113r\u0113\u0113tuu akoong\u2019o!",
+            "eng": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+        },
+        "63": {
+            "enb": "P\u0101yiisy\u0113\u0113r\u0113\u0113 kiichiik\u014d paani ich\u0101r\u0113y \u0101miisy\u014d",
+            "eng": "Use a serving spoon"
+        },
+        "64": {
+            "enb": "Ny\u0113p\u014d laakwee",
+            "eng": "Baby"
+        },
+        "65": {
+            "enb": "Ny\u0113p\u014d apoo",
+            "eng": "Daddy"
+        },
+        "66": {
+            "enb": "Ny\u0113p\u014d maama",
+            "eng": "Mommy"
+        },
+        "67": {
+            "enb": "M\u0101r\u0113y kuting\u2019\u0113y :chiich aka t\u014dk\u014dl t\u014dwuleenyiin",
+            "eng": "Everyone gets their own towel"
+        },
+        "68": {
+            "enb": "Kimaaramta \u0101miisy\u014d, tukun choo /ki-\u0101miisy\u0113\u0113r\u0113\u0113 nk\u014d\u014d t\u014dwul\u014d",
+            "eng": "Do not share food, utensils, cups, towels."
+        },
+        "69": {
+            "enb": "M\u0113\u0113muuk\u0113y :chiich kutiing\u2019o keey kipkong\u2019 tokoch mp\u014d nt\u0101 kuutyam",
+            "eng": "You can't touch your face with your elbow even if you tried"
+        },
+        "70": {
+            "enb": "N\u0113\u0113 muuk\u0113\u0113, ip\u0101yiisy\u0113\u0113r\u0113\u0113 kipkong\u2019 nyoo m\u0101 \u0113\u0113r paani iyoot\u0113y akiik\u0101r\u0113y kurkat.",
+            "eng": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+        },
+        "71": {
+            "enb": "Kaaw",
+            "eng": "Home"
+        },
+        "72": {
+            "enb": "paani k\u0113\u0113ch\u014d\u014dn\u0113\u0113 w\u014dloo chaang\u2019 piich",
+            "eng": "and after being out in the public"
+        },
+        "73": {
+            "enb": "Kitoom\u014d a-am kir aka t\u014dk\u014dl",
+            "eng": "Before you eat"
+        },
+        "74": {
+            "enb": "Wuun\u014d \u0113\u0113ruun\u0113kuuk saayit aka t\u014dk\u014dl nk\u014d\u014d s\u0101puni\u2026",
+            "eng": "Always wash your hands with soap\u2026"
+        },
+        "75": {
+            "enb": "Ny\u0113p\u014d l\u0113t",
+            "eng": "And finally,"
+        },
+        "76": {
+            "enb": "s\u0101puni",
+            "eng": "soap"
+        },
+        "77": {
+            "enb": "Riip\u014d keey chiich t\u014dk\u014dl!",
+            "eng": "Stay safe, everyone!"
+        },
+        "78": {
+            "enb": "Riip\u014d keey chiich t\u014dk\u014dl!",
+            "eng": "Stay safe, everyone!"
+        },
+        "79": {
+            "enb": "s\u0101puni",
+            "eng": "soap"
+        },
+        "80": {
+            "enb": "N\u0113\u0113 m\u0101r\u0113y is\u014dwu ng\u2019al chaa chaang\u2019 akip\u014d k\u014dr\u014d\u014dyi isooman yi",
+            "eng": "Read the articles for more tips!"
+        },
+        "81": {
+            "enb": "W\u014dloo /kiny\u014d\u014drchinii ng\u2019aleek akip\u014d w\u014dloo /kiriiptooy keey k\u014dr\u014d\u014dyi",
+            "eng": "Main references for medical info:"
+        },
+        "82": {
+            "enb": "Ng\u2019aleek walak: Karaam /k\u0113\u0113riip tililin kil\u0113 w\u014dli mwooruuy :kiitapuuni \u0101mu n\u0113\u0113 kituup kuutoor\u0113t\u0113\u0113ch makuunaamta keey tung\u2019w\u014d nk\u014d\u014d k\u014dr\u014d\u014dytiin walak. Nyoolchinii nyuun /keetuupa ng\u2019aleechu p\u0113r\u0113\u0113tuus t\u014dk\u014dl mp\u014d n\u0113\u0113 moomii k\u014dr\u014d\u014dy.\nW\u014dloo /kiikiny\u014d\u014dchi ng\u2019aleechu: aku K\u0101moosiichu s\u014dm\u014dk w\u014dloo /kiikiny\u014d\u014drchi ng\u2019al\u0113\u0113chu kung\u2019eeta /k\u0113\u0113s\u014dwu akip\u014d k\u014dr\u014d\u014dyi p\u014d COVID-19 \u0101k\u014dy ku-it 28/2/2020.\ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nNg\u2019\u0101lyoont\u0113\u0113 aka: N\u0113\u0113 m\u0101r\u0113y iny\u014d\u014dru ng\u2019aleechu /kiikisir nk\u014d\u014d oor nyaa nyumnyum iw\u014d yi: https://gumroad.com/weimankowart\nN\u0113\u0113 m\u0101r\u0113y yoochii piich walak: Ng\u2019aleechu /kiikisir nk\u014d\u014d oor nyaa nyumnyum /k\u0113\u0113yoochinii piich kil\u0113\u0113n kupunuun\u014d online, Whatsapp nk\u014d\u014d Telegram /ak\u0113\u0113muuk\u0113y /k\u0113\u0113ng\u2019usu /akeepeel kichaang\u2019iit kil\u0113\u0113n sik\u0113\u0113t\u014d t\u0113\u0113nk\u014d /ak\u0113\u0113n\u0113\u0113tiisy\u0113\u0113r\u014d nk\u014d\u014d kaaw, skul nk\u014d\u014d kaapkaasi.\nPaani im\u0101r\u0113y yoochi piih walak kim\u0113\u0113ruuty\u0113\u0113r\u0113\u0113 ng\u2019aleechu s\u014dm\u014dk:\ufeff1) Kim\u0113\u0113t\u0101si ng\u2019\u0101lyoon nyoo ng\u2019ul\u0113y ng\u2019aleechu n\u0113\u0113 m\u0101r\u0113y iyoochi piich walak.\u00a0 \ufeff2) Ng\u2019aleechu /kiikisir nk\u014d\u014d oor nyaa nyumnyum ku m\u0101 p\u014d mung\u2019aara.\u00a0 3) N\u0113\u0113 ng\u2019usu ng\u2019aleechu nk\u014d\u014d yoom\u0113t imwaa kil\u0113 kiisir\u0113y @weimankowart nta imwaarta kil\u0113 /kiny\u014d\u014drchinii instagram com/weimankow\nN\u0113\u0113 m\u0101r\u0113y ip\u0101yiisy\u0113\u0113r\u0113\u0113 nk\u014d\u014d oor aka t\u014dk\u014dl isoom: comicsforgood@gmail.com",
+            "eng": "Additional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+        },
+        "83": {
+            "enb": "Akip\u014d k\u014dr\u014d\u014dyi p\u014d Coronavirus",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "und": ""
+        },
+        "84": {
+            "enb": ""
+        },
+        "85": {
+            "enb": ""
+        },
+        "86": {
+            "enb": "Translated by Michael Yano, Edwin Suter, and Paul Kanda"
+        },
+        "87": {
+            "enb": "Created by Weiman Kow, instagram: weimankow"
+        },
+        "88": {
+            "enb": ""
+        },
+        "89": {
+            "enb": ""
+        },
+        "90": {
+            "enb": ""
+        },
+        "91": {
+            "enb": ""
+        }
+    },
+    "bookText": {
+        "enb": "Akip\u014d k\u014dr\u014d\u014dyi p\u014d Coronavirus\n\n\n\nMii kir AKOONG\u2019O kipaat nyoo nyoolchinii is\u014dwu akip\u014d W\u014cLOO KUUNOOMTOOY KEEY k\u014dr\u014d\u014dyi p\u014d coronavirus\n\nKuut\nS\u0113ruun\nKoonyin\nKip\u0113\u0113chi chiich\nChiich nyoo karaam p\u014d\u014dr\nChiich nyoo mnyaanaat\nKuunoomtooy keey k\u014dr\u014d\u014dyi n\u0113\u0113 raal nta kung\u2019alaal :chiich kupka ng\u2019ula\nIryoong\u2019\u0113\u0113 yoo l\u014d\u014dw.\nRyoong\u2019\u0113\u0113 miita 2 si n\u0113\u0113 ng\u2019at iriip keey m\u0101p\u0113\u0113chiin ng\u2019ul\u0113\u0113p\u014d chiich\n1\nMiita 2\nTirsyaa\nN\u0113\u0113 roo chiich nyoo rool\u0113y / tirsyoon\u0113y / mnyanaat\nT\u0113\u0113 akwaaneek tukun choo tuk\u0113\u0113 keey s\u0113r nk\u014d\u014d kuut. Muuk\u0113y kuroolchi nta kuutirsyoonchi tukuuchooch\u0113\u0113 sikuriip piich walak choo l\u0113\u0113kit\u0113\u0113n\n2\nKartaasi nyoo\n/kuupuuk\u0113\u0113 s\u0113r\nNTA\nM\u0101 k\u0113\u0113l\u0113 mnyanaat :inyeentee, mii kipaat kuriip\u0113y keey\nMuuk\u0113y kimnyaanaat :chiich w\u014dloo nyuun moomii kiyoo ng\u2019uutuuy kil\u0113 mnyaanaat, akuunoomtooy nyuun piich k\u014dr\u014d\u014dyi\nKaraam im\u0113toor\u0113\u0113 keey w\u014dloo mii \u00a0:piich chaa chaang\u2019, \u0101mu m\u0113\u0113muuk\u0113y is\u014dwu kil\u0113 ng\u2019oo nyoo mnyaanaat\nk\u0101tiiniit\nChiich nyaa karaam p\u014d\u014dr\nMisiipi nyoo /kir\u0101t\u0113\u0113 keey nk\u014d\u014d kari\nTukun choo /kinyipir\u0113y nk\u014d\u014d liipti ny\u0113p\u014d koropa\nKartaasi nyoo kuupuuk\u0113\u0113 keey\nKikoompeen\nKoompuuta nk\u014d\u014d siimuun\nnk\u014d\u014d mp\u014dsaang\u2019 ny\u0113p\u014d kir nyoo ituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut\nk\u0101riin choo /kin\u0101m\u0113y paani /kiloong\u2019\u0113y k\u014dp\u014d koropa\nMoorinoo koompuuta\nKalaamuun\nKurkat\n\u0112\u0113ruun\u0113kwaak\nMuuk\u0113y kup\u0113\u0113chi saayiitiis walak ng\u2019ula ch\u0113p\u014d chiich nyoo mnyaanaat tukun walak kil\u0113\u0113\u2026\nku \u0101muuk\u0113y \u0101mnyoonch\u014d :t\u014dk\u014dl\nnta inam tokoch ny\u0113p\u014d choorweeng\u2019uung\u2019\niting\u2019ting\u2019 keey koonyin\nN\u0113\u0113 nam tukuuchu kim\u0113\u0113nk\u0113t, aku n\u0113\u0113 ng\u2019at inam keey tokoch,\noor kipaat nyoo /kuuwoong\u2019\u0113y kuutyaantaani \u0101puuy k\u014dr\u014d\u014dyi ku /k\u0113\u0113wuun tukuuchooch\u0113\u0113 nk\u014d\u014d s\u0101puni nta /k\u0113\u0113p\u0101yiisy\u0113\u0113r\u014d saakityaan nyoo /kuutiliil\u0113\u0113 tukun.\nN\u0113\u0113 nam :kuutyaantaani \u0101puuy k\u014dr\u014d\u014dyi tukun kit\u0113p\u0113\u0113 saayitiis choo ng\u2019\u0113rin\nS\u0101puni\n/sik\u0113\u0113riip keey\nKaraam nyuun /keetuup tukuuchu\nWuun\u0113\u0113 s\u0101puni kuti it yi\nS\u0101puni\nKipkong\u2019\nKimeenam keey tokoch. (Nta inam chiich aka tokoch.) N\u0113\u0113 m\u0101r\u0113y nama keey tokoch iwuun \u0113\u0113ruung\u2019uung\u2019 kukaraam kupok\nT\u0113\u0113n\u014d saayit nyoo y\u0101m\u0113y keey /keetuum tuumi mwoor\u0113y kil\u0113, \u201cKumwooruun k\u014d\u014dnk\u0113y apoonyoon \u0101mu kaakisuwa \u0113\u0113ruung\u2019uung\u2019\u201d kunyil \u0101r\u0113\u0113ny\nwuun\u014d siiriin\nnk\u014d\u014d s\u0113kuunt\u0113\u0113n choo l\u0113\u0113 20\nwuun\u014d kw\u0113\u0113n ny\u0113p\u014d mooriin\nwuun\u014d saang\u2019 ny\u0113p\u014d \u0113\u0113ruun\u0113kuuk\n/K\u0113\u0113wuun kukaraam ku /kee-ir nee?\nN\u0113\u0113 koo keenam keey kim\u0113\u0113w\u0101riisy\u014d, wuun\u014d kipaat \u0113\u0113ruun\u0113kuuk kukaraam nk\u014d\u014d s\u0101puni\nN\u0113\u0113 muuk\u0113\u0113 ku meenam mp\u014d saang\u2019 ny\u0113p\u014d kiyoon\u0113\u0113 /kituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut\nng\u2019ul\nKuutyaan nyoo \u0101puuy k\u014dr\u014d\u014dy kin\u0101r\u0113y nk\u014d\u014d or ny\u0113p\u014d kir nyoo /kituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut n\u0113\u0113 /kuulaak kil\u014d\u014dwiit\nN\u0113\u0113 nur kipaat kir nyoo /kituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut iwiirta. Kimeelaak kiyoon\u0113\u0113 kisiir p\u0113r\u0113\u0113tuu akoong\u2019o!\nP\u0101yiisy\u0113\u0113r\u0113\u0113 kiichiik\u014d paani ich\u0101r\u0113y \u0101miisy\u014d\nNy\u0113p\u014d laakwee\nNy\u0113p\u014d apoo\nNy\u0113p\u014d maama\nM\u0101r\u0113y kuting\u2019\u0113y :chiich aka t\u014dk\u014dl t\u014dwuleenyiin\nKimaaramta \u0101miisy\u014d, tukun choo /ki-\u0101miisy\u0113\u0113r\u0113\u0113 nk\u014d\u014d t\u014dwul\u014d\nM\u0113\u0113muuk\u0113y :chiich kutiing\u2019o keey kipkong\u2019 tokoch mp\u014d nt\u0101 kuutyam\nN\u0113\u0113 muuk\u0113\u0113, ip\u0101yiisy\u0113\u0113r\u0113\u0113 kipkong\u2019 nyoo m\u0101 \u0113\u0113r paani iyoot\u0113y akiik\u0101r\u0113y kurkat.\nKaaw\npaani k\u0113\u0113ch\u014d\u014dn\u0113\u0113 w\u014dloo chaang\u2019 piich\nKitoom\u014d a-am kir aka t\u014dk\u014dl\nWuun\u014d \u0113\u0113ruun\u0113kuuk saayit aka t\u014dk\u014dl nk\u014d\u014d s\u0101puni\u2026\nNy\u0113p\u014d l\u0113t\ns\u0101puni\nRiip\u014d keey chiich t\u014dk\u014dl!\nRiip\u014d keey chiich t\u014dk\u014dl!\ns\u0101puni\nN\u0113\u0113 m\u0101r\u0113y is\u014dwu ng\u2019al chaa chaang\u2019 akip\u014d k\u014dr\u014d\u014dyi isooman yi\nW\u014dloo /kiny\u014d\u014drchinii ng\u2019aleek akip\u014d w\u014dloo /kiriiptooy keey k\u014dr\u014d\u014dyi\nNg\u2019aleek walak: Karaam /k\u0113\u0113riip tililin kil\u0113 w\u014dli mwooruuy :kiitapuuni \u0101mu n\u0113\u0113 kituup kuutoor\u0113t\u0113\u0113ch makuunaamta keey tung\u2019w\u014d nk\u014d\u014d k\u014dr\u014d\u014dytiin walak. Nyoolchinii nyuun /keetuupa ng\u2019aleechu p\u0113r\u0113\u0113tuus t\u014dk\u014dl mp\u014d n\u0113\u0113 moomii k\u014dr\u014d\u014dy.\nW\u014dloo /kiikiny\u014d\u014dchi ng\u2019aleechu: aku K\u0101moosiichu s\u014dm\u014dk w\u014dloo /kiikiny\u014d\u014drchi ng\u2019al\u0113\u0113chu kung\u2019eeta /k\u0113\u0113s\u014dwu akip\u014d k\u014dr\u014d\u014dyi p\u014d COVID-19 \u0101k\u014dy ku-it 28/2/2020.\ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nNg\u2019\u0101lyoont\u0113\u0113 aka: N\u0113\u0113 m\u0101r\u0113y iny\u014d\u014dru ng\u2019aleechu /kiikisir nk\u014d\u014d oor nyaa nyumnyum iw\u014d yi: https://gumroad.com/weimankowart\nN\u0113\u0113 m\u0101r\u0113y yoochii piich walak: Ng\u2019aleechu /kiikisir nk\u014d\u014d oor nyaa nyumnyum /k\u0113\u0113yoochinii piich kil\u0113\u0113n kupunuun\u014d online, Whatsapp nk\u014d\u014d Telegram /ak\u0113\u0113muuk\u0113y /k\u0113\u0113ng\u2019usu /akeepeel kichaang\u2019iit kil\u0113\u0113n sik\u0113\u0113t\u014d t\u0113\u0113nk\u014d /ak\u0113\u0113n\u0113\u0113tiisy\u0113\u0113r\u014d nk\u014d\u014d kaaw, skul nk\u014d\u014d kaapkaasi.\nPaani im\u0101r\u0113y yoochi piih walak kim\u0113\u0113ruuty\u0113\u0113r\u0113\u0113 ng\u2019aleechu s\u014dm\u014dk:\ufeff1) Kim\u0113\u0113t\u0101si ng\u2019\u0101lyoon nyoo ng\u2019ul\u0113y ng\u2019aleechu n\u0113\u0113 m\u0101r\u0113y iyoochi piich walak.\u00a0 \ufeff2) Ng\u2019aleechu /kiikisir nk\u014d\u014d oor nyaa nyumnyum ku m\u0101 p\u014d mung\u2019aara.\u00a0 3) N\u0113\u0113 ng\u2019usu ng\u2019aleechu nk\u014d\u014d yoom\u0113t imwaa kil\u0113 kiisir\u0113y @weimankowart nta imwaarta kil\u0113 /kiny\u014d\u014drchinii instagram com/weimankow\nN\u0113\u0113 m\u0101r\u0113y ip\u0101yiisy\u0113\u0113r\u0113\u0113 nk\u014d\u014d oor aka t\u014dk\u014dl isoom: comicsforgood@gmail.com\nAkip\u014d k\u014dr\u014d\u014dyi p\u014d Coronavirus\n\n\nTranslated by Michael Yano, Edwin Suter, and Paul Kanda\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "eng": "About Coronavirus\n\n\n\nThere's only ONE thing \ufeffyou need to understand about how a coronavirus\nSPREADS\nMouth\nNose\nEyes\nGet into your\nHealthy Person\nSick Person\nThe virus spreads when \ufeffthese droplets\nKeep your distance.\ufeff2m will keep you safe from large droplets.\n1\n2m\nAchoo!\nSo if you see someone who is visibly coughing/sneezing/sick you can choose to:\nGive them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby.\n2\nThank you\ufeff*sniffles*\nOR,\nMaybe she's not sick, just protecting herself\nPeople who are infected can show no symptoms, but are still\ufeffinfectious\nAnd in general, it's a good idea to avoid crowds, because you don't know who might be sick.\nChopsticks\nHealthy person\nTrain straps\nLift buttons\nTissues\nCups\nDigital devices\n& even on the outside of your face mask\nStair bannisters\nMouse\nPens\nDoor knobs\nTheir hands\nHowever, sometimes a sick person's saliva can get on other things\u2026\nyou might all fall sick.\nor your loved one's face\nrub eyes\nAnd if you do touch any of these things by accident, and then touch your face,\nand the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.\nViruses can last for quite a few hours on objects,\nsoap\nprecautions\nWhich is why it is also good to follow these\nwash with soap up to here\nsoap\nelbow\nDo not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.\nEnough time to sing \u201cHappy Birthday\u201d twice\nunder the nails\nfor 20 seconds\nbetween the fingers\nwash the back of your hands\nWhat is thoroughly?\nIf you did, don't worry. Just wash your hands with soap after.\nAlso, don't touch the outside of the mask if you can.\ndroplets\n*Bacteria grows on the insides of your mask if you wear them too long\nThrow away masks once they feel gross. Don't wear them for more than a day!\nUse a serving spoon\nBaby\nDaddy\nMommy\nEveryone gets their own towel\nDo not share food, utensils, cups, towels.\nYou can't touch your face with your elbow even if you tried\nOpen & close doors with your elbows or shoulders instead of hands, if possible.\nHome\nand after being out in the public\nBefore you eat\nAlways wash your hands with soap\u2026\nAnd finally,\nsoap\nStay safe, everyone!\nStay safe, everyone!\nsoap\nRead the articles for more tips!\nMain references for medical info:\nAdditional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com\nAbout Coronavirus\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "enb",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Bible Translation and Literacy, Kenya",
+    "country": "Kenya",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "UKpPE7x7SQ"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "enb": "Marakwet",
+        "es": "Spanish"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Kim\u0113\u0113t\u0101si ng\u2019\u0101lyoon nyoo ng\u2019ul\u0113y ng\u2019aleechu, w\u014dloo nyuun imuuk\u0113y iwal nk\u014d\u014d kuutiing\u2019uung\u2019 akiiyooyt\u014d nk\u014d\u014d oortin choo ng\u2019ul\u0113y\u2019w\u014dloo nyuun kimee-alta. Kim\u0113\u0113-\u0101p ng\u2019aleechu kul\u0113ku chookuuk. Mwooruu kil\u0113 kiisir\u0113y Weiman Kou.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "Akip\u014d k\u014dr\u014d\u014dyi p\u014d Coronavirus",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

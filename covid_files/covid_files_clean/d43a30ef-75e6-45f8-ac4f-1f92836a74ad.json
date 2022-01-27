@@ -1,0 +1,399 @@
+{
+    "allTitles": "{\"bbk\":\"\u018fny\u0289\u0300 a wu di\u02bci k\u0268 bi\u02bci kwa\u02bca ghen\u0259 a v\u0259 dza\u0300\u014b n\u0259\u0300 kolonavalus l\u0259 ko\nCOVID-19\",\"en\":\"What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\",\"fr\":\"Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\"}",
+    "author": null,
+    "bookInstanceId": "d43a30ef-75e6-45f8-ac4f-1f92836a74ad",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,4797e2a5-bc4f-48a0-b988-e10ff8deb4bc,5ac3444b-2397-4a3e-ac07-9e4aeaf757b4",
+    "bookSamples": {
+        "0": {
+            "bbk": "\u018fny\u0289\u0300 a wu di\u02bci k\u0268 bi\u02bci kwa\u02bca ghen\u0259 a v\u0259 dza\u0300\u014b n\u0259\u0300 kolonavalus l\u0259 ko\nCOVID-19",
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19",
+            "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19"
+        },
+        "1": {
+            "bbk": "",
+            "eng": ""
+        },
+        "2": {
+            "bbk": "",
+            "eng": "Cameroon Association for\nBible Translation and Literacy"
+        },
+        "3": {
+            "bbk": "",
+            "eng": ""
+        },
+        "4": {
+            "bbk": "\u018fny\u0289\u0300 a wu di\u02bci k\u0268 bi\u02bci kwa\u02bca ghen\u0259 a v\u0259 dza\u0300\u014b n\u0259\u0300 kolonavalus l\u0259 ko\nCOVID-19",
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19",
+            "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19"
+        },
+        "5": {
+            "bbk": "",
+            "eng": "The information in this booklet is taken\nfrom the\nWorld Health Organization (WHO)\nwebsite.\nhttps://www.who.int/home"
+        },
+        "6": {
+            "bbk": "",
+            "eng": ""
+        },
+        "7": {
+            "bbk": "",
+            "eng": ""
+        },
+        "8": {
+            "bbk": "",
+            "eng": "All pictures belong to CABTAL, except\np.2 belongs to Pixabay\np.6 (butcher) and p.7 (crowd) belong to Wikimedia Commons\np.7 (people watching TV) belongs to United Nations (Photo # 616869 UN Photo/Marco Dormino)\n\nContacts CABTAL\n\nWeb : www.cabtal.org\nMail : info_cabtal@cabtal.org\n\nTel : (237) 699 833 535\nWhatsApp : (237) 654 439 659\n\nB.P. : 16 550 Yaound\u00e9, Cameroun"
+        },
+        "9": {
+            "bbk": "",
+            "eng": ""
+        },
+        "10": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "11": {
+            "bbk": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 T\u0289 ny\u0289\u0300 a v\u0259 di\u02bci a \u014bwa\u0300\u02bcl\u0259 ghen",
+            "eng": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY",
+            "fra": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE"
+        },
+        "12": {
+            "bbk": "- Kolonavalus\n- Nkyi vi\u02bci a kwa\u02bca ghen \u0259 zi gh\u0259 gha\u02bc v\u0259wen\u0259\n- Nchwi shis\u0259\n- Ji kolona dya\u0300\u014b\u0259 fa tsu\n- Ji tu\u02bcm\u0259 n\u0259\u0300 wen\u0259 wu fa tsu\n- Kolona koo w\u025b\u0300 e\u0301 w\u025b n\u025b\u025by gh\u025b?\n",
+            "eng": "- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n",
+            "fra": "- Coronavirus\n- Personnes vuln\u00e9rables\n- Sympto\u0302mes\n- Transmission du coronavirus\n- Comment se prot\u00e9ger?\n- Que faire en cas de contamination?\n- D\u00e9finition des mots difficiles"
+        },
+        "13": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "14": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "15": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "16": {
+            "bbk": "p.2\np.3\n\np.4\np.5\np.6\np.8\n",
+            "eng": "p.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8",
+            "fra": "p.2\np.3\np.4\np.5\np.6\np.7\np.8"
+        },
+        "17": {
+            "bbk": "Kwa\u02bca kolonavalus a v\u0259 dza\u014b n\u0259\u0300 COVID_19, adi\u02bci kwa\u02bca figh\u0259 a v\u0259 nzi\u0300t\u0259 yen a lo\u02bco China a\u00a0 m\u0259tsi nju mu\u0300\u02bc a mewum\u0259 nta\u02bca sa\u014b shwayn a ngw\u0289\u02bc\u0289\u00a0 2019. Nchwis\u0259 kwa\u02bca sense di\u02bci a ji b\u0289 ali\u0300 mu gh\u0259 zi\u0300 gh\u0259 zhwi a zh\u0289\u0300 a gh\u0259 tos\u0259. Gh\u0259 dya\u014bt\u0259 li a t\u0259lo\u02bc no t\u0259gho\u02bco a mbi she\u0300n. V\u0259 ko t\u0268m\u0259 k\u0268 kefo a k\u0259 ku kwa\u02bca ghen\u0259.",
+            "eng": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+            "fra": "Le coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue."
+        },
+        "18": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "19": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "20": {
+            "bbk": "K\u0259ly\u0268\u014b k\u0259 wi\u02bc",
+            "eng": "Elderly person",
+            "fra": "Personne \u00e2g\u00e9e"
+        },
+        "21": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "22": {
+            "bbk": "Wi\u02bc a gh\u0259 ki\u02bci ty\u0268m \u0259 zaf\u0259 gh\u0259",
+            "eng": "Person with a heart condition or disease",
+            "fra": "Personne cardiaque ou souffrant de maladie"
+        },
+        "23": {
+            "bbk": "Nkyi vi\u02bci a kwa\u02bca ghen \u0259 zi gh\u0259 gha\u02bc v\u0259wen\u0259\n\nKwa\u02bca figh\u0259 ghen\u0259 gha\u02bca vi\u02bc v\u0259 tok\u0259v\u0259, n\u0259\u0300 mbvo\u02bco wi\u02bc n\u0259 vwondy\u0259. Vi\u02bci a v\u0259 s\u0259 di\u02bc a k\u0259ly\u0268\u014b be\u0300n\u0259\u0300 vi\u02bci a v\u0259 s\u0259 ki t\u0259kwa\u02bca a t\u0259 s\u0259 zhu\u014bs\u0259 v\u0259wen\u0259 di\u02bci n\u0259\u0300 k\u0259kes\u0259 k\u0259to k\u0259, dabetis ty\u0268m \u0259 zaf\u0259 gh\u0259 be\u0300n\u0259\u0300 m\u0259lyu\u014b m\u0259 ku\u02bcu m\u0259\u0300. Alen vi\u02bci kwa\u02bca ghen zi gh\u0259 zhu\u014bs\u0259 v\u0259wen\u0259 no nanto.\n",
+            "eng": "Vulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+            "fra": "Personnes vuln\u00e9rables\nLes personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus."
+        },
+        "24": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "25": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "26": {
+            "bbk": "Fiba\u0300 n\u0259 k\u0259t\u0289 k\u0259l\u0268ml\u0259k\u0259\nWen\u0259\u0300 zhwem\u0259 ghe",
+            "eng": "Fever\nFatigue",
+            "fra": "- Fi\u00e8vre\n- Fatigue"
+        },
+        "27": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "28": {
+            "bbk": "Kekes\u0259 ke z\u0268mk\u0259\nZhwu\u014b wen\u0259 zaf\u0259 gh\u0259",
+            "eng": "Dry cough\nMuscle aches and pains",
+            "fra": "- Toux s\u00e8che\n- Douleurs musculaires"
+        },
+        "29": {
+            "bbk": "Nchwi shis\u0259\n\nNcwis\u0259 kwa\u02bca kolna sens\u0259 di\u02bci to n\u0259\u0300 \u0259b\u0289, fiba, k\u0259kes\u0259 k\u0259 z\u0268mk\u0259 \u0259zhu\u014b wen\u0259 zaf\u0259 gh\u0259 be\u0300n\u0259\u0300 wen\u0259 zhwem\u0259 gh\u0259. A vi\u02bci v\u0259tsev\u0259 a kwa\u02bca ghen\u0259 gha\u02bc li v\u0259wen\u0259 v\u0259wen\u0259 zh\u0289 kezaf, alwi vewen\u0259 be shwink\u0259. alwi v\u0259wen\u0259 be dyan\u0259, t\u0259be\u0300m t\u0259 v\u0259wen\u0259 t\u0259 be tsu\u02bcu. Ali ad\u02bci a vi\u02bci v\u0259tsen\u0259v\u0259 gh\u0259 ko di\u02bci a v\u0259wen\u0259 a t\u0259wen.\u00a0V\u0259wen\u0259 di\u02bc to nka\u0300yn gh\u0259 gha\u02bca\u00a0 vi\u02bci v\u0259tsen\u0259v\u0259 v\u0259wen\u0259 ne\u0300 to ko ndi\u02bci v\u0259wene k\u0268 li.",
+            "eng": "Symptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+            "fra": "Les sympto\u0302mes\nLes sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier."
+        },
+        "30": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "31": {
+            "bbk": "Wi\u02bc a gh\u0259 kes\u0259\u0300",
+            "eng": "Person with a cough",
+            "fra": "Personne qui tousse"
+        },
+        "32": {
+            "bbk": "Ji kolona dya\u0300\u014b\u0259 fa tsu\n\nGh\u0259 dya\u0300\u014b\u0259 fa vi\u02bci a v\u0259 s\u0259 ki\u02bc kwa\u02bca ghen\u0259. Adi\u02bc a zh\u0289 a wi\u02bc a gh\u0259 ki\u02bci kwa\u02bca ghen\u0259 chom ko kes\u0259 ghe sak\u0259 \u0259 kwen a wu ch\u0289\u0300 mu ghe mu dya\u0300\u014b. S\u0259tsen wi\u02bc kum kefo a k\u0259 yi sak\u0259 tsu \u0259 b\u0259\u0300 kum ch\u0289\u0300 wen ko a wen alwi ko ash\u0268 gh\u0259 dya\u0300\u014b.\n",
+            "eng": "Transmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+            "fra": "Transmission du coronavirus\nLe COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e."
+        },
+        "33": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "34": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "35": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "36": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "37": {
+            "bbk": "Ji tu\u02bcm\u0259 n\u0259\u0300 wen\u0259 wu fa tsu",
+            "eng": "How to protect yourself",
+            "fra": "Comment se prot\u00e9ger ?"
+        },
+        "38": {
+            "bbk": "1. K\u0259 a nza\u014bs\u0259 kums\u0259 alwi wu n\u0259 ash\u0268 wu ben\u0259\u0300 ch\u0289 wu.",
+            "eng": "1. Avoid touching eyes, nose, mouth.",
+            "fra": "1. Eviter de se toucher les yeux, le nez, la bouche."
+        },
+        "39": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "40": {
+            "bbk": "2. Nsh\u0289 avu ghu no menzh\u0289\u0300 ntse\u0300m n\u0259\u0300 k\u0259ki k\u0259 n\u0259 mu m\u0259 wet\u0259m\u0259 be\u0300 tse\u0300\u02bce n\u0259 ndis\u0259 layn\u0259 s\u0259.",
+            "eng": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel.",
+            "fra": "2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre."
+        },
+        "41": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "42": {
+            "bbk": "3. Wu nk\u0259 chom wu chi\u02bct\u0259 \u0259 ch\u0289 wu n\u0259 nges \u0259 kwo\u014b wu.",
+            "eng": "3. Cough and sneeze into the crook of your arm.\n",
+            "fra": "3. Tousser et \u00e9ternuer dans le creux de son bras."
+        },
+        "43": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "44": {
+            "bbk": "4. K\u0259 a mpfi\u02bci nya\u0300m a v\u0259 ko pf\u0259\u0300 a nka\u0300yn. K\u0259 a ndem\u0259 n\u0259 nyamse a s\u0259 je\u0300\u02bce.",
+            "eng": "4. Avoid eating raw meat and touching live animals.",
+            "fra": "4. Eviter de manger de la viande crue et de toucher des animaux vivants."
+        },
+        "45": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "46": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "47": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "48": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "49": {
+            "bbk": "5. Nku k\u0259 za\u02bc fa wi\u02bc a gh\u0259 k\u0259s\u0259 be chom\u0259 \u0259 za\u02bca a ntam \u0259 mpfen.\n",
+            "eng": "5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n",
+            "fra": "5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue."
+        },
+        "50": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "51": {
+            "bbk": "6. K\u0259 be a nto\u014bt\u0259 wi\u02bc n\u0259\u0300 k\u0259vu k\u0259. \u018fn\u0259s\u0259 to\u0300 k\u0259vu ko wu to\u014bt\u0259 to\u0300 n\u0259\u0300 ch\u0289.\n",
+            "eng": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting.",
+            "fra": "6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale."
+        },
+        "52": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "53": {
+            "bbk": "7. K\u0259 be\u0300 a nd\u0289\u0300 a shi\u00a0 k\u0259zhu\u0300\u014b.",
+            "eng": "7. Avoid gatherings.\n",
+            "fra": "7. Eviter les rassemblements."
+        },
+        "54": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "55": {
+            "bbk": "8. K\u0259 be a nje\u0300\u02bce nanto.\n",
+            "eng": "8. Restrict movement.",
+            "fra": "8. Limiter ses d\u00e9placements."
+        },
+        "56": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "57": {
+            "bbk": "9. S\u0259 tsen wu zh\u0289 k\u0259ny\u0289\u0300 wu tu\u02bct\u0259 kyit\u0259 no a nka\u0300yn.\n",
+            "eng": "9. Keep informed and verify the source of information.",
+            "fra": "9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations."
+        },
+        "58": {
+            "bbk": "Adi\u02bc gho a wu zi wu\u0300 ne\u0300 a zh\u0289 kawa\u02bca ghen\u0259 gha\u02bc li wu\u0300 a?\n\n-K\u0259 be mbo\u02bcs\u0259 vi\u02bci\n-\u018f\u014bw\u0289\u02bc to\u0300 a ng\u0259\u0300\u014b.\n-Dza\u014b\u0259 numba ghe\u0300n 1510 andi docta sh\u0259\u02bct\u0259 k\u0259ny\u0289\u0300 wu a ne\u0300:",
+            "eng": "What to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+            "fra": "Que faire en cas de contamination ?\nSi vous pr\u00e9sentez des sympto\u0302mes :\n- Evitez les contacts avec d'autres personnes. - Restez \u00e0 domicile.\n- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :"
+        },
+        "59": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "60": {
+            "bbk": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n",
+            "eng": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979",
+            "fra": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713 979"
+        },
+        "61": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "62": {
+            "bbk": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761",
+            "eng": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761",
+            "fra": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113 761"
+        },
+        "63": {
+            "bbk": "",
+            "eng": "",
+            "fra": ""
+        },
+        "64": {
+            "bbk": "\u018fza\u02bca fa luwen v\u0259 ko t\u0259m\u0259 zi v\u0259 ch\u0289\u02bc kolona ali \u0259 t\u0289t\u0289 bo k\u0259\u014b\u0259 la v\u0259 v\u0259 le zi v\u0259 ki\u02bci k\u0259f\u0289 kyi lo.\n\nNo ndo di\u02bci tu\u02bcm\u0259 la gh\u0259 ne\u0300 ny\u0289\u0300 vyi a v\u0259 zi\u02bci a \u014bwa\u0300\u02bcl\u0259\u0300 a she\u0300n.\n",
+            "eng": "To date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them.",
+            "fra": "A ce jour, il n'existe aucun m\u00e9dicament capable de gu\u00e9rir du COVID-19 mais les autorit\u00e9s continuent les recherches pour trouver un traitement adapt\u00e9.\nChacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage."
+        },
+        "65": {
+            "bbk": "",
+            "eng": "Definition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed",
+            "fra": "D\u00e9finition des mots difficiles\n\nAsthme : maladie respiratoire chronique\nConsignes : ordres, recommandations\nDiab\u00e8te : maladie qui se caract\u00e9rise par un taux de sucre trop \u00e9lev\u00e9 dans le sang\nEcoulement nasal : avoir le nez qui coule\nEtre contamin\u00e9 : e\u0302tre atteint par la maladie\nGrippe : maladie, rhume\nHypertension : augmentation anormale de la pression du sang sur la paroi des art\u00e8res\nInfect\u00e9 : atteint par la maladie\nInfection : maladie, \u00e9pid\u00e9mie\nPatient : malade\nPersistant : permanent, constant, continu\nSusceptible : capable, sensible\nSympto\u0302mes : signes, marques de la maladie\nTraitement : rem\u00e8de, m\u00e9dicaments\nVirus : agent causant la maladie\nVuln\u00e9rable : faible, \u00e0 risque"
+        },
+        "66": {
+            "bbk": "",
+            "eng": ""
+        },
+        "67": {
+            "bbk": "",
+            "eng": "\u018fny\u0289\u0300 a wu di\u02bci k\u0268 bi\u02bci kwa\u02bca ghen\u0259 a v\u0259 dza\u0300\u014b n\u0259\u0300 kolonavalus l\u0259 ko\nCOVID-19\n\n\u00a9 CABTAL, 2020\n"
+        }
+    },
+    "bookText": {
+        "bbk": "\u018fny\u0289\u0300 a wu di\u02bci k\u0268 bi\u02bci kwa\u02bca ghen\u0259 a v\u0259 dza\u0300\u014b n\u0259\u0300 kolonavalus l\u0259 ko\nCOVID-19\n\n\n\n\u018fny\u0289\u0300 a wu di\u02bci k\u0268 bi\u02bci kwa\u02bca ghen\u0259 a v\u0259 dza\u0300\u014b n\u0259\u0300 kolonavalus l\u0259 ko\nCOVID-19\n\n\n\n\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 T\u0289 ny\u0289\u0300 a v\u0259 di\u02bci a \u014bwa\u0300\u02bcl\u0259 ghen\n- Kolonavalus\n- Nkyi vi\u02bci a kwa\u02bca ghen \u0259 zi gh\u0259 gha\u02bc v\u0259wen\u0259\n- Nchwi shis\u0259\n- Ji kolona dya\u0300\u014b\u0259 fa tsu\n- Ji tu\u02bcm\u0259 n\u0259\u0300 wen\u0259 wu fa tsu\n- Kolona koo w\u025b\u0300 e\u0301 w\u025b n\u025b\u025by gh\u025b?\n\n\n\n\np.2\np.3\n\np.4\np.5\np.6\np.8\n\nKwa\u02bca kolonavalus a v\u0259 dza\u014b n\u0259\u0300 COVID_19, adi\u02bci kwa\u02bca figh\u0259 a v\u0259 nzi\u0300t\u0259 yen a lo\u02bco China a\u00a0 m\u0259tsi nju mu\u0300\u02bc a mewum\u0259 nta\u02bca sa\u014b shwayn a ngw\u0289\u02bc\u0289\u00a0 2019. Nchwis\u0259 kwa\u02bca sense di\u02bci a ji b\u0289 ali\u0300 mu gh\u0259 zi\u0300 gh\u0259 zhwi a zh\u0289\u0300 a gh\u0259 tos\u0259. Gh\u0259 dya\u014bt\u0259 li a t\u0259lo\u02bc no t\u0259gho\u02bco a mbi she\u0300n. V\u0259 ko t\u0268m\u0259 k\u0268 kefo a k\u0259 ku kwa\u02bca ghen\u0259.\n\n\nK\u0259ly\u0268\u014b k\u0259 wi\u02bc\n\nWi\u02bc a gh\u0259 ki\u02bci ty\u0268m \u0259 zaf\u0259 gh\u0259\nNkyi vi\u02bci a kwa\u02bca ghen \u0259 zi gh\u0259 gha\u02bc v\u0259wen\u0259\n\nKwa\u02bca figh\u0259 ghen\u0259 gha\u02bca vi\u02bc v\u0259 tok\u0259v\u0259, n\u0259\u0300 mbvo\u02bco wi\u02bc n\u0259 vwondy\u0259. Vi\u02bci a v\u0259 s\u0259 di\u02bc a k\u0259ly\u0268\u014b be\u0300n\u0259\u0300 vi\u02bci a v\u0259 s\u0259 ki t\u0259kwa\u02bca a t\u0259 s\u0259 zhu\u014bs\u0259 v\u0259wen\u0259 di\u02bci n\u0259\u0300 k\u0259kes\u0259 k\u0259to k\u0259, dabetis ty\u0268m \u0259 zaf\u0259 gh\u0259 be\u0300n\u0259\u0300 m\u0259lyu\u014b m\u0259 ku\u02bcu m\u0259\u0300. Alen vi\u02bci kwa\u02bca ghen zi gh\u0259 zhu\u014bs\u0259 v\u0259wen\u0259 no nanto.\n\n\n\nFiba\u0300 n\u0259 k\u0259t\u0289 k\u0259l\u0268ml\u0259k\u0259\nWen\u0259\u0300 zhwem\u0259 ghe\n\nKekes\u0259 ke z\u0268mk\u0259\nZhwu\u014b wen\u0259 zaf\u0259 gh\u0259\nNchwi shis\u0259\n\nNcwis\u0259 kwa\u02bca kolna sens\u0259 di\u02bci to n\u0259\u0300 \u0259b\u0289, fiba, k\u0259kes\u0259 k\u0259 z\u0268mk\u0259 \u0259zhu\u014b wen\u0259 zaf\u0259 gh\u0259 be\u0300n\u0259\u0300 wen\u0259 zhwem\u0259 gh\u0259. A vi\u02bci v\u0259tsev\u0259 a kwa\u02bca ghen\u0259 gha\u02bc li v\u0259wen\u0259 v\u0259wen\u0259 zh\u0289 kezaf, alwi vewen\u0259 be shwink\u0259. alwi v\u0259wen\u0259 be dyan\u0259, t\u0259be\u0300m t\u0259 v\u0259wen\u0259 t\u0259 be tsu\u02bcu. Ali ad\u02bci a vi\u02bci v\u0259tsen\u0259v\u0259 gh\u0259 ko di\u02bci a v\u0259wen\u0259 a t\u0259wen.\u00a0V\u0259wen\u0259 di\u02bc to nka\u0300yn gh\u0259 gha\u02bca\u00a0 vi\u02bci v\u0259tsen\u0259v\u0259 v\u0259wen\u0259 ne\u0300 to ko ndi\u02bci v\u0259wene k\u0268 li.\n\nWi\u02bc a gh\u0259 kes\u0259\u0300\nJi kolona dya\u0300\u014b\u0259 fa tsu\n\nGh\u0259 dya\u0300\u014b\u0259 fa vi\u02bci a v\u0259 s\u0259 ki\u02bc kwa\u02bca ghen\u0259. Adi\u02bc a zh\u0289 a wi\u02bc a gh\u0259 ki\u02bci kwa\u02bca ghen\u0259 chom ko kes\u0259 ghe sak\u0259 \u0259 kwen a wu ch\u0289\u0300 mu ghe mu dya\u0300\u014b. S\u0259tsen wi\u02bc kum kefo a k\u0259 yi sak\u0259 tsu \u0259 b\u0259\u0300 kum ch\u0289\u0300 wen ko a wen alwi ko ash\u0268 gh\u0259 dya\u0300\u014b.\n\n\n\n\n\nJi tu\u02bcm\u0259 n\u0259\u0300 wen\u0259 wu fa tsu\n1. K\u0259 a nza\u014bs\u0259 kums\u0259 alwi wu n\u0259 ash\u0268 wu ben\u0259\u0300 ch\u0289 wu.\n\n2. Nsh\u0289 avu ghu no menzh\u0289\u0300 ntse\u0300m n\u0259\u0300 k\u0259ki k\u0259 n\u0259 mu m\u0259 wet\u0259m\u0259 be\u0300 tse\u0300\u02bce n\u0259 ndis\u0259 layn\u0259 s\u0259.\n\n3. Wu nk\u0259 chom wu chi\u02bct\u0259 \u0259 ch\u0289 wu n\u0259 nges \u0259 kwo\u014b wu.\n\n4. K\u0259 a mpfi\u02bci nya\u0300m a v\u0259 ko pf\u0259\u0300 a nka\u0300yn. K\u0259 a ndem\u0259 n\u0259 nyamse a s\u0259 je\u0300\u02bce.\n\n\n\n\n5. Nku k\u0259 za\u02bc fa wi\u02bc a gh\u0259 k\u0259s\u0259 be chom\u0259 \u0259 za\u02bca a ntam \u0259 mpfen.\n\n\n6. K\u0259 be a nto\u014bt\u0259 wi\u02bc n\u0259\u0300 k\u0259vu k\u0259. \u018fn\u0259s\u0259 to\u0300 k\u0259vu ko wu to\u014bt\u0259 to\u0300 n\u0259\u0300 ch\u0289.\n\n\n7. K\u0259 be\u0300 a nd\u0289\u0300 a shi\u00a0 k\u0259zhu\u0300\u014b.\n\n8. K\u0259 be a nje\u0300\u02bce nanto.\n\n\n9. S\u0259 tsen wu zh\u0289 k\u0259ny\u0289\u0300 wu tu\u02bct\u0259 kyit\u0259 no a nka\u0300yn.\n\nAdi\u02bc gho a wu zi wu\u0300 ne\u0300 a zh\u0289 kawa\u02bca ghen\u0259 gha\u02bc li wu\u0300 a?\n\n-K\u0259 be mbo\u02bcs\u0259 vi\u02bci\n-\u018f\u014bw\u0289\u02bc to\u0300 a ng\u0259\u0300\u014b.\n-Dza\u014b\u0259 numba ghe\u0300n 1510 andi docta sh\u0259\u02bct\u0259 k\u0259ny\u0289\u0300 wu a ne\u0300:\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\n\u018fza\u02bca fa luwen v\u0259 ko t\u0259m\u0259 zi v\u0259 ch\u0289\u02bc kolona ali \u0259 t\u0289t\u0289 bo k\u0259\u014b\u0259 la v\u0259 v\u0259 le zi v\u0259 ki\u02bci k\u0259f\u0289 kyi lo.\n\nNo ndo di\u02bci tu\u02bcm\u0259 la gh\u0259 ne\u0300 ny\u0289\u0300 vyi a v\u0259 zi\u02bci a \u014bwa\u0300\u02bcl\u0259\u0300 a she\u0300n.\n\n\n\n",
+        "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\n\nCameroon Association for\nBible Translation and Literacy\n\nWhat you need to know about the\nCORONAVIRUS\nor\nCOVID-19\nThe information in this booklet is taken\nfrom the\nWorld Health Organization (WHO)\nwebsite.\nhttps://www.who.int/home\n\n\nAll pictures belong to CABTAL, except\np.2 belongs to Pixabay\np.6 (butcher) and p.7 (crowd) belong to Wikimedia Commons\np.7 (people watching TV) belongs to United Nations (Photo # 616869 UN Photo/Marco Dormino)\n\nContacts CABTAL\n\nWeb : www.cabtal.org\nMail : info_cabtal@cabtal.org\n\nTel : (237) 699 833 535\nWhatsApp : (237) 654 439 659\n\nB.P. : 16 550 Yaound\u00e9, Cameroun\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY\n- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n\n\n\n\np.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8\nCoronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.\n\n\nElderly person\n\nPerson with a heart condition or disease\nVulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.\n\n\nFever\nFatigue\n\nDry cough\nMuscle aches and pains\nSymptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.\n\nPerson with a cough\nTransmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.\n\n\n\n\nHow to protect yourself\n1. Avoid touching eyes, nose, mouth.\n\n2. Wash your hands frequently with soap and running water. Then dry them with a clean towel.\n\n3. Cough and sneeze into the crook of your arm.\n\n\n4. Avoid eating raw meat and touching live animals.\n\n\n\n\n5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n\n\n6. Avoid shaking hands. Greet each other with a nod or a verbal greeting.\n\n7. Avoid gatherings.\n\n\n8. Restrict movement.\n\n9. Keep informed and verify the source of information.\nWhat to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\nTo date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them.\nDefinition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed\n\n\u018fny\u0289\u0300 a wu di\u02bci k\u0268 bi\u02bci kwa\u02bca ghen\u0259 a v\u0259 dza\u0300\u014b n\u0259\u0300 kolonavalus l\u0259 ko\nCOVID-19\n\n\u00a9 CABTAL, 2020\n",
+        "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\n\n\n\nCe que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\n\n\n\n\n\n\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE\n- Coronavirus\n- Personnes vuln\u00e9rables\n- Sympto\u0302mes\n- Transmission du coronavirus\n- Comment se prot\u00e9ger?\n- Que faire en cas de contamination?\n- D\u00e9finition des mots difficiles\n\n\n\np.2\np.3\np.4\np.5\np.6\np.7\np.8\nLe coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.\n\n\nPersonne \u00e2g\u00e9e\n\nPersonne cardiaque ou souffrant de maladie\nPersonnes vuln\u00e9rables\nLes personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.\n\n\n- Fi\u00e8vre\n- Fatigue\n\n- Toux s\u00e8che\n- Douleurs musculaires\nLes sympto\u0302mes\nLes sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.\n\nPersonne qui tousse\nTransmission du coronavirus\nLe COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.\n\n\n\n\nComment se prot\u00e9ger ?\n1. Eviter de se toucher les yeux, le nez, la bouche.\n\n2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.\n\n3. Tousser et \u00e9ternuer dans le creux de son bras.\n\n4. Eviter de manger de la viande crue et de toucher des animaux vivants.\n\n\n\n\n5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.\n\n6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.\n\n7. Eviter les rassemblements.\n\n8. Limiter ses d\u00e9placements.\n\n9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.\nQue faire en cas de contamination ?\nSi vous pr\u00e9sentez des sympto\u0302mes :\n- Evitez les contacts avec d'autres personnes. - Restez \u00e0 domicile.\n- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713 979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113 761\n\nA ce jour, il n'existe aucun m\u00e9dicament capable de gu\u00e9rir du COVID-19 mais les autorit\u00e9s continuent les recherches pour trouver un traitement adapt\u00e9.\nChacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage.\nD\u00e9finition des mots difficiles\n\nAsthme : maladie respiratoire chronique\nConsignes : ordres, recommandations\nDiab\u00e8te : maladie qui se caract\u00e9rise par un taux de sucre trop \u00e9lev\u00e9 dans le sang\nEcoulement nasal : avoir le nez qui coule\nEtre contamin\u00e9 : e\u0302tre atteint par la maladie\nGrippe : maladie, rhume\nHypertension : augmentation anormale de la pression du sang sur la paroi des art\u00e8res\nInfect\u00e9 : atteint par la maladie\nInfection : maladie, \u00e9pid\u00e9mie\nPatient : malade\nPersistant : permanent, constant, continu\nSusceptible : capable, sensible\nSympto\u0302mes : signes, marques de la maladie\nTraitement : rem\u00e8de, m\u00e9dicaments\nVirus : agent causant la maladie\nVuln\u00e9rable : faible, \u00e0 risque\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "fra",
+        "bbk",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, CABTAL",
+    "country": "Cameroon",
+    "credits": "\r\nAll pictures belong to CABTAL, except\r\np.2 belongs to Pixabay\r\np.6 (butcher) and p.7 (crowd) belong to Wikimedia Commons\r\np.7 (people watching TV) belongs to United Nations (Photo # 616869 UN Photo/Marco Dormino)\r\n\r\nContacts CABTAL\r\n\r\nWeb : www.cabtal.org\r\nMail : info_cabtal@cabtal.org\r\n\r\nTel : (237) 699 833 535\r\nWhatsApp : (237) 654 439 659\r\n\r\nB.P. : 16 550 Yaound\u00e9, Cameroun",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "lJgsdzrTc4"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "ouiCHJbOSk"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "bbk": "Babanki language",
+        "en": "English",
+        "es": "Spanish",
+        "fr": "fran\u00e7ais"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "page-number-style": "Decimal",
+    "pageCount": 15,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Coronavirus COVID-19",
+    "tags": [],
+    "title": "\u018fny\u0289\u0300 a wu di\u02bci k\u0268 bi\u02bci kwa\u02bca ghen\u0259 a v\u0259 dza\u0300\u014b n\u0259\u0300 kolonavalus l\u0259 ko\nCOVID-19",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

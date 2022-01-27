@@ -1,0 +1,442 @@
+{
+    "allTitles": "{\"dug\":\"Dzulu ya virusi vya K\u2019orona\",\"en\":\"About Coronavirus\"}",
+    "author": null,
+    "bookInstanceId": "7095f0cf-fd18-440e-8f21-26010fd74655",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+    "bookSamples": {
+        "0": {
+            "dug": "Dzulu ya virusi vya K\u2019orona",
+            "eng": "About Coronavirus",
+            "ind": ""
+        },
+        "1": {
+            "dug": "",
+            "eng": ""
+        },
+        "2": {
+            "dug": "Translated by Lilian Nyanje, Samuel Zaka & Hamisi Askari",
+            "eng": ""
+        },
+        "3": {
+            "dug": "",
+            "eng": ""
+        },
+        "4": {
+            "dug": "Kuna chit\u2019u CHIMWENGA tu uhenzwacho uchimanye dzulu ya jisi chirusi cha k\u2019orona",
+            "eng": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+        },
+        "5": {
+            "dug": "CHIGOT\u2019AVYO",
+            "eng": "SPREADS"
+        },
+        "6": {
+            "dug": "Mulomoni",
+            "eng": "Mouth"
+        },
+        "7": {
+            "dug": "P\u2019ulani",
+            "eng": "Nose"
+        },
+        "8": {
+            "dug": "Matsoni",
+            "eng": "Eyes"
+        },
+        "9": {
+            "dug": "Gaphenya",
+            "eng": "Get into your"
+        },
+        "10": {
+            "dug": "Mut\u2019u ariye ni muzima",
+            "eng": "Healthy Person"
+        },
+        "11": {
+            "dug": "Mut\u2019u mukongo\nGaphenya\n",
+            "eng": "Sick Person"
+        },
+        "12": {
+            "dug": "Cho chirusi chinagot\u2019a chikala madenwa gaga",
+            "eng": "The virus spreads when \ufeffthese droplets"
+        },
+        "13": {
+            "dug": "Fyalaluka k\u2019anda. Mita 2 zinaidima kukwika salama kulaa kwa madenwa mabomu.",
+            "eng": "Keep your distance.\ufeff2m to 0.5m will keep you safe from large droplets."
+        },
+        "14": {
+            "dug": "1",
+            "eng": "1"
+        },
+        "15": {
+            "dug": "Mita 2",
+            "eng": "2m-0.5m"
+        },
+        "16": {
+            "dug": "Hech\u2019ii!",
+            "eng": "Achoo!"
+        },
+        "17": {
+            "dug": "Kwa vivyo uchona mut\u2019u lwazu-lwazu unakohola/ unach\u2019emula/ni mukongo unaidima kutsagula ku:",
+            "eng": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+        },
+        "18": {
+            "dug": "Aphe vitambaa vya kufunga p\u2019ula na mulomo/masiki. Anaidima kukoholera hebu akach\u2019emulira na kurinda chila mut\u2019u ariye phephi",
+            "eng": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby"
+        },
+        "19": {
+            "dug": "2",
+            "eng": "2"
+        },
+        "20": {
+            "dug": "Mumvera\n*kuch\u2019emula*",
+            "eng": "Thank you\ufeff*sniffles*"
+        },
+        "21": {
+            "dug": "HEBU",
+            "eng": "OR,"
+        },
+        "22": {
+            "dug": "Phanjine hata ts\u2019i mukongo, ela mwenye yunadzirinda tu.",
+            "eng": "Maybe she's not sick, just protecting herself"
+        },
+        "23": {
+            "dug": "At\u2019u odziambukizwa anaidima kuts\u2019aonyesa dalili, ela acheri anaambukiza",
+            "eng": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+        },
+        "24": {
+            "dug": "Na kwa jumula, ni azo idzo kudzitenga na virundu, kwa kukala k\u2019umanya ni ani ariye ni mukongo.",
+            "eng": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+        },
+        "25": {
+            "dug": "",
+            "eng": "chopsticks"
+        },
+        "26": {
+            "dug": "Mut\u2019u yets\u2019ikala mukongo.",
+            "eng": "Healthy person"
+        },
+        "27": {
+            "dug": "Mikowa kahi za gari ya moshi",
+            "eng": "Train straps"
+        },
+        "28": {
+            "dug": "Vidude vya kufyeha vya mashine ya kupandira na kutsererera gorofani",
+            "eng": "Lift buttons"
+        },
+        "29": {
+            "dug": "Makodza ga chooni",
+            "eng": "Tissues"
+        },
+        "30": {
+            "dug": "Vikombe",
+            "eng": "Cups"
+        },
+        "31": {
+            "dug": "Vifaa vya chidijitali",
+            "eng": "Digital devices"
+        },
+        "32": {
+            "dug": "na hata konze ya masikiyo",
+            "eng": "& even on the outside of your face mask"
+        },
+        "33": {
+            "dug": "Mut\u2019u mwa kugwirira ngazini",
+            "eng": "Stair bannisters"
+        },
+        "34": {
+            "dug": "Chidude cha komupyuta",
+            "eng": "Mouse"
+        },
+        "35": {
+            "dug": "K\u2019alamu",
+            "eng": "Pens"
+        },
+        "36": {
+            "dug": "Vigwarya vya miyango",
+            "eng": "Door knobs"
+        },
+        "37": {
+            "dug": "Mikono yao",
+            "eng": "Their hands"
+        },
+        "38": {
+            "dug": "Hata vivyo, ukati unjine mahe ga mut\u2019u mukongo ganaidima kugwerera vit\u2019u vinjine\u2026",
+            "eng": "However, sometimes a sick person's saliva can get on other things\u2026"
+        },
+        "39": {
+            "dug": "mosi munaidima kukala akongo",
+            "eng": "you might all fall sick."
+        },
+        "40": {
+            "dug": "hebu uso wa umuhenzaye",
+            "eng": "or your loved one's face"
+        },
+        "41": {
+            "dug": "ufikitse matso",
+            "eng": "rub eyes"
+        },
+        "42": {
+            "dug": "Na uchigwira zani chit\u2019u chochosi kati ya vivi, chidzako ukumbe usoo,",
+            "eng": "And if you do touch any of these things by accident, and then touch your face,"
+        },
+        "43": {
+            "dug": "na njira ya tende ya kuvyusa ni kuvyoga na sabuni, jik\u2019i, hebu uchi.",
+            "eng": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+        },
+        "44": {
+            "dug": "Virusi vinaidima kukala kwa masaa machache dzulu ya vit\u2019u",
+            "eng": "Viruses can last for quite a few hours on objects,"
+        },
+        "45": {
+            "dug": "Sabuni",
+            "eng": "soap"
+        },
+        "46": {
+            "dug": "Mizizo",
+            "eng": "precautions"
+        },
+        "47": {
+            "dug": "Ndo mana ni vidzo piya kutuwa yiyi",
+            "eng": "Which is why it is also good to follow these"
+        },
+        "48": {
+            "dug": "oga na sabuni muhadi hipha",
+            "eng": "wash with soap up to here"
+        },
+        "49": {
+            "dug": "Sabuni",
+            "eng": "soap"
+        },
+        "50": {
+            "dug": "Chikokorito",
+            "eng": "elbow"
+        },
+        "51": {
+            "dug": "Uts\u2019ikumbe usoo. (Hebu uso wa munzio.) Ichikala ni seti ukumbe, oga mikonoyo na sabuni chividzo kwanza.",
+            "eng": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+        },
+        "52": {
+            "dug": "Ukati wa kutosha wa kwimba, \u201cTs\u2019iku ya raha ya kuvyalwa\u201d k\u2019ano mbiri",
+            "eng": "Enough time to sing \u201cHappy Birthday\u201d twice"
+        },
+        "53": {
+            "dug": "ts\u2019ini ya k\u2019ombe",
+            "eng": "under the nails"
+        },
+        "54": {
+            "dug": "kwa sekunde 20",
+            "eng": "for 20 seconds"
+        },
+        "55": {
+            "dug": "Kati-kati ya vyala",
+            "eng": "between the fingers"
+        },
+        "56": {
+            "dug": "oga nyuma ya mikonoyo",
+            "eng": "wash the back of your hands"
+        },
+        "57": {
+            "dug": "Chividzo nini?",
+            "eng": "What is thoroughly?"
+        },
+        "58": {
+            "dug": "Uchikala udzikumba, uts\u2019ijali. We chidzako oga mikonoyo na sabuni.",
+            "eng": "If you did, don't worry. Just wash your hands with soap after."
+        },
+        "59": {
+            "dug": "Chisha, uts\u2019ikumbe konze ya masiki ichikala vindaidimikika.",
+            "eng": "Also, don't touch the outside of the mask if you can."
+        },
+        "60": {
+            "dug": "madenwa",
+            "eng": "droplets"
+        },
+        "61": {
+            "dug": "Vidudu vinakula ndani ya masikiyo uchikala undazivala muno.",
+            "eng": "*Bacteria grows on the insides of your mask if you wear them too long"
+        },
+        "62": {
+            "dug": "Tsupha vitambaa vya kufunga p\u2019ula na mulomo/masiki uchisikira zitsoka. Uts\u2019izivale zaidi ya ts\u2019iku mwenga!",
+            "eng": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+        },
+        "63": {
+            "dug": "Humira chikasi",
+            "eng": "Use a serving spoon"
+        },
+        "64": {
+            "dug": "Mwanache",
+            "eng": "Baby"
+        },
+        "65": {
+            "dug": "Baba",
+            "eng": "Daddy"
+        },
+        "66": {
+            "dug": "Mayo",
+            "eng": "Mommy"
+        },
+        "67": {
+            "dug": "Chila mut\u2019u ahumire tauloye.",
+            "eng": "Everyone gets their own towel"
+        },
+        "68": {
+            "dug": "Uts\u2019irye leu phamwenga na at\u2019u, hebu mukats\u2019anganya viya, vikombe hebu t\u2019aulo.",
+            "eng": "Do not share food, utensils, cups, towels."
+        },
+        "69": {
+            "dug": "Kw\u2019idima kukumba usoo na chikokorito hata ukakala wajeza.",
+            "eng": "You can't touch your face with your elbow even if you tried"
+        },
+        "70": {
+            "dug": "Fugula na kufunga muyango na chikokorito hebu mafuzi kurichisa mikono pharipho yinaidimikika.",
+            "eng": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+        },
+        "71": {
+            "dug": "Mudzini",
+            "eng": "Home"
+        },
+        "72": {
+            "dug": "",
+            "eng": "and after being out in the public"
+        },
+        "73": {
+            "dug": "Phots\u2019i kurya",
+            "eng": "Before you eat"
+        },
+        "74": {
+            "dug": "Chila ukati oga mikonoyo na sabuni\u2026",
+            "eng": "Always wash your hands with soap\u2026"
+        },
+        "75": {
+            "dug": "Na kumarigiza,",
+            "eng": "And finally,"
+        },
+        "76": {
+            "dug": "Sabuni",
+            "eng": "soap"
+        },
+        "77": {
+            "dug": "Kalani salama, chila mut\u2019u!",
+            "eng": "Stay safe, everyone!"
+        },
+        "78": {
+            "dug": "Kalani salama, chila mut\u2019u!",
+            "eng": "Stay safe, everyone!"
+        },
+        "79": {
+            "dug": "Sabuni",
+            "eng": "soap"
+        },
+        "80": {
+            "dug": "Soma vitabumajarida kwa utumia unji Zaidi!",
+            "eng": "Read the articles for more tips!"
+        },
+        "81": {
+            "dug": "1.\u00a0\u00a0\u00a0\u00a0 \u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n",
+            "eng": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "dug": "1.\u00a0\u00a0\u00a0\u00a0 \u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report.\u00a0 (Jan 25, 2020)\n",
+            "eng": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+        },
+        "83": {
+            "dug": "1.\u00a0\u00a0\u00a0\u00a0 \u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion.\u00a0 (Jan 28,2020)\n",
+            "eng": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020"
+        },
+        "84": {
+            "dug": "Wiidimao kwauzira enye hasa dzulu ya udzumbe wa chiafya:",
+            "eng": "Main references for medical info:"
+        },
+        "85": {
+            "dug": "Additional notes: Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences: lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \u00a0https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation A PDF version of the comic is available for free download here: https://gumroad.com/weimankowart\u00a0\nSharing Guidelines This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: 1) No edits to the comics is allowed in any way when sharing. 2) Comics cannot be used for any commercial project 3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\nFor all other uses, please send a request in to: comicsforgood@gmail.com",
+            "eng": "Additional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVI 019 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-1O\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+        },
+        "86": {
+            "dug": "Dzulu ya virusi vya K\u2019orona",
+            "eng": "About Coronavirus",
+            "ind": ""
+        },
+        "87": {
+            "dug": "",
+            "eng": ""
+        },
+        "88": {
+            "dug": "",
+            "eng": "Translated by Lilian Nyanje, Samuel Zaka & Hamisi Askari: Bible Translation & Literacy, E.A"
+        },
+        "89": {
+            "dug": "",
+            "eng": ""
+        },
+        "90": {
+            "dug": "",
+            "eng": "Created by Weiman Kow, instagram: weimankow"
+        },
+        "91": {
+            "dug": "",
+            "eng": ""
+        },
+        "92": {
+            "dug": "",
+            "eng": ""
+        },
+        "93": {
+            "dug": "",
+            "eng": ""
+        },
+        "94": {
+            "dug": "",
+            "eng": ""
+        }
+    },
+    "bookText": {
+        "dug": "Dzulu ya virusi vya K\u2019orona\n\nTranslated by Lilian Nyanje, Samuel Zaka & Hamisi Askari\n\nKuna chit\u2019u CHIMWENGA tu uhenzwacho uchimanye dzulu ya jisi chirusi cha k\u2019orona\nCHIGOT\u2019AVYO\nMulomoni\nP\u2019ulani\nMatsoni\nGaphenya\nMut\u2019u ariye ni muzima\nMut\u2019u mukongo\nGaphenya\n\nCho chirusi chinagot\u2019a chikala madenwa gaga\nFyalaluka k\u2019anda. Mita 2 zinaidima kukwika salama kulaa kwa madenwa mabomu.\n1\nMita 2\nHech\u2019ii!\nKwa vivyo uchona mut\u2019u lwazu-lwazu unakohola/ unach\u2019emula/ni mukongo unaidima kutsagula ku:\nAphe vitambaa vya kufunga p\u2019ula na mulomo/masiki. Anaidima kukoholera hebu akach\u2019emulira na kurinda chila mut\u2019u ariye phephi\n2\nMumvera\n*kuch\u2019emula*\nHEBU\nPhanjine hata ts\u2019i mukongo, ela mwenye yunadzirinda tu.\nAt\u2019u odziambukizwa anaidima kuts\u2019aonyesa dalili, ela acheri anaambukiza\nNa kwa jumula, ni azo idzo kudzitenga na virundu, kwa kukala k\u2019umanya ni ani ariye ni mukongo.\n\nMut\u2019u yets\u2019ikala mukongo.\nMikowa kahi za gari ya moshi\nVidude vya kufyeha vya mashine ya kupandira na kutsererera gorofani\nMakodza ga chooni\nVikombe\nVifaa vya chidijitali\nna hata konze ya masikiyo\nMut\u2019u mwa kugwirira ngazini\nChidude cha komupyuta\nK\u2019alamu\nVigwarya vya miyango\nMikono yao\nHata vivyo, ukati unjine mahe ga mut\u2019u mukongo ganaidima kugwerera vit\u2019u vinjine\u2026\nmosi munaidima kukala akongo\nhebu uso wa umuhenzaye\nufikitse matso\nNa uchigwira zani chit\u2019u chochosi kati ya vivi, chidzako ukumbe usoo,\nna njira ya tende ya kuvyusa ni kuvyoga na sabuni, jik\u2019i, hebu uchi.\nVirusi vinaidima kukala kwa masaa machache dzulu ya vit\u2019u\nSabuni\nMizizo\nNdo mana ni vidzo piya kutuwa yiyi\noga na sabuni muhadi hipha\nSabuni\nChikokorito\nUts\u2019ikumbe usoo. (Hebu uso wa munzio.) Ichikala ni seti ukumbe, oga mikonoyo na sabuni chividzo kwanza.\nUkati wa kutosha wa kwimba, \u201cTs\u2019iku ya raha ya kuvyalwa\u201d k\u2019ano mbiri\nts\u2019ini ya k\u2019ombe\nkwa sekunde 20\nKati-kati ya vyala\noga nyuma ya mikonoyo\nChividzo nini?\nUchikala udzikumba, uts\u2019ijali. We chidzako oga mikonoyo na sabuni.\nChisha, uts\u2019ikumbe konze ya masiki ichikala vindaidimikika.\nmadenwa\nVidudu vinakula ndani ya masikiyo uchikala undazivala muno.\nTsupha vitambaa vya kufunga p\u2019ula na mulomo/masiki uchisikira zitsoka. Uts\u2019izivale zaidi ya ts\u2019iku mwenga!\nHumira chikasi\nMwanache\nBaba\nMayo\nChila mut\u2019u ahumire tauloye.\nUts\u2019irye leu phamwenga na at\u2019u, hebu mukats\u2019anganya viya, vikombe hebu t\u2019aulo.\nKw\u2019idima kukumba usoo na chikokorito hata ukakala wajeza.\nFugula na kufunga muyango na chikokorito hebu mafuzi kurichisa mikono pharipho yinaidimikika.\nMudzini\n\nPhots\u2019i kurya\nChila ukati oga mikonoyo na sabuni\u2026\nNa kumarigiza,\nSabuni\nKalani salama, chila mut\u2019u!\nKalani salama, chila mut\u2019u!\nSabuni\nSoma vitabumajarida kwa utumia unji Zaidi!\n1.\u00a0\u00a0\u00a0\u00a0 \u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\n1.\u00a0\u00a0\u00a0\u00a0 \u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report.\u00a0 (Jan 25, 2020)\n\n1.\u00a0\u00a0\u00a0\u00a0 \u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion.\u00a0 (Jan 28,2020)\n\nWiidimao kwauzira enye hasa dzulu ya udzumbe wa chiafya:\nAdditional notes: Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences: lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \u00a0https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation A PDF version of the comic is available for free download here: https://gumroad.com/weimankowart\u00a0\nSharing Guidelines This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: 1) No edits to the comics is allowed in any way when sharing. 2) Comics cannot be used for any commercial project 3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\nFor all other uses, please send a request in to: comicsforgood@gmail.com\nDzulu ya virusi vya K\u2019orona\n\n\n\n\n\n\n\n",
+        "eng": "About Coronavirus\n\n\n\nThere's only ONE thing \ufeffyou need to understand about how a coronavirus\nSPREADS\nMouth\nNose\nEyes\nGet into your\nHealthy Person\nSick Person\nThe virus spreads when \ufeffthese droplets\nKeep your distance.\ufeff2m to 0.5m will keep you safe from large droplets.\n1\n2m-0.5m\nAchoo!\nSo if you see someone who is visibly coughing/sneezing/sick you can choose to:\nGive them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby\n2\nThank you\ufeff*sniffles*\nOR,\nMaybe she's not sick, just protecting herself\nPeople who are infected can show no symptoms, but are still\ufeffinfectious\nAnd in general, it's a good idea to avoid crowds, because you don't know who might be sick.\nchopsticks\nHealthy person\nTrain straps\nLift buttons\nTissues\nCups\nDigital devices\n& even on the outside of your face mask\nStair bannisters\nMouse\nPens\nDoor knobs\nTheir hands\nHowever, sometimes a sick person's saliva can get on other things\u2026\nyou might all fall sick.\nor your loved one's face\nrub eyes\nAnd if you do touch any of these things by accident, and then touch your face,\nand the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.\nViruses can last for quite a few hours on objects,\nsoap\nprecautions\nWhich is why it is also good to follow these\nwash with soap up to here\nsoap\nelbow\nDo not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.\nEnough time to sing \u201cHappy Birthday\u201d twice\nunder the nails\nfor 20 seconds\nbetween the fingers\nwash the back of your hands\nWhat is thoroughly?\nIf you did, don't worry. Just wash your hands with soap after.\nAlso, don't touch the outside of the mask if you can.\ndroplets\n*Bacteria grows on the insides of your mask if you wear them too long\nThrow away masks once they feel gross. Don't wear them for more than a day!\nUse a serving spoon\nBaby\nDaddy\nMommy\nEveryone gets their own towel\nDo not share food, utensils, cups, towels.\nYou can't touch your face with your elbow even if you tried\nOpen & close doors with your elbows or shoulders instead of hands, if possible.\nHome\nand after being out in the public\nBefore you eat\nAlways wash your hands with soap\u2026\nAnd finally,\nsoap\nStay safe, everyone!\nStay safe, everyone!\nsoap\nRead the articles for more tips!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020\nMain references for medical info:\nAdditional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVI 019 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-1O\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com\nAbout Coronavirus\n\nTranslated by Lilian Nyanje, Samuel Zaka & Hamisi Askari: Bible Translation & Literacy, E.A\n\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "dug",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Bible Translation & Literacy E.A",
+    "country": "Kenya",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "f6MlwKDsy7"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "dug": "Chiduruma",
+        "en": "English"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "Uts\u2019igaluze udzumbe wa kazi yiyi, ela unaidima kuutafusiri, ukauhumira kwa njira zinjine, na ukaugot\u2019eza hebu kuweneza kwa lengo ra kuts\u2019auguza. Ni seti uzirinde zo haki na sifa za mwandiki wa chitabu na mwandiki wa p\u2019icha Weiman Kou",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "Dzulu ya virusi vya K\u2019orona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

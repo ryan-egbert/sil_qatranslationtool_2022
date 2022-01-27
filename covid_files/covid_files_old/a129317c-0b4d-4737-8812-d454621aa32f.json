@@ -1,0 +1,385 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "a129317c-0b4d-4737-8812-d454621aa32f",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Kugi Andi corona mendak liru mbanak",
+  "allTitles": "{\"dnw\":\"Kugi Andi corona mendak liru mbanak\",\"en\":\"About Coronavirus\",\"id\":\"Tentang Virus Corona\",\"lts\":\"Olumbe lwa Korona\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+  "downloadSource": "media@suluh.org/a129317c-0b4d-4737-8812-d454621aa32f",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kou.",
+  "copyright": "Copyright \u00a9 2020, Weiman Kow",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "dDcSMs4IM8"
+    }
+  ],
+  "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Indonesia",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "c1ceNFU299"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "lts": "Lutachoni",
+    "id": "Indonesian",
+    "dnw": "Dani, Western"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "2": {
+    "lts": "Olumbe lwa Korona",
+    "en": "About Coronavirus",
+    "dnw": "Kugi Andi corona mendak liru mbanak",
+    "id": "Tentang Virus Corona"
+  },
+  "3": {
+    "lts": "Olumbe lwa Korona",
+    "en": "About Coronavirus",
+    "dnw": "Kugi Andi corona mendak liru mbanak",
+    "id": "Tentang Virus Corona"
+  },
+  "4": {
+    "lts": "Olumbe lwa Korona",
+    "en": "About Coronavirus",
+    "dnw": "Kugi Andi corona mendak liru mbanak",
+    "id": "Tentang Virus Corona"
+  },
+  "5": {
+    "lts": "Olumbe lwa Korona",
+    "en": "About Coronavirus",
+    "dnw": "Kugi Andi corona mendak liru mbanak",
+    "id": "Tentang Virus Corona"
+  },
+  "13": {
+    "dnw": "Iyalok Lombok kugi andi corona nogo nano paga wiganage megerak kinenu arinuk lipiyak"
+  },
+  "14": {
+    "dnw": ""
+  },
+  "15": {
+    "dnw": "Inambe pagga"
+  },
+  "16": {
+    "dnw": "Inogobak pagga"
+  },
+  "17": {
+    "dnw": "Inegen pagga"
+  },
+  "18": {
+    "dnw": ""
+  },
+  "19": {
+    "dnw": ""
+  },
+  "20": {
+    "dnw": ""
+  },
+  "21": {
+    "dnw": "Kugi andi wiganariyak nogo ambi ninolagi amburu yagatuk wakwi paga"
+  },
+  "22": {
+    "dnw": "Tayorogon mban logorak. Yagatuk wakwi inolagi tegetogon kinoba age keero Kinebe 2m tayo yeromongotak \u00a0paga kinagap ndakolamugup. \u00a0"
+  },
+  "23": {
+    "dnw": "1"
+  },
+  "24": {
+    "dnw": "2m-0,5m"
+  },
+  "25": {
+    "dnw": ""
+  },
+  "26": {
+    "dnw": "Ndi, kit kinegen akumi ambi kondok yogwe/yagatuk wakwi/ambi andi inoba keenok:"
+  },
+  "27": {
+    "dnw": "Tinuk it yagatuk wakwi/ kondok yugwi eremenggarak nogo akumii ambi inom wonogwe inoba age kero inagap ndarogo"
+  },
+  "28": {
+    "dnw": "2"
+  },
+  "29": {
+    "dnw": ""
+  },
+  "30": {
+    "dnw": "ATTA"
+  },
+  "31": {
+    "dnw": "App tii nogo Andi oba lek. Ata at ebe agap ndakolorak paga oba ngarenggolange.\u00a0"
+  },
+  "32": {
+    "dnw": ""
+  },
+  "33": {
+    "dnw": ""
+  },
+  "34": {
+    "dnw": ""
+  },
+  "35": {
+    "dnw": ""
+  },
+  "36": {
+    "dnw": "Keluwi mbutimanggen \u00a0nginum wurik paga"
+  },
+  "37": {
+    "dnw": "Tuu lagangga inenggi tobengwi paga"
+  },
+  "38": {
+    "dnw": "Inamburu mbangga paga"
+  },
+  "39": {
+    "dnw": ""
+  },
+  "40": {
+    "dnw": ""
+  },
+  "41": {
+    "dnw": "Inete paga nabeka ambokam pangwe kunduk"
+  },
+  "42": {
+    "dnw": ""
+  },
+  "43": {
+    "dnw": ""
+  },
+  "44": {
+    "dnw": ""
+  },
+  "45": {
+    "dnw": ""
+  },
+  "46": {
+    "dnw": ""
+  },
+  "47": {
+    "dnw": "Togop kagak kwe, akumi andi inolagamburu nabenariyak endak nogo ambi"
+  },
+  "48": {
+    "dnw": "kiit abok aret andi ekinabiyak endak."
+  },
+  "49": {
+    "dnw": ""
+  },
+  "50": {
+    "dnw": ""
+  },
+  "51": {
+    "dnw": ""
+  },
+  "52": {
+    "dnw": "iyalok Lombok kugi andi wage wapaturak nogo, ninengi toop paga mondok koriyak."
+  },
+  "53": {
+    "dnw": "Kugi andi nogo nabenak iriga kalega paga kagak onegen kuben nen oo\u2019 kibariyak kulli."
+  },
+  "54": {
+    "dnw": ""
+  },
+  "55": {
+    "dnw": "wopaturak nduk nit eriyak nogo."
+  },
+  "56": {
+    "dnw": ""
+  },
+  "57": {
+    "dnw": "Kinenggi toop paga kinegoragan paga \u00a0kuli koriyak"
+  },
+  "58": {
+    "dnw": ""
+  },
+  "59": {
+    "dnw": ""
+  },
+  "60": {
+    "dnw": "Ndi ambi abu togop aret keenok. Kinenggi ndukak \u00a0toop paga mondok mbelektogon koriyak."
+  },
+  "61": {
+    "dnw": ""
+  },
+  "62": {
+    "dnw": ""
+  },
+  "63": {
+    "dnw": "Onegen wakaga liru gorek Kwak nogo 20 kuli ndan-ndandak koriyak."
+  },
+  "64": {
+    "dnw": ""
+  },
+  "65": {
+    "dnw": ""
+  },
+  "66": {
+    "dnw": "Nogop erogo kinegi mbelektogon koriyak nogo?"
+  },
+  "67": {
+    "dnw": ""
+  },
+  "68": {
+    "dnw": ""
+  },
+  "69": {
+    "dnw": ""
+  },
+  "70": {
+    "dnw": ""
+  },
+  "71": {
+    "dnw": ""
+  },
+  "72": {
+    "dnw": ""
+  },
+  "73": {
+    "dnw": ""
+  },
+  "74": {
+    "dnw": ""
+  },
+  "75": {
+    "dnw": ""
+  },
+  "76": {
+    "dnw": ""
+  },
+  "77": {
+    "dnw": ""
+  },
+  "78": {
+    "dnw": ""
+  },
+  "79": {
+    "dnw": ""
+  },
+  "80": {
+    "dnw": ""
+  },
+  "81": {
+    "dnw": ""
+  },
+  "82": {
+    "dnw": ""
+  },
+  "83": {
+    "dnw": ""
+  },
+  "84": {
+    "dnw": "Iripaga,"
+  },
+  "85": {
+    "dnw": "toop"
+  },
+  "86": {
+    "dnw": ""
+  },
+  "87": {
+    "dnw": ""
+  },
+  "88": {
+    "dnw": ""
+  },
+  "89": {
+    "dnw": "Liru mbanak wakagak ekologorak agingwe yi lirogon lipiyak"
+  },
+  "90": {
+    "dnw": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "91": {
+    "dnw": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+  },
+  "92": {
+    "dnw": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+  },
+  "93": {
+    "dnw": ""
+  },
+  "94": {
+    "dnw": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+  },
+  "97": {
+    "lts": "Olumbe lwa Korona",
+    "en": "About Coronavirus",
+    "dnw": "Kugi Andi corona mendak liru mbanak",
+    "id": "Tentang Virus Corona"
+  },
+  "98": {
+    "lts": "Olumbe lwa Korona",
+    "en": "About Coronavirus",
+    "dnw": "Kugi Andi corona mendak liru mbanak",
+    "id": "Tentang Virus Corona"
+  },
+  "99": {
+    "lts": "Olumbe lwa Korona",
+    "en": "About Coronavirus",
+    "dnw": "Kugi Andi corona mendak liru mbanak",
+    "id": "Tentang Virus Corona"
+  },
+  "100": {
+    "lts": "Olumbe lwa Korona",
+    "en": "About Coronavirus",
+    "dnw": "Kugi Andi corona mendak liru mbanak",
+    "id": "Tentang Virus Corona"
+  },
+  "106": {
+    "id": ""
+  },
+  "108": {
+    "id": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam bahasa daerah : www.suluh.org"
+  },
+  "111": {
+    "id": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

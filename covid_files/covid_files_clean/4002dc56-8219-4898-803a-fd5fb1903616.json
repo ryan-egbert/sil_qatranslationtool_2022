@@ -1,0 +1,117 @@
+{
+    "allTitles": "{\"en\":\"Avoid Covid-19\",\"ki\":\"W\u0129theme Kovid-19\",\"swh\":\"Epuka Korona\"}",
+    "author": null,
+    "bookInstanceId": "4002dc56-8219-4898-803a-fd5fb1903616",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,12b180ea-a5e9-4402-9346-4c06f5ba4177",
+    "bookSamples": {
+        "0": {
+            "eng": "Avoid Covid-19",
+            "kik": "W\u0129theme Kovid-19",
+            "swh": "Epuka Korona"
+        },
+        "1": {
+            "swh": ""
+        },
+        "2": {
+            "swh": "Timothy G. Kamau"
+        },
+        "3": {
+            "swh": ""
+        },
+        "4": {
+            "eng": "Avoid Covid-19",
+            "kik": "W\u0129theme Kovid-19",
+            "swh": "Epuka Korona"
+        },
+        "5": {
+            "swh": "Illustrations:\u00a0 Ari and Elaine Vitikainen\u00a0\n\nInformation was taken from WHO websites such as https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\n\nVersion 27.3.2020"
+        },
+        "6": {
+            "swh": "\ufeffAdvocacy and Alliance Building SIL Africa"
+        },
+        "7": {
+            "swh": ""
+        },
+        "8": {
+            "swh": ""
+        },
+        "9": {
+            "swh": ""
+        },
+        "10": {
+            "swh": "Nawa mikono yako mara nyingi ukitumia sabuni na maji, au uioshe kwa vyeuzi vilivyotengenezwa kwa kileo."
+        },
+        "11": {
+            "swh": "Epuka kujishika macho, pua ama mdomo."
+        },
+        "12": {
+            "swh": "Jizuie mdomo wako na pua kwa kisugudi au tishu unapokohoa au kwenda chafya. Tupa tishu hiyo ipasavyo punde tu baada ya kuitumia."
+        },
+        "13": {
+            "swh": "Kila mara, weka umbali usiopungua mita 2 kati yako na wengine. Epuka kufanya safari zisizokuwa muhimu na ukae mbali na umati mkubwa wa watu."
+        },
+        "14": {
+            "swh": "Kaa nyumbani iwapo wewe ni mgonjwa. Ikiwa una joto mwilini, unakohoa au unapumua kwa shida, muone dakitari haraka iwezekanavyo."
+        },
+        "15": {
+            "swh": "Jaribu kupata habari zaidi juu ya yale yanayotokea juu ya ugonjwa wa Korona. Fuata ushauri unaotolewa na maafisa wa afya."
+        },
+        "16": {
+            "swh": ""
+        },
+        "17": {
+            "swh": ""
+        }
+    },
+    "bookText": {
+        "eng": "Avoid Covid-19\n\n\n\nAvoid Covid-19\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kik": "W\u0129theme Kovid-19\n\n\n\nW\u0129theme Kovid-19\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "swh": "Epuka Korona\n\nTimothy G. Kamau\n\nEpuka Korona\nIllustrations:\u00a0 Ari and Elaine Vitikainen\u00a0\n\nInformation was taken from WHO websites such as https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\n\nVersion 27.3.2020\n\ufeffAdvocacy and Alliance Building SIL Africa\n\n\n\nNawa mikono yako mara nyingi ukitumia sabuni na maji, au uioshe kwa vyeuzi vilivyotengenezwa kwa kileo.\nEpuka kujishika macho, pua ama mdomo.\nJizuie mdomo wako na pua kwa kisugudi au tishu unapokohoa au kwenda chafya. Tupa tishu hiyo ipasavyo punde tu baada ya kuitumia.\nKila mara, weka umbali usiopungua mita 2 kati yako na wengine. Epuka kufanya safari zisizokuwa muhimu na ukae mbali na umati mkubwa wa watu.\nKaa nyumbani iwapo wewe ni mgonjwa. Ikiwa una joto mwilini, unakohoa au unapumua kwa shida, muone dakitari haraka iwezekanavyo.\nJaribu kupata habari zaidi juu ya yale yanayotokea juu ya ugonjwa wa Korona. Fuata ushauri unaotolewa na maafisa wa afya.\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "swh",
+        "kik",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Illustrations by Elaine Vitikainen https://ev-visuals.com/",
+    "country": "",
+    "credits": "",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "u5c9kqFWWi"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "Spanish",
+        "ki": "Gikuyu",
+        "swh": "Swahili"
+    },
+    "languages": [],
+    "license": "cc-by-nc",
+    "licenseNotes": "",
+    "page-number-style": "Decimal",
+    "pageCount": 12,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Basic information on how to avoid Coronavirus (Covid-19)",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Epuka Korona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

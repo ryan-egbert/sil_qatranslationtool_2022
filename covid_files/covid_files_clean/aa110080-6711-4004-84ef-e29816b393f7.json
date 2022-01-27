@@ -1,0 +1,364 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"qaa\":\"Uncerita Virus Corona\"}",
+    "author": null,
+    "bookInstanceId": "aa110080-6711-4004-84ef-e29816b393f7",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lts": "",
+            "qaa": "Uncerita Virus Corona",
+            "und": ""
+        },
+        "1": {
+            "eng": "",
+            "qaa": ""
+        },
+        "2": {
+            "eng": "",
+            "qaa": ""
+        },
+        "3": {
+            "qaa": ""
+        },
+        "4": {
+            "qaa": "Mesa tu parallu lami tandai umba nakua tu virus malele"
+        },
+        "5": {
+            "qaa": ""
+        },
+        "6": {
+            "qaa": "Puduk"
+        },
+        "7": {
+            "qaa": "Illong"
+        },
+        "8": {
+            "qaa": "Mata"
+        },
+        "9": {
+            "qaa": "Lutama"
+        },
+        "10": {
+            "qaa": "To maleke"
+        },
+        "11": {
+            "qaa": "To masaki"
+        },
+        "12": {
+            "qaa": "Virus lamalele yake narua ki tu ufalena"
+        },
+        "13": {
+            "qaa": "Jagai komu allami dio mai ti bissikna ufalena batu jagai allami dadua metere."
+        },
+        "14": {
+            "qaa": "1"
+        },
+        "15": {
+            "qaa": "2m - 0.5m"
+        },
+        "16": {
+            "qaa": "Bisa komu sikambela"
+        },
+        "17": {
+            "qaa": "Yake untiro ko'mu to toso/tassik/masaki bisa komu:"
+        },
+        "18": {
+            "qaa": "Benganni tau tu petampun puduk.\nAnna bisa toso laan petampun puduk anna bisa unjagai tau dio liu sandakna."
+        },
+        "19": {
+            "qaa": "2"
+        },
+        "20": {
+            "qaa": "Kurre sumanga"
+        },
+        "21": {
+            "qaa": "Batu,"
+        },
+        "22": {
+            "qaa": "Ambi tau iya te tae na masaki appo tu lambi unjagai kelena."
+        },
+        "23": {
+            "qaa": "Tau to mangaka naleli saba ambi ta na katiroan, apa inan tata iya la palelean."
+        },
+        "24": {
+            "qaa": "Ya mo tu ta kambelai tu kamaroa roasan saba tae ta tandai tu mena masaki."
+        },
+        "25": {
+            "qaa": "Parefa dapo"
+        },
+        "26": {
+            "qaa": "To maleke"
+        },
+        "27": {
+            "qaa": "Tofeanna kereta"
+        },
+        "28": {
+            "qaa": "Tombol lift"
+        },
+        "29": {
+            "qaa": "Pepadi"
+        },
+        "30": {
+            "qaa": "Cangkiri"
+        },
+        "31": {
+            "qaa": "Parefa gigital"
+        },
+        "32": {
+            "qaa": "Salianna petampun puduk"
+        },
+        "33": {
+            "qaa": "Tofeanna eran"
+        },
+        "34": {
+            "qaa": "Balafo"
+        },
+        "35": {
+            "qaa": "Polpen"
+        },
+        "36": {
+            "qaa": "Tofeanna ba'ba"
+        },
+        "37": {
+            "qaa": "Limanna tau"
+        },
+        "38": {
+            "qaa": "Na moi na lasusi to appotu ufai elona tau masaki lamelleke lako..."
+        },
+        "39": {
+            "qaa": "Ngasan komi bisa la masaki."
+        },
+        "40": {
+            "qaa": "Batu lindona tau siandami,"
+        },
+        "41": {
+            "qaa": "Urussa matammi"
+        },
+        "42": {
+            "qaa": "Yake tae mi sengaja uruai tu pabarang ami mane untofe lindomi kalena,"
+        },
+        "43": {
+            "qaa": "Mesari tu carana lau galai virus yamoto umbasei umpake sabung, mabusa, batu alkohol."
+        },
+        "44": {
+            "qaa": "Virus la tahan lambi dua pulo, appa jamna diong tu pabarangan"
+        },
+        "45": {
+            "qaa": "Sabung"
+        },
+        "46": {
+            "qaa": "umba nakua ulafai."
+        },
+        "47": {
+            "qaa": "Yamoto tu ta turui"
+        },
+        "48": {
+            "qaa": "Basi umpake sabung ratu langan to"
+        },
+        "49": {
+            "qaa": "Sabung"
+        },
+        "50": {
+            "qaa": "Singkungmi"
+        },
+        "51": {
+            "qaa": "Dangi mi mitofe lindomi batu lindona tau batu menna.\nYake parallu, basei barasi yolo limami umpake sabung."
+        },
+        "52": {
+            "qaa": "Susi to menani salama ulang tahun si penduan."
+        },
+        "53": {
+            "qaa": "Rampe diong kanuku"
+        },
+        "54": {
+            "qaa": "Lambi dua pulo detik"
+        },
+        "55": {
+            "qaa": "Alla rangka"
+        },
+        "56": {
+            "qaa": "Basei boko limami"
+        },
+        "57": {
+            "qaa": "Umba nakua umbasei limanta lambi barassi?"
+        },
+        "58": {
+            "qaa": "Yake mi rumbu i sa'mi mataku basei unpake sabung."
+        },
+        "59": {
+            "qaa": "Sa'mi tofei tu salianna pesampun puduk."
+        },
+        "60": {
+            "qaa": "Tibissikna ufale"
+        },
+        "61": {
+            "qaa": "Saki bisa membea lan pesampun piduk yake di pake masae maro."
+        },
+        "62": {
+            "qaa": "Tibeani tu pesampun puduk yake bureremi.\u00a0 Dangimi mi pake pesampun puduk lifa dio mai sagallo."
+        },
+        "63": {
+            "qaa": "Pakai sendok pantollo"
+        },
+        "64": {
+            "qaa": "Anak"
+        },
+        "65": {
+            "qaa": "Ambe"
+        },
+        "66": {
+            "qaa": "Indo"
+        },
+        "67": {
+            "qaa": "Pantan pake komi handukmi."
+        },
+        "68": {
+            "qaa": "Dangi mi pake sibafa kumande, piring, cangkiri anna handuk."
+        },
+        "69": {
+            "qaa": "Saba Tae na bisa unrumbu lindota umpake singkungta."
+        },
+        "70": {
+            "qaa": "Bisa komi umbukka pintu umpake singku batu kalempengmi."
+        },
+        "71": {
+            "qaa": "Banua"
+        },
+        "72": {
+            "qaa": "Ke manesulekomi dio mai salian banua"
+        },
+        "73": {
+            "qaa": "Yake la kumande"
+        },
+        "74": {
+            "qaa": "Po'pa biasai umbasei limami umpake sabung..."
+        },
+        "75": {
+            "qaa": "Tampakna,"
+        },
+        "76": {
+            "qaa": "Sabung"
+        },
+        "77": {
+            "qaa": "Jagai tu kamaleke yanmi!"
+        },
+        "78": {
+            "qaa": "Jagai tu kamaleke yanmi!"
+        },
+        "79": {
+            "qaa": "Sabung"
+        },
+        "80": {
+            "qaa": "Bacai tu umba nakua cerita rampe afo!"
+        },
+        "81": {
+            "qaa": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "qaa": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+        },
+        "83": {
+            "qaa": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion (Jan 28, 2020)"
+        },
+        "84": {
+            "qaa": "Angenan to mapakuli:"
+        },
+        "85": {
+            "qaa": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah.\nReferensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. \u00a0https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nInformasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini: https://gumroad.com/weimankowart\u00a0\nPedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja. \u00a0\nSaat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0\nUntuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lts": "",
+            "qaa": "Uncerita Virus Corona",
+            "und": ""
+        },
+        "87": {
+            "eng": "",
+            "qaa": ""
+        },
+        "88": {
+            "eng": "Diterjemahkan dalam bahasa Seko Lemo oleh David D. Tibualle",
+            "qaa": ""
+        },
+        "89": {
+            "eng": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), penerjemahan dalam bahasa daerah: https://suluh.org",
+            "qaa": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "qaa": ""
+        },
+        "91": {
+            "eng": "",
+            "qaa": ""
+        },
+        "92": {
+            "eng": "",
+            "qaa": ""
+        },
+        "93": {
+            "eng": "",
+            "qaa": ""
+        },
+        "94": {
+            "eng": "",
+            "qaa": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nDiterjemahkan dalam bahasa Seko Lemo oleh David D. Tibualle\nVersi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), penerjemahan dalam bahasa daerah: https://suluh.org\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "qaa": "Uncerita Virus Corona\n\n\n\nMesa tu parallu lami tandai umba nakua tu virus malele\n\nPuduk\nIllong\nMata\nLutama\nTo maleke\nTo masaki\nVirus lamalele yake narua ki tu ufalena\nJagai komu allami dio mai ti bissikna ufalena batu jagai allami dadua metere.\n1\n2m - 0.5m\nBisa komu sikambela\nYake untiro ko'mu to toso/tassik/masaki bisa komu:\nBenganni tau tu petampun puduk.\nAnna bisa toso laan petampun puduk anna bisa unjagai tau dio liu sandakna.\n2\nKurre sumanga\nBatu,\nAmbi tau iya te tae na masaki appo tu lambi unjagai kelena.\nTau to mangaka naleli saba ambi ta na katiroan, apa inan tata iya la palelean.\nYa mo tu ta kambelai tu kamaroa roasan saba tae ta tandai tu mena masaki.\nParefa dapo\nTo maleke\nTofeanna kereta\nTombol lift\nPepadi\nCangkiri\nParefa gigital\nSalianna petampun puduk\nTofeanna eran\nBalafo\nPolpen\nTofeanna ba'ba\nLimanna tau\nNa moi na lasusi to appotu ufai elona tau masaki lamelleke lako...\nNgasan komi bisa la masaki.\nBatu lindona tau siandami,\nUrussa matammi\nYake tae mi sengaja uruai tu pabarang ami mane untofe lindomi kalena,\nMesari tu carana lau galai virus yamoto umbasei umpake sabung, mabusa, batu alkohol.\nVirus la tahan lambi dua pulo, appa jamna diong tu pabarangan\nSabung\numba nakua ulafai.\nYamoto tu ta turui\nBasi umpake sabung ratu langan to\nSabung\nSingkungmi\nDangi mi mitofe lindomi batu lindona tau batu menna.\nYake parallu, basei barasi yolo limami umpake sabung.\nSusi to menani salama ulang tahun si penduan.\nRampe diong kanuku\nLambi dua pulo detik\nAlla rangka\nBasei boko limami\nUmba nakua umbasei limanta lambi barassi?\nYake mi rumbu i sa'mi mataku basei unpake sabung.\nSa'mi tofei tu salianna pesampun puduk.\nTibissikna ufale\nSaki bisa membea lan pesampun piduk yake di pake masae maro.\nTibeani tu pesampun puduk yake bureremi.\u00a0 Dangimi mi pake pesampun puduk lifa dio mai sagallo.\nPakai sendok pantollo\nAnak\nAmbe\nIndo\nPantan pake komi handukmi.\nDangi mi pake sibafa kumande, piring, cangkiri anna handuk.\nSaba Tae na bisa unrumbu lindota umpake singkungta.\nBisa komi umbukka pintu umpake singku batu kalempengmi.\nBanua\nKe manesulekomi dio mai salian banua\nYake la kumande\nPo'pa biasai umbasei limami umpake sabung...\nTampakna,\nSabung\nJagai tu kamaleke yanmi!\nJagai tu kamaleke yanmi!\nSabung\nBacai tu umba nakua cerita rampe afo!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion (Jan 28, 2020)\nAngenan to mapakuli:\nKeterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah.\nReferensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. \u00a0https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nInformasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini: https://gumroad.com/weimankowart\u00a0\nPedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja. \u00a0\nSaat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0\nUntuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\nUncerita Virus Corona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "qaa",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "4W4dGE9uzv"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "id": "Indonesian",
+        "lts": "Lutachoni",
+        "qaa": "Seko Lemo"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+    "originalPublisher": null,
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Uncerita Virus Corona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

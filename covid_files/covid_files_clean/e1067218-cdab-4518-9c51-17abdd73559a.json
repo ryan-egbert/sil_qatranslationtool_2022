@@ -1,0 +1,364 @@
+{
+    "allTitles": "{\"bhp\":\"Na bune si virus corona re\",\"en\":\"About Coronavirus\"}",
+    "author": null,
+    "bookInstanceId": "e1067218-cdab-4518-9c51-17abdd73559a",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+    "bookSamples": {
+        "0": {
+            "bhp": "Na bune si virus corona re",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lts": "",
+            "und": ""
+        },
+        "1": {
+            "bhp": "",
+            "ind": ""
+        },
+        "2": {
+            "bhp": "Diterjemahkan Oleh Nilahadinil Yakin",
+            "ind": ""
+        },
+        "3": {
+            "bhp": ""
+        },
+        "4": {
+            "bhp": "Wara sabua pa di bade mena ba ita doho\u00a0 bune loa kaina virus corona ake\u00a0 hina rero dou."
+        },
+        "5": {
+            "bhp": ""
+        },
+        "6": {
+            "bhp": "Asa"
+        },
+        "7": {
+            "bhp": "Ilu"
+        },
+        "8": {
+            "bhp": "Mada"
+        },
+        "9": {
+            "bhp": "Ma lu'u ta dei"
+        },
+        "10": {
+            "bhp": "Dou ma da supu"
+        },
+        "11": {
+            "bhp": "Douma supu"
+        },
+        "12": {
+            "bhp": "Virus ake ke na loa hina rero dou ba oi fela ake"
+        },
+        "13": {
+            "bhp": "Kodo'o weki. Ita doho wati wara bune na sarica deka si ba oi fela maloasi kado'o weki du'a mete."
+        },
+        "14": {
+            "bhp": "1"
+        },
+        "15": {
+            "bhp": "2m-0,5m"
+        },
+        "16": {
+            "bhp": "Haaachiii (Eli be'ni)"
+        },
+        "17": {
+            "bhp": "Ndadi, ma eda deka si douma mehe/be'ni/supu, ita doho loa :"
+        },
+        "18": {
+            "bhp": "MBEIPU DOU DOHO DI KAPU KAI ASA (MASKER)\nNdadi sedoho loa be'ni/mehe ta de'i di kapu kaina asa re lok na loa jaga dou doho ma wara ta kompena."
+        },
+        "19": {
+            "bhp": "2"
+        },
+        "20": {
+            "bhp": "\u00a0\u00a0\u00a0\u00a0\u00a0 Tarima kasi\n\"eli tonto wowa\""
+        },
+        "21": {
+            "bhp": "ATO"
+        },
+        "22": {
+            "bhp": "Kombi dou akeke wati supu na. Pala sia cuma ruu jaga weki ndaina."
+        },
+        "23": {
+            "bhp": "Douma ma waura hina ka kombi wati katada na iu au au, pala ntenep loa na ka hina aka dou supu re."
+        },
+        "24": {
+            "bhp": "Loasi re aina lao aka hidi ma ndiha kai, alumu ita doho ti bade ta cou ncau ma munga supu."
+        },
+        "25": {
+            "bhp": "Di ngaha kai"
+        },
+        "26": {
+            "bhp": "Dou ma da supu"
+        },
+        "27": {
+            "bhp": "Nenti kai kereta"
+        },
+        "28": {
+            "bhp": "Kece kai tangga ma teka ese awa"
+        },
+        "29": {
+            "bhp": "Osa kai"
+        },
+        "30": {
+            "bhp": "Di nono kai"
+        },
+        "31": {
+            "bhp": "Alat ma mai bo'u"
+        },
+        "32": {
+            "bhp": "Kone ari mai di kapu kai asa"
+        },
+        "33": {
+            "bhp": "Nenti kai ncai ma teka londo"
+        },
+        "34": {
+            "bhp": "Di' nenti kai pas hengga deka komputer"
+        },
+        "35": {
+            "bhp": "Balpoi"
+        },
+        "36": {
+            "bhp": "Nenti kai ncai"
+        },
+        "37": {
+            "bhp": "Rima dou doho\n"
+        },
+        "38": {
+            "bhp": "Konena ndede, oi fela dou ma supu re na loa pandako aka\u2026"
+        },
+        "39": {
+            "bhp": "Sara'a ita doho loa hina ba supu re."
+        },
+        "40": {
+            "bhp": "Ato pahu dou deni labo ta,"
+        },
+        "41": {
+            "bhp": "uju isi mada"
+        },
+        "42": {
+            "bhp": "Pala watisi sengaja ta hina nenti sara'a alat edere, nggori ede nenti ta pahu weki ndaita,"
+        },
+        "43": {
+            "bhp": "Sabua pa cara na ma loa poda kalao kai virus re ederu waca rima kani sabu, ka bura kai, atau alkohol."
+        },
+        "44": {
+            "bhp": "Virus ke na loa midi sampe du'a mpuru upa\u00a0 jam ese wawo alat dohore,"
+        },
+        "45": {
+            "bhp": "Sabu"
+        },
+        "46": {
+            "bhp": "ara peso na re bune awa ake ke :"
+        },
+        "47": {
+            "bhp": "Nggara ndede, tahopu batu ta"
+        },
+        "48": {
+            "bhp": "Waca kani sabu sampe ta ake wau."
+        },
+        "49": {
+            "bhp": "Sabu"
+        },
+        "50": {
+            "bhp": "Kani sumpu cihu rima"
+        },
+        "51": {
+            "bhp": "Aina nenti pahu (ato pahu douma kalai)\nNggara poda si harus di nenti, waca karaso wau pu rima ita dohore kani sabu."
+        },
+        "52": {
+            "bhp": "Bunesi munga\u00a0 rawa \"selamat ulang tahun\" du'a kali."
+        },
+        "53": {
+            "bhp": "Ta awa mai ba uhu"
+        },
+        "54": {
+            "bhp": "Sampe du'a mpuru detik"
+        },
+        "55": {
+            "bhp": "Aka niki niki rima"
+        },
+        "56": {
+            "bhp": "Waca deri/kontu rima"
+        },
+        "57": {
+            "bhp": "De bune carana waca rima sampe raso\u00a0 re?"
+        },
+        "58": {
+            "bhp": "De wausi hina nenti, aina ipi bune bune. Waca roci rima ta kani sabu."
+        },
+        "59": {
+            "bhp": "Aina nenti ta ari mai ba kapu kai ta asa re."
+        },
+        "60": {
+            "bhp": "Sarica kaiba oi fela"
+        },
+        "61": {
+            "bhp": "Bakteri re na loa ntau ana ta de'i kapu kai ta asa makani kantoi si."
+        },
+        "62": {
+            "bhp": "Pakipu ra kapu kai ta asa (masker) wausi iu ta sampuna. Ain sampe kani ta kapu kai asa re ncewi dari sanai."
+        },
+        "63": {
+            "bhp": "Ta kanipu ciru uta mbeca"
+        },
+        "64": {
+            "bhp": "Ana"
+        },
+        "65": {
+            "bhp": "Ama"
+        },
+        "66": {
+            "bhp": "Ina"
+        },
+        "67": {
+            "bhp": "Ta kanipu handu weki ndai ta."
+        },
+        "68": {
+            "bhp": "Aina kani ka sama di ngaha kai, alat di ngaha kai, gela ro osa kai sarumbu (handu)."
+        },
+        "69": {
+            "bhp": "Ita doho wati loata nenti pahu ta kani sumpu\u00a0 rima ta, coba aja ni."
+        },
+        "70": {
+            "bhp": "Loasire, hengga ato kapu ncai kani sumpu rima ato ancu."
+        },
+        "71": {
+            "bhp": "Uma"
+        },
+        "72": {
+            "bhp": "Nggori lao losa ari lua uma"
+        },
+        "73": {
+            "bhp": "Sawatib ngaha ta"
+        },
+        "74": {
+            "bhp": "Aina nefa waca rima ta kani sabu..."
+        },
+        "75": {
+            "bhp": "Cumpu kaina,"
+        },
+        "76": {
+            "bhp": "Sabu"
+        },
+        "77": {
+            "bhp": "Aina nefa jaga weki ndai ta!\n"
+        },
+        "78": {
+            "bhp": "Aina nefa jaga weki ndai ta!\n"
+        },
+        "79": {
+            "bhp": "Sabu"
+        },
+        "80": {
+            "bhp": "Baca pu info ra mbei makalai rau ta ese re!"
+        },
+        "81": {
+            "bhp": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "bhp": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+        },
+        "83": {
+            "bhp": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "bhp": "Ma paling perlu dibade ta re info medis na:"
+        },
+        "85": {
+            "bhp": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+        },
+        "86": {
+            "bhp": "Na bune si virus corona re",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lts": "",
+            "und": ""
+        },
+        "87": {
+            "bhp": "",
+            "ind": ""
+        },
+        "88": {
+            "bhp": "",
+            "ind": "Diterjemahkan dalam Bahasa Bima oleh Nilahadinil Yakin"
+        },
+        "89": {
+            "bhp": "",
+            "ind": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam bahasa daerah : www.suluh.org"
+        },
+        "90": {
+            "bhp": "",
+            "ind": "Created by Weiman Kow, instagram: weimankow"
+        },
+        "91": {
+            "bhp": "",
+            "ind": ""
+        },
+        "92": {
+            "bhp": "",
+            "ind": ""
+        },
+        "93": {
+            "bhp": "",
+            "ind": ""
+        },
+        "94": {
+            "bhp": "",
+            "ind": ""
+        }
+    },
+    "bookText": {
+        "bhp": "Na bune si virus corona re\n\nDiterjemahkan Oleh Nilahadinil Yakin\n\nWara sabua pa di bade mena ba ita doho\u00a0 bune loa kaina virus corona ake\u00a0 hina rero dou.\n\nAsa\nIlu\nMada\nMa lu'u ta dei\nDou ma da supu\nDouma supu\nVirus ake ke na loa hina rero dou ba oi fela ake\nKodo'o weki. Ita doho wati wara bune na sarica deka si ba oi fela maloasi kado'o weki du'a mete.\n1\n2m-0,5m\nHaaachiii (Eli be'ni)\nNdadi, ma eda deka si douma mehe/be'ni/supu, ita doho loa :\nMBEIPU DOU DOHO DI KAPU KAI ASA (MASKER)\nNdadi sedoho loa be'ni/mehe ta de'i di kapu kaina asa re lok na loa jaga dou doho ma wara ta kompena.\n2\n\u00a0\u00a0\u00a0\u00a0\u00a0 Tarima kasi\n\"eli tonto wowa\"\nATO\nKombi dou akeke wati supu na. Pala sia cuma ruu jaga weki ndaina.\nDouma ma waura hina ka kombi wati katada na iu au au, pala ntenep loa na ka hina aka dou supu re.\nLoasi re aina lao aka hidi ma ndiha kai, alumu ita doho ti bade ta cou ncau ma munga supu.\nDi ngaha kai\nDou ma da supu\nNenti kai kereta\nKece kai tangga ma teka ese awa\nOsa kai\nDi nono kai\nAlat ma mai bo'u\nKone ari mai di kapu kai asa\nNenti kai ncai ma teka londo\nDi' nenti kai pas hengga deka komputer\nBalpoi\nNenti kai ncai\nRima dou doho\n\nKonena ndede, oi fela dou ma supu re na loa pandako aka\u2026\nSara'a ita doho loa hina ba supu re.\nAto pahu dou deni labo ta,\nuju isi mada\nPala watisi sengaja ta hina nenti sara'a alat edere, nggori ede nenti ta pahu weki ndaita,\nSabua pa cara na ma loa poda kalao kai virus re ederu waca rima kani sabu, ka bura kai, atau alkohol.\nVirus ke na loa midi sampe du'a mpuru upa\u00a0 jam ese wawo alat dohore,\nSabu\nara peso na re bune awa ake ke :\nNggara ndede, tahopu batu ta\nWaca kani sabu sampe ta ake wau.\nSabu\nKani sumpu cihu rima\nAina nenti pahu (ato pahu douma kalai)\nNggara poda si harus di nenti, waca karaso wau pu rima ita dohore kani sabu.\nBunesi munga\u00a0 rawa \"selamat ulang tahun\" du'a kali.\nTa awa mai ba uhu\nSampe du'a mpuru detik\nAka niki niki rima\nWaca deri/kontu rima\nDe bune carana waca rima sampe raso\u00a0 re?\nDe wausi hina nenti, aina ipi bune bune. Waca roci rima ta kani sabu.\nAina nenti ta ari mai ba kapu kai ta asa re.\nSarica kaiba oi fela\nBakteri re na loa ntau ana ta de'i kapu kai ta asa makani kantoi si.\nPakipu ra kapu kai ta asa (masker) wausi iu ta sampuna. Ain sampe kani ta kapu kai asa re ncewi dari sanai.\nTa kanipu ciru uta mbeca\nAna\nAma\nIna\nTa kanipu handu weki ndai ta.\nAina kani ka sama di ngaha kai, alat di ngaha kai, gela ro osa kai sarumbu (handu).\nIta doho wati loata nenti pahu ta kani sumpu\u00a0 rima ta, coba aja ni.\nLoasire, hengga ato kapu ncai kani sumpu rima ato ancu.\nUma\nNggori lao losa ari lua uma\nSawatib ngaha ta\nAina nefa waca rima ta kani sabu...\nCumpu kaina,\nSabu\nAina nefa jaga weki ndai ta!\n\nAina nefa jaga weki ndai ta!\n\nSabu\nBaca pu info ra mbei makalai rau ta ese re!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)\nMa paling perlu dibade ta re info medis na:\nKeterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\nNa bune si virus corona re\n\n\n\n\n\n\n\n",
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\n\n\n\n\n\n\n",
+        "ind": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiterjemahkan dalam Bahasa Bima oleh Nilahadinil Yakin\nVersi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam bahasa daerah : www.suluh.org\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "eng",
+        "bhp",
+        "ind"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "WE1ZqsNoJG"
+        }
+    ],
+    "language-display-names": {
+        "bhp": "Bima",
+        "en": "English",
+        "id": "Indonesian",
+        "lts": "Lutachoni"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow. \r\n",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "Nusa Tenggara Barat",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Na bune si virus corona re",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

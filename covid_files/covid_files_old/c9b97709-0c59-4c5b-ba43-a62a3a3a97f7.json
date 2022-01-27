@@ -1,0 +1,674 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "c9b97709-0c59-4c5b-ba43-a62a3a3a97f7",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Juarez-Guatemala",
+  "folio": false,
+  "isRtl": false,
+  "title": "Li kaqi yajel",
+  "allTitles": "{\"cak\":\"Ri q'axomal nub'\u00e4n ri\nCOVI D19\",\"es\":\"Covid-19\nK'a' ru li majelal naxk'e\",\"kek\":\"Li kaqi yajel\"}",
+  "originalTitle": "Coronavirus COVID-19 S\u00edntomas",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "<p>978-9929-794-28-3</p>",
+  "bookLineage": "",
+  "downloadSource": "mixmata@mineduc.gob.gt/c9b97709-0c59-4c5b-ba43-a62a3a3a97f7",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2021, Ministerio de Educaci\u00f3n de Guatemala y USAID.",
+  "credits": "",
+  "tags": [
+    "bookshelf:Ministerio de Educaci\u00f3n de Guatemala",
+    "topic:NoTopic"
+  ],
+  "pageCount": 21,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "tE8cE6Frpn"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "T74AbT30ib"
+    }
+  ],
+  "summary": "Forma parte de la serie de libros en idiomas mayas para el cuidado y prevenci\u00f3n de contagios por coronavirus, incluye audio y preguntas de comprensi\u00f3n.",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Guatemala",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "JEZIBBMl90"
+  },
+  "tools": [],
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "talkingBook",
+    "talkingBook:kek",
+    "quiz"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "kek": "Q\u2019eqchi\u2019",
+    "es": "Spanish"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "2": {
+    "cak": "COVI D19",
+    "kek": "Li kaqi yajel",
+    "es": "K'a' ru li majelal naxk'e"
+  },
+  "3": {
+    "cak": "COVI D19",
+    "kek": "Li kaqi yajel",
+    "es": "K'a' ru li majelal naxk'e"
+  },
+  "4": {
+    "cak": "COVI D19",
+    "kek": "Li kaqi yajel",
+    "es": "K'a' ru li majelal naxk'e"
+  },
+  "5": {
+    "cak": "COVI D19",
+    "kek": "Li kaqi yajel",
+    "es": "K'a' ru li majelal naxk'e"
+  },
+  "6": {
+    "cak": "COVI D19",
+    "kek": "Li kaqi yajel",
+    "es": "K'a' ru li majelal naxk'e"
+  },
+  "7": {
+    "cak": "COVI D19",
+    "kek": "Li kaqi yajel",
+    "es": "K'a' ru li majelal naxk'e"
+  },
+  "12": {
+    "kek": "Xna'il Xjolomil li Tzolok sa' Ka'paay chi Aatinob'aal"
+  },
+  "13": {
+    "kek": "Xna'il Xjolomil li Tzolok sa' Ka'paay chi Aatinob'aal"
+  },
+  "18": {
+    "cak": "COVI D19",
+    "kek": "Li kaqi yajel",
+    "es": "K'a' ru li majelal naxk'e"
+  },
+  "19": {
+    "cak": "COVI D19",
+    "kek": "Li kaqi yajel",
+    "es": "K'a' ru li majelal naxk'e"
+  },
+  "20": {
+    "cak": "COVI D19",
+    "kek": "Li kaqi yajel",
+    "es": "K'a' ru li majelal naxk'e"
+  },
+  "21": {
+    "cak": "COVI D19",
+    "kek": "Li kaqi yajel",
+    "es": "K'a' ru li majelal naxk'e"
+  },
+  "22": {
+    "cak": "COVI D19",
+    "kek": "Li kaqi yajel",
+    "es": "K'a' ru li majelal naxk'e"
+  },
+  "23": {
+    "cak": "COVI D19",
+    "kek": "Li kaqi yajel",
+    "es": "K'a' ru li majelal naxk'e"
+  },
+  "26": {
+    "es": "Imagen en la p\u00e1gina 12: Elena Maria de Escobar, \u00a9 2020 FUDIPES. CC BY-NC-ND 4.0."
+  },
+  "29": {
+    "es": "-"
+  },
+  "31": {
+    "es": "Edici\u00f3n: Roberto Coc Caz y Hermelindo Quim."
+  },
+  "35": {
+    "kek": "978-9929-794-28-3",
+    "es": "978-9929-794-28-3"
+  },
+  "36": {
+    "kek": "978-9929-794-28-3",
+    "es": "978-9929-794-28-3"
+  },
+  "37": {
+    "kek": "",
+    "cak": ""
+  },
+  "38": {
+    "kek": "",
+    "cak": ""
+  },
+  "39": {
+    "z": "",
+    "cak": "\u00bfAchike nb'\u00e4n ri coronavirus chiqe?",
+    "kek": "B'ar wankeb' li yajel naxk'e li kaqi yajel"
+  },
+  "40": {
+    "z": "",
+    "cak": "\u00bfAchike nb'\u00e4n ri coronavirus chiqe?",
+    "kek": "B'ar wankeb' li yajel naxk'e li kaqi yajel"
+  },
+  "41": {
+    "z": "",
+    "cak": "\u00bfAchike nb'\u00e4n ri coronavirus chiqe?",
+    "kek": "B'ar wankeb' li yajel naxk'e li kaqi yajel"
+  },
+  "42": {
+    "kek": "",
+    "cak": ""
+  },
+  "43": {
+    "kek": "",
+    "cak": ""
+  },
+  "44": {
+    "z": "",
+    "cak": "Chaqi'j ojob'.",
+    "kek": "Ojb'il"
+  },
+  "45": {
+    "z": "",
+    "cak": "Chaqi'j ojob'.",
+    "kek": "Ojb'il"
+  },
+  "46": {
+    "z": "",
+    "cak": "Chaqi'j ojob'.",
+    "kek": "Ojb'il"
+  },
+  "47": {
+    "kek": "",
+    "cak": ""
+  },
+  "48": {
+    "kek": "",
+    "cak": ""
+  },
+  "49": {
+    "z": "",
+    "cak": "Man yatik\u00efr ta najq'aj awuxla'.",
+    "kek": "Ch'a'ajkilal re musiq'ak"
+  },
+  "50": {
+    "z": "",
+    "cak": "Man yatik\u00efr ta najq'aj awuxla'.",
+    "kek": "Ch'a'ajkilal re musiq'ak"
+  },
+  "51": {
+    "z": "",
+    "cak": "Man yatik\u00efr ta najq'aj awuxla'.",
+    "kek": "Ch'a'ajkilal re musiq'ak"
+  },
+  "52": {
+    "kek": "",
+    "cak": ""
+  },
+  "53": {
+    "kek": "",
+    "cak": ""
+  },
+  "54": {
+    "z": "",
+    "cak": "Yalan k'at\u00e4n chawij.",
+    "kek": "Tiq"
+  },
+  "55": {
+    "z": "",
+    "cak": "Yalan k'at\u00e4n chawij.",
+    "kek": "Tiq"
+  },
+  "56": {
+    "z": "",
+    "cak": "Yalan k'at\u00e4n chawij.",
+    "kek": "Tiq"
+  },
+  "57": {
+    "kek": "",
+    "cak": ""
+  },
+  "58": {
+    "kek": "",
+    "cak": ""
+  },
+  "59": {
+    "z": "",
+    "cak": "Yalan kat\u00e4n chawij.",
+    "kek": "Tiq"
+  },
+  "60": {
+    "z": "",
+    "cak": "Yalan kat\u00e4n chawij.",
+    "kek": "Tiq"
+  },
+  "61": {
+    "z": "",
+    "cak": "Yalan kat\u00e4n chawij.",
+    "kek": "Tiq"
+  },
+  "62": {
+    "kek": "",
+    "cak": ""
+  },
+  "63": {
+    "kek": "",
+    "cak": ""
+  },
+  "64": {
+    "z": "",
+    "cak": "Nuya' k'at\u00e4n chuqa tew chawij.",
+    "kek": "Ke"
+  },
+  "65": {
+    "z": "",
+    "cak": "Nuya' k'at\u00e4n chuqa tew chawij.",
+    "kek": "Ke"
+  },
+  "66": {
+    "z": "",
+    "cak": "Nuya' k'at\u00e4n chuqa tew chawij.",
+    "kek": "Ke"
+  },
+  "67": {
+    "kek": "",
+    "cak": ""
+  },
+  "68": {
+    "kek": "",
+    "cak": ""
+  },
+  "69": {
+    "z": "",
+    "cak": "Nq'axo' ri ach'akul.",
+    "kek": "Rahil tib'elej"
+  },
+  "70": {
+    "z": "",
+    "cak": "Nq'axo' ri ach'akul.",
+    "kek": "Rahil tib'elej"
+  },
+  "71": {
+    "z": "",
+    "cak": "Nq'axo' ri ach'akul.",
+    "kek": "Rahil tib'elej"
+  },
+  "72": {
+    "kek": "",
+    "cak": ""
+  },
+  "73": {
+    "kek": "",
+    "cak": ""
+  },
+  "74": {
+    "z": "",
+    "cak": "Nq'axo' ri ajolom.",
+    "kek": "Rahil jolomej"
+  },
+  "75": {
+    "z": "",
+    "cak": "Nq'axo' ri ajolom.",
+    "kek": "Rahil jolomej"
+  },
+  "76": {
+    "z": "",
+    "cak": "Nq'axo' ri ajolom.",
+    "kek": "Rahil jolomej"
+  },
+  "77": {
+    "kek": "",
+    "cak": ""
+  },
+  "78": {
+    "kek": "",
+    "cak": ""
+  },
+  "79": {
+    "z": "",
+    "cak": "Nqa'xo' ri aqul.",
+    "kek": "Rahil sa' kuxej"
+  },
+  "80": {
+    "z": "",
+    "cak": "Nqa'xo' ri aqul.",
+    "kek": "Rahil sa' kuxej"
+  },
+  "81": {
+    "z": "",
+    "cak": "Nqa'xo' ri aqul.",
+    "kek": "Rahil sa' kuxej"
+  },
+  "82": {
+    "kek": "",
+    "cak": ""
+  },
+  "83": {
+    "kek": "",
+    "cak": ""
+  },
+  "84": {
+    "z": "",
+    "cak": "Man jun chik nas\u00ebq.",
+    "kek": "Ink'a' chik tat-utz'u'q"
+  },
+  "85": {
+    "z": "",
+    "cak": "Man jun chik nas\u00ebq.",
+    "kek": "Ink'a' chik tat-utz'u'q"
+  },
+  "86": {
+    "z": "",
+    "cak": "Man jun chik nas\u00ebq.",
+    "kek": "Ink'a' chik tat-utz'u'q"
+  },
+  "87": {
+    "kek": "",
+    "cak": ""
+  },
+  "88": {
+    "kek": "",
+    "cak": ""
+  },
+  "89": {
+    "z": "",
+    "cak": "Man jun nrajo' natij.",
+    "kek": "Ink'a' chik taaweek'a xsahil li tzekahemq"
+  },
+  "90": {
+    "z": "",
+    "cak": "Man jun nrajo' natij.",
+    "kek": "Ink'a' chik taaweek'a xsahil li tzekahemq"
+  },
+  "91": {
+    "z": "",
+    "cak": "Man jun nrajo' natij.",
+    "kek": "Ink'a' chik taaweek'a xsahil li tzekahemq"
+  },
+  "92": {
+    "cak": "Totojtob'enik",
+    "kek": "Il maa xa taw ru"
+  },
+  "93": {
+    "cak": "Totojtob'enik",
+    "kek": "Il maa xa taw ru"
+  },
+  "94": {
+    "z": "",
+    "kek": "K'a' ru yajel naxk'e li kaqiyajel",
+    "cak": "\u00bfAchike nub'\u00e4n ri coronavirus chiqe?"
+  },
+  "95": {
+    "z": "",
+    "kek": "K'a' ru yajel naxk'e li kaqiyajel",
+    "cak": "\u00bfAchike nub'\u00e4n ri coronavirus chiqe?"
+  },
+  "96": {
+    "z": "",
+    "kek": "K'a' ru yajel naxk'e li kaqiyajel",
+    "cak": "\u00bfAchike nub'\u00e4n ri coronavirus chiqe?"
+  },
+  "97": {
+    "z": "",
+    "kek": "Rahil oq",
+    "cak": "nuya' \u00fctz qawa'in"
+  },
+  "98": {
+    "z": "",
+    "kek": "Rahil oq",
+    "cak": "nuya' \u00fctz qawa'in"
+  },
+  "99": {
+    "z": "",
+    "kek": "Rahil oq",
+    "cak": "nuya' \u00fctz qawa'in"
+  },
+  "100": {
+    "z": "",
+    "kek": "ojb'il",
+    "cak": "nuya' k'at\u00e4n chiqij"
+  },
+  "101": {
+    "z": "",
+    "kek": "ojb'il",
+    "cak": "nuya' k'at\u00e4n chiqij"
+  },
+  "102": {
+    "z": "",
+    "kek": "ojb'il",
+    "cak": "nuya' k'at\u00e4n chiqij"
+  },
+  "103": {
+    "z": "",
+    "kek": "rahil sa' sa'ej",
+    "cak": "nuya' \u00fctz qak'aslem"
+  },
+  "104": {
+    "z": "",
+    "kek": "rahil sa' sa'ej",
+    "cak": "nuya' \u00fctz qak'aslem"
+  },
+  "105": {
+    "z": "",
+    "kek": "rahil sa' sa'ej",
+    "cak": "nuya' \u00fctz qak'aslem"
+  },
+  "106": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "107": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "108": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "109": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "110": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "111": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "112": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "113": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "114": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "115": {
+    "cak": "Totojtob'enik",
+    "kek": "Il maa xa taw ru"
+  },
+  "116": {
+    "cak": "Totojtob'enik",
+    "kek": "Il maa xa taw ru"
+  },
+  "117": {
+    "z": "",
+    "kek": "k'a' ru chi yajelil naxk'e li kaqi yajel",
+    "cak": "\u00bfAchike yalan nub'\u00e4n re coronavirus chawe'?"
+  },
+  "118": {
+    "z": "",
+    "kek": "k'a' ru chi yajelil naxk'e li kaqi yajel",
+    "cak": "\u00bfAchike yalan nub'\u00e4n re coronavirus chawe'?"
+  },
+  "119": {
+    "z": "",
+    "kek": "k'a' ru chi yajelil naxk'e li kaqi yajel",
+    "cak": "\u00bfAchike yalan nub'\u00e4n re coronavirus chawe'?"
+  },
+  "120": {
+    "z": "",
+    "kek": "rahil tib'elej",
+    "cak": "ruq'axomal aqul"
+  },
+  "121": {
+    "z": "",
+    "kek": "rahil tib'elej",
+    "cak": "ruq'axomal aqul"
+  },
+  "122": {
+    "z": "",
+    "kek": "rahil tib'elej",
+    "cak": "ruq'axomal aqul"
+  },
+  "123": {
+    "z": "",
+    "kek": "wara",
+    "cak": "nuya' akikoten"
+  },
+  "124": {
+    "z": "",
+    "kek": "wara",
+    "cak": "nuya' akikoten"
+  },
+  "125": {
+    "z": "",
+    "kek": "wara",
+    "cak": "nuya' akikoten"
+  },
+  "126": {
+    "z": "",
+    "kek": "rahil sa' u",
+    "cak": "nuya' \u00fctz asamaj"
+  },
+  "127": {
+    "z": "",
+    "kek": "rahil sa' u",
+    "cak": "nuya' \u00fctz asamaj"
+  },
+  "128": {
+    "z": "",
+    "kek": "rahil sa' u",
+    "cak": "nuya' \u00fctz asamaj"
+  },
+  "129": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "130": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "131": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "132": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "133": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "134": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "135": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "136": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "137": {
+    "z": "",
+    "kek": "",
+    "cak": ""
+  },
+  "138": {
+    "z": "",
+    "cak": ""
+  },
+  "139": {
+    "z": "",
+    "cak": ""
+  },
+  "140": {
+    "z": "",
+    "cak": ""
+  },
+  "141": {
+    "z": "",
+    "cak": "(abril 2020)",
+    "kek": ""
+  },
+  "142": {
+    "z": "",
+    "cak": "(abril 2020)",
+    "kek": ""
+  },
+  "143": {
+    "z": "",
+    "cak": "(abril 2020)",
+    "kek": ""
+  }
+}

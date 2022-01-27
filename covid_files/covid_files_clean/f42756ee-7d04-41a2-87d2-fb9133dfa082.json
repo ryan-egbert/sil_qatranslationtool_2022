@@ -1,0 +1,365 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"toy\":\"Hunngano Niteha Virus Corona\"}",
+    "author": null,
+    "bookInstanceId": "f42756ee-7d04-41a2-87d2-fb9133dfa082",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lts": "",
+            "toy": "Hunngano Niteha Virus Corona",
+            "und": ""
+        },
+        "1": {
+            "eng": "",
+            "toy": ""
+        },
+        "2": {
+            "eng": "",
+            "toy": ""
+        },
+        "3": {
+            "toy": ""
+        },
+        "4": {
+            "toy": "Hameha parallu mu injo, immo fehe virus corona majacci."
+        },
+        "5": {
+            "toy": ""
+        },
+        "6": {
+            "toy": "Nganga"
+        },
+        "7": {
+            "toy": "Onye"
+        },
+        "8": {
+            "toy": "Matta"
+        },
+        "9": {
+            "toy": "Nandama lou ribolo"
+        },
+        "10": {
+            "toy": "To nagassi/ naseha"
+        },
+        "11": {
+            "toy": "To Pajuo"
+        },
+        "12": {
+            "toy": "Virus namba jacci ane hie ue ilu e"
+        },
+        "13": {
+            "toy": "Pario oloto.\nDohomoko nibela ue ilu ane olomu romeha meter (2m)"
+        },
+        "14": {
+            "toy": "1"
+        },
+        "15": {
+            "toy": "2m-0,5m"
+        },
+        "16": {
+            "toy": "Haaachiii!"
+        },
+        "17": {
+            "toy": "Jari, ane niturimu todapa nasodu/nasumbai/najuo, bara mala tou:"
+        },
+        "18": {
+            "toy": "Baiki Hiro Masker.\nJari mala ro na sumbai/sodu ane nambake masker pade doho mujacci todapa ndonino."
+        },
+        "19": {
+            "toy": "2"
+        },
+        "20": {
+            "toy": "Makasila\n'SROOT'"
+        },
+        "21": {
+            "toy": "Malafou"
+        },
+        "22": {
+            "toy": "Mala fou he todapa doho najuo, hio ni jagaino tappa fuluno."
+        },
+        "23": {
+            "toy": "Todapa onu nibela juomo mala rapa to naseha nituri, tapi tatta mala napajacci juono."
+        },
+        "24": {
+            "toy": "Ni lesei sala nasiroromu, apa doho ni injomu hema rehe najuo."
+        },
+        "25": {
+            "toy": "Panggonia"
+        },
+        "26": {
+            "toy": "To pajuo"
+        },
+        "27": {
+            "toy": "Pandaka kareta"
+        },
+        "28": {
+            "toy": "Tombol lift"
+        },
+        "29": {
+            "toy": "Tisu"
+        },
+        "30": {
+            "toy": "Kacca"
+        },
+        "31": {
+            "toy": "Prangkat digital"
+        },
+        "32": {
+            "toy": "Malafou ri luar masker"
+        },
+        "33": {
+            "toy": "Pandaka eja"
+        },
+        "34": {
+            "toy": "Mos"
+        },
+        "35": {
+            "toy": "Polpe e"
+        },
+        "36": {
+            "toy": "Pandaka ba ba a"
+        },
+        "37": {
+            "toy": "Pale ro"
+        },
+        "38": {
+            "toy": "Nou fou mo mafehe, biasano ue ilu topajuo mala na tikkai lou ri..."
+        },
+        "39": {
+            "toy": "Hunggano mi mala galli nibela juo."
+        },
+        "40": {
+            "toy": "atau lenje todapa ribi i mu"
+        },
+        "41": {
+            "toy": "Mukahisso mattamu"
+        },
+        "42": {
+            "toy": "Ane doho nitunggaimu nandaka mambabara he mane mutakka lenjemu,"
+        },
+        "43": {
+            "toy": "Hamehango nadui mbu u nipugau nambalesei virus hi, rapa nibasoi pake sabu, pemutih, malafou alkohol."
+        },
+        "44": {
+            "toy": "Virus hie hi mala natufu hajo hamennyi hendeno, rumbulu patta jang (24 jam) moi ri mambara."
+        },
+        "45": {
+            "toy": "Sabu"
+        },
+        "46": {
+            "toy": ""
+        },
+        "47": {
+            "toy": "Makkano, nadui ane hie tuntuna no nipuugau."
+        },
+        "48": {
+            "toy": "Basoi nambake sabu beta rehe."
+        },
+        "49": {
+            "toy": "Sabu"
+        },
+        "50": {
+            "toy": "Hikku pale"
+        },
+        "51": {
+            "toy": "Ne mu takka no lenjemu (nou lenje hema).\nAne mala, basoi sala palemu nambake sabu."
+        },
+        "52": {
+            "toy": "Rapa hendeno nakelo tou lagu \u201cPuang Neko Mahiri\u201d runggoni."
+        },
+        "53": {
+            "toy": "ri unne kanuppa"
+        },
+        "54": {
+            "toy": "Rumbulu manne hendeno"
+        },
+        "55": {
+            "toy": "hetu karafe"
+        },
+        "56": {
+            "toy": "Basoi bengo pale"
+        },
+        "57": {
+            "toy": "Immo fehe carano nambasoi pale sampe napacci?"
+        },
+        "58": {
+            "toy": "Ane nitakkamu di, nemoko mabilla. Basoi tappa mo pale pake sabu."
+        },
+        "59": {
+            "toy": "Nemu takka no onu ri luar masker"
+        },
+        "60": {
+            "toy": "Ue ilu"
+        },
+        "61": {
+            "toy": "Bakteri tu mala na tufu ri bolo masker ane nahende ndani nipake."
+        },
+        "62": {
+            "toy": "Toji maskermu ane nasaruppu. Nemu mupakke no masker lobi hajo."
+        },
+        "63": {
+            "toy": "Pakei pasidu ifo utta"
+        },
+        "64": {
+            "toy": "Ana"
+        },
+        "65": {
+            "toy": "Mama/\nBapa"
+        },
+        "66": {
+            "toy": "Nene/\nIndo"
+        },
+        "67": {
+            "toy": "Padami mambake handu"
+        },
+        "68": {
+            "toy": "Neko majulu panggoni, panggonia, kacca pade handu."
+        },
+        "69": {
+            "toy": "Doho mala\u00a0 nibelamu lenjemu nambakke hikku motto tu,\ncoba de."
+        },
+        "70": {
+            "toy": "Ane mabukka atau matutu tou baba a, hikku to ni pakke."
+        },
+        "71": {
+            "toy": "Hou"
+        },
+        "72": {
+            "toy": "Ane maloi tou lou ri hou."
+        },
+        "73": {
+            "toy": "Ane mbelu tou manggoni."
+        },
+        "74": {
+            "toy": "Tatta tou mabosoi pale pake sabu."
+        },
+        "75": {
+            "toy": "Kacappuano"
+        },
+        "76": {
+            "toy": "Sabu"
+        },
+        "77": {
+            "toy": "Ni jaga kesehatan!"
+        },
+        "78": {
+            "toy": ""
+        },
+        "79": {
+            "toy": "Ni jaga kesehatan!"
+        },
+        "80": {
+            "toy": "Sabu"
+        },
+        "81": {
+            "toy": "Baca tips-tips lainnya pada artikel-artikel di atas"
+        },
+        "82": {
+            "toy": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "83": {
+            "toy": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+        },
+        "84": {
+            "toy": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "85": {
+            "toy": "Referensi utama untuk informasi medis:"
+        },
+        "86": {
+            "toy": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah.\nReferensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. \u00a0\nhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\nhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nInformasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini: https://gumroad.com/weimankowart\u00a0\nPedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja. \u00a0\nSaat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0\nUntuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+        },
+        "87": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lts": "",
+            "toy": "Hunngano Niteha Virus Corona",
+            "und": ""
+        },
+        "88": {
+            "eng": "",
+            "toy": ""
+        },
+        "89": {
+            "eng": "Diterjemahkan ke dalam Bahasa Topoyo oleh Kiswan Wahab.",
+            "toy": ""
+        },
+        "90": {
+            "eng": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org",
+            "toy": ""
+        },
+        "91": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "toy": ""
+        },
+        "92": {
+            "eng": "",
+            "toy": ""
+        },
+        "93": {
+            "eng": "",
+            "toy": ""
+        },
+        "94": {
+            "eng": "",
+            "toy": ""
+        },
+        "95": {
+            "eng": "",
+            "toy": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nDiterjemahkan ke dalam Bahasa Topoyo oleh Kiswan Wahab.\nVersi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "toy": "Hunngano Niteha Virus Corona\n\n\n\nHameha parallu mu injo, immo fehe virus corona majacci.\n\nNganga\nOnye\nMatta\nNandama lou ribolo\nTo nagassi/ naseha\nTo Pajuo\nVirus namba jacci ane hie ue ilu e\nPario oloto.\nDohomoko nibela ue ilu ane olomu romeha meter (2m)\n1\n2m-0,5m\nHaaachiii!\nJari, ane niturimu todapa nasodu/nasumbai/najuo, bara mala tou:\nBaiki Hiro Masker.\nJari mala ro na sumbai/sodu ane nambake masker pade doho mujacci todapa ndonino.\n2\nMakasila\n'SROOT'\nMalafou\nMala fou he todapa doho najuo, hio ni jagaino tappa fuluno.\nTodapa onu nibela juomo mala rapa to naseha nituri, tapi tatta mala napajacci juono.\nNi lesei sala nasiroromu, apa doho ni injomu hema rehe najuo.\nPanggonia\nTo pajuo\nPandaka kareta\nTombol lift\nTisu\nKacca\nPrangkat digital\nMalafou ri luar masker\nPandaka eja\nMos\nPolpe e\nPandaka ba ba a\nPale ro\nNou fou mo mafehe, biasano ue ilu topajuo mala na tikkai lou ri...\nHunggano mi mala galli nibela juo.\natau lenje todapa ribi i mu\nMukahisso mattamu\nAne doho nitunggaimu nandaka mambabara he mane mutakka lenjemu,\nHamehango nadui mbu u nipugau nambalesei virus hi, rapa nibasoi pake sabu, pemutih, malafou alkohol.\nVirus hie hi mala natufu hajo hamennyi hendeno, rumbulu patta jang (24 jam) moi ri mambara.\nSabu\n\nMakkano, nadui ane hie tuntuna no nipuugau.\nBasoi nambake sabu beta rehe.\nSabu\nHikku pale\nNe mu takka no lenjemu (nou lenje hema).\nAne mala, basoi sala palemu nambake sabu.\nRapa hendeno nakelo tou lagu \u201cPuang Neko Mahiri\u201d runggoni.\nri unne kanuppa\nRumbulu manne hendeno\nhetu karafe\nBasoi bengo pale\nImmo fehe carano nambasoi pale sampe napacci?\nAne nitakkamu di, nemoko mabilla. Basoi tappa mo pale pake sabu.\nNemu takka no onu ri luar masker\nUe ilu\nBakteri tu mala na tufu ri bolo masker ane nahende ndani nipake.\nToji maskermu ane nasaruppu. Nemu mupakke no masker lobi hajo.\nPakei pasidu ifo utta\nAna\nMama/\nBapa\nNene/\nIndo\nPadami mambake handu\nNeko majulu panggoni, panggonia, kacca pade handu.\nDoho mala\u00a0 nibelamu lenjemu nambakke hikku motto tu,\ncoba de.\nAne mabukka atau matutu tou baba a, hikku to ni pakke.\nHou\nAne maloi tou lou ri hou.\nAne mbelu tou manggoni.\nTatta tou mabosoi pale pake sabu.\nKacappuano\nSabu\nNi jaga kesehatan!\n\nNi jaga kesehatan!\nSabu\nBaca tips-tips lainnya pada artikel-artikel di atas\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)\nReferensi utama untuk informasi medis:\nKeterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah.\nReferensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. \u00a0\nhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\nhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nInformasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini: https://gumroad.com/weimankowart\u00a0\nPedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja. \u00a0\nSaat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0\nUntuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\nHunngano Niteha Virus Corona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "toy",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "uRFBfGNvQM"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "id": "Indonesian",
+        "lts": "Lutachoni",
+        "toy": "Topoiyo"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Hunngano Niteha Virus Corona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

@@ -1,0 +1,366 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"hvn\":\"Benyaki Corona\",\"id\":\"Tentang Virus Corona\",\"lts\":\"Olumbe lwa Korona\"}",
+    "author": null,
+    "bookInstanceId": "b54a0575-eb55-422c-883f-d831e34bfce9",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "hvn": "Benyaki Corona",
+            "ind": "Tentang Virus Corona",
+            "lts": "Olumbe lwa Korona",
+            "und": ""
+        },
+        "1": {
+            "eng": "",
+            "hvn": ""
+        },
+        "2": {
+            "eng": "",
+            "hvn": ""
+        },
+        "3": {
+            "hvn": ""
+        },
+        "4": {
+            "hvn": "\u00a0\u00c8hi lai we do j\u2019\u00e8mma ta toi ri muu minami ne lakka ri benyaki \u00a0corona d\u2019e\n"
+        },
+        "5": {
+            "hvn": ""
+        },
+        "6": {
+            "hvn": "Ub\u2019a\n"
+        },
+        "7": {
+            "hvn": "Hewangnga"
+        },
+        "8": {
+            "hvn": "Ela\n"
+        },
+        "9": {
+            "hvn": "Maho la d\u2019ara\n"
+        },
+        "10": {
+            "hvn": "Dou do ie\n"
+        },
+        "11": {
+            "hvn": "dou do\np\u00e8dd\u2019a\n"
+        },
+        "12": {
+            "hvn": "Ne benyaki nad\u2019e jad\u2019i ta lakka ri ilu"
+        },
+        "13": {
+            "hvn": "Pej\u2019\u00e8u \u00e8ni.\nLakka d\u2019o ke muu ri ilu ki do pej\u2019\u00e8u \u00e8ni ou d\u2019ue mete ne j\u2019\u00e8u ne."
+        },
+        "14": {
+            "hvn": "1"
+        },
+        "15": {
+            "hvn": "2m-0,5m"
+        },
+        "16": {
+            "hvn": "Haachi!!!"
+        },
+        "17": {
+            "hvn": "Hakku, kinga ngaddi muu dou do me\u2019a, b\u2019\u00e8nyi, do p\u00e8dd\u2019a, jad\u2019I muu ta\n\n"
+        },
+        "18": {
+            "hvn": "Wie roo masker.\nHakku ki b\u2019\u00e8nyi, me\u2019a pa d\u2019ara masker ne we lakka d\u2019o ke pa dou do wala."
+        },
+        "19": {
+            "hvn": "2"
+        },
+        "20": {
+            "hvn": "Terima kasih..\n*SROOOT*\n"
+        },
+        "21": {
+            "hvn": "Ki ad\u2019o\n"
+        },
+        "22": {
+            "hvn": "Wue lema dou do d\u2019o p\u00e8dd\u2019a. ta jage ne ngi\u2019u noo."
+        },
+        "23": {
+            "hvn": "Dou do lakka ri corona d\u2019e jad\u2019i lema do d\u2019o toi ri dii ta do lakka ke, tapulara do jad\u2019i ta lakka pa dou do wala ne benyaki nanne.\n"
+        },
+        "24": {
+            "hvn": "Do rihi petu ne, pej\u2019\u00e8u \u00e8ni dii ngati dou lowe, rowi ad\u2019o do toi ri dii naduu ne do p\u00e8dd\u2019a ne.\n"
+        },
+        "25": {
+            "hvn": "B\u2019ara nga\u2019a\n"
+        },
+        "26": {
+            "hvn": "Dou do ie\n"
+        },
+        "27": {
+            "hvn": "Pa kereta\n"
+        },
+        "28": {
+            "hvn": "Era anj\u2019I lift\n"
+        },
+        "29": {
+            "hvn": "Tisu\n"
+        },
+        "30": {
+            "hvn": "Gela\n"
+        },
+        "31": {
+            "hvn": "B\u2019ara do wala he mi laptop"
+        },
+        "32": {
+            "hvn": "Lema pa tele\nmasker ne"
+        },
+        "33": {
+            "hvn": "Pa taga\n"
+        },
+        "34": {
+            "hvn": "Mouse\n"
+        },
+        "35": {
+            "hvn": "Pena\n"
+        },
+        "36": {
+            "hvn": "Kelae\n"
+        },
+        "37": {
+            "hvn": "Kae roo\n"
+        },
+        "38": {
+            "hvn": "Ta mina harre lema, ne ilu dou do p\u00e8ppd\u2019a jad\u2019i ta keparre pa\u2026\n"
+        },
+        "39": {
+            "hvn": "Jad\u2019i muu ta p\u00e8dd\u2019a.\n"
+        },
+        "40": {
+            "hvn": "Ki ad\u2019o dou do peumu nga muu\n"
+        },
+        "41": {
+            "hvn": "J\u2019e g\u2019ug\u2019e ne ela ne\n"
+        },
+        "42": {
+            "hvn": "Ki do d\u2019o hengaja ou ta b\u2019uje ne b\u2019ara-b\u2019ara naharre, d\u2019e b\u2019uje tanga namada ou miha,\n"
+        },
+        "43": {
+            "hvn": "Nanne ke ne \u00e8hi lai do j\u2019\u00e8ma ta pehebe ne b\u2019enyaki ne nga lonye kae ri hab\u2019u.\n"
+        },
+        "44": {
+            "hvn": "Ne benyaki nad\u2019e nara ta muri noo hape la d\u2019ue nguru \u00e8ppa ja pa d\u2019ida b\u2019ara nga we.\n"
+        },
+        "45": {
+            "hvn": "Hab\u2019u\n"
+        },
+        "46": {
+            "hvn": "ne ruj\u2019ara nad\u2019e.\n"
+        },
+        "47": {
+            "hvn": "Ri naanne ke, pedute\n"
+        },
+        "48": {
+            "hvn": "Lonye kae hape ma d\u2019e\n"
+        },
+        "49": {
+            "hvn": "habu\n"
+        },
+        "50": {
+            "hvn": "Wohi\u2019u ne\n"
+        },
+        "51": {
+            "hvn": "B\u2019ole b\u2019ujje tanga namada nadu we.\n\n\nLonye d\u2019\u00e8nge kae muu ri.\n"
+        },
+        "52": {
+            "hvn": "Mi lagu \u201chappy birthday\u201d d\u2019ue wari.\n"
+        },
+        "53": {
+            "hvn": "Pa huu ku\u2019u\n"
+        },
+        "54": {
+            "hvn": "Helama d\u2019ue nguru deti\n"
+        },
+        "55": {
+            "hvn": "Pa hanga ruai\n"
+        },
+        "56": {
+            "hvn": "Lonye ne d\u2019anni abba ne\n"
+        },
+        "57": {
+            "hvn": "Minami ne lonye kae tade mou?\n"
+        },
+        "58": {
+            "hvn": "Ki b\u2019ujje, b\u2019ole meda\u2019u. lonye kae ri hab\u2019u.\n"
+        },
+        "59": {
+            "hvn": "B\u2019ole b\u2019ujje ne tele masker ne.\n"
+        },
+        "60": {
+            "hvn": "Huti ilu\n"
+        },
+        "61": {
+            "hvn": "Ne b\u2019enyaki ne mid\u2019o jad\u2019i ta juu ae pa d\u2019ara masker do pake do rihi tui.\n"
+        },
+        "62": {
+            "hvn": "Hore ne masker ne ki do ra\u2019i ke. B\u2019ole pake ne masker ne liwa ti helod\u2019o!\n"
+        },
+        "63": {
+            "hvn": "Pake kab\u2019a huru haj\u2019o\n"
+        },
+        "64": {
+            "hvn": "Ana"
+        },
+        "65": {
+            "hvn": "Ama"
+        },
+        "66": {
+            "hvn": "Ina"
+        },
+        "67": {
+            "hvn": "Pake haddu miha-miha\n"
+        },
+        "68": {
+            "hvn": "B\u2019ole pakehela\u2019u,b\u2019ara nga\u2019a nga we, b\u2019ara nga\u2019a we\u2019 gela nga haddu.\n"
+        },
+        "69": {
+            "hvn": "Jad\u2019i d\u2019o muu ta b\u2019uje tanga namada muu ri wohi\u2019u muu miha.\n"
+        },
+        "70": {
+            "hvn": "Ki buka muu kelae, boke we ri wohi\u2019u ki ad\u2019o ri rui nawawi.\n"
+        },
+        "71": {
+            "hvn": "Emmu"
+        },
+        "72": {
+            "hvn": "Lema ki kako la mi-mi\n"
+        },
+        "73": {
+            "hvn": "Nga do d\u2019o nga\u2019 a de\n"
+        },
+        "74": {
+            "hvn": "Henge ta lonye kae teru nga hab\u2019u...\n"
+        },
+        "75": {
+            "hvn": "Do pedaka d\u2019e,\n"
+        },
+        "76": {
+            "hvn": "Hab'u"
+        },
+        "77": {
+            "hvn": "Jage ne ngi\u2019u muu mi j\u2019e do d\u2019o pad\u2019a!\n"
+        },
+        "78": {
+            "hvn": "Jage ne ngi\u2019u muu mi j\u2019e do d\u2019o pad\u2019a!\n"
+        },
+        "79": {
+            "hvn": "Hab'u"
+        },
+        "80": {
+            "hvn": "Aj\u2019e ne lai-lai do hure do b\u2019uke pa d\u2019ida ne.\n"
+        },
+        "81": {
+            "hvn": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "hvn": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+        },
+        "83": {
+            "hvn": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "hvn": "Ne lai nad\u2019e nara ri muu ta kale pa dou pa \u00e8mmu padd\u2019a:\n"
+        },
+        "85": {
+            "hvn": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "hvn": "Benyaki Corona",
+            "ind": "Tentang Virus Corona",
+            "lts": "Olumbe lwa Korona",
+            "und": ""
+        },
+        "87": {
+            "eng": "",
+            "hvn": ""
+        },
+        "88": {
+            "eng": "Diterjemahkan dalam Bahasa Hawu oleh Leonardo Lede Lay\n",
+            "hvn": ""
+        },
+        "89": {
+            "eng": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org",
+            "hvn": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "hvn": ""
+        },
+        "91": {
+            "eng": "",
+            "hvn": ""
+        },
+        "92": {
+            "eng": "",
+            "hvn": ""
+        },
+        "93": {
+            "eng": "",
+            "hvn": ""
+        },
+        "94": {
+            "eng": "",
+            "hvn": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nDiterjemahkan dalam Bahasa Hawu oleh Leonardo Lede Lay\n\nVersi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "hvn": "Benyaki Corona\n\n\n\n\u00a0\u00c8hi lai we do j\u2019\u00e8mma ta toi ri muu minami ne lakka ri benyaki \u00a0corona d\u2019e\n\n\nUb\u2019a\n\nHewangnga\nEla\n\nMaho la d\u2019ara\n\nDou do ie\n\ndou do\np\u00e8dd\u2019a\n\nNe benyaki nad\u2019e jad\u2019i ta lakka ri ilu\nPej\u2019\u00e8u \u00e8ni.\nLakka d\u2019o ke muu ri ilu ki do pej\u2019\u00e8u \u00e8ni ou d\u2019ue mete ne j\u2019\u00e8u ne.\n1\n2m-0,5m\nHaachi!!!\nHakku, kinga ngaddi muu dou do me\u2019a, b\u2019\u00e8nyi, do p\u00e8dd\u2019a, jad\u2019I muu ta\n\n\nWie roo masker.\nHakku ki b\u2019\u00e8nyi, me\u2019a pa d\u2019ara masker ne we lakka d\u2019o ke pa dou do wala.\n2\nTerima kasih..\n*SROOOT*\n\nKi ad\u2019o\n\nWue lema dou do d\u2019o p\u00e8dd\u2019a. ta jage ne ngi\u2019u noo.\nDou do lakka ri corona d\u2019e jad\u2019i lema do d\u2019o toi ri dii ta do lakka ke, tapulara do jad\u2019i ta lakka pa dou do wala ne benyaki nanne.\n\nDo rihi petu ne, pej\u2019\u00e8u \u00e8ni dii ngati dou lowe, rowi ad\u2019o do toi ri dii naduu ne do p\u00e8dd\u2019a ne.\n\nB\u2019ara nga\u2019a\n\nDou do ie\n\nPa kereta\n\nEra anj\u2019I lift\n\nTisu\n\nGela\n\nB\u2019ara do wala he mi laptop\nLema pa tele\nmasker ne\nPa taga\n\nMouse\n\nPena\n\nKelae\n\nKae roo\n\nTa mina harre lema, ne ilu dou do p\u00e8ppd\u2019a jad\u2019i ta keparre pa\u2026\n\nJad\u2019i muu ta p\u00e8dd\u2019a.\n\nKi ad\u2019o dou do peumu nga muu\n\nJ\u2019e g\u2019ug\u2019e ne ela ne\n\nKi do d\u2019o hengaja ou ta b\u2019uje ne b\u2019ara-b\u2019ara naharre, d\u2019e b\u2019uje tanga namada ou miha,\n\nNanne ke ne \u00e8hi lai do j\u2019\u00e8ma ta pehebe ne b\u2019enyaki ne nga lonye kae ri hab\u2019u.\n\nNe benyaki nad\u2019e nara ta muri noo hape la d\u2019ue nguru \u00e8ppa ja pa d\u2019ida b\u2019ara nga we.\n\nHab\u2019u\n\nne ruj\u2019ara nad\u2019e.\n\nRi naanne ke, pedute\n\nLonye kae hape ma d\u2019e\n\nhabu\n\nWohi\u2019u ne\n\nB\u2019ole b\u2019ujje tanga namada nadu we.\n\n\nLonye d\u2019\u00e8nge kae muu ri.\n\nMi lagu \u201chappy birthday\u201d d\u2019ue wari.\n\nPa huu ku\u2019u\n\nHelama d\u2019ue nguru deti\n\nPa hanga ruai\n\nLonye ne d\u2019anni abba ne\n\nMinami ne lonye kae tade mou?\n\nKi b\u2019ujje, b\u2019ole meda\u2019u. lonye kae ri hab\u2019u.\n\nB\u2019ole b\u2019ujje ne tele masker ne.\n\nHuti ilu\n\nNe b\u2019enyaki ne mid\u2019o jad\u2019i ta juu ae pa d\u2019ara masker do pake do rihi tui.\n\nHore ne masker ne ki do ra\u2019i ke. B\u2019ole pake ne masker ne liwa ti helod\u2019o!\n\nPake kab\u2019a huru haj\u2019o\n\nAna\nAma\nIna\nPake haddu miha-miha\n\nB\u2019ole pakehela\u2019u,b\u2019ara nga\u2019a nga we, b\u2019ara nga\u2019a we\u2019 gela nga haddu.\n\nJad\u2019i d\u2019o muu ta b\u2019uje tanga namada muu ri wohi\u2019u muu miha.\n\nKi buka muu kelae, boke we ri wohi\u2019u ki ad\u2019o ri rui nawawi.\n\nEmmu\nLema ki kako la mi-mi\n\nNga do d\u2019o nga\u2019 a de\n\nHenge ta lonye kae teru nga hab\u2019u...\n\nDo pedaka d\u2019e,\n\nHab'u\nJage ne ngi\u2019u muu mi j\u2019e do d\u2019o pad\u2019a!\n\nJage ne ngi\u2019u muu mi j\u2019e do d\u2019o pad\u2019a!\n\nHab'u\nAj\u2019e ne lai-lai do hure do b\u2019uke pa d\u2019ida ne.\n\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)\nNe lai nad\u2019e nara ri muu ta kale pa dou pa \u00e8mmu padd\u2019a:\n\nKeterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\nBenyaki Corona\n\n\n\n\n\n\n\n",
+        "ind": "Tentang Virus Corona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTentang Virus Corona\n\n\n\n\n\n\n\n",
+        "lts": "Olumbe lwa Korona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOlumbe lwa Korona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "lts",
+        "hvn",
+        "eng",
+        "ind"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "Ffl2Ha7LxC"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "hvn": "Hawu",
+        "id": "Indonesian",
+        "lts": "Lutachoni"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Benyaki Corona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

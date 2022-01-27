@@ -1,0 +1,399 @@
+{
+    "allTitles": "{\"en\":\"What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\",\"fr\":\"Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\",\"mfj\":\"J\u0259hay mala away kur s\u0259niya haya\u014b ta KORONAVIR\u0244S mala mbay KOVID\u201319\"}",
+    "author": null,
+    "bookInstanceId": "cb964432-7166-41a4-afe3-92c705c30d80",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,4797e2a5-bc4f-48a0-b988-e10ff8deb4bc,5ac3444b-2397-4a3e-ac07-9e4aeaf757b4",
+    "bookSamples": {
+        "0": {
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19",
+            "fra": "",
+            "mfj": "J\u0259hay mala away kur s\u0259niya haya\u014b ta KORONAVIR\u0244S mala mbay KOVID\u201319"
+        },
+        "1": {
+            "fra": "",
+            "mfj": ""
+        },
+        "2": {
+            "fra": "Association Camerounaise pour \ufeffla Traduction de la Bible et l'Alphab\u00e9tisation",
+            "mfj": "Association Camerounaise pour la Traduction de la Bible et l'Alphab\u00e9tisation"
+        },
+        "3": {
+            "fra": "",
+            "mfj": ""
+        },
+        "4": {
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19",
+            "fra": "",
+            "mfj": "J\u0259hay mala away kur s\u0259niya haya\u014b ta KORONAVIR\u0244S mala mbay KOVID\u201319"
+        },
+        "5": {
+            "fra": "Les informations contenues dans ce livret \ufeffproviennent du site internet \ufeffde l'Organisation Mondiale de la Sant\u00e9 (OMS). https://www.who.int/fr/home",
+            "mfj": ""
+        },
+        "6": {
+            "fra": "",
+            "mfj": ""
+        },
+        "7": {
+            "fra": "",
+            "mfj": ""
+        },
+        "8": {
+            "fra": "Toutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\n\nContacts CABTAL\n\nWeb : www.cabtal.org\nMail : info_cabtal@cabtal.org\n\nTel : (237) 699 833 535\nWhatsApp : (237) 654 439 659\n\nB.P. : 16 550 Yaound\u00e9, Cameroun",
+            "mfj": ""
+        },
+        "9": {
+            "fra": "",
+            "mfj": ""
+        },
+        "10": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "11": {
+            "eng": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY",
+            "fra": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE",
+            "mfj": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 YA\u014a TA MA"
+        },
+        "12": {
+            "eng": "- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n",
+            "fra": "- Coronavirus\n- Personnes vuln\u00e9rables\n- Sympto\u0302mes\n- Transmission du coronavirus\n- Comment se prot\u00e9ger?\n- Que faire en cas de contamination?\n- D\u00e9finition des mots difficiles",
+            "mfj": "\u00a0-Koronavir\u0289s\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n- Nday mala matakwa a wala ce ha de bay\n- J\u0259hay mata \u014bg\u0259rda matakwa v\u0259da ta v\u0259 ta nd\u0259\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n- Maz\u0259v nday ta koronavir\u0289s\n- Nda \u0257al v\u0259 \u0257ama?\u00a0\n- Nda gay \u0257ama mala ka maz\u0259va ma?\n- Ma\u014bg\u0259rda ma haya\u014b ta ma mata c\u0259n bay"
+        },
+        "13": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "14": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "15": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "16": {
+            "eng": "p.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8",
+            "fra": "p.2\np.3\np.4\np.5\np.6\np.7\np.8",
+            "mfj": "p.2\np.3\n\np.4\np.5\np.6\np.8\np.9"
+        },
+        "17": {
+            "eng": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+            "fra": "Le coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.",
+            "mfj": "Koronavir\u0289s\n\nKoronavir\u0289s, nda\u00a0 zaliya zacac\u0259k KOVID-19, a\u0257a matakwa mawaya. A h\u0259nkeke malel\u0259me ta\u0257a ta shin\u0259 ha mewen 31 ta kiya ta mazlam 2019. A\u0257a va j\u0259hay ta ma\u014bg\u0259rda v\u0259da nde, a\u0257a mam\u0259ta nda madama, a zlaha da k\u0259\u0257a nd\u0259 mala ka gay ta\u0257a mahwal hwala. Ka k\u0259zl ta\u0257a mata wud\u0259m a nd\u0259vbay haya\u014b ta wuyak. Nda s\u0259n j\u0259hay mala matakwa \u0257a a d\u0259k v\u0259da tapa bay."
+        },
+        "18": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "19": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "20": {
+            "eng": "Elderly person",
+            "fra": "Personne \u00e2g\u00e9e",
+            "mfj": "Nday mahala"
+        },
+        "21": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "22": {
+            "eng": "Person with a heart condition or disease",
+            "fra": "Personne cardiaque ou souffrant de maladie",
+            "mfj": "Nday ma va matakwa mala a hec ta wut ta r\u0259v mala mbay nday mata saw zay ta matakwa"
+        },
+        "23": {
+            "eng": "Vulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+            "fra": "Personnes vuln\u00e9rables\nLes personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.",
+            "mfj": "Nday mala matakwa a wala ce ha de bay\nMapay ta nd\u0259mag\u0259da cuc\u0259m ma ha ya\u014b ta wuyak. Ko wudede, matakwa mawaya nana \u0257a a zlaha da jawa ce. Nday ta matakwa va nday mata saw zay ta matakwa \u014bg\u0259\u0257hay (nda matakwa ta nd\u0259 mala a shef va wu\u0257ay, matakwa ta sukwar, matakwa mala a hec ta wut ta r\u0259v, matakwa ta memb\u0259z mala a hway va wu\u0257ay ta v\u0259\u0257 ta memb\u0259z) a zlaha da kalda ka h\u0259da, mala a\u0257a mahwal hwala ma m\u0259ta nda matakwa nana."
+        },
+        "24": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "25": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "26": {
+            "eng": "Fever\nFatigue",
+            "fra": "- Fi\u00e8vre\n- Fatigue",
+            "mfj": "- Kokwa ha v\u0259\n- Met\u0259\u0253\u0259le \u00a0"
+        },
+        "27": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "28": {
+            "eng": "Dry cough\nMuscle aches and pains",
+            "fra": "- Toux s\u00e8che\n- Douleurs musculaires",
+            "mfj": "- \u018a\u0259sla mata kwal way\n- Mehec mata slaw ta v\u0259"
+        },
+        "29": {
+            "eng": "Symptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+            "fra": "Les sympto\u0302mes\nLes sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.",
+            "mfj": "J\u0259hay mata \u014bg\u0259rda matakwa hay v\u0259da ta v\u0259 ta nd\u0259\nJ\u0259hay mata \u014bg\u0259rda matakwa hay ta koronavir\u0289s mala a z\u0259v nday nda madama: kokwa maha v\u0259, \u0257\u0259sla mata kwal way, mehec mata slaw ta v\u0259, met\u0259t\u0259le. Nday ta matakwa \u014bg\u0259\u0257hay a haca ce ta slaw ta v\u0259, h\u0259t\u0259\u014b makwala, h\u0259t\u0259\u014b a gay yoyoya, a hec ta ma\u014bgurl\u0259m mala mbay hu\u0257 mehede. Nday \u014bg\u0259\u0257hay, matakwa ka z\u0259va ce, ama ko j\u0259\u014bg\u0259\u0257 mata \u014bg\u0259rda v\u0259da mbay, ec\u0259 manja ta ce. \u014ag\u0259\u0257hay ec\u0259 ka mb\u0259l ta ce ko mala ec\u0259 ka \u014bgat mej\u0259f bay."
+        },
+        "30": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "31": {
+            "eng": "Person with a cough",
+            "fra": "Personne qui tousse",
+            "mfj": "Nd\u0259 mata caw \u0257\u0259sla"
+        },
+        "32": {
+            "eng": "Transmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+            "fra": "Transmission du coronavirus\nLe COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.",
+            "mfj": "Maz\u0259v nday ta koronavir\u0289s\n\nKOVID\u201319 a z\u0259v nday va\u014b ta nday mala slesl\u0259\u0257 ta matakwa ta v\u0259 ta ce. Mala nd\u0259 ta matakwa a caw \u0257\u0259sla mala mbay a caw \u0257\u0259shew, madama a d\u0259k va\u014b ta h\u0259t\u0259\u014b, mayaya va\u014b ta maa. Mala nd\u0259 \u014bg\u0259\u0257e ka z\u0259k madama mala mbay \u0257\u0259sla ta\u0257a sa, matakwa ta koronavir\u0289s a zlaha da z\u0259vana. Mala nd\u0259 \u014bg\u0259\u0257e a \u0253\u0259la j\u0259hay mala matakwa hapa, a zlaha da z\u0259viya mala ka \u0253\u0259l de, h\u0259t\u0259\u014b va maa."
+        },
+        "33": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "34": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "35": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "36": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "37": {
+            "eng": "How to protect yourself",
+            "fra": "Comment se prot\u00e9ger ?",
+            "mfj": "Nda \u0257al v\u0259 \u0257ama?"
+        },
+        "38": {
+            "eng": "1. Avoid touching eyes, nose, mouth.",
+            "fra": "1. Eviter de se toucher les yeux, le nez, la bouche.",
+            "mfj": "1. Ma\u0253\u0259l de, h\u0259t\u0259\u014b va maa mbay."
+        },
+        "39": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "40": {
+            "eng": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel.",
+            "fra": "2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.",
+            "mfj": "2. Mapan haa t\u0259mt\u0259m va yim ma heshuwe va sab\u0259lu. Ha d\u0259\u0253a ta\u0257a matakwaliya va maslaga mapana ta\u0257a."
+        },
+        "41": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "42": {
+            "eng": "3. Cough and sneeze into the crook of your arm.\n",
+            "fra": "3. Tousser et \u00e9ternuer dans le creux de son bras.",
+            "mfj": "3. Macaw \u0257\u0259sla va \u0257\u0259shew mata ma\u014bg\u0259l\u0253\u0259c ta haa."
+        },
+        "43": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "44": {
+            "eng": "4. Avoid eating raw meat and touching live animals.",
+            "fra": "4. Eviter de manger de la viande crue et de toucher des animaux vivants.",
+            "mfj": "4. Wa \u0257alava ha mandaw slaw ma va de va ma \u0253\u0259l j\u0259hay ta maj\u0259g\u0259n\u0259."
+        },
+        "45": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "46": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "47": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "48": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "49": {
+            "eng": "5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n",
+            "fra": "5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.",
+            "mfj": "5. Manjay d\u0259r\u0259\u014b va nd\u0259 mata caw \u0257\u0259sla mala mbay \u0257\u0259slew, wa njay a gana g\u0259\u0257a g\u0259\u0257a mal\u0259v sh\u0259k m\u0259ta ta r\u0259va ta kur.\n"
+        },
+        "50": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "51": {
+            "eng": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting.",
+            "fra": "6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.",
+            "mfj": "6. Ma\u0257al v\u0259 ha mazl\u0259\u0253 haa. Wa vaw mbalay va ya\u014b mala mbay va megwe\u0257e.\n"
+        },
+        "52": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "53": {
+            "eng": "7. Avoid gatherings.\n",
+            "fra": "7. Eviter les rassemblements.",
+            "mfj": "7. Ma\u0257al v\u0259 ha ma\u0253\u0259c va."
+        },
+        "54": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "55": {
+            "eng": "8. Restrict movement.",
+            "fra": "8. Limiter ses d\u00e9placements.",
+            "mfj": "8. Ma\u0257al v\u0259 ha ma\u014bgway."
+        },
+        "56": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "57": {
+            "eng": "9. Keep informed and verify the source of information.",
+            "fra": "9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.",
+            "mfj": "9. Ma paw zl\u0259may ha j\u0259hay mata gay, wa c\u0259n ma haya\u014b ta\u0257a te\u0257e\u0257e."
+        },
+        "58": {
+            "eng": "What to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+            "fra": "Que faire en cas de contamination ?\nSi vous pr\u00e9sentez des sympto\u0302mes :\n- Evitez les contacts avec d'autres personnes. - Restez \u00e0 domicile.\n- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :",
+            "mfj": "Nda gay \u0257ama mala ka maz\u0259va ma?\n\nMala j\u0259hay ta ma\u014bg\u0259rda matakwa v\u0259da ta v\u0259 ta kur nde:\n- Wa \u0257ala va ha mad\u0259r\u0259zlva va nday \u014bg\u0259\u0257hay.\n- Wa njay tun\u0259m.\n- Wa zal lemeru nana: 1510, kur da c\u0259n j\u0259hay mala nd\u0259 ta mej\u0259f a d\u0259 gwa\u0257a kur.\nLemeru \u014bg\u0259\u0257hay nde zacac\u0259k:"
+        },
+        "59": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "60": {
+            "eng": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979",
+            "fra": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713 979",
+            "mfj": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979"
+        },
+        "61": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "62": {
+            "eng": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761",
+            "fra": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113 761",
+            "mfj": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761"
+        },
+        "63": {
+            "eng": "",
+            "fra": "",
+            "mfj": ""
+        },
+        "64": {
+            "eng": "To date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them.",
+            "fra": "A ce jour, il n'existe aucun m\u00e9dicament capable de gu\u00e9rir du COVID-19 mais les autorit\u00e9s continuent les recherches pour trouver un traitement adapt\u00e9.\nChacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage.",
+            "mfj": "Ha pac\u0259na, nday ka \u014bgat mej\u0259f ta mamb\u0259l nday ta matakwa ta KOVID-19 \u0257a kogwa bay, ama nday ta \u014bgomna ec\u0259 d\u0259 hama hama ta ma tuw mej\u0259f ta matakwa \u0257a, kowawa da paw de ta v\u0259 ta\u0257a va nday ma ha sl\u0259m ta\u0257a."
+        },
+        "65": {
+            "eng": "Definition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed",
+            "fra": "D\u00e9finition des mots difficiles\n\nAsthme : maladie respiratoire chronique\nConsignes : ordres, recommandations\nDiab\u00e8te : maladie qui se caract\u00e9rise par un taux de sucre trop \u00e9lev\u00e9 dans le sang\nEcoulement nasal : avoir le nez qui coule\nEtre contamin\u00e9 : e\u0302tre atteint par la maladie\nGrippe : maladie, rhume\nHypertension : augmentation anormale de la pression du sang sur la paroi des art\u00e8res\nInfect\u00e9 : atteint par la maladie\nInfection : maladie, \u00e9pid\u00e9mie\nPatient : malade\nPersistant : permanent, constant, continu\nSusceptible : capable, sensible\nSympto\u0302mes : signes, marques de la maladie\nTraitement : rem\u00e8de, m\u00e9dicaments\nVirus : agent causant la maladie\nVuln\u00e9rable : faible, \u00e0 risque",
+            "mfj": "Ma\u014bg\u0259rda ma haya\u014b ta ma mata c\u0259n bay:\n\n\n\n- As\u0259m: Matakwa mala a ndr\u0259ha meshefe.\n- Ma c\u0259p c\u0259v\u0259\u0257: Ma c\u0259p c\u0259v\u0259\u0257 ta j\u0259hay magwa\u0257a ta\u0257a ta h\u0259da.\n- Diyabet: Matakwa ta s\u0259kwar mala elehe ta memb\u0259z.\n- Madama: Matakwa.\n- Ipertansiyo\u014b: Memb\u0259z mala a hway va wu\u0257ay.\n- Matakwa: Matakwa mata jaw nday ha sl\u0259m ma m\u0259ta.\n- Mand\u0259ra: A zlaha, mand\u0259ra.\n- J\u0259hay: J\u0259hay mata \u014bg\u0259rda matakwa v\u0259da ta nd\u0259.\n- Mej\u0259f: Zlazl\u0259r.\n- Vir\u0289s: Slesl\u0259\u0257 ta matakwa, matakwa."
+        },
+        "66": {
+            "fra": "",
+            "mfj": ""
+        },
+        "67": {
+            "fra": "J\u0259hay mala away kur s\u0259niya haya\u014b ta KORONAVIR\u0244S mala mbay KOVID\u201319\n\u00a9 CABTAL, 2020",
+            "mfj": ""
+        }
+    },
+    "bookText": {
+        "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\n\n\n\nWhat you need to know about the\nCORONAVIRUS\nor\nCOVID-19\n\n\n\n\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY\n- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n\n\n\n\np.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8\nCoronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.\n\n\nElderly person\n\nPerson with a heart condition or disease\nVulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.\n\n\nFever\nFatigue\n\nDry cough\nMuscle aches and pains\nSymptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.\n\nPerson with a cough\nTransmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.\n\n\n\n\nHow to protect yourself\n1. Avoid touching eyes, nose, mouth.\n\n2. Wash your hands frequently with soap and running water. Then dry them with a clean towel.\n\n3. Cough and sneeze into the crook of your arm.\n\n\n4. Avoid eating raw meat and touching live animals.\n\n\n\n\n5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n\n\n6. Avoid shaking hands. Greet each other with a nod or a verbal greeting.\n\n7. Avoid gatherings.\n\n\n8. Restrict movement.\n\n9. Keep informed and verify the source of information.\nWhat to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\nTo date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them.\nDefinition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed\n\n",
+        "fra": "\n\nAssociation Camerounaise pour \ufeffla Traduction de la Bible et l'Alphab\u00e9tisation\n\n\nLes informations contenues dans ce livret \ufeffproviennent du site internet \ufeffde l'Organisation Mondiale de la Sant\u00e9 (OMS). https://www.who.int/fr/home\n\n\nToutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\n\nContacts CABTAL\n\nWeb : www.cabtal.org\nMail : info_cabtal@cabtal.org\n\nTel : (237) 699 833 535\nWhatsApp : (237) 654 439 659\n\nB.P. : 16 550 Yaound\u00e9, Cameroun\n\n\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE\n- Coronavirus\n- Personnes vuln\u00e9rables\n- Sympto\u0302mes\n- Transmission du coronavirus\n- Comment se prot\u00e9ger?\n- Que faire en cas de contamination?\n- D\u00e9finition des mots difficiles\n\n\n\np.2\np.3\np.4\np.5\np.6\np.7\np.8\nLe coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.\n\n\nPersonne \u00e2g\u00e9e\n\nPersonne cardiaque ou souffrant de maladie\nPersonnes vuln\u00e9rables\nLes personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.\n\n\n- Fi\u00e8vre\n- Fatigue\n\n- Toux s\u00e8che\n- Douleurs musculaires\nLes sympto\u0302mes\nLes sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.\n\nPersonne qui tousse\nTransmission du coronavirus\nLe COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.\n\n\n\n\nComment se prot\u00e9ger ?\n1. Eviter de se toucher les yeux, le nez, la bouche.\n\n2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.\n\n3. Tousser et \u00e9ternuer dans le creux de son bras.\n\n4. Eviter de manger de la viande crue et de toucher des animaux vivants.\n\n\n\n\n5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.\n\n6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.\n\n7. Eviter les rassemblements.\n\n8. Limiter ses d\u00e9placements.\n\n9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.\nQue faire en cas de contamination ?\nSi vous pr\u00e9sentez des sympto\u0302mes :\n- Evitez les contacts avec d'autres personnes. - Restez \u00e0 domicile.\n- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713 979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113 761\n\nA ce jour, il n'existe aucun m\u00e9dicament capable de gu\u00e9rir du COVID-19 mais les autorit\u00e9s continuent les recherches pour trouver un traitement adapt\u00e9.\nChacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage.\nD\u00e9finition des mots difficiles\n\nAsthme : maladie respiratoire chronique\nConsignes : ordres, recommandations\nDiab\u00e8te : maladie qui se caract\u00e9rise par un taux de sucre trop \u00e9lev\u00e9 dans le sang\nEcoulement nasal : avoir le nez qui coule\nEtre contamin\u00e9 : e\u0302tre atteint par la maladie\nGrippe : maladie, rhume\nHypertension : augmentation anormale de la pression du sang sur la paroi des art\u00e8res\nInfect\u00e9 : atteint par la maladie\nInfection : maladie, \u00e9pid\u00e9mie\nPatient : malade\nPersistant : permanent, constant, continu\nSusceptible : capable, sensible\nSympto\u0302mes : signes, marques de la maladie\nTraitement : rem\u00e8de, m\u00e9dicaments\nVirus : agent causant la maladie\nVuln\u00e9rable : faible, \u00e0 risque\n\nJ\u0259hay mala away kur s\u0259niya haya\u014b ta KORONAVIR\u0244S mala mbay KOVID\u201319\n\u00a9 CABTAL, 2020",
+        "mfj": "J\u0259hay mala away kur s\u0259niya haya\u014b ta KORONAVIR\u0244S mala mbay KOVID\u201319\n\nAssociation Camerounaise pour la Traduction de la Bible et l'Alphab\u00e9tisation\n\nJ\u0259hay mala away kur s\u0259niya haya\u014b ta KORONAVIR\u0244S mala mbay KOVID\u201319\n\n\n\n\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 YA\u014a TA MA\n\u00a0-Koronavir\u0289s\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n- Nday mala matakwa a wala ce ha de bay\n- J\u0259hay mata \u014bg\u0259rda matakwa v\u0259da ta v\u0259 ta nd\u0259\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n- Maz\u0259v nday ta koronavir\u0289s\n- Nda \u0257al v\u0259 \u0257ama?\u00a0\n- Nda gay \u0257ama mala ka maz\u0259va ma?\n- Ma\u014bg\u0259rda ma haya\u014b ta ma mata c\u0259n bay\n\n\n\np.2\np.3\n\np.4\np.5\np.6\np.8\np.9\nKoronavir\u0289s\n\nKoronavir\u0289s, nda\u00a0 zaliya zacac\u0259k KOVID-19, a\u0257a matakwa mawaya. A h\u0259nkeke malel\u0259me ta\u0257a ta shin\u0259 ha mewen 31 ta kiya ta mazlam 2019. A\u0257a va j\u0259hay ta ma\u014bg\u0259rda v\u0259da nde, a\u0257a mam\u0259ta nda madama, a zlaha da k\u0259\u0257a nd\u0259 mala ka gay ta\u0257a mahwal hwala. Ka k\u0259zl ta\u0257a mata wud\u0259m a nd\u0259vbay haya\u014b ta wuyak. Nda s\u0259n j\u0259hay mala matakwa \u0257a a d\u0259k v\u0259da tapa bay.\n\n\nNday mahala\n\nNday ma va matakwa mala a hec ta wut ta r\u0259v mala mbay nday mata saw zay ta matakwa\nNday mala matakwa a wala ce ha de bay\nMapay ta nd\u0259mag\u0259da cuc\u0259m ma ha ya\u014b ta wuyak. Ko wudede, matakwa mawaya nana \u0257a a zlaha da jawa ce. Nday ta matakwa va nday mata saw zay ta matakwa \u014bg\u0259\u0257hay (nda matakwa ta nd\u0259 mala a shef va wu\u0257ay, matakwa ta sukwar, matakwa mala a hec ta wut ta r\u0259v, matakwa ta memb\u0259z mala a hway va wu\u0257ay ta v\u0259\u0257 ta memb\u0259z) a zlaha da kalda ka h\u0259da, mala a\u0257a mahwal hwala ma m\u0259ta nda matakwa nana.\n\n\n- Kokwa ha v\u0259\n- Met\u0259\u0253\u0259le \u00a0\n\n- \u018a\u0259sla mata kwal way\n- Mehec mata slaw ta v\u0259\nJ\u0259hay mata \u014bg\u0259rda matakwa hay v\u0259da ta v\u0259 ta nd\u0259\nJ\u0259hay mata \u014bg\u0259rda matakwa hay ta koronavir\u0289s mala a z\u0259v nday nda madama: kokwa maha v\u0259, \u0257\u0259sla mata kwal way, mehec mata slaw ta v\u0259, met\u0259t\u0259le. Nday ta matakwa \u014bg\u0259\u0257hay a haca ce ta slaw ta v\u0259, h\u0259t\u0259\u014b makwala, h\u0259t\u0259\u014b a gay yoyoya, a hec ta ma\u014bgurl\u0259m mala mbay hu\u0257 mehede. Nday \u014bg\u0259\u0257hay, matakwa ka z\u0259va ce, ama ko j\u0259\u014bg\u0259\u0257 mata \u014bg\u0259rda v\u0259da mbay, ec\u0259 manja ta ce. \u014ag\u0259\u0257hay ec\u0259 ka mb\u0259l ta ce ko mala ec\u0259 ka \u014bgat mej\u0259f bay.\n\nNd\u0259 mata caw \u0257\u0259sla\nMaz\u0259v nday ta koronavir\u0289s\n\nKOVID\u201319 a z\u0259v nday va\u014b ta nday mala slesl\u0259\u0257 ta matakwa ta v\u0259 ta ce. Mala nd\u0259 ta matakwa a caw \u0257\u0259sla mala mbay a caw \u0257\u0259shew, madama a d\u0259k va\u014b ta h\u0259t\u0259\u014b, mayaya va\u014b ta maa. Mala nd\u0259 \u014bg\u0259\u0257e ka z\u0259k madama mala mbay \u0257\u0259sla ta\u0257a sa, matakwa ta koronavir\u0289s a zlaha da z\u0259vana. Mala nd\u0259 \u014bg\u0259\u0257e a \u0253\u0259la j\u0259hay mala matakwa hapa, a zlaha da z\u0259viya mala ka \u0253\u0259l de, h\u0259t\u0259\u014b va maa.\n\n\n\n\nNda \u0257al v\u0259 \u0257ama?\n1. Ma\u0253\u0259l de, h\u0259t\u0259\u014b va maa mbay.\n\n2. Mapan haa t\u0259mt\u0259m va yim ma heshuwe va sab\u0259lu. Ha d\u0259\u0253a ta\u0257a matakwaliya va maslaga mapana ta\u0257a.\n\n3. Macaw \u0257\u0259sla va \u0257\u0259shew mata ma\u014bg\u0259l\u0253\u0259c ta haa.\n\n4. Wa \u0257alava ha mandaw slaw ma va de va ma \u0253\u0259l j\u0259hay ta maj\u0259g\u0259n\u0259.\n\n\n\n\n5. Manjay d\u0259r\u0259\u014b va nd\u0259 mata caw \u0257\u0259sla mala mbay \u0257\u0259slew, wa njay a gana g\u0259\u0257a g\u0259\u0257a mal\u0259v sh\u0259k m\u0259ta ta r\u0259va ta kur.\n\n\n6. Ma\u0257al v\u0259 ha mazl\u0259\u0253 haa. Wa vaw mbalay va ya\u014b mala mbay va megwe\u0257e.\n\n\n7. Ma\u0257al v\u0259 ha ma\u0253\u0259c va.\n\n8. Ma\u0257al v\u0259 ha ma\u014bgway.\n\n9. Ma paw zl\u0259may ha j\u0259hay mata gay, wa c\u0259n ma haya\u014b ta\u0257a te\u0257e\u0257e.\nNda gay \u0257ama mala ka maz\u0259va ma?\n\nMala j\u0259hay ta ma\u014bg\u0259rda matakwa v\u0259da ta v\u0259 ta kur nde:\n- Wa \u0257ala va ha mad\u0259r\u0259zlva va nday \u014bg\u0259\u0257hay.\n- Wa njay tun\u0259m.\n- Wa zal lemeru nana: 1510, kur da c\u0259n j\u0259hay mala nd\u0259 ta mej\u0259f a d\u0259 gwa\u0257a kur.\nLemeru \u014bg\u0259\u0257hay nde zacac\u0259k:\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\nHa pac\u0259na, nday ka \u014bgat mej\u0259f ta mamb\u0259l nday ta matakwa ta KOVID-19 \u0257a kogwa bay, ama nday ta \u014bgomna ec\u0259 d\u0259 hama hama ta ma tuw mej\u0259f ta matakwa \u0257a, kowawa da paw de ta v\u0259 ta\u0257a va nday ma ha sl\u0259m ta\u0257a.\nMa\u014bg\u0259rda ma haya\u014b ta ma mata c\u0259n bay:\n\n\n\n- As\u0259m: Matakwa mala a ndr\u0259ha meshefe.\n- Ma c\u0259p c\u0259v\u0259\u0257: Ma c\u0259p c\u0259v\u0259\u0257 ta j\u0259hay magwa\u0257a ta\u0257a ta h\u0259da.\n- Diyabet: Matakwa ta s\u0259kwar mala elehe ta memb\u0259z.\n- Madama: Matakwa.\n- Ipertansiyo\u014b: Memb\u0259z mala a hway va wu\u0257ay.\n- Matakwa: Matakwa mata jaw nday ha sl\u0259m ma m\u0259ta.\n- Mand\u0259ra: A zlaha, mand\u0259ra.\n- J\u0259hay: J\u0259hay mata \u014bg\u0259rda matakwa v\u0259da ta nd\u0259.\n- Mej\u0259f: Zlazl\u0259r.\n- Vir\u0289s: Slesl\u0259\u0257 ta matakwa, matakwa.\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "eng",
+        "mfj",
+        "fra"
+    ],
+    "copyright": "Copyright \u00a9 2020, CABTAL",
+    "country": "Cameroun",
+    "credits": "\r\nToutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\r\n\r\nContacts CABTAL\r\n\r\nWeb : www.cabtal.org\r\nMail : info_cabtal@cabtal.org\r\n\r\nTel : (237) 699 833 535\r\nWhatsApp : (237) 654 439 659\r\n\r\nB.P. : 16 550 Yaound\u00e9, Cameroun",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "Ejb2SdJLGj"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "O4H7hNzC4n"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "Spanish",
+        "fr": "fran\u00e7ais",
+        "mfj": "Langue baycawara"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "page-number-style": "Decimal",
+    "pageCount": 15,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Coronavirus COVID-19",
+    "tags": [],
+    "title": "J\u0259hay mala away kur s\u0259niya haya\u014b ta KORONAVIR\u0244S mala mbay KOVID\u201319",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

@@ -1,0 +1,339 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "018009c4-b40d-4a20-8cfe-5797ff71ea36",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Learn about the Corona virus",
+  "allTitles": "{\"en\":\"Learn about the Corona virus\",\"tpi\":\"Coronavirus em i wanem samting?\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,97e339fb-c523-401e-97bd-de14840c45a3",
+  "downloadSource": "educationforlife@sil.org/018009c4-b40d-4a20-8cfe-5797ff71ea36",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": "",
+  "copyright": "Copyright \u00a9 2020, Education for Life SIL PNG",
+  "credits": "Adapted from original copy 'Learn about the coronavirus, coloring book'\r\nby St. Jude Children's Research Hospital\r\n\r\nhttps://together.stjude.org\r\n",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 14,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "iMePJh2nky"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "Learn about Corona Virus",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "fkCfC1xhje"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "fr": "French",
+    "hi": "Hindi",
+    "tpi": "Tok Pisin",
+    "es": "Spanish"
+  },
+  "internetLimits": null,
+  "use-original-copyright": true,
+  "1": {
+    "tpi": "Coronavirus em i wanem samting?",
+    "en": "Learn about the Corona virus"
+  },
+  "2": {
+    "tpi": "Coronavirus em i wanem samting?",
+    "en": "Learn about the Corona virus"
+  },
+  "7": {
+    "tpi": "",
+    "en": ""
+  },
+  "8": {
+    "tpi": "",
+    "en": ""
+  },
+  "9": {
+    "tpi": "Ating yu bin harim planti lain i stori long 'Coronavirus.' 'Coronavirus' em i wanpela binatang nogut we i save mekim ol manmeri i pilim sik.",
+    "en": "You might have heard lots of people talking about something called the \u201ccoronavirus.\u201d Coronavirus is a type of virus that can make you feel sick."
+  },
+  "10": {
+    "tpi": "Ating yu bin harim planti lain i stori long 'Coronavirus.' 'Coronavirus' em i wanpela binatang nogut we i save mekim ol manmeri i pilim sik.",
+    "en": "You might have heard lots of people talking about something called the \u201ccoronavirus.\u201d Coronavirus is a type of virus that can make you feel sick."
+  },
+  "11": {
+    "tpi": "",
+    "en": ""
+  },
+  "12": {
+    "tpi": "",
+    "en": ""
+  },
+  "13": {
+    "tpi": "",
+    "en": ""
+  },
+  "14": {
+    "tpi": "",
+    "en": ""
+  },
+  "15": {
+    "tpi": "Coronavirus em i wanepela longpela nem. Long Tok Inglis mining bilong \"corona\" em i \"crown\" (dispela het bilas ol king na kwin i save werim). Dispela binatang em i liklik tru na i hat long lukim. Bai yu nidim 'microscope' long lukim. Taim yu lukim dispela binatang coronavirus wantaim \"microscope\", bai yu lukim olsem dispela binatang i gat \"crown\".",
+    "en": "Coronavirus is a big word, but did you know that \u201ccorona\u201d means crown? When you look at coronavirus under a microscope, a part of the virus looks like a crown."
+  },
+  "16": {
+    "tpi": "Coronavirus em i wanepela longpela nem. Long Tok Inglis mining bilong \"corona\" em i \"crown\" (dispela het bilas ol king na kwin i save werim). Dispela binatang em i liklik tru na i hat long lukim. Bai yu nidim 'microscope' long lukim. Taim yu lukim dispela binatang coronavirus wantaim \"microscope\", bai yu lukim olsem dispela binatang i gat \"crown\".",
+    "en": "Coronavirus is a big word, but did you know that \u201ccorona\u201d means crown? When you look at coronavirus under a microscope, a part of the virus looks like a crown."
+  },
+  "17": {
+    "tpi": "",
+    "en": ""
+  },
+  "18": {
+    "tpi": "",
+    "en": ""
+  },
+  "19": {
+    "tpi": "Planti manmeri long wol i kisim dispela sik pinis. Long wanem, Corona ken kalap wanpela igo narapela isi tru.",
+    "en": "because coronavirus spreads easily from person to person."
+  },
+  "20": {
+    "tpi": "Planti manmeri long wol i kisim dispela sik pinis. Long wanem, Corona ken kalap wanpela igo narapela isi tru.",
+    "en": "because coronavirus spreads easily from person to person."
+  },
+  "21": {
+    "tpi": "",
+    "en": ""
+  },
+  "22": {
+    "tpi": "",
+    "en": ""
+  },
+  "23": {
+    "tpi": "dua o ol samting ol man i save holim planti taim.",
+    "en": ""
+  },
+  "24": {
+    "tpi": "dua o ol samting ol man i save holim planti taim.",
+    "en": ""
+  },
+  "25": {
+    "tpi": "",
+    "en": ""
+  },
+  "26": {
+    "tpi": "",
+    "en": ""
+  },
+  "27": {
+    "tpi": "",
+    "en": ""
+  },
+  "28": {
+    "tpi": "",
+    "en": ""
+  },
+  "29": {
+    "tpi": "",
+    "en": "It feels a lot like when you have a cold or the flu."
+  },
+  "30": {
+    "tpi": "",
+    "en": "It feels a lot like when you have a cold or the flu."
+  },
+  "31": {
+    "tpi": "",
+    "en": ""
+  },
+  "32": {
+    "tpi": "",
+    "en": ""
+  },
+  "33": {
+    "tpi": "",
+    "en": ""
+  },
+  "34": {
+    "tpi": "",
+    "en": ""
+  },
+  "35": {
+    "tpi": "",
+    "en": ""
+  },
+  "36": {
+    "tpi": "",
+    "en": ""
+  },
+  "37": {
+    "en": "",
+    "tpi": ""
+  },
+  "38": {
+    "en": "",
+    "tpi": ""
+  },
+  "39": {
+    "en": "WASH YOUR HANDS OFTEN",
+    "tpi": "WASIM HAN OLGETA TAIM"
+  },
+  "40": {
+    "en": "WASH YOUR HANDS OFTEN",
+    "tpi": "WASIM HAN OLGETA TAIM"
+  },
+  "41": {
+    "en": "It is important that you WASH YOUR HANDS OFTEN",
+    "tpi": ""
+  },
+  "42": {
+    "en": "It is important that you WASH YOUR HANDS OFTEN",
+    "tpi": ""
+  },
+  "43": {
+    "en": "When you wash your hands with soap germs like coronavirus go away!",
+    "tpi": "Taim yu WASIM HAN BILONG YOU wantaim sop, yu ken rausim ol binatang nogut olsem coronavirus!"
+  },
+  "44": {
+    "en": "When you wash your hands with soap germs like coronavirus go away!",
+    "tpi": "Taim yu WASIM HAN BILONG YOU wantaim sop, yu ken rausim ol binatang nogut olsem coronavirus!"
+  },
+  "45": {
+    "en": "",
+    "tpi": ""
+  },
+  "46": {
+    "en": "",
+    "tpi": ""
+  },
+  "47": {
+    "en": "the toilet.",
+    "tpi": ""
+  },
+  "48": {
+    "en": "the toilet.",
+    "tpi": ""
+  },
+  "49": {
+    "tpi": "",
+    "en": ""
+  },
+  "50": {
+    "tpi": "",
+    "en": ""
+  },
+  "51": {
+    "tpi": "6) Stap long haus, noken raun tumas",
+    "en": "6. Stay at home and stay safe.",
+    "z": ""
+  },
+  "52": {
+    "tpi": "6) Stap long haus, noken raun tumas",
+    "en": "6. Stay at home and stay safe.",
+    "z": ""
+  },
+  "53": {
+    "tpi": "6) Stap long haus, noken raun tumas",
+    "en": "6. Stay at home and stay safe.",
+    "z": ""
+  },
+  "54": {
+    "tpi": "",
+    "en": ""
+  },
+  "55": {
+    "tpi": "",
+    "en": ""
+  },
+  "56": {
+    "tpi": "Dispela sik coronavirus i kamapim planti senis long ol komyuniti na mekim sampela manmeri i wari. Sampela lain i wari nogut ol i kisim dispela sik o ol wari long ol famili bilong ol.",
+    "en": "Some people worry about all the changes from coronavirus.\u00a0 They may worry about getting sick or worry about family members."
+  },
+  "57": {
+    "tpi": "Dispela sik coronavirus i kamapim planti senis long ol komyuniti na mekim sampela manmeri i wari. Sampela lain i wari nogut ol i kisim dispela sik o ol wari long ol famili bilong ol.",
+    "en": "Some people worry about all the changes from coronavirus.\u00a0 They may worry about getting sick or worry about family members."
+  },
+  "58": {
+    "tpi": "",
+    "en": ""
+  },
+  "59": {
+    "tpi": "",
+    "en": ""
+  },
+  "60": {
+    "tpi": "fon namba: 1800 200",
+    "en": ""
+  },
+  "61": {
+    "tpi": "fon namba: 1800 200",
+    "en": ""
+  },
+  "62": {
+    "tpi": "",
+    "en": ""
+  },
+  "63": {
+    "tpi": "",
+    "en": ""
+  },
+  "65": {
+    "tpi": "Coronavirus em i wanem samting?",
+    "en": "Learn about the Corona virus"
+  },
+  "66": {
+    "tpi": "Coronavirus em i wanem samting?",
+    "en": "Learn about the Corona virus"
+  },
+  "68": {
+    "en": "Education for Life SIL PNG"
+  },
+  "73": {
+    "en": "https://together.stjude.org"
+  }
+}

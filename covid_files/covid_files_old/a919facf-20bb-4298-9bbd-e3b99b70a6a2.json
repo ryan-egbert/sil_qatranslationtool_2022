@@ -1,0 +1,318 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "a919facf-20bb-4298-9bbd-e3b99b70a6a2",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Local-Community",
+  "folio": false,
+  "isRtl": false,
+  "title": "C\u00f3mo evitar el contagio por COVID-19",
+  "allTitles": "{\"es\":\"C\u00f3mo evitar el contagio por COVID-19\"}",
+  "originalTitle": "C\u00f3mo evitar el contagio por COVID-19",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "1a648b00-1ec0-46a7-be11-b0dec22fa0f4,225328cc-8c92-4000-b777-985c05d4141f",
+  "downloadSource": "cfsblomm@gmail.com/a919facf-20bb-4298-9bbd-e3b99b70a6a2",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": null,
+  "credits": "",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 19,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "asUh6dYuEO"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "L5o89HLV0w"
+    }
+  ],
+  "summary": null,
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "fpj1aahDD9"
+  },
+  "tools": [
+    {
+      "name": "signLanguage",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "signLanguageTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": "",
+  "originalPublisher": "",
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "signLanguage",
+    "signLanguage:csn",
+    "video"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "Ingl\u00e9s",
+    "hds": "Honduran Sign Language",
+    "es": "Spanish",
+    "csn": "LENGUA DE SE\u00d1AS COLOMBIANA (LSC)"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "es": "C\u00f3mo evitar el contagio por COVID-19"
+  },
+  "2": {
+    "es": "C\u00f3mo evitar el contagio por COVID-19"
+  },
+  "3": {
+    "es": "C\u00f3mo evitar el contagio por COVID-19"
+  },
+  "4": {
+    "es": "C\u00f3mo evitar el contagio por COVID-19"
+  },
+  "14": {
+    "es": "C\u00f3mo evitar el contagio por COVID-19"
+  },
+  "15": {
+    "es": "C\u00f3mo evitar el contagio por COVID-19"
+  },
+  "16": {
+    "es": "C\u00f3mo evitar el contagio por COVID-19"
+  },
+  "17": {
+    "es": "C\u00f3mo evitar el contagio por COVID-19"
+  },
+  "20": {
+    "csn": ""
+  },
+  "23": {
+    "csn": "Agradecemos a los generosos donantes que hicieron posible este proyecto."
+  },
+  "31": {
+    "z": "",
+    "es": "C\u00f3mo evitar el contagio por COVID-19.",
+    "csn": ""
+  },
+  "32": {
+    "z": "",
+    "es": "C\u00f3mo evitar el contagio por COVID-19.",
+    "csn": ""
+  },
+  "33": {
+    "z": "",
+    "es": "C\u00f3mo evitar el contagio por COVID-19.",
+    "csn": ""
+  },
+  "34": {
+    "z": "",
+    "es": "\u00a0En lo posible: quedarse en casa.",
+    "csn": ""
+  },
+  "35": {
+    "z": "",
+    "es": "\u00a0En lo posible: quedarse en casa.",
+    "csn": ""
+  },
+  "36": {
+    "z": "",
+    "es": "\u00a0En lo posible: quedarse en casa.",
+    "csn": ""
+  },
+  "37": {
+    "z": "",
+    "es": "Lavarse las manos correctamente.",
+    "csn": ""
+  },
+  "38": {
+    "z": "",
+    "es": "Lavarse las manos correctamente.",
+    "csn": ""
+  },
+  "39": {
+    "z": "",
+    "es": "Lavarse las manos correctamente.",
+    "csn": ""
+  },
+  "40": {
+    "z": "",
+    "es": "Usar gel antibacterial.",
+    "csn": ""
+  },
+  "41": {
+    "z": "",
+    "es": "Usar gel antibacterial.",
+    "csn": ""
+  },
+  "42": {
+    "z": "",
+    "es": "Usar gel antibacterial.",
+    "csn": ""
+  },
+  "43": {
+    "z": "",
+    "es": "Utilizar mascarilla.",
+    "csn": ""
+  },
+  "44": {
+    "z": "",
+    "es": "Utilizar mascarilla.",
+    "csn": ""
+  },
+  "45": {
+    "z": "",
+    "es": "Utilizar mascarilla.",
+    "csn": ""
+  },
+  "46": {
+    "z": "",
+    "es": "Cubrirse la cara al toser y estornudar.",
+    "csn": ""
+  },
+  "47": {
+    "z": "",
+    "es": "Cubrirse la cara al toser y estornudar.",
+    "csn": ""
+  },
+  "48": {
+    "z": "",
+    "es": "Cubrirse la cara al toser y estornudar.",
+    "csn": ""
+  },
+  "49": {
+    "z": "",
+    "es": "Evitar tocarse los ojos, nariz y la boca.",
+    "csn": ""
+  },
+  "50": {
+    "z": "",
+    "es": "Evitar tocarse los ojos, nariz y la boca.",
+    "csn": ""
+  },
+  "51": {
+    "z": "",
+    "es": "Evitar tocarse los ojos, nariz y la boca.",
+    "csn": ""
+  },
+  "52": {
+    "z": "",
+    "es": "Limpiar y desinfectar las compras.",
+    "csn": ""
+  },
+  "53": {
+    "z": "",
+    "es": "Limpiar y desinfectar las compras.",
+    "csn": ""
+  },
+  "54": {
+    "z": "",
+    "es": "Limpiar y desinfectar las compras.",
+    "csn": ""
+  },
+  "55": {
+    "z": "",
+    "es": "No compartir vaso, ni utensilios personales.",
+    "csn": ""
+  },
+  "56": {
+    "z": "",
+    "es": "No compartir vaso, ni utensilios personales.",
+    "csn": ""
+  },
+  "57": {
+    "z": "",
+    "es": "No compartir vaso, ni utensilios personales.",
+    "csn": ""
+  },
+  "58": {
+    "z": "",
+    "es": "Procurar mantener 2 metros de distancia entre uno y los d\u00e9mas.",
+    "csn": ""
+  },
+  "59": {
+    "z": "",
+    "es": "Procurar mantener 2 metros de distancia entre uno y los d\u00e9mas.",
+    "csn": ""
+  },
+  "60": {
+    "z": "",
+    "es": "Procurar mantener 2 metros de distancia entre uno y los d\u00e9mas.",
+    "csn": ""
+  },
+  "61": {
+    "z": "",
+    "es": "Evita dar la mano, mejor saluda de lejos o codo con codo.",
+    "csn": ""
+  },
+  "62": {
+    "z": "",
+    "es": "Evita dar la mano, mejor saluda de lejos o codo con codo.",
+    "csn": ""
+  },
+  "63": {
+    "z": "",
+    "es": "Evita dar la mano, mejor saluda de lejos o codo con codo.",
+    "csn": ""
+  },
+  "64": {
+    "z": "",
+    "es": "Al llegar del trabajo, desecha la mascarilla; coloca aparte la ropa, b\u00e1\u00f1ate y ponte ropa limpia.",
+    "csn": ""
+  },
+  "65": {
+    "z": "",
+    "es": "Al llegar del trabajo, desecha la mascarilla; coloca aparte la ropa, b\u00e1\u00f1ate y ponte ropa limpia.",
+    "csn": ""
+  },
+  "66": {
+    "z": "",
+    "es": "Al llegar del trabajo, desecha la mascarilla; coloca aparte la ropa, b\u00e1\u00f1ate y ponte ropa limpia.",
+    "csn": ""
+  },
+  "67": {
+    "z": "",
+    "es": "Luego coloca la ropa en detergente, procede a lavarla y tenderla para que est\u00e9 limpia.",
+    "csn": ""
+  },
+  "68": {
+    "z": "",
+    "es": "Luego coloca la ropa en detergente, procede a lavarla y tenderla para que est\u00e9 limpia.",
+    "csn": ""
+  },
+  "69": {
+    "z": "",
+    "es": "Luego coloca la ropa en detergente, procede a lavarla y tenderla para que est\u00e9 limpia.",
+    "csn": ""
+  }
+}

@@ -1,0 +1,105 @@
+{
+    "allTitles": "{\"en\":\"Nh\u1eefng c\u00e2u n\u00f3i kh\u00edch l\u1ec7\ntrong m\u00f9a d\u1ecbch Covid-19\nMotivational Quotes\nin Covid-19 time\"}",
+    "author": null,
+    "bookInstanceId": "37f2ce03-7e69-4ec0-a44e-250ef7773ef4",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+    "bookSamples": {
+        "0": {
+            "eng": "Nh\u1eefng c\u00e2u n\u00f3i kh\u00edch l\u1ec7\ntrong m\u00f9a d\u1ecbch Covid-19\nMotivational Quotes\nin Covid-19 time\n"
+        },
+        "1": {
+            "eng": ""
+        },
+        "2": {
+            "eng": ""
+        },
+        "3": {
+            "eng": ""
+        },
+        "4": {
+            "eng": "Nh\u1eefng c\u00e2u n\u00f3i kh\u00edch l\u1ec7\ntrong m\u00f9a d\u1ecbch Covid-19\nMotivational Quotes\nin Covid-19 time\n"
+        },
+        "5": {
+            "eng": "Khanh Do from BSV"
+        },
+        "6": {
+            "eng": ""
+        },
+        "7": {
+            "eng": ""
+        },
+        "8": {
+            "eng": ""
+        },
+        "9": {
+            "eng": ""
+        },
+        "10": {
+            "eng": "\"He stilled the storm to a whisper;\nthe waves of the sea were hushed.\"\n- Psalm 107:29 -\n\n(Vietnamese - English Version)\n"
+        },
+        "11": {
+            "eng": "\"Then they cried to the Lord in their trouble, and he saved them from their distress.\"\u00a0\n- Psalm 107:13 -\n\n(Vietnamese - English Version)"
+        },
+        "12": {
+            "eng": "\"I will give you thanks, for you answered me; you have become my salvation.\"\n- Psalm 118:21 -\n\n(Vietnamese - English Version)"
+        },
+        "13": {
+            "eng": "\"Do everything in love.\"\n- I Corinthians 16:14-\u00a0\n\n(Tay - English Version)"
+        },
+        "14": {
+            "eng": "\"Therefore, if anyone is in Christ, the new creation has come. The old has gone, the new is here!\"\n- II Corinthians 5:17-\n\n(Muong - English Version)"
+        },
+        "15": {
+            "eng": ""
+        },
+        "16": {
+            "eng": ""
+        }
+    },
+    "bookText": {
+        "eng": "Nh\u1eefng c\u00e2u n\u00f3i kh\u00edch l\u1ec7\ntrong m\u00f9a d\u1ecbch Covid-19\nMotivational Quotes\nin Covid-19 time\n\n\n\n\nNh\u1eefng c\u00e2u n\u00f3i kh\u00edch l\u1ec7\ntrong m\u00f9a d\u1ecbch Covid-19\nMotivational Quotes\nin Covid-19 time\n\nKhanh Do from BSV\n\n\n\n\n\"He stilled the storm to a whisper;\nthe waves of the sea were hushed.\"\n- Psalm 107:29 -\n\n(Vietnamese - English Version)\n\n\"Then they cried to the Lord in their trouble, and he saved them from their distress.\"\u00a0\n- Psalm 107:13 -\n\n(Vietnamese - English Version)\n\"I will give you thanks, for you answered me; you have become my salvation.\"\n- Psalm 118:21 -\n\n(Vietnamese - English Version)\n\"Do everything in love.\"\n- I Corinthians 16:14-\u00a0\n\n(Tay - English Version)\n\"Therefore, if anyone is in Christ, the new creation has come. The old has gone, the new is here!\"\n- II Corinthians 5:17-\n\n(Muong - English Version)\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Khanh Do from Bible Society Vietnam",
+    "country": "Vietnam",
+    "credits": "",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English"
+    },
+    "languages": [],
+    "license": "cc-by",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "page-number-style": "Decimal",
+    "pageCount": 11,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": null,
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Nh\u1eefng c\u00e2u n\u00f3i kh\u00edch l\u1ec7\ntrong m\u00f9a d\u1ecbch Covid-19\nMotivational Quotes\nin Covid-19 time",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

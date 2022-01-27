@@ -1,0 +1,543 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre el coronavirus\",\"jmx\":\"Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \\\"Coronavirus\\\"\"}",
+    "author": null,
+    "bookInstanceId": "dcc3fac4-a4ff-48fe-94f0-f446396b8096",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,deb84390-dffc-42cd-a314-abd4a2738a57",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "jmx": "Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \"Coronavirus\"",
+            "spa": "Sobre el coronavirus",
+            "und": ""
+        },
+        "1": {
+            "jmx": "",
+            "spa": ""
+        },
+        "2": {
+            "jmx": "\u200b\u200b\u200b \u200b",
+            "spa": ""
+        },
+        "3": {
+            "eng": "",
+            "jmx": "",
+            "spa": ""
+        },
+        "4": {
+            "eng": "",
+            "jmx": "",
+            "spa": ""
+        },
+        "5": {
+            "eng": "There's only ONE thing \ufeffyou need to understand about how a coronavirus",
+            "jmx": "Iin \u00f1a\u0331\ua78ca k\u00fa\u00fa \u00f1a\u0331 x\u00ednin\u00fa\ua78cu\ufeffkuntaa ini\u2011\u00fan \u00f1a\u0331 na\u0331xa ku\u0331va nt\u00edku\u0331n m\u00ed\u00ed kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed\ufeffCORONAVIRUS y\u00f3\ua78co\ufeffiinka na\u0331 yuv\u00ed",
+            "spa": "Solo hay UNA cosa que tienes que entender sobre c\u00f3mo se contagia el"
+        },
+        "6": {
+            "eng": "SPREADS",
+            "jmx": "\u00a0\u200b",
+            "spa": "CORONAVIRUS"
+        },
+        "7": {
+            "eng": "Mouth",
+            "jmx": "yu\ua78c\u00fa\u2011y\u00f3",
+            "spa": "boca"
+        },
+        "8": {
+            "eng": "Nose",
+            "jmx": "xi\u0331t\u00edn\u2011y\u00f3",
+            "spa": "nariz"
+        },
+        "9": {
+            "eng": "Eyes",
+            "jmx": "nu\u0331\u00fa\u2011y\u00f3",
+            "spa": "ojos"
+        },
+        "10": {
+            "eng": "Get into your",
+            "jmx": "Nu\u0331\u00fa k\u00ed\ua78cvi\u2011\u00f1a\u0331 k\u00fa\u00fa",
+            "spa": "Entran a tus"
+        },
+        "11": {
+            "eng": "Healthy Person",
+            "jmx": "Na\u0331 va\u0331\ua78ca",
+            "spa": "Persona Sana"
+        },
+        "12": {
+            "eng": "Sick Person",
+            "jmx": "Na\u0331 k\u00fa\ua78cvi\u0331",
+            "spa": "Persona Enferma"
+        },
+        "13": {
+            "eng": "The virus spreads when \ufeffthese droplets",
+            "jmx": "M\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co\ufeffnt\u00edku\u0331n\u2011\u00f1a\u0331 iinka\u2011na\u0331 x\u00ed\ua78cin\ufeff\ufeffti\u00e1 s\u01d0\ua78ci\u2011na\u0331.",
+            "spa": "El virus se\ufeffcontagia cuando estas\ufeffgotas de saliva"
+        },
+        "14": {
+            "eng": "Keep your distance.\ufeff2m to 0.5m will keep you safe from large droplets.",
+            "jmx": "X\u00edka koo\u2011\u00fan.\ufeffKu\u0331va u\u0331vi\u0331 \u00e1 nta\u0331a\u0331 u\u0331\ua78cu\u0331n metro koo\u2011\u00fan \u00f1a\u0331 n\u00e1 x\u00e4a\u0331 ti\u00e1 s\u01d0\ua78ci\u2011na\u0331 nu\u0331\u00fa\u2011\u00fan.",
+            "spa": "Mantener tu distancia.\ufeffCalcula entre 2 a 5 metros para evitar contacto con las gotas de saliva."
+        },
+        "15": {
+            "eng": "1",
+            "jmx": "1",
+            "spa": "1"
+        },
+        "16": {
+            "eng": "2m-0.5m",
+            "jmx": "2 - 5 m",
+            "spa": "2 - 5m"
+        },
+        "17": {
+            "eng": "Achoo!",
+            "jmx": "\u00a1Ach\u00eds!",
+            "spa": "\u00a1Ach\u00eds!"
+        },
+        "18": {
+            "eng": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:",
+            "jmx": "\u00c1tu x\u00edni\u2011\u00fan iin na\u0331 k\u00e1t\u00e1 su\u0331k\u00fan, \u00e1 na\u0331 k\u00e1x\u00e1n, \u00e1 na\u0331 k\u00fa\ua78cvi\u0331, kuvi:",
+            "spa": "Si ves a alguien que tose, estornuda, o est\u00e1 enfermo, puedes:"
+        },
+        "19": {
+            "eng": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby",
+            "jmx": "Taxi iin \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa nta\ua78c\u00e1\u2011na\u0331.\ufeffSa\u00e1, ra kuvi kat\u00e1 su\u0331k\u00fan\u2011na\u0331 \u00e1 kax\u00e1n\u2011na\u0331,\ufeffra \u00efyo nti\u0331ku\u0331n kue\u0331\ua78ce\u0331 iinka\u2011na\u0331.",
+            "spa": "Darle un cubrebocas.\ufeffAs\u00ed, la persona puede toser o estornudar sin poner en riesgo a los dem\u00e1s."
+        },
+        "20": {
+            "eng": "2",
+            "jmx": "2",
+            "spa": "2"
+        },
+        "21": {
+            "eng": "Thank you\ufeff*sniffles*",
+            "jmx": "\u00a1\u00a1Tixa\u0331\ua78cvi\u2011\u00fan!!",
+            "spa": "\u00a1\u00a1\u00a1Gracias!!!"
+        },
+        "22": {
+            "eng": "OR,",
+            "jmx": "Sa\u00e1 tu \u00f1a\u0331 kuvi kasa\u2011\u00fan k\u00fa\u00fa\u2011\u00f1a\u0331:",
+            "spa": "Tambien puedes:"
+        },
+        "23": {
+            "eng": "Maybe she's not sick, just protecting herself",
+            "jmx": "Sana \u00f1\u00e1 y\u00f3\ua78co k\u00f6k\u00fa\ua78cvi\u0331 v\u00ed\u2011\u00f1\u00e1, suu nti\u00e1a\u2011\u00f1\u00e1 mi\u00ed\u2011\u00f1\u00e1 \u00f1a\u0331 n\u00e1 nt\u00efku\u0331n\u2011\u00f1a\u0331\u2011\u00f1\u00e1",
+            "spa": "Quiz\u00e1 ella no est\u00e9 enferma y solamente se est\u00e1 protegiendo."
+        },
+        "24": {
+            "eng": "People who are infected can show no symptoms, but are still\ufeffinfectious",
+            "jmx": "Na\u0331 yuv\u00ed na\u0331 xa\u0331 \u00edyo m\u00ed\u00ed kue\u0331\ua78ce\u0331 ik\u00e1n i\u00edn kuvi\ufeffk\u00f6n\u00e1\ua78ca\u0331 v\u00ed\u2011na\u0331 \ufeff\u00f1a\u0331 k\u00fa\ua78cvi\u0331\u2011na\u0331, suu kuvi s\u00e1nti\u0331ku\u0331n\u2011na\u0331\u2011\u00f1a\u0331 iinka na\u0331 yuv\u00ed.",
+            "spa": "Las personas que ya tienen contagio pueden no presentar s\u00edntomas, per a\u00fan as\u00ed, te pueden\ufefftransmitir\ufeffel virus."
+        },
+        "25": {
+            "eng": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick.",
+            "jmx": "\u00d1a\u0331 va\u0331\ua78ca ka k\u00fa\u00fa\u2011\u00f1a\u0331 n\u00e1 k\u00fc\ua78cu\u0331n\u2011\u00fan nu\u0331\u00fa \u00edyo kua\u0331\ua78c\u00e1 na\u0331 yuv\u00ed, chi x\u00efni\u2011\u00fan nt\u00e1a k\u00fa\u00fa na\u0331 k\u00fa\ua78cvi\u0331.",
+            "spa": "En general, conviene evitar lugares con mucha gente, porque no sabe qu\u00e9n podr\u00eda estar enfermo."
+        },
+        "26": {
+            "eng": "chopsticks",
+            "jmx": "nu\u0331\u00fa\ufeffkuch\u00e1ra",
+            "spa": "palillos/\ufeffcubiertos"
+        },
+        "27": {
+            "eng": "Healthy person",
+            "jmx": "na\u0331 va\u0331\ua78ca",
+            "spa": "persona sana"
+        },
+        "28": {
+            "eng": "Train straps",
+            "jmx": "so\u0331\ua78co \u00f1a\u0331\ua78ca",
+            "spa": "agarraderas"
+        },
+        "29": {
+            "eng": "Lift buttons",
+            "jmx": "\u00edki\n\u200csa\ua78cm\u00e1",
+            "spa": "botones"
+        },
+        "30": {
+            "eng": "Tissues",
+            "jmx": "pa\u00edto",
+            "spa": "pa\u00f1uelos"
+        },
+        "31": {
+            "eng": "Cups",
+            "jmx": "v\u00e1so",
+            "spa": "vasos"
+        },
+        "32": {
+            "eng": "Digital devices",
+            "jmx": "nu\u0331\u00fa celular,\ufeff\u00e1 computadora",
+            "spa": "dispositivos digitales"
+        },
+        "33": {
+            "eng": "& even on the outside of your face mask",
+            "jmx": "sa\u0331t\u00e1\ufeff\u00f1a\u0331 nt\u00e1si yu\u0331\ua78c\u00fa\u2011na\u0331",
+            "spa": "hasta en el exterior del cubrebocas"
+        },
+        "34": {
+            "eng": "Stair bannisters",
+            "jmx": "nu\u0331\u00fa t\u00edin ntiaa\u2011na\u0331",
+            "spa": "pasamanos"
+        },
+        "35": {
+            "eng": "Mouse",
+            "jmx": "\u00f1a\u0331 t\u00edin\u2011na\u0331\ufefft\u00e1 k\u00e9\ua78c\u00e9\u2011na\u0331 computadora",
+            "spa": "rat\u00f3n"
+        },
+        "36": {
+            "eng": "Pens",
+            "jmx": "l\u00e1pi",
+            "spa": "lapiceros"
+        },
+        "37": {
+            "eng": "Door knobs",
+            "jmx": "nu\u0331\u00fa t\u00edin\u2011na\u0331 x\u00fan\u00e1\u2011na\u0331 y\u00e9\ua78ce",
+            "spa": "perillas"
+        },
+        "38": {
+            "eng": "Their hands",
+            "jmx": "nta\ua78c\u00e1\u2011na\u0331",
+            "spa": "las manos"
+        },
+        "39": {
+            "eng": "However, sometimes a sick person's saliva can get on other things\u2026",
+            "jmx": "Sava ra, m\u00ed\u00ed ti\u00e1 s\u01d0\ua78ci iin na\u0331 yuv\u00ed k\u00fa\ua78cvi\u0331 kuvi koo\u2011r\u00e1:",
+            "spa": "A veces, la saliva de una persona enferma puede entrar en contacto con:"
+        },
+        "40": {
+            "eng": "you might all fall sick.",
+            "jmx": "nti\ua78ci\u2011na\u0331 kuvi ki\ua78cin m\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co.",
+            "spa": "todos podr\u00edan enfermarse."
+        },
+        "41": {
+            "eng": "or your loved one's face",
+            "jmx": "\u00e1 nu\u0331\u00fa na\u0331 t\u00e1\ua78can\u2011\u00fan",
+            "spa": "o la de tus seres queridos"
+        },
+        "42": {
+            "eng": "rub eyes",
+            "jmx": "\u00e1 ntuch\u00ed nu\u0331\u00fa\u2011\u00fan",
+            "spa": "o frotas los ojos,"
+        },
+        "43": {
+            "eng": "And if you do touch any of these things by accident, and then touch your face,",
+            "jmx": "\u00c1tu k\u00f6k\u00ed\ua78cin\u2011\u00fan ku\u00e9nta ra ke\ua78c\u00e9\u2011\u00fan nt\u00e1a \u00f1a\u0331\ua78ca y\u00f3\ua78co ra t\u00e1 nti\u0331\ua78ci k\u00e9\ua78c\u00e9\u2011\u00fan nu\u0331\u00fa\u2011\u00fan,",
+            "spa": "Si tocas cualquiera de estas cosas sin querer y despu\u00e9s te tocas la cara,"
+        },
+        "44": {
+            "eng": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.",
+            "jmx": "Ntakatia \u00f1a\u0331\ua78ca x\u00ed\ua78cin na\u0331m\u00e1, kl\u00f3ro,\n\u00e1 alcohol, ra nti\ua78ci xa\u0331\ua78c\u00e1\u2011\u00f1a\u0331.",
+            "spa": "Lavarlos con jab\u00f3n, cloro, o alcohol medicinal es la \u00fanica forma de eliminarlos."
+        },
+        "45": {
+            "eng": "Viruses can last for quite a few hours on objects,",
+            "jmx": "M\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co kuvi koo\u2011\u00f1a\u0331 nta\u0331a\u0331 u\u0331vi\u0331 ki\u0331\u00ed nu\u0331\u00fa \u00f1a\u0331\ua78ca.",
+            "spa": "Los virus pueden durar hasta 48 horas en objetos."
+        },
+        "46": {
+            "eng": "soap",
+            "jmx": "na\u0331m\u00e1",
+            "spa": "jab\u00f3n"
+        },
+        "47": {
+            "eng": "precautions",
+            "jmx": "\u00f1a\u0331 kasa\u2011\u00fan",
+            "spa": "precauciones"
+        },
+        "48": {
+            "eng": "Which is why it is also good to follow these",
+            "jmx": "\u00d1a\u0331 n\u00e1 nt\u00efku\u0331n\u2011\u00f1a\u0331 iinka\u2011na\u0331 \u00e1 mi\u00ed\u2011\u00fan, \u00f1a\u0331 y\u00f3\ua78co k\u00fa\u00fa",
+            "spa": "Para evitar contagios,\ufeffsigue estas"
+        },
+        "49": {
+            "eng": "wash with soap up to here",
+            "jmx": "nta\ua78c\u00e1 ti\u0331ku\u00edi iin s\u00e1a\ufeffnta\u0331a\u0331 y\u00f3\ua78co",
+            "spa": "l\u00e1vate\ufeffhasta aqu\u00ed"
+        },
+        "50": {
+            "eng": "soap",
+            "jmx": "na\u0331m\u00e1",
+            "spa": "jab\u00f3n"
+        },
+        "51": {
+            "eng": "elbow",
+            "jmx": "ko\u0331nto\u0331 nta\ua78c\u00e1",
+            "spa": "codo"
+        },
+        "52": {
+            "eng": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.",
+            "jmx": "K\u00eb\ua78c\u00e9\u2011\u00fan nu\u0331\u00fa\u2011\u00fan (\u00e1 nu\u0331\u00fa iinka\u2011na\u0331).\ufeff\u00c1tu x\u00ednin\u00fa\ua78cu kasa\u2011\u00fan\u2011\u00f1a\u0331, x\u00edn\u00e1 ka va\u0331\ua78ca va\u0331\ua78ca nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi.",
+            "spa": "No toques tu cara (o la de algui\u00e9n m\u00e1s).\ufeffSi tienes que hacerlo, primero l\u00e1vate muy bien las manos."
+        },
+        "53": {
+            "eng": "Enough time to sing \u201cHappy Birthday\u201d twice",
+            "jmx": "\u200b\u200b\u200b ",
+            "spa": "El tiempo suficiente para cantar \"Happy Birthday\" dos veces"
+        },
+        "54": {
+            "eng": "under the nails",
+            "jmx": "ti\u0331xin ch\u00ee\u00edn\u2011\u00fan",
+            "spa": "debajo las u\u00f1as"
+        },
+        "55": {
+            "eng": "for 20 seconds",
+            "jmx": "nu\u0331\u00fa o\u0331ko\u0331 segundo",
+            "spa": "por 20 segundos"
+        },
+        "56": {
+            "eng": "between the fingers",
+            "jmx": "m\u01ce\ua78c\u00f1u ntuku nta\ua78c\u00e1\u2011\u00fan",
+            "spa": "entre los dedos"
+        },
+        "57": {
+            "eng": "wash the back of your hands",
+            "jmx": "ntakatia sa\u0331t\u00e1 nta\ua78c\u00e1\u2011\u00fan",
+            "spa": "lava la parte de atr\u00e1s"
+        },
+        "58": {
+            "eng": "What is thoroughly?",
+            "jmx": "\u00bfNa\u0331xa ku\u0331va nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi?",
+            "spa": "\u00bfC\u00f3mo lavarse muy bien las manos?"
+        },
+        "59": {
+            "eng": "If you did, don't worry. Just wash your hands with soap after.",
+            "jmx": "nta\ua78cnti",
+            "spa": "Si lo hiciste, no te procupes. Solamente l\u00e1vate bien las manos con jab\u00f3n despu\u00e9s."
+        },
+        "60": {
+            "eng": "Also, don't touch the outside of the mask if you can.",
+            "jmx": "Ra t\u00efin\u2011\u00fan sa\u0331t\u00e1\ufeffm\u00ed\u00ed \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa\u2011\u00fan ik\u00e1n \u00e1tu n\u00e1 kuvi.",
+            "spa": "Adem\u00e1s, no toques el exterior del cubrebocas si puedes evitarlo."
+        },
+        "61": {
+            "eng": "droplets",
+            "jmx": "\u00c1tu ti\u0331in\u2011\u00fan\u2011\u00f1a\u0331, va\u0331\ua78ca va\u0331\ua78ca nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi x\u00ed\ua78cin na\u0331m\u00e1 va.",
+            "spa": "gotas"
+        },
+        "62": {
+            "eng": "*Bacteria grows on the insides of your mask if you wear them too long",
+            "jmx": "\u00c1tu kua\u0331\ua78c\u00e1 ki\u0331\u00ed n\u00e1 kuntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan, kuvi koo \u00f1a ya\u0331kua\u0331 ini\u2011\u00f1a\u0331.",
+            "spa": "Si usas por mucho tiempo el mismo cubrebocas, puede acumular bacterias en el interior."
+        },
+        "63": {
+            "eng": "Throw away masks once they feel gross. Don't wear them for more than a day!",
+            "jmx": "S\u00e1kana m\u00ed\u00ed \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa\u2011\u00fan\ufeffik\u00e1n \u00f1a\u0331 ya\u0331kua\u0331 nu\u0331\u00fa kuayo.\ufeffN\u00e1 k\u00fcntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan nu\u0331\u00fa kua\u0331\ua78c\u00e1 ki\u0331\u00ed.\ufeffIin ki\u0331\u00ed va n\u00e1 kuntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan, ra sama\u2011\u00f1a\u0331.",
+            "spa": "Tira los cubrebocas que est\u00e9n sucios.\ufeff\u00a1No los uses m\u00e1s de un d\u00eda!"
+        },
+        "64": {
+            "eng": "Use a serving spoon",
+            "jmx": "N\u00e1 koo s\u00ed\u00edn\ufeffiin kuch\u00e1ra\ufeff\u00f1a\u0331 taan\u2011\u00fan \u00f1a\u0331\ua78ca.",
+            "spa": "Usa una chuchara especial para servir"
+        },
+        "65": {
+            "eng": "Baby",
+            "jmx": "l\u011be",
+            "spa": "nene"
+        },
+        "66": {
+            "eng": "Daddy",
+            "jmx": "pa\u00e1",
+            "spa": "papi"
+        },
+        "67": {
+            "eng": "Mommy",
+            "jmx": "ma\u00e1",
+            "spa": "mami"
+        },
+        "68": {
+            "eng": "Everyone gets their own towel",
+            "jmx": "N\u00e1 koo tuvaya iin iin\u2011na\u0331.",
+            "spa": "Cada qui\u00e9n tiene su propia toalla"
+        },
+        "69": {
+            "eng": "Do not share food, utensils, cups, towels.",
+            "jmx": "T\u00e4xi too\u2011\u00fan \u00f1a\u0331\ua78c\u00e1 x\u00edxi\u2011\u00fan, kuch\u00e1ra\u2011\u00fan, vaso\u2011\u00fan, \u00e1 tuvaya\u2011\u00fan nt\u00e1\ua78ca iinka\u2011na\u0331.",
+            "spa": "No compartas comida, cubiertos, vasos o toallas."
+        },
+        "70": {
+            "eng": "You can't touch your face with your elbow even if you tried",
+            "jmx": "S\u00e1a chi, nii na\u0331xa ka n\u00e1 k\u00fau\u2011\u00fan, k\u00fcvi v\u00ed tiin\u2011\u00fan nu\u0331\u00fa\u2011\u00fan x\u00ed\ua78cin ko\u0331nto\u0331 nta\ua78c\u00e1\u2011\u00fan.",
+            "spa": "Ni es posible tocarte la cara con los codos, por m\u00e1s que lo intentes."
+        },
+        "71": {
+            "eng": "Open & close doors with your elbows or shoulders instead of hands, if possible.",
+            "jmx": "Kun\u00e1 x\u00ed\ua78cin chikasi y\u00e9\ua78ce xi\ua78cin so\u0331ko\u0331\u2011\u00fan \u00e1 x\u00ed\ua78cin ko\u0331nto\u0331 nta\ua78c\u00e1\u2011\u00fan\ufeff\u00f1a\u0331 n\u00e1 k\u00e4sa\u2011\u00fan\u2011\u00f1a\u0331 x\u00ed\ua78cin nta\ua78c\u00e1\u2011\u00fan.",
+            "spa": "Abre y cierra las puertas con tus hombros o codos.\ufeffEvitar usar las manos."
+        },
+        "72": {
+            "eng": "Home",
+            "jmx": "ve\ua78ce",
+            "spa": "Hogar"
+        },
+        "73": {
+            "eng": "and after being out in the public",
+            "jmx": "t\u00e1 xa\u0331 nti\u0331k\u00f3\u2011\u00fan nt\u00e1a ka m\u00ed\u00ed nu\u0331\u00fa ni\u0331xa\u0331\ua78ca\u0331n\u2011\u00fan",
+            "spa": "y despu\u00e9s de estar en la calle"
+        },
+        "74": {
+            "eng": "Before you eat",
+            "jmx": "t\u00e1 xa\u0331 n\u00e1 kuxi\u2011\u00fan",
+            "spa": "antes de comer"
+        },
+        "75": {
+            "eng": "Always wash your hands with soap\u2026",
+            "jmx": "Iin ku\u0331u\u2011\u00fan nta\ua78c\u00e1\u2011un ti\u0331ku\u00edi x\u00ed\ua78cin na\u0331m\u00e1 ...",
+            "spa": "Siempre l\u00e1vate las manos con jab\u00f3n ..."
+        },
+        "76": {
+            "eng": "And finally,",
+            "jmx": "Nu\u0331\u00fa nt\u00ed\ua78ci,",
+            "spa": "Finalmente,"
+        },
+        "77": {
+            "eng": "soap",
+            "jmx": "na\u0331m\u00e1",
+            "spa": "jab\u00f3n"
+        },
+        "78": {
+            "eng": "Stay safe, everyone!",
+            "jmx": "\u00a1Nti\ua78ci\u2011nt\u00f3 kuntiaa\u2011nt\u00f3 mi\u00ed\u2011nt\u00f3!",
+            "spa": "\u00a1Cu\u00eddense, todos!"
+        },
+        "79": {
+            "eng": "Stay safe, everyone!",
+            "jmx": "\u00a1Nti\ua78ci\u2011nt\u00f3 kuntiaa\u2011nt\u00f3 mi\u00ed\u2011nt\u00f3!",
+            "spa": "\u00a1Cu\u00eddense, todos!"
+        },
+        "80": {
+            "eng": "soap",
+            "jmx": "na\u0331m\u00e1",
+            "spa": "jab\u00f3n"
+        },
+        "81": {
+            "eng": "Read the articles for more tips!",
+            "jmx": "K\u00e1\ua78cvi art\u00edculo y\u00f3\ua78co n\u00e1 kunta\u0331a\u0331 ch\u00e1 ka ini\u2011\u00fan",
+            "spa": "Lee estos art\u00edculos para mayor informaci\u00f3n."
+        },
+        "82": {
+            "eng": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)",
+            "jmx": "\"This animation shows how far your sneeze can actually travel\" xa\u0331\ua78c\u00e1 Chia Yi Hou and Andrea Schmitz, nu\u0331\u00fa Business Insider. (Jan 21, 2020)",
+            "spa": "\"This animation shows how far your sneeze can actually travel\" por Chia Yi Hou, en Business Insider\ufeff(21 de enero de 2020)"
+        },
+        "83": {
+            "eng": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)",
+            "jmx": "\"The Wuhan Virus: How to stay safe\", xa\u0331\ua78c\u00e1 Laurie Garrett, nu\u0331\u00fa Foreign Policy, Report.\ufeff(25 de enero de 2020)",
+            "spa": "\"The Wuhan Virus: How to stay safe\", por Laurie Garrett, en Foreign Policy, Repert.\ufeff(25 de enero de 2020)"
+        },
+        "84": {
+            "eng": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020",
+            "jmx": "\"How to avoid the coronavirus? Wash your hands\" xa\u0331\ua78c\u00e1 Elizabeth Sosenthal, nu\u0331\u00fa The New York Times, Opinion. (28 de enero de 2020)",
+            "spa": "\"How to avoid the coronavirus? Wash your hands\" por Elizabeth Sosenthal, en The New York Times, Opinion. (28 de enero de 2020)"
+        },
+        "85": {
+            "eng": "Main references for medical info:",
+            "jmx": "Nu\u0331\u00fa ta\u0331va\u2011nti\u0331 \u00f1a\u0331 y\u00f3\ua78co",
+            "spa": "Principales referencias m\u00e9dicas:"
+        },
+        "86": {
+            "eng": "Additional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVI 019 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-1O\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com",
+            "jmx": "Notas adicionales: Las precauciones higi\u00e9nicas en este c\u00f3mic son eficaces para prevenir muchas otras infecciones comunes c\u00f3mo la gripe y el resfriado, y deben ser aplicados en la vida diaria, incluso cuando no hay una epidemia.\n\ufeffReferencias: La informaci\u00f3n en este c\u00f3mic se basa en lo que sabemos del COVID19 hasta el 28 de febrero de 2020, y principalmente de estas tres referencias:\ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html https://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\ufeffInformaci\u00f3n adicional: Una versi\u00f3n en PDF del c\u00f3mic est\u00e1 disponible para su descarga gratuita aqu\u00ed: \ufeffhttps://gumroad.com/weimankowart\nDirectrices para compartir: Este c\u00f3mic es gratuito para que el p\u00fablico en general lo comparta en l\u00ednea y a trav\u00e9s de Whatsapp y Telegram, y las descargas son gratuitas para imprimirlas como carteles (p\u00f3sters) para uso personal y educativo en hogares, escuelas y lugares de trabajo. Cuando compartan, por favor recuerden estos 3 puntos: 1) No se permite de ninguna manera editar los c\u00f3mics cuando se compartan 2) Los c\u00f3mics no pueden ser usados para ning\u00fan proyecto comercial 3) Si en l\u00ednea, acrediten al creador en FB etiquetando @weimankowart, en IG etiquetando @weimankow (IG), o proporcionando un enlace a instagram com/weimankow\nPara todos los dem\u00e1s usos, por favor env\u00ede una solicitud a: comicsforgood@gmail.com \ufeff(Esta p\u00e1gina fue traducido por Crist\u00f3bal con la ayuda de DeepL)",
+            "spa": "Notas adicionales: \u00a0Las precauciones higi\u00e9nicas en este c\u00f3mic son eficaces para prevenir muchas otras infecciones comunes como la gripe y el resfriado, y deben ser aplicados en la vida diaria, incluso cuando no hay una epidemia.\ufeff\ufeff\ufeffReferencias: La informaci\u00f3n en este c\u00f3mic se basa en lo que sabemos del COVID19 hasta el 28 de febrero de 2020, y principalmente de estas tres referencias:\ufeff\ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeff\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\ufeff\ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\ufeff\ufeff\ufeff\ufeffInformaci\u00f3n adicional: Una versi\u00f3n en PDF del c\u00f3mic est\u00e1 disponible para su descarga gratuita aqu\u00ed:\ufeff\ufeffhttps://gumroad.com/weimankowart\ufeff\nDirectrices para compartir: Este c\u00f3mic es gratuito para que el p\u00fablico en general lo comparta en l\u00ednea y a trav\u00e9s de Whatsapp y Telegram, y las descargas son gratuitas para imprimirlas como carteles (p\u00f3sters) para uso personal y educativo en hogares, escuelas y lugares de trabajo.Cuando compartan, por favor recuerden estos 3 puntos:\ufeff\ufeff1) No se permite de ninguna manera editar los c\u00f3mics cuando se compartan\ufeff\ufeff2) Los c\u00f3mics no pueden ser usados para ning\u00fan proyecto comercial\ufeff3) Si en l\u00ednea, acrediten al creador en FB etiquetando @weimankowart, en IG etiquetando @weimankow (IG), o proporcionando un enlace a instagram com/weimankow\n\ufeffPara todos los dem\u00e1s usos, por favor env\u00ede una solicitud a: comicsforgood@gmail.com\ufeff\ufeff(Est\u00e1 p\u00e1gina fue traducido por Crist\u00f3bal con la ayuda de DeepL)\n"
+        },
+        "87": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "jmx": "Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \"Coronavirus\"",
+            "spa": "Sobre el coronavirus",
+            "und": ""
+        },
+        "88": {
+            "jmx": "",
+            "spa": "Ilustraciones por Weiman Kow, \u00a9 2020 Weiman Kow. CC BY-NC-SA 4.0.\nEscrito por Weiman Kow, \u00a9 2020 Weiman Kow. CC BY-NC-SA 4.0."
+        },
+        "89": {
+            "jmx": "",
+            "spa": ""
+        },
+        "90": {
+            "jmx": "",
+            "spa": "Traducido al mixto por: Ernesto Altamirano Palacios y Valent\u00edn Ramirez Morelos"
+        },
+        "91": {
+            "jmx": "",
+            "spa": "Creado por Weiman Kow\ninstagram: weimankow\nfb: weimankowart"
+        },
+        "92": {
+            "jmx": "",
+            "spa": ""
+        },
+        "93": {
+            "jmx": "",
+            "spa": ""
+        },
+        "94": {
+            "jmx": "",
+            "spa": ""
+        },
+        "95": {
+            "jmx": "",
+            "spa": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\nThere's only ONE thing \ufeffyou need to understand about how a coronavirus\nSPREADS\nMouth\nNose\nEyes\nGet into your\nHealthy Person\nSick Person\nThe virus spreads when \ufeffthese droplets\nKeep your distance.\ufeff2m to 0.5m will keep you safe from large droplets.\n1\n2m-0.5m\nAchoo!\nSo if you see someone who is visibly coughing/sneezing/sick you can choose to:\nGive them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby\n2\nThank you\ufeff*sniffles*\nOR,\nMaybe she's not sick, just protecting herself\nPeople who are infected can show no symptoms, but are still\ufeffinfectious\nAnd in general, it's a good idea to avoid crowds, because you don't know who might be sick.\nchopsticks\nHealthy person\nTrain straps\nLift buttons\nTissues\nCups\nDigital devices\n& even on the outside of your face mask\nStair bannisters\nMouse\nPens\nDoor knobs\nTheir hands\nHowever, sometimes a sick person's saliva can get on other things\u2026\nyou might all fall sick.\nor your loved one's face\nrub eyes\nAnd if you do touch any of these things by accident, and then touch your face,\nand the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.\nViruses can last for quite a few hours on objects,\nsoap\nprecautions\nWhich is why it is also good to follow these\nwash with soap up to here\nsoap\nelbow\nDo not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.\nEnough time to sing \u201cHappy Birthday\u201d twice\nunder the nails\nfor 20 seconds\nbetween the fingers\nwash the back of your hands\nWhat is thoroughly?\nIf you did, don't worry. Just wash your hands with soap after.\nAlso, don't touch the outside of the mask if you can.\ndroplets\n*Bacteria grows on the insides of your mask if you wear them too long\nThrow away masks once they feel gross. Don't wear them for more than a day!\nUse a serving spoon\nBaby\nDaddy\nMommy\nEveryone gets their own towel\nDo not share food, utensils, cups, towels.\nYou can't touch your face with your elbow even if you tried\nOpen & close doors with your elbows or shoulders instead of hands, if possible.\nHome\nand after being out in the public\nBefore you eat\nAlways wash your hands with soap\u2026\nAnd finally,\nsoap\nStay safe, everyone!\nStay safe, everyone!\nsoap\nRead the articles for more tips!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020\nMain references for medical info:\nAdditional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVI 019 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-1O\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com\nAbout Coronavirus\n\n\n\n\n\n\n\n",
+        "jmx": "Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \"Coronavirus\"\n\n\u200b\u200b\u200b \u200b\n\n\nIin \u00f1a\u0331\ua78ca k\u00fa\u00fa \u00f1a\u0331 x\u00ednin\u00fa\ua78cu\ufeffkuntaa ini\u2011\u00fan \u00f1a\u0331 na\u0331xa ku\u0331va nt\u00edku\u0331n m\u00ed\u00ed kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed\ufeffCORONAVIRUS y\u00f3\ua78co\ufeffiinka na\u0331 yuv\u00ed\n\u00a0\u200b\nyu\ua78c\u00fa\u2011y\u00f3\nxi\u0331t\u00edn\u2011y\u00f3\nnu\u0331\u00fa\u2011y\u00f3\nNu\u0331\u00fa k\u00ed\ua78cvi\u2011\u00f1a\u0331 k\u00fa\u00fa\nNa\u0331 va\u0331\ua78ca\nNa\u0331 k\u00fa\ua78cvi\u0331\nM\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co\ufeffnt\u00edku\u0331n\u2011\u00f1a\u0331 iinka\u2011na\u0331 x\u00ed\ua78cin\ufeff\ufeffti\u00e1 s\u01d0\ua78ci\u2011na\u0331.\nX\u00edka koo\u2011\u00fan.\ufeffKu\u0331va u\u0331vi\u0331 \u00e1 nta\u0331a\u0331 u\u0331\ua78cu\u0331n metro koo\u2011\u00fan \u00f1a\u0331 n\u00e1 x\u00e4a\u0331 ti\u00e1 s\u01d0\ua78ci\u2011na\u0331 nu\u0331\u00fa\u2011\u00fan.\n1\n2 - 5 m\n\u00a1Ach\u00eds!\n\u00c1tu x\u00edni\u2011\u00fan iin na\u0331 k\u00e1t\u00e1 su\u0331k\u00fan, \u00e1 na\u0331 k\u00e1x\u00e1n, \u00e1 na\u0331 k\u00fa\ua78cvi\u0331, kuvi:\nTaxi iin \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa nta\ua78c\u00e1\u2011na\u0331.\ufeffSa\u00e1, ra kuvi kat\u00e1 su\u0331k\u00fan\u2011na\u0331 \u00e1 kax\u00e1n\u2011na\u0331,\ufeffra \u00efyo nti\u0331ku\u0331n kue\u0331\ua78ce\u0331 iinka\u2011na\u0331.\n2\n\u00a1\u00a1Tixa\u0331\ua78cvi\u2011\u00fan!!\nSa\u00e1 tu \u00f1a\u0331 kuvi kasa\u2011\u00fan k\u00fa\u00fa\u2011\u00f1a\u0331:\nSana \u00f1\u00e1 y\u00f3\ua78co k\u00f6k\u00fa\ua78cvi\u0331 v\u00ed\u2011\u00f1\u00e1, suu nti\u00e1a\u2011\u00f1\u00e1 mi\u00ed\u2011\u00f1\u00e1 \u00f1a\u0331 n\u00e1 nt\u00efku\u0331n\u2011\u00f1a\u0331\u2011\u00f1\u00e1\nNa\u0331 yuv\u00ed na\u0331 xa\u0331 \u00edyo m\u00ed\u00ed kue\u0331\ua78ce\u0331 ik\u00e1n i\u00edn kuvi\ufeffk\u00f6n\u00e1\ua78ca\u0331 v\u00ed\u2011na\u0331 \ufeff\u00f1a\u0331 k\u00fa\ua78cvi\u0331\u2011na\u0331, suu kuvi s\u00e1nti\u0331ku\u0331n\u2011na\u0331\u2011\u00f1a\u0331 iinka na\u0331 yuv\u00ed.\n\u00d1a\u0331 va\u0331\ua78ca ka k\u00fa\u00fa\u2011\u00f1a\u0331 n\u00e1 k\u00fc\ua78cu\u0331n\u2011\u00fan nu\u0331\u00fa \u00edyo kua\u0331\ua78c\u00e1 na\u0331 yuv\u00ed, chi x\u00efni\u2011\u00fan nt\u00e1a k\u00fa\u00fa na\u0331 k\u00fa\ua78cvi\u0331.\nnu\u0331\u00fa\ufeffkuch\u00e1ra\nna\u0331 va\u0331\ua78ca\nso\u0331\ua78co \u00f1a\u0331\ua78ca\n\u00edki\n\u200csa\ua78cm\u00e1\npa\u00edto\nv\u00e1so\nnu\u0331\u00fa celular,\ufeff\u00e1 computadora\nsa\u0331t\u00e1\ufeff\u00f1a\u0331 nt\u00e1si yu\u0331\ua78c\u00fa\u2011na\u0331\nnu\u0331\u00fa t\u00edin ntiaa\u2011na\u0331\n\u00f1a\u0331 t\u00edin\u2011na\u0331\ufefft\u00e1 k\u00e9\ua78c\u00e9\u2011na\u0331 computadora\nl\u00e1pi\nnu\u0331\u00fa t\u00edin\u2011na\u0331 x\u00fan\u00e1\u2011na\u0331 y\u00e9\ua78ce\nnta\ua78c\u00e1\u2011na\u0331\nSava ra, m\u00ed\u00ed ti\u00e1 s\u01d0\ua78ci iin na\u0331 yuv\u00ed k\u00fa\ua78cvi\u0331 kuvi koo\u2011r\u00e1:\nnti\ua78ci\u2011na\u0331 kuvi ki\ua78cin m\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co.\n\u00e1 nu\u0331\u00fa na\u0331 t\u00e1\ua78can\u2011\u00fan\n\u00e1 ntuch\u00ed nu\u0331\u00fa\u2011\u00fan\n\u00c1tu k\u00f6k\u00ed\ua78cin\u2011\u00fan ku\u00e9nta ra ke\ua78c\u00e9\u2011\u00fan nt\u00e1a \u00f1a\u0331\ua78ca y\u00f3\ua78co ra t\u00e1 nti\u0331\ua78ci k\u00e9\ua78c\u00e9\u2011\u00fan nu\u0331\u00fa\u2011\u00fan,\nNtakatia \u00f1a\u0331\ua78ca x\u00ed\ua78cin na\u0331m\u00e1, kl\u00f3ro,\n\u00e1 alcohol, ra nti\ua78ci xa\u0331\ua78c\u00e1\u2011\u00f1a\u0331.\nM\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co kuvi koo\u2011\u00f1a\u0331 nta\u0331a\u0331 u\u0331vi\u0331 ki\u0331\u00ed nu\u0331\u00fa \u00f1a\u0331\ua78ca.\nna\u0331m\u00e1\n\u00f1a\u0331 kasa\u2011\u00fan\n\u00d1a\u0331 n\u00e1 nt\u00efku\u0331n\u2011\u00f1a\u0331 iinka\u2011na\u0331 \u00e1 mi\u00ed\u2011\u00fan, \u00f1a\u0331 y\u00f3\ua78co k\u00fa\u00fa\nnta\ua78c\u00e1 ti\u0331ku\u00edi iin s\u00e1a\ufeffnta\u0331a\u0331 y\u00f3\ua78co\nna\u0331m\u00e1\nko\u0331nto\u0331 nta\ua78c\u00e1\nK\u00eb\ua78c\u00e9\u2011\u00fan nu\u0331\u00fa\u2011\u00fan (\u00e1 nu\u0331\u00fa iinka\u2011na\u0331).\ufeff\u00c1tu x\u00ednin\u00fa\ua78cu kasa\u2011\u00fan\u2011\u00f1a\u0331, x\u00edn\u00e1 ka va\u0331\ua78ca va\u0331\ua78ca nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi.\n\u200b\u200b\u200b \nti\u0331xin ch\u00ee\u00edn\u2011\u00fan\nnu\u0331\u00fa o\u0331ko\u0331 segundo\nm\u01ce\ua78c\u00f1u ntuku nta\ua78c\u00e1\u2011\u00fan\nntakatia sa\u0331t\u00e1 nta\ua78c\u00e1\u2011\u00fan\n\u00bfNa\u0331xa ku\u0331va nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi?\nnta\ua78cnti\nRa t\u00efin\u2011\u00fan sa\u0331t\u00e1\ufeffm\u00ed\u00ed \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa\u2011\u00fan ik\u00e1n \u00e1tu n\u00e1 kuvi.\n\u00c1tu ti\u0331in\u2011\u00fan\u2011\u00f1a\u0331, va\u0331\ua78ca va\u0331\ua78ca nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi x\u00ed\ua78cin na\u0331m\u00e1 va.\n\u00c1tu kua\u0331\ua78c\u00e1 ki\u0331\u00ed n\u00e1 kuntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan, kuvi koo \u00f1a ya\u0331kua\u0331 ini\u2011\u00f1a\u0331.\nS\u00e1kana m\u00ed\u00ed \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa\u2011\u00fan\ufeffik\u00e1n \u00f1a\u0331 ya\u0331kua\u0331 nu\u0331\u00fa kuayo.\ufeffN\u00e1 k\u00fcntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan nu\u0331\u00fa kua\u0331\ua78c\u00e1 ki\u0331\u00ed.\ufeffIin ki\u0331\u00ed va n\u00e1 kuntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan, ra sama\u2011\u00f1a\u0331.\nN\u00e1 koo s\u00ed\u00edn\ufeffiin kuch\u00e1ra\ufeff\u00f1a\u0331 taan\u2011\u00fan \u00f1a\u0331\ua78ca.\nl\u011be\npa\u00e1\nma\u00e1\nN\u00e1 koo tuvaya iin iin\u2011na\u0331.\nT\u00e4xi too\u2011\u00fan \u00f1a\u0331\ua78c\u00e1 x\u00edxi\u2011\u00fan, kuch\u00e1ra\u2011\u00fan, vaso\u2011\u00fan, \u00e1 tuvaya\u2011\u00fan nt\u00e1\ua78ca iinka\u2011na\u0331.\nS\u00e1a chi, nii na\u0331xa ka n\u00e1 k\u00fau\u2011\u00fan, k\u00fcvi v\u00ed tiin\u2011\u00fan nu\u0331\u00fa\u2011\u00fan x\u00ed\ua78cin ko\u0331nto\u0331 nta\ua78c\u00e1\u2011\u00fan.\nKun\u00e1 x\u00ed\ua78cin chikasi y\u00e9\ua78ce xi\ua78cin so\u0331ko\u0331\u2011\u00fan \u00e1 x\u00ed\ua78cin ko\u0331nto\u0331 nta\ua78c\u00e1\u2011\u00fan\ufeff\u00f1a\u0331 n\u00e1 k\u00e4sa\u2011\u00fan\u2011\u00f1a\u0331 x\u00ed\ua78cin nta\ua78c\u00e1\u2011\u00fan.\nve\ua78ce\nt\u00e1 xa\u0331 nti\u0331k\u00f3\u2011\u00fan nt\u00e1a ka m\u00ed\u00ed nu\u0331\u00fa ni\u0331xa\u0331\ua78ca\u0331n\u2011\u00fan\nt\u00e1 xa\u0331 n\u00e1 kuxi\u2011\u00fan\nIin ku\u0331u\u2011\u00fan nta\ua78c\u00e1\u2011un ti\u0331ku\u00edi x\u00ed\ua78cin na\u0331m\u00e1 ...\nNu\u0331\u00fa nt\u00ed\ua78ci,\nna\u0331m\u00e1\n\u00a1Nti\ua78ci\u2011nt\u00f3 kuntiaa\u2011nt\u00f3 mi\u00ed\u2011nt\u00f3!\n\u00a1Nti\ua78ci\u2011nt\u00f3 kuntiaa\u2011nt\u00f3 mi\u00ed\u2011nt\u00f3!\nna\u0331m\u00e1\nK\u00e1\ua78cvi art\u00edculo y\u00f3\ua78co n\u00e1 kunta\u0331a\u0331 ch\u00e1 ka ini\u2011\u00fan\n\"This animation shows how far your sneeze can actually travel\" xa\u0331\ua78c\u00e1 Chia Yi Hou and Andrea Schmitz, nu\u0331\u00fa Business Insider. (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", xa\u0331\ua78c\u00e1 Laurie Garrett, nu\u0331\u00fa Foreign Policy, Report.\ufeff(25 de enero de 2020)\n\"How to avoid the coronavirus? Wash your hands\" xa\u0331\ua78c\u00e1 Elizabeth Sosenthal, nu\u0331\u00fa The New York Times, Opinion. (28 de enero de 2020)\nNu\u0331\u00fa ta\u0331va\u2011nti\u0331 \u00f1a\u0331 y\u00f3\ua78co\nNotas adicionales: Las precauciones higi\u00e9nicas en este c\u00f3mic son eficaces para prevenir muchas otras infecciones comunes c\u00f3mo la gripe y el resfriado, y deben ser aplicados en la vida diaria, incluso cuando no hay una epidemia.\n\ufeffReferencias: La informaci\u00f3n en este c\u00f3mic se basa en lo que sabemos del COVID19 hasta el 28 de febrero de 2020, y principalmente de estas tres referencias:\ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html https://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\ufeffInformaci\u00f3n adicional: Una versi\u00f3n en PDF del c\u00f3mic est\u00e1 disponible para su descarga gratuita aqu\u00ed: \ufeffhttps://gumroad.com/weimankowart\nDirectrices para compartir: Este c\u00f3mic es gratuito para que el p\u00fablico en general lo comparta en l\u00ednea y a trav\u00e9s de Whatsapp y Telegram, y las descargas son gratuitas para imprimirlas como carteles (p\u00f3sters) para uso personal y educativo en hogares, escuelas y lugares de trabajo. Cuando compartan, por favor recuerden estos 3 puntos: 1) No se permite de ninguna manera editar los c\u00f3mics cuando se compartan 2) Los c\u00f3mics no pueden ser usados para ning\u00fan proyecto comercial 3) Si en l\u00ednea, acrediten al creador en FB etiquetando @weimankowart, en IG etiquetando @weimankow (IG), o proporcionando un enlace a instagram com/weimankow\nPara todos los dem\u00e1s usos, por favor env\u00ede una solicitud a: comicsforgood@gmail.com \ufeff(Esta p\u00e1gina fue traducido por Crist\u00f3bal con la ayuda de DeepL)\nXa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \"Coronavirus\"\n\n\n\n\n\n\n\n",
+        "spa": "Sobre el coronavirus\n\n\n\n\nSolo hay UNA cosa que tienes que entender sobre c\u00f3mo se contagia el\nCORONAVIRUS\nboca\nnariz\nojos\nEntran a tus\nPersona Sana\nPersona Enferma\nEl virus se\ufeffcontagia cuando estas\ufeffgotas de saliva\nMantener tu distancia.\ufeffCalcula entre 2 a 5 metros para evitar contacto con las gotas de saliva.\n1\n2 - 5m\n\u00a1Ach\u00eds!\nSi ves a alguien que tose, estornuda, o est\u00e1 enfermo, puedes:\nDarle un cubrebocas.\ufeffAs\u00ed, la persona puede toser o estornudar sin poner en riesgo a los dem\u00e1s.\n2\n\u00a1\u00a1\u00a1Gracias!!!\nTambien puedes:\nQuiz\u00e1 ella no est\u00e9 enferma y solamente se est\u00e1 protegiendo.\nLas personas que ya tienen contagio pueden no presentar s\u00edntomas, per a\u00fan as\u00ed, te pueden\ufefftransmitir\ufeffel virus.\nEn general, conviene evitar lugares con mucha gente, porque no sabe qu\u00e9n podr\u00eda estar enfermo.\npalillos/\ufeffcubiertos\npersona sana\nagarraderas\nbotones\npa\u00f1uelos\nvasos\ndispositivos digitales\nhasta en el exterior del cubrebocas\npasamanos\nrat\u00f3n\nlapiceros\nperillas\nlas manos\nA veces, la saliva de una persona enferma puede entrar en contacto con:\ntodos podr\u00edan enfermarse.\no la de tus seres queridos\no frotas los ojos,\nSi tocas cualquiera de estas cosas sin querer y despu\u00e9s te tocas la cara,\nLavarlos con jab\u00f3n, cloro, o alcohol medicinal es la \u00fanica forma de eliminarlos.\nLos virus pueden durar hasta 48 horas en objetos.\njab\u00f3n\nprecauciones\nPara evitar contagios,\ufeffsigue estas\nl\u00e1vate\ufeffhasta aqu\u00ed\njab\u00f3n\ncodo\nNo toques tu cara (o la de algui\u00e9n m\u00e1s).\ufeffSi tienes que hacerlo, primero l\u00e1vate muy bien las manos.\nEl tiempo suficiente para cantar \"Happy Birthday\" dos veces\ndebajo las u\u00f1as\npor 20 segundos\nentre los dedos\nlava la parte de atr\u00e1s\n\u00bfC\u00f3mo lavarse muy bien las manos?\nSi lo hiciste, no te procupes. Solamente l\u00e1vate bien las manos con jab\u00f3n despu\u00e9s.\nAdem\u00e1s, no toques el exterior del cubrebocas si puedes evitarlo.\ngotas\nSi usas por mucho tiempo el mismo cubrebocas, puede acumular bacterias en el interior.\nTira los cubrebocas que est\u00e9n sucios.\ufeff\u00a1No los uses m\u00e1s de un d\u00eda!\nUsa una chuchara especial para servir\nnene\npapi\nmami\nCada qui\u00e9n tiene su propia toalla\nNo compartas comida, cubiertos, vasos o toallas.\nNi es posible tocarte la cara con los codos, por m\u00e1s que lo intentes.\nAbre y cierra las puertas con tus hombros o codos.\ufeffEvitar usar las manos.\nHogar\ny despu\u00e9s de estar en la calle\nantes de comer\nSiempre l\u00e1vate las manos con jab\u00f3n ...\nFinalmente,\njab\u00f3n\n\u00a1Cu\u00eddense, todos!\n\u00a1Cu\u00eddense, todos!\njab\u00f3n\nLee estos art\u00edculos para mayor informaci\u00f3n.\n\"This animation shows how far your sneeze can actually travel\" por Chia Yi Hou, en Business Insider\ufeff(21 de enero de 2020)\n\"The Wuhan Virus: How to stay safe\", por Laurie Garrett, en Foreign Policy, Repert.\ufeff(25 de enero de 2020)\n\"How to avoid the coronavirus? Wash your hands\" por Elizabeth Sosenthal, en The New York Times, Opinion. (28 de enero de 2020)\nPrincipales referencias m\u00e9dicas:\nNotas adicionales: \u00a0Las precauciones higi\u00e9nicas en este c\u00f3mic son eficaces para prevenir muchas otras infecciones comunes como la gripe y el resfriado, y deben ser aplicados en la vida diaria, incluso cuando no hay una epidemia.\ufeff\ufeff\ufeffReferencias: La informaci\u00f3n en este c\u00f3mic se basa en lo que sabemos del COVID19 hasta el 28 de febrero de 2020, y principalmente de estas tres referencias:\ufeff\ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeff\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\ufeff\ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\ufeff\ufeff\ufeff\ufeffInformaci\u00f3n adicional: Una versi\u00f3n en PDF del c\u00f3mic est\u00e1 disponible para su descarga gratuita aqu\u00ed:\ufeff\ufeffhttps://gumroad.com/weimankowart\ufeff\nDirectrices para compartir: Este c\u00f3mic es gratuito para que el p\u00fablico en general lo comparta en l\u00ednea y a trav\u00e9s de Whatsapp y Telegram, y las descargas son gratuitas para imprimirlas como carteles (p\u00f3sters) para uso personal y educativo en hogares, escuelas y lugares de trabajo.Cuando compartan, por favor recuerden estos 3 puntos:\ufeff\ufeff1) No se permite de ninguna manera editar los c\u00f3mics cuando se compartan\ufeff\ufeff2) Los c\u00f3mics no pueden ser usados para ning\u00fan proyecto comercial\ufeff3) Si en l\u00ednea, acrediten al creador en FB etiquetando @weimankowart, en IG etiquetando @weimankow (IG), o proporcionando un enlace a instagram com/weimankow\n\ufeffPara todos los dem\u00e1s usos, por favor env\u00ede una solicitud a: comicsforgood@gmail.com\ufeff\ufeff(Est\u00e1 p\u00e1gina fue traducido por Crist\u00f3bal con la ayuda de DeepL)\n\nSobre el coronavirus\nIlustraciones por Weiman Kow, \u00a9 2020 Weiman Kow. CC BY-NC-SA 4.0.\nEscrito por Weiman Kow, \u00a9 2020 Weiman Kow. CC BY-NC-SA 4.0.\n\nTraducido al mixto por: Ernesto Altamirano Palacios y Valent\u00edn Ramirez Morelos\nCreado por Weiman Kow\ninstagram: weimankow\nfb: weimankowart\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "jmx",
+        "spa",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "",
+    "credits": "Creado por Weiman Kow\r\ninstagram: weimankow\r\nfb: weimankowart",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "4kt6dOigk2"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "GwYREzzd0l"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "espa\u00f1ol",
+        "jmx": "mixteco del oeste de Juxtlahauca",
+        "jmx-x-coi": "mixteco de Coicoy\u00e1n de las Flores"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "No cambie el texto de esta obra, pero puede traducirla, adaptarla a otras formas y distribuirla para prop\u00f3sitos no comerciales. Debe mantener que Weiman Kow sea el titular de derechos de autor en cuanto a ambos el texto y las ilustraciones.",
+    "page-number-style": "Decimal",
+    "pageCount": 28,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Este libro ofrece consejos b\u00e1sicos frente a la situaci\u00f3n del coronavirus COVID 19. This book gives basic advice on dealing with the coronavirus COVID 19.",
+    "tags": [],
+    "title": "Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \"Coronavirus\"",
+    "typicalAgeRange": null,
+    "use-original-copyright": true
+}

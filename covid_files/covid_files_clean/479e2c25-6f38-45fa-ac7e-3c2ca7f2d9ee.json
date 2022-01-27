@@ -1,0 +1,531 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"luy\":\"Kamakhuwa ke bulwale bwa Korona\",\"swh\":\"Virusi vya Ugonjwa wa Korona\"}",
+    "author": null,
+    "bookInstanceId": "479e2c25-6f38-45fa-ac7e-3c2ca7f2d9ee",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "kik": "",
+            "luy": "Kamakhuwa ke bulwale bwa Korona",
+            "swh": "Virusi vya Ugonjwa wa Korona",
+            "und": ""
+        },
+        "1": {
+            "luy": ""
+        },
+        "2": {
+            "luy": ""
+        },
+        "3": {
+            "eng": "",
+            "luy": "",
+            "swh": ""
+        },
+        "4": {
+            "eng": "There's only ONE thing you need to understand about how a coronavirus",
+            "luy": "Okhoya omanye sindu silala khu bulwale bwa Korona",
+            "swh": "Kuna jambo MOJA tu unalopaswa kuelewa juu ya jinsi virusi vya Korona"
+        },
+        "5": {
+            "eng": "SPREADS",
+            "luy": "NGA BUKENDA\n",
+            "swh": "VINAVYOSAMBAA"
+        },
+        "6": {
+            "eng": "Mouth",
+            "luy": "Mukhanwa",
+            "swh": "Mdomoni"
+        },
+        "7": {
+            "eng": "Nose",
+            "luy": "Muliolu",
+            "swh": "Puani"
+        },
+        "8": {
+            "eng": "Eyes",
+            "luy": "Moni",
+            "swh": "Machoni"
+        },
+        "9": {
+            "eng": "Get into your\n",
+            "luy": "Ne lwingila mu",
+            "swh": "Vinapokuingia"
+        },
+        "10": {
+            "eng": "Healthy Person",
+            "luy": "Mwo omundu okhali omulwale ta",
+            "swh": "Mtu mwenye Afya"
+        },
+        "11": {
+            "eng": "Sick person",
+            "luy": "Omundu omulwale\n",
+            "swh": "Mgonjwa wa Korona"
+        },
+        "12": {
+            "eng": "The virus spreads when these droplets\n",
+            "luy": "Bulwale buno bukenda khubirira luasimulo lwo",
+            "swh": "Virusi hivi vinasambaa wakati vitone hivi vya mate"
+        },
+        "13": {
+            "eng": "Keep your distance.\ufeff \ufeff2m will keep you safe \ufefffrom large droplets.",
+            "luy": "Ima asinao. Noli chimita chibili khukhwama khumundu oli ne bulwale liasimulo se lilakhwolakho ta\n",
+            "swh": "Kwenda mbali. Ukiwa umbali wa mita 2 hutafikiwa na vitone vikubwa vya mate.\u00a0 \u00a0\u00a0\u00a0"
+        },
+        "14": {
+            "eng": "1",
+            "luy": "1",
+            "swh": "1"
+        },
+        "15": {
+            "eng": "2m",
+            "luy": "2m",
+            "swh": "Mita 2"
+        },
+        "16": {
+            "eng": "Achoo!",
+            "luy": "Achoo!",
+            "swh": "Achoo!"
+        },
+        "17": {
+            "eng": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:\n",
+            "luy": "Ne obona omundu okholola, namwe oasimula mala alwala okhoyela\u00a0\n",
+            "swh": "Kwa hivyo, unapoona mtu akikohoa/kwenda chafya/mgonjwa unaweza kuamua:\n"
+        },
+        "18": {
+            "eng": "Give them a mask.\ufeff \ufeffThey can cough or sneeze in it and protects everyone else nearby",
+            "luy": "Baelesia emaski nyo nebaasimula bandu babandi bakhanyola bulwale buno ta\n",
+            "swh": "Wape barakoa. Waweze kukoholea au kuendea chafya na kuwakinga wote walio karibu"
+        },
+        "19": {
+            "eng": "2",
+            "luy": "2",
+            "swh": "2"
+        },
+        "20": {
+            "eng": "Thank you \ufeff*sniffles*",
+            "luy": "Wiboe \ufeffmumoni\n",
+            "swh": "Vitone vya *kamasi*"
+        },
+        "21": {
+            "eng": "OR,",
+            "luy": "Namwe",
+            "swh": "AU,"
+        },
+        "22": {
+            "eng": "Maybe she's not sick, just protecting herself",
+            "luy": "Bandu banyala barumikhila emaski/sitambaa mumoni nyo belinde balekhe khunyola bulwale",
+            "swh": "Pengine yeye si mgonjwa, anajikinga tu"
+        },
+        "23": {
+            "eng": "People who are infected can show no symptoms, but are stillinfectious",
+            "luy": "Bandu bali ne bulwale buno banyala bafwana oli bakhali balwale ta, mala khabaambisia bandu babandi\n",
+            "swh": "Watu wenye virusi huenda wasionyeshe ishara zozote, lakini bado wanaweza kuvisambaza"
+        },
+        "24": {
+            "eng": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick.",
+            "luy": "Okhacha mubandu bakali ta, sikila somanya nanu omulwale ta\n",
+            "swh": "Kwa jumla, ni wazo bora kuepuka umati wa watu, maana huwezi kujua kama kuna mtu mgonjwa."
+        },
+        "25": {
+            "eng": "Chopsticks\n",
+            "luy": "Bisala biekhusikila chinyama\n",
+            "swh": "Vijiti vya kulia\n"
+        },
+        "26": {
+            "eng": "Healthy person\n\n",
+            "luy": "Omundu okhali omulwale ta\n",
+            "swh": "Mtu mwenye afya"
+        },
+        "27": {
+            "eng": "Train straps\n",
+            "luy": "Kimishipi kya matatu namwe emiksi",
+            "swh": "Vishikilio vya gari"
+        },
+        "28": {
+            "eng": "Lift buttons\n\n",
+            "luy": "Niye bandu batila nyo elifti enine namwe yiikhe",
+            "swh": "Vitufe vya lifti\n"
+        },
+        "29": {
+            "eng": "Tissues\n",
+            "luy": "Chikaratasi che khupangusia kamakhono",
+            "swh": "Tishu\n"
+        },
+        "30": {
+            "eng": "Cups",
+            "luy": "Bikombe\n",
+            "swh": "Vikombe\n"
+        },
+        "31": {
+            "eng": "Digital devices",
+            "luy": "Chisimu namwe chitableti\n",
+            "swh": "Vifaa vya kidijitali\n"
+        },
+        "32": {
+            "eng": "& even on the outside of your face mask",
+            "luy": "Ata enje we chimaski/bitambaa bye khwiboa mumoni",
+            "swh": "& hata nje ya barakoa ya usoni mwako\n"
+        },
+        "33": {
+            "eng": "Stair bannisters\n\n",
+            "luy": "Niyo witilila nyo onine mugorofa",
+            "swh": "Kingo za ngazi"
+        },
+        "34": {
+            "eng": "Mouse\n",
+            "luy": "Notila sikendesio sia ekomputa",
+            "swh": "Kipanya\n"
+        },
+        "35": {
+            "eng": "Pens",
+            "luy": "Chikalamu",
+            "swh": "Kalamu"
+        },
+        "36": {
+            "eng": "Door knobs",
+            "luy": "Kimilyango",
+            "swh": "Vitasa vya mlango\n"
+        },
+        "37": {
+            "eng": "Their hands\n",
+            "luy": "Kamakhono kabwe\n",
+            "swh": "Mikononi mwao\n"
+        },
+        "38": {
+            "eng": "However, sometimes a sick person's saliva can get on other things\u2026\n",
+            "luy": "Mumasee kakandi, kamare ko omulwale kanyala katila bindu bikali nga\n",
+            "swh": "Isitoshe, huenda mate ya mtu mgonjwa yakawa kwenye vitu vingine \u2026\u00a0"
+        },
+        "39": {
+            "eng": "you might all fall sick",
+            "luy": "Onyala wa lwala\n",
+            "swh": "nyote mnaweza kuugua.\u00a0\n"
+        },
+        "40": {
+            "eng": "or your loved one\u2019s face\n",
+            "luy": "Namwe mumoni mwo omusime wowo\n",
+            "swh": "au umguse mwenzako uso\u00a0\u00a0\n"
+        },
+        "41": {
+            "eng": "rub eyes\n",
+            "luy": "Wasugue chimoni",
+            "swh": "ujisugue macho\n"
+        },
+        "42": {
+            "eng": "And if you do touch any of these things by accident, and then touch your face,\n",
+            "luy": "Notilile bibindu bino nokhamanyile ta, mala witile mumoni namwe\n",
+            "swh": "Ukigusa mojawapo wa vitu hivi kwa bahati mbaya, kisha ujiguse uso,\u00a0"
+        },
+        "43": {
+            "eng": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.",
+            "luy": "Engila enyala birusi bino ebechanga khubisinga nende esabuni namwe nende jik namwe kamalwa\n",
+            "swh": "na njia ya kipekee iliyo bora kuviondoa ni kuviosha kwa sabuni, dawa ya klorini, au kileo. \u00a0"
+        },
+        "44": {
+            "eng": "Viruses can last for quite a few hours on objects\n",
+            "luy": "Birusi binyala byekhala mubindu muda kumuleyi sana\n",
+            "swh": "Virusi vinaweza kukaa saa kadhaa juu ya vifaa,"
+        },
+        "45": {
+            "eng": "Soap",
+            "luy": "Esabuni\n",
+            "swh": "Sabuni"
+        },
+        "46": {
+            "eng": "precautions",
+            "luy": "Khukhwilinda",
+            "swh": ""
+        },
+        "47": {
+            "eng": "Which is why it is also good to follow these",
+            "luy": "Sikila eli bulayi khulonda bindu bino nio wilinde\n",
+            "swh": "Kwa sababu hii ni vizuri pia kuyafuata maelekezo haya"
+        },
+        "48": {
+            "eng": "wash with \ufeffsoap up to here",
+            "luy": "Singa nende esabuni paka wole mukhumbo",
+            "swh": "Oga kwa \ufeffsabuni hadi hapa\n"
+        },
+        "49": {
+            "eng": "soap",
+            "luy": "Esabuni\n",
+            "swh": "Sabuni\n"
+        },
+        "50": {
+            "eng": "elbow",
+            "luy": "Mukhumbo\n",
+            "swh": "Kisugudi"
+        },
+        "51": {
+            "eng": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.",
+            "luy": "Okhatila mumoni mwowo namwe mwo mundu okundi ta. Nokhoyela otile, singa kamakhono nende esabuni bulayi.\n",
+            "swh": "Usijiguse uso. (Au uuguse uso wa mtu mwingine yeyote.) Iwapo ni lazima ujiguse, kwanza ioshe mikono yako kabisa kwa sabuni."
+        },
+        "52": {
+            "eng": "Enough time to sing \ufeff\"Happy Birthday\" twice\n",
+            "luy": "Ne wenya omanye oli wasingile kamakhono bulayi onyala wemba lulwimbo lwa mwanawamberi chisafari chitaru\n",
+            "swh": "Muda sawa na wa kuimba kifungu cha \u201cWimbo wa Taifa\u201d \ufeffhttps://youtu.be/a37RnI3krzU\n"
+        },
+        "53": {
+            "eng": "under the nails\n",
+            "luy": "Mukari mwe kamatere",
+            "swh": "chini ya kucha\n\n"
+        },
+        "54": {
+            "eng": "for 20 seconds\n\n",
+            "luy": "khu chisekundi ishirini\n",
+            "swh": "kwa \ufeffsekunde 20\n"
+        },
+        "55": {
+            "eng": "between the fingers\n\n",
+            "luy": "akarikari we chinjala",
+            "swh": "katikati mwa vidole\n"
+        },
+        "56": {
+            "eng": "wash the back of your hands\n",
+            "luy": "Singa enyuma we kamakhono",
+            "swh": "nawa nyuma ya mikono yako\n"
+        },
+        "57": {
+            "eng": "What is thoroughly?\n",
+            "luy": "Onyala wasinga kamakhono bulayi oriena?\n",
+            "swh": "Nini maana ya kuoga kabisa?"
+        },
+        "58": {
+            "eng": "If you did, don't worry. Just wash your hands with soap after.",
+            "luy": "Notilile okharenga ta, singa busa kamakhono kowo.\n",
+            "swh": "Iwapo umefanya hivyo, usihofu. Nawa mikono yako kwa sabuni hapo baadaye."
+        },
+        "59": {
+            "eng": "Also, don't touch the outside of the mask if you can.\n",
+            "luy": "Okhatila enje we emaski/sitambaa sye mumoni tawe\n",
+            "swh": "Pia, usiguse upande wa nje wa barakoa iwapo utaweza.\u00a0"
+        },
+        "60": {
+            "eng": "droplets",
+            "luy": "Luluasimulo\n",
+            "swh": "vitone vya mate"
+        },
+        "61": {
+            "eng": "*Bacteria grows on the insides of your mask if you wear them too long\n",
+            "luy": "Buchafu bunyala bwakhurerera bulwale norumikhila bitambaa bye mumoni khu siise siileyi\n",
+            "swh": "*Vijidudu vinavyosababisha magonjwa hukulia ndani ya barakoa unapozivaa kwa muda mrefu"
+        },
+        "62": {
+            "eng": "Throw away masks once they feel gross. Don't wear them for more than a day!\n",
+            "luy": "Mwata chimaski/bitambaa bye mumoni. Okhafwara wabira endalo endala ta\n",
+            "swh": "Zitupe barakoa zinapoanza kuwa nzito. Usizivae kwa zaidi ya siku moja!\u00a0"
+        },
+        "63": {
+            "eng": "Use a serving spoon\n",
+            "luy": "Rumikhila sichiko sie khubhukulila byakhulia\n",
+            "swh": "Tumia kijiko cha kupakulia\n"
+        },
+        "64": {
+            "eng": "Baby",
+            "luy": "Omwana",
+            "swh": "Mtoto"
+        },
+        "65": {
+            "eng": "Daddy",
+            "luy": "Papa",
+            "swh": "Baba"
+        },
+        "66": {
+            "eng": "Mommy",
+            "luy": "Maayi",
+            "swh": "Mama"
+        },
+        "67": {
+            "eng": "Everyone gets their own towel\n",
+            "luy": "Bulimundu arumikhile etaulo yewe",
+            "swh": "Kila mtu awe na taulo yake\n"
+        },
+        "68": {
+            "eng": "Do not share food, utensils, cups, towels.\n",
+            "luy": "Mukharumikhila byakhulia, chisaani, bikombe namwe chitaulo chindala tawe\n",
+            "swh": "Usitumie kwa pamoja vitu kama chakula,vyombo vya jikoni,vikombe,taulo."
+        },
+        "69": {
+            "eng": "You can't touch your face with your elbow even if you tried",
+            "luy": "Se onyala wa tila mumoni nende ekhukunyu ta, wakhakhaka\n",
+            "swh": "Huwezi kuugusa uso wako kwa kisugudi hata ukijaribu"
+        },
+        "70": {
+            "eng": "Open & close doors with your elbows or shoulders instead of hands, if possible.\n",
+            "luy": "No onyala, fungula namwe ikala kimilyango nende chikhumbo namwe kamabeka\n",
+            "swh": "Fungua na funga milango kwa kutumia kisugudi au bega badala ya mikono, inapowezekana."
+        },
+        "71": {
+            "eng": "Home\n",
+            "luy": "Nochile engo",
+            "swh": "Nyumbani"
+        },
+        "72": {
+            "eng": "and after being out in the public\n\n",
+            "luy": "Newamile enje\n",
+            "swh": "na unaporudi kutoka kwa umma\n"
+        },
+        "73": {
+            "eng": "Before you eat",
+            "luy": "Nio olie\n",
+            "swh": "Kabla hujala\n"
+        },
+        "74": {
+            "eng": "Always wash your hands with soap\u2026\n",
+            "luy": "Singa kamakhono nende esabuni\n",
+            "swh": "Kila wakati nawa mikono yako ukitumia sabuni \u2026"
+        },
+        "75": {
+            "eng": "And finally,",
+            "luy": "Ne malila\n",
+            "swh": "Hatimaye,\n"
+        },
+        "76": {
+            "eng": "Soap",
+            "luy": "Esabuni",
+            "swh": "Sabuni"
+        },
+        "77": {
+            "eng": "Stay safe, everyone!\n",
+            "luy": "Murame bulayi bulimundu\n",
+            "swh": "Kaeni salama,\u00a0\nNyote!\n"
+        },
+        "78": {
+            "eng": "Stay safe, everyone!",
+            "luy": "Murame bulayi bulimundu\n",
+            "swh": "Kaeni salama,\u00a0\nNyote!\n"
+        },
+        "79": {
+            "eng": "Soap",
+            "luy": "Esabuni",
+            "swh": "Sabuni"
+        },
+        "80": {
+            "eng": "Read the articles for more tips!",
+            "luy": "Newenya khumanya kamakali chilila khusoma niko baandike angaki ano",
+            "swh": "Soma makala hii ujue zaidi!\n"
+        },
+        "81": {
+            "eng": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)",
+            "luy": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)",
+            "swh": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, \ufeffin Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "eng": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)",
+            "luy": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)",
+            "swh": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. \ufeff(Jan 25, 2020)"
+        },
+        "83": {
+            "eng": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020)",
+            "luy": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020)",
+            "swh": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "eng": "Main references for medical info:\n",
+            "luy": "Niyo khuamisye kamakhua kano ke muosibitali\n",
+            "swh": "Marejeo zaidi ya habari za kiafya:\n"
+        },
+        "85": {
+            "eng": "Additional notes: Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences: lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references.\nhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation A PDF version of the comic is available for free download here: \ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing. \ufeff2) Comics cannot be used for any commercial project \ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com",
+            "luy": "Kamakhuwa kali musitaabu sino kosi kayeta khukhwilinda khukhwama khu bulwalwe bubundi\u00a0 nono kakhoyele karumikhe mulimenya lia buli endaalo.\nKamakhuwa kali musitaabu sino kali khulondekhana nende kamanyikhane khu bulwale bwa Conrona mpaka tarehe 28 februari 2020 ne kama mu kakaandikwa mukalandokho.\nhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nSitaabu sia Comic mulusungu sinyala sianyolekha khuinterneti khu \ufeffhttps://gumroad.com/weimankowart\u00a0\nSitaabu sino sesili siekhukusia tawe. Onyala wakaba babandu mubikuli,muchingo, siakazi khurumukhila interneti namwe WhatsApp.\nNokaba ekasi yino kumbuka:\nOkhabadilisia sisindu siosi musitaabu sino tawe\u00a0\nSitaabu sino sikhakusibwa tawe.\nNokaba khuinterneti, tambua omumyikinyi khu facebook @weimankowart, @weimankowart khu instagram\nKhu burumisi bubundi, reba erusa khucomicsforgood@gmail.com",
+            "swh": "Hoja za ziada: Maelekezo haya ya kiafya ya vibonzo yanafaa sana katika kuzuia maambukizi ya kawaida kama mafua na homa, na yanafaa kuzingatiwa daima, hata wakati hakuna mkurupuko wa magonjwa.\nMarejeo: Habari iliyo katika kijitabu hiki cha vibonzo imejikita kwa uelewa wa ugonjwa wa COVID19 kufikia tarehe 28 Februari 2020, na imetolewa kwa marejeo hii tatu. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nHabari za ziada: Unaweza kupata toleo la PDF la kijitabu hiki cha vibonzo kutoka kwa tovuti hii: https://gumroad.com/weimankowart\u00a0\nMaelekezo ya Kutumia: Kijitabu hiki cha vibonzo kiko huru kwa matumizi ya umma kupitia kwa tovuti na mitandao ya kijamiii kama vile Whatsapp na Telegram. Vile vile, nakala zinazotolewa kutoka kwa tovuti zinaweza kuchapishwa bure kama vibango vya matumizi ya kibinafsi na kielimu nyumbani, shuleni, na mahali pa kazi. \u00a0\nWakati unapowapa wengine kijitabu hiki, tafadhali kumbuka hoja hizi 3: \ufeff1) Hakuna ruhusa kuhariri chochote kwa njia yoyote unapokisambaza. \ufeff2) Vibonzo hivi haviwezi kutumiwa kwa mradi wowote wa kuleta faida. \ufeff3) lwapo unakisambaza kupitia kwa tovuti, weka jina la mwandalizi wa kitabu katika FB kwa kuweka @weimankowart, kwa IG kwa kuweka @weimankow (IG), au hata kuandika linki kwa instagram com/weimankow Kwa matumizi mengineyo yote, tafadhali tuma ombi kwa: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "kik": "",
+            "luy": "Kamakhuwa ke bulwale bwa Korona",
+            "swh": "Virusi vya Ugonjwa wa Korona",
+            "und": ""
+        },
+        "87": {
+            "luy": ""
+        },
+        "88": {
+            "luy": ""
+        },
+        "89": {
+            "luy": "Manasseh Wekundah"
+        },
+        "90": {
+            "luy": "Created by Weiman Kow, instagram: weimankow"
+        },
+        "91": {
+            "luy": ""
+        },
+        "92": {
+            "luy": ""
+        },
+        "93": {
+            "luy": ""
+        },
+        "94": {
+            "luy": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\nThere's only ONE thing you need to understand about how a coronavirus\nSPREADS\nMouth\nNose\nEyes\nGet into your\n\nHealthy Person\nSick person\nThe virus spreads when these droplets\n\nKeep your distance.\ufeff \ufeff2m will keep you safe \ufefffrom large droplets.\n1\n2m\nAchoo!\nSo if you see someone who is visibly coughing/sneezing/sick you can choose to:\n\nGive them a mask.\ufeff \ufeffThey can cough or sneeze in it and protects everyone else nearby\n2\nThank you \ufeff*sniffles*\nOR,\nMaybe she's not sick, just protecting herself\nPeople who are infected can show no symptoms, but are stillinfectious\nAnd in general, it's a good idea to avoid crowds, because you don't know who might be sick.\nChopsticks\n\nHealthy person\n\n\nTrain straps\n\nLift buttons\n\n\nTissues\n\nCups\nDigital devices\n& even on the outside of your face mask\nStair bannisters\n\n\nMouse\n\nPens\nDoor knobs\nTheir hands\n\nHowever, sometimes a sick person's saliva can get on other things\u2026\n\nyou might all fall sick\nor your loved one\u2019s face\n\nrub eyes\n\nAnd if you do touch any of these things by accident, and then touch your face,\n\nand the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.\nViruses can last for quite a few hours on objects\n\nSoap\nprecautions\nWhich is why it is also good to follow these\nwash with \ufeffsoap up to here\nsoap\nelbow\nDo not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.\nEnough time to sing \ufeff\"Happy Birthday\" twice\n\nunder the nails\n\nfor 20 seconds\n\n\nbetween the fingers\n\n\nwash the back of your hands\n\nWhat is thoroughly?\n\nIf you did, don't worry. Just wash your hands with soap after.\nAlso, don't touch the outside of the mask if you can.\n\ndroplets\n*Bacteria grows on the insides of your mask if you wear them too long\n\nThrow away masks once they feel gross. Don't wear them for more than a day!\n\nUse a serving spoon\n\nBaby\nDaddy\nMommy\nEveryone gets their own towel\n\nDo not share food, utensils, cups, towels.\n\nYou can't touch your face with your elbow even if you tried\nOpen & close doors with your elbows or shoulders instead of hands, if possible.\n\nHome\n\nand after being out in the public\n\n\nBefore you eat\nAlways wash your hands with soap\u2026\n\nAnd finally,\nSoap\nStay safe, everyone!\n\nStay safe, everyone!\nSoap\nRead the articles for more tips!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020)\nMain references for medical info:\n\nAdditional notes: Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences: lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references.\nhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation A PDF version of the comic is available for free download here: \ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing. \ufeff2) Comics cannot be used for any commercial project \ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com\nAbout Coronavirus\n\n\n\n\n\n\n\n",
+        "luy": "Kamakhuwa ke bulwale bwa Korona\n\n\n\nOkhoya omanye sindu silala khu bulwale bwa Korona\nNGA BUKENDA\n\nMukhanwa\nMuliolu\nMoni\nNe lwingila mu\nMwo omundu okhali omulwale ta\nOmundu omulwale\n\nBulwale buno bukenda khubirira luasimulo lwo\nIma asinao. Noli chimita chibili khukhwama khumundu oli ne bulwale liasimulo se lilakhwolakho ta\n\n1\n2m\nAchoo!\nNe obona omundu okholola, namwe oasimula mala alwala okhoyela\u00a0\n\nBaelesia emaski nyo nebaasimula bandu babandi bakhanyola bulwale buno ta\n\n2\nWiboe \ufeffmumoni\n\nNamwe\nBandu banyala barumikhila emaski/sitambaa mumoni nyo belinde balekhe khunyola bulwale\nBandu bali ne bulwale buno banyala bafwana oli bakhali balwale ta, mala khabaambisia bandu babandi\n\nOkhacha mubandu bakali ta, sikila somanya nanu omulwale ta\n\nBisala biekhusikila chinyama\n\nOmundu okhali omulwale ta\n\nKimishipi kya matatu namwe emiksi\nNiye bandu batila nyo elifti enine namwe yiikhe\nChikaratasi che khupangusia kamakhono\nBikombe\n\nChisimu namwe chitableti\n\nAta enje we chimaski/bitambaa bye khwiboa mumoni\nNiyo witilila nyo onine mugorofa\nNotila sikendesio sia ekomputa\nChikalamu\nKimilyango\nKamakhono kabwe\n\nMumasee kakandi, kamare ko omulwale kanyala katila bindu bikali nga\n\nOnyala wa lwala\n\nNamwe mumoni mwo omusime wowo\n\nWasugue chimoni\nNotilile bibindu bino nokhamanyile ta, mala witile mumoni namwe\n\nEngila enyala birusi bino ebechanga khubisinga nende esabuni namwe nende jik namwe kamalwa\n\nBirusi binyala byekhala mubindu muda kumuleyi sana\n\nEsabuni\n\nKhukhwilinda\nSikila eli bulayi khulonda bindu bino nio wilinde\n\nSinga nende esabuni paka wole mukhumbo\nEsabuni\n\nMukhumbo\n\nOkhatila mumoni mwowo namwe mwo mundu okundi ta. Nokhoyela otile, singa kamakhono nende esabuni bulayi.\n\nNe wenya omanye oli wasingile kamakhono bulayi onyala wemba lulwimbo lwa mwanawamberi chisafari chitaru\n\nMukari mwe kamatere\nkhu chisekundi ishirini\n\nakarikari we chinjala\nSinga enyuma we kamakhono\nOnyala wasinga kamakhono bulayi oriena?\n\nNotilile okharenga ta, singa busa kamakhono kowo.\n\nOkhatila enje we emaski/sitambaa sye mumoni tawe\n\nLuluasimulo\n\nBuchafu bunyala bwakhurerera bulwale norumikhila bitambaa bye mumoni khu siise siileyi\n\nMwata chimaski/bitambaa bye mumoni. Okhafwara wabira endalo endala ta\n\nRumikhila sichiko sie khubhukulila byakhulia\n\nOmwana\nPapa\nMaayi\nBulimundu arumikhile etaulo yewe\nMukharumikhila byakhulia, chisaani, bikombe namwe chitaulo chindala tawe\n\nSe onyala wa tila mumoni nende ekhukunyu ta, wakhakhaka\n\nNo onyala, fungula namwe ikala kimilyango nende chikhumbo namwe kamabeka\n\nNochile engo\nNewamile enje\n\nNio olie\n\nSinga kamakhono nende esabuni\n\nNe malila\n\nEsabuni\nMurame bulayi bulimundu\n\nMurame bulayi bulimundu\n\nEsabuni\nNewenya khumanya kamakali chilila khusoma niko baandike angaki ano\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020)\nNiyo khuamisye kamakhua kano ke muosibitali\n\nKamakhuwa kali musitaabu sino kosi kayeta khukhwilinda khukhwama khu bulwalwe bubundi\u00a0 nono kakhoyele karumikhe mulimenya lia buli endaalo.\nKamakhuwa kali musitaabu sino kali khulondekhana nende kamanyikhane khu bulwale bwa Conrona mpaka tarehe 28 februari 2020 ne kama mu kakaandikwa mukalandokho.\nhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nSitaabu sia Comic mulusungu sinyala sianyolekha khuinterneti khu \ufeffhttps://gumroad.com/weimankowart\u00a0\nSitaabu sino sesili siekhukusia tawe. Onyala wakaba babandu mubikuli,muchingo, siakazi khurumukhila interneti namwe WhatsApp.\nNokaba ekasi yino kumbuka:\nOkhabadilisia sisindu siosi musitaabu sino tawe\u00a0\nSitaabu sino sikhakusibwa tawe.\nNokaba khuinterneti, tambua omumyikinyi khu facebook @weimankowart, @weimankowart khu instagram\nKhu burumisi bubundi, reba erusa khucomicsforgood@gmail.com\nKamakhuwa ke bulwale bwa Korona\n\n\nManasseh Wekundah\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "swh": "Virusi vya Ugonjwa wa Korona\n\n\n\nKuna jambo MOJA tu unalopaswa kuelewa juu ya jinsi virusi vya Korona\nVINAVYOSAMBAA\nMdomoni\nPuani\nMachoni\nVinapokuingia\nMtu mwenye Afya\nMgonjwa wa Korona\nVirusi hivi vinasambaa wakati vitone hivi vya mate\nKwenda mbali. Ukiwa umbali wa mita 2 hutafikiwa na vitone vikubwa vya mate.\u00a0 \u00a0\u00a0\u00a0\n1\nMita 2\nAchoo!\nKwa hivyo, unapoona mtu akikohoa/kwenda chafya/mgonjwa unaweza kuamua:\n\nWape barakoa. Waweze kukoholea au kuendea chafya na kuwakinga wote walio karibu\n2\nVitone vya *kamasi*\nAU,\nPengine yeye si mgonjwa, anajikinga tu\nWatu wenye virusi huenda wasionyeshe ishara zozote, lakini bado wanaweza kuvisambaza\nKwa jumla, ni wazo bora kuepuka umati wa watu, maana huwezi kujua kama kuna mtu mgonjwa.\nVijiti vya kulia\n\nMtu mwenye afya\nVishikilio vya gari\nVitufe vya lifti\n\nTishu\n\nVikombe\n\nVifaa vya kidijitali\n\n& hata nje ya barakoa ya usoni mwako\n\nKingo za ngazi\nKipanya\n\nKalamu\nVitasa vya mlango\n\nMikononi mwao\n\nIsitoshe, huenda mate ya mtu mgonjwa yakawa kwenye vitu vingine \u2026\u00a0\nnyote mnaweza kuugua.\u00a0\n\nau umguse mwenzako uso\u00a0\u00a0\n\nujisugue macho\n\nUkigusa mojawapo wa vitu hivi kwa bahati mbaya, kisha ujiguse uso,\u00a0\nna njia ya kipekee iliyo bora kuviondoa ni kuviosha kwa sabuni, dawa ya klorini, au kileo. \u00a0\nVirusi vinaweza kukaa saa kadhaa juu ya vifaa,\nSabuni\n\nKwa sababu hii ni vizuri pia kuyafuata maelekezo haya\nOga kwa \ufeffsabuni hadi hapa\n\nSabuni\n\nKisugudi\nUsijiguse uso. (Au uuguse uso wa mtu mwingine yeyote.) Iwapo ni lazima ujiguse, kwanza ioshe mikono yako kabisa kwa sabuni.\nMuda sawa na wa kuimba kifungu cha \u201cWimbo wa Taifa\u201d \ufeffhttps://youtu.be/a37RnI3krzU\n\nchini ya kucha\n\n\nkwa \ufeffsekunde 20\n\nkatikati mwa vidole\n\nnawa nyuma ya mikono yako\n\nNini maana ya kuoga kabisa?\nIwapo umefanya hivyo, usihofu. Nawa mikono yako kwa sabuni hapo baadaye.\nPia, usiguse upande wa nje wa barakoa iwapo utaweza.\u00a0\nvitone vya mate\n*Vijidudu vinavyosababisha magonjwa hukulia ndani ya barakoa unapozivaa kwa muda mrefu\nZitupe barakoa zinapoanza kuwa nzito. Usizivae kwa zaidi ya siku moja!\u00a0\nTumia kijiko cha kupakulia\n\nMtoto\nBaba\nMama\nKila mtu awe na taulo yake\n\nUsitumie kwa pamoja vitu kama chakula,vyombo vya jikoni,vikombe,taulo.\nHuwezi kuugusa uso wako kwa kisugudi hata ukijaribu\nFungua na funga milango kwa kutumia kisugudi au bega badala ya mikono, inapowezekana.\nNyumbani\nna unaporudi kutoka kwa umma\n\nKabla hujala\n\nKila wakati nawa mikono yako ukitumia sabuni \u2026\nHatimaye,\n\nSabuni\nKaeni salama,\u00a0\nNyote!\n\nKaeni salama,\u00a0\nNyote!\n\nSabuni\nSoma makala hii ujue zaidi!\n\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, \ufeffin Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. \ufeff(Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020)\nMarejeo zaidi ya habari za kiafya:\n\nHoja za ziada: Maelekezo haya ya kiafya ya vibonzo yanafaa sana katika kuzuia maambukizi ya kawaida kama mafua na homa, na yanafaa kuzingatiwa daima, hata wakati hakuna mkurupuko wa magonjwa.\nMarejeo: Habari iliyo katika kijitabu hiki cha vibonzo imejikita kwa uelewa wa ugonjwa wa COVID19 kufikia tarehe 28 Februari 2020, na imetolewa kwa marejeo hii tatu. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nHabari za ziada: Unaweza kupata toleo la PDF la kijitabu hiki cha vibonzo kutoka kwa tovuti hii: https://gumroad.com/weimankowart\u00a0\nMaelekezo ya Kutumia: Kijitabu hiki cha vibonzo kiko huru kwa matumizi ya umma kupitia kwa tovuti na mitandao ya kijamiii kama vile Whatsapp na Telegram. Vile vile, nakala zinazotolewa kutoka kwa tovuti zinaweza kuchapishwa bure kama vibango vya matumizi ya kibinafsi na kielimu nyumbani, shuleni, na mahali pa kazi. \u00a0\nWakati unapowapa wengine kijitabu hiki, tafadhali kumbuka hoja hizi 3: \ufeff1) Hakuna ruhusa kuhariri chochote kwa njia yoyote unapokisambaza. \ufeff2) Vibonzo hivi haviwezi kutumiwa kwa mradi wowote wa kuleta faida. \ufeff3) lwapo unakisambaza kupitia kwa tovuti, weka jina la mwandalizi wa kitabu katika FB kwa kuweka @weimankowart, kwa IG kwa kuweka @weimankow (IG), au hata kuandika linki kwa instagram com/weimankow Kwa matumizi mengineyo yote, tafadhali tuma ombi kwa: comicsforgood@gmail.com\nVirusi vya Ugonjwa wa Korona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "luy",
+        "swh",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "r3kA2bWmmb"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "u5c9kqFWWi"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "Spanish",
+        "ki": "Gikuyu",
+        "luy": "Bukusu",
+        "swh": "Swahili"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Okhabadilisia kamakhuwa ke musitaabu sino tawe, lakini onyala wakara mululomo lulundi, khurumikhila chingila chichindi, lakini okabe bila khukusia. Sitaabu sino siandikwa nende Weiman Kou. Aana",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "Kamakhuwa ke bulwale bwa Korona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

@@ -1,0 +1,362 @@
+{
+    "allTitles": "{\"ban\":\"Indik Virus Corona\",\"en\":\"About Coronavirus\"}",
+    "author": null,
+    "bookInstanceId": "347e9007-351d-410c-a979-4f6aa17fae03",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+    "bookSamples": {
+        "0": {
+            "ban": "Indik Virus Corona",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lts": "",
+            "und": ""
+        },
+        "1": {
+            "ban": "",
+            "eng": ""
+        },
+        "2": {
+            "ban": "",
+            "eng": ""
+        },
+        "3": {
+            "ban": ""
+        },
+        "4": {
+            "ban": "Wantah wenten asiki sane patut irage uningin indik sapunapi virus Corona"
+        },
+        "5": {
+            "ban": "NGLIMBAK"
+        },
+        "6": {
+            "ban": "Cangkem"
+        },
+        "7": {
+            "ban": "Irung"
+        },
+        "8": {
+            "ban": "Penyingakan"
+        },
+        "9": {
+            "ban": "ngeranjing ke tengah\n"
+        },
+        "10": {
+            "ban": "Anak sane seger"
+        },
+        "11": {
+            "ban": "Anak sane sungkan"
+        },
+        "12": {
+            "ban": "Virus pacang nglimbak yening ketelan paes puniki"
+        },
+        "13": {
+            "ban": "Nyaga jarak. \nIrage pacang aman saking ketelan paes yening nyaga jarak 2m."
+        },
+        "14": {
+            "ban": "1"
+        },
+        "15": {
+            "ban": "2m-0,5m"
+        },
+        "16": {
+            "ban": "Haaachii!!"
+        },
+        "17": {
+            "ban": "Dadosne, yening manggihin anak kokoan/mebangkes/\nsungkan, irage patut:\n"
+        },
+        "18": {
+            "ban": "Icen ipun masker.\nDadosne ipun praside mebangkes/kokoan ring maskerne mangda ngelindungin anak sane wenten ring sampingnyane."
+        },
+        "19": {
+            "ban": "2"
+        },
+        "20": {
+            "ban": "Matur suksma \u201cSROOT\u201d\n"
+        },
+        "21": {
+            "ban": "Utawi,"
+        },
+        "22": {
+            "ban": "Minab ipun nenten sungkan. Ipun Wantah ngalindungin dewekne."
+        },
+        "23": {
+            "ban": "Sane sampun keni tular minab nenten nyinahang cirin-cirine, sekawale tetep praside nularang penyakitne."
+        },
+        "24": {
+            "ban": "Sampun ketah, pinih becik ejohin keramaian, seantukan irage nenten uning sire sane sungkan."
+        },
+        "25": {
+            "ban": "Pengajengan"
+        },
+        "26": {
+            "ban": "Anak sane seger"
+        },
+        "27": {
+            "ban": "Gegamelan kereta\n"
+        },
+        "28": {
+            "ban": "Tombol lift"
+        },
+        "29": {
+            "ban": "Tisu"
+        },
+        "30": {
+            "ban": "gelas"
+        },
+        "31": {
+            "ban": "Piranti digital"
+        },
+        "32": {
+            "ban": "Yadiapin, ring sisin masker"
+        },
+        "33": {
+            "ban": "Gegamelan undag"
+        },
+        "34": {
+            "ban": "Maus"
+        },
+        "35": {
+            "ban": "Pulpen\n"
+        },
+        "36": {
+            "ban": "Gagang jelanan\n"
+        },
+        "37": {
+            "ban": "Liman ipune"
+        },
+        "38": {
+            "ban": "Diastun punika, paes anake sane sungkan pacang neket ring \u2026.."
+        },
+        "39": {
+            "ban": "Ide dane sami janten sareng sungkan."
+        },
+        "40": {
+            "ban": "utawi prerai semetone sane nampek"
+        },
+        "41": {
+            "ban": "Ngucek penyingakan"
+        },
+        "42": {
+            "ban": "Yening irage nenten uning tur ngusud barang-barang punika, raris ngusud preraine,"
+        },
+        "43": {
+            "ban": "permargi asiki sane pinih becik antuk ngilangang virus wantah ngumbah nganggen sabun, pemutih, utawi alkohol."
+        },
+        "44": {
+            "ban": "Virus praside tetep hidup ngantos 24 jam ring permukaan barang,"
+        },
+        "45": {
+            "ban": "Sabun"
+        },
+        "46": {
+            "ban": "pemargi nyegah grubug puniki."
+        },
+        "47": {
+            "ban": "Nike mawinan, pinih becik nyarengin"
+        },
+        "48": {
+            "ban": "Umbah nganggen sabun ngantos iriki."
+        },
+        "49": {
+            "ban": "Sabun"
+        },
+        "50": {
+            "ban": "Siku tangan"
+        },
+        "51": {
+            "ban": "Sampunang ngusud prarai (utawi prarai anak lianan).\nYening wyakti kapatutang, wajikin dumun tangane kantos resik nganggen sabun."
+        },
+        "52": {
+            "ban": "Sekadi nembangang \u201cSelamat Ulang Tahun\u201d\u00a0 ping kalih"
+        },
+        "53": {
+            "ban": "Ring beten kuku"
+        },
+        "54": {
+            "ban": "Sawatara 20 detik"
+        },
+        "55": {
+            "ban": "Ring sela-sela jarine"
+        },
+        "56": {
+            "ban": "Umbah tundun tangane"
+        },
+        "57": {
+            "ban": "Punapi carane ngumbah tangan mangde ngantos kedas ?"
+        },
+        "58": {
+            "ban": "Yening sampun ngusud, sampunang sangsaya. Gelisin umbah tangane nganggen sabun."
+        },
+        "59": {
+            "ban": "Sampunang ngusud sisin masker."
+        },
+        "60": {
+            "ban": "Ketelan paes"
+        },
+        "61": {
+            "ban": "Bakteri praside pacang manak pinak ring tengah masker yening sampun suwe keanggen."
+        },
+        "62": {
+            "ban": "Rarisang kutang masker druene yening sampun menyi."
+        },
+        "63": {
+            "ban": "Anggen sendok jukut"
+        },
+        "64": {
+            "ban": "Pianak"
+        },
+        "65": {
+            "ban": "Bapa"
+        },
+        "66": {
+            "ban": "Meme"
+        },
+        "67": {
+            "ban": "Anggen handuk soang-soang\n"
+        },
+        "68": {
+            "ban": "Sampunang\u00a0 mepatung sareng-sareng ngajeng, nganggen peralatan ngajeng, gelas, lan handuk."
+        },
+        "69": {
+            "ban": "Irage nenten preside ngusud prarai nganggen siku druwene, tegarang.\n"
+        },
+        "70": {
+            "ban": "Sebisan-bisan, ampakan utawi ubetang jelananne ngangge siku utawi bahu."
+        },
+        "71": {
+            "ban": "Ring\njumahan"
+        },
+        "72": {
+            "ban": "Serauhe saking lelunganan\n"
+        },
+        "73": {
+            "ban": "Sedurunge ngajeng"
+        },
+        "74": {
+            "ban": "Setata ngumbah tangan ngangge sabun \u2026."
+        },
+        "75": {
+            "ban": "Pinih untad,"
+        },
+        "76": {
+            "ban": "sabun"
+        },
+        "77": {
+            "ban": "Ngiring jaga keresikan!\n"
+        },
+        "78": {
+            "ban": "Ngiring jaga keresikan!\n"
+        },
+        "79": {
+            "ban": "Sabun"
+        },
+        "80": {
+            "ban": "Wacen pitutur lianan saking artikel ring ungkur!"
+        },
+        "81": {
+            "ban": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "ban": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+        },
+        "83": {
+            "ban": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "ban": "Sumber utama gatra medis:"
+        },
+        "85": {
+            "ban": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah.\u00a0\nReferensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini.\u00a0 https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nInformasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini: https://gumroad.com/weimankowart\u00a0\nPedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja..\u00a0\nSaat membagikan komik ini, ingat 3 hal berikut: 1) Dilarang mengedit gambar komik yang akan dibagikan. 2) Komik ini tidak dapat diperjualbelikan. 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\nUntuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\n"
+        },
+        "86": {
+            "ban": "Indik Virus Corona",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lts": "",
+            "und": ""
+        },
+        "87": {
+            "ban": "",
+            "eng": ""
+        },
+        "88": {
+            "ban": "",
+            "eng": "Diterjemahkan dalam Bahasa Bali oleh Ida Bagus Putra Yadnya\n"
+        },
+        "89": {
+            "ban": "",
+            "eng": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org"
+        },
+        "90": {
+            "ban": "",
+            "eng": "Created by Weiman Kow, instagram: weimankow"
+        },
+        "91": {
+            "ban": "",
+            "eng": ""
+        },
+        "92": {
+            "ban": "",
+            "eng": ""
+        },
+        "93": {
+            "ban": "",
+            "eng": ""
+        },
+        "94": {
+            "ban": "",
+            "eng": ""
+        }
+    },
+    "bookText": {
+        "ban": "Indik Virus Corona\n\n\n\nWantah wenten asiki sane patut irage uningin indik sapunapi virus Corona\nNGLIMBAK\nCangkem\nIrung\nPenyingakan\nngeranjing ke tengah\n\nAnak sane seger\nAnak sane sungkan\nVirus pacang nglimbak yening ketelan paes puniki\nNyaga jarak. \nIrage pacang aman saking ketelan paes yening nyaga jarak 2m.\n1\n2m-0,5m\nHaaachii!!\nDadosne, yening manggihin anak kokoan/mebangkes/\nsungkan, irage patut:\n\nIcen ipun masker.\nDadosne ipun praside mebangkes/kokoan ring maskerne mangda ngelindungin anak sane wenten ring sampingnyane.\n2\nMatur suksma \u201cSROOT\u201d\n\nUtawi,\nMinab ipun nenten sungkan. Ipun Wantah ngalindungin dewekne.\nSane sampun keni tular minab nenten nyinahang cirin-cirine, sekawale tetep praside nularang penyakitne.\nSampun ketah, pinih becik ejohin keramaian, seantukan irage nenten uning sire sane sungkan.\nPengajengan\nAnak sane seger\nGegamelan kereta\n\nTombol lift\nTisu\ngelas\nPiranti digital\nYadiapin, ring sisin masker\nGegamelan undag\nMaus\nPulpen\n\nGagang jelanan\n\nLiman ipune\nDiastun punika, paes anake sane sungkan pacang neket ring \u2026..\nIde dane sami janten sareng sungkan.\nutawi prerai semetone sane nampek\nNgucek penyingakan\nYening irage nenten uning tur ngusud barang-barang punika, raris ngusud preraine,\npermargi asiki sane pinih becik antuk ngilangang virus wantah ngumbah nganggen sabun, pemutih, utawi alkohol.\nVirus praside tetep hidup ngantos 24 jam ring permukaan barang,\nSabun\npemargi nyegah grubug puniki.\nNike mawinan, pinih becik nyarengin\nUmbah nganggen sabun ngantos iriki.\nSabun\nSiku tangan\nSampunang ngusud prarai (utawi prarai anak lianan).\nYening wyakti kapatutang, wajikin dumun tangane kantos resik nganggen sabun.\nSekadi nembangang \u201cSelamat Ulang Tahun\u201d\u00a0 ping kalih\nRing beten kuku\nSawatara 20 detik\nRing sela-sela jarine\nUmbah tundun tangane\nPunapi carane ngumbah tangan mangde ngantos kedas ?\nYening sampun ngusud, sampunang sangsaya. Gelisin umbah tangane nganggen sabun.\nSampunang ngusud sisin masker.\nKetelan paes\nBakteri praside pacang manak pinak ring tengah masker yening sampun suwe keanggen.\nRarisang kutang masker druene yening sampun menyi.\nAnggen sendok jukut\nPianak\nBapa\nMeme\nAnggen handuk soang-soang\n\nSampunang\u00a0 mepatung sareng-sareng ngajeng, nganggen peralatan ngajeng, gelas, lan handuk.\nIrage nenten preside ngusud prarai nganggen siku druwene, tegarang.\n\nSebisan-bisan, ampakan utawi ubetang jelananne ngangge siku utawi bahu.\nRing\njumahan\nSerauhe saking lelunganan\n\nSedurunge ngajeng\nSetata ngumbah tangan ngangge sabun \u2026.\nPinih untad,\nsabun\nNgiring jaga keresikan!\n\nNgiring jaga keresikan!\n\nSabun\nWacen pitutur lianan saking artikel ring ungkur!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)\nSumber utama gatra medis:\nKeterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah.\u00a0\nReferensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini.\u00a0 https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nInformasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini: https://gumroad.com/weimankowart\u00a0\nPedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja..\u00a0\nSaat membagikan komik ini, ingat 3 hal berikut: 1) Dilarang mengedit gambar komik yang akan dibagikan. 2) Komik ini tidak dapat diperjualbelikan. 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\nUntuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\n\nIndik Virus Corona\n\n\n\n\n\n\n\n",
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nDiterjemahkan dalam Bahasa Bali oleh Ida Bagus Putra Yadnya\n\nVersi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "ban",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vJg88meKjB"
+        }
+    ],
+    "language-display-names": {
+        "ban": "Bali",
+        "en": "English",
+        "id": "Indonesian",
+        "lts": "Lutachoni"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "Bali",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Indik Virus Corona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

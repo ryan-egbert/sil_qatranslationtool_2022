@@ -1,0 +1,370 @@
+{
+    "allTitles": "{\"ahk\":\"Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\",\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"wbm\":\"Grawh grawng viag Corona\"}",
+    "author": null,
+    "bookInstanceId": "db11d4bf-71d8-46bd-8338-22c3675974b8",
+    "bookLineage": "",
+    "bookSamples": {
+        "0": {
+            "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "wbm": "Grawh grawng viag Corona"
+        },
+        "1": {
+            "eng": "",
+            "wbm": ""
+        },
+        "2": {
+            "eng": "",
+            "wbm": ""
+        },
+        "3": {
+            "wbm": ""
+        },
+        "4": {
+            "wbm": "\u00a0Caw ti tawng viag Corona an mawh viag yuh ka mawx?\n\n"
+        },
+        "5": {
+            "wbm": "Grawng pre viag."
+        },
+        "6": {
+            "wbm": "Jheeh\n"
+        },
+        "7": {
+            "wbm": "Meeh\n"
+        },
+        "8": {
+            "wbm": "Ngai\n"
+        },
+        "9": {
+            "wbm": "Chix tiang haok ka maix khaing ceu in.\n"
+        },
+        "10": {
+            "wbm": "Pui pa\nnyawm ot"
+        },
+        "11": {
+            "wbm": "Pui koe\njhawm saux\n"
+        },
+        "12": {
+            "wbm": "Jhawm saux chix pre yam jah rawm in.\n"
+        },
+        "13": {
+            "wbm": "Ot 6 sawk, chix tieb tie ka viag pa yie tiang hu."
+        },
+        "14": {
+            "wbm": "1"
+        },
+        "15": {
+            "wbm": "\u00a06 sawk\n"
+        },
+        "16": {
+            "wbm": "\u00a0\u00a0 Haik cho\n"
+        },
+        "17": {
+            "wbm": "Mah kheu nan, phan yaox pui mauk, miah mai saux caw ti hawt been awm pa koe plak greem awx.\n"
+        },
+        "18": {
+            "wbm": "Tawx pa tawb meeh (mask) ka kix. Kheu miah, mauk nawh kadaux man tawb meeh, chix tieb tie ka pui pa\nkoe rob rem tix heue."
+        },
+        "19": {
+            "wbm": "2"
+        },
+        "20": {
+            "wbm": "Ting buan son\n(pui miah)\n"
+        },
+        "21": {
+            "wbm": "Phan ang mawh nan\n"
+        },
+        "22": {
+            "wbm": "Viang nawh ang saux kawx\nnawh chix tieb tie tokaux tix."
+        },
+        "23": {
+            "wbm": "\u00a0Saux viag koe mie ding kaux ang chix goih tawng mawh kheu nan\nchix tiang hu khaing heue.\n"
+        },
+        "24": {
+            "wbm": "\u00a0Kheu ex ang chix tawng pui mawx pa koe jhawm\nsaux viag, caw tix via khaing dee ot pui hun heue."
+        },
+        "25": {
+            "wbm": "Thu shiao"
+        },
+        "26": {
+            "wbm": "\u00a0Pui nyawm ot\n"
+        },
+        "27": {
+            "wbm": "maox giex taix\ndaux cheu"
+        },
+        "28": {
+            "wbm": "pa yeen daux bawng cag"
+        },
+        "29": {
+            "wbm": "plah ce"
+        },
+        "30": {
+            "wbm": "kawk rawm\n\n"
+        },
+        "31": {
+            "wbm": "kraung cag pa shiao\n"
+        },
+        "32": {
+            "wbm": "\u00a0Plak praix man tawb meeh\n"
+        },
+        "33": {
+            "wbm": "Taix haok bawng\n"
+        },
+        "34": {
+            "wbm": "Maok\n\n"
+        },
+        "35": {
+            "wbm": "Gawng tiiem\n"
+        },
+        "36": {
+            "wbm": "Pang siviex\n"
+        },
+        "37": {
+            "wbm": "Taix nawh\n"
+        },
+        "38": {
+            "wbm": "Khaix an mia pui saux kawx chix koe ka kraung shiao. Lox tiag\n"
+        },
+        "39": {
+            "wbm": "Chix tiang saux ka maix mai kix uik heue."
+        },
+        "40": {
+            "wbm": "Giex ka ngai baoh pui pa moh\n"
+        },
+        "41": {
+            "wbm": "Giex ngai tix\n"
+        },
+        "42": {
+            "wbm": "Phan maix krox ngai baoh tix khaing giex ceu an\n"
+        },
+        "43": {
+            "wbm": "Phan sang tieb tie caw ti khoek taix tix singax mhawm ka sidah khoek mai rawm sidah plai."
+        },
+        "44": {
+            "wbm": "Viag an pon ot im ka piang kraung\nshiao tom rheung heue.\n"
+        },
+        "45": {
+            "wbm": "\u00a0Sidah khoek\n"
+        },
+        "46": {
+            "wbm": ""
+        },
+        "47": {
+            "wbm": "Ceu pa caw ti yuh son krax tieb tie"
+        },
+        "48": {
+            "wbm": "-\u00a0\u00a0\u00a0\u00a0\u00a0 Phan hawt yuh awm an mawh pa nie mhawm heue.\n"
+        },
+        "49": {
+            "wbm": "Khoek tom hoek dee in\n"
+        },
+        "50": {
+            "wbm": "Sidah khoek\n"
+        },
+        "51": {
+            "wbm": "Jhong taix"
+        },
+        "52": {
+            "wbm": "Paw teeh ka ngai baoh tix (a) ngai baoh pui tang\nkaux. Phan lo ti krox caw ti khoek taix tix ka sidah\nkhoek mhawm mhawm heue.\n"
+        },
+        "53": {
+            "wbm": "Kieh rheeng bawgyam awm ah lox lai iak ra bawg awx"
+        },
+        "54": {
+            "wbm": "Kadaux nghim taix\n"
+        },
+        "55": {
+            "wbm": "Rheeng 20 siekan\n"
+        },
+        "56": {
+            "wbm": "Sinax giien taix\n"
+        },
+        "57": {
+            "wbm": "Khoek plah taix\n"
+        },
+        "58": {
+            "wbm": "\u00a0Kudah ah mawh pa tix?\n"
+        },
+        "59": {
+            "wbm": "Phan piawm krox paw khi rhawm caw ti khoek taix tix ka sidah khoek mhawm mhawm heue.\n"
+        },
+        "60": {
+            "wbm": "Paw krox ka plak praix man tawb meeh.\n"
+        },
+        "61": {
+            "wbm": "Rawm jah ba koe viag."
+        },
+        "62": {
+            "wbm": "Phan rheung jheep man tawb meeh tix mu viag chix ot ti ting daux man an heue.\n"
+        },
+        "63": {
+            "wbm": "Man tawb meeh shiao tix bawg paw shiao lheu khaing tix ngaix phan maox bhaw caw ti tik heue.\n"
+        },
+        "64": {
+            "wbm": "Shiao lawk tuh puk taux"
+        },
+        "65": {
+            "wbm": "-\u00a0 Kawn\n"
+        },
+        "66": {
+            "wbm": "Keeing\n"
+        },
+        "67": {
+            "wbm": "Miex\n"
+        },
+        "68": {
+            "wbm": "Kieh tang shiao man ot cao tix.\n"
+        },
+        "69": {
+            "wbm": "Paw riem shiao ka kraung, kawk rawm, man awt mai priex ih tau.\n"
+        },
+        "70": {
+            "wbm": "Maix ang chix yuh jhong taix maix hu krox ka ngaix baoh maix ceeix kawx heue."
+        },
+        "71": {
+            "wbm": "Phan sang paoh siviex paoh ka jhong taix (a) nyheen paoh ka klip tix. Paw paoh ka taix tix.\n"
+        },
+        "72": {
+            "wbm": "Ka nyiex\n"
+        },
+        "73": {
+            "wbm": "Yam hoek khaing\nplak praix"
+        },
+        "74": {
+            "wbm": "Sivoe ang nyang\nih priex\n"
+        },
+        "75": {
+            "wbm": "\u00a0Khoek taix ka sidah khoek sijheeng\n"
+        },
+        "76": {
+            "wbm": "Dee sidah\n"
+        },
+        "77": {
+            "wbm": "Sidah khoek"
+        },
+        "78": {
+            "wbm": "Ot mhawm khaing\nkrax lhat graung\n"
+        },
+        "79": {
+            "wbm": "Ot mhawm khaing krax"
+        },
+        "80": {
+            "wbm": "Sidah khoek"
+        },
+        "81": {
+            "wbm": ""
+        },
+        "82": {
+            "wbm": ""
+        },
+        "83": {
+            "wbm": ""
+        },
+        "84": {
+            "wbm": ""
+        },
+        "85": {
+            "wbm": ""
+        },
+        "86": {
+            "wbm": ""
+        },
+        "87": {
+            "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "wbm": "Grawh grawng viag Corona"
+        },
+        "88": {
+            "eng": "",
+            "wbm": ""
+        },
+        "89": {
+            "eng": "",
+            "wbm": ""
+        },
+        "90": {
+            "eng": "",
+            "wbm": ""
+        },
+        "91": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "wbm": ""
+        },
+        "92": {
+            "eng": "",
+            "wbm": ""
+        },
+        "93": {
+            "eng": "",
+            "wbm": ""
+        },
+        "94": {
+            "eng": "",
+            "wbm": ""
+        },
+        "95": {
+            "eng": "",
+            "wbm": ""
+        }
+    },
+    "bookText": {
+        "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKo\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\n\n\n\n\n\n\n\n",
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\n\n\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "spa": "Sobre el Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSobre el Coronavirus\n\n\n\n\n\n\n\n",
+        "wbm": "Grawh grawng viag Corona\n\n\n\n\u00a0Caw ti tawng viag Corona an mawh viag yuh ka mawx?\n\n\nGrawng pre viag.\nJheeh\n\nMeeh\n\nNgai\n\nChix tiang haok ka maix khaing ceu in.\n\nPui pa\nnyawm ot\nPui koe\njhawm saux\n\nJhawm saux chix pre yam jah rawm in.\n\nOt 6 sawk, chix tieb tie ka viag pa yie tiang hu.\n1\n\u00a06 sawk\n\n\u00a0\u00a0 Haik cho\n\nMah kheu nan, phan yaox pui mauk, miah mai saux caw ti hawt been awm pa koe plak greem awx.\n\nTawx pa tawb meeh (mask) ka kix. Kheu miah, mauk nawh kadaux man tawb meeh, chix tieb tie ka pui pa\nkoe rob rem tix heue.\n2\nTing buan son\n(pui miah)\n\nPhan ang mawh nan\n\nViang nawh ang saux kawx\nnawh chix tieb tie tokaux tix.\n\u00a0Saux viag koe mie ding kaux ang chix goih tawng mawh kheu nan\nchix tiang hu khaing heue.\n\n\u00a0Kheu ex ang chix tawng pui mawx pa koe jhawm\nsaux viag, caw tix via khaing dee ot pui hun heue.\nThu shiao\n\u00a0Pui nyawm ot\n\nmaox giex taix\ndaux cheu\npa yeen daux bawng cag\nplah ce\nkawk rawm\n\n\nkraung cag pa shiao\n\n\u00a0Plak praix man tawb meeh\n\nTaix haok bawng\n\nMaok\n\n\nGawng tiiem\n\nPang siviex\n\nTaix nawh\n\nKhaix an mia pui saux kawx chix koe ka kraung shiao. Lox tiag\n\nChix tiang saux ka maix mai kix uik heue.\nGiex ka ngai baoh pui pa moh\n\nGiex ngai tix\n\nPhan maix krox ngai baoh tix khaing giex ceu an\n\nPhan sang tieb tie caw ti khoek taix tix singax mhawm ka sidah khoek mai rawm sidah plai.\nViag an pon ot im ka piang kraung\nshiao tom rheung heue.\n\n\u00a0Sidah khoek\n\n\nCeu pa caw ti yuh son krax tieb tie\n-\u00a0\u00a0\u00a0\u00a0\u00a0 Phan hawt yuh awm an mawh pa nie mhawm heue.\n\nKhoek tom hoek dee in\n\nSidah khoek\n\nJhong taix\nPaw teeh ka ngai baoh tix (a) ngai baoh pui tang\nkaux. Phan lo ti krox caw ti khoek taix tix ka sidah\nkhoek mhawm mhawm heue.\n\nKieh rheeng bawgyam awm ah lox lai iak ra bawg awx\nKadaux nghim taix\n\nRheeng 20 siekan\n\nSinax giien taix\n\nKhoek plah taix\n\n\u00a0Kudah ah mawh pa tix?\n\nPhan piawm krox paw khi rhawm caw ti khoek taix tix ka sidah khoek mhawm mhawm heue.\n\nPaw krox ka plak praix man tawb meeh.\n\nRawm jah ba koe viag.\nPhan rheung jheep man tawb meeh tix mu viag chix ot ti ting daux man an heue.\n\nMan tawb meeh shiao tix bawg paw shiao lheu khaing tix ngaix phan maox bhaw caw ti tik heue.\n\nShiao lawk tuh puk taux\n-\u00a0 Kawn\n\nKeeing\n\nMiex\n\nKieh tang shiao man ot cao tix.\n\nPaw riem shiao ka kraung, kawk rawm, man awt mai priex ih tau.\n\nMaix ang chix yuh jhong taix maix hu krox ka ngaix baoh maix ceeix kawx heue.\nPhan sang paoh siviex paoh ka jhong taix (a) nyheen paoh ka klip tix. Paw paoh ka taix tix.\n\nKa nyiex\n\nYam hoek khaing\nplak praix\nSivoe ang nyang\nih priex\n\n\u00a0Khoek taix ka sidah khoek sijheeng\n\nDee sidah\n\nSidah khoek\nOt mhawm khaing\nkrax lhat graung\n\nOt mhawm khaing krax\nSidah khoek\n\n\n\n\n\n\nGrawh grawng viag Corona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "ahk",
+        "spa",
+        "wbm",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Wa literacy",
+    "country": "China",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "imported-book-source-url": null,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "doJrissELQ"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "wbm": "Wa"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "originalTitle": "About Coronavirus",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "phashOfFirstContentImage": null,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "about coronavirus",
+    "tags": [],
+    "title": "Grawh grawng viag Corona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

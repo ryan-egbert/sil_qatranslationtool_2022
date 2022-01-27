@@ -1,0 +1,363 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"heg\":\"In Teka deng Virus Corona\",\"lts\":\"Olumbe lwa Korona\"}",
+    "author": null,
+    "bookInstanceId": "8490a46d-e85a-441b-a2f5-d0c439c28680",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "heg": "In Teka deng Virus Corona",
+            "ind": "",
+            "lts": "Olumbe lwa Korona",
+            "und": ""
+        },
+        "1": {
+            "eng": "",
+            "heg": ""
+        },
+        "2": {
+            "eng": "",
+            "heg": ""
+        },
+        "3": {
+            "heg": ""
+        },
+        "4": {
+            "heg": "Muik DASI MESA man kita musti tanan deng virus korona li in holhising nga"
+        },
+        "5": {
+            "heg": ""
+        },
+        "6": {
+            "heg": "Baha\n"
+        },
+        "7": {
+            "heg": "Ilu nol\n"
+        },
+        "8": {
+            "heg": "Mata\n"
+        },
+        "9": {
+            "heg": "Tama lako\n"
+        },
+        "10": {
+            "heg": "Atuil in hed\nlo"
+        },
+        "11": {
+            "heg": "Atuil in heda\n"
+        },
+        "12": {
+            "heg": "Virus ni holhising deng kapen"
+        },
+        "13": {
+            "heg": "Lam musti dil kakatang\u00a0nataka le meter 2 halin tom un kapen in hising nga deken.\n"
+        },
+        "14": {
+            "heg": "1"
+        },
+        "15": {
+            "heg": "0,5-2 meter\n"
+        },
+        "16": {
+            "heg": "Haachii!!\n"
+        },
+        "17": {
+            "heg": "Eta mi net atuli mes kode tam heda tam hngasing taa le hangi"
+        },
+        "18": {
+            "heg": "BELEN MASKER.\nLe halin eta un kode ta hangi lam se masker ra dale. Eta ela lam tom atuil didang lo.\n"
+        },
+        "19": {
+            "heg": "2"
+        },
+        "20": {
+            "heg": "Nodan mamo \u201cSROOT\u201d\n"
+        },
+        "21": {
+            "heg": "TAMLOM\n"
+        },
+        "22": {
+            "heg": "Eta atuli mes pake kai-baut elia lam bet un heda lo, ni in doh apa tukun.\n"
+        },
+        "23": {
+            "heg": "Atuling man in tom virus son na bet kit tanan lo, molam eta un tom son nam, kit kon bisa hapun deng una.\n"
+        },
+        "24": {
+            "heg": "In banan dui ka, laok se mana-maan atuli in nakbua kas deken, undeng mi taan lo noan atuling in heda ki ola lia.\n"
+        },
+        "25": {
+            "heg": "bisi\n"
+        },
+        "26": {
+            "heg": "atuil in hed lo\n"
+        },
+        "27": {
+            "heg": "man in kila\n"
+        },
+        "28": {
+            "heg": "tombol\n"
+        },
+        "29": {
+            "heg": "kitu\n"
+        },
+        "30": {
+            "heg": "klas\n"
+        },
+        "31": {
+            "heg": "Hp komputer\n"
+        },
+        "32": {
+            "heg": "masker ra likun\u00a0na\n"
+        },
+        "33": {
+            "heg": "tangga\n"
+        },
+        "34": {
+            "heg": "maus\n"
+        },
+        "35": {
+            "heg": "bulpuin\n"
+        },
+        "36": {
+            "heg": "hnita\n"
+        },
+        "37": {
+            "heg": "ima ka\n"
+        },
+        "38": {
+            "heg": "Nol mes pait, atuil in heda ki kapen na bisa napin se\u2026..\n"
+        },
+        "39": {
+            "heg": "lam mi totoang bisa haup iil nia."
+        },
+        "40": {
+            "heg": "huud atuil mi in namnau ngas silans,\n"
+        },
+        "41": {
+            "heg": "kose matan tam,\n"
+        },
+        "42": {
+            "heg": "Eta mi taan lo, mo mi huud tom sa-saa nias hidim huud mi silan nas tam,\n"
+        },
+        "43": {
+            "heg": "Lalan in puti banan mes taung in tom virus ni lo ka, MUSTI haun iman nini sabu, bycline tamlom alkohol.\n"
+        },
+        "44": {
+            "heg": "Virus ni bisa tahang naal se sa-saa mes dapa jam 24\n"
+        },
+        "45": {
+            "heg": "sabu"
+        },
+        "46": {
+            "heg": "deng in doh apan deng virus nia ka."
+        },
+        "47": {
+            "heg": "Undeng na le banan dui ka muid in teka\n"
+        },
+        "48": {
+            "heg": "haun iman babanan lako pes sikun nini sabu."
+        },
+        "49": {
+            "heg": "sabu"
+        },
+        "50": {
+            "heg": "sikun\n"
+        },
+        "51": {
+            "heg": "Boel huud silan (tamlom atuil didang sila deken) Banan dui ka haun iman nini saub muna le.\n"
+        },
+        "52": {
+            "heg": "haun nesang nga banansila el in tao dain \u201cselamat ulang tahun\u201d oe dua.\n"
+        },
+        "53": {
+            "heg": "hngulun\n"
+        },
+        "54": {
+            "heg": "detik 20 ela.\n"
+        },
+        "55": {
+            "heg": "hnagan\n"
+        },
+        "56": {
+            "heg": "haun iman klupu\n"
+        },
+        "57": {
+            "heg": "Lalan in haun iman ni-niu ki elola?\n"
+        },
+        "58": {
+            "heg": "Eta hudun nam, lii-tiud deken. Kit bisa hlalapat haun iman nini sabu.\n"
+        },
+        "59": {
+            "heg": "Boel huud masker ra likun\u00a0na deken.\n"
+        },
+        "60": {
+            "heg": "kapen in nahi ngas\n"
+        },
+        "61": {
+            "heg": "Eta kit pake masker mes nesang isi kam ili koed-ngasing bisa nutu ana se masker ra dalen.\n"
+        },
+        "62": {
+            "heg": "Soleng masker ra eta nataka le hmomos son. Boel pake masker ra oe-oe tamlom nesang isi deken.\n"
+        },
+        "63": {
+            "heg": "Pake sulut in sul utan\n"
+        },
+        "64": {
+            "heg": "Tana-ana ngas"
+        },
+        "65": {
+            "heg": "Papa"
+        },
+        "66": {
+            "heg": "Mama\n"
+        },
+        "67": {
+            "heg": "Mesa-mesam no-nool un handuk\n"
+        },
+        "68": {
+            "heg": "Boel leo-leo pake\u00a0sa-saa in kaa, in pake, el klas nol handuk deken.\n"
+        },
+        "69": {
+            "heg": "Mi bisa huud naal silan nini sikun tamlom adun lo ta lo?\n"
+        },
+        "70": {
+            "heg": "Eta bisa lam sai hnita kas nini sikun tamlom adun.\n"
+        },
+        "71": {
+            "heg": "Uma"
+        },
+        "72": {
+            "heg": "Pait umam deng likun nam haun iman\n"
+        },
+        "73": {
+            "heg": "Kaa biim haun iman\n"
+        },
+        "74": {
+            "heg": "Haun iman nini saub\u00a0tutungus\u2026\n"
+        },
+        "75": {
+            "heg": "In teka hmudin nia:\n"
+        },
+        "76": {
+            "heg": "sabu\n"
+        },
+        "77": {
+            "heg": "Doh babanan le hedam deken!\n"
+        },
+        "78": {
+            "heg": "Doh babanan le hedam deken!\n"
+        },
+        "79": {
+            "heg": "Sabu"
+        },
+        "80": {
+            "heg": "Bisa les in teka-teka deeh pait deng in dula-les mo dapang nia ngas.\n"
+        },
+        "81": {
+            "heg": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "heg": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+        },
+        "83": {
+            "heg": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "heg": "In teka ni hapun muna deng mantri las:\n"
+        },
+        "85": {
+            "heg": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "heg": "In Teka deng Virus Corona",
+            "ind": "",
+            "lts": "Olumbe lwa Korona",
+            "und": ""
+        },
+        "87": {
+            "eng": "",
+            "heg": ""
+        },
+        "88": {
+            "eng": "Diterjemahkan dalam Bahasa Helong oleh Misriani Balle",
+            "heg": ""
+        },
+        "89": {
+            "eng": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org",
+            "heg": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "heg": ""
+        },
+        "91": {
+            "eng": "",
+            "heg": ""
+        },
+        "92": {
+            "eng": "",
+            "heg": ""
+        },
+        "93": {
+            "eng": "",
+            "heg": ""
+        },
+        "94": {
+            "eng": "",
+            "heg": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nDiterjemahkan dalam Bahasa Helong oleh Misriani Balle\nVersi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "heg": "In Teka deng Virus Corona\n\n\n\nMuik DASI MESA man kita musti tanan deng virus korona li in holhising nga\n\nBaha\n\nIlu nol\n\nMata\n\nTama lako\n\nAtuil in hed\nlo\nAtuil in heda\n\nVirus ni holhising deng kapen\nLam musti dil kakatang\u00a0nataka le meter 2 halin tom un kapen in hising nga deken.\n\n1\n0,5-2 meter\n\nHaachii!!\n\nEta mi net atuli mes kode tam heda tam hngasing taa le hangi\nBELEN MASKER.\nLe halin eta un kode ta hangi lam se masker ra dale. Eta ela lam tom atuil didang lo.\n\n2\nNodan mamo \u201cSROOT\u201d\n\nTAMLOM\n\nEta atuli mes pake kai-baut elia lam bet un heda lo, ni in doh apa tukun.\n\nAtuling man in tom virus son na bet kit tanan lo, molam eta un tom son nam, kit kon bisa hapun deng una.\n\nIn banan dui ka, laok se mana-maan atuli in nakbua kas deken, undeng mi taan lo noan atuling in heda ki ola lia.\n\nbisi\n\natuil in hed lo\n\nman in kila\n\ntombol\n\nkitu\n\nklas\n\nHp komputer\n\nmasker ra likun\u00a0na\n\ntangga\n\nmaus\n\nbulpuin\n\nhnita\n\nima ka\n\nNol mes pait, atuil in heda ki kapen na bisa napin se\u2026..\n\nlam mi totoang bisa haup iil nia.\nhuud atuil mi in namnau ngas silans,\n\nkose matan tam,\n\nEta mi taan lo, mo mi huud tom sa-saa nias hidim huud mi silan nas tam,\n\nLalan in puti banan mes taung in tom virus ni lo ka, MUSTI haun iman nini sabu, bycline tamlom alkohol.\n\nVirus ni bisa tahang naal se sa-saa mes dapa jam 24\n\nsabu\ndeng in doh apan deng virus nia ka.\nUndeng na le banan dui ka muid in teka\n\nhaun iman babanan lako pes sikun nini sabu.\nsabu\nsikun\n\nBoel huud silan (tamlom atuil didang sila deken) Banan dui ka haun iman nini saub muna le.\n\nhaun nesang nga banansila el in tao dain \u201cselamat ulang tahun\u201d oe dua.\n\nhngulun\n\ndetik 20 ela.\n\nhnagan\n\nhaun iman klupu\n\nLalan in haun iman ni-niu ki elola?\n\nEta hudun nam, lii-tiud deken. Kit bisa hlalapat haun iman nini sabu.\n\nBoel huud masker ra likun\u00a0na deken.\n\nkapen in nahi ngas\n\nEta kit pake masker mes nesang isi kam ili koed-ngasing bisa nutu ana se masker ra dalen.\n\nSoleng masker ra eta nataka le hmomos son. Boel pake masker ra oe-oe tamlom nesang isi deken.\n\nPake sulut in sul utan\n\nTana-ana ngas\nPapa\nMama\n\nMesa-mesam no-nool un handuk\n\nBoel leo-leo pake\u00a0sa-saa in kaa, in pake, el klas nol handuk deken.\n\nMi bisa huud naal silan nini sikun tamlom adun lo ta lo?\n\nEta bisa lam sai hnita kas nini sikun tamlom adun.\n\nUma\nPait umam deng likun nam haun iman\n\nKaa biim haun iman\n\nHaun iman nini saub\u00a0tutungus\u2026\n\nIn teka hmudin nia:\n\nsabu\n\nDoh babanan le hedam deken!\n\nDoh babanan le hedam deken!\n\nSabu\nBisa les in teka-teka deeh pait deng in dula-les mo dapang nia ngas.\n\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)\nIn teka ni hapun muna deng mantri las:\n\nKeterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\nIn Teka deng Virus Corona\n\n\n\n\n\n\n\n",
+        "lts": "Olumbe lwa Korona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOlumbe lwa Korona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "lts",
+        "heg",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "FCwzo4jkJj"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "heg": "Helong",
+        "lts": "Lutachoni"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "In Teka deng Virus Corona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

@@ -1,0 +1,354 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"rel\":\"Wori Faayrashi Koroona miinsan\"}",
+    "author": null,
+    "bookInstanceId": "dab6db02-20b9-44e7-ba8c-1073396eb2b8",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "rel": "Wori Faayrashi Koroona miinsan"
+        },
+        "1": {
+            "eng": "",
+            "rel": ""
+        },
+        "2": {
+            "eng": "",
+            "rel": "Translated by Joshua Galimogle, Laban Eysinkele & Joshua Borano"
+        },
+        "3": {
+            "rel": ""
+        },
+        "4": {
+            "rel": "Wohoo kaldaye saggi Faayrashi Koroona itaa\u2019ho at abatti on jira"
+        },
+        "5": {
+            "rel": "Saggi us itaaho\u2019"
+        },
+        "6": {
+            "rel": "Af"
+        },
+        "7": {
+            "rel": "Sam"
+        },
+        "8": {
+            "rel": "Indo"
+        },
+        "9": {
+            "rel": "Miilassaah"
+        },
+        "10": {
+            "rel": "Eti feyyan"
+        },
+        "11": {
+            "rel": "Eti khannan"
+        },
+        "12": {
+            "rel": "Faayras chirri\u00a0 hanjufti"
+        },
+        "13": {
+            "rel": "Foga ileero: Mitta lamma hanjuf a kaalaabta."
+        },
+        "14": {
+            "rel": "Koow"
+        },
+        "15": {
+            "rel": "Mitta lamma"
+        },
+        "16": {
+            "rel": "Attissiyo"
+        },
+        "17": {
+            "rel": "\u2019Deerka chirri at etoo yarho, attissiyo ommos khannan agarte waha yeel:"
+        },
+        "18": {
+            "rel": "Dafarti fool lakorsati sii: Intaas a kayarheene ommo a kaattissiyeen, uus \u2019doo\u2019di isoodow khabsiin"
+        },
+        "19": {
+            "rel": "Lamma"
+        },
+        "20": {
+            "rel": "Dafarti lakaneebsati"
+        },
+        "21": {
+            "rel": "Ommos"
+        },
+        "22": {
+            "rel": "Kolossoo ma khannane sugeer on iskajeyissa."
+        },
+        "23": {
+            "rel": "Enenyet a geeddi us khannanyahe i\u2019daasenyi wihi tuso liiargine us enenyet khabsiicho."
+        },
+        "24": {
+            "rel": "Ururre goya iiran a mehe eti khannan ma garatti."
+        },
+        "25": {
+            "rel": "Kho\u2019doomme"
+        },
+        "26": {
+            "rel": "Eti feyyan"
+        },
+        "27": {
+            "rel": "Saabab"
+        },
+        "28": {
+            "rel": "Meelassi lafuro"
+        },
+        "29": {
+            "rel": "Khadaabbe"
+        },
+        "30": {
+            "rel": "Kokkoobbe"
+        },
+        "31": {
+            "rel": "Bir"
+        },
+        "32": {
+            "rel": "Darfohi fool lakorsati kharicho laka"
+        },
+        "33": {
+            "rel": "Faaneyohi lakakoro"
+        },
+        "34": {
+            "rel": "Ulaa\u2019du"
+        },
+        "35": {
+            "rel": "Kalaamoyyo"
+        },
+        "36": {
+            "rel": "Afassi minanoot"
+        },
+        "37": {
+            "rel": "Dahano"
+        },
+        "38": {
+            "rel": "I\u2019daasenyi hanjufti eti khannan ilassa a kidihta\u2026.."
+        },
+        "39": {
+            "rel": "Atin tuumman a geeddi atin khannattaan"
+        },
+        "40": {
+            "rel": "Ommos fooli etaahkoo \u2019daarte"
+        },
+        "41": {
+            "rel": "Indo isrobto"
+        },
+        "42": {
+            "rel": "Chirri at wahanyeyyoha baabul \u2019daarte at toro foolaah \u2019daarte"
+        },
+        "43": {
+            "rel": "Ichoow jiti kaldaye at holisso a chirri at saabbuun, ildawa ommos farso kadikhto."
+        },
+        "44": {
+            "rel": "Faayras a geeddi us saha\u2019dohoo meel kijiro"
+        },
+        "45": {
+            "rel": "Saabbuun"
+        },
+        "46": {
+            "rel": "Waansi"
+        },
+        "47": {
+            "rel": "A haaggantahe chirri at waansiha raahto"
+        },
+        "48": {
+            "rel": "Miilassa saabbuun kadikh"
+        },
+        "49": {
+            "rel": "Saabbuun"
+        },
+        "50": {
+            "rel": "Dikkil"
+        },
+        "51": {
+            "rel": "Foolaah ommos fooli etoo a\u2019daarin. Geeddi at i\u2019daarin dahanohaah koloo saabbuun kadikh"
+        },
+        "52": {
+            "rel": "Geedda at dikhatti\u00a0 geeyoo gaaban kol lamma dowo"
+        },
+        "53": {
+            "rel": "Goffanne ilichooda"
+        },
+        "54": {
+            "rel": "Geeddoo dikh"
+        },
+        "55": {
+            "rel": "Farro dahchooda"
+        },
+        "56": {
+            "rel": "Dahanohaah adahcho dikh"
+        },
+        "57": {
+            "rel": "Weyti a mehe?"
+        },
+        "58": {
+            "rel": "Cha\u2019at \u2019daarte awa\u2019waa\u2019din. Dahano saabbuun kadikho."
+        },
+        "59": {
+            "rel": "Toro dafartaas fool khariche a\u2019daarin."
+        },
+        "60": {
+            "rel": "hanjuf"
+        },
+        "61": {
+            "rel": "Wihi sugeer keeno dafartaas fool goya kasoobahaan cha\u2019at geeddi deer gessatte"
+        },
+        "62": {
+            "rel": "Dafarti fool chi\u2019iche geeddoo fiddiite rog. Maalinkoo kalday akutin."
+        },
+        "63": {
+            "rel": "Kucchugati golol lakagessati khab"
+        },
+        "64": {
+            "rel": "Weel"
+        },
+        "65": {
+            "rel": "Ooyo"
+        },
+        "66": {
+            "rel": "Abar"
+        },
+        "67": {
+            "rel": "Ebba dafartiis a khabo"
+        },
+        "68": {
+            "rel": "Golol, karmo, kokkoobbe. Darfo isleegismina"
+        },
+        "69": {
+            "rel": "Dikkil fool ma ka\u2019daarto koloo kalday laka."
+        },
+        "70": {
+            "rel": "Afaf dikkil ommos barbar kafure ommos kahid dahano birriche mee."
+        },
+        "71": {
+            "rel": "Goob"
+        },
+        "72": {
+            "rel": "Ichoow cha\u2019at urur goya katimiy"
+        },
+        "73": {
+            "rel": "Geeddi at igolossan"
+        },
+        "74": {
+            "rel": "Kol dakkhan dahanohaah saabbuun kadikh"
+        },
+        "75": {
+            "rel": "Wihi \u2019da\u2019ddaboot"
+        },
+        "76": {
+            "rel": "saabbuun"
+        },
+        "77": {
+            "rel": "Mujjum fiddiiy, enenyet tuumman"
+        },
+        "78": {
+            "rel": "Mujjum fiddiiy, enenyet tuumman"
+        },
+        "79": {
+            "rel": "saabbuun"
+        },
+        "80": {
+            "rel": "Worassaas mujjum soom"
+        },
+        "81": {
+            "rel": "\u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "rel": "\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report.\u00a0 (Jan 25, 2020)"
+        },
+        "83": {
+            "rel": "\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion.\u00a0 (Jan 28,2020)"
+        },
+        "84": {
+            "rel": "Meelassi wora feyyaat lakeelo"
+        },
+        "85": {
+            "rel": "Additional notes: Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences: lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \u00a0https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation A PDF version of the comic is available for free download here: https://gumroad.com/weimankowart\u00a0\nSharing Guidelines This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: 1) No edits to the comics is allowed in any way when sharing. 2) Comics cannot be used for any commercial project 3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\nFor all other uses, please send a request in to: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "rel": "Wori Faayrashi Koroona miinsan"
+        },
+        "87": {
+            "eng": "",
+            "rel": ""
+        },
+        "88": {
+            "eng": "Bible Translation & Literacy E.A",
+            "rel": ""
+        },
+        "89": {
+            "eng": "Translated by Joshua Galimogle, Laban Eysinkele, Joshua Borano",
+            "rel": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "rel": ""
+        },
+        "91": {
+            "eng": "",
+            "rel": ""
+        },
+        "92": {
+            "eng": "",
+            "rel": ""
+        },
+        "93": {
+            "eng": "",
+            "rel": ""
+        },
+        "94": {
+            "eng": "",
+            "rel": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nBible Translation & Literacy E.A\nTranslated by Joshua Galimogle, Laban Eysinkele, Joshua Borano\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "rel": "Wori Faayrashi Koroona miinsan\n\nTranslated by Joshua Galimogle, Laban Eysinkele & Joshua Borano\n\nWohoo kaldaye saggi Faayrashi Koroona itaa\u2019ho at abatti on jira\nSaggi us itaaho\u2019\nAf\nSam\nIndo\nMiilassaah\nEti feyyan\nEti khannan\nFaayras chirri\u00a0 hanjufti\nFoga ileero: Mitta lamma hanjuf a kaalaabta.\nKoow\nMitta lamma\nAttissiyo\n\u2019Deerka chirri at etoo yarho, attissiyo ommos khannan agarte waha yeel:\nDafarti fool lakorsati sii: Intaas a kayarheene ommo a kaattissiyeen, uus \u2019doo\u2019di isoodow khabsiin\nLamma\nDafarti lakaneebsati\nOmmos\nKolossoo ma khannane sugeer on iskajeyissa.\nEnenyet a geeddi us khannanyahe i\u2019daasenyi wihi tuso liiargine us enenyet khabsiicho.\nUrurre goya iiran a mehe eti khannan ma garatti.\nKho\u2019doomme\nEti feyyan\nSaabab\nMeelassi lafuro\nKhadaabbe\nKokkoobbe\nBir\nDarfohi fool lakorsati kharicho laka\nFaaneyohi lakakoro\nUlaa\u2019du\nKalaamoyyo\nAfassi minanoot\nDahano\nI\u2019daasenyi hanjufti eti khannan ilassa a kidihta\u2026..\nAtin tuumman a geeddi atin khannattaan\nOmmos fooli etaahkoo \u2019daarte\nIndo isrobto\nChirri at wahanyeyyoha baabul \u2019daarte at toro foolaah \u2019daarte\nIchoow jiti kaldaye at holisso a chirri at saabbuun, ildawa ommos farso kadikhto.\nFaayras a geeddi us saha\u2019dohoo meel kijiro\nSaabbuun\nWaansi\nA haaggantahe chirri at waansiha raahto\nMiilassa saabbuun kadikh\nSaabbuun\nDikkil\nFoolaah ommos fooli etoo a\u2019daarin. Geeddi at i\u2019daarin dahanohaah koloo saabbuun kadikh\nGeedda at dikhatti\u00a0 geeyoo gaaban kol lamma dowo\nGoffanne ilichooda\nGeeddoo dikh\nFarro dahchooda\nDahanohaah adahcho dikh\nWeyti a mehe?\nCha\u2019at \u2019daarte awa\u2019waa\u2019din. Dahano saabbuun kadikho.\nToro dafartaas fool khariche a\u2019daarin.\nhanjuf\nWihi sugeer keeno dafartaas fool goya kasoobahaan cha\u2019at geeddi deer gessatte\nDafarti fool chi\u2019iche geeddoo fiddiite rog. Maalinkoo kalday akutin.\nKucchugati golol lakagessati khab\nWeel\nOoyo\nAbar\nEbba dafartiis a khabo\nGolol, karmo, kokkoobbe. Darfo isleegismina\nDikkil fool ma ka\u2019daarto koloo kalday laka.\nAfaf dikkil ommos barbar kafure ommos kahid dahano birriche mee.\nGoob\nIchoow cha\u2019at urur goya katimiy\nGeeddi at igolossan\nKol dakkhan dahanohaah saabbuun kadikh\nWihi \u2019da\u2019ddaboot\nsaabbuun\nMujjum fiddiiy, enenyet tuumman\nMujjum fiddiiy, enenyet tuumman\nsaabbuun\nWorassaas mujjum soom\n\u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report.\u00a0 (Jan 25, 2020)\n\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion.\u00a0 (Jan 28,2020)\nMeelassi wora feyyaat lakeelo\nAdditional notes: Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences: lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \u00a0https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation A PDF version of the comic is available for free download here: https://gumroad.com/weimankowart\u00a0\nSharing Guidelines This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: 1) No edits to the comics is allowed in any way when sharing. 2) Comics cannot be used for any commercial project 3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\nFor all other uses, please send a request in to: comicsforgood@gmail.com\nWori Faayrashi Koroona miinsan\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "rel",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Bible Translation & Literacy, E.A",
+    "country": "Kenya",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "x27WBsvEMf"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "rel": "Rendille"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "Do not change the text of this work, but you may translate it, adapt it into other forms, and distribute it for non-commercial purposes. You must keep the copyrights and credits for the author and illustrator Weiman Kou.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "Wori Faayrashi Koroona miinsan",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

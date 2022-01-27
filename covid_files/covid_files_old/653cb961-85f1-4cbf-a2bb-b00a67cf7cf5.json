@@ -1,0 +1,771 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "653cb961-85f1-4cbf-a2bb-b00a67cf7cf5",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Lo coronavirus",
+  "allTitles": "{\"an\":\"Lo coronavirus\",\"en\":\"About Coronavirus\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": null,
+  "downloadSource": "paul_frank@sil-lead.org/653cb961-85f1-4cbf-a2bb-b00a67cf7cf5",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Do not change the text of this work, but you may translate it, adapt it into other forms, and distribute it for non-commerical purposes. You must keep the copyrights and credits for the author and illustrator Weiman Kow.",
+  "copyright": "Copyright \u00a9 2020, Juan Pablo Mart\u00ednez",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "VuPlir4JXc"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "A book about how to avoid the Coronavirus",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Spain",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "k2DhvvBWS5"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "mnw": "Mon",
+    "an": "Aragon\u00e9s"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "2": {
+    "an": "Lo coronavirus",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "an": "Lo coronavirus",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "an": "Lo coronavirus",
+    "en": "About Coronavirus"
+  },
+  "9": {
+    "an": "",
+    "en": ""
+  },
+  "10": {
+    "an": "",
+    "en": ""
+  },
+  "11": {
+    "an": "Nom\u00e1s te cal entender UNA cosa sobre c\u00f3mo CORRE un coronavirus",
+    "en": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+  },
+  "12": {
+    "an": "Nom\u00e1s te cal entender UNA cosa sobre c\u00f3mo CORRE un coronavirus",
+    "en": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+  },
+  "13": {
+    "an": "",
+    "en": "SPREADS"
+  },
+  "14": {
+    "an": "",
+    "en": "SPREADS"
+  },
+  "15": {
+    "an": "boca",
+    "en": "Mouth"
+  },
+  "16": {
+    "an": "boca",
+    "en": "Mouth"
+  },
+  "17": {
+    "an": "nariz",
+    "en": "Nose"
+  },
+  "18": {
+    "an": "nariz",
+    "en": "Nose"
+  },
+  "19": {
+    "an": "uellos",
+    "en": "Eyes"
+  },
+  "20": {
+    "an": "uellos",
+    "en": "Eyes"
+  },
+  "21": {
+    "an": "arriban ta los tuyos",
+    "en": "Get into your"
+  },
+  "22": {
+    "an": "arriban ta los tuyos",
+    "en": "Get into your"
+  },
+  "23": {
+    "an": "Persona sana",
+    "en": "Healthy Person"
+  },
+  "24": {
+    "an": "Persona sana",
+    "en": "Healthy Person"
+  },
+  "25": {
+    "an": "Persona infectada",
+    "en": "Sick Person"
+  },
+  "26": {
+    "an": "Persona infectada",
+    "en": "Sick Person"
+  },
+  "27": {
+    "an": "Lo virus corre quan estas gotichonas",
+    "en": "The virus spreads when \ufeffthese droplets"
+  },
+  "28": {
+    "an": "Lo virus corre quan estas gotichonas",
+    "en": "The virus spreads when \ufeffthese droplets"
+  },
+  "29": {
+    "an": "Queda-te leixos. A dos metros ser\u00e1s a salvo d\u2019as gotetas mas grans",
+    "en": "Keep your distance.\ufeff2m will keep you safe from large droplets."
+  },
+  "30": {
+    "an": "Queda-te leixos. A dos metros ser\u00e1s a salvo d\u2019as gotetas mas grans",
+    "en": "Keep your distance.\ufeff2m will keep you safe from large droplets."
+  },
+  "31": {
+    "an": "1",
+    "en": "1"
+  },
+  "32": {
+    "an": "1",
+    "en": "1"
+  },
+  "33": {
+    "an": "2m",
+    "en": "2m"
+  },
+  "34": {
+    "an": "2m",
+    "en": "2m"
+  },
+  "35": {
+    "an": "Ach\u00fas!",
+    "en": "Achoo!"
+  },
+  "36": {
+    "an": "Ach\u00fas!",
+    "en": "Achoo!"
+  },
+  "37": {
+    "an": "Per ixo, si veyes a bel\u00fan que ye tusindo / estarnudando / malaudo",
+    "en": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+  },
+  "38": {
+    "an": "Per ixo, si veyes a bel\u00fan que ye tusindo / estarnudando / malaudo",
+    "en": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+  },
+  "39": {
+    "an": "Da-les una careta. Pueden tusir u estarnudar en ella y protechen a totz los d\u2019alredor.",
+    "en": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby."
+  },
+  "40": {
+    "an": "Da-les una careta. Pueden tusir u estarnudar en ella y protechen a totz los d\u2019alredor.",
+    "en": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby."
+  },
+  "41": {
+    "an": "2",
+    "en": "2"
+  },
+  "42": {
+    "an": "2",
+    "en": "2"
+  },
+  "43": {
+    "an": "\ufeff*snif*",
+    "en": "Thank you\ufeff*sniffles*"
+  },
+  "44": {
+    "an": "\ufeff*snif*",
+    "en": "Thank you\ufeff*sniffles*"
+  },
+  "45": {
+    "an": "U",
+    "en": "OR,"
+  },
+  "46": {
+    "an": "U",
+    "en": "OR,"
+  },
+  "47": {
+    "an": "Talment no siga malauda, nom\u00e1s ye protechendo-se",
+    "en": "Maybe she's not sick, just protecting herself"
+  },
+  "48": {
+    "an": "Talment no siga malauda, nom\u00e1s ye protechendo-se",
+    "en": "Maybe she's not sick, just protecting herself"
+  },
+  "49": {
+    "an": "Las personas infectadas puede que no amuestren simptomas, pero son igualment infecciosas",
+    "en": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+  },
+  "50": {
+    "an": "Las personas infectadas puede que no amuestren simptomas, pero son igualment infecciosas",
+    "en": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+  },
+  "51": {
+    "an": "Y en cheneral, s\u2019ha de privar qualsequier aglomeraci\u00f3n de chent, perque no sabes qu\u00ed puede estar malaudo.",
+    "en": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+  },
+  "52": {
+    "an": "Y en cheneral, s\u2019ha de privar qualsequier aglomeraci\u00f3n de chent, perque no sabes qu\u00ed puede estar malaudo.",
+    "en": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+  },
+  "53": {
+    "an": "Tochetz",
+    "en": "Chopsticks"
+  },
+  "54": {
+    "an": "Tochetz",
+    "en": "Chopsticks"
+  },
+  "55": {
+    "an": "Persona sana",
+    "en": "Healthy person"
+  },
+  "56": {
+    "an": "Persona sana",
+    "en": "Healthy person"
+  },
+  "57": {
+    "an": "Agarraderas",
+    "en": "Train straps"
+  },
+  "58": {
+    "an": "Agarraderas",
+    "en": "Train straps"
+  },
+  "59": {
+    "an": "Botons de l\u2019ascensor",
+    "en": "Lift buttons"
+  },
+  "60": {
+    "an": "Botons de l\u2019ascensor",
+    "en": "Lift buttons"
+  },
+  "61": {
+    "an": "Moquers",
+    "en": "Tissues"
+  },
+  "62": {
+    "an": "Moquers",
+    "en": "Tissues"
+  },
+  "63": {
+    "an": "Tazas",
+    "en": "Cups"
+  },
+  "64": {
+    "an": "Tazas",
+    "en": "Cups"
+  },
+  "65": {
+    "an": "Dispositivos dichitals",
+    "en": "Digital devices"
+  },
+  "66": {
+    "an": "Dispositivos dichitals",
+    "en": "Digital devices"
+  },
+  "67": {
+    "an": "Y mesmo l\u2019exterior d\u2019a tuya careta",
+    "en": "& even on the outside of your face mask"
+  },
+  "68": {
+    "an": "Y mesmo l\u2019exterior d\u2019a tuya careta",
+    "en": "& even on the outside of your face mask"
+  },
+  "69": {
+    "an": "Barandau",
+    "en": "Stair bannisters"
+  },
+  "70": {
+    "an": "Barandau",
+    "en": "Stair bannisters"
+  },
+  "71": {
+    "an": "Ratet",
+    "en": "Mouse"
+  },
+  "72": {
+    "an": "Ratet",
+    "en": "Mouse"
+  },
+  "73": {
+    "an": "Boligrafos",
+    "en": "Pens"
+  },
+  "74": {
+    "an": "Boligrafos",
+    "en": "Pens"
+  },
+  "75": {
+    "an": "Pomos de puerta",
+    "en": "Door knobs"
+  },
+  "76": {
+    "an": "Pomos de puerta",
+    "en": "Door knobs"
+  },
+  "77": {
+    "an": "Las suyas mans",
+    "en": "Their hands"
+  },
+  "78": {
+    "an": "Las suyas mans",
+    "en": "Their hands"
+  },
+  "79": {
+    "an": "Manimenos, la saliva d\u2019una persona malauda puede arribar ta atras cosas\u2026",
+    "en": "However, sometimes a sick person's saliva can get on other things\u2026"
+  },
+  "80": {
+    "an": "Manimenos, la saliva d\u2019una persona malauda puede arribar ta atras cosas\u2026",
+    "en": "However, sometimes a sick person's saliva can get on other things\u2026"
+  },
+  "81": {
+    "an": "podr\u00edatz cayer malaudos",
+    "en": "you might all fall sick."
+  },
+  "82": {
+    "an": "podr\u00edatz cayer malaudos",
+    "en": "you might all fall sick."
+  },
+  "83": {
+    "an": "u la cara d\u2019o tuyo amor",
+    "en": "or your loved one's face"
+  },
+  "84": {
+    "an": "u la cara d\u2019o tuyo amor",
+    "en": "or your loved one's face"
+  },
+  "85": {
+    "an": "t\u2019estregas los uellos",
+    "en": "rub eyes"
+  },
+  "86": {
+    "an": "t\u2019estregas los uellos",
+    "en": "rub eyes"
+  },
+  "87": {
+    "an": "Y si tocas qualsequiera d\u2019estas cosas per accident y dimpu\u00e9s te tocas la cara",
+    "en": "And if you do touch any of these things by accident, and then touch your face,"
+  },
+  "88": {
+    "an": "Y si tocas qualsequiera d\u2019estas cosas per accident y dimpu\u00e9s te tocas la cara",
+    "en": "And if you do touch any of these things by accident, and then touch your face,"
+  },
+  "89": {
+    "an": "y la sola manera efectiva de librar-nos d\u2019ells ye limpiar-los con sab\u00f3n, leixiva u alcol",
+    "en": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+  },
+  "90": {
+    "an": "y la sola manera efectiva de librar-nos d\u2019ells ye limpiar-los con sab\u00f3n, leixiva u alcol",
+    "en": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+  },
+  "91": {
+    "an": "Los virus pueden permaneixer bellas quantas horas en os obchectos",
+    "en": "Viruses can last for quite a few hours on objects,"
+  },
+  "92": {
+    "an": "Los virus pueden permaneixer bellas quantas horas en os obchectos",
+    "en": "Viruses can last for quite a few hours on objects,"
+  },
+  "93": {
+    "an": "Sab\u00f3n",
+    "en": "soap"
+  },
+  "94": {
+    "an": "Sab\u00f3n",
+    "en": "soap"
+  },
+  "95": {
+    "an": "consellos",
+    "en": "precautions"
+  },
+  "96": {
+    "an": "consellos",
+    "en": "precautions"
+  },
+  "97": {
+    "an": "Per ixo, ye bueno que sigamos estes",
+    "en": "Which is why it is also good to follow these"
+  },
+  "98": {
+    "an": "Per ixo, ye bueno que sigamos estes",
+    "en": "Which is why it is also good to follow these"
+  },
+  "99": {
+    "an": "Lava-te con sab\u00f3n dica aqu\u00ed",
+    "en": "wash with soap up to here"
+  },
+  "100": {
+    "an": "Lava-te con sab\u00f3n dica aqu\u00ed",
+    "en": "wash with soap up to here"
+  },
+  "101": {
+    "an": "Sab\u00f3n",
+    "en": "soap"
+  },
+  "102": {
+    "an": "Sab\u00f3n",
+    "en": "soap"
+  },
+  "103": {
+    "an": "Anc\u00f3n",
+    "en": "elbow"
+  },
+  "104": {
+    "an": "Anc\u00f3n",
+    "en": "elbow"
+  },
+  "105": {
+    "an": "No te toques la cara. (Ni toques la cara d\u2019otri). Si l\u2019has de fer, lava-te antes las mans concienzudament con sab\u00f3n.",
+    "en": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+  },
+  "106": {
+    "an": "No te toques la cara. (Ni toques la cara d\u2019otri). Si l\u2019has de fer, lava-te antes las mans concienzudament con sab\u00f3n.",
+    "en": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+  },
+  "107": {
+    "an": "Lo que cuesta cantar dos vegadas \u201cBufa ixas velas!\u201d",
+    "en": "Enough time to sing \u201cHappy Birthday\u201d twice"
+  },
+  "108": {
+    "an": "Lo que cuesta cantar dos vegadas \u201cBufa ixas velas!\u201d",
+    "en": "Enough time to sing \u201cHappy Birthday\u201d twice"
+  },
+  "109": {
+    "an": "baixo las unglas",
+    "en": "under the nails"
+  },
+  "110": {
+    "an": "baixo las unglas",
+    "en": "under the nails"
+  },
+  "111": {
+    "an": "per 20 segundos",
+    "en": "for 20 seconds"
+  },
+  "112": {
+    "an": "per 20 segundos",
+    "en": "for 20 seconds"
+  },
+  "113": {
+    "an": "entre los didos",
+    "en": "between the fingers"
+  },
+  "114": {
+    "an": "entre los didos",
+    "en": "between the fingers"
+  },
+  "115": {
+    "an": "lava lo dorso d\u2019as tuyas mans",
+    "en": "wash the back of your hands"
+  },
+  "116": {
+    "an": "lava lo dorso d\u2019as tuyas mans",
+    "en": "wash the back of your hands"
+  },
+  "117": {
+    "an": "Qu\u00e9 ye \u201cconcienzudament\u201d?",
+    "en": "What is thoroughly?"
+  },
+  "118": {
+    "an": "Qu\u00e9 ye \u201cconcienzudament\u201d?",
+    "en": "What is thoroughly?"
+  },
+  "119": {
+    "an": "Si lo fas, no te\u2019n fagas. Lava-te las mans con sab\u00f3n chusto dimpuesas.",
+    "en": "If you did, don't worry. Just wash your hands with soap after."
+  },
+  "120": {
+    "an": "Si lo fas, no te\u2019n fagas. Lava-te las mans con sab\u00f3n chusto dimpuesas.",
+    "en": "If you did, don't worry. Just wash your hands with soap after."
+  },
+  "121": {
+    "an": "Mira de no tocar tampoco l\u2019exterior d\u2019a careta",
+    "en": "Also, don't touch the outside of the mask if you can."
+  },
+  "122": {
+    "an": "Mira de no tocar tampoco l\u2019exterior d\u2019a careta",
+    "en": "Also, don't touch the outside of the mask if you can."
+  },
+  "123": {
+    "an": "gotetas",
+    "en": "droplets"
+  },
+  "124": {
+    "an": "gotetas",
+    "en": "droplets"
+  },
+  "125": {
+    "an": "*Las bacterias creixer\u00e1n endentro si portas la careta masiau tiempo",
+    "en": "*Bacteria grows on the insides of your mask if you wear them too long"
+  },
+  "126": {
+    "an": "*Las bacterias creixer\u00e1n endentro si portas la careta masiau tiempo",
+    "en": "*Bacteria grows on the insides of your mask if you wear them too long"
+  },
+  "127": {
+    "an": "Tira la careta malas que la notes puerca. No en portes una per mas d\u2019un d\u00eda.",
+    "en": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+  },
+  "128": {
+    "an": "Tira la careta malas que la notes puerca. No en portes una per mas d\u2019un d\u00eda.",
+    "en": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+  },
+  "129": {
+    "an": "Usa un cullar pa servir",
+    "en": "Use a serving spoon"
+  },
+  "130": {
+    "an": "Usa un cullar pa servir",
+    "en": "Use a serving spoon"
+  },
+  "131": {
+    "an": "Beb\u00e9",
+    "en": "Baby"
+  },
+  "132": {
+    "an": "Beb\u00e9",
+    "en": "Baby"
+  },
+  "133": {
+    "an": "Papa",
+    "en": "Daddy"
+  },
+  "134": {
+    "an": "Papa",
+    "en": "Daddy"
+  },
+  "135": {
+    "an": "Mama",
+    "en": "Mommy"
+  },
+  "136": {
+    "an": "Mama",
+    "en": "Mommy"
+  },
+  "137": {
+    "an": "Cada\u00fan ha de tener la suya propia tovalla",
+    "en": "Everyone gets their own towel"
+  },
+  "138": {
+    "an": "Cada\u00fan ha de tener la suya propia tovalla",
+    "en": "Everyone gets their own towel"
+  },
+  "139": {
+    "an": "No compartas comida, cubiertos, tazas, tovallas.",
+    "en": "Do not share food, utensils, cups, towels."
+  },
+  "140": {
+    "an": "No compartas comida, cubiertos, tazas, tovallas.",
+    "en": "Do not share food, utensils, cups, towels."
+  },
+  "141": {
+    "an": "No te toques la cara con o codo, ni anque l\u2019intentes",
+    "en": "You can't touch your face with your elbow even if you tried"
+  },
+  "142": {
+    "an": "No te toques la cara con o codo, ni anque l\u2019intentes",
+    "en": "You can't touch your face with your elbow even if you tried"
+  },
+  "143": {
+    "an": "Siempre que puedas, ubre y zarra las puertas con os tuyos ancons u huembros en cuenta de con as mans.",
+    "en": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+  },
+  "144": {
+    "an": "Siempre que puedas, ubre y zarra las puertas con os tuyos ancons u huembros en cuenta de con as mans.",
+    "en": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+  },
+  "145": {
+    "an": "Casa m\u00eda",
+    "en": "Home"
+  },
+  "146": {
+    "an": "Casa m\u00eda",
+    "en": "Home"
+  },
+  "147": {
+    "an": "y dimpu\u00e9s d\u2019estar difuera de casa",
+    "en": "and after being out in the public"
+  },
+  "148": {
+    "an": "y dimpu\u00e9s d\u2019estar difuera de casa",
+    "en": "and after being out in the public"
+  },
+  "149": {
+    "an": "Antes de minchar",
+    "en": "Before you eat"
+  },
+  "150": {
+    "an": "Antes de minchar",
+    "en": "Before you eat"
+  },
+  "151": {
+    "an": "Lava-te siempre las mans con sab\u00f3n\u2026",
+    "en": "Always wash your hands with soap\u2026"
+  },
+  "152": {
+    "an": "Lava-te siempre las mans con sab\u00f3n\u2026",
+    "en": "Always wash your hands with soap\u2026"
+  },
+  "153": {
+    "an": "Y pa rematar,",
+    "en": "And finally,"
+  },
+  "154": {
+    "an": "Y pa rematar,",
+    "en": "And finally,"
+  },
+  "155": {
+    "an": "sab\u00f3n",
+    "en": "soap"
+  },
+  "156": {
+    "an": "sab\u00f3n",
+    "en": "soap"
+  },
+  "157": {
+    "an": "Guardatz-tos de malo!",
+    "en": "Stay safe, everyone!"
+  },
+  "158": {
+    "an": "Guardatz-tos de malo!",
+    "en": "Stay safe, everyone!"
+  },
+  "159": {
+    "an": "Guardatz-tos de malo!",
+    "en": "Stay safe, everyone!"
+  },
+  "160": {
+    "an": "Guardatz-tos de malo!",
+    "en": "Stay safe, everyone!"
+  },
+  "161": {
+    "an": "sab\u00f3n",
+    "en": "soap"
+  },
+  "162": {
+    "an": "sab\u00f3n",
+    "en": "soap"
+  },
+  "163": {
+    "an": "Leye los articlos pa mas consellos!",
+    "en": "Read the articles for more tips!"
+  },
+  "164": {
+    "an": "Leye los articlos pa mas consellos!",
+    "en": "Read the articles for more tips!"
+  },
+  "165": {
+    "an": "\"This animation shows how far your sneeze can actually travel\" por Chia Yi Hou, en Business Insider (21 de enero de 2020)",
+    "en": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "166": {
+    "an": "\"This animation shows how far your sneeze can actually travel\" por Chia Yi Hou, en Business Insider (21 de enero de 2020)",
+    "en": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "167": {
+    "an": "\"The Wuhan Virus: How to stay safe\", por Laurie Garrett, en Foreign Policy, Repert. (25 de enero de 2020)",
+    "en": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "168": {
+    "an": "\"The Wuhan Virus: How to stay safe\", por Laurie Garrett, en Foreign Policy, Repert. (25 de enero de 2020)",
+    "en": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "169": {
+    "an": "\"How to avoid the coronavirus? Wash your hands\" por Elizabeth Sosenthal, en The New York Times, Opinion. (28 de enero de 2020)",
+    "en": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020"
+  },
+  "170": {
+    "an": "\"How to avoid the coronavirus? Wash your hands\" por Elizabeth Sosenthal, en The New York Times, Opinion. (28 de enero de 2020)",
+    "en": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020"
+  },
+  "171": {
+    "an": "Referencias principals d\u2019informaci\u00f3n medica",
+    "en": "Main references for medical info:"
+  },
+  "172": {
+    "an": "Referencias principals d\u2019informaci\u00f3n medica",
+    "en": "Main references for medical info:"
+  },
+  "173": {
+    "an": "",
+    "en": "\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+  },
+  "174": {
+    "an": "",
+    "en": "\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+  },
+  "177": {
+    "an": "Lo coronavirus",
+    "en": "About Coronavirus"
+  },
+  "178": {
+    "an": "Lo coronavirus",
+    "en": "About Coronavirus"
+  },
+  "179": {
+    "an": "Lo coronavirus",
+    "en": "About Coronavirus"
+  },
+  "184": {
+    "an": "Translated by Juan Pablo Mart\u00ednez"
+  },
+  "186": {
+    "an": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

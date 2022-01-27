@@ -1,0 +1,366 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"id\":\"Tentang Virus Corona\",\"jv\":\"Ngenani Pirus Korona\",\"lts\":\"Olumbe lwa Korona\"}",
+    "author": null,
+    "bookInstanceId": "413c2b50-d537-4fee-86d9-c64b92ee3b75",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "Tentang Virus Corona",
+            "jav": "Ngenani Pirus Korona",
+            "lts": "Olumbe lwa Korona",
+            "und": ""
+        },
+        "1": {
+            "eng": "",
+            "jav": ""
+        },
+        "2": {
+            "eng": "",
+            "jav": ""
+        },
+        "3": {
+            "jav": ""
+        },
+        "4": {
+            "jav": "Ana siji bab sing perlu kow\u00e9 padha ngert\u00e9ni ngenani kepriw\u00e9 virus korona\n"
+        },
+        "5": {
+            "jav": "NYEBAR\n"
+        },
+        "6": {
+            "jav": "cangkem\n"
+        },
+        "7": {
+            "jav": "irung\n"
+        },
+        "8": {
+            "jav": "mripat\n"
+        },
+        "9": {
+            "jav": "mlebu meng njero\n"
+        },
+        "10": {
+            "jav": "wong waras\n"
+        },
+        "11": {
+            "jav": "wong lara\n"
+        },
+        "12": {
+            "jav": "Penyakit arep nyebar angger kecipratan idoh\u00e9 kiy\u00e9"
+        },
+        "13": {
+            "jav": "Njaga jarak.\nKow\u00e9 arep aman sekang cipratan idoh karo njaga jarak 2m."
+        },
+        "14": {
+            "jav": "1"
+        },
+        "15": {
+            "jav": "2m-0,5m"
+        },
+        "16": {
+            "jav": "Haaachii!!\n"
+        },
+        "17": {
+            "jav": "Dadi, wektu kow\u00e9 ndeleng wong watuk/wahq ing/lara, kow\u00e9 t\u00e9y\u00e9ng:\n"
+        },
+        "18": {
+            "jav": "W\u00c9I WONG-WONG KUW\u00c9 MASKER.\nDadi wong-wong kuw\u00e9 t\u00e9y\u00e9ng wahing/watuk nang njero masker\u00e9 nggo njagani wong-wong sing nang sekubeng\u00e9."
+        },
+        "19": {
+            "jav": "2"
+        },
+        "20": {
+            "jav": "kesuwun\n*SROOT*\n"
+        },
+        "21": {
+            "jav": "UTAWA\n"
+        },
+        "22": {
+            "jav": "Nd\u00e9an wong kiy\u00e9 ora lara. Dh\u00e9w\u00e9k\u00e9 mung nglindhungi awak\u00e9 dh\u00e9w\u00e9k.\n"
+        },
+        "23": {
+            "jav": "Wong sing uwis ketularen nd\u00e9an ora nidhokna gejalan\u00e9, ning\u00e9n tetep t\u00e9y\u00e9ng nularna penyakit\u00e9.\n"
+        },
+        "24": {
+            "jav": "Cara umum, apik\u00e9 dohi nggon sing ram\u00e9, merga kow\u00e9 ora ngerti sapa ba\u00e9 sing agi lara.\n"
+        },
+        "25": {
+            "jav": "Abrag-abrag sing nggo mangan\n"
+        },
+        "26": {
+            "jav": "Wong waras\n"
+        },
+        "27": {
+            "jav": "Cekelan sepur\n"
+        },
+        "28": {
+            "jav": "Penc\u00e9tan nang lift\n"
+        },
+        "29": {
+            "jav": "Tisu\n"
+        },
+        "30": {
+            "jav": "Gelas\n"
+        },
+        "31": {
+            "jav": "Perangkat digital\n"
+        },
+        "32": {
+            "jav": "Malahan nang njaba\u00a0masker\n"
+        },
+        "33": {
+            "jav": "Cekelan undak-undakan\n"
+        },
+        "34": {
+            "jav": "tikus\n"
+        },
+        "35": {
+            "jav": "Pulp\u00e9n\n"
+        },
+        "36": {
+            "jav": "Cekelan lawang\n"
+        },
+        "37": {
+            "jav": "Tangan\u00e9 wong-wong kuw\u00e9\n"
+        },
+        "38": {
+            "jav": "Senajan kaya kuw\u00e9, kadang-kadang idoh\u00e9 wong lara t\u00e9y\u00e9ng nempel nang\u2026\n"
+        },
+        "39": {
+            "jav": "kow\u00e9 kab\u00e9h t\u00e9y\u00e9ng lara.\n"
+        },
+        "40": {
+            "jav": "utawa rain\u00e9 wong-wong sing paling per\u00e9k karo kow\u00e9\n"
+        },
+        "41": {
+            "jav": "ngucek-ucek mripat.\n"
+        },
+        "42": {
+            "jav": "Angger kow\u00e9 ora sengaja ngem\u00e9k barang-barang kuw\u00e9, njur ngem\u00e9k rain\u00e9 kow\u00e9 dh\u00e9w\u00e9k,\n"
+        },
+        "43": {
+            "jav": "Siji-sijin\u00e9 cara sing \u00e9f\u00e9ktif nggo nyingkirna virus kuw\u00e9 ngumbah karo sabun, sing mutihna, utawa alkohol.\n"
+        },
+        "44": {
+            "jav": "Virus t\u00e9y\u00e9ng manggon nganti 24 jam nang ngarep abrag-abrag.\n"
+        },
+        "45": {
+            "jav": "Sabun\n"
+        },
+        "46": {
+            "jav": "nglakokna nggo nyegah sebanjur\u00e9 kiy\u00e9."
+        },
+        "47": {
+            "jav": "Merga kuw\u00e9, apik\u00e9 ditutna\n"
+        },
+        "48": {
+            "jav": "Wisuh karo sabun nganti nang k\u00e9n\u00e9"
+        },
+        "49": {
+            "jav": "Sabun\n"
+        },
+        "50": {
+            "jav": "Sikut lengen\n"
+        },
+        "51": {
+            "jav": "Aja ngem\u00e9k rain\u00e9 kow\u00e9 (utawa rain\u00e9 sapa ba\u00e9).\nKow\u00e9 kudu ngumbah tangan disit sing resik nganggo sabun."
+        },
+        "52": {
+            "jav": "Kaya nembang tembang \u201cSlamet ulang taun\u201dping pindo.\n"
+        },
+        "53": {
+            "jav": "nang ngisor kuku\n"
+        },
+        "54": {
+            "jav": "suw\u00e9n\u00e9 20 detik\n"
+        },
+        "55": {
+            "jav": "nang antaran\u00e9 driji-driji."
+        },
+        "56": {
+            "jav": "Ngumbag geger tangan.\n"
+        },
+        "57": {
+            "jav": "Kepriw\u00e9 caran\u00e9 wisuh nganti resik?\n"
+        },
+        "58": {
+            "jav": "Angger keem\u00e9k, aja ketar-ketir. Cepetan wisuh karo sabun.\n"
+        },
+        "59": {
+            "jav": "Aja ngem\u00e9k njaban\u00e9 masker\n"
+        },
+        "60": {
+            "jav": "cipratan idoh\n"
+        },
+        "61": {
+            "jav": "Bakteri t\u00e9y\u00e9ng manak pinak nang njero masker angger masker\u00e9 dinggo kesuw\u00e9n.\n"
+        },
+        "62": {
+            "jav": "Buang masker\u00e9 kow\u00e9 angger uwis kotor. Aja nganggo masker lewih sekang sedina.\n"
+        },
+        "63": {
+            "jav": "Nganggo sendok jangan\n"
+        },
+        "64": {
+            "jav": "Anak\n"
+        },
+        "65": {
+            "jav": "Rama\n"
+        },
+        "66": {
+            "jav": "Biyung\n"
+        },
+        "67": {
+            "jav": "Nganggo andhuk dh\u00e9w\u00e9k-dh\u00e9w\u00e9k.\n"
+        },
+        "68": {
+            "jav": "Aja nganggo barengan, panganan, abrag-abrag nggo mangan, gelas lan adhuk.\n"
+        },
+        "69": {
+            "jav": "Kow\u00e9 ora t\u00e9y\u00e9ng ngem\u00e9k rai nganggo sikut\u00e9 kow\u00e9 dh\u00e9w\u00e9k, jajal ba\u00e9.\n"
+        },
+        "70": {
+            "jav": "N\u00e9k t\u00e9y\u00e9ng usahakna, mbukak utawa nutup lawang nganggo sikut utawa pundhak.\n"
+        },
+        "71": {
+            "jav": "UMAH"
+        },
+        "72": {
+            "jav": "Sewis\u00e9 lunga-lunga meng njaba umah\n"
+        },
+        "73": {
+            "jav": "Sedurung\u00e9 mangan\n"
+        },
+        "74": {
+            "jav": "Wisuh terus tangan\u00e9 kow\u00e9 karo sabun\u2026\n"
+        },
+        "75": {
+            "jav": "Pog-pogan\u00e9\n"
+        },
+        "76": {
+            "jav": "Sabun"
+        },
+        "77": {
+            "jav": "Njaga kewarasan!\n"
+        },
+        "78": {
+            "jav": "Njaga kewarasan!\n"
+        },
+        "79": {
+            "jav": "Sabun"
+        },
+        "80": {
+            "jav": "Waca tips-tips liyan\u00e9 nang artikel-artikel sing nang ndhuwur!"
+        },
+        "81": {
+            "jav": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "jav": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+        },
+        "83": {
+            "jav": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "jav": "Cathetan sing kawitan nggo informasi m\u00e9dis:"
+        },
+        "85": {
+            "jav": "Jl\u00e9ntr\u00e9han tambahan: Ditindak nggo nyegah nang wujud komik kiy\u00e9 \u00e9f\u00e9ktif banget nggo nyegah nular\u00e9 penyakit umum liyan\u00e9, kaya flu lan pil\u00e9k, lan kudu dinggo nang panguripan sedina-dina, malahan wektu oranana wabah. Cathetan: Informasi nang komik kiy\u00e9 digaw\u00e9 pada karo pangert\u00e9n COVID-19 nganti 28 Pebruari 2020, lan ak\u00e9h\u00e9 pada njiot sekang telung cathetan kiy\u00e9.\u00a0 https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html https://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik nang wujud PDF t\u00e9y\u00e9ng diundhuh nang k\u00e9n\u00e9: https://gumroad.com/weimankowart\u00a0 Pathokan Nyebarna Komik Komik kiy\u00e9 t\u00e9y\u00e9ng dibag\u00e9kna karo gratis liwat media daring, utawa liwat Whatsapp lan T\u00e9l\u00e9gram, lan t\u00e9y\u00e9ng dijiot karo gratis b\u00e9n dic\u00e9thak nang wujud \u00a0poster kanggon\u00e9 pribadi utawa dadi mat\u00e9ri \u00e9dukasi nang umah, sekolah, lan nggon nyambut gaw\u00e9. Wektu mbag\u00e9kna komik kiy\u00e9, \u00e9ling 3 bab kiy\u00e9: 1) Ora olih ng\u00e9dit gambar komik sing bakal dibag\u00e9kna. 2) Komik kiy\u00e9 ora t\u00e9y\u00e9ng doltinuku. 3) Angger dibag\u00e9kna nang media social FB, sogna kr\u00e9dit sing ngarang karo nyebut @weimankowart, nang Ig karo nyebut @weimankow (IG), utawa ngesogna tautan meng instrgam.com/weimankow Nggo sing nggunakna liyan\u00e9, jajal hubungi: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "Tentang Virus Corona",
+            "jav": "Ngenani Pirus Korona",
+            "lts": "Olumbe lwa Korona",
+            "und": ""
+        },
+        "87": {
+            "eng": "",
+            "jav": ""
+        },
+        "88": {
+            "eng": "Diterjemahkan dalam Bahasa Jawa Banyumasan oleh\nPaseban (Paguyuban Senthir Budaya Banyumas)",
+            "jav": ""
+        },
+        "89": {
+            "eng": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org",
+            "jav": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "jav": ""
+        },
+        "91": {
+            "eng": "",
+            "jav": ""
+        },
+        "92": {
+            "eng": "",
+            "jav": ""
+        },
+        "93": {
+            "eng": "",
+            "jav": ""
+        },
+        "94": {
+            "eng": "",
+            "jav": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nDiterjemahkan dalam Bahasa Jawa Banyumasan oleh\nPaseban (Paguyuban Senthir Budaya Banyumas)\nVersi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "ind": "Tentang Virus Corona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTentang Virus Corona\n\n\n\n\n\n\n\n",
+        "jav": "Ngenani Pirus Korona\n\n\n\nAna siji bab sing perlu kow\u00e9 padha ngert\u00e9ni ngenani kepriw\u00e9 virus korona\n\nNYEBAR\n\ncangkem\n\nirung\n\nmripat\n\nmlebu meng njero\n\nwong waras\n\nwong lara\n\nPenyakit arep nyebar angger kecipratan idoh\u00e9 kiy\u00e9\nNjaga jarak.\nKow\u00e9 arep aman sekang cipratan idoh karo njaga jarak 2m.\n1\n2m-0,5m\nHaaachii!!\n\nDadi, wektu kow\u00e9 ndeleng wong watuk/wahq ing/lara, kow\u00e9 t\u00e9y\u00e9ng:\n\nW\u00c9I WONG-WONG KUW\u00c9 MASKER.\nDadi wong-wong kuw\u00e9 t\u00e9y\u00e9ng wahing/watuk nang njero masker\u00e9 nggo njagani wong-wong sing nang sekubeng\u00e9.\n2\nkesuwun\n*SROOT*\n\nUTAWA\n\nNd\u00e9an wong kiy\u00e9 ora lara. Dh\u00e9w\u00e9k\u00e9 mung nglindhungi awak\u00e9 dh\u00e9w\u00e9k.\n\nWong sing uwis ketularen nd\u00e9an ora nidhokna gejalan\u00e9, ning\u00e9n tetep t\u00e9y\u00e9ng nularna penyakit\u00e9.\n\nCara umum, apik\u00e9 dohi nggon sing ram\u00e9, merga kow\u00e9 ora ngerti sapa ba\u00e9 sing agi lara.\n\nAbrag-abrag sing nggo mangan\n\nWong waras\n\nCekelan sepur\n\nPenc\u00e9tan nang lift\n\nTisu\n\nGelas\n\nPerangkat digital\n\nMalahan nang njaba\u00a0masker\n\nCekelan undak-undakan\n\ntikus\n\nPulp\u00e9n\n\nCekelan lawang\n\nTangan\u00e9 wong-wong kuw\u00e9\n\nSenajan kaya kuw\u00e9, kadang-kadang idoh\u00e9 wong lara t\u00e9y\u00e9ng nempel nang\u2026\n\nkow\u00e9 kab\u00e9h t\u00e9y\u00e9ng lara.\n\nutawa rain\u00e9 wong-wong sing paling per\u00e9k karo kow\u00e9\n\nngucek-ucek mripat.\n\nAngger kow\u00e9 ora sengaja ngem\u00e9k barang-barang kuw\u00e9, njur ngem\u00e9k rain\u00e9 kow\u00e9 dh\u00e9w\u00e9k,\n\nSiji-sijin\u00e9 cara sing \u00e9f\u00e9ktif nggo nyingkirna virus kuw\u00e9 ngumbah karo sabun, sing mutihna, utawa alkohol.\n\nVirus t\u00e9y\u00e9ng manggon nganti 24 jam nang ngarep abrag-abrag.\n\nSabun\n\nnglakokna nggo nyegah sebanjur\u00e9 kiy\u00e9.\nMerga kuw\u00e9, apik\u00e9 ditutna\n\nWisuh karo sabun nganti nang k\u00e9n\u00e9\nSabun\n\nSikut lengen\n\nAja ngem\u00e9k rain\u00e9 kow\u00e9 (utawa rain\u00e9 sapa ba\u00e9).\nKow\u00e9 kudu ngumbah tangan disit sing resik nganggo sabun.\nKaya nembang tembang \u201cSlamet ulang taun\u201dping pindo.\n\nnang ngisor kuku\n\nsuw\u00e9n\u00e9 20 detik\n\nnang antaran\u00e9 driji-driji.\nNgumbag geger tangan.\n\nKepriw\u00e9 caran\u00e9 wisuh nganti resik?\n\nAngger keem\u00e9k, aja ketar-ketir. Cepetan wisuh karo sabun.\n\nAja ngem\u00e9k njaban\u00e9 masker\n\ncipratan idoh\n\nBakteri t\u00e9y\u00e9ng manak pinak nang njero masker angger masker\u00e9 dinggo kesuw\u00e9n.\n\nBuang masker\u00e9 kow\u00e9 angger uwis kotor. Aja nganggo masker lewih sekang sedina.\n\nNganggo sendok jangan\n\nAnak\n\nRama\n\nBiyung\n\nNganggo andhuk dh\u00e9w\u00e9k-dh\u00e9w\u00e9k.\n\nAja nganggo barengan, panganan, abrag-abrag nggo mangan, gelas lan adhuk.\n\nKow\u00e9 ora t\u00e9y\u00e9ng ngem\u00e9k rai nganggo sikut\u00e9 kow\u00e9 dh\u00e9w\u00e9k, jajal ba\u00e9.\n\nN\u00e9k t\u00e9y\u00e9ng usahakna, mbukak utawa nutup lawang nganggo sikut utawa pundhak.\n\nUMAH\nSewis\u00e9 lunga-lunga meng njaba umah\n\nSedurung\u00e9 mangan\n\nWisuh terus tangan\u00e9 kow\u00e9 karo sabun\u2026\n\nPog-pogan\u00e9\n\nSabun\nNjaga kewarasan!\n\nNjaga kewarasan!\n\nSabun\nWaca tips-tips liyan\u00e9 nang artikel-artikel sing nang ndhuwur!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)\nCathetan sing kawitan nggo informasi m\u00e9dis:\nJl\u00e9ntr\u00e9han tambahan: Ditindak nggo nyegah nang wujud komik kiy\u00e9 \u00e9f\u00e9ktif banget nggo nyegah nular\u00e9 penyakit umum liyan\u00e9, kaya flu lan pil\u00e9k, lan kudu dinggo nang panguripan sedina-dina, malahan wektu oranana wabah. Cathetan: Informasi nang komik kiy\u00e9 digaw\u00e9 pada karo pangert\u00e9n COVID-19 nganti 28 Pebruari 2020, lan ak\u00e9h\u00e9 pada njiot sekang telung cathetan kiy\u00e9.\u00a0 https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html https://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik nang wujud PDF t\u00e9y\u00e9ng diundhuh nang k\u00e9n\u00e9: https://gumroad.com/weimankowart\u00a0 Pathokan Nyebarna Komik Komik kiy\u00e9 t\u00e9y\u00e9ng dibag\u00e9kna karo gratis liwat media daring, utawa liwat Whatsapp lan T\u00e9l\u00e9gram, lan t\u00e9y\u00e9ng dijiot karo gratis b\u00e9n dic\u00e9thak nang wujud \u00a0poster kanggon\u00e9 pribadi utawa dadi mat\u00e9ri \u00e9dukasi nang umah, sekolah, lan nggon nyambut gaw\u00e9. Wektu mbag\u00e9kna komik kiy\u00e9, \u00e9ling 3 bab kiy\u00e9: 1) Ora olih ng\u00e9dit gambar komik sing bakal dibag\u00e9kna. 2) Komik kiy\u00e9 ora t\u00e9y\u00e9ng doltinuku. 3) Angger dibag\u00e9kna nang media social FB, sogna kr\u00e9dit sing ngarang karo nyebut @weimankowart, nang Ig karo nyebut @weimankow (IG), utawa ngesogna tautan meng instrgam.com/weimankow Nggo sing nggunakna liyan\u00e9, jajal hubungi: comicsforgood@gmail.com\nNgenani Pirus Korona\n\n\n\n\n\n\n\n",
+        "lts": "Olumbe lwa Korona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOlumbe lwa Korona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "lts",
+        "jav",
+        "eng",
+        "ind"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "Banyumas",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "lFMOR6XGPD"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "id": "Indonesian",
+        "jv": "Banyumasan",
+        "lts": "Lutachoni"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Ora olih ngrobah tulisan mat\u00e9ri kiy\u00e9, ning\u00e9n kow\u00e9 t\u00e9y\u00e9ng  nerjemahna, utawa nyesu\u00e9kna meng wujud liyan\u00e9, lan mbag\u00e9kna nggo tujuan ora komersil. Tulisna hak cipta lan kr\u00e9dit sing nulis lan sing nggambar komik Weiman Kou.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "Jawa Tengah",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Ngenani Pirus Korona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

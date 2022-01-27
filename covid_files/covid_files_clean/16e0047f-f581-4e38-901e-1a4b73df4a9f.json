@@ -1,0 +1,447 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"lo\":\"\u0ec0\u0ea5\u0eb7\u0ec8\u0ead\u0e87\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7\u0e88\u0eb2\u0e81 \u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0ec2\u0e84\u0ec2\u0ea5\u0e99\u0eb2\",\"tth\":\"\u0ec0\u0ea5\u0eb7\u0ec8\u0ead\u0e87\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7\u0e88\u0eb2\u0e81 \u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0ec2\u0e84\u0ec2\u0ea5\u0e99\u0eb2\"}",
+    "author": null,
+    "bookInstanceId": "16e0047f-f581-4e38-901e-1a4b73df4a9f",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lao": "\u0ec0\u0ea5\u0eb7\u0ec8\u0ead\u0e87\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7\u0e88\u0eb2\u0e81 \u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0ec2\u0e84\u0ec2\u0ea5\u0e99\u0eb2",
+            "tth": "\u0ec0\u0ea5\u0eb7\u0ec8\u0ead\u0e87\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7\u0e88\u0eb2\u0e81 \u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0ec2\u0e84\u0ec2\u0ea5\u0e99\u0eb2"
+        },
+        "1": {
+            "eng": "",
+            "lao": ""
+        },
+        "2": {
+            "eng": "",
+            "lao": ""
+        },
+        "3": {
+            "eng": "",
+            "lao": ""
+        },
+        "4": {
+            "eng": "There's only ONE thing \ufeffyou need to understand about how a coronavirus",
+            "lao": "\u0ea1\u0eb5\u0eaa\u0eb4\u0ec8\u0e87\u0e97\u0eb5\u0ec8\u0e97\u0eb8\u0e81\u0e84\u0ebb\u0e99\u0e84\u0ea7\u0e99\u0ec0\u0e82\u0ebb\u0ec9\u0eb2\u0ec3\u0e88 \u0e81\u0ec8\u0ebd\u0ea7\u0e81\u0eb1\u0e9a\u0e81\u0eb2\u0e99\u0ec1\u0e9c\u0ec8\u0ea5\u0eb0\u0e9a\u0eb2\u0e94 \u0e82\u0ead\u0e87\u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\n"
+        },
+        "5": {
+            "eng": "SPREADS",
+            "lao": "\u0ec2\u0e84\u0ec2\u0ea5\u0e99\u0eb2"
+        },
+        "6": {
+            "eng": "Mouth",
+            "lao": "\u0e9b\u0eb2\u0e81"
+        },
+        "7": {
+            "eng": "Nose",
+            "lao": "\u0eae\u0eb9\u0e94\u0eb1\u0e87"
+        },
+        "8": {
+            "eng": "Eyes",
+            "lao": "\u0e95\u0eb2"
+        },
+        "9": {
+            "eng": "Get into your",
+            "lao": "\u0ec0\u0e82\u0ebb\u0ebb\u0ec9\u0eb2\u0ec3\u0e99"
+        },
+        "10": {
+            "eng": "Healthy Person",
+            "lao": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u0e9c\u0eb9\u0ec9\u0eaa\u0eb0\u0e9a\u0eb2\u0e8d\u0e94\u0eb5"
+        },
+        "11": {
+            "eng": "Sick Person",
+            "lao": "\u0e9c\u0eb9\u0ec0\u0e9b\u0eb1\u0e99\u0ec4\u0e82\u0ec9"
+        },
+        "12": {
+            "eng": "The virus spreads when \ufeffthese droplets",
+            "lao": "\u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0e99\u0eb1\u0ec9\u0e99\u0eaa\u0eb2\u0ea1\u0eb2\u0e94\u0ec1\u0e9c\u0ec8\u0ec4\u0e9b \u0e95\u0eb4\u0e94\u0e84\u0ebb\u0e99\u0ead\u0eb7\u0ec8\u0e99\u0ec0\u0ea1\u0eb7\u0ec8\u0ead\u0e9c\u0eb9\u0e95\u0eb4\u0e94\u0ec0\u0e8a\u0eb7\u0ec9\u0ead\u0ec4\u0ead \u0eab\u0ebc\u0eb7\u0e88\u0eb2\u0ea1, \u0ec1\u0ea5\u0ec9\u0ea7\u0ea2\u0ead\u0e94\u0ec0\u0eab\u0ebc\u0ebb\u0ec8\u0eb2\u0e99\u0eb5\u0ec9"
+        },
+        "13": {
+            "eng": "Keep your distance.\ufeff2m to 0.5m will keep you safe from large droplets.",
+            "lao": "\u0e88\u0ebb\u0ec8\u0e87\u0eae\u0eb1\u0e81\u0eaa\u0eb2\u0ea5\u0eb0\u0e8d\u0eb0\u0eab\u0ec8\u0eb2\u0e87\u0ec0\u0e94\u0eb5\u0ec9! \u0e9b\u0eb0\u0ea1\u0eb2\u0e992\u0ec1\u0ea1\u0eb1\u0e94 \u0e88\u0eb0\u0e8a\u0ec8\u0ea7\u0e8d\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7 \u0e88\u0eb2\u0e81\u0ea2\u0ead\u0e94\u0ec0\u0eab\u0ebc\u0ebb\u0ec8\u0eb2\u0e99\u0eb1\u0ec9\u0e99."
+        },
+        "14": {
+            "eng": "1",
+            "lao": "1"
+        },
+        "15": {
+            "eng": "2m-0.5m",
+            "lao": "2\u0ec1\u0ea1\u0eb1\u0e94"
+        },
+        "16": {
+            "eng": "Achoo!",
+            "lao": "\u0ec4\u0ead\u0e88\u0eb2\u0ea1"
+        },
+        "17": {
+            "eng": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:",
+            "lao": "\u0e94\u0eb1\u0ec8\u0e87\u0e99\u0eb1\u0ec9\u0e99\u0e96\u0ec9\u0eb2\u0eaa\u0ebb\u0ebb\u0ea1\u0ea1\u0eb8\u0e94\u0e97\u0ec8\u0eb2\u0e99\u0ec0\u0eab\u0eb1\u0e99\u0e84\u0ebb\u0e99\u0e97\u0eb5\u0ec8\u0ec4\u0ead\u0e88\u0eb2\u0ea1, \u0ea1\u0eb5\u0eaa\u0eb4\u0ec8\u0e87\u0e97\u0eb5\u0ec8\u0e95\u0ec9\u0ead\u0e87\u0ec0\u0eae\u0eb1\u0e94\u0e84\u0eb7:"
+        },
+        "18": {
+            "eng": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby",
+            "lao": "\u0ec0\u0ead\u0ebb\u0eb2\u0edc\u0ec9\u0eb2\u0e81\u0eb2\u0e81\u0ec3\u0eab\u0ec9\u0e84\u0ebb\u0e99\u0e99\u0eb1\u0ec9\u0e99. \u0ec0\u0e82\u0ebb\u0eb2\u0e88\u0eb6\u0ec8\u0e87\u0e88\u0eb0\u0eaa\u0eb2\u0ea1\u0eb2\u0e94\u0ec4\u0ead \u0eab\u0ebc\u0eb7\u0e88\u0eb2\u0ea1\u0ec3\u0eaa\u0ec8\u0edc\u0ec9\u0eb2\u0e81\u0eb2\u0e81 \u0ec1\u0ea5\u0ec9\u0ea7\u0e9a\u0ecd\u0ec8\u0e96\u0eb7\u0e81\u0ec3\u0eaa\u0ec8\u0e9c\u0eb9\u0ec9\u0ec3\u0e81\u0ec9\u0e84\u0ebd\u0e87."
+        },
+        "19": {
+            "eng": "2",
+            "lao": "2"
+        },
+        "20": {
+            "eng": "Thank you\ufeff*sniffles*",
+            "lao": "\u0e82\u0ecd\u0e82\u0ead\u0e9a\u0ec3\u0e88\u0eab\u0ebc\u0eb2\u0e8d"
+        },
+        "21": {
+            "eng": "OR,",
+            "lao": "\u0eab\u0ebc\u0eb7\u0ea7\u0ec8\u0eb2"
+        },
+        "22": {
+            "eng": "Maybe she's not sick, just protecting herself",
+            "lao": "\u0e9c\u0eb9\u0ec9\u0e99\u0eb5\u0ec9\u0ead\u0eb2\u0e94\u0e88\u0eb0\u0e8d\u0eb1\u0e87\u0eaa\u0eb0\u0e9a\u0eb2\u0e8d\u0e94\u0eb5\u0ea2\u0eb9\u0ec8, \u00a0\u00a0 \u0ea1\u0eb5\u0ec1\u0e95\u0ec8\u0ea2\u0eb2\u0e81\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7."
+        },
+        "23": {
+            "eng": "People who are infected can show no symptoms, but are still\ufeffinfectious",
+            "lao": "\u0e9a\u0eb2\u0e87\u0ec0\u0e97\u0eb7\u0ec8\u0ead\u0e88\u0eb0\u0ea1\u0eb5\u0e84\u0ebb\u0e99\u0e97\u0eb5\u0ec8\u0e95\u0eb4\u0e94\u0ec0\u0e8a\u0eb7\u0ec9\u0ead\u0ec1\u0ea5\u0ec9\u0ea7, \u0ec1\u0e95\u0ec8\u0e9a\u0ecd\u0ec8\u0eaa\u0eb0\u0ec1\u0e94\u0e87\u0ead\u0eb2\u0e81\u0eb2\u0e99"
+        },
+        "24": {
+            "eng": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick.",
+            "lao": "\u0ec2\u0e94\u0e8d\u0e97\u0ebb\u0ea7\u0ec4\u0e9b \u0ec3\u0eab\u0ec9\u0eab\u0ebc\u0eb5\u0e81\u0ec0\u0ea7\u0eb1\u0ec9\u0e99\u0e88\u0eb2\u0e81\u0e9d\u0eb9\u0e87\u0e8a\u0ebb\u0e99\u0e81\u0ecd\u0e94\u0eb5\u0e81\u0ea7\u0ec8\u0eb2, \u0ec0\u0e9e\u0eb2\u0eb0\u0ec0\u0eae\u0ebb\u0eb2\u0e9a\u0ecd\u0ec8\u0eae\u0ec9\u0eb9\u0ea7\u0ec8\u0eb2\u00a0 \u0e9c\u0eb9\u0ec9\u0ec3\u0e94\u0e9a\u0ecd\u0ec8\u0eaa\u0eb0\u0e9a\u0eb2\u0e8d."
+        },
+        "25": {
+            "eng": "chopsticks",
+            "lao": "\u0ec4\u0ea1\u0ec9\u0e96\u0ec8\u0eb9"
+        },
+        "26": {
+            "eng": "Healthy person",
+            "lao": "\u0e84\u0ebb\u0e99 \u0eaa\u0eb0\u0e9a\u0eb2\u0e8d\u0e94\u0eb5"
+        },
+        "27": {
+            "eng": "Train straps",
+            "lao": "\u0e97\u0eb5\u0ec8\u0e88\u0eb1\u0e9a"
+        },
+        "28": {
+            "eng": "Lift buttons",
+            "lao": "\u0e81\u0eb0\u0e94\u0eb8\u0ea1\u0eab\u0ec9\u0ead\u0e87\u0ea5\u0eb4\u0e9a"
+        },
+        "29": {
+            "eng": "Tissues",
+            "lao": "\u0e81\u0eb0\u0e94\u0eb2\u0e94\u0e97\u0eb4\u0e94\u0e8a\u0eb9"
+        },
+        "30": {
+            "eng": "Cups",
+            "lao": "\u0e88\u0ead\u0e81"
+        },
+        "31": {
+            "eng": "Digital devices",
+            "lao": "\u0ec2\u0e97\u0ea5\u0eb0\u0eaa\u0eb1\u0e9a \u0eab\u0ebc\u0eb7\u0e84\u0ead\u0ea1"
+        },
+        "32": {
+            "eng": "& even on the outside of your face mask",
+            "lao": "\u0ec1\u0ea1\u0ec8\u0e99\u0ec1\u0e95\u0ec8\u0e97\u0eb2\u0e87\u0e99\u0ead\u0e81 \u0edc\u0ec9\u0eb2\u0e81\u0eb2\u0e81\u0e82\u0ead\u0e87\u0e97\u0ec8\u0eb2\u0e99."
+        },
+        "33": {
+            "eng": "Stair bannisters",
+            "lao": "\u0e9e\u0eb0\u0e99\u0eb1\u0e81\u0e82\u0eb1\u0ec9\u0e99\u0ec4\u0e94"
+        },
+        "34": {
+            "eng": "Mouse",
+            "lao": "\u0ec0\u0ea1\u0ebb\u0eb2\u0eaa\u0ecc"
+        },
+        "35": {
+            "eng": "Pens",
+            "lao": "\u0e9b\u0eb2\u0e81\u0e81\u0eb2"
+        },
+        "36": {
+            "eng": "Door knobs",
+            "lao": "\u0ea5\u0eb9\u0e81\u0e9b\u0eb4\u0e94\u0e9b\u0eb0\u0e95\u0eb9"
+        },
+        "37": {
+            "eng": "Their hands",
+            "lao": "\u0ea1\u0eb7\u0e82\u0ead\u0e87\u0e84\u0ebb\u0e99\u0e99\u0eb1\u0ec9\u0e99"
+        },
+        "38": {
+            "eng": "However, sometimes a sick person's saliva can get on other things\u2026",
+            "lao": "\u0ea2\u0ec8\u0eb2\u0e87\u0ec3\u0e94\u0e81\u0ecd\u0e95\u0eb2\u0ea1 \u0e9a\u0eb2\u0e87\u0ec0\u0e97\u0eb7\u0ec8\u0ead\u0e99\u0eb3\u0ea5\u0eb2\u0e8d\u0e82\u0ead\u0e87\u0e84\u0ebb\u0e99 \u0e97\u0eb5\u0ec8\u0ec0\u0e9b\u0eb1\u0e99\u0ec4\u0e82\u0ec9\u00a0\u00a0\u00a0\u00a0 \u0ead\u0eb2\u0e94\u0e88\u0eb0\u0e95\u0eb4\u0e94\u0eaa\u0eb4\u0ec8\u0e87\u0e82\u0ead\u0e87 \u0e95\u0ec8\u0eb2\u0e87\u0ec6..,"
+        },
+        "39": {
+            "eng": "you might all fall sick.",
+            "lao": "\u0e97\u0eb8\u0e81\u0e84\u0ebb\u0e99\u0ead\u0eb2\u0e94\u0e88\u0eb0\u0e95\u0eb4\u0e94\u0ec0\u0e8a\u0eb7\u0ec9\u0ead\u0ec4\u0e94\u0ec9."
+        },
+        "40": {
+            "eng": "or your loved one's face",
+            "lao": "\u0eab\u0ebc\u0eb7\u0eaa\u0ecd\u0eb2\u0e9c\u0eb1\u0e94\u0ec3\u0e9a\u0edc\u0ec9\u0eb2 \u0e82\u0ead\u0e87\u0e9c\u0eb9\u0ec9\u0ec3\u0e99 \u0e84\u0ead\u0e9a \u0e84\u0ebb\u0ea7..."
+        },
+        "41": {
+            "eng": "rub eyes",
+            "lao": "\u0e82\u0eb0\u0e8d\u0eb5\u0ec9\u0e95\u0eb2"
+        },
+        "42": {
+            "eng": "And if you do touch any of these things by accident, and then touch your face,",
+            "lao": "\u0e96\u0ec9\u0eb2\u0eaa\u0ebb\u0ea1\u0ea1\u0eb8\u0e94\u0ea7\u0ec8\u0eb2 \u0e97\u0ec8\u0eb2\u0e99\u0e88\u0eb1\u0e9a\u0eaa\u0eb4\u0ec8\u0e87\u0e82\u0ead\u0e87\u0ec0\u0eab\u0ebc\u0ebb\u0ec8\u0eb2\u0e99\u0eb5\u0ec9 \u0ec1\u0ea5\u0ec9\u0ea7\u0e81\u0ecd\u0e88\u0eb1\u0e9a\u0ec3\u0e9a\u0edc\u0ec9\u0eb2\u0e82\u0ead\u0e87\u0e97\u0ec8\u0eb2\u0e99..."
+        },
+        "43": {
+            "eng": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.",
+            "lao": "\u0eaa\u0eb0\u0e99\u0eb1\u0ec9\u0e99 \u0e96\u0ec9\u0eb2\u0e88\u0eb0\u0e81\u0ecd\u0eb2\u0e88\u0eb1\u0e94\u0e81\u0ecd\u0e95\u0ec9\u0ead\u0e87\u0ec0\u0ead\u0ebb\u0eb2\u0eaa\u0eb0\u0e9a\u0eb9, \u0ea2\u0eb2\u0e9f\u0ead\u0e81\u0e82\u0eb2\u0ea7, \u0eab\u0ebc\u0eb7\u0ec1\u0ead\u0ea5\u0e81\u0ecd\u0eae\u0ecd \u0ea1\u0eb2\u0ea5\u0ec9\u0eb2\u0e87\u0eab\u0ebc\u0eb7\u0ec0\u0e8a\u0eb1\u0e94."
+        },
+        "44": {
+            "eng": "Viruses can last for quite a few hours on objects,",
+            "lao": "\u0ec0\u0e8a\u0eb7\u0ec9\u0ead\u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0e81\u0ecd\u0eaa\u0eb2\u0ea1\u0eb2\u0e94\u0ea2\u0eb9\u0ec8\u0ec0\u0e9b\u0eb1\u0e99\u0ec0\u0ea7\u0ea5\u0eb2 \u0eab\u0ebc\u0eb2\u0e8d \u0e8a\u0ebb\u0ea7\u0ec2\u0ea1\u0e87\u0ec3\u0e99\u0eaa\u0eb4\u0ec8\u0e87\u0e82\u0ead\u0e87..."
+        },
+        "45": {
+            "eng": "soap",
+            "lao": "\u0eaa\u0eb0\u0e9a\u0eb9"
+        },
+        "46": {
+            "eng": "precautions",
+            "lao": "\u0e9b\u0eb0\u0e81\u0eb2\u0e99"
+        },
+        "47": {
+            "eng": "Which is why it is also good to follow these",
+            "lao": "\u0e94\u0eb1\u0ec8\u0e87\u0e99\u0eb1\u0ec9\u0e99\u0ec0\u0eae\u0ebb\u0eb2\u0e84\u0ea7\u0e99\u0e88\u0eb0\u0e95\u0eb4\u0e94\u0e95\u0eb2\u0ea1 \u0e84\u0eb3\u0ec1\u0e99\u0eb0\u0e99\u0eb3"
+        },
+        "48": {
+            "eng": "wash with soap up to here",
+            "lao": "\u00a0\u00a0 \u0ea5\u0ec9\u0eb2\u0e87\u0e88\u0ebb\u0e99\u00a0\u00a0\u00a0\u00a0\u00a0 \u0eae\u0ead\u0e94\u0e88\u0eb8\u0e94\u0e99\u0eb5\u0ec9"
+        },
+        "49": {
+            "eng": "soap",
+            "lao": "\u0eaa\u0eb0\u0e9a\u0eb9"
+        },
+        "50": {
+            "eng": "elbow",
+            "lao": "\u0e82\u0ecd\u0ec9\u0ec1\u0e82\u0e99"
+        },
+        "51": {
+            "eng": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.",
+            "lao": "\u0ea2\u0ec8\u0eb2\u0e88\u0eb1\u0e9a\u0eab\u0ebc\u0eb7\u0eaa\u0ecd\u0eb2\u0e9c\u0eb1\u0e94\u0ec3\u0e9a\u0edc\u0ec9\u0eb2\u0e82\u0ead\u0e87\u0e95\u0ebb\u0e99\u0ec0\u0ead\u0e87, \u0eab\u0ebc\u0eb7\u0ec3\u0e9a\u0edc\u0ec9\u0eb2\u0e9c\u0eb9\u0ec9\u0ead\u0eb7\u0ec8\u0e99. \u0e96\u0ec9\u0eb2\u0e88\u0ecd\u0eb2\u0ec0\u0e9b\u0eb1\u0e99\u0e88\u0eb1\u0e9a, \u0ea5\u0ec9\u0eb2\u0e87\u0ea1\u0eb7\u0ec3\u0eab\u0ec9\u0eaa\u0eb0\u0ead\u0eb2\u0e94\u0e81\u0ec8\u0ead\u0e99."
+        },
+        "52": {
+            "eng": "Enough time to sing \u201cHappy Birthday\u201d twice",
+            "lao": "\u0e84\u0eb7\u0ec0\u0ea7\u0ea5\u0eb2\u0e9e\u0ecd\u0e97\u0eb5\u0ec8\u0e88\u0eb0\u0eae\u0ec9\u0ead\u0e87\u0ec0\u0e9e\u0e87 \u0ec1\u0eae\u0eb1\u0e9a\u0e9e\u0eb5\u0ec0\u0e9a\u0eb4\u0e94\u0ec0\u0e94 \u0ec4\u0e94\u0ec92\u0ec0\u0e97\u0eb7\u0ec8\u0ead."
+        },
+        "53": {
+            "eng": "under the nails",
+            "lao": "\u0ec3\u0e99\u0ec0\u0ea5\u0eb1\u0e9a\u0ea1\u0eb7"
+        },
+        "54": {
+            "eng": "for 20 seconds",
+            "lao": "\u0ec3\u0e8a\u0ec9\u0ec0\u0ea7\u0ea5\u0eb220 \u0ea7\u0eb4\u0e99\u0eb2\u0e97\u0eb5"
+        },
+        "55": {
+            "eng": "between the fingers",
+            "lao": "\u0ea5\u0eb0\u0eab\u0ea7\u0ec8\u0eb2\u0e87\u0e99\u0eb5\u0ec9\u0ea7\u0ea1\u0eb7"
+        },
+        "56": {
+            "eng": "wash the back of your hands",
+            "lao": "\u0ea5\u0ec9\u0eb2\u0e87\u0eab\u0ebc\u0eb1\u0e87\u0ea1\u0eb7"
+        },
+        "57": {
+            "eng": "What is thoroughly?",
+            "lao": "\u0e84\u0ecd\u0eb2\u0ea7\u0ec8\u0eb2 \u0ea5\u0ec9\u0eb2\u0e87\u0ea1\u0eb7\u0ec3\u0eab\u0ec9\u0eaa\u0eb0\u0ead\u0eb2\u0e94\u0e81\u0ecd\u0eab\u0ea1\u0eb2\u0e8d\u0e84\u0ea7\u0eb2\u0ea1\u0ea7\u0ec8\u0eb2 \u0ec1\u0e99\u0ea7\u0ec3\u0e94?"
+        },
+        "58": {
+            "eng": "If you did, don't worry. Just wash your hands with soap after.",
+            "lao": "\u0ec1\u0e95\u0ec8\u0e96\u0ec9\u0eb2\u0eaa\u0ebb\u0ea1\u0ea1\u0eb8\u0e94\u0ea7\u0ec8\u0eb2 \u0e88\u0eb1\u0e9a\u0ec1\u0ea5\u0ec9\u0ea7\u0e81\u0ecd \u0e9a\u0ecd\u0ec8\u0ec0\u0e9b\u0eb1\u0e99\u0eab\u0e8d\u0eb1\u0e87, \u0ea1\u0eb5\u0ec1\u0e95\u0ec8\u0e95\u0ec9\u0ead\u0e87\u0ec4\u0e9b\u0ea5\u0ec9\u0eb2\u0e87\u0ea1\u0eb7 \u0ec2\u0e94\u0e8d\u0ec3\u0e8a\u0ec9\u0eaa\u0eb0\u0e9a\u0eb9."
+        },
+        "59": {
+            "eng": "Also, don't touch the outside of the mask if you can.",
+            "lao": "\u0ead\u0eb5\u0e81\u0ec0\u0ea5\u0eb7\u0ec8\u0ead\u0e87\u0edc\u0eb6\u0ec8\u0e87, \u0e84\u0eb7\u0e96\u0ec9\u0eb2\u0ec0\u0e9b\u0eb1\u0e99\u0ec4\u0e9b \u0ec4\u0e94\u0ec9 \u0ea2\u0ec8\u0eb2\u0e88\u0eb1\u0e9a\u0e97\u0eb2\u0e87\u0e99\u0ead\u0e81 \u0edc\u0ec9\u0eb2\u0e81\u0eb2\u0e81."
+        },
+        "60": {
+            "eng": "droplets",
+            "lao": "\u0ea2\u0ead\u0e94"
+        },
+        "61": {
+            "eng": "*Bacteria grows on the insides of your mask if you wear them too long",
+            "lao": "\u0e96\u0ec9\u0eb2\u0ec3\u0eaa\u0ec8\u0e94\u0ebb\u0e99\u0ec2\u0e9e\u0e94, \u0ec0\u0e8a\u0eb7\u0ec9\u0ead\u0eaa\u0eb2\u0ea1\u0eb2\u0e94\u0eaa\u0eb0\u0eaa\u0ebb\u0ea1\u0e95\u0eb4\u0e94\n\u0e97\u0eb2\u0e87\u0ec3\u0e99\u0edc\u0ec9\u0eb2\u0e81\u0eb2\u0e81\u0ec4\u0e94\u0ec9."
+        },
+        "62": {
+            "eng": "Throw away masks once they feel gross. Don't wear them for more than a day!",
+            "lao": "\u0e96\u0ec9\u0eb2\u0edc\u0ec9\u0eb2\u0e81\u0eb2\u0e81\u0ec0\u0e9b\u0eb7\u0ec9\u0ead\u0e99\u0ec1\u0ea5\u0ec9\u0ea7 \u0e88\u0ebb\u0ec8\u0e87\u0ec0\u0ead\u0ebb\u0eb2\u0ec4\u0e9b \u0e96\u0eb4\u0ec9\u0ea1. \u0ea2\u0ec8\u0eb2\u0ec0\u0e81\u0eb1\u0e9a\u0ec4\u0ea7\u0ec9\u00a0\u00a0\u00a0\u00a0 \u0ea2\u0ec8\u0eb2\u0ec0\u0ead\u0ebb\u0eb2\u0ea1\u0eb2\u0ec3\u0eaa\u0ec8\u0eab\u0ebc\u0eb2\u0e8d\u0e81\u0ea7\u0ec8\u0eb2\u0ea1\u0eb7\u0ec9\u0e94\u0ec8\u0ebd\u0ea7\u0ec0\u0e94\u0eb5\u0ec9!"
+        },
+        "63": {
+            "eng": "Use a serving spoon",
+            "lao": "\u0ec3\u0e8a\u0ec9\u0e88\u0ead\u0e87\u0e95\u0eb1\u0e81"
+        },
+        "64": {
+            "eng": "Baby",
+            "lao": "\u0ea5\u0eb9\u0e81"
+        },
+        "65": {
+            "eng": "Daddy",
+            "lao": "\u0e9e\u0ecd\u0ec8"
+        },
+        "66": {
+            "eng": "Mommy",
+            "lao": "\u0ec1\u0ea1\u0ec8"
+        },
+        "67": {
+            "eng": "Everyone gets their own towel",
+            "lao": "\u0e97\u0eb8\u0e81\u0e84\u0ebb\u0e99\u0ea1\u0eb5\u0e9c\u0ec9\u0eb2\u0ec0\u0e8a\u0eb1\u0e94 \u0e82\u0ead\u0e87\u0ec3\u0e9c\u0ea1\u0eb1\u0e99."
+        },
+        "68": {
+            "eng": "Do not share food, utensils, cups, towels.",
+            "lao": "\u0ea2\u0ec8\u0eb2\u0eae\u0ec8\u0ea7\u0ea1\u0ec1\u0e9a\u0ec8\u0e87\u0ead\u0eb2\u0eab\u0eb2\u0e99\u0e88\u0eb2\u0e99\u0e94\u0ec8\u0ebd\u0ea7 \u0eab\u0ebc\u0eb7\u0e9a\u0ec8\u0ea7\u0e87\u0eaa\u0ec9\u0ead\u0ea1, \u0e88\u0ead\u0e81, \u0eab\u0ebc\u0eb7\u0e9c\u0ec9\u0eb2\u0ec0\u0e8a\u0eb1\u0e94."
+        },
+        "69": {
+            "eng": "You can't touch your face with your elbow even if you tried",
+            "lao": "\u0e9a\u0ecd\u0ec8\u0eaa\u0eb2\u0ea1\u0eb2\u0e94\u0ec0\u0ead\u0ebb\u0eb2\u0e82\u0ecd\u0ec9\u0ec1\u0e82\u0e99 \u0ea1\u0eb2\u0eaa\u0eb3\u0e9c\u0eb1\u0e94\u0ec3\u0e9a\u0edc\u0ec9\u0eb2\u0ec4\u0e94\u0ec9!"
+        },
+        "70": {
+            "eng": "Open & close doors with your elbows or shoulders instead of hands, if possible.",
+            "lao": "\u0e96\u0ec9\u0eb2\u0ec0\u0e9b\u0eb1\u0e99\u0ec4\u0e9b\u0ec4\u0e94\u0ec9 \u0e88\u0ebb\u0ec8\u0e87\u0ec0\u0e9b\u0eb5\u0e94\u0e9b\u0eb4\u0e94\u0e9b\u0eb0\u0e95\u0eb9\u0ec2\u0e94\u0e8d \u0e82\u0ecd\u0ec9\u0ec1\u0e82\u0e99\u0eab\u0ebc\u0eb7\u0e9a\u0ec8\u0eb2, \u0ec1\u0e97\u0e99\u0e97\u0eb5\u0ec8\u0e88\u0eb0\u0e88\u0eb1\u0e9a\u0ec2\u0e94\u0e8d\u0ea1\u0eb7."
+        },
+        "71": {
+            "eng": "Home",
+            "lao": "\u0ec0\u0eae\u0eb7\u0ead\u0e99\u0ec0\u0eae\u0ebb\u0eb2"
+        },
+        "72": {
+            "eng": "and after being out in the public",
+            "lao": "\u0eab\u0ebc\u0eb1\u0e87\u0e88\u0eb2\u0e81\u0ec4\u0e9b\u0e99\u0ead\u0e81\u0ec0\u0eae\u0eb7\u0ead\u0e99"
+        },
+        "73": {
+            "eng": "Before you eat",
+            "lao": "\u0e81\u0ec8\u0ead\u0e99\u0e97\u0eb5\u0ec8\u0e88\u0eb0 \u0e81\u0eb4\u0e99\u0ec0\u0e82\u0ebb\u0ec9\u0eb2"
+        },
+        "74": {
+            "eng": "Always wash your hands with soap\u2026",
+            "lao": "\u0e88\u0ebb\u0ec8\u0e87\u0ea5\u0ec9\u0eb2\u0e87\u0ea1\u0eb7\u0ec2\u0e94\u0e8d\u0eaa\u0eb0\u0e9a\u0eb9 \u0e97\u0eb8\u0e81\u0ec6\u0ec0\u0e97\u0eb7\u0ec8\u0ead..."
+        },
+        "75": {
+            "eng": "And finally,",
+            "lao": "\u0eaa\u0eb8\u0e94\u0e97\u0ec9\u0eb2\u0e8d"
+        },
+        "76": {
+            "eng": "soap",
+            "lao": "\u0eaa\u0eb0\u0e9a\u0eb9"
+        },
+        "77": {
+            "eng": "Stay safe, everyone!",
+            "lao": "\u0eae\u0eb1\u0e81\u0eaa\u0eb2\u0e95\u0ebb\u0ea7 \u0ec3\u0eab\u0ec9 \u0e9b\u0ead\u0e94\u0ec4\u0e9e\u0ec0\u0e94\u0eb5\u0ec9!"
+        },
+        "78": {
+            "eng": "Stay safe, everyone!",
+            "lao": "\u0eae\u0eb1\u0e81\u0eaa\u0eb2\u0e95\u0ebb\u0ea7 \u0ec3\u0eab\u0ec9 \u0e9b\u0ead\u0e94\u0ec4\u0e9e\u0ec0\u0e94\u0eb5\u0ec9!"
+        },
+        "79": {
+            "eng": "soap",
+            "lao": "\u0eaa\u0eb0\u0e9a\u0eb9"
+        },
+        "80": {
+            "eng": "Read the articles for more tips!",
+            "lao": "\u0ec3\u0eab\u0ec9\u0ead\u0ec8\u0eb2\u0e99\u0edc\u0eb1\u0e87\u0eaa\u0eb7\u0ec8\u0e99\u0eb5\u0ec9 \u0e96\u0ec9\u0eb2\u0ea2\u0eb2\u0e81\u0ec4\u0e94\u0ec9\u0e84\u0eb3\u0ec1\u0e99\u0eb0\u0e99\u0eb3\u0ead\u0eb5\u0e81!"
+        },
+        "81": {
+            "eng": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)",
+            "lao": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "eng": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)",
+            "lao": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+        },
+        "83": {
+            "eng": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020",
+            "lao": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "eng": "Main references for medical info:",
+            "lao": "\u0e82\u0ecd\u0e84\u0ea7\u0eb2\u0ea1\u0ea1\u0eb2\u0e88\u0eb2\u0e81:"
+        },
+        "85": {
+            "eng": "Additional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVI 019 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-1O\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com",
+            "lao": ""
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lao": "\u0ec0\u0ea5\u0eb7\u0ec8\u0ead\u0e87\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7\u0e88\u0eb2\u0e81 \u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0ec2\u0e84\u0ec2\u0ea5\u0e99\u0eb2",
+            "tth": "\u0ec0\u0ea5\u0eb7\u0ec8\u0ead\u0e87\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7\u0e88\u0eb2\u0e81 \u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0ec2\u0e84\u0ec2\u0ea5\u0e99\u0eb2"
+        },
+        "87": {
+            "eng": "",
+            "lao": ""
+        },
+        "88": {
+            "eng": "",
+            "lao": ""
+        },
+        "89": {
+            "eng": "",
+            "lao": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "lao": ""
+        },
+        "91": {
+            "eng": "",
+            "lao": ""
+        },
+        "92": {
+            "eng": "",
+            "lao": ""
+        },
+        "93": {
+            "eng": "",
+            "lao": ""
+        },
+        "94": {
+            "eng": "",
+            "lao": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\nThere's only ONE thing \ufeffyou need to understand about how a coronavirus\nSPREADS\nMouth\nNose\nEyes\nGet into your\nHealthy Person\nSick Person\nThe virus spreads when \ufeffthese droplets\nKeep your distance.\ufeff2m to 0.5m will keep you safe from large droplets.\n1\n2m-0.5m\nAchoo!\nSo if you see someone who is visibly coughing/sneezing/sick you can choose to:\nGive them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby\n2\nThank you\ufeff*sniffles*\nOR,\nMaybe she's not sick, just protecting herself\nPeople who are infected can show no symptoms, but are still\ufeffinfectious\nAnd in general, it's a good idea to avoid crowds, because you don't know who might be sick.\nchopsticks\nHealthy person\nTrain straps\nLift buttons\nTissues\nCups\nDigital devices\n& even on the outside of your face mask\nStair bannisters\nMouse\nPens\nDoor knobs\nTheir hands\nHowever, sometimes a sick person's saliva can get on other things\u2026\nyou might all fall sick.\nor your loved one's face\nrub eyes\nAnd if you do touch any of these things by accident, and then touch your face,\nand the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.\nViruses can last for quite a few hours on objects,\nsoap\nprecautions\nWhich is why it is also good to follow these\nwash with soap up to here\nsoap\nelbow\nDo not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.\nEnough time to sing \u201cHappy Birthday\u201d twice\nunder the nails\nfor 20 seconds\nbetween the fingers\nwash the back of your hands\nWhat is thoroughly?\nIf you did, don't worry. Just wash your hands with soap after.\nAlso, don't touch the outside of the mask if you can.\ndroplets\n*Bacteria grows on the insides of your mask if you wear them too long\nThrow away masks once they feel gross. Don't wear them for more than a day!\nUse a serving spoon\nBaby\nDaddy\nMommy\nEveryone gets their own towel\nDo not share food, utensils, cups, towels.\nYou can't touch your face with your elbow even if you tried\nOpen & close doors with your elbows or shoulders instead of hands, if possible.\nHome\nand after being out in the public\nBefore you eat\nAlways wash your hands with soap\u2026\nAnd finally,\nsoap\nStay safe, everyone!\nStay safe, everyone!\nsoap\nRead the articles for more tips!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020\nMain references for medical info:\nAdditional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVI 019 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-1O\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com\nAbout Coronavirus\n\n\n\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "lao": "\u0ec0\u0ea5\u0eb7\u0ec8\u0ead\u0e87\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7\u0e88\u0eb2\u0e81 \u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0ec2\u0e84\u0ec2\u0ea5\u0e99\u0eb2\n\n\n\n\u0ea1\u0eb5\u0eaa\u0eb4\u0ec8\u0e87\u0e97\u0eb5\u0ec8\u0e97\u0eb8\u0e81\u0e84\u0ebb\u0e99\u0e84\u0ea7\u0e99\u0ec0\u0e82\u0ebb\u0ec9\u0eb2\u0ec3\u0e88 \u0e81\u0ec8\u0ebd\u0ea7\u0e81\u0eb1\u0e9a\u0e81\u0eb2\u0e99\u0ec1\u0e9c\u0ec8\u0ea5\u0eb0\u0e9a\u0eb2\u0e94 \u0e82\u0ead\u0e87\u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\n\n\u0ec2\u0e84\u0ec2\u0ea5\u0e99\u0eb2\n\u0e9b\u0eb2\u0e81\n\u0eae\u0eb9\u0e94\u0eb1\u0e87\n\u0e95\u0eb2\n\u0ec0\u0e82\u0ebb\u0ebb\u0ec9\u0eb2\u0ec3\u0e99\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u0e9c\u0eb9\u0ec9\u0eaa\u0eb0\u0e9a\u0eb2\u0e8d\u0e94\u0eb5\n\u0e9c\u0eb9\u0ec0\u0e9b\u0eb1\u0e99\u0ec4\u0e82\u0ec9\n\u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0e99\u0eb1\u0ec9\u0e99\u0eaa\u0eb2\u0ea1\u0eb2\u0e94\u0ec1\u0e9c\u0ec8\u0ec4\u0e9b \u0e95\u0eb4\u0e94\u0e84\u0ebb\u0e99\u0ead\u0eb7\u0ec8\u0e99\u0ec0\u0ea1\u0eb7\u0ec8\u0ead\u0e9c\u0eb9\u0e95\u0eb4\u0e94\u0ec0\u0e8a\u0eb7\u0ec9\u0ead\u0ec4\u0ead \u0eab\u0ebc\u0eb7\u0e88\u0eb2\u0ea1, \u0ec1\u0ea5\u0ec9\u0ea7\u0ea2\u0ead\u0e94\u0ec0\u0eab\u0ebc\u0ebb\u0ec8\u0eb2\u0e99\u0eb5\u0ec9\n\u0e88\u0ebb\u0ec8\u0e87\u0eae\u0eb1\u0e81\u0eaa\u0eb2\u0ea5\u0eb0\u0e8d\u0eb0\u0eab\u0ec8\u0eb2\u0e87\u0ec0\u0e94\u0eb5\u0ec9! \u0e9b\u0eb0\u0ea1\u0eb2\u0e992\u0ec1\u0ea1\u0eb1\u0e94 \u0e88\u0eb0\u0e8a\u0ec8\u0ea7\u0e8d\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7 \u0e88\u0eb2\u0e81\u0ea2\u0ead\u0e94\u0ec0\u0eab\u0ebc\u0ebb\u0ec8\u0eb2\u0e99\u0eb1\u0ec9\u0e99.\n1\n2\u0ec1\u0ea1\u0eb1\u0e94\n\u0ec4\u0ead\u0e88\u0eb2\u0ea1\n\u0e94\u0eb1\u0ec8\u0e87\u0e99\u0eb1\u0ec9\u0e99\u0e96\u0ec9\u0eb2\u0eaa\u0ebb\u0ebb\u0ea1\u0ea1\u0eb8\u0e94\u0e97\u0ec8\u0eb2\u0e99\u0ec0\u0eab\u0eb1\u0e99\u0e84\u0ebb\u0e99\u0e97\u0eb5\u0ec8\u0ec4\u0ead\u0e88\u0eb2\u0ea1, \u0ea1\u0eb5\u0eaa\u0eb4\u0ec8\u0e87\u0e97\u0eb5\u0ec8\u0e95\u0ec9\u0ead\u0e87\u0ec0\u0eae\u0eb1\u0e94\u0e84\u0eb7:\n\u0ec0\u0ead\u0ebb\u0eb2\u0edc\u0ec9\u0eb2\u0e81\u0eb2\u0e81\u0ec3\u0eab\u0ec9\u0e84\u0ebb\u0e99\u0e99\u0eb1\u0ec9\u0e99. \u0ec0\u0e82\u0ebb\u0eb2\u0e88\u0eb6\u0ec8\u0e87\u0e88\u0eb0\u0eaa\u0eb2\u0ea1\u0eb2\u0e94\u0ec4\u0ead \u0eab\u0ebc\u0eb7\u0e88\u0eb2\u0ea1\u0ec3\u0eaa\u0ec8\u0edc\u0ec9\u0eb2\u0e81\u0eb2\u0e81 \u0ec1\u0ea5\u0ec9\u0ea7\u0e9a\u0ecd\u0ec8\u0e96\u0eb7\u0e81\u0ec3\u0eaa\u0ec8\u0e9c\u0eb9\u0ec9\u0ec3\u0e81\u0ec9\u0e84\u0ebd\u0e87.\n2\n\u0e82\u0ecd\u0e82\u0ead\u0e9a\u0ec3\u0e88\u0eab\u0ebc\u0eb2\u0e8d\n\u0eab\u0ebc\u0eb7\u0ea7\u0ec8\u0eb2\n\u0e9c\u0eb9\u0ec9\u0e99\u0eb5\u0ec9\u0ead\u0eb2\u0e94\u0e88\u0eb0\u0e8d\u0eb1\u0e87\u0eaa\u0eb0\u0e9a\u0eb2\u0e8d\u0e94\u0eb5\u0ea2\u0eb9\u0ec8, \u00a0\u00a0 \u0ea1\u0eb5\u0ec1\u0e95\u0ec8\u0ea2\u0eb2\u0e81\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7.\n\u0e9a\u0eb2\u0e87\u0ec0\u0e97\u0eb7\u0ec8\u0ead\u0e88\u0eb0\u0ea1\u0eb5\u0e84\u0ebb\u0e99\u0e97\u0eb5\u0ec8\u0e95\u0eb4\u0e94\u0ec0\u0e8a\u0eb7\u0ec9\u0ead\u0ec1\u0ea5\u0ec9\u0ea7, \u0ec1\u0e95\u0ec8\u0e9a\u0ecd\u0ec8\u0eaa\u0eb0\u0ec1\u0e94\u0e87\u0ead\u0eb2\u0e81\u0eb2\u0e99\n\u0ec2\u0e94\u0e8d\u0e97\u0ebb\u0ea7\u0ec4\u0e9b \u0ec3\u0eab\u0ec9\u0eab\u0ebc\u0eb5\u0e81\u0ec0\u0ea7\u0eb1\u0ec9\u0e99\u0e88\u0eb2\u0e81\u0e9d\u0eb9\u0e87\u0e8a\u0ebb\u0e99\u0e81\u0ecd\u0e94\u0eb5\u0e81\u0ea7\u0ec8\u0eb2, \u0ec0\u0e9e\u0eb2\u0eb0\u0ec0\u0eae\u0ebb\u0eb2\u0e9a\u0ecd\u0ec8\u0eae\u0ec9\u0eb9\u0ea7\u0ec8\u0eb2\u00a0 \u0e9c\u0eb9\u0ec9\u0ec3\u0e94\u0e9a\u0ecd\u0ec8\u0eaa\u0eb0\u0e9a\u0eb2\u0e8d.\n\u0ec4\u0ea1\u0ec9\u0e96\u0ec8\u0eb9\n\u0e84\u0ebb\u0e99 \u0eaa\u0eb0\u0e9a\u0eb2\u0e8d\u0e94\u0eb5\n\u0e97\u0eb5\u0ec8\u0e88\u0eb1\u0e9a\n\u0e81\u0eb0\u0e94\u0eb8\u0ea1\u0eab\u0ec9\u0ead\u0e87\u0ea5\u0eb4\u0e9a\n\u0e81\u0eb0\u0e94\u0eb2\u0e94\u0e97\u0eb4\u0e94\u0e8a\u0eb9\n\u0e88\u0ead\u0e81\n\u0ec2\u0e97\u0ea5\u0eb0\u0eaa\u0eb1\u0e9a \u0eab\u0ebc\u0eb7\u0e84\u0ead\u0ea1\n\u0ec1\u0ea1\u0ec8\u0e99\u0ec1\u0e95\u0ec8\u0e97\u0eb2\u0e87\u0e99\u0ead\u0e81 \u0edc\u0ec9\u0eb2\u0e81\u0eb2\u0e81\u0e82\u0ead\u0e87\u0e97\u0ec8\u0eb2\u0e99.\n\u0e9e\u0eb0\u0e99\u0eb1\u0e81\u0e82\u0eb1\u0ec9\u0e99\u0ec4\u0e94\n\u0ec0\u0ea1\u0ebb\u0eb2\u0eaa\u0ecc\n\u0e9b\u0eb2\u0e81\u0e81\u0eb2\n\u0ea5\u0eb9\u0e81\u0e9b\u0eb4\u0e94\u0e9b\u0eb0\u0e95\u0eb9\n\u0ea1\u0eb7\u0e82\u0ead\u0e87\u0e84\u0ebb\u0e99\u0e99\u0eb1\u0ec9\u0e99\n\u0ea2\u0ec8\u0eb2\u0e87\u0ec3\u0e94\u0e81\u0ecd\u0e95\u0eb2\u0ea1 \u0e9a\u0eb2\u0e87\u0ec0\u0e97\u0eb7\u0ec8\u0ead\u0e99\u0eb3\u0ea5\u0eb2\u0e8d\u0e82\u0ead\u0e87\u0e84\u0ebb\u0e99 \u0e97\u0eb5\u0ec8\u0ec0\u0e9b\u0eb1\u0e99\u0ec4\u0e82\u0ec9\u00a0\u00a0\u00a0\u00a0 \u0ead\u0eb2\u0e94\u0e88\u0eb0\u0e95\u0eb4\u0e94\u0eaa\u0eb4\u0ec8\u0e87\u0e82\u0ead\u0e87 \u0e95\u0ec8\u0eb2\u0e87\u0ec6..,\n\u0e97\u0eb8\u0e81\u0e84\u0ebb\u0e99\u0ead\u0eb2\u0e94\u0e88\u0eb0\u0e95\u0eb4\u0e94\u0ec0\u0e8a\u0eb7\u0ec9\u0ead\u0ec4\u0e94\u0ec9.\n\u0eab\u0ebc\u0eb7\u0eaa\u0ecd\u0eb2\u0e9c\u0eb1\u0e94\u0ec3\u0e9a\u0edc\u0ec9\u0eb2 \u0e82\u0ead\u0e87\u0e9c\u0eb9\u0ec9\u0ec3\u0e99 \u0e84\u0ead\u0e9a \u0e84\u0ebb\u0ea7...\n\u0e82\u0eb0\u0e8d\u0eb5\u0ec9\u0e95\u0eb2\n\u0e96\u0ec9\u0eb2\u0eaa\u0ebb\u0ea1\u0ea1\u0eb8\u0e94\u0ea7\u0ec8\u0eb2 \u0e97\u0ec8\u0eb2\u0e99\u0e88\u0eb1\u0e9a\u0eaa\u0eb4\u0ec8\u0e87\u0e82\u0ead\u0e87\u0ec0\u0eab\u0ebc\u0ebb\u0ec8\u0eb2\u0e99\u0eb5\u0ec9 \u0ec1\u0ea5\u0ec9\u0ea7\u0e81\u0ecd\u0e88\u0eb1\u0e9a\u0ec3\u0e9a\u0edc\u0ec9\u0eb2\u0e82\u0ead\u0e87\u0e97\u0ec8\u0eb2\u0e99...\n\u0eaa\u0eb0\u0e99\u0eb1\u0ec9\u0e99 \u0e96\u0ec9\u0eb2\u0e88\u0eb0\u0e81\u0ecd\u0eb2\u0e88\u0eb1\u0e94\u0e81\u0ecd\u0e95\u0ec9\u0ead\u0e87\u0ec0\u0ead\u0ebb\u0eb2\u0eaa\u0eb0\u0e9a\u0eb9, \u0ea2\u0eb2\u0e9f\u0ead\u0e81\u0e82\u0eb2\u0ea7, \u0eab\u0ebc\u0eb7\u0ec1\u0ead\u0ea5\u0e81\u0ecd\u0eae\u0ecd \u0ea1\u0eb2\u0ea5\u0ec9\u0eb2\u0e87\u0eab\u0ebc\u0eb7\u0ec0\u0e8a\u0eb1\u0e94.\n\u0ec0\u0e8a\u0eb7\u0ec9\u0ead\u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0e81\u0ecd\u0eaa\u0eb2\u0ea1\u0eb2\u0e94\u0ea2\u0eb9\u0ec8\u0ec0\u0e9b\u0eb1\u0e99\u0ec0\u0ea7\u0ea5\u0eb2 \u0eab\u0ebc\u0eb2\u0e8d \u0e8a\u0ebb\u0ea7\u0ec2\u0ea1\u0e87\u0ec3\u0e99\u0eaa\u0eb4\u0ec8\u0e87\u0e82\u0ead\u0e87...\n\u0eaa\u0eb0\u0e9a\u0eb9\n\u0e9b\u0eb0\u0e81\u0eb2\u0e99\n\u0e94\u0eb1\u0ec8\u0e87\u0e99\u0eb1\u0ec9\u0e99\u0ec0\u0eae\u0ebb\u0eb2\u0e84\u0ea7\u0e99\u0e88\u0eb0\u0e95\u0eb4\u0e94\u0e95\u0eb2\u0ea1 \u0e84\u0eb3\u0ec1\u0e99\u0eb0\u0e99\u0eb3\n\u00a0\u00a0 \u0ea5\u0ec9\u0eb2\u0e87\u0e88\u0ebb\u0e99\u00a0\u00a0\u00a0\u00a0\u00a0 \u0eae\u0ead\u0e94\u0e88\u0eb8\u0e94\u0e99\u0eb5\u0ec9\n\u0eaa\u0eb0\u0e9a\u0eb9\n\u0e82\u0ecd\u0ec9\u0ec1\u0e82\u0e99\n\u0ea2\u0ec8\u0eb2\u0e88\u0eb1\u0e9a\u0eab\u0ebc\u0eb7\u0eaa\u0ecd\u0eb2\u0e9c\u0eb1\u0e94\u0ec3\u0e9a\u0edc\u0ec9\u0eb2\u0e82\u0ead\u0e87\u0e95\u0ebb\u0e99\u0ec0\u0ead\u0e87, \u0eab\u0ebc\u0eb7\u0ec3\u0e9a\u0edc\u0ec9\u0eb2\u0e9c\u0eb9\u0ec9\u0ead\u0eb7\u0ec8\u0e99. \u0e96\u0ec9\u0eb2\u0e88\u0ecd\u0eb2\u0ec0\u0e9b\u0eb1\u0e99\u0e88\u0eb1\u0e9a, \u0ea5\u0ec9\u0eb2\u0e87\u0ea1\u0eb7\u0ec3\u0eab\u0ec9\u0eaa\u0eb0\u0ead\u0eb2\u0e94\u0e81\u0ec8\u0ead\u0e99.\n\u0e84\u0eb7\u0ec0\u0ea7\u0ea5\u0eb2\u0e9e\u0ecd\u0e97\u0eb5\u0ec8\u0e88\u0eb0\u0eae\u0ec9\u0ead\u0e87\u0ec0\u0e9e\u0e87 \u0ec1\u0eae\u0eb1\u0e9a\u0e9e\u0eb5\u0ec0\u0e9a\u0eb4\u0e94\u0ec0\u0e94 \u0ec4\u0e94\u0ec92\u0ec0\u0e97\u0eb7\u0ec8\u0ead.\n\u0ec3\u0e99\u0ec0\u0ea5\u0eb1\u0e9a\u0ea1\u0eb7\n\u0ec3\u0e8a\u0ec9\u0ec0\u0ea7\u0ea5\u0eb220 \u0ea7\u0eb4\u0e99\u0eb2\u0e97\u0eb5\n\u0ea5\u0eb0\u0eab\u0ea7\u0ec8\u0eb2\u0e87\u0e99\u0eb5\u0ec9\u0ea7\u0ea1\u0eb7\n\u0ea5\u0ec9\u0eb2\u0e87\u0eab\u0ebc\u0eb1\u0e87\u0ea1\u0eb7\n\u0e84\u0ecd\u0eb2\u0ea7\u0ec8\u0eb2 \u0ea5\u0ec9\u0eb2\u0e87\u0ea1\u0eb7\u0ec3\u0eab\u0ec9\u0eaa\u0eb0\u0ead\u0eb2\u0e94\u0e81\u0ecd\u0eab\u0ea1\u0eb2\u0e8d\u0e84\u0ea7\u0eb2\u0ea1\u0ea7\u0ec8\u0eb2 \u0ec1\u0e99\u0ea7\u0ec3\u0e94?\n\u0ec1\u0e95\u0ec8\u0e96\u0ec9\u0eb2\u0eaa\u0ebb\u0ea1\u0ea1\u0eb8\u0e94\u0ea7\u0ec8\u0eb2 \u0e88\u0eb1\u0e9a\u0ec1\u0ea5\u0ec9\u0ea7\u0e81\u0ecd \u0e9a\u0ecd\u0ec8\u0ec0\u0e9b\u0eb1\u0e99\u0eab\u0e8d\u0eb1\u0e87, \u0ea1\u0eb5\u0ec1\u0e95\u0ec8\u0e95\u0ec9\u0ead\u0e87\u0ec4\u0e9b\u0ea5\u0ec9\u0eb2\u0e87\u0ea1\u0eb7 \u0ec2\u0e94\u0e8d\u0ec3\u0e8a\u0ec9\u0eaa\u0eb0\u0e9a\u0eb9.\n\u0ead\u0eb5\u0e81\u0ec0\u0ea5\u0eb7\u0ec8\u0ead\u0e87\u0edc\u0eb6\u0ec8\u0e87, \u0e84\u0eb7\u0e96\u0ec9\u0eb2\u0ec0\u0e9b\u0eb1\u0e99\u0ec4\u0e9b \u0ec4\u0e94\u0ec9 \u0ea2\u0ec8\u0eb2\u0e88\u0eb1\u0e9a\u0e97\u0eb2\u0e87\u0e99\u0ead\u0e81 \u0edc\u0ec9\u0eb2\u0e81\u0eb2\u0e81.\n\u0ea2\u0ead\u0e94\n\u0e96\u0ec9\u0eb2\u0ec3\u0eaa\u0ec8\u0e94\u0ebb\u0e99\u0ec2\u0e9e\u0e94, \u0ec0\u0e8a\u0eb7\u0ec9\u0ead\u0eaa\u0eb2\u0ea1\u0eb2\u0e94\u0eaa\u0eb0\u0eaa\u0ebb\u0ea1\u0e95\u0eb4\u0e94\n\u0e97\u0eb2\u0e87\u0ec3\u0e99\u0edc\u0ec9\u0eb2\u0e81\u0eb2\u0e81\u0ec4\u0e94\u0ec9.\n\u0e96\u0ec9\u0eb2\u0edc\u0ec9\u0eb2\u0e81\u0eb2\u0e81\u0ec0\u0e9b\u0eb7\u0ec9\u0ead\u0e99\u0ec1\u0ea5\u0ec9\u0ea7 \u0e88\u0ebb\u0ec8\u0e87\u0ec0\u0ead\u0ebb\u0eb2\u0ec4\u0e9b \u0e96\u0eb4\u0ec9\u0ea1. \u0ea2\u0ec8\u0eb2\u0ec0\u0e81\u0eb1\u0e9a\u0ec4\u0ea7\u0ec9\u00a0\u00a0\u00a0\u00a0 \u0ea2\u0ec8\u0eb2\u0ec0\u0ead\u0ebb\u0eb2\u0ea1\u0eb2\u0ec3\u0eaa\u0ec8\u0eab\u0ebc\u0eb2\u0e8d\u0e81\u0ea7\u0ec8\u0eb2\u0ea1\u0eb7\u0ec9\u0e94\u0ec8\u0ebd\u0ea7\u0ec0\u0e94\u0eb5\u0ec9!\n\u0ec3\u0e8a\u0ec9\u0e88\u0ead\u0e87\u0e95\u0eb1\u0e81\n\u0ea5\u0eb9\u0e81\n\u0e9e\u0ecd\u0ec8\n\u0ec1\u0ea1\u0ec8\n\u0e97\u0eb8\u0e81\u0e84\u0ebb\u0e99\u0ea1\u0eb5\u0e9c\u0ec9\u0eb2\u0ec0\u0e8a\u0eb1\u0e94 \u0e82\u0ead\u0e87\u0ec3\u0e9c\u0ea1\u0eb1\u0e99.\n\u0ea2\u0ec8\u0eb2\u0eae\u0ec8\u0ea7\u0ea1\u0ec1\u0e9a\u0ec8\u0e87\u0ead\u0eb2\u0eab\u0eb2\u0e99\u0e88\u0eb2\u0e99\u0e94\u0ec8\u0ebd\u0ea7 \u0eab\u0ebc\u0eb7\u0e9a\u0ec8\u0ea7\u0e87\u0eaa\u0ec9\u0ead\u0ea1, \u0e88\u0ead\u0e81, \u0eab\u0ebc\u0eb7\u0e9c\u0ec9\u0eb2\u0ec0\u0e8a\u0eb1\u0e94.\n\u0e9a\u0ecd\u0ec8\u0eaa\u0eb2\u0ea1\u0eb2\u0e94\u0ec0\u0ead\u0ebb\u0eb2\u0e82\u0ecd\u0ec9\u0ec1\u0e82\u0e99 \u0ea1\u0eb2\u0eaa\u0eb3\u0e9c\u0eb1\u0e94\u0ec3\u0e9a\u0edc\u0ec9\u0eb2\u0ec4\u0e94\u0ec9!\n\u0e96\u0ec9\u0eb2\u0ec0\u0e9b\u0eb1\u0e99\u0ec4\u0e9b\u0ec4\u0e94\u0ec9 \u0e88\u0ebb\u0ec8\u0e87\u0ec0\u0e9b\u0eb5\u0e94\u0e9b\u0eb4\u0e94\u0e9b\u0eb0\u0e95\u0eb9\u0ec2\u0e94\u0e8d \u0e82\u0ecd\u0ec9\u0ec1\u0e82\u0e99\u0eab\u0ebc\u0eb7\u0e9a\u0ec8\u0eb2, \u0ec1\u0e97\u0e99\u0e97\u0eb5\u0ec8\u0e88\u0eb0\u0e88\u0eb1\u0e9a\u0ec2\u0e94\u0e8d\u0ea1\u0eb7.\n\u0ec0\u0eae\u0eb7\u0ead\u0e99\u0ec0\u0eae\u0ebb\u0eb2\n\u0eab\u0ebc\u0eb1\u0e87\u0e88\u0eb2\u0e81\u0ec4\u0e9b\u0e99\u0ead\u0e81\u0ec0\u0eae\u0eb7\u0ead\u0e99\n\u0e81\u0ec8\u0ead\u0e99\u0e97\u0eb5\u0ec8\u0e88\u0eb0 \u0e81\u0eb4\u0e99\u0ec0\u0e82\u0ebb\u0ec9\u0eb2\n\u0e88\u0ebb\u0ec8\u0e87\u0ea5\u0ec9\u0eb2\u0e87\u0ea1\u0eb7\u0ec2\u0e94\u0e8d\u0eaa\u0eb0\u0e9a\u0eb9 \u0e97\u0eb8\u0e81\u0ec6\u0ec0\u0e97\u0eb7\u0ec8\u0ead...\n\u0eaa\u0eb8\u0e94\u0e97\u0ec9\u0eb2\u0e8d\n\u0eaa\u0eb0\u0e9a\u0eb9\n\u0eae\u0eb1\u0e81\u0eaa\u0eb2\u0e95\u0ebb\u0ea7 \u0ec3\u0eab\u0ec9 \u0e9b\u0ead\u0e94\u0ec4\u0e9e\u0ec0\u0e94\u0eb5\u0ec9!\n\u0eae\u0eb1\u0e81\u0eaa\u0eb2\u0e95\u0ebb\u0ea7 \u0ec3\u0eab\u0ec9 \u0e9b\u0ead\u0e94\u0ec4\u0e9e\u0ec0\u0e94\u0eb5\u0ec9!\n\u0eaa\u0eb0\u0e9a\u0eb9\n\u0ec3\u0eab\u0ec9\u0ead\u0ec8\u0eb2\u0e99\u0edc\u0eb1\u0e87\u0eaa\u0eb7\u0ec8\u0e99\u0eb5\u0ec9 \u0e96\u0ec9\u0eb2\u0ea2\u0eb2\u0e81\u0ec4\u0e94\u0ec9\u0e84\u0eb3\u0ec1\u0e99\u0eb0\u0e99\u0eb3\u0ead\u0eb5\u0e81!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020)\n\u0e82\u0ecd\u0e84\u0ea7\u0eb2\u0ea1\u0ea1\u0eb2\u0e88\u0eb2\u0e81:\n\n\u0ec0\u0ea5\u0eb7\u0ec8\u0ead\u0e87\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7\u0e88\u0eb2\u0e81 \u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0ec2\u0e84\u0ec2\u0ea5\u0e99\u0eb2\n\n\n\n\n\n\n\n",
+        "tth": "\u0ec0\u0ea5\u0eb7\u0ec8\u0ead\u0e87\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7\u0e88\u0eb2\u0e81 \u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0ec2\u0e84\u0ec2\u0ea5\u0e99\u0eb2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0ec0\u0ea5\u0eb7\u0ec8\u0ead\u0e87\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7\u0e88\u0eb2\u0e81 \u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0ec2\u0e84\u0ec2\u0ea5\u0e99\u0eb2\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "tth",
+        "lao",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "Lao People's Democratic Republic",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "tS4pO4unBI"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "lo": "Lao",
+        "tth": "Ta\u2019oih, Upper"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "\u0ec0\u0ea5\u0eb7\u0ec8\u0ead\u0e87\u0e9b\u0ec9\u0ead\u0e87\u0e81\u0eb1\u0e99\u0e95\u0ebb\u0ea7\u0e88\u0eb2\u0e81 \u0ec4\u0ea7\u0ea3\u0eb1\u0eaa\u0ec2\u0e84\u0ec2\u0ea5\u0e99\u0eb2",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

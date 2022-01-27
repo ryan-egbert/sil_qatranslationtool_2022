@@ -1,0 +1,239 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "3ef37b4c-75c2-4250-b8eb-ef0ab36ff456",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "To'ofonosia Kovid19",
+  "allTitles": "{\"en\":\"Avoid Covid-19 (Asia)\",\"kwd\":\"To'ofonosia Kovid19\"}",
+  "originalTitle": "Avoid Covid-19 (Asia)",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,998cbede-e48f-4c5a-a4e2-af2bf344216b",
+  "downloadSource": "davidfonosimae@gmail.com/3ef37b4c-75c2-4250-b8eb-ef0ab36ff456",
+  "license": "cc-by-nc",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2022, Solomon Islands Translation Advisori Group (SITAG)",
+  "credits": "",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 12,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "V35IM9QpCI"
+    }
+  ],
+  "summary": "Asian illustrations version of the Avoid Covid-19 booklet",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "country": "Solomon Islands",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "OUFiIkxksd"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": "",
+  "originalPublisher": "",
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "kwd": "Kwaio"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "kwd": "To'ofonosia Kovid19",
+    "en": "Avoid Covid-19 (Asia)"
+  },
+  "2": {
+    "kwd": "To'ofonosia Kovid19",
+    "en": "Avoid Covid-19 (Asia)"
+  },
+  "3": {
+    "z": "",
+    "en": "",
+    "kwd": ""
+  },
+  "4": {
+    "z": "",
+    "en": "",
+    "kwd": ""
+  },
+  "5": {
+    "z": "",
+    "en": "",
+    "kwd": ""
+  },
+  "6": {
+    "z": "",
+    "en": "",
+    "kwd": ""
+  },
+  "7": {
+    "z": "",
+    "en": "",
+    "kwd": ""
+  },
+  "8": {
+    "z": "",
+    "en": "",
+    "kwd": ""
+  },
+  "9": {
+    "z": "",
+    "en": "",
+    "kwd": ""
+  },
+  "10": {
+    "z": "",
+    "en": "",
+    "kwd": ""
+  },
+  "11": {
+    "z": "",
+    "en": "",
+    "kwd": ""
+  },
+  "18": {
+    "kwd": "To'ofonosia Kovid19",
+    "en": "Avoid Covid-19 (Asia)"
+  },
+  "19": {
+    "kwd": "To'ofonosia Kovid19",
+    "en": "Avoid Covid-19 (Asia)"
+  },
+  "22": {
+    "en": "Version 8.4.2020"
+  },
+  "25": {
+    "en": "Covid-19 Asian version"
+  },
+  "27": {
+    "en": "Solomon Islanads Translation Advisory Group (sitag)"
+  },
+  "33": {
+    "kwd": "",
+    "en": "",
+    "z": ""
+  },
+  "34": {
+    "kwd": "",
+    "en": "",
+    "z": ""
+  },
+  "35": {
+    "kwd": "",
+    "en": "",
+    "z": ""
+  },
+  "36": {
+    "kwd": "'O sia galo to'ona mola maamu ma gwangomu ma ngidumu.",
+    "en": "",
+    "z": ""
+  },
+  "37": {
+    "kwd": "'O sia galo to'ona mola maamu ma gwangomu ma ngidumu.",
+    "en": "",
+    "z": ""
+  },
+  "38": {
+    "kwd": "'O sia galo to'ona mola maamu ma gwangomu ma ngidumu.",
+    "en": "",
+    "z": ""
+  },
+  "39": {
+    "kwd": "To'ofonosia gwangomu ma ngidumu 'ania burina su'usu'umu 'amoe ma ma 'ola 'ilaka'u me'e ruu fana fulolana maada. Alata 'o agea 'e sui mola, mai 'oo to'osia no'o fa'asi'o.",
+    "en": "",
+    "z": ""
+  },
+  "40": {
+    "kwd": "To'ofonosia gwangomu ma ngidumu 'ania burina su'usu'umu 'amoe ma ma 'ola 'ilaka'u me'e ruu fana fulolana maada. Alata 'o agea 'e sui mola, mai 'oo to'osia no'o fa'asi'o.",
+    "en": "",
+    "z": ""
+  },
+  "41": {
+    "kwd": "To'ofonosia gwangomu ma ngidumu 'ania burina su'usu'umu 'amoe ma ma 'ola 'ilaka'u me'e ruu fana fulolana maada. Alata 'o agea 'e sui mola, mai 'oo to'osia no'o fa'asi'o.",
+    "en": "",
+    "z": ""
+  },
+  "42": {
+    "kwd": "Leka kwairiunga 'ani 'amoe,\u00a0 moko nana'i fa'asia ogunga fe'enia ta'a 'e aula.",
+    "en": "",
+    "z": ""
+  },
+  "43": {
+    "kwd": "Leka kwairiunga 'ani 'amoe,\u00a0 moko nana'i fa'asia ogunga fe'enia ta'a 'e aula.",
+    "en": "",
+    "z": ""
+  },
+  "44": {
+    "kwd": "Leka kwairiunga 'ani 'amoe,\u00a0 moko nana'i fa'asia ogunga fe'enia ta'a 'e aula.",
+    "en": "",
+    "z": ""
+  },
+  "45": {
+    "kwd": "Lauta labemu 'e 'ago'ago, 'amoe ma 'o fu'u 'amoe ma mangomu 'e 'ato'ato, leka te'ana ta'a na gulanga.",
+    "en": "",
+    "z": ""
+  },
+  "46": {
+    "kwd": "Lauta labemu 'e 'ago'ago, 'amoe ma 'o fu'u 'amoe ma mangomu 'e 'ato'ato, leka te'ana ta'a na gulanga.",
+    "en": "",
+    "z": ""
+  },
+  "47": {
+    "kwd": "Lauta labemu 'e 'ago'ago, 'amoe ma 'o fu'u 'amoe ma mangomu 'e 'ato'ato, leka te'ana ta'a na gulanga.",
+    "en": "",
+    "z": ""
+  },
+  "48": {
+    "kwd": "Daria kwalato'o fa'asia ta'a na gila taunga'i ai moko lo'o na fa'abasunga fa'asia ta'a ni gulanga.",
+    "en": "",
+    "z": ""
+  },
+  "49": {
+    "kwd": "Daria kwalato'o fa'asia ta'a na gila taunga'i ai moko lo'o na fa'abasunga fa'asia ta'a ni gulanga.",
+    "en": "",
+    "z": ""
+  },
+  "50": {
+    "kwd": "Daria kwalato'o fa'asia ta'a na gila taunga'i ai moko lo'o na fa'abasunga fa'asia ta'a ni gulanga.",
+    "en": "",
+    "z": ""
+  }
+}

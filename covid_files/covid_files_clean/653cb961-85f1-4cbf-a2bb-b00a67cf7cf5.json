@@ -1,0 +1,434 @@
+{
+    "allTitles": "{\"an\":\"Lo coronavirus\",\"en\":\"About Coronavirus\"}",
+    "author": null,
+    "bookInstanceId": "653cb961-85f1-4cbf-a2bb-b00a67cf7cf5",
+    "bookLineage": null,
+    "bookSamples": {
+        "0": {
+            "arg": "Lo coronavirus",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "und": ""
+        },
+        "1": {
+            "arg": ""
+        },
+        "2": {
+            "arg": ""
+        },
+        "3": {
+            "arg": "",
+            "eng": ""
+        },
+        "4": {
+            "arg": "Nom\u00e1s te cal entender UNA cosa sobre c\u00f3mo CORRE un coronavirus",
+            "eng": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+        },
+        "5": {
+            "arg": "",
+            "eng": "SPREADS"
+        },
+        "6": {
+            "arg": "boca",
+            "eng": "Mouth"
+        },
+        "7": {
+            "arg": "nariz",
+            "eng": "Nose"
+        },
+        "8": {
+            "arg": "uellos",
+            "eng": "Eyes"
+        },
+        "9": {
+            "arg": "arriban ta los tuyos",
+            "eng": "Get into your"
+        },
+        "10": {
+            "arg": "Persona sana",
+            "eng": "Healthy Person"
+        },
+        "11": {
+            "arg": "Persona infectada",
+            "eng": "Sick Person"
+        },
+        "12": {
+            "arg": "Lo virus corre quan estas gotichonas",
+            "eng": "The virus spreads when \ufeffthese droplets"
+        },
+        "13": {
+            "arg": "Queda-te leixos. A dos metros ser\u00e1s a salvo d\u2019as gotetas mas grans",
+            "eng": "Keep your distance.\ufeff2m will keep you safe from large droplets."
+        },
+        "14": {
+            "arg": "1",
+            "eng": "1"
+        },
+        "15": {
+            "arg": "2m",
+            "eng": "2m"
+        },
+        "16": {
+            "arg": "Ach\u00fas!",
+            "eng": "Achoo!"
+        },
+        "17": {
+            "arg": "Per ixo, si veyes a bel\u00fan que ye tusindo / estarnudando / malaudo",
+            "eng": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+        },
+        "18": {
+            "arg": "Da-les una careta. Pueden tusir u estarnudar en ella y protechen a totz los d\u2019alredor.",
+            "eng": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby."
+        },
+        "19": {
+            "arg": "2",
+            "eng": "2"
+        },
+        "20": {
+            "arg": "Gracias\n\ufeff*snif*",
+            "eng": "Thank you\ufeff*sniffles*"
+        },
+        "21": {
+            "arg": "U",
+            "eng": "OR,"
+        },
+        "22": {
+            "arg": "Talment no siga malauda, nom\u00e1s ye protechendo-se",
+            "eng": "Maybe she's not sick, just protecting herself"
+        },
+        "23": {
+            "arg": "Las personas infectadas puede que no amuestren simptomas, pero son igualment infecciosas",
+            "eng": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+        },
+        "24": {
+            "arg": "Y en cheneral, s\u2019ha de privar qualsequier aglomeraci\u00f3n de chent, perque no sabes qu\u00ed puede estar malaudo.",
+            "eng": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+        },
+        "25": {
+            "arg": "Tochetz",
+            "eng": "Chopsticks"
+        },
+        "26": {
+            "arg": "Persona sana",
+            "eng": "Healthy person"
+        },
+        "27": {
+            "arg": "Agarraderas",
+            "eng": "Train straps"
+        },
+        "28": {
+            "arg": "Botons de l\u2019ascensor",
+            "eng": "Lift buttons"
+        },
+        "29": {
+            "arg": "Moquers",
+            "eng": "Tissues"
+        },
+        "30": {
+            "arg": "Tazas",
+            "eng": "Cups"
+        },
+        "31": {
+            "arg": "Dispositivos dichitals",
+            "eng": "Digital devices"
+        },
+        "32": {
+            "arg": "Y mesmo l\u2019exterior d\u2019a tuya careta",
+            "eng": "& even on the outside of your face mask"
+        },
+        "33": {
+            "arg": "Barandau",
+            "eng": "Stair bannisters"
+        },
+        "34": {
+            "arg": "Ratet",
+            "eng": "Mouse"
+        },
+        "35": {
+            "arg": "Boligrafos",
+            "eng": "Pens"
+        },
+        "36": {
+            "arg": "Pomos de puerta",
+            "eng": "Door knobs"
+        },
+        "37": {
+            "arg": "Las suyas mans",
+            "eng": "Their hands"
+        },
+        "38": {
+            "arg": "Manimenos, la saliva d\u2019una persona malauda puede arribar ta atras cosas\u2026",
+            "eng": "However, sometimes a sick person's saliva can get on other things\u2026"
+        },
+        "39": {
+            "arg": "podr\u00edatz cayer malaudos",
+            "eng": "you might all fall sick."
+        },
+        "40": {
+            "arg": "u la cara d\u2019o tuyo amor",
+            "eng": "or your loved one's face"
+        },
+        "41": {
+            "arg": "t\u2019estregas los uellos",
+            "eng": "rub eyes"
+        },
+        "42": {
+            "arg": "Y si tocas qualsequiera d\u2019estas cosas per accident y dimpu\u00e9s te tocas la cara",
+            "eng": "And if you do touch any of these things by accident, and then touch your face,"
+        },
+        "43": {
+            "arg": "y la sola manera efectiva de librar-nos d\u2019ells ye limpiar-los con sab\u00f3n, leixiva u alcol",
+            "eng": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+        },
+        "44": {
+            "arg": "Los virus pueden permaneixer bellas quantas horas en os obchectos",
+            "eng": "Viruses can last for quite a few hours on objects,"
+        },
+        "45": {
+            "arg": "Sab\u00f3n",
+            "eng": "soap"
+        },
+        "46": {
+            "arg": "consellos",
+            "eng": "precautions"
+        },
+        "47": {
+            "arg": "Per ixo, ye bueno que sigamos estes",
+            "eng": "Which is why it is also good to follow these"
+        },
+        "48": {
+            "arg": "Lava-te con sab\u00f3n dica aqu\u00ed",
+            "eng": "wash with soap up to here"
+        },
+        "49": {
+            "arg": "Sab\u00f3n",
+            "eng": "soap"
+        },
+        "50": {
+            "arg": "Anc\u00f3n",
+            "eng": "elbow"
+        },
+        "51": {
+            "arg": "No te toques la cara. (Ni toques la cara d\u2019otri). Si l\u2019has de fer, lava-te antes las mans concienzudament con sab\u00f3n.",
+            "eng": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+        },
+        "52": {
+            "arg": "Lo que cuesta cantar dos vegadas \u201cBufa ixas velas!\u201d",
+            "eng": "Enough time to sing \u201cHappy Birthday\u201d twice"
+        },
+        "53": {
+            "arg": "baixo las unglas",
+            "eng": "under the nails"
+        },
+        "54": {
+            "arg": "per 20 segundos",
+            "eng": "for 20 seconds"
+        },
+        "55": {
+            "arg": "entre los didos",
+            "eng": "between the fingers"
+        },
+        "56": {
+            "arg": "lava lo dorso d\u2019as tuyas mans",
+            "eng": "wash the back of your hands"
+        },
+        "57": {
+            "arg": "Qu\u00e9 ye \u201cconcienzudament\u201d?",
+            "eng": "What is thoroughly?"
+        },
+        "58": {
+            "arg": "Si lo fas, no te\u2019n fagas. Lava-te las mans con sab\u00f3n chusto dimpuesas.",
+            "eng": "If you did, don't worry. Just wash your hands with soap after."
+        },
+        "59": {
+            "arg": "Mira de no tocar tampoco l\u2019exterior d\u2019a careta",
+            "eng": "Also, don't touch the outside of the mask if you can."
+        },
+        "60": {
+            "arg": "gotetas",
+            "eng": "droplets"
+        },
+        "61": {
+            "arg": "*Las bacterias creixer\u00e1n endentro si portas la careta masiau tiempo",
+            "eng": "*Bacteria grows on the insides of your mask if you wear them too long"
+        },
+        "62": {
+            "arg": "Tira la careta malas que la notes puerca. No en portes una per mas d\u2019un d\u00eda.",
+            "eng": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+        },
+        "63": {
+            "arg": "Usa un cullar pa servir",
+            "eng": "Use a serving spoon"
+        },
+        "64": {
+            "arg": "Beb\u00e9",
+            "eng": "Baby"
+        },
+        "65": {
+            "arg": "Papa",
+            "eng": "Daddy"
+        },
+        "66": {
+            "arg": "Mama",
+            "eng": "Mommy"
+        },
+        "67": {
+            "arg": "Cada\u00fan ha de tener la suya propia tovalla",
+            "eng": "Everyone gets their own towel"
+        },
+        "68": {
+            "arg": "No compartas comida, cubiertos, tazas, tovallas.",
+            "eng": "Do not share food, utensils, cups, towels."
+        },
+        "69": {
+            "arg": "No te toques la cara con o codo, ni anque l\u2019intentes",
+            "eng": "You can't touch your face with your elbow even if you tried"
+        },
+        "70": {
+            "arg": "Siempre que puedas, ubre y zarra las puertas con os tuyos ancons u huembros en cuenta de con as mans.",
+            "eng": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+        },
+        "71": {
+            "arg": "Casa m\u00eda",
+            "eng": "Home"
+        },
+        "72": {
+            "arg": "y dimpu\u00e9s d\u2019estar difuera de casa",
+            "eng": "and after being out in the public"
+        },
+        "73": {
+            "arg": "Antes de minchar",
+            "eng": "Before you eat"
+        },
+        "74": {
+            "arg": "Lava-te siempre las mans con sab\u00f3n\u2026",
+            "eng": "Always wash your hands with soap\u2026"
+        },
+        "75": {
+            "arg": "Y pa rematar,",
+            "eng": "And finally,"
+        },
+        "76": {
+            "arg": "sab\u00f3n",
+            "eng": "soap"
+        },
+        "77": {
+            "arg": "Guardatz-tos de malo!",
+            "eng": "Stay safe, everyone!"
+        },
+        "78": {
+            "arg": "Guardatz-tos de malo!",
+            "eng": "Stay safe, everyone!"
+        },
+        "79": {
+            "arg": "sab\u00f3n",
+            "eng": "soap"
+        },
+        "80": {
+            "arg": "Leye los articlos pa mas consellos!",
+            "eng": "Read the articles for more tips!"
+        },
+        "81": {
+            "arg": "\"This animation shows how far your sneeze can actually travel\" por Chia Yi Hou, en Business Insider (21 de enero de 2020)",
+            "eng": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "arg": "\"The Wuhan Virus: How to stay safe\", por Laurie Garrett, en Foreign Policy, Repert. (25 de enero de 2020)",
+            "eng": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+        },
+        "83": {
+            "arg": "\"How to avoid the coronavirus? Wash your hands\" por Elizabeth Sosenthal, en The New York Times, Opinion. (28 de enero de 2020)",
+            "eng": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020"
+        },
+        "84": {
+            "arg": "Referencias principals d\u2019informaci\u00f3n medica",
+            "eng": "Main references for medical info:"
+        },
+        "85": {
+            "arg": "Notas adicionals: Las midas d\u2019hichiene que se presentan en o comic son efectivas en prevenir muitas atras\u00a0 infeccions comuns, como la gripe y lo resfriau, y son siempre recomendables, mesmo quan no i haiga garra pasa.\nReferencias: La informaci\u00f3n presentada en o comic se basa en o que se conoix d\u2019a COVID19 dica lo 28 de febrero de 2020, mas que mas d\u2019estas referencias:\ufeff\n\ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-preventiontips.html\ufeff\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\ufeff\ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nInformaci\u00f3n adicional: Una version PDF d\u2019o comic ye disponible pa la suya descarga libre aqu\u00ed: https://gumroad.com/weimankowart\nNormas pa compartir-lo: Qualsequier persona puede compartir este comic de manera libre y gratuita, tanto v\u00eda web como per Whatsapp u Telegram. Qualsequiera que lo descargue puede imprentar-lo como cartels pa uso personal u educativo en casas, escuelas y centros de treballo. Si lo compartes, para cuenta d\u2019estes tres puntos: 1) No se pueden compartir versions editadas d\u2019o comic. 2) No se pueden usar los comics pa garra prochecto comercial 3) Si lo compartes en linia, da credito a lo creador en FB etiquetando a @weimankowart, en Instagram etiquetando a @weimankow, u incluyindo un vinclo ta instagram.com/weimankow\nPa qualsequier atro uso, ninvia una petici\u00f3n ta lo correu: comicsforgood@gmail.com\n",
+            "eng": "Additional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+        },
+        "86": {
+            "arg": "Lo coronavirus",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "und": ""
+        },
+        "87": {
+            "arg": ""
+        },
+        "88": {
+            "arg": ""
+        },
+        "89": {
+            "arg": "Translated by Juan Pablo Mart\u00ednez"
+        },
+        "90": {
+            "arg": "Created by Weiman Kow, instagram: weimankow"
+        },
+        "91": {
+            "arg": ""
+        },
+        "92": {
+            "arg": ""
+        },
+        "93": {
+            "arg": ""
+        },
+        "94": {
+            "arg": ""
+        }
+    },
+    "bookText": {
+        "arg": "Lo coronavirus\n\n\n\nNom\u00e1s te cal entender UNA cosa sobre c\u00f3mo CORRE un coronavirus\n\nboca\nnariz\nuellos\narriban ta los tuyos\nPersona sana\nPersona infectada\nLo virus corre quan estas gotichonas\nQueda-te leixos. A dos metros ser\u00e1s a salvo d\u2019as gotetas mas grans\n1\n2m\nAch\u00fas!\nPer ixo, si veyes a bel\u00fan que ye tusindo / estarnudando / malaudo\nDa-les una careta. Pueden tusir u estarnudar en ella y protechen a totz los d\u2019alredor.\n2\nGracias\n\ufeff*snif*\nU\nTalment no siga malauda, nom\u00e1s ye protechendo-se\nLas personas infectadas puede que no amuestren simptomas, pero son igualment infecciosas\nY en cheneral, s\u2019ha de privar qualsequier aglomeraci\u00f3n de chent, perque no sabes qu\u00ed puede estar malaudo.\nTochetz\nPersona sana\nAgarraderas\nBotons de l\u2019ascensor\nMoquers\nTazas\nDispositivos dichitals\nY mesmo l\u2019exterior d\u2019a tuya careta\nBarandau\nRatet\nBoligrafos\nPomos de puerta\nLas suyas mans\nManimenos, la saliva d\u2019una persona malauda puede arribar ta atras cosas\u2026\npodr\u00edatz cayer malaudos\nu la cara d\u2019o tuyo amor\nt\u2019estregas los uellos\nY si tocas qualsequiera d\u2019estas cosas per accident y dimpu\u00e9s te tocas la cara\ny la sola manera efectiva de librar-nos d\u2019ells ye limpiar-los con sab\u00f3n, leixiva u alcol\nLos virus pueden permaneixer bellas quantas horas en os obchectos\nSab\u00f3n\nconsellos\nPer ixo, ye bueno que sigamos estes\nLava-te con sab\u00f3n dica aqu\u00ed\nSab\u00f3n\nAnc\u00f3n\nNo te toques la cara. (Ni toques la cara d\u2019otri). Si l\u2019has de fer, lava-te antes las mans concienzudament con sab\u00f3n.\nLo que cuesta cantar dos vegadas \u201cBufa ixas velas!\u201d\nbaixo las unglas\nper 20 segundos\nentre los didos\nlava lo dorso d\u2019as tuyas mans\nQu\u00e9 ye \u201cconcienzudament\u201d?\nSi lo fas, no te\u2019n fagas. Lava-te las mans con sab\u00f3n chusto dimpuesas.\nMira de no tocar tampoco l\u2019exterior d\u2019a careta\ngotetas\n*Las bacterias creixer\u00e1n endentro si portas la careta masiau tiempo\nTira la careta malas que la notes puerca. No en portes una per mas d\u2019un d\u00eda.\nUsa un cullar pa servir\nBeb\u00e9\nPapa\nMama\nCada\u00fan ha de tener la suya propia tovalla\nNo compartas comida, cubiertos, tazas, tovallas.\nNo te toques la cara con o codo, ni anque l\u2019intentes\nSiempre que puedas, ubre y zarra las puertas con os tuyos ancons u huembros en cuenta de con as mans.\nCasa m\u00eda\ny dimpu\u00e9s d\u2019estar difuera de casa\nAntes de minchar\nLava-te siempre las mans con sab\u00f3n\u2026\nY pa rematar,\nsab\u00f3n\nGuardatz-tos de malo!\nGuardatz-tos de malo!\nsab\u00f3n\nLeye los articlos pa mas consellos!\n\"This animation shows how far your sneeze can actually travel\" por Chia Yi Hou, en Business Insider (21 de enero de 2020)\n\"The Wuhan Virus: How to stay safe\", por Laurie Garrett, en Foreign Policy, Repert. (25 de enero de 2020)\n\"How to avoid the coronavirus? Wash your hands\" por Elizabeth Sosenthal, en The New York Times, Opinion. (28 de enero de 2020)\nReferencias principals d\u2019informaci\u00f3n medica\nNotas adicionals: Las midas d\u2019hichiene que se presentan en o comic son efectivas en prevenir muitas atras\u00a0 infeccions comuns, como la gripe y lo resfriau, y son siempre recomendables, mesmo quan no i haiga garra pasa.\nReferencias: La informaci\u00f3n presentada en o comic se basa en o que se conoix d\u2019a COVID19 dica lo 28 de febrero de 2020, mas que mas d\u2019estas referencias:\ufeff\n\ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-preventiontips.html\ufeff\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\ufeff\ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nInformaci\u00f3n adicional: Una version PDF d\u2019o comic ye disponible pa la suya descarga libre aqu\u00ed: https://gumroad.com/weimankowart\nNormas pa compartir-lo: Qualsequier persona puede compartir este comic de manera libre y gratuita, tanto v\u00eda web como per Whatsapp u Telegram. Qualsequiera que lo descargue puede imprentar-lo como cartels pa uso personal u educativo en casas, escuelas y centros de treballo. Si lo compartes, para cuenta d\u2019estes tres puntos: 1) No se pueden compartir versions editadas d\u2019o comic. 2) No se pueden usar los comics pa garra prochecto comercial 3) Si lo compartes en linia, da credito a lo creador en FB etiquetando a @weimankowart, en Instagram etiquetando a @weimankow, u incluyindo un vinclo ta instagram.com/weimankow\nPa qualsequier atro uso, ninvia una petici\u00f3n ta lo correu: comicsforgood@gmail.com\n\nLo coronavirus\n\n\nTranslated by Juan Pablo Mart\u00ednez\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "eng": "About Coronavirus\n\n\n\nThere's only ONE thing \ufeffyou need to understand about how a coronavirus\nSPREADS\nMouth\nNose\nEyes\nGet into your\nHealthy Person\nSick Person\nThe virus spreads when \ufeffthese droplets\nKeep your distance.\ufeff2m will keep you safe from large droplets.\n1\n2m\nAchoo!\nSo if you see someone who is visibly coughing/sneezing/sick you can choose to:\nGive them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby.\n2\nThank you\ufeff*sniffles*\nOR,\nMaybe she's not sick, just protecting herself\nPeople who are infected can show no symptoms, but are still\ufeffinfectious\nAnd in general, it's a good idea to avoid crowds, because you don't know who might be sick.\nChopsticks\nHealthy person\nTrain straps\nLift buttons\nTissues\nCups\nDigital devices\n& even on the outside of your face mask\nStair bannisters\nMouse\nPens\nDoor knobs\nTheir hands\nHowever, sometimes a sick person's saliva can get on other things\u2026\nyou might all fall sick.\nor your loved one's face\nrub eyes\nAnd if you do touch any of these things by accident, and then touch your face,\nand the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.\nViruses can last for quite a few hours on objects,\nsoap\nprecautions\nWhich is why it is also good to follow these\nwash with soap up to here\nsoap\nelbow\nDo not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.\nEnough time to sing \u201cHappy Birthday\u201d twice\nunder the nails\nfor 20 seconds\nbetween the fingers\nwash the back of your hands\nWhat is thoroughly?\nIf you did, don't worry. Just wash your hands with soap after.\nAlso, don't touch the outside of the mask if you can.\ndroplets\n*Bacteria grows on the insides of your mask if you wear them too long\nThrow away masks once they feel gross. Don't wear them for more than a day!\nUse a serving spoon\nBaby\nDaddy\nMommy\nEveryone gets their own towel\nDo not share food, utensils, cups, towels.\nYou can't touch your face with your elbow even if you tried\nOpen & close doors with your elbows or shoulders instead of hands, if possible.\nHome\nand after being out in the public\nBefore you eat\nAlways wash your hands with soap\u2026\nAnd finally,\nsoap\nStay safe, everyone!\nStay safe, everyone!\nsoap\nRead the articles for more tips!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020\nMain references for medical info:\nAdditional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com\nAbout Coronavirus\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "arg",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Juan Pablo Mart\u00ednez",
+    "country": "Spain",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "VuPlir4JXc"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "an": "Aragon\u00e9s",
+        "mnw": "Mon"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Do not change the text of this work, but you may translate it, adapt it into other forms, and distribute it for non-commerical purposes. You must keep the copyrights and credits for the author and illustrator Weiman Kow.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "A book about how to avoid the Coronavirus",
+    "tags": [],
+    "title": "Lo coronavirus",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

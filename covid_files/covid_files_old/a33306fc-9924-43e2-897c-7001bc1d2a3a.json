@@ -1,0 +1,378 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "a33306fc-9924-43e2-897c-7001bc1d2a3a",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Andumoro' i Ampoi Corona Anio'",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"tnt\":\"Andumoro' i Ampoi Corona Anio'\"}",
+  "originalTitle": "About Coronavirus",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,726d708d-535e-47af-8905-ce6e5e0d745c",
+  "downloadSource": "ringgorawung@gmail.com/a33306fc-9924-43e2-897c-7001bc1d2a3a",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": "Do not change the text of this work, but you may translate it, adapt it into other forms, and distribute it for non-commerical purposes. You must keep the copyrights and credits for the author and illustrator Weiman Kow.",
+  "copyright": "Copyright \u00a9 2020, Hak cipta \u00a9 2020, Weiman Kow",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [],
+  "pageCount": 26,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "nNcD0stVAX"
+    }
+  ],
+  "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Indonesia",
+  "province": "Sulawesi Utara",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "fB0R6Rd1hp"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": "",
+  "originalPublisher": "",
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "es": "Spanish",
+    "tnt": "Tontemboan"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "es": "Sobre el Coronavirus",
+    "tnt": "Andumoro' i Ampoi Corona Anio'",
+    "en": "About Coronavirus"
+  },
+  "2": {
+    "es": "Sobre el Coronavirus",
+    "tnt": "Andumoro' i Ampoi Corona Anio'",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "es": "Sobre el Coronavirus",
+    "tnt": "Andumoro' i Ampoi Corona Anio'",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "es": "Sobre el Coronavirus",
+    "tnt": "Andumoro' i Ampoi Corona Anio'",
+    "en": "About Coronavirus"
+  },
+  "9": {
+    "tnt": "Tontemboan Matana'i"
+  },
+  "10": {
+    "tnt": "Tontemboan Matana'i"
+  },
+  "12": {
+    "tnt": "Wayak\u00e9\u2019 in esa si musti kailekan iow andumoro\u2019 in tumambisa en ampoi Corona anio\u2019"
+  },
+  "13": {
+    "tnt": "LUMAW\u00c9"
+  },
+  "14": {
+    "tnt": "Wa\u2019ba"
+  },
+  "15": {
+    "tnt": "Ngirung"
+  },
+  "16": {
+    "tnt": "Weren"
+  },
+  "17": {
+    "tnt": "Muntep an untep"
+  },
+  "18": {
+    "tnt": "Tou ra\u2019ica sumakit"
+  },
+  "19": {
+    "tnt": "Tou sumakit"
+  },
+  "20": {
+    "tnt": "Si ampoi anio\u2019 lumaw\u00e9 sa rumesic in dura anio\u2019"
+  },
+  "21": {
+    "tnt": "Teiran em pawuun. Icamu\u00a0 maaman oka asi resicen in dura eng kerapi in tumeir im paawuun wona 2m."
+  },
+  "22": {
+    "tnt": "1"
+  },
+  "23": {
+    "tnt": "1,5m - 2m"
+  },
+  "24": {
+    "tnt": "Haachii!!"
+  },
+  "25": {
+    "tnt": "Ana\u00e9, an tutuw s\u00e9r\u00e9n iow si tou sumekol/mawaan/sumakit, icamu ro\u2019na:"
+  },
+  "26": {
+    "tnt": "W\u00c9ANIO\u2019 MASKER S\u00c9RA.\ufeffAna\u00e9 s\u00e9ra ro\u2019na mawaan/sumekol an untep I maskerna en tumeir s\u00e9 tou an li\u2019cirna."
+  },
+  "27": {
+    "tnt": "2"
+  },
+  "28": {
+    "tnt": "Makapulu\u2019sama\u2019"
+  },
+  "29": {
+    "tnt": "KUMA\u2019PA"
+  },
+  "30": {
+    "tnt": "Wona si tou anio\u2019 ra\u2019ica sumakit.\ufeffSia asalo tumeir in owakna."
+  },
+  "31": {
+    "tnt": "S\u00e9 tou s\u00e9 kinalaw\u00e9ano, wona\u2019 ra\u2019ica ituruna en tuus-tuus sa sia kinalaw\u00e9ano, taan ro\u2019nake\u2019 ilaw\u00e9na en sakit."
+  },
+  "32": {
+    "tnt": "Ana\u00e9, l\u00e9b\u00e9h loor sa tumayang ang kakelian tou, ampa\u2019paan ra\u2019ica kailekan iow si sei waya s\u00e9 tinena in sakit."
+  },
+  "33": {
+    "tnt": "Papak\u00e9n imakan"
+  },
+  "34": {
+    "tnt": "S\u00e9 tou ra\u2019ica sumakit"
+  },
+  "35": {
+    "tnt": "Patimboian \ufeffang kereta"
+  },
+  "36": {
+    "tnt": "Pakutian in lift"
+  },
+  "37": {
+    "tnt": "Tisue"
+  },
+  "38": {
+    "tnt": "Paelepan"
+  },
+  "39": {
+    "tnt": "HP, Laptop"
+  },
+  "40": {
+    "tnt": "i masker"
+  },
+  "41": {
+    "tnt": "Titimboian in daran"
+  },
+  "42": {
+    "tnt": "Mouse in Laptop"
+  },
+  "43": {
+    "tnt": "Papatic"
+  },
+  "44": {
+    "tnt": "Kukusi im papalen"
+  },
+  "45": {
+    "tnt": "Kama\u2019 \u00e9ra"
+  },
+  "46": {
+    "tnt": "Mand\u00e9 taniitu, sumangkum en dura \u00e9 tou sumakit ro\u2019na lum\u00e9ngk\u00e9t ang\u2026"
+  },
+  "47": {
+    "tnt": "Icamu im baya ro\u2019na kasakitan"
+  },
+  "48": {
+    "tnt": "Kuma\u2019pa in amo tou walina an diitmu,"
+  },
+  "49": {
+    "tnt": "Kumisu im beren"
+  },
+  "50": {
+    "tnt": "Sa ra\u2019ica petutumu misu s\u00e9 l\u00e9l\u00e9ngk\u00e9tan in ampoi Corona, wo isuemu an amomu in esa,"
+  },
+  "51": {
+    "tnt": "En sumingkir in ampoi anio\u2019 si lumoo-loor musti ulurenta eng kerapi mak\u00e9' in sabong, si pakulo\u2019, kuma\u2019pa alcohol."
+  },
+  "52": {
+    "tnt": "Eng ampoi anio\u2019 ro\u2019na tumang akar in 24 jam (rua ngapulu\u2019 epat jam) an esa barang."
+  },
+  "53": {
+    "tnt": "Sabong"
+  },
+  "54": {
+    "tnt": "tumambisa en anio\u2019 i\u00e9nto eng kerapi."
+  },
+  "55": {
+    "tnt": "Ampa\u2019paan in ituo, l\u00e9b\u00e9h loor kiitenta"
+  },
+  "56": {
+    "tnt": "Wuas\u00e9n in sabong akar ambia\u2019i"
+  },
+  "57": {
+    "tnt": "Sabong"
+  },
+  "58": {
+    "tnt": "Siku ing kama\u2019"
+  },
+  "59": {
+    "tnt": "Tioo lisun in amomu kumapa en amo \ufeffe tou walina."
+  },
+  "60": {
+    "tnt": "Tanu ing kumantar ing kakantaren \u201cHappy Birthday\u201d makarua"
+  },
+  "61": {
+    "tnt": "S\u00e9 an untep in sulu"
+  },
+  "62": {
+    "tnt": "Eng kaur\u00e9na 20 detik"
+  },
+  "63": {
+    "tnt": "Am paawuun im buana ing kama"
+  },
+  "64": {
+    "tnt": "Wuaasen in licur ing kama"
+  },
+  "65": {
+    "tnt": "Tambisa muas ing kama akar maweresi?"
+  },
+  "66": {
+    "tnt": "Sa kaisuan, tioo maind\u00e9. Kumala'us muas ing kama kerapi in sabong"
+  },
+  "67": {
+    "tnt": "Tioo misu si ang kesot i masker"
+  },
+  "68": {
+    "tnt": "Resic in dura"
+  },
+  "69": {
+    "tnt": "Bakteri ro\u2019na makeli an untep i masker sa pak\u00e9n ima ur\u00e9 -ur\u00e9an."
+  },
+  "70": {
+    "tnt": "Tia\u2019 s\u00e9 masker sa imakotoro. Ra\u2019ica toro imak\u00e9 i masker lum\u00e9b\u00e9' asi sangando"
+  },
+  "71": {
+    "tnt": "Pak\u00e9n en l\u00e9p\u00e9r in s\u00e9nd\u00e9\u00e9n"
+  },
+  "72": {
+    "tnt": "Toyaang"
+  },
+  "73": {
+    "tnt": "Amang"
+  },
+  "74": {
+    "tnt": "Inang"
+  },
+  "75": {
+    "tnt": "Mak\u00e9' in anduk esa wo iesa"
+  },
+  "76": {
+    "tnt": "Tioo pak\u00e9n mewali-wali kakanen, s\u00e9 pengapak\u00e9n ing kuman, gelas, wo in anduk"
+  },
+  "77": {
+    "tnt": "Ra\u2019ica kaisuan iow en amo mak\u00e9\u2019 in siku ing kama\u2019mu in esa"
+  },
+  "78": {
+    "tnt": "Sa woo ro\u2019na, sa muka\u2019 kuma\u2019pa menet im pepenet mak\u00e9 in siku in kama\u2019 kuma\u2019pa paluka"
+  },
+  "79": {
+    "tnt": "Wal\u00e9"
+  },
+  "80": {
+    "tnt": "Kekawus iow kumesot am wal\u00e9"
+  },
+  "81": {
+    "tnt": "En da\u2019ipe cuman"
+  },
+  "82": {
+    "tnt": "Tatapke\u2019 wuasan iow eng kama\u2019 eng kerapi in sabong"
+  },
+  "83": {
+    "tnt": "Eng kaakaran"
+  },
+  "84": {
+    "tnt": "Sabong"
+  },
+  "85": {
+    "tnt": "Tei-teiran wosama\u2019 ra\u2019ica sakitan"
+  },
+  "86": {
+    "tnt": "Bacan s\u00e9 ro\u2019na tumawang tanu s\u00e9 \u00a0aipatico an dangka"
+  },
+  "87": {
+    "tnt": "\"This animation shows how far you sneeze can actually travel.\" by Chia-Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "88": {
+    "tnt": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy Report. (Jan 25, 2020)"
+  },
+  "89": {
+    "tnt": "\"How to Avoid the Coronavirus? Wash Your Hands\", by Elizabeth Rosenthal, in The New York Times, Opinion. (Jan28,2020)"
+  },
+  "90": {
+    "tnt": "Lemboi ing kumatar\u00e9 asi abar andumoro\u2019 ing kasamaan:"
+  },
+  "91": {
+    "tnt": "Keterangan tambahan: \u00a0lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. \u00a0https://www.nytimes.com/2020/01/28/opinion /coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safetychina/ https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Referensi: \u00a0Komik dalam bentuk PDF dapat diunduh di sini: https://gumroad.com /weimankowart Informasi Tambahan \u00a0Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Pedoman Menyebarkan Komik Saat membagikan komik ini, ingat 3 hal berikut: 1) Dilarang mengedit gambar komik yang akan dibagikan. 2) Komik ini tidak dapat diperjualbelikan. 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+  },
+  "93": {
+    "es": "Sobre el Coronavirus",
+    "tnt": "Andumoro' i Ampoi Corona Anio'",
+    "en": "About Coronavirus"
+  },
+  "94": {
+    "es": "Sobre el Coronavirus",
+    "tnt": "Andumoro' i Ampoi Corona Anio'",
+    "en": "About Coronavirus"
+  },
+  "95": {
+    "es": "Sobre el Coronavirus",
+    "tnt": "Andumoro' i Ampoi Corona Anio'",
+    "en": "About Coronavirus"
+  },
+  "96": {
+    "es": "Sobre el Coronavirus",
+    "tnt": "Andumoro' i Ampoi Corona Anio'",
+    "en": "About Coronavirus"
+  },
+  "99": {
+    "en": "Diterjemahkan oleh Tim Tontemboan Matana'i Pusat Penerjemahan Alkitab GMIM"
+  },
+  "107": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  },
+  "111": {
+    "en": "Hak cipta \u00a9 2020, Weiman Kow Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kou. Versi bahasa Inggris dibuat oleh Paul Frank Versi asli dibuat oleh Weiman Kow, instagram: weimankow Silakan kunjungi atau hubungi kami di: Facebook: www.facebook.com/PusatPenerjemahanAlkitabGMIM/ IG: @PPA_GMIM Youtube: www.youtube.com/pusatpenerjemahanalkitab Email: ppa.tomohon@gmail.com"
+  }
+}

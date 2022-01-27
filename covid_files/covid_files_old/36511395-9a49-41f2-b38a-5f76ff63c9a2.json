@@ -1,0 +1,377 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "36511395-9a49-41f2-b38a-5f76ff63c9a2",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Ngeunaan Virus Corona",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"lts\":\"Olumbe lwa Korona\",\"su\":\"Ngeunaan Virus Corona\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4",
+  "downloadSource": "media@suluh.org/36511395-9a49-41f2-b38a-5f76ff63c9a2",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+  "copyright": "Copyright \u00a9 2020, Weiman Kow",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "da9d7LkFzd"
+    }
+  ],
+  "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Indonesia",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "c1ceNFU299"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "lts": "Lutachoni",
+    "su": "Sunda"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "2": {
+    "lts": "Olumbe lwa Korona",
+    "su": "Ngeunaan Virus Corona",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "lts": "Olumbe lwa Korona",
+    "su": "Ngeunaan Virus Corona",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "lts": "Olumbe lwa Korona",
+    "su": "Ngeunaan Virus Corona",
+    "en": "About Coronavirus"
+  },
+  "5": {
+    "lts": "Olumbe lwa Korona",
+    "su": "Ngeunaan Virus Corona",
+    "en": "About Coronavirus"
+  },
+  "12": {
+    "su": ""
+  },
+  "13": {
+    "su": ""
+  },
+  "14": {
+    "su": "KASEBAR"
+  },
+  "15": {
+    "su": "Baham"
+  },
+  "16": {
+    "su": "Pangambung"
+  },
+  "17": {
+    "su": "Panon"
+  },
+  "18": {
+    "su": ""
+  },
+  "19": {
+    "su": "s\u00e9hat"
+  },
+  "20": {
+    "su": ""
+  },
+  "21": {
+    "su": ""
+  },
+  "22": {
+    "su": "Anjeun bakal aman tina cipratan ciduh kumargi ngajauhan, anggang 2 m\u00e9ter."
+  },
+  "23": {
+    "su": "1"
+  },
+  "24": {
+    "su": ""
+  },
+  "25": {
+    "su": ""
+  },
+  "26": {
+    "su": ""
+  },
+  "27": {
+    "su": ""
+  },
+  "28": {
+    "su": "2"
+  },
+  "29": {
+    "su": ""
+  },
+  "30": {
+    "su": ""
+  },
+  "31": {
+    "su": ""
+  },
+  "32": {
+    "su": ""
+  },
+  "33": {
+    "su": ""
+  },
+  "34": {
+    "su": ""
+  },
+  "35": {
+    "su": ""
+  },
+  "36": {
+    "su": ""
+  },
+  "37": {
+    "su": ""
+  },
+  "38": {
+    "su": ""
+  },
+  "39": {
+    "su": ""
+  },
+  "40": {
+    "su": "H\u00e9npon, l\u00e9ptop"
+  },
+  "41": {
+    "su": ""
+  },
+  "42": {
+    "su": ""
+  },
+  "43": {
+    "su": ""
+  },
+  "44": {
+    "su": ""
+  },
+  "45": {
+    "su": ""
+  },
+  "46": {
+    "su": ""
+  },
+  "47": {
+    "su": ""
+  },
+  "48": {
+    "su": "Anjeun sadayana tiasa katarajang panyawat."
+  },
+  "49": {
+    "su": ""
+  },
+  "50": {
+    "su": ""
+  },
+  "51": {
+    "su": ""
+  },
+  "52": {
+    "su": "Hiji-hijina cara ampuh pikeun nyingkirkeun virus nya\u00e9ta ngumbah \u00e9ta barang nganggo sabun, pemutih atawa alcohol."
+  },
+  "53": {
+    "su": ""
+  },
+  "54": {
+    "su": ""
+  },
+  "55": {
+    "su": ""
+  },
+  "56": {
+    "su": ""
+  },
+  "57": {
+    "su": "Wasuh panangan semet palebah dieu"
+  },
+  "58": {
+    "su": ""
+  },
+  "59": {
+    "su": ""
+  },
+  "60": {
+    "su": ""
+  },
+  "61": {
+    "su": ""
+  },
+  "62": {
+    "su": ""
+  },
+  "63": {
+    "su": ""
+  },
+  "64": {
+    "su": ""
+  },
+  "65": {
+    "su": ""
+  },
+  "66": {
+    "su": "Kumaha carana wawasuh panangan sangkan beresih?"
+  },
+  "67": {
+    "su": ""
+  },
+  "68": {
+    "su": ""
+  },
+  "69": {
+    "su": ""
+  },
+  "70": {
+    "su": ""
+  },
+  "71": {
+    "su": ""
+  },
+  "72": {
+    "su": ""
+  },
+  "73": {
+    "su": ""
+  },
+  "74": {
+    "su": ""
+  },
+  "75": {
+    "su": ""
+  },
+  "76": {
+    "su": ""
+  },
+  "77": {
+    "su": ""
+  },
+  "78": {
+    "su": ""
+  },
+  "79": {
+    "su": ""
+  },
+  "80": {
+    "su": ""
+  },
+  "81": {
+    "su": ""
+  },
+  "82": {
+    "su": ""
+  },
+  "83": {
+    "su": ""
+  },
+  "84": {
+    "su": ""
+  },
+  "85": {
+    "su": ""
+  },
+  "86": {
+    "su": ""
+  },
+  "87": {
+    "su": "Jagi kas\u00e9hatan!"
+  },
+  "88": {
+    "su": "Sabun"
+  },
+  "89": {
+    "su": ""
+  },
+  "90": {
+    "su": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "91": {
+    "su": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+  },
+  "92": {
+    "su": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+  },
+  "93": {
+    "su": ""
+  },
+  "94": {
+    "su": ""
+  },
+  "97": {
+    "lts": "Olumbe lwa Korona",
+    "su": "Ngeunaan Virus Corona",
+    "en": "About Coronavirus"
+  },
+  "98": {
+    "lts": "Olumbe lwa Korona",
+    "su": "Ngeunaan Virus Corona",
+    "en": "About Coronavirus"
+  },
+  "99": {
+    "lts": "Olumbe lwa Korona",
+    "su": "Ngeunaan Virus Corona",
+    "en": "About Coronavirus"
+  },
+  "100": {
+    "lts": "Olumbe lwa Korona",
+    "su": "Ngeunaan Virus Corona",
+    "en": "About Coronavirus"
+  },
+  "103": {
+    "en": ""
+  },
+  "108": {
+    "en": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org"
+  },
+  "111": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

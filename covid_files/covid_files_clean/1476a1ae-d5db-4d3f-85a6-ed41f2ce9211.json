@@ -1,0 +1,354 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"saq\":\"Mbaa naipirita koronapairas\"}",
+    "author": null,
+    "bookInstanceId": "1476a1ae-d5db-4d3f-85a6-ed41f2ce9211",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "saq": "Mbaa naipirita koronapairas"
+        },
+        "1": {
+            "eng": "",
+            "saq": ""
+        },
+        "2": {
+            "eng": "",
+            "saq": "Translated by Abednego Lolokuru"
+        },
+        "3": {
+            "saq": ""
+        },
+        "4": {
+            "saq": "Keatae ntoki nabo ake neyiere niyelou neiko Koronapairas"
+        },
+        "5": {
+            "saq": "tenarasaa"
+        },
+        "6": {
+            "saq": "Nkutuk"
+        },
+        "7": {
+            "saq": "Nkume"
+        },
+        "8": {
+            "saq": "Nkonyek"
+        },
+        "9": {
+            "saq": "tenejing\u2019 atua"
+        },
+        "10": {
+            "saq": "ltung\u2019ani bioto"
+        },
+        "11": {
+            "saq": "Ltung\u2019ani omwai"
+        },
+        "12": {
+            "saq": "Kerasaa ana pairas tanaa kore kullo ldarat"
+        },
+        "13": {
+            "saq": "Talama: kore tinilamari riot are naaku mikibaki naa lolo darat."
+        },
+        "14": {
+            "saq": "Nabo"
+        },
+        "15": {
+            "saq": "riot are"
+        },
+        "16": {
+            "saq": "ottisia!"
+        },
+        "17": {
+            "saq": "Naaku tinidol ltung\u2019ani egira allwa/ nesing\u2019/omwai indim nigelu aas:"
+        },
+        "18": {
+            "saq": "Nchoo nanka napuyiapui. Keidim nolwuaki ankata esing\u2019aki nia anka neirita lkule enyikita ninye."
+        },
+        "19": {
+            "saq": "are"
+        },
+        "20": {
+            "saq": "Ashe oleng \u201caisugsug\u201d"
+        },
+        "21": {
+            "saq": "Tanaa"
+        },
+        "22": {
+            "saq": "Keidim aikata naaku momwai, koon ake eripito."
+        },
+        "23": {
+            "saq": "Kore ltung\u2019ana etarasutua keidim neitarasaa abaki tanaa melio ajo komoyia ninche."
+        },
+        "24": {
+            "saq": "Kore te nkidapash, keisupat piilam ltururi amu miyiolo naa aikata ajo ng\u2019ae omwai."
+        },
+        "25": {
+            "saq": "njipet"
+        },
+        "26": {
+            "saq": "Ltung\u2019ani bioto"
+        },
+        "27": {
+            "saq": "Lgiitan le nkari enkima"
+        },
+        "28": {
+            "saq": "ng\u2019oji naironyi te ntoki nailiepeki nkurupani"
+        },
+        "29": {
+            "saq": "Tishu"
+        },
+        "30": {
+            "saq": "lkoombeni"
+        },
+        "31": {
+            "saq": "Mashinini"
+        },
+        "32": {
+            "saq": "ankata siake oriong enia anka napuyiapui enkutuk"
+        },
+        "33": {
+            "saq": "nkasi enkurupani"
+        },
+        "34": {
+            "saq": "ntoki ekompita"
+        },
+        "35": {
+            "saq": "Lkalamu"
+        },
+        "36": {
+            "saq": "Nkubung\u2019at emilanko"
+        },
+        "37": {
+            "saq": "Nkaik enche"
+        },
+        "38": {
+            "saq": "Kake kore aikata keidim nkamulak eltung\u2019ani omwai nodoki ntokitin..."
+        },
+        "39": {
+            "saq": "indimdim nimwai pookin"
+        },
+        "40": {
+            "saq": "tanaa nkomom eltung\u2019ani linchi"
+        },
+        "41": {
+            "saq": "ning\u2019ing\u2019i nkonyek"
+        },
+        "42": {
+            "saq": "Naa kore tinishomo niimbong\u2019 kunna tokitin aikata imiyiolo, nintoki aibung\u2019 nkomom ino,"
+        },
+        "43": {
+            "saq": "naa kore ake nkoitei nanere puworinye koon naa tununtukoo te saiboni."
+        },
+        "44": {
+            "saq": "Keidim ale kukuu nowuon tee ntokitin tenkata naado"
+        },
+        "45": {
+            "saq": "saiboni"
+        },
+        "46": {
+            "saq": "baa naanere nias"
+        },
+        "47": {
+            "saq": "Naaku nia peishiakino tininjipaa kunna"
+        },
+        "48": {
+            "saq": "ntuko te saiboni metabaki ene"
+        },
+        "49": {
+            "saq": "Saiboni"
+        },
+        "50": {
+            "saq": "laideloki"
+        },
+        "51": {
+            "saq": "Mimbung\u2019 nkomoom ino (tanaa nkomoom elikae). Kore tanaa iyeu nimbung\u2019, ntuko angas nkaik te saiboni katukul."
+        },
+        "52": {
+            "saq": "Nkata naitosha piirany \u201cmpari eunoto eng\u2019ida\u201d nkatitin are."
+        },
+        "53": {
+            "saq": "atwa laisotok"
+        },
+        "54": {
+            "saq": "te sekondi tikitam"
+        },
+        "55": {
+            "saq": "Terishet lkumojik"
+        },
+        "56": {
+            "saq": "Ntuko oriong enkaik inono"
+        },
+        "57": {
+            "saq": "Nyo eji katukul?"
+        },
+        "58": {
+            "saq": "tenaaku aikata imbung\u2019a, muure. Ntuko ake adake nkaik inono te saiboni."
+        },
+        "59": {
+            "saq": "Kore atoki, tanaa keidimai, miimbung\u2019 oriong enia aanka ninchopito te nkutuk."
+        },
+        "60": {
+            "saq": "ldarat"
+        },
+        "61": {
+            "saq": "Kobulu naa ale kukuu taatua nia anka tininchop nkata naado."
+        },
+        "62": {
+            "saq": "Nturai nia kitambaa enkutuk tenejing lchapu. Minterepaa mpari inchopito!"
+        },
+        "63": {
+            "saq": "taashishere lo kijiko liworie ndaa"
+        },
+        "64": {
+            "saq": "nkerai"
+        },
+        "65": {
+            "saq": "Papa"
+        },
+        "66": {
+            "saq": "Yeyio"
+        },
+        "67": {
+            "saq": "meata ltungani lemeata taulo enye"
+        },
+        "68": {
+            "saq": "Eming\u2019ar ndaa, mpilipili, lkoombeni anaa sii taulo."
+        },
+        "69": {
+            "saq": "Meata nunko tiniseyie nkomoom ino te laideloki abaki tinitasaana."
+        },
+        "70": {
+            "saq": "tanaa keidimai, tobolie tanaa nkenie milangoni laideloki tanaa sipi aaku mara nkaik."
+        },
+        "71": {
+            "saq": "nkang\u2019"
+        },
+        "72": {
+            "saq": "oo tinishukunye ichomo boo."
+        },
+        "73": {
+            "saq": "ewon eitu inya ndaa."
+        },
+        "74": {
+            "saq": "Ntuko nkaik inono te saiboni nkata pooki."
+        },
+        "75": {
+            "saq": "kore nikindipie,"
+        },
+        "76": {
+            "saq": "saiboni"
+        },
+        "77": {
+            "saq": "Airita aate, pookin."
+        },
+        "78": {
+            "saq": "Airita aate, pookin."
+        },
+        "79": {
+            "saq": "saiboni"
+        },
+        "80": {
+            "saq": "Read the articles for more tips!"
+        },
+        "81": {
+            "saq": "\u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "saq": "\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report. (Jan 25, 2020)\n"
+        },
+        "83": {
+            "saq": "\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion. (Jan 28,2020)\n"
+        },
+        "84": {
+            "saq": "Main references for medical info:"
+        },
+        "85": {
+            "saq": "Additional notes: Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences: lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references.\u00a0 https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation A PDF version of the comic is available for free download here: https://gumroad.com/weimankowart\u00a0\nSharing Guidelines This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: 1) No edits to the comics is allowed in any way when sharing. 2) Comics cannot be used for any commercial project 3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\nFor all other uses, please send a request in to: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "saq": "Mbaa naipirita koronapairas"
+        },
+        "87": {
+            "eng": "",
+            "saq": ""
+        },
+        "88": {
+            "eng": "\u00a0SIL Africa Area",
+            "saq": ""
+        },
+        "89": {
+            "eng": "Translated by Abednego Lolokuru",
+            "saq": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "saq": ""
+        },
+        "91": {
+            "eng": "",
+            "saq": ""
+        },
+        "92": {
+            "eng": "",
+            "saq": ""
+        },
+        "93": {
+            "eng": "",
+            "saq": ""
+        },
+        "94": {
+            "eng": "",
+            "saq": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\n\u00a0SIL Africa Area\nTranslated by Abednego Lolokuru\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "saq": "Mbaa naipirita koronapairas\n\nTranslated by Abednego Lolokuru\n\nKeatae ntoki nabo ake neyiere niyelou neiko Koronapairas\ntenarasaa\nNkutuk\nNkume\nNkonyek\ntenejing\u2019 atua\nltung\u2019ani bioto\nLtung\u2019ani omwai\nKerasaa ana pairas tanaa kore kullo ldarat\nTalama: kore tinilamari riot are naaku mikibaki naa lolo darat.\nNabo\nriot are\nottisia!\nNaaku tinidol ltung\u2019ani egira allwa/ nesing\u2019/omwai indim nigelu aas:\nNchoo nanka napuyiapui. Keidim nolwuaki ankata esing\u2019aki nia anka neirita lkule enyikita ninye.\nare\nAshe oleng \u201caisugsug\u201d\nTanaa\nKeidim aikata naaku momwai, koon ake eripito.\nKore ltung\u2019ana etarasutua keidim neitarasaa abaki tanaa melio ajo komoyia ninche.\nKore te nkidapash, keisupat piilam ltururi amu miyiolo naa aikata ajo ng\u2019ae omwai.\nnjipet\nLtung\u2019ani bioto\nLgiitan le nkari enkima\nng\u2019oji naironyi te ntoki nailiepeki nkurupani\nTishu\nlkoombeni\nMashinini\nankata siake oriong enia anka napuyiapui enkutuk\nnkasi enkurupani\nntoki ekompita\nLkalamu\nNkubung\u2019at emilanko\nNkaik enche\nKake kore aikata keidim nkamulak eltung\u2019ani omwai nodoki ntokitin...\nindimdim nimwai pookin\ntanaa nkomom eltung\u2019ani linchi\nning\u2019ing\u2019i nkonyek\nNaa kore tinishomo niimbong\u2019 kunna tokitin aikata imiyiolo, nintoki aibung\u2019 nkomom ino,\nnaa kore ake nkoitei nanere puworinye koon naa tununtukoo te saiboni.\nKeidim ale kukuu nowuon tee ntokitin tenkata naado\nsaiboni\nbaa naanere nias\nNaaku nia peishiakino tininjipaa kunna\nntuko te saiboni metabaki ene\nSaiboni\nlaideloki\nMimbung\u2019 nkomoom ino (tanaa nkomoom elikae). Kore tanaa iyeu nimbung\u2019, ntuko angas nkaik te saiboni katukul.\nNkata naitosha piirany \u201cmpari eunoto eng\u2019ida\u201d nkatitin are.\natwa laisotok\nte sekondi tikitam\nTerishet lkumojik\nNtuko oriong enkaik inono\nNyo eji katukul?\ntenaaku aikata imbung\u2019a, muure. Ntuko ake adake nkaik inono te saiboni.\nKore atoki, tanaa keidimai, miimbung\u2019 oriong enia aanka ninchopito te nkutuk.\nldarat\nKobulu naa ale kukuu taatua nia anka tininchop nkata naado.\nNturai nia kitambaa enkutuk tenejing lchapu. Minterepaa mpari inchopito!\ntaashishere lo kijiko liworie ndaa\nnkerai\nPapa\nYeyio\nmeata ltungani lemeata taulo enye\nEming\u2019ar ndaa, mpilipili, lkoombeni anaa sii taulo.\nMeata nunko tiniseyie nkomoom ino te laideloki abaki tinitasaana.\ntanaa keidimai, tobolie tanaa nkenie milangoni laideloki tanaa sipi aaku mara nkaik.\nnkang\u2019\noo tinishukunye ichomo boo.\newon eitu inya ndaa.\nNtuko nkaik inono te saiboni nkata pooki.\nkore nikindipie,\nsaiboni\nAirita aate, pookin.\nAirita aate, pookin.\nsaiboni\nRead the articles for more tips!\n\u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report. (Jan 25, 2020)\n\n\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion. (Jan 28,2020)\n\nMain references for medical info:\nAdditional notes: Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences: lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references.\u00a0 https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation A PDF version of the comic is available for free download here: https://gumroad.com/weimankowart\u00a0\nSharing Guidelines This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: 1) No edits to the comics is allowed in any way when sharing. 2) Comics cannot be used for any commercial project 3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\nFor all other uses, please send a request in to: comicsforgood@gmail.com\nMbaa naipirita koronapairas\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "saq",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, SIL Africa Area",
+    "country": "Kenya",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "QDBl086BxD"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "saq": "Samburu"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "Do not change the text of this work, but you may translate it, adapt it into other forms, and distribute it for non-commercial purposes. You must keep the copyrights and credits for the author and illustrator Weiman Kou.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "Mbaa naipirita koronapairas",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

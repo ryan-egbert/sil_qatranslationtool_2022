@@ -1,0 +1,164 @@
+{
+    "allTitles": "{\"en\":\"CANCION DEL CORONAVIRUS\",\"es\":\"CANCI\u00d3N DEL CORONAVIRUS\"}",
+    "author": null,
+    "bookInstanceId": "16576858-6e44-482e-ac11-cf79828f536a",
+    "bookLineage": "1a648b00-1ec0-46a7-be11-b0dec22fa0f4,89e61e07-a0e9-4b65-ae34-9e708ac82b7a",
+    "bookSamples": {
+        "0": {
+            "csn": "",
+            "eng": "CANCION DEL CORONAVIRUS",
+            "hds": "",
+            "spa": "CANCI\u00d3N DEL CORONAVIRUS"
+        },
+        "1": {
+            "csn": "",
+            "spa": ""
+        },
+        "2": {
+            "csn": "",
+            "spa": ""
+        },
+        "3": {
+            "csn": "",
+            "spa": ""
+        },
+        "4": {
+            "csn": "",
+            "eng": "CANCION DEL CORONAVIRUS",
+            "hds": "",
+            "spa": "CANCI\u00d3N DEL CORONAVIRUS"
+        },
+        "5": {
+            "csn": "Lengua de Se\u00f1as Colombiana: Sebastian Nu\u00f1ez\nFilmaci\u00f3n: Eudes de Armas y Kelly Rojas\nEdici\u00f3n: Luis Forero, Sebastian Nu\u00f1ez\nIlustraci\u00f3n: Te\u00f3filo Padilla\nSubtitulaci\u00f3n: Xiomara Mart\u00ednez",
+            "spa": ""
+        },
+        "6": {
+            "csn": "Agradecemos a los generosos donantes que hicieron posible este proyecto.",
+            "spa": ""
+        },
+        "7": {
+            "csn": "",
+            "spa": ""
+        },
+        "8": {
+            "csn": "",
+            "spa": ""
+        },
+        "9": {
+            "csn": "",
+            "spa": ""
+        },
+        "10": {
+            "csn": "",
+            "spa": "\u00a0Canci\u00f3n del Coronavirus"
+        },
+        "11": {
+            "csn": "",
+            "spa": "\u00a0Canci\u00f3n del Coronavirus"
+        },
+        "12": {
+            "csn": "",
+            "spa": "Miramos por todos lados escuelas cerradas y trabajos tambi\u00e9n."
+        },
+        "13": {
+            "csn": "",
+            "spa": "Los ni\u00f1os y ni\u00f1as no entienden y siguen sin entender."
+        },
+        "14": {
+            "csn": "",
+            "spa": "La esperanza es nuestro futuro si siempre pensamos en la oraci\u00f3n."
+        },
+        "15": {
+            "csn": "",
+            "spa": "\u00a0Lavarse las manos, usar la mascarilla es as\u00ed como las familias y amigos deben estar. Quedarse en casa es mantenerse protegido."
+        },
+        "16": {
+            "csn": "",
+            "spa": "Es tiempo de ver a la familia, abrazarnos con amor y compartir juntos actividades con amor, no sentir temor sino abrazarnos nuevamente como familia."
+        },
+        "17": {
+            "csn": "",
+            "spa": "Este es el tiempo de quedarse en casa, este es el tiempo de quedarse en casa."
+        },
+        "18": {
+            "csn": "",
+            "spa": "Lavarse las manos, usar la mascarilla correctamente es cuidarse a s\u00ed mismo y a la familia; y al ver a los amigos un saludo cordial nos daremos pu\u00f1o a pu\u00f1o y codo a codo. Es tiempo de seguir esperando, de seguir esperando."
+        },
+        "19": {
+            "csn": "",
+            "spa": "Este es el tiempo de quedarse en casa, este es el tiempo de quedarse en casa."
+        },
+        "20": {
+            "csn": "",
+            "spa": ""
+        },
+        "21": {
+            "csn": "",
+            "spa": ""
+        }
+    },
+    "bookText": {
+        "csn": "\n\n\n\n\nLengua de Se\u00f1as Colombiana: Sebastian Nu\u00f1ez\nFilmaci\u00f3n: Eudes de Armas y Kelly Rojas\nEdici\u00f3n: Luis Forero, Sebastian Nu\u00f1ez\nIlustraci\u00f3n: Te\u00f3filo Padilla\nSubtitulaci\u00f3n: Xiomara Mart\u00ednez\nAgradecemos a los generosos donantes que hicieron posible este proyecto.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "eng": "CANCION DEL CORONAVIRUS\n\n\n\nCANCION DEL CORONAVIRUS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "spa": "CANCI\u00d3N DEL CORONAVIRUS\n\n\n\nCANCI\u00d3N DEL CORONAVIRUS\n\n\n\n\n\n\u00a0Canci\u00f3n del Coronavirus\n\u00a0Canci\u00f3n del Coronavirus\nMiramos por todos lados escuelas cerradas y trabajos tambi\u00e9n.\nLos ni\u00f1os y ni\u00f1as no entienden y siguen sin entender.\nLa esperanza es nuestro futuro si siempre pensamos en la oraci\u00f3n.\n\u00a0Lavarse las manos, usar la mascarilla es as\u00ed como las familias y amigos deben estar. Quedarse en casa es mantenerse protegido.\nEs tiempo de ver a la familia, abrazarnos con amor y compartir juntos actividades con amor, no sentir temor sino abrazarnos nuevamente como familia.\nEste es el tiempo de quedarse en casa, este es el tiempo de quedarse en casa.\nLavarse las manos, usar la mascarilla correctamente es cuidarse a s\u00ed mismo y a la familia; y al ver a los amigos un saludo cordial nos daremos pu\u00f1o a pu\u00f1o y codo a codo. Es tiempo de seguir esperando, de seguir esperando.\nEste es el tiempo de quedarse en casa, este es el tiempo de quedarse en casa.\n\n"
+    },
+    "brandingProjectName": "Local-Community",
+    "contentLanguages": [
+        "spa",
+        "csn",
+        "eng"
+    ],
+    "copyright": null,
+    "country": "",
+    "credits": "",
+    "district": "",
+    "features": [
+        "signLanguage",
+        "signLanguage:csn"
+    ],
+    "folio": false,
+    "imported-book-source-url": null,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "asUh6dYuEO"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "L5o89HLV0w"
+        }
+    ],
+    "language-display-names": {
+        "csn": "LENGUA DE SE\u00d1AS COLOMBIANA (LSC)",
+        "en": "Ingl\u00e9s",
+        "es": "Spanish",
+        "hds": "Honduran Sign Language"
+    },
+    "languages": [],
+    "license": "cc-by-nc",
+    "licenseNotes": "",
+    "originalPublisher": "",
+    "originalTitle": "CANCION DEL CORONAVIRUS",
+    "page-number-style": "Decimal",
+    "pageCount": 16,
+    "phashOfFirstContentImage": null,
+    "province": "",
+    "publisher": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": null,
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "CANCI\u00d3N DEL CORONAVIRUS",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

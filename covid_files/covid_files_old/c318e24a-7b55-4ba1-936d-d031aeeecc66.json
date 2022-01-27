@@ -1,0 +1,263 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "c318e24a-7b55-4ba1-936d-d031aeeecc66",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Ramu and Sunil's Charcha\n(Why, God, COVID-19?)",
+  "allTitles": "{\"en\":\"Ramu and Sunil's Charcha\n(Why, God, COVID-19?)\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8B8C1838-64E3-4989-93AB-251F960907FC",
+  "downloadSource": "herold_rajan@sall.com/c318e24a-7b55-4ba1-936d-d031aeeecc66",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": "Please contact me for any clarifcation herold_rajan@sa(download book to read full email address)",
+  "copyright": "Copyright \u00a9 2020, Herald Rajan",
+  "credits": "Most of the illustrations in this booklet were done by Ashika Herold Gracelyn\r\n\r\nFew Images were taken from\u00a0 \r\nhttp://www.freebibleimages.org/ those\u00a0 images are free for you to use in teaching. Conditions on the reuse of the images are defined in the Terms of Download in the site mentioned here.",
+  "tags": [],
+  "pageCount": 24,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "Please feel to adapt this content to your language situation. We encourage you to use your own illustration which is appropriate for your cultural context, except for Biblical illustrations. please don't change the intended theology of the author. Give credit for the contributor wherever it is used. ",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": false,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "l289IWjAI1"
+  },
+  "tools": [
+    {
+      "name": "imageDescription",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "imageDescriptionTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "en": "(Why, God, COVID-19?)"
+  },
+  "3": {
+    "en": "\u00a0\u00a0\u00a0\u00a0 God, COVID-19?"
+  },
+  "5": {
+    "en": "Author: Herald Rajan, selected illustration by Ashika Herald Gracelyn"
+  },
+  "8": {
+    "en": "(Why, God, COVID-19?)"
+  },
+  "10": {
+    "en": "written by Herald Rajan"
+  },
+  "12": {
+    "en": "Selcted illustration by Ashika Herald Gracelyn"
+  },
+  "13": {
+    "en": "Wrtten by Herald Rajan"
+  },
+  "15": {
+    "en": "Few Images were taken from\u00a0 http://www.freebibleimages.org/ those\u00a0 images are free for you to use in teaching. Conditions on the reuse of the images are defined in the Terms of Download in the site mentioned here."
+  },
+  "17": {
+    "en": "",
+    "z": ""
+  },
+  "18": {
+    "en": "",
+    "z": ""
+  },
+  "19": {
+    "en": "Ramu: Hello Sunil, How are you, Are you okay ,,, you are looking sad today.",
+    "z": ""
+  },
+  "20": {
+    "en": "Ramu: Hello Sunil, How are you, Are you okay ,,, you are looking sad today.",
+    "z": ""
+  },
+  "21": {
+    "en": "Ramu: Let me answer your questions, with the\u00a0 story of Job,",
+    "z": ""
+  },
+  "22": {
+    "en": "Ramu: Let me answer your questions, with the\u00a0 story of Job,",
+    "z": ""
+  },
+  "23": {
+    "en": ""
+  },
+  "24": {
+    "en": "",
+    "z": ""
+  },
+  "25": {
+    "en": "",
+    "z": ""
+  },
+  "26": {
+    "en": "",
+    "z": ""
+  },
+  "27": {
+    "en": "",
+    "z": ""
+  },
+  "28": {
+    "en": ""
+  },
+  "29": {
+    "en": ""
+  },
+  "30": {
+    "en": "8\u00a0\u201cThe gardener answered, \u2018Sir, give it one more chance. Leave it another year, and I\u2019ll give it special attention and plenty of fertilizer.\u00a09\u00a0If we get figs next year, fine. If not, then you can cut it down.\u2019\u201d Sunil, What answer did Jesus give to\u00a0 his disciples for these two unfortunate incidents in which people died?",
+    "z": ""
+  },
+  "31": {
+    "en": "8\u00a0\u201cThe gardener answered, \u2018Sir, give it one more chance. Leave it another year, and I\u2019ll give it special attention and plenty of fertilizer.\u00a09\u00a0If we get figs next year, fine. If not, then you can cut it down.\u2019\u201d Sunil, What answer did Jesus give to\u00a0 his disciples for these two unfortunate incidents in which people died?",
+    "z": ""
+  },
+  "32": {
+    "en": ""
+  },
+  "33": {
+    "en": "Ramu: Yes, We understand from Bible that suffering and sickness are not what God has intended for his creation. The mission of God is to redeem and restore the whole of creation and the church. God wants each one of us repent from our sins and come back to God. He wants each one us to be a blessings to the world.\u00a0 God wants Christians to see those suffering from calamities and death with love and compassion, not with judgmental eyes.",
+    "z": ""
+  },
+  "34": {
+    "en": "Ramu: Yes, We understand from Bible that suffering and sickness are not what God has intended for his creation. The mission of God is to redeem and restore the whole of creation and the church. God wants each one of us repent from our sins and come back to God. He wants each one us to be a blessings to the world.\u00a0 God wants Christians to see those suffering from calamities and death with love and compassion, not with judgmental eyes.",
+    "z": ""
+  },
+  "35": {
+    "en": "",
+    "z": ""
+  },
+  "36": {
+    "en": "",
+    "z": ""
+  },
+  "37": {
+    "en": ""
+  },
+  "38": {
+    "en": "Ramu: Not at all, we need to care for ourselves and our family. We should take care of our health. We nee to wear mask, keep physical distance and wash our hands with soap frequently. Also as Christians we should look for opportunities to help the poor and needy and others. We shouldn't be only caring for ourselves. Thus we can be light and salt to others as God\u2019s witnesses.",
+    "z": ""
+  },
+  "39": {
+    "en": "Ramu: Not at all, we need to care for ourselves and our family. We should take care of our health. We nee to wear mask, keep physical distance and wash our hands with soap frequently. Also as Christians we should look for opportunities to help the poor and needy and others. We shouldn't be only caring for ourselves. Thus we can be light and salt to others as God\u2019s witnesses.",
+    "z": ""
+  },
+  "40": {
+    "en": "",
+    "z": ""
+  },
+  "41": {
+    "en": "",
+    "z": ""
+  },
+  "42": {
+    "en": "",
+    "z": ""
+  },
+  "43": {
+    "en": "",
+    "z": ""
+  },
+  "44": {
+    "en": "Ramu: When Adam and Eve sinned they brought death and evil into the world, which means everyone will experience the negative effects of that. Viruses and other Pandemics plaguing and killing those who inhabit the earth are an example of this sad reality.",
+    "z": ""
+  },
+  "45": {
+    "en": "Ramu: When Adam and Eve sinned they brought death and evil into the world, which means everyone will experience the negative effects of that. Viruses and other Pandemics plaguing and killing those who inhabit the earth are an example of this sad reality.",
+    "z": ""
+  },
+  "46": {
+    "en": "Ramu: Sunil, When Adam and Eve sinned they brought death and evil into the world, which means everyone will experience the negative effects of their sin. Human beings became selfish and they became greedy.",
+    "z": ""
+  },
+  "47": {
+    "en": "Ramu: Sunil, When Adam and Eve sinned they brought death and evil into the world, which means everyone will experience the negative effects of their sin. Human beings became selfish and they became greedy.",
+    "z": ""
+  },
+  "48": {
+    "en": "Ramu:\u00a0 We live in a broken world. This brokenness is evident whenever there is injustice, poverty, corruption, greed, violence and environment damage. As hard as it is to hear, the outbreak of Covid-19 is not a \u2018natural disaster\u2019. Rather it is a disaster of our own making. We as human abused and excessively used the forest and brought the wild animals to city. The virus from animals are transmitted to human when they come to close these Forest animals.",
+    "z": ""
+  },
+  "49": {
+    "en": "Ramu:\u00a0 We live in a broken world. This brokenness is evident whenever there is injustice, poverty, corruption, greed, violence and environment damage. As hard as it is to hear, the outbreak of Covid-19 is not a \u2018natural disaster\u2019. Rather it is a disaster of our own making. We as human abused and excessively used the forest and brought the wild animals to city. The virus from animals are transmitted to human when they come to close these Forest animals.",
+    "z": ""
+  },
+  "50": {
+    "en": "Sunil: Ramu, Widespread conflicts and war in the world, a plague of locusts spreading across Africa, even in India, flooding around the world and COVID-19 pandemic. Surely these are the last signs of the end times, are they not?",
+    "z": ""
+  },
+  "51": {
+    "en": "Sunil: Ramu, Widespread conflicts and war in the world, a plague of locusts spreading across Africa, even in India, flooding around the world and COVID-19 pandemic. Surely these are the last signs of the end times, are they not?",
+    "z": ""
+  },
+  "52": {
+    "en": ""
+  },
+  "53": {
+    "en": "Ramu: Sunil, If there\u2019s one thing that we can say for certain, Jesus himself did not know when the end times would be. Matthew 24:36 \u201cHowever, no one knows the day or hour when these things will happen, not even the angels in heaven or the Son himself. Only the Father knows.\u201d The signs which are fortold in the people are happending, but we cant claim Jesus is going come to day or tomorrow, but we need t get prepared for his coming.",
+    "z": ""
+  },
+  "54": {
+    "en": "Ramu: Sunil, If there\u2019s one thing that we can say for certain, Jesus himself did not know when the end times would be. Matthew 24:36 \u201cHowever, no one knows the day or hour when these things will happen, not even the angels in heaven or the Son himself. Only the Father knows.\u201d The signs which are fortold in the people are happending, but we cant claim Jesus is going come to day or tomorrow, but we need t get prepared for his coming.",
+    "z": ""
+  },
+  "55": {
+    "en": "Sunil: That\u2019s right, who are we to try and say when the end will come now? Thanks Ramu for explaining it so well. Now I understand my responsibility as a Christian better. Let\u2019s regularly meet together, share and pray for the COVID-19 situation. Thanks for taking time to explain me everything.",
+    "z": ""
+  },
+  "56": {
+    "en": "Sunil: That\u2019s right, who are we to try and say when the end will come now? Thanks Ramu for explaining it so well. Now I understand my responsibility as a Christian better. Let\u2019s regularly meet together, share and pray for the COVID-19 situation. Thanks for taking time to explain me everything.",
+    "z": ""
+  },
+  "57": {
+    "en": "",
+    "z": ""
+  },
+  "58": {
+    "en": "",
+    "z": ""
+  }
+}

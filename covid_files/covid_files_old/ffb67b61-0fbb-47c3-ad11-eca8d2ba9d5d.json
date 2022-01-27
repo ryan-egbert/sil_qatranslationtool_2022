@@ -1,0 +1,525 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "ffb67b61-0fbb-47c3-ad11-eca8d2ba9d5d",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Amen Pek Dapat Et nu Hospitel:\nIcare Hiha-jaga Mai de Nyik COVID-19",
+  "allTitles": "{\"en\":\"Where There Is No Hospital:\nA Home Care Guide for People with COVID-19\",\"sea\":\"Amen Pek Dapat Et nu Hospitel:\nIcare Hiha-jaga Mai de Nyik COVID-19\"}",
+  "originalTitle": "Where There Is No Hospital: A Home Care Guide for People with COVID-19",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,879751a4-7ed4-4be8-ae43-c4b4e9a6a2f9",
+  "downloadSource": "adif_bahyit@sil.org/ffb67b61-0fbb-47c3-ad11-eca8d2ba9d5d",
+  "license": "cc-by-nc",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2021, LD SIL",
+  "credits": "Mong kebenaran untok bitejemah ju bop COVID-19 Home Based Care: How to do it best for the patient and the family, 2020, Difaem - German Institute for Medical Mission, www.difaem.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBop bibeh bedasarkan sumber maklumat mengenai Kesihatan Awam bagi tujuan pendidikan taleh. Bop adeh pek sesuei bipejadi sebagei nasihat perubatan. Ma-ma taleh soalan bekenaan hal-hal di bipasal ku padeh, sila behubong ru Pegawai Kesihatan.\r\n",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 26,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "ift1GrGVn5"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "\u2022 This book tells how to give home-based care while also protecting others in the household and community who are not sick. COVID-19 is a serious illness, but there are ways to help the sick person be more comfortable, and most survive the illness.",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Malaysia",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "MCzwTjUtFV"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": "",
+  "originalPublisher": "",
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "sea": "Semai"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "sea": "Icare Hiha-jaga Mai de Nyik COVID-19",
+    "en": "A Home Care Guide for People with COVID-19"
+  },
+  "2": {
+    "sea": "Icare Hiha-jaga Mai de Nyik COVID-19",
+    "en": "A Home Care Guide for People with COVID-19"
+  },
+  "12": {
+    "sea": "Icare Hiha-jaga Mai de Nyik COVID-19",
+    "en": "A Home Care Guide for People with COVID-19"
+  },
+  "13": {
+    "sea": "Icare Hiha-jaga Mai de Nyik COVID-19",
+    "en": "A Home Care Guide for People with COVID-19"
+  },
+  "16": {
+    "en": "Gambar bilukes ya Mark Marcuson, \u00a9 2021 SIL International. CC BY-NC 4.0."
+  },
+  "24": {
+    "en": ""
+  },
+  "27": {
+    "sea": "",
+    "en": ""
+  },
+  "28": {
+    "sea": "",
+    "en": ""
+  },
+  "29": {
+    "sea": "",
+    "en": ""
+  },
+  "30": {
+    "sea": "",
+    "en": ""
+  },
+  "31": {
+    "sea": "Iisi",
+    "en": "Table of Contents"
+  },
+  "32": {
+    "sea": "Iisi",
+    "en": "Table of Contents"
+  },
+  "33": {
+    "sea": "Pekare Utama ................................................................... 18",
+    "en": "",
+    "z": ""
+  },
+  "34": {
+    "sea": "Pekare Utama ................................................................... 18",
+    "en": "",
+    "z": ""
+  },
+  "35": {
+    "sea": "Pekare Utama ................................................................... 18",
+    "en": "",
+    "z": ""
+  },
+  "36": {
+    "sea": "Pengenalan ha Bop Panduan Adeh",
+    "en": "Introduction to this Guide"
+  },
+  "37": {
+    "sea": "Pengenalan ha Bop Panduan Adeh",
+    "en": "Introduction to this Guide"
+  },
+  "38": {
+    "sea": "",
+    "en": "\u2022 Your country/government will have guidelines that should be followed.",
+    "z": ""
+  },
+  "39": {
+    "sea": "",
+    "en": "\u2022 Your country/government will have guidelines that should be followed.",
+    "z": ""
+  },
+  "40": {
+    "sea": "",
+    "en": "\u2022 Your country/government will have guidelines that should be followed.",
+    "z": ""
+  },
+  "41": {
+    "sea": "",
+    "en": "Basic Information about COVID-19"
+  },
+  "42": {
+    "sea": "",
+    "en": "Basic Information about COVID-19"
+  },
+  "43": {
+    "sea": "Pekare utame de hot hibeh untok hiha-elak ju COVID-19, pekare de sama ajehleh juga hot hibeh amen hiha-jaga mai nyik ku padeg.",
+    "en": "The main points for avoiding COVID-19 are also the main points for Home-based Care.",
+    "z": ""
+  },
+  "44": {
+    "sea": "Pekare utame de hot hibeh untok hiha-elak ju COVID-19, pekare de sama ajehleh juga hot hibeh amen hiha-jaga mai nyik ku padeg.",
+    "en": "The main points for avoiding COVID-19 are also the main points for Home-based Care.",
+    "z": ""
+  },
+  "45": {
+    "sea": "Pekare utame de hot hibeh untok hiha-elak ju COVID-19, pekare de sama ajehleh juga hot hibeh amen hiha-jaga mai nyik ku padeg.",
+    "en": "The main points for avoiding COVID-19 are also the main points for Home-based Care.",
+    "z": ""
+  },
+  "46": {
+    "sea": "Sentiase hijarak diri 2 meter ju mai kilek.",
+    "en": "Keep 2 meters distance between people."
+  },
+  "47": {
+    "sea": "Sentiase hijarak diri 2 meter ju mai kilek.",
+    "en": "Keep 2 meters distance between people."
+  },
+  "48": {
+    "sea": "Log tuntop moh ru empag mase engkek mong ku tempat mai jengoi.",
+    "en": "Wear a mask when in a shared space."
+  },
+  "49": {
+    "sea": "Log tuntop moh ru empag mase engkek mong ku tempat mai jengoi.",
+    "en": "Wear a mask when in a shared space."
+  },
+  "50": {
+    "sea": "Sentiase suj teg. Teg de berseh aguk sentoh renes atau tuntop moh ru empag.",
+    "en": "Wash hands frequently and don\u2019t touch your face or mask"
+  },
+  "51": {
+    "sea": "Sentiase suj teg. Teg de berseh aguk sentoh renes atau tuntop moh ru empag.",
+    "en": "Wash hands frequently and don\u2019t touch your face or mask"
+  },
+  "52": {
+    "sea": "Hamapen bagei ajeh, mong juga mai de naikena Covid-19 tapi pek nainyik ru pek mong tanda-tanda nyaknik de bipasal ajeh.",
+    "en": "People who are sick with the virus may not show all the signs."
+  },
+  "53": {
+    "sea": "Hamapen bagei ajeh, mong juga mai de naikena Covid-19 tapi pek nainyik ru pek mong tanda-tanda nyaknik de bipasal ajeh.",
+    "en": "People who are sick with the virus may not show all the signs."
+  },
+  "54": {
+    "sea": "Mai de ya mong tanda-tanda nyaknik de bagei ajeh, enai hotleh biswap tes. Mai de nyik mesti hot naipasal nu mai kilek dea mai kilek pen buleh naibejaga-jaga ha tanda-tanda nyaknik Covid-19 ku diri liknai sendiri. Mai de nyik hotleh naiaseg diri liknai ju mai kilek 14 arik iluniu dea nyaknik enai ajeh pek jekjog nu mai kilek.",
+    "en": "If someone has any of these signs, they should be tested, if possible. It is important to tell other people who they have been close to about their illness so those people can also watch for signs of illness. Those people should also stay away from other people for fourteen days to avoid spreading the illness.",
+    "z": ""
+  },
+  "55": {
+    "sea": "Mai de ya mong tanda-tanda nyaknik de bagei ajeh, enai hotleh biswap tes. Mai de nyik mesti hot naipasal nu mai kilek dea mai kilek pen buleh naibejaga-jaga ha tanda-tanda nyaknik Covid-19 ku diri liknai sendiri. Mai de nyik hotleh naiaseg diri liknai ju mai kilek 14 arik iluniu dea nyaknik enai ajeh pek jekjog nu mai kilek.",
+    "en": "If someone has any of these signs, they should be tested, if possible. It is important to tell other people who they have been close to about their illness so those people can also watch for signs of illness. Those people should also stay away from other people for fourteen days to avoid spreading the illness.",
+    "z": ""
+  },
+  "56": {
+    "sea": "Mai de ya mong tanda-tanda nyaknik de bagei ajeh, enai hotleh biswap tes. Mai de nyik mesti hot naipasal nu mai kilek dea mai kilek pen buleh naibejaga-jaga ha tanda-tanda nyaknik Covid-19 ku diri liknai sendiri. Mai de nyik hotleh naiaseg diri liknai ju mai kilek 14 arik iluniu dea nyaknik enai ajeh pek jekjog nu mai kilek.",
+    "en": "If someone has any of these signs, they should be tested, if possible. It is important to tell other people who they have been close to about their illness so those people can also watch for signs of illness. Those people should also stay away from other people for fourteen days to avoid spreading the illness.",
+    "z": ""
+  },
+  "57": {
+    "sea": "Nenumom sengoi ihat senang kaha-og inyaknik ajeh kijekjog nu mai kilek ku mase mula-mula kinyik. Mong mai de nairasa pek memerip terok nainyik, tapi enai lekat buleh naiog nyaknik enai ajeh kijekjog nu mai de senang naiha-nyik terok.",
+    "en": "People are most contagious when they first feel they are getting sick. Many people have very mild symptoms, but they can still spread the illness to other people, who may get very sick."
+  },
+  "58": {
+    "sea": "Nenumom sengoi ihat senang kaha-og inyaknik ajeh kijekjog nu mai kilek ku mase mula-mula kinyik. Mong mai de nairasa pek memerip terok nainyik, tapi enai lekat buleh naiog nyaknik enai ajeh kijekjog nu mai de senang naiha-nyik terok.",
+    "en": "People are most contagious when they first feel they are getting sick. Many people have very mild symptoms, but they can still spread the illness to other people, who may get very sick."
+  },
+  "59": {
+    "sea": "Icare Sengoi Sihat Naijaga Diri ku Padeg",
+    "en": "Home Care for Well People"
+  },
+  "60": {
+    "sea": "Icare Sengoi Sihat Naijaga Diri ku Padeg",
+    "en": "Home Care for Well People"
+  },
+  "61": {
+    "sea": "Mai kilek de pek naijaga ha mai de nyik, de mong ku kateh deg de sama ajeh hotleh pek naiperek nu sengoi de nyik. Enai juga hotleh selalu naisuj teg enai ya sabon, ru pek sentoh renes liknai. Enai hotleh lailog tuntop moh ru empag amen enai mong ku tempat atau ku bilek mai de nyik ajeh.",
+    "en": "Everyone else in the household should stay away from the sick person, wash their hands often, and avoid touching their faces. They should wear masks when they are in any area where the sick person goes.",
+    "z": ""
+  },
+  "62": {
+    "sea": "Mai kilek de pek naijaga ha mai de nyik, de mong ku kateh deg de sama ajeh hotleh pek naiperek nu sengoi de nyik. Enai juga hotleh selalu naisuj teg enai ya sabon, ru pek sentoh renes liknai. Enai hotleh lailog tuntop moh ru empag amen enai mong ku tempat atau ku bilek mai de nyik ajeh.",
+    "en": "Everyone else in the household should stay away from the sick person, wash their hands often, and avoid touching their faces. They should wear masks when they are in any area where the sick person goes.",
+    "z": ""
+  },
+  "63": {
+    "sea": "Mai kilek de pek naijaga ha mai de nyik, de mong ku kateh deg de sama ajeh hotleh pek naiperek nu sengoi de nyik. Enai juga hotleh selalu naisuj teg enai ya sabon, ru pek sentoh renes liknai. Enai hotleh lailog tuntop moh ru empag amen enai mong ku tempat atau ku bilek mai de nyik ajeh.",
+    "en": "Everyone else in the household should stay away from the sick person, wash their hands often, and avoid touching their faces. They should wear masks when they are in any area where the sick person goes.",
+    "z": ""
+  },
+  "64": {
+    "sea": "Mai kilek de pek ju pringak de sama buleh naien barang caknak ha pringak de nyik, ru naidek barang caknak ajeh ku luar pintu. Enai buleh naibelwal ju kennyak, tapi agukleh muj nu kateh deg.",
+    "en": "",
+    "z": ""
+  },
+  "65": {
+    "sea": "Mai kilek de pek ju pringak de sama buleh naien barang caknak ha pringak de nyik, ru naidek barang caknak ajeh ku luar pintu. Enai buleh naibelwal ju kennyak, tapi agukleh muj nu kateh deg.",
+    "en": "",
+    "z": ""
+  },
+  "66": {
+    "sea": "Mai kilek de pek ju pringak de sama buleh naien barang caknak ha pringak de nyik, ru naidek barang caknak ajeh ku luar pintu. Enai buleh naibelwal ju kennyak, tapi agukleh muj nu kateh deg.",
+    "en": "",
+    "z": ""
+  },
+  "67": {
+    "sea": "Amen Mai Kesihatan naihol madeg, enai hotleh nailog baju pelindog diri de lengkap.",
+    "en": "If Health workers visit, they should wear a coat, face and eye coverings."
+  },
+  "68": {
+    "sea": "Amen Mai Kesihatan naihol madeg, enai hotleh nailog baju pelindog diri de lengkap.",
+    "en": "If Health workers visit, they should wear a coat, face and eye coverings."
+  },
+  "69": {
+    "sea": "Care ha Jaga Mai de Nyik",
+    "en": "Home Care for the Sick Person or People"
+  },
+  "70": {
+    "sea": "Care ha Jaga Mai de Nyik",
+    "en": "Home Care for the Sick Person or People"
+  },
+  "71": {
+    "sea": "Buleh juga nailukes garisan jarak 2 meter dea garisan ajeh kitulog naiingat anaijaga jarak enai ju mai kilek.",
+    "en": "Drawing a two meter line to remind people to stay away can be helpful.",
+    "z": ""
+  },
+  "72": {
+    "sea": "Buleh juga nailukes garisan jarak 2 meter dea garisan ajeh kitulog naiingat anaijaga jarak enai ju mai kilek.",
+    "en": "Drawing a two meter line to remind people to stay away can be helpful.",
+    "z": ""
+  },
+  "73": {
+    "sea": "Buleh juga nailukes garisan jarak 2 meter dea garisan ajeh kitulog naiingat anaijaga jarak enai ju mai kilek.",
+    "en": "Drawing a two meter line to remind people to stay away can be helpful.",
+    "z": ""
+  },
+  "74": {
+    "sea": "Amen lebeh ju nuurag de nyik, enai buleh naigei ku tempat atau ku bilek de sama, ru pek perlu naigei aseg.",
+    "en": "If there is more than one ill person, they can all stay in the same area, and do not have to stay far apart.",
+    "z": ""
+  },
+  "75": {
+    "sea": "Amen lebeh ju nuurag de nyik, enai buleh naigei ku tempat atau ku bilek de sama, ru pek perlu naigei aseg.",
+    "en": "If there is more than one ill person, they can all stay in the same area, and do not have to stay far apart.",
+    "z": ""
+  },
+  "76": {
+    "sea": "Amen lebeh ju nuurag de nyik, enai buleh naigei ku tempat atau ku bilek de sama, ru pek perlu naigei aseg.",
+    "en": "If there is more than one ill person, they can all stay in the same area, and do not have to stay far apart.",
+    "z": ""
+  },
+  "77": {
+    "sea": "Tuntop moh ru empag de naipakei hotleh hari-hari bisuj ya sabon, ru bitil ku pengrag.",
+    "en": "",
+    "z": ""
+  },
+  "78": {
+    "sea": "Tuntop moh ru empag de naipakei hotleh hari-hari bisuj ya sabon, ru bitil ku pengrag.",
+    "en": "",
+    "z": ""
+  },
+  "79": {
+    "sea": "Tuntop moh ru empag de naipakei hotleh hari-hari bisuj ya sabon, ru bitil ku pengrag.",
+    "en": "",
+    "z": ""
+  },
+  "80": {
+    "sea": "Care ha Jaga Mai de Pek Nyik Terok",
+    "en": "Home Care for Someone with Mild Sickness"
+  },
+  "81": {
+    "sea": "Care ha Jaga Mai de Pek Nyik Terok",
+    "en": "Home Care for Someone with Mild Sickness"
+  },
+  "82": {
+    "sea": "Panadol buleh kitulog pekurang bengket berog ru penghot berog. Penteng untok engkejoi arahan ju kakitangan Kesihatan ha bageiharok icare ru merip ijengoi ha cak penglai ajeh.",
+    "en": "Paracetamol, Aspirin (ASA, Acetyl Salicylic Acid) and Ibuprofen are medications that can help with fever and pain. It is important to follow the directions of a health worker to give the correct amount of medicine.",
+    "z": ""
+  },
+  "83": {
+    "sea": "Panadol buleh kitulog pekurang bengket berog ru penghot berog. Penteng untok engkejoi arahan ju kakitangan Kesihatan ha bageiharok icare ru merip ijengoi ha cak penglai ajeh.",
+    "en": "Paracetamol, Aspirin (ASA, Acetyl Salicylic Acid) and Ibuprofen are medications that can help with fever and pain. It is important to follow the directions of a health worker to give the correct amount of medicine.",
+    "z": ""
+  },
+  "84": {
+    "sea": "Panadol buleh kitulog pekurang bengket berog ru penghot berog. Penteng untok engkejoi arahan ju kakitangan Kesihatan ha bageiharok icare ru merip ijengoi ha cak penglai ajeh.",
+    "en": "Paracetamol, Aspirin (ASA, Acetyl Salicylic Acid) and Ibuprofen are medications that can help with fever and pain. It is important to follow the directions of a health worker to give the correct amount of medicine.",
+    "z": ""
+  },
+  "85": {
+    "sea": "Telas nenumom ajeh kihol ju tandas atau ju bilek mahnuh, setiap pemukaan hotleh bisuj ya sabon, teutame ceknap pembuka pintu ru kui pili. Dijdij ajeh ru inerasi atau abat de biguna sebagei penyental hotleh selalu bisuj juga.\u00a0",
+    "en": "Whenever the person uses the toilet or bathroom, all surfaces should be wiped with disinfectant, especially door handles, water taps. Wash surfaces and wash cleaning cloths often."
+  },
+  "86": {
+    "sea": "Telas nenumom ajeh kihol ju tandas atau ju bilek mahnuh, setiap pemukaan hotleh bisuj ya sabon, teutame ceknap pembuka pintu ru kui pili. Dijdij ajeh ru inerasi atau abat de biguna sebagei penyental hotleh selalu bisuj juga.\u00a0",
+    "en": "Whenever the person uses the toilet or bathroom, all surfaces should be wiped with disinfectant, especially door handles, water taps. Wash surfaces and wash cleaning cloths often."
+  },
+  "87": {
+    "sea": "Care ha Jaga Mai de Nyik Terok",
+    "en": "Home Care for the Very Sick Person or People"
+  },
+  "88": {
+    "sea": "Care ha Jaga Mai de Nyik Terok",
+    "en": "Home Care for the Very Sick Person or People"
+  },
+  "89": {
+    "sea": "",
+    "en": "",
+    "z": ""
+  },
+  "90": {
+    "sea": "",
+    "en": "",
+    "z": ""
+  },
+  "91": {
+    "sea": "",
+    "en": "",
+    "z": ""
+  },
+  "92": {
+    "sea": "Amen engkek tepakse engkejaga mai de nyik ku padeg, adeh memerip pekara de buleh kitulog engkek:",
+    "en": "If you must care for a very ill person at home here are some ways to help:",
+    "z": ""
+  },
+  "93": {
+    "sea": "Amen engkek tepakse engkejaga mai de nyik ku padeg, adeh memerip pekara de buleh kitulog engkek:",
+    "en": "If you must care for a very ill person at home here are some ways to help:",
+    "z": ""
+  },
+  "94": {
+    "sea": "Amen engkek tepakse engkejaga mai de nyik ku padeg, adeh memerip pekara de buleh kitulog engkek:",
+    "en": "If you must care for a very ill person at home here are some ways to help:",
+    "z": ""
+  },
+  "95": {
+    "sea": "\u2022 Pek buleh mong bok-bok pen de besueg ha mai de nyik ajeh kerana hisengoh nyaknik ajeh doh jekjog nu enai, ru enai juga naiog nyaknik enai ajeh kijekjog nu mai kilek.",
+    "en": "\u2022 No visitors should come near the patient because they might get sick and spread the illness.",
+    "z": ""
+  },
+  "96": {
+    "sea": "\u2022 Pek buleh mong bok-bok pen de besueg ha mai de nyik ajeh kerana hisengoh nyaknik ajeh doh jekjog nu enai, ru enai juga naiog nyaknik enai ajeh kijekjog nu mai kilek.",
+    "en": "\u2022 No visitors should come near the patient because they might get sick and spread the illness.",
+    "z": ""
+  },
+  "97": {
+    "sea": "\u2022 Pek buleh mong bok-bok pen de besueg ha mai de nyik ajeh kerana hisengoh nyaknik ajeh doh jekjog nu enai, ru enai juga naiog nyaknik enai ajeh kijekjog nu mai kilek.",
+    "en": "\u2022 No visitors should come near the patient because they might get sick and spread the illness.",
+    "z": ""
+  },
+  "98": {
+    "sea": "Mai de nyik ajeh hotleh bidek ku bilek de mong aliran udare de bor, rek beng tingkap, atau ku tempat de buleh nairasa pinoi. Pinoi buleh kitulog nairasa senang naiha-belehem. Enai juga buleh bidek ku luar deg, janji taleh enai ajeh nyak ju mai kilek ru pek biperek ya bok-bok pen.",
+    "en": "Keep the patient in a well-ventilated room, near a window or where they can feel air blowing on them. Fresh air will help them breathe better. They can be outside too, if they won\u2019t be in contact with other people.",
+    "z": ""
+  },
+  "99": {
+    "sea": "Mai de nyik ajeh hotleh bidek ku bilek de mong aliran udare de bor, rek beng tingkap, atau ku tempat de buleh nairasa pinoi. Pinoi buleh kitulog nairasa senang naiha-belehem. Enai juga buleh bidek ku luar deg, janji taleh enai ajeh nyak ju mai kilek ru pek biperek ya bok-bok pen.",
+    "en": "Keep the patient in a well-ventilated room, near a window or where they can feel air blowing on them. Fresh air will help them breathe better. They can be outside too, if they won\u2019t be in contact with other people.",
+    "z": ""
+  },
+  "100": {
+    "sea": "Mai de nyik ajeh hotleh bidek ku bilek de mong aliran udare de bor, rek beng tingkap, atau ku tempat de buleh nairasa pinoi. Pinoi buleh kitulog nairasa senang naiha-belehem. Enai juga buleh bidek ku luar deg, janji taleh enai ajeh nyak ju mai kilek ru pek biperek ya bok-bok pen.",
+    "en": "Keep the patient in a well-ventilated room, near a window or where they can feel air blowing on them. Fresh air will help them breathe better. They can be outside too, if they won\u2019t be in contact with other people.",
+    "z": ""
+  },
+  "101": {
+    "sea": "Selalu tulog enai tukar care daknak. Amen naijaga, tulog enai dea naidak kekkop memerip taleh iluniu de mampu naibeh, kerana hal ajeh buleh kitulog senang naiha-belehem.",
+    "en": "Help them change positions regularly.\u00a0When they are awake, help them lie on their stomach for a while if they can. This helps their lungs work better."
+  },
+  "102": {
+    "sea": "Selalu tulog enai tukar care daknak. Amen naijaga, tulog enai dea naidak kekkop memerip taleh iluniu de mampu naibeh, kerana hal ajeh buleh kitulog senang naiha-belehem.",
+    "en": "Help them change positions regularly.\u00a0When they are awake, help them lie on their stomach for a while if they can. This helps their lungs work better."
+  },
+  "103": {
+    "sea": "Buleh engkebeg atau engkegam strow ajeh nu butol ajeh, tapi amen pek payah pen pek ma.\u00a0",
+    "en": "It may be helpful to attach the straw to the bottle with some tape or string, but this is not necessary.",
+    "z": ""
+  },
+  "104": {
+    "sea": "Buleh engkebeg atau engkegam strow ajeh nu butol ajeh, tapi amen pek payah pen pek ma.\u00a0",
+    "en": "It may be helpful to attach the straw to the bottle with some tape or string, but this is not necessary.",
+    "z": ""
+  },
+  "105": {
+    "sea": "Buleh engkebeg atau engkegam strow ajeh nu butol ajeh, tapi amen pek payah pen pek ma.\u00a0",
+    "en": "It may be helpful to attach the straw to the bottle with some tape or string, but this is not necessary.",
+    "z": ""
+  },
+  "106": {
+    "sea": "Jap kali kibeh, mai de nyik ajeh hotleh kitehol lei 5 nu 10 kali. Kek hotleh kiulag beh hal ajeh lei 5 nu 7 kali nuarik.",
+    "en": "The patient should do this about 5 to 10 times in a row, about 5-7 times a day.",
+    "z": ""
+  },
+  "107": {
+    "sea": "Jap kali kibeh, mai de nyik ajeh hotleh kitehol lei 5 nu 10 kali. Kek hotleh kiulag beh hal ajeh lei 5 nu 7 kali nuarik.",
+    "en": "The patient should do this about 5 to 10 times in a row, about 5-7 times a day.",
+    "z": ""
+  },
+  "108": {
+    "sea": "Jap kali kibeh, mai de nyik ajeh hotleh kitehol lei 5 nu 10 kali. Kek hotleh kiulag beh hal ajeh lei 5 nu 7 kali nuarik.",
+    "en": "The patient should do this about 5 to 10 times in a row, about 5-7 times a day.",
+    "z": ""
+  },
+  "109": {
+    "sea": "Care ha Jaga Mai de ya Kaha-bor",
+    "en": "Home Care as a Person Gets Better"
+  },
+  "110": {
+    "sea": "Care ha Jaga Mai de ya Kaha-bor",
+    "en": "Home Care as a Person Gets Better"
+  },
+  "111": {
+    "sea": "Hiha-bor ju nyaknik ajeh akan kikot mase de liu, jadi tulog mai de nyik nai ajeh naipanei bile ya mong tanda-tanda naiha-bor ju nyaknik ajeh.",
+    "en": "Recovery can take a long time: help them notice small\u00a0 signs that they are getting better.",
+    "z": ""
+  },
+  "112": {
+    "sea": "Hiha-bor ju nyaknik ajeh akan kikot mase de liu, jadi tulog mai de nyik nai ajeh naipanei bile ya mong tanda-tanda naiha-bor ju nyaknik ajeh.",
+    "en": "Recovery can take a long time: help them notice small\u00a0 signs that they are getting better.",
+    "z": ""
+  },
+  "113": {
+    "sea": "Hiha-bor ju nyaknik ajeh akan kikot mase de liu, jadi tulog mai de nyik nai ajeh naipanei bile ya mong tanda-tanda naiha-bor ju nyaknik ajeh.",
+    "en": "Recovery can take a long time: help them notice small\u00a0 signs that they are getting better.",
+    "z": ""
+  },
+  "114": {
+    "sea": "Pekare Utam",
+    "en": "Key Points"
+  },
+  "115": {
+    "sea": "Pekare Utam",
+    "en": "Key Points"
+  },
+  "116": {
+    "sea": "\u2022 Sebaiknye mai de nyik COVID-19 adeh bijaga ku hospitel. Tapi amen pek dapat, perkara-perkara de ya bipasal ku bop adeh buleh kitulog hibeh mai de nyik ajeh selese, ru hitulog naijadi bor ju nyaknik ajeh.",
+    "en": "",
+    "z": ""
+  },
+  "117": {
+    "sea": "\u2022 Sebaiknye mai de nyik COVID-19 adeh bijaga ku hospitel. Tapi amen pek dapat, perkara-perkara de ya bipasal ku bop adeh buleh kitulog hibeh mai de nyik ajeh selese, ru hitulog naijadi bor ju nyaknik ajeh.",
+    "en": "",
+    "z": ""
+  },
+  "118": {
+    "sea": "\u2022 Sebaiknye mai de nyik COVID-19 adeh bijaga ku hospitel. Tapi amen pek dapat, perkara-perkara de ya bipasal ku bop adeh buleh kitulog hibeh mai de nyik ajeh selese, ru hitulog naijadi bor ju nyaknik ajeh.",
+    "en": "",
+    "z": ""
+  }
+}

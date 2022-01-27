@@ -1,0 +1,789 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "d8a787aa-e541-45a6-bab5-4c2b80855f31",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "UN TOTOZ KATA'UANTA\nTUMORO U VIRUS CORONA",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"tom\":\"UN TOTOZ KATA'UANTA\nTUMORO U VIRUS CORONA\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,726d708d-535e-47af-8905-ce6e5e0d745c",
+  "downloadSource": "ringgorawung@gmail.com/d8a787aa-e541-45a6-bab5-4c2b80855f31",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": "",
+  "copyright": "Copyright \u00a9 2020, Hak cipta \u00a9 2020, Weiman Kow",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 26,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "cPG0NzY87c"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "This book gives basic advice on dealing with the coronavirus COVID 19 / Buku ini memberikan pengarahan dasar tentang menghadapi virus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Indonesia",
+  "province": "Sulawesi Utara",
+  "district": "Tomohon",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "fB0R6Rd1hp"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "es": "Spanish",
+    "tom": "Tombulu"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "es": "Sobre el Coronavirus",
+    "tom": "TUMORO U VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "2": {
+    "es": "Sobre el Coronavirus",
+    "tom": "TUMORO U VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "es": "Sobre el Coronavirus",
+    "tom": "TUMORO U VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "es": "Sobre el Coronavirus",
+    "tom": "TUMORO U VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "9": {
+    "tom": "Bahasa Tombulu"
+  },
+  "10": {
+    "tom": "Bahasa Tombulu"
+  },
+  "11": {
+    "tom": "",
+    "en": ""
+  },
+  "12": {
+    "tom": "",
+    "en": ""
+  },
+  "13": {
+    "tom": "ESA uman un totoz kata\u2019uan nioua tumoro kura u virus Corona",
+    "en": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+  },
+  "14": {
+    "tom": "ESA uman un totoz kata\u2019uan nioua tumoro kura u virus Corona",
+    "en": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+  },
+  "15": {
+    "tom": "i mahlaputa",
+    "en": "SPREADS"
+  },
+  "16": {
+    "tom": "i mahlaputa",
+    "en": "SPREADS"
+  },
+  "17": {
+    "tom": "Sumah",
+    "en": "Mouth"
+  },
+  "18": {
+    "tom": "Sumah",
+    "en": "Mouth"
+  },
+  "19": {
+    "tom": "Ngirung",
+    "en": "Nose"
+  },
+  "20": {
+    "tom": "Ngirung",
+    "en": "Nose"
+  },
+  "21": {
+    "tom": "Weren",
+    "en": "Eyes"
+  },
+  "22": {
+    "tom": "Weren",
+    "en": "Eyes"
+  },
+  "23": {
+    "tom": "muntepa wana am",
+    "en": "Get into your"
+  },
+  "24": {
+    "tom": "muntepa wana am",
+    "en": "Get into your"
+  },
+  "25": {
+    "tom": "z\u00e9i\u2019kan saki",
+    "en": "Healthy Person"
+  },
+  "26": {
+    "tom": "z\u00e9i\u2019kan saki",
+    "en": "Healthy Person"
+  },
+  "27": {
+    "tom": "saki",
+    "en": "Sick Person"
+  },
+  "28": {
+    "tom": "saki",
+    "en": "Sick Person"
+  },
+  "29": {
+    "tom": "karia u rura\u2019 pahkapesika kenu",
+    "en": "The virus spreads when \ufeffthese droplets"
+  },
+  "30": {
+    "tom": "karia u rura\u2019 pahkapesika kenu",
+    "en": "The virus spreads when \ufeffthese droplets"
+  },
+  "31": {
+    "tom": "Zumou\u2019la. Ni kamu \u00e9n z\u00e9i\u2019kan pahkaayoan\u00e9 u rura\u2019 mahpesik\u00e9 sa zumou\u2019la 2m.",
+    "en": "Keep your distance.\ufeff2m will keep you safe from large droplets."
+  },
+  "32": {
+    "tom": "Zumou\u2019la. Ni kamu \u00e9n z\u00e9i\u2019kan pahkaayoan\u00e9 u rura\u2019 mahpesik\u00e9 sa zumou\u2019la 2m.",
+    "en": "Keep your distance.\ufeff2m will keep you safe from large droplets."
+  },
+  "33": {
+    "tom": "1",
+    "en": "1"
+  },
+  "34": {
+    "tom": "1",
+    "en": "1"
+  },
+  "35": {
+    "tom": "\u00bdm - 2m",
+    "en": "2m"
+  },
+  "36": {
+    "tom": "\u00bdm - 2m",
+    "en": "2m"
+  },
+  "37": {
+    "tom": "Haaachii!!",
+    "en": "Achoo!"
+  },
+  "38": {
+    "tom": "Haaachii!!",
+    "en": "Achoo!"
+  },
+  "39": {
+    "tom": "Niitumo, sa ni kamu mileka si tou mahenga/mahtihoi/saki, ni kamu \u00e9 l\u00e9wo\u2019z\u00e9i\u2019:",
+    "en": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+  },
+  "40": {
+    "tom": "Niitumo, sa ni kamu mileka si tou mahenga/mahtihoi/saki, ni kamu \u00e9 l\u00e9wo\u2019z\u00e9i\u2019:",
+    "en": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+  },
+  "41": {
+    "tom": "Ni s\u00e9ra \u00e9n toro tumihoi/mengah witu u maskerna wo z\u00e9i\u2019kan ikaayoma wia s\u00e9 tou witu r\u00e9t\u00e9na.",
+    "en": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby."
+  },
+  "42": {
+    "tom": "Ni s\u00e9ra \u00e9n toro tumihoi/mengah witu u maskerna wo z\u00e9i\u2019kan ikaayoma wia s\u00e9 tou witu r\u00e9t\u00e9na.",
+    "en": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby."
+  },
+  "43": {
+    "tom": "2",
+    "en": "2"
+  },
+  "44": {
+    "tom": "2",
+    "en": "2"
+  },
+  "45": {
+    "tom": "*SROOT*",
+    "en": "Thank you\ufeff*sniffles*"
+  },
+  "46": {
+    "tom": "*SROOT*",
+    "en": "Thank you\ufeff*sniffles*"
+  },
+  "47": {
+    "tom": "KAAPA",
+    "en": "OR,"
+  },
+  "48": {
+    "tom": "KAAPA",
+    "en": "OR,"
+  },
+  "49": {
+    "tom": "Si tou itii woo z\u00e9i\u2019kan saki. Ni sia \u00e9ng kimelung uman un touna.",
+    "en": "Maybe she's not sick, just protecting herself"
+  },
+  "50": {
+    "tom": "Si tou itii woo z\u00e9i\u2019kan saki. Ni sia \u00e9ng kimelung uman un touna.",
+    "en": "Maybe she's not sick, just protecting herself"
+  },
+  "51": {
+    "tom": "Si tou kinalaputano \u00e9n z\u00e9i\u2019kan kata\u2019uanta, taan toro uman lumaputa u sakina.",
+    "en": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+  },
+  "52": {
+    "tom": "Si tou kinalaputano \u00e9n z\u00e9i\u2019kan kata\u2019uanta, taan toro uman lumaputa u sakina.",
+    "en": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+  },
+  "53": {
+    "tom": "Um wangun \u00e9 zumou\u2019m\u00e9 im wia s\u00e9 tou lakez, pahpaan z\u00e9i\u2019kan kata\u2019uannu s\u00e9i si l\u00e9wo\u2019 pendanen.",
+    "en": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+  },
+  "54": {
+    "tom": "Um wangun \u00e9 zumou\u2019m\u00e9 im wia s\u00e9 tou lakez, pahpaan z\u00e9i\u2019kan kata\u2019uannu s\u00e9i si l\u00e9wo\u2019 pendanen.",
+    "en": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+  },
+  "55": {
+    "tom": "Am pemamak\u00e9n i mahkan",
+    "en": "Chopsticks"
+  },
+  "56": {
+    "tom": "Am pemamak\u00e9n i mahkan",
+    "en": "Chopsticks"
+  },
+  "57": {
+    "tom": "S\u00e9 tou l\u00e9\u2019o-l\u00e9\u2019os uman",
+    "en": "Healthy person"
+  },
+  "58": {
+    "tom": "S\u00e9 tou l\u00e9\u2019o-l\u00e9\u2019os uman",
+    "en": "Healthy person"
+  },
+  "59": {
+    "tom": "Titionan wana ang ker\u00e9ta",
+    "en": "Train straps"
+  },
+  "60": {
+    "tom": "Titionan wana ang ker\u00e9ta",
+    "en": "Train straps"
+  },
+  "61": {
+    "tom": "An ipahkepel wana a lif",
+    "en": "Lift buttons"
+  },
+  "62": {
+    "tom": "An ipahkepel wana a lif",
+    "en": "Lift buttons"
+  },
+  "63": {
+    "tom": "Tisyu",
+    "en": "Tissues"
+  },
+  "64": {
+    "tom": "Tisyu",
+    "en": "Tissues"
+  },
+  "65": {
+    "tom": "Eelepan",
+    "en": "Cups"
+  },
+  "66": {
+    "tom": "Eelepan",
+    "en": "Cups"
+  },
+  "67": {
+    "tom": "HP wo am walina",
+    "en": "Digital devices"
+  },
+  "68": {
+    "tom": "HP wo am walina",
+    "en": "Digital devices"
+  },
+  "69": {
+    "tom": "u masker",
+    "en": "& even on the outside of your face mask"
+  },
+  "70": {
+    "tom": "u masker",
+    "en": "& even on the outside of your face mask"
+  },
+  "71": {
+    "tom": "Titionan an ahzan",
+    "en": "Stair bannisters"
+  },
+  "72": {
+    "tom": "Titionan an ahzan",
+    "en": "Stair bannisters"
+  },
+  "73": {
+    "tom": "Mous ang computer",
+    "en": "Mouse"
+  },
+  "74": {
+    "tom": "Mous ang computer",
+    "en": "Mouse"
+  },
+  "75": {
+    "tom": "Potlot",
+    "en": "Pens"
+  },
+  "76": {
+    "tom": "Potlot",
+    "en": "Pens"
+  },
+  "77": {
+    "tom": "Titionan am pepenet",
+    "en": "Door knobs"
+  },
+  "78": {
+    "tom": "Titionan am pepenet",
+    "en": "Door knobs"
+  },
+  "79": {
+    "tom": "Lengen n\u00e9ra",
+    "en": "Their hands"
+  },
+  "80": {
+    "tom": "Lengen n\u00e9ra",
+    "en": "Their hands"
+  },
+  "81": {
+    "tom": "Zozo\u2019 in t\u00e9ntu, satorona u rura\u2019 ni tou saki \u00e9n toro lumaput wana a\u2026",
+    "en": "However, sometimes a sick person's saliva can get on other things\u2026"
+  },
+  "82": {
+    "tom": "Zozo\u2019 in t\u00e9ntu, satorona u rura\u2019 ni tou saki \u00e9n toro lumaput wana a\u2026",
+    "en": "However, sometimes a sick person's saliva can get on other things\u2026"
+  },
+  "83": {
+    "tom": "ni kamu p\u00e9l\u00e9ng \u00e9n toro uman masaki.",
+    "en": "you might all fall sick."
+  },
+  "84": {
+    "tom": "ni kamu p\u00e9l\u00e9ng \u00e9n toro uman masaki.",
+    "en": "you might all fall sick."
+  },
+  "85": {
+    "tom": "kaapa ang gio n\u00e9 tou karaat\u00e9mu,",
+    "en": "or your loved one's face"
+  },
+  "86": {
+    "tom": "kaapa ang gio n\u00e9 tou karaat\u00e9mu,",
+    "en": "or your loved one's face"
+  },
+  "87": {
+    "tom": "mahpurisi um weren",
+    "en": "rub eyes"
+  },
+  "88": {
+    "tom": "mahpurisi um weren",
+    "en": "rub eyes"
+  },
+  "89": {
+    "tom": "Sa kamu m\u00e9ikationa wana ang kinuamoma itii, an tumiona ung giomu in esa,",
+    "en": "And if you do touch any of these things by accident, and then touch your face,"
+  },
+  "90": {
+    "tom": "Sa kamu m\u00e9ikationa wana ang kinuamoma itii, an tumiona ung giomu in esa,",
+    "en": "And if you do touch any of these things by accident, and then touch your face,"
+  },
+  "91": {
+    "tom": "kaapa alkohol.",
+    "en": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+  },
+  "92": {
+    "tom": "kaapa alkohol.",
+    "en": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+  },
+  "93": {
+    "tom": "U virus \u00e9n toro uman tumahang makaz 24 jam witu un apa uman.",
+    "en": "Viruses can last for quite a few hours on objects,"
+  },
+  "94": {
+    "tom": "U virus \u00e9n toro uman tumahang makaz 24 jam witu un apa uman.",
+    "en": "Viruses can last for quite a few hours on objects,"
+  },
+  "95": {
+    "tom": "Sabong",
+    "en": "soap"
+  },
+  "96": {
+    "tom": "Sabong",
+    "en": "soap"
+  },
+  "97": {
+    "tom": "an toro wangunen i zum\u00e9i\u2019 tanu ang kenu.",
+    "en": "precautions"
+  },
+  "98": {
+    "tom": "an toro wangunen i zum\u00e9i\u2019 tanu ang kenu.",
+    "en": "precautions"
+  },
+  "99": {
+    "tom": "Niitumo, um wangun \u00e9ng kiitala u",
+    "en": "Which is why it is also good to follow these"
+  },
+  "100": {
+    "tom": "Niitumo, um wangun \u00e9ng kiitala u",
+    "en": "Which is why it is also good to follow these"
+  },
+  "101": {
+    "tom": "karia u sabong makaz wia\u2019i.",
+    "en": "wash with soap up to here"
+  },
+  "102": {
+    "tom": "karia u sabong makaz wia\u2019i.",
+    "en": "wash with soap up to here"
+  },
+  "103": {
+    "tom": "Sabong",
+    "en": "soap"
+  },
+  "104": {
+    "tom": "Sabong",
+    "en": "soap"
+  },
+  "105": {
+    "tom": "Siku u lengen",
+    "en": "elbow"
+  },
+  "106": {
+    "tom": "Siku u lengen",
+    "en": "elbow"
+  },
+  "107": {
+    "tom": "(kaapa ang gio ni s\u00e9i uman)",
+    "en": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+  },
+  "108": {
+    "tom": "(kaapa ang gio ni s\u00e9i uman)",
+    "en": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+  },
+  "109": {
+    "tom": "\u201cHappy Birthday\u201d.",
+    "en": "Enough time to sing \u201cHappy Birthday\u201d twice"
+  },
+  "110": {
+    "tom": "\u201cHappy Birthday\u201d.",
+    "en": "Enough time to sing \u201cHappy Birthday\u201d twice"
+  },
+  "111": {
+    "tom": "sulu",
+    "en": "under the nails"
+  },
+  "112": {
+    "tom": "sulu",
+    "en": "under the nails"
+  },
+  "113": {
+    "tom": "kaur\u00e9na 20 detik",
+    "en": "for 20 seconds"
+  },
+  "114": {
+    "tom": "kaur\u00e9na 20 detik",
+    "en": "for 20 seconds"
+  },
+  "115": {
+    "tom": "selat an tutundu\u2019",
+    "en": "between the fingers"
+  },
+  "116": {
+    "tom": "selat an tutundu\u2019",
+    "en": "between the fingers"
+  },
+  "117": {
+    "tom": "Wo\u2019asan murina u rorongkem",
+    "en": "wash the back of your hands"
+  },
+  "118": {
+    "tom": "Wo\u2019asan murina u rorongkem",
+    "en": "wash the back of your hands"
+  },
+  "119": {
+    "tom": "Kura i mo\u2019as u lengen makaz maweresi?",
+    "en": "What is thoroughly?"
+  },
+  "120": {
+    "tom": "Kura i mo\u2019as u lengen makaz maweresi?",
+    "en": "What is thoroughly?"
+  },
+  "121": {
+    "tom": "u sabong.",
+    "en": "If you did, don't worry. Just wash your hands with soap after."
+  },
+  "122": {
+    "tom": "u sabong.",
+    "en": "If you did, don't worry. Just wash your hands with soap after."
+  },
+  "123": {
+    "tom": "Tia\u2019 pahtionan u luarna masker",
+    "en": "Also, don't touch the outside of the mask if you can."
+  },
+  "124": {
+    "tom": "Tia\u2019 pahtionan u luarna masker",
+    "en": "Also, don't touch the outside of the mask if you can."
+  },
+  "125": {
+    "tom": "kinapesikan rura\u2019",
+    "en": "droplets"
+  },
+  "126": {
+    "tom": "kinapesikan rura\u2019",
+    "en": "droplets"
+  },
+  "127": {
+    "tom": "Si bakteri \u00e9n toro malakez witu un untep u masker sa tahlous ur\u00e9 pinak\u00e9.",
+    "en": "*Bacteria grows on the insides of your mask if you wear them too long"
+  },
+  "128": {
+    "tom": "Si bakteri \u00e9n toro malakez witu un untep u masker sa tahlous ur\u00e9 pinak\u00e9.",
+    "en": "*Bacteria grows on the insides of your mask if you wear them too long"
+  },
+  "129": {
+    "tom": "Sa pahgenangela kotoro u maskermu \u00e9n itia\u2019moma. U masker \u00e9n tia\u2019 pahpak\u00e9n lumangkoia witu u sana endo.",
+    "en": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+  },
+  "130": {
+    "tom": "Sa pahgenangela kotoro u maskermu \u00e9n itia\u2019moma. U masker \u00e9n tia\u2019 pahpak\u00e9n lumangkoia witu u sana endo.",
+    "en": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+  },
+  "131": {
+    "tom": "Pahpak\u00e9ala l\u00e9per a s\u00e9nd\u00e9\u2019en kaapa wawahu\u2019",
+    "en": "Use a serving spoon"
+  },
+  "132": {
+    "tom": "Pahpak\u00e9ala l\u00e9per a s\u00e9nd\u00e9\u2019en kaapa wawahu\u2019",
+    "en": "Use a serving spoon"
+  },
+  "133": {
+    "tom": "Koki\u2019",
+    "en": "Baby"
+  },
+  "134": {
+    "tom": "Koki\u2019",
+    "en": "Baby"
+  },
+  "135": {
+    "tom": "Ama\u2019",
+    "en": "Daddy"
+  },
+  "136": {
+    "tom": "Ama\u2019",
+    "en": "Daddy"
+  },
+  "137": {
+    "tom": "Ina\u2019",
+    "en": "Mommy"
+  },
+  "138": {
+    "tom": "Ina\u2019",
+    "en": "Mommy"
+  },
+  "139": {
+    "tom": "Mahpak\u00e9la tata\u2019saan anduk.",
+    "en": "Everyone gets their own towel"
+  },
+  "140": {
+    "tom": "Mahpak\u00e9la tata\u2019saan anduk.",
+    "en": "Everyone gets their own towel"
+  },
+  "141": {
+    "tom": "Tia\u2019 pahwali-walian i mahkan, am pahpak\u00e9n mahkan, eelepan wo anduk.",
+    "en": "Do not share food, utensils, cups, towels."
+  },
+  "142": {
+    "tom": "Tia\u2019 pahwali-walian i mahkan, am pahpak\u00e9n mahkan, eelepan wo anduk.",
+    "en": "Do not share food, utensils, cups, towels."
+  },
+  "143": {
+    "tom": "Amok\u00e9 wa\u2019wa\u2019ela, ni kamu \u00e9n z\u00e9i\u2019kan mamuali tumion ung giomu karia u sikumu.",
+    "en": "You can't touch your face with your elbow even if you tried"
+  },
+  "144": {
+    "tom": "Amok\u00e9 wa\u2019wa\u2019ela, ni kamu \u00e9n z\u00e9i\u2019kan mamuali tumion ung giomu karia u sikumu.",
+    "en": "You can't touch your face with your elbow even if you tried"
+  },
+  "145": {
+    "tom": "Satoro \u00e9 mak\u00e9la siku kaapa paluka i muka kaapa menet um pepenet.",
+    "en": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+  },
+  "146": {
+    "tom": "Satoro \u00e9 mak\u00e9la siku kaapa paluka i muka kaapa menet um pepenet.",
+    "en": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+  },
+  "147": {
+    "tom": "Wal\u00e9",
+    "en": "Home"
+  },
+  "148": {
+    "tom": "Wal\u00e9",
+    "en": "Home"
+  },
+  "149": {
+    "tom": "In tar\u00e9 ikaayom\u00e9 witi wal\u00e9",
+    "en": "and after being out in the public"
+  },
+  "150": {
+    "tom": "In tar\u00e9 ikaayom\u00e9 witi wal\u00e9",
+    "en": "and after being out in the public"
+  },
+  "151": {
+    "tom": "Puunala ing kuman",
+    "en": "Before you eat"
+  },
+  "152": {
+    "tom": "Puunala ing kuman",
+    "en": "Before you eat"
+  },
+  "153": {
+    "tom": "Sekez\u00e9 u lengenmu \u00e9m pahwo\u2019asala karia u sabong\u2026",
+    "en": "Always wash your hands with soap\u2026"
+  },
+  "154": {
+    "tom": "Sekez\u00e9 u lengenmu \u00e9m pahwo\u2019asala karia u sabong\u2026",
+    "en": "Always wash your hands with soap\u2026"
+  },
+  "155": {
+    "tom": "Kamurian,",
+    "en": "And finally,"
+  },
+  "156": {
+    "tom": "Kamurian,",
+    "en": "And finally,"
+  },
+  "157": {
+    "tom": "Sabong",
+    "en": "soap"
+  },
+  "158": {
+    "tom": "Sabong",
+    "en": "soap"
+  },
+  "159": {
+    "tom": "",
+    "en": "Stay safe, everyone!"
+  },
+  "160": {
+    "tom": "",
+    "en": "Stay safe, everyone!"
+  },
+  "161": {
+    "tom": "apa an toro wangunen",
+    "en": "Read the articles for more tips!"
+  },
+  "162": {
+    "tom": "apa an toro wangunen",
+    "en": "Read the articles for more tips!"
+  },
+  "163": {
+    "tom": "\"This animation shows how far you sneeze can actually travel.\" by Chia-Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)",
+    "en": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "164": {
+    "tom": "\"This animation shows how far you sneeze can actually travel.\" by Chia-Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)",
+    "en": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "165": {
+    "tom": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy Report. (Jan 25, 2020)",
+    "en": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "166": {
+    "tom": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy Report. (Jan 25, 2020)",
+    "en": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "167": {
+    "tom": "\"How to Avoid the Coronavirus? Wash Your Hands\", by Elizabeth Rosenthal, in The New York Times, Opinion.(Jan28,2020)",
+    "en": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020"
+  },
+  "168": {
+    "tom": "\"How to Avoid the Coronavirus? Wash Your Hands\", by Elizabeth Rosenthal, in The New York Times, Opinion.(Jan28,2020)",
+    "en": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020"
+  },
+  "169": {
+    "tom": "An toro bacan tumoro u mahmuali:",
+    "en": "Main references for medical info:"
+  },
+  "170": {
+    "tom": "An toro bacan tumoro u mahmuali:",
+    "en": "Main references for medical info:"
+  },
+  "171": {
+    "tom": "Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com",
+    "en": "\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+  },
+  "172": {
+    "tom": "Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com",
+    "en": "\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+  },
+  "174": {
+    "es": "Sobre el Coronavirus",
+    "tom": "TUMORO U VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "175": {
+    "es": "Sobre el Coronavirus",
+    "tom": "TUMORO U VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "176": {
+    "es": "Sobre el Coronavirus",
+    "tom": "TUMORO U VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "177": {
+    "es": "Sobre el Coronavirus",
+    "tom": "TUMORO U VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "183": {
+    "en": "Diterjemahkan dalam bahasa Tombulu oleh Pusat Penerjemahan Alkitab-GMIM"
+  },
+  "188": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  },
+  "192": {
+    "en": ""
+  }
+}

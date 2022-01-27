@@ -1,0 +1,183 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "0d230293-96d6-4e9a-8850-62afe5e34f1b",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Como prevenir el COVID-19",
+  "allTitles": "{\"en\":\"Imanutaq COVID-19 qishayqa mana aypamashun\",\"es\":\"Como prevenir el COVID-19\",\"quf\":\"Como prevenir el COVID-19\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+  "downloadSource": "jenner_valdivia@sil.org/0d230293-96d6-4e9a-8850-62afe5e34f1b",
+  "license": "cc-by-nc",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": null,
+  "credits": "",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 12,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "OPstilX0pe"
+    }
+  ],
+  "summary": null,
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Per\u00fa",
+  "province": "Lambayeque",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "xA9JMog9c1"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "quf": "Quechua, Lambayeque",
+    "es": "Spanish"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "quf": "Como prevenir el COVID-19",
+    "es": "",
+    "en": "Imanutaq COVID-19 qishayqa mana aypamashun"
+  },
+  "2": {
+    "quf": "Como prevenir el COVID-19",
+    "es": "",
+    "en": "Imanutaq COVID-19 qishayqa mana aypamashun"
+  },
+  "3": {
+    "quf": "Como prevenir el COVID-19",
+    "es": "",
+    "en": "Imanutaq COVID-19 qishayqa mana aypamashun"
+  },
+  "4": {
+    "es": "",
+    "quf": "",
+    "en": "",
+    "z": ""
+  },
+  "5": {
+    "es": "",
+    "quf": "",
+    "en": "",
+    "z": ""
+  },
+  "6": {
+    "es": "",
+    "quf": "",
+    "en": "",
+    "z": ""
+  },
+  "7": {
+    "es": "",
+    "quf": "",
+    "en": "",
+    "z": ""
+  },
+  "12": {
+    "quf": "Como prevenir el COVID-19",
+    "es": "",
+    "en": "Imanutaq COVID-19 qishayqa mana aypamashun"
+  },
+  "13": {
+    "quf": "Como prevenir el COVID-19",
+    "es": "",
+    "en": "Imanutaq COVID-19 qishayqa mana aypamashun"
+  },
+  "14": {
+    "quf": "Como prevenir el COVID-19",
+    "es": "",
+    "en": "Imanutaq COVID-19 qishayqa mana aypamashun"
+  },
+  "16": {
+    "es": "Versi\u00f3n 27.3.2020"
+  },
+  "18": {
+    "es": "OT Translation Team\u00a0"
+  },
+  "19": {
+    "es": "Original: Imanutaq COVID-19 shutiq qishayqa mana aypamashunchu\ufeffTraducci\u00f3n: Lambayeque OT Translation Team"
+  },
+  "23": {
+    "es": "L\u00e1vese las manos con jabon varias veces. O fr\u00f3tese las manos con alcohol gel.",
+    "z": ""
+  },
+  "24": {
+    "es": "L\u00e1vese las manos con jabon varias veces. O fr\u00f3tese las manos con alcohol gel.",
+    "z": ""
+  },
+  "25": {
+    "es": "Si no se ha lavado las manos, no se toque los ojos, la nariz ni la boca.",
+    "z": ""
+  },
+  "26": {
+    "es": "Si no se ha lavado las manos, no se toque los ojos, la nariz ni la boca.",
+    "z": ""
+  },
+  "27": {
+    "es": "C\u00fabrase la boca y la nariz con el brazo o con un pa\u00f1uelo de papel cuando tosa o estornude. Deseche el pa\u00f1uelo usado inmediatamente.",
+    "z": ""
+  },
+  "28": {
+    "es": "C\u00fabrase la boca y la nariz con el brazo o con un pa\u00f1uelo de papel cuando tosa o estornude. Deseche el pa\u00f1uelo usado inmediatamente.",
+    "z": ""
+  },
+  "29": {
+    "es": "Mantenga una distancia de 2 metros entre usted y los dem\u00e1s. No viaje a otros lugares, si no es necesario.",
+    "z": ""
+  },
+  "30": {
+    "es": "Mantenga una distancia de 2 metros entre usted y los dem\u00e1s. No viaje a otros lugares, si no es necesario.",
+    "z": ""
+  },
+  "31": {
+    "es": "Se siente enfermo, qu\u00e9dese en casa. Si tiene fiebre, tos y dificultades respiratorias, vaya a la posta r\u00e1pidamente.",
+    "z": ""
+  },
+  "32": {
+    "es": "Se siente enfermo, qu\u00e9dese en casa. Si tiene fiebre, tos y dificultades respiratorias, vaya a la posta r\u00e1pidamente.",
+    "z": ""
+  },
+  "33": {
+    "es": "Mant\u00e9ngase informado sobre las \u00faltimas noticias sobre el COVID-19. Siga los consejos del Ministerio de Salud.",
+    "z": ""
+  },
+  "34": {
+    "es": "Mant\u00e9ngase informado sobre las \u00faltimas noticias sobre el COVID-19. Siga los consejos del Ministerio de Salud.",
+    "z": ""
+  }
+}

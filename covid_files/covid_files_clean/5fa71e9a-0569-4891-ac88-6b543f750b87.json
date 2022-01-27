@@ -1,0 +1,371 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre Coronavirus\",\"zaw\":\"Y\u00e4lguijch guichgaroore nani laa \u201ccoronavirus\u201d\"}",
+    "author": null,
+    "bookInstanceId": "5fa71e9a-0569-4891-ac88-6b543f750b87",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,947fd470-47b2-4be1-8685-40f848c45d92",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre Coronavirus",
+            "zaw": "Y\u00e4lguijch guichgaroore nani laa \u201ccoronavirus\u201d"
+        },
+        "1": {
+            "spa": "",
+            "zaw": ""
+        },
+        "2": {
+            "spa": "",
+            "zaw": "Traducido por Misael Mart\u00ednez"
+        },
+        "3": {
+            "spa": "Hay solo UNA cosa que usted necesita entender de como un coronavirus",
+            "zaw": "Yu\u2019 tejtis cos nani gueblu naquiin gan, xho te y\u00e4lguijch guichgaroore nani laa \"coronavirus\" rdiejni lo sa\u2019 bejn."
+        },
+        "4": {
+            "spa": "SE PROPAGA",
+            "zaw": "xho rdiejdni"
+        },
+        "5": {
+            "spa": "",
+            "zaw": "Y\u00e4lguijchre rdiejdni lo sa\u2019nu cheni rebinii\u00e4re riu\u2019ni nen baloj rebejn, xhi\u2019, nejza ro\u2019 rebejn nani nadaan."
+        },
+        "6": {
+            "spa": "la nariz",
+            "zaw": ""
+        },
+        "7": {
+            "spa": "los ojos",
+            "zaw": "baloj, xi', ro'"
+        },
+        "8": {
+            "spa": "entran en",
+            "zaw": ""
+        },
+        "9": {
+            "spa": "Persona Sana",
+            "zaw": "bejn nadaan"
+        },
+        "10": {
+            "spa": "Persona Enferma",
+            "zaw": "bejn racxuu"
+        },
+        "11": {
+            "spa": "El virus se propaga cuando estas gotitas",
+            "zaw": ""
+        },
+        "12": {
+            "spa": "",
+            "zaw": "Chejc, palga fiilu te bejn nani cayajc ruj, cax\u00e4\u00e4xni o rhuiilu cayacxhuuni, sajcni:"
+        },
+        "13": {
+            "spa": "Mantener distancia.\nUna distancia de 0,5m a 2m le proteger\u00e1 de gotitas grandes.",
+            "zaw": "Suulu sijt\u00e4, sijt\u00e4 de garol a tio\u2019p metr, te na\u2019c guitzujn re biniiroo."
+        },
+        "14": {
+            "spa": "1",
+            "zaw": "1"
+        },
+        "15": {
+            "spa": "0,5m-2m",
+            "zaw": "0.5 - 2m"
+        },
+        "16": {
+            "spa": "\u00a1Ach\u00eds!",
+            "zaw": "Achuu"
+        },
+        "17": {
+            "spa": "Darle un cubrebocas.\nPuede toser o estornudar y este protege a todos los que lo rodean.",
+            "zaw": "Badeed te lajd nani rusau ro\u2019ni, te cheni gacni ruj, gux\u00e4\u00e4xni, lajdre gutauni te na\u2019c guitzujni lo guiraa re bejn."
+        },
+        "18": {
+            "spa": "2",
+            "zaw": "2"
+        },
+        "19": {
+            "spa": "Gracias",
+            "zaw": "Quixtioos"
+        },
+        "20": {
+            "spa": "O,",
+            "zaw": ""
+        },
+        "21": {
+            "spa": "",
+            "zaw": "Hueenca na\u2019c cheelu cadru yu\u2019 xhidajl bejn, sacsi dilu gan chuni\u2019c cayacxhuu."
+        },
+        "22": {
+            "spa": "Tal vez no est\u00e1 enferma, s\u00f3lo est\u00e1 protegi\u00e9ndose.",
+            "zaw": "Pet xhet cayacxhuudini, cayajpsini cuidaad.\n"
+        },
+        "23": {
+            "spa": "Puede que personas infectadas no muestren s\u00edntomas, pero a\u00fan as\u00ed son contagiosas.",
+            "zaw": "Sajcni yu\u2019 bejn nani astoo xhet cayacxhuureni, pero sajcni guteedreni y\u00e4lracxhuure."
+        },
+        "24": {
+            "spa": "",
+            "zaw": "Yu\u2019 huelt, xtiejn te bejn nani cayacxhuu sajcni teedni nen stee recos,"
+        },
+        "25": {
+            "spa": "botones de elevadores",
+            "zaw": "botoon"
+        },
+        "26": {
+            "spa": "pa\u00f1uelos",
+            "zaw": "lajd nani rusau ro\u2019"
+        },
+        "27": {
+            "spa": "vasos",
+            "zaw": "vas"
+        },
+        "28": {
+            "spa": "dispositivos digitales",
+            "zaw": "reguib nacoob"
+        },
+        "29": {
+            "spa": "y aun el exterior del cubrebocas.",
+            "zaw": "nejza dejtz relajd nani casau ro\u2019nu."
+        },
+        "30": {
+            "spa": "pasamanos",
+            "zaw": "cadru rniaasnu"
+        },
+        "31": {
+            "spa": "rat\u00f3n",
+            "zaw": "bisijn"
+        },
+        "32": {
+            "spa": "lapiceros",
+            "zaw": "lap"
+        },
+        "33": {
+            "spa": "perillas",
+            "zaw": "bul puert"
+        },
+        "34": {
+            "spa": "las manos",
+            "zaw": "renaa"
+        },
+        "35": {
+            "spa": "",
+            "zaw": "Lux, palga siniaaslu tere c\u00f3sre, dxejc guiniaaslu lojlu, \u00a0o loj xteen za\u2019lu,\u00a0o rgajnlu balojlu,"
+        },
+        "36": {
+            "spa": "puede que\ntodos ustedes se contagien.",
+            "zaw": "sacni guiraatu gacxuutu."
+        },
+        "37": {
+            "spa": "",
+            "zaw": "Y\u00e4lguijchre sajcni teedni hasta tiuubixhung oor nen te lajt,"
+        },
+        "38": {
+            "spa": "y la \u00fanica manera eficaz de eliminarlos es lavarlos con jab\u00f3n.",
+            "zaw": "lux sajcni nitni guyadujsi cheni quiibnuni con biaxtiil."
+        },
+        "39": {
+            "spa": "jab\u00f3n",
+            "zaw": "biaxtiil."
+        },
+        "40": {
+            "spa": "precauciones",
+            "zaw": ""
+        },
+        "41": {
+            "spa": "Por eso, tambi\u00e9n es bueno seguir estas",
+            "zaw": "N\u00edcni, sajcni guunu g\u00e1i tzuunre:"
+        },
+        "42": {
+            "spa": "",
+            "zaw": "Colquiib guideeb naatu con biaxtiil, nejza con n\u00eds maasdi gajl segund, cheni gunaastu te lajt cadru yu\u2019 nani astoo nadxuudx."
+        },
+        "43": {
+            "spa": "l\u00e1vese hasta aqu\u00ed",
+            "zaw": "gudiib guideeb naalu\u00a0"
+        },
+        "44": {
+            "spa": "jab\u00f3n",
+            "zaw": "biaxtiil"
+        },
+        "45": {
+            "spa": "codo",
+            "zaw": "xtiubijl"
+        },
+        "46": {
+            "spa": "",
+            "zaw": "\u00bfXhi rsaloj guideebni?"
+        },
+        "47": {
+            "spa": "Tiempo suficiente para cantar \"Happy Birthday\" dos veces",
+            "zaw": "Tiemp nani golnu te dij ni rnii: \u201cChicbaa chej cheni gojllu\u201d tio\u2019p huelt."
+        },
+        "48": {
+            "spa": "debajo las u\u00f1as",
+            "zaw": "dejtz rebixhugnaatu"
+        },
+        "49": {
+            "spa": "por 20 segundos",
+            "zaw": "por gajl segund\u00a0"
+        },
+        "50": {
+            "spa": "entre los dedos",
+            "zaw": "entre rebicuejn"
+        },
+        "51": {
+            "spa": "l\u00e1vese el dorso de las manos",
+            "zaw": "Colquiib dejtznaatu"
+        },
+        "52": {
+            "spa": "",
+            "zaw": "Basau ro\u2019lu con te baai nani chee lo guijx, dxejc bacuagajcni nen te bot,\u00a0 na\u2019c guiquiinlu te lajd te gusa\u2019uni ro\u2019lu por maasdi te dxej."
+        },
+        "53": {
+            "spa": "Si lo hizo, no se preocupe.\u00a0 Solo l\u00e1vese las manos con jab\u00f3n despu\u00e9s.",
+            "zaw": "Palga a bejnluni, nac chuulu y\u00e4lrsia\u2019, gudiibtis renaalu con biaxtiil."
+        },
+        "54": {
+            "spa": "Adem\u00e1s, no toque el exterior del cubrebocas si puede evitarlo.",
+            "zaw": "Na\u2019cza guiniaaslu dejtz lajdre, palga gacni na\u2019c guunluni."
+        },
+        "55": {
+            "spa": "gotitas",
+            "zaw": "binii\u00e4re"
+        },
+        "56": {
+            "spa": "La bacteria crece en el interior del cubrebocas si lo usa demasiado tiempo.",
+            "zaw": "Y\u00e4lguijdxre roobni nen lajdre palga guiquiinluni xhidajl dxej."
+        },
+        "57": {
+            "spa": "",
+            "zaw": "Na\u2019c suunejlu bejn nani racxhuu. Na'c gudeedlaalu renani lujtis rquiinlu, sic cuchaar, vas, toai."
+        },
+        "58": {
+            "spa": "",
+            "zaw": "Cada tejni xtuaipacni."
+        },
+        "59": {
+            "spa": "nene",
+            "zaw": "Badoo"
+        },
+        "60": {
+            "spa": "papi",
+            "zaw": "Daad"
+        },
+        "61": {
+            "spa": "mami",
+            "zaw": "Naan"
+        },
+        "62": {
+            "spa": "No se toque los ojos, las orejas ni la nariz.",
+            "zaw": "Na\u2019c guiniaastu lojtu, re diajgtu, nicla xi\u2019tu."
+        },
+        "63": {
+            "spa": "",
+            "zaw": "Por lult\u2026"
+        },
+        "64": {
+            "spa": "Busque atenci\u00f3n m\u00e9dica si est\u00e1 enfermo.",
+            "zaw": "Colquil fii te bejn nani rusiajc la\u2019tu palga cayacxhuutu."
+        },
+        "65": {
+            "spa": "jab\u00f3n",
+            "zaw": ""
+        },
+        "66": {
+            "spa": "\u00a1Cu\u00eddense, todos!",
+            "zaw": "Jiunejtu sa\u2019tu."
+        },
+        "67": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre Coronavirus",
+            "zaw": "Y\u00e4lguijch guichgaroore nani laa \u201ccoronavirus\u201d"
+        },
+        "68": {
+            "spa": "Escrito por Weiman Kow, \u00a9 2020 Weiman Kow. CC BY-NC-SA 4.0.\nIm\u00e1genes por Weiman Kow, \u00a9 2020 Weiman Kow. CC BY-NC-SA 4.0.",
+            "zaw": ""
+        },
+        "69": {
+            "spa": "",
+            "zaw": ""
+        },
+        "70": {
+            "spa": "Traducido al zapoteco de Mitla por: Misael Mart\u00ednez",
+            "zaw": ""
+        },
+        "71": {
+            "spa": "Creado por Weiman Kow, instagram: weimankow. Disponible en bloomlibrary.org",
+            "zaw": ""
+        },
+        "72": {
+            "spa": "",
+            "zaw": ""
+        },
+        "73": {
+            "spa": "",
+            "zaw": ""
+        },
+        "74": {
+            "spa": "",
+            "zaw": ""
+        },
+        "75": {
+            "spa": "",
+            "zaw": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\n\n\n\n\n\n\n",
+        "spa": "Sobre Coronavirus\n\n\nHay solo UNA cosa que usted necesita entender de como un coronavirus\nSE PROPAGA\n\nla nariz\nlos ojos\nentran en\nPersona Sana\nPersona Enferma\nEl virus se propaga cuando estas gotitas\n\nMantener distancia.\nUna distancia de 0,5m a 2m le proteger\u00e1 de gotitas grandes.\n1\n0,5m-2m\n\u00a1Ach\u00eds!\nDarle un cubrebocas.\nPuede toser o estornudar y este protege a todos los que lo rodean.\n2\nGracias\nO,\n\nTal vez no est\u00e1 enferma, s\u00f3lo est\u00e1 protegi\u00e9ndose.\nPuede que personas infectadas no muestren s\u00edntomas, pero a\u00fan as\u00ed son contagiosas.\n\nbotones de elevadores\npa\u00f1uelos\nvasos\ndispositivos digitales\ny aun el exterior del cubrebocas.\npasamanos\nrat\u00f3n\nlapiceros\nperillas\nlas manos\n\npuede que\ntodos ustedes se contagien.\n\ny la \u00fanica manera eficaz de eliminarlos es lavarlos con jab\u00f3n.\njab\u00f3n\nprecauciones\nPor eso, tambi\u00e9n es bueno seguir estas\n\nl\u00e1vese hasta aqu\u00ed\njab\u00f3n\ncodo\n\nTiempo suficiente para cantar \"Happy Birthday\" dos veces\ndebajo las u\u00f1as\npor 20 segundos\nentre los dedos\nl\u00e1vese el dorso de las manos\n\nSi lo hizo, no se preocupe.\u00a0 Solo l\u00e1vese las manos con jab\u00f3n despu\u00e9s.\nAdem\u00e1s, no toque el exterior del cubrebocas si puede evitarlo.\ngotitas\nLa bacteria crece en el interior del cubrebocas si lo usa demasiado tiempo.\n\n\nnene\npapi\nmami\nNo se toque los ojos, las orejas ni la nariz.\n\nBusque atenci\u00f3n m\u00e9dica si est\u00e1 enfermo.\njab\u00f3n\n\u00a1Cu\u00eddense, todos!\nSobre Coronavirus\nEscrito por Weiman Kow, \u00a9 2020 Weiman Kow. CC BY-NC-SA 4.0.\nIm\u00e1genes por Weiman Kow, \u00a9 2020 Weiman Kow. CC BY-NC-SA 4.0.\n\nTraducido al zapoteco de Mitla por: Misael Mart\u00ednez\nCreado por Weiman Kow, instagram: weimankow. Disponible en bloomlibrary.org\n\n\n\n",
+        "zaw": "Y\u00e4lguijch guichgaroore nani laa \u201ccoronavirus\u201d\n\nTraducido por Misael Mart\u00ednez\nYu\u2019 tejtis cos nani gueblu naquiin gan, xho te y\u00e4lguijch guichgaroore nani laa \"coronavirus\" rdiejni lo sa\u2019 bejn.\nxho rdiejdni\nY\u00e4lguijchre rdiejdni lo sa\u2019nu cheni rebinii\u00e4re riu\u2019ni nen baloj rebejn, xhi\u2019, nejza ro\u2019 rebejn nani nadaan.\n\nbaloj, xi', ro'\n\nbejn nadaan\nbejn racxuu\n\nChejc, palga fiilu te bejn nani cayajc ruj, cax\u00e4\u00e4xni o rhuiilu cayacxhuuni, sajcni:\nSuulu sijt\u00e4, sijt\u00e4 de garol a tio\u2019p metr, te na\u2019c guitzujn re biniiroo.\n1\n0.5 - 2m\nAchuu\nBadeed te lajd nani rusau ro\u2019ni, te cheni gacni ruj, gux\u00e4\u00e4xni, lajdre gutauni te na\u2019c guitzujni lo guiraa re bejn.\n2\nQuixtioos\n\nHueenca na\u2019c cheelu cadru yu\u2019 xhidajl bejn, sacsi dilu gan chuni\u2019c cayacxhuu.\nPet xhet cayacxhuudini, cayajpsini cuidaad.\n\nSajcni yu\u2019 bejn nani astoo xhet cayacxhuureni, pero sajcni guteedreni y\u00e4lracxhuure.\nYu\u2019 huelt, xtiejn te bejn nani cayacxhuu sajcni teedni nen stee recos,\nbotoon\nlajd nani rusau ro\u2019\nvas\nreguib nacoob\nnejza dejtz relajd nani casau ro\u2019nu.\ncadru rniaasnu\nbisijn\nlap\nbul puert\nrenaa\nLux, palga siniaaslu tere c\u00f3sre, dxejc guiniaaslu lojlu, \u00a0o loj xteen za\u2019lu,\u00a0o rgajnlu balojlu,\nsacni guiraatu gacxuutu.\nY\u00e4lguijchre sajcni teedni hasta tiuubixhung oor nen te lajt,\nlux sajcni nitni guyadujsi cheni quiibnuni con biaxtiil.\nbiaxtiil.\n\nN\u00edcni, sajcni guunu g\u00e1i tzuunre:\nColquiib guideeb naatu con biaxtiil, nejza con n\u00eds maasdi gajl segund, cheni gunaastu te lajt cadru yu\u2019 nani astoo nadxuudx.\ngudiib guideeb naalu\u00a0\nbiaxtiil\nxtiubijl\n\u00bfXhi rsaloj guideebni?\nTiemp nani golnu te dij ni rnii: \u201cChicbaa chej cheni gojllu\u201d tio\u2019p huelt.\ndejtz rebixhugnaatu\npor gajl segund\u00a0\nentre rebicuejn\nColquiib dejtznaatu\nBasau ro\u2019lu con te baai nani chee lo guijx, dxejc bacuagajcni nen te bot,\u00a0 na\u2019c guiquiinlu te lajd te gusa\u2019uni ro\u2019lu por maasdi te dxej.\nPalga a bejnluni, nac chuulu y\u00e4lrsia\u2019, gudiibtis renaalu con biaxtiil.\nNa\u2019cza guiniaaslu dejtz lajdre, palga gacni na\u2019c guunluni.\nbinii\u00e4re\nY\u00e4lguijdxre roobni nen lajdre palga guiquiinluni xhidajl dxej.\nNa\u2019c suunejlu bejn nani racxhuu. Na'c gudeedlaalu renani lujtis rquiinlu, sic cuchaar, vas, toai.\nCada tejni xtuaipacni.\nBadoo\nDaad\nNaan\nNa\u2019c guiniaastu lojtu, re diajgtu, nicla xi\u2019tu.\nPor lult\u2026\nColquil fii te bejn nani rusiajc la\u2019tu palga cayacxhuutu.\n\nJiunejtu sa\u2019tu.\nY\u00e4lguijch guichgaroore nani laa \u201ccoronavirus\u201d\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "zaw",
+        "spa",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Traducido al zapoteco de Mitla por Misael Mart\u00ednez.\r\nOriginal por Weiman Kow.",
+    "country": "Mexico",
+    "credits": "Creado por Weiman Kow, instagram: weimankow. Disponible en bloomlibrary.org",
+    "district": "Tlacolula",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "OU3hKl2Zen"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "GwYREzzd0l"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "espa\u00f1ol",
+        "zaw": "Zapoteco de Mitla"
+    },
+    "languages": [],
+    "license": "cc-by-nc",
+    "licenseNotes": "No cambie el texto de esta obra, pero puede traducirla, adaptarla a otras formas y distribuirla para prop\u00f3sitos no comerciales. Debe guardar los derechos del autor e ilustrador Weiman Kow.",
+    "page-number-style": "Decimal",
+    "pageCount": 22,
+    "province": "Oaxaca",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Este libro comparte consejos b\u00e1sicos para abordar el coronavirus COVID 19 en el zapoteo de Mitla.",
+    "tags": [],
+    "title": "Y\u00e4lguijch guichgaroore nani laa \u201ccoronavirus\u201d",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

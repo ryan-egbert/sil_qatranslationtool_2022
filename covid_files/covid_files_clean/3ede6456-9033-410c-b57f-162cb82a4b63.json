@@ -1,0 +1,362 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"pnp\":\"Panaki Kalelei Corona\"}",
+    "author": null,
+    "bookInstanceId": "3ede6456-9033-410c-b57f-162cb82a4b63",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lts": "",
+            "pnp": "Panaki Kalelei Corona",
+            "und": ""
+        },
+        "1": {
+            "eng": "",
+            "pnp": ""
+        },
+        "2": {
+            "eng": "",
+            "pnp": ""
+        },
+        "3": {
+            "pnp": ""
+        },
+        "4": {
+            "pnp": "Amohatokoomu, supaya fahamue oomu, kalelai corona yini, engke\u2019ea no kancibha\u2019a mie se ga aonoa"
+        },
+        "5": {
+            "pnp": ""
+        },
+        "6": {
+            "pnp": "O wobha"
+        },
+        "7": {
+            "pnp": "O neendo"
+        },
+        "8": {
+            "pnp": "Mata\n"
+        },
+        "9": {
+            "pnp": "No maso\nwe lalo\n"
+        },
+        "10": {
+            "pnp": "Mie su mehacino"
+        },
+        "11": {
+            "pnp": "Dho saki\n"
+        },
+        "12": {
+            "pnp": "Kalelei ini , no limba we segao aono, noangka percikan oelundo yini"
+        },
+        "13": {
+            "pnp": "Dho dagani kakodho ondo. \nIntaodhiomu no amani percikan we oelundoa ka ko dho ondoa hamitere."
+        },
+        "14": {
+            "pnp": "1"
+        },
+        "15": {
+            "pnp": "2m-0,5m"
+        },
+        "16": {
+            "pnp": "Haaachii"
+        },
+        "17": {
+            "pnp": "Jadi, ane dho woha mie ume e seno/ mo sakino, intaodhi ne mbali:\n"
+        },
+        "18": {
+            "pnp": "Wa\u2019anda Masker.\nJadi andoa nembali dho e\u2019esea we lalono masker ndhoa so lindungi mie segaaono ne o \u00a0wancito"
+        },
+        "19": {
+            "pnp": "2"
+        },
+        "20": {
+            "pnp": "Tarima kasih\u00a0 *SROOOT*\n"
+        },
+        "21": {
+            "pnp": "Atau\n"
+        },
+        "22": {
+            "pnp": "Mungkin mie yinia mina nao sakia Anoa\u2019a hanya no lindungi uluno."
+        },
+        "23": {
+            "pnp": "Mie kumancibhadha panaki yinia, nacipande\u2019ao gejalanoa, tetapi ne mbali menularkan panaki dhua\u2019a."
+        },
+        "24": {
+            "pnp": "Secara umum, ane naembali \u00a0dha gumampiane we kabhahi mie maicu, karna ihincumiu mina mande aaneomua la\u2019ae la\u2019ae mie mo sakinoa."
+        },
+        "25": {
+            "pnp": "Ne Alacino kahoma\u2019a"
+        },
+        "26": {
+            "pnp": "Mie sumehacino"
+        },
+        "27": {
+            "pnp": "Ne Kaintahano kereta"
+        },
+        "28": {
+            "pnp": "Ne Katindisino lift"
+        },
+        "29": {
+            "pnp": "Ne Tisu\n"
+        },
+        "30": {
+            "pnp": "Ne Galasi\n"
+        },
+        "31": {
+            "pnp": "Ne Perangkat digital"
+        },
+        "32": {
+            "pnp": "Bahkan we luarno masker maicu"
+        },
+        "33": {
+            "pnp": "Ne Kaintahano pulangku"
+        },
+        "34": {
+            "pnp": "Tetikus\n"
+        },
+        "35": {
+            "pnp": "Ne fulupeni\n"
+        },
+        "36": {
+            "pnp": "Ne Kaintahano ka onto"
+        },
+        "37": {
+            "pnp": "Ne lima"
+        },
+        "38": {
+            "pnp": "Meski begitu, oe liu ndo mie mo sakinoa nembali no pika...\n"
+        },
+        "39": {
+            "pnp": "Ihincumiu ne mbali mo sakiomu\u2019a.\n"
+        },
+        "40": {
+            "pnp": "Atau ulandho mie ne owacimu\n"
+        },
+        "41": {
+            "pnp": "Dho goso goso matanto"
+        },
+        "42": {
+            "pnp": "Ihincumiu mina me pu\u2019eomu meintaha atau me kancibha bara bara maicua, lalu intao dhiomu limantoo yinia,no kancibha o ulanto yini."
+        },
+        "43": {
+            "pnp": "Satu satunya cara\u2019a so mo kamateno kalelei Corono \u00a0yini adalah dhe wanu bhe sabono, bhe pemutih, bhe alkoholno."
+        },
+        "44": {
+            "pnp": "Kalelei Corona yini ne mbali bertahan se oleo se aloa ne permukaan bara bara maicua,"
+        },
+        "45": {
+            "pnp": "O sabo yini"
+        },
+        "46": {
+            "pnp": "pahinta we panda yini."
+        },
+        "47": {
+            "pnp": "Karena itu, ane naembali , aangkafi\n"
+        },
+        "48": {
+            "pnp": "Mewanu bhe sabano sape na\u2019ini"
+        },
+        "49": {
+            "pnp": "Sabo\n"
+        },
+        "50": {
+            "pnp": "O siku nsuana"
+        },
+        "51": {
+            "pnp": "Naembalia dho sapu ula ntoini\u2019a atau ulando mie bhaindoa.\nAne paiye cumahai\u2019e, me wanu oomu limamu bhe sabono.\n"
+        },
+        "52": {
+            "pnp": "Pasaea dhe lagu lagu Wanande atau lagu lagu \u201c Happy Birthday\n"
+        },
+        "53": {
+            "pnp": "Mangka we pandano konisino"
+        },
+        "54": {
+            "pnp": "Kao mponano ha fulu detik\n"
+        },
+        "55": {
+            "pnp": "Padha aicu we sela jari jarindo lima\n"
+        },
+        "56": {
+            "pnp": "dhe wanu\u2019o te wawono lima"
+        },
+        "57": {
+            "pnp": "Engke\u2019ae carano dhe wanu limadho maicua sampe nobersih?"
+        },
+        "58": {
+            "pnp": "Ane iintahae, koe dhue cikenda\u2019a . tapi we kahimba me wanu limamua bhe sabono.\n"
+        },
+        "59": {
+            "pnp": "Ko iye iintaha\u2019ea luarno masker maicua\n"
+        },
+        "60": {
+            "pnp": "Percikano oeno liuu\n"
+        },
+        "61": {
+            "pnp": "Bakteri maicu no koana ana we lalono masker maicua, ane dho pakea no mpona\u2019a.\n"
+        },
+        "62": {
+            "pnp": "Dho o hoe maskermu ane nokotoromoa. Karena masker maicu kaomponanoa dho pake\u2019a se oleo kaowu.\n"
+        },
+        "63": {
+            "pnp": "Dhe pake aane kasiki pa\u2019a. ane bhe kadhahdanoa\n"
+        },
+        "64": {
+            "pnp": "Aana\u2019i\n"
+        },
+        "65": {
+            "pnp": "Ama"
+        },
+        "66": {
+            "pnp": "Ina"
+        },
+        "67": {
+            "pnp": "No pake handu dho semi semie, nae mbali se cuwua dho bhahi bhahianea.\n"
+        },
+        "68": {
+            "pnp": "Ko iye no pake bersama\u2019a ne homa\u2019a, pihi pihi\u2019I , galasi bhe handu maicua."
+        },
+        "69": {
+            "pnp": "O sikunto yini kan nae mbalia no yintaha o ulantoa yinia.\n"
+        },
+        "70": {
+            "pnp": "Ane nae mbali, ane dhe lengka ka anto atau dhe onto, dhe pake sikunto yini atau o wea ntoinia.\n"
+        },
+        "71": {
+            "pnp": "Lambu"
+        },
+        "72": {
+            "pnp": "Seteleh dho suli dhe kala kala we luara\n"
+        },
+        "73": {
+            "pnp": "Sebelum dho homaa\n"
+        },
+        "74": {
+            "pnp": "Selalu\u00a0 dhe wanu limanto bhe sabono\n"
+        },
+        "75": {
+            "pnp": "Terakhir moa\n"
+        },
+        "76": {
+            "pnp": "O sabo"
+        },
+        "77": {
+            "pnp": "Mai Dha dhumagani kasehatanto yini!"
+        },
+        "78": {
+            "pnp": "Mai Dha dhumagani kasehatanto yini!\n"
+        },
+        "79": {
+            "pnp": "O sabo\n"
+        },
+        "80": {
+            "pnp": "Jadi harus dha basae o pesan pesano te wawano artikel maicua"
+        },
+        "81": {
+            "pnp": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "pnp": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+        },
+        "83": {
+            "pnp": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "pnp": "Dasarano bhaabhaanoa no maiyao we kesehata"
+        },
+        "85": {
+            "pnp": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. \u00a0https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini: https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lts": "",
+            "pnp": "Panaki Kalelei Corona",
+            "und": ""
+        },
+        "87": {
+            "eng": "",
+            "pnp": ""
+        },
+        "88": {
+            "eng": "Diterjemahkan dalam Bahasa Pancana oleh Nurdin",
+            "pnp": ""
+        },
+        "89": {
+            "eng": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org",
+            "pnp": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "pnp": ""
+        },
+        "91": {
+            "eng": "",
+            "pnp": ""
+        },
+        "92": {
+            "eng": "",
+            "pnp": ""
+        },
+        "93": {
+            "eng": "",
+            "pnp": ""
+        },
+        "94": {
+            "eng": "",
+            "pnp": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nDiterjemahkan dalam Bahasa Pancana oleh Nurdin\nVersi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "pnp": "Panaki Kalelei Corona\n\n\n\nAmohatokoomu, supaya fahamue oomu, kalelai corona yini, engke\u2019ea no kancibha\u2019a mie se ga aonoa\n\nO wobha\nO neendo\nMata\n\nNo maso\nwe lalo\n\nMie su mehacino\nDho saki\n\nKalelei ini , no limba we segao aono, noangka percikan oelundo yini\nDho dagani kakodho ondo. \nIntaodhiomu no amani percikan we oelundoa ka ko dho ondoa hamitere.\n1\n2m-0,5m\nHaaachii\nJadi, ane dho woha mie ume e seno/ mo sakino, intaodhi ne mbali:\n\nWa\u2019anda Masker.\nJadi andoa nembali dho e\u2019esea we lalono masker ndhoa so lindungi mie segaaono ne o \u00a0wancito\n2\nTarima kasih\u00a0 *SROOOT*\n\nAtau\n\nMungkin mie yinia mina nao sakia Anoa\u2019a hanya no lindungi uluno.\nMie kumancibhadha panaki yinia, nacipande\u2019ao gejalanoa, tetapi ne mbali menularkan panaki dhua\u2019a.\nSecara umum, ane naembali \u00a0dha gumampiane we kabhahi mie maicu, karna ihincumiu mina mande aaneomua la\u2019ae la\u2019ae mie mo sakinoa.\nNe Alacino kahoma\u2019a\nMie sumehacino\nNe Kaintahano kereta\nNe Katindisino lift\nNe Tisu\n\nNe Galasi\n\nNe Perangkat digital\nBahkan we luarno masker maicu\nNe Kaintahano pulangku\nTetikus\n\nNe fulupeni\n\nNe Kaintahano ka onto\nNe lima\nMeski begitu, oe liu ndo mie mo sakinoa nembali no pika...\n\nIhincumiu ne mbali mo sakiomu\u2019a.\n\nAtau ulandho mie ne owacimu\n\nDho goso goso matanto\nIhincumiu mina me pu\u2019eomu meintaha atau me kancibha bara bara maicua, lalu intao dhiomu limantoo yinia,no kancibha o ulanto yini.\nSatu satunya cara\u2019a so mo kamateno kalelei Corono \u00a0yini adalah dhe wanu bhe sabono, bhe pemutih, bhe alkoholno.\nKalelei Corona yini ne mbali bertahan se oleo se aloa ne permukaan bara bara maicua,\nO sabo yini\npahinta we panda yini.\nKarena itu, ane naembali , aangkafi\n\nMewanu bhe sabano sape na\u2019ini\nSabo\n\nO siku nsuana\nNaembalia dho sapu ula ntoini\u2019a atau ulando mie bhaindoa.\nAne paiye cumahai\u2019e, me wanu oomu limamu bhe sabono.\n\nPasaea dhe lagu lagu Wanande atau lagu lagu \u201c Happy Birthday\n\nMangka we pandano konisino\nKao mponano ha fulu detik\n\nPadha aicu we sela jari jarindo lima\n\ndhe wanu\u2019o te wawono lima\nEngke\u2019ae carano dhe wanu limadho maicua sampe nobersih?\nAne iintahae, koe dhue cikenda\u2019a . tapi we kahimba me wanu limamua bhe sabono.\n\nKo iye iintaha\u2019ea luarno masker maicua\n\nPercikano oeno liuu\n\nBakteri maicu no koana ana we lalono masker maicua, ane dho pakea no mpona\u2019a.\n\nDho o hoe maskermu ane nokotoromoa. Karena masker maicu kaomponanoa dho pake\u2019a se oleo kaowu.\n\nDhe pake aane kasiki pa\u2019a. ane bhe kadhahdanoa\n\nAana\u2019i\n\nAma\nIna\nNo pake handu dho semi semie, nae mbali se cuwua dho bhahi bhahianea.\n\nKo iye no pake bersama\u2019a ne homa\u2019a, pihi pihi\u2019I , galasi bhe handu maicua.\nO sikunto yini kan nae mbalia no yintaha o ulantoa yinia.\n\nAne nae mbali, ane dhe lengka ka anto atau dhe onto, dhe pake sikunto yini atau o wea ntoinia.\n\nLambu\nSeteleh dho suli dhe kala kala we luara\n\nSebelum dho homaa\n\nSelalu\u00a0 dhe wanu limanto bhe sabono\n\nTerakhir moa\n\nO sabo\nMai Dha dhumagani kasehatanto yini!\nMai Dha dhumagani kasehatanto yini!\n\nO sabo\n\nJadi harus dha basae o pesan pesano te wawano artikel maicua\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)\nDasarano bhaabhaanoa no maiyao we kesehata\nKeterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. \u00a0https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini: https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\nPanaki Kalelei Corona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "pnp",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "ZH7zitePzQ"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "id": "Indonesian",
+        "lts": "Lutachoni",
+        "pnp": "Pancana"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Panaki Kalelei Corona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

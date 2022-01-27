@@ -1,0 +1,626 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "e6aa7542-705f-4746-bf52-73aa5fe4b77f",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Una experiencia familiar con COVID-19 en casa",
+  "allTitles": "{\"en\":\"A Family\u2019s Experience\nwith COVID-19 at Home\",\"es\":\"Una experiencia familiar con COVID-19 en casa\"}",
+  "originalTitle": "A Family\u2019s Experience with COVID-19 at Home",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,dd67bd4b-d16a-411b-81c4-dcd4af3fe6d3,3988905c-2540-456f-8aeb-6dbb43d5e07a",
+  "downloadSource": "kristine_trammell@sil.org/e6aa7542-705f-4746-bf52-73aa5fe4b77f",
+  "license": "cc-by",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": null,
+  "credits": "Adaptado con permiso de \u201cCOVID-19 Home Based Care: How\u00a0 to do it best for the patient and the family,\u201d (Cuidar a los que contagian Covid-19: C\u00f3mo hacerlo mejor para el paciente y la familia), 2020, Difaem - German Institute for Medical Mission, www.difaem\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nEste recurso se ha desarrollado utilizando fuentes acreditadas de salud p\u00fablica \u00fanicamente con fines educativos. No sustituye el consejo m\u00e9dico profesional. Si tiene preguntas o inquietudes sobre cualquier tema descrito aqu\u00ed, consulte a un profesional de la salud.\r\n",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 33,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "GwYREzzd0l"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "Una gu\u00eda f\u00e1cil de entender y precisa para las familias y comunidades que deben cuidar a los pacientes de COVID-19 en casa sin ayuda m\u00e9dica.",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "wPcS23Jl9V"
+  },
+  "tools": [
+    {
+      "name": "imageDescription",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": "",
+  "originalPublisher": "",
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "es": "espa\u00f1ol"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "es": "Una experiencia familiar con COVID-19 en casa",
+    "en": "with COVID-19 at Home"
+  },
+  "2": {
+    "es": "Una experiencia familiar con COVID-19 en casa",
+    "en": "with COVID-19 at Home"
+  },
+  "6": {
+    "es": ""
+  },
+  "9": {
+    "es": "Una experiencia familiar con COVID-19 en casa",
+    "en": "with COVID-19 at Home"
+  },
+  "10": {
+    "es": "Una experiencia familiar con COVID-19 en casa",
+    "en": "with COVID-19 at Home"
+  },
+  "12": {
+    "es": "\u00a9 2021 SIL International. CC BY-NC 4.0."
+  },
+  "17": {
+    "es": ""
+  },
+  "19": {
+    "es": "",
+    "en": ""
+  },
+  "20": {
+    "es": "",
+    "en": ""
+  },
+  "21": {
+    "es": ""
+  },
+  "22": {
+    "es": "Anita y su familia viven en un pueblo peque\u00f1o. Le encanta su trabajo como maestra, pero la escuela est\u00e1 cerrada debido al virus COVID-19.",
+    "en": "Anita and her family live in a small town. She loves her job as teacher but the school is closed because of the COVID-19 virus."
+  },
+  "23": {
+    "es": "Anita y su familia viven en un pueblo peque\u00f1o. Le encanta su trabajo como maestra, pero la escuela est\u00e1 cerrada debido al virus COVID-19.",
+    "en": "Anita and her family live in a small town. She loves her job as teacher but the school is closed because of the COVID-19 virus."
+  },
+  "24": {
+    "es": "En casa, Anita ha escuchado programas de radio y ha aprendido mucho sobre el virus y c\u00f3mo evitar que se propague.",
+    "en": "At home, Anita has listened to radio programs and has learned a lot about the virus and how to keep\u00a0it from spreading.",
+    "z": ""
+  },
+  "25": {
+    "es": "En casa, Anita ha escuchado programas de radio y ha aprendido mucho sobre el virus y c\u00f3mo evitar que se propague.",
+    "en": "At home, Anita has listened to radio programs and has learned a lot about the virus and how to keep\u00a0it from spreading.",
+    "z": ""
+  },
+  "26": {
+    "es": "En casa, Anita ha escuchado programas de radio y ha aprendido mucho sobre el virus y c\u00f3mo evitar que se propague.",
+    "en": "At home, Anita has listened to radio programs and has learned a lot about the virus and how to keep\u00a0it from spreading.",
+    "z": ""
+  },
+  "27": {
+    "es": "Con todo lo que ha aprendido, Anita ayuda a ense\u00f1ar a su comunidad c\u00f3mo evitar ser contagiado por el virus.",
+    "en": "With all that she has learned Anita helps to teach her community how to keep themselves safe from the virus."
+  },
+  "28": {
+    "es": "Con todo lo que ha aprendido, Anita ayuda a ense\u00f1ar a su comunidad c\u00f3mo evitar ser contagiado por el virus.",
+    "en": "With all that she has learned Anita helps to teach her community how to keep themselves safe from the virus."
+  },
+  "29": {
+    "es": "Aunque salir y hablar con mucha gente aumenta el riesgo de contraer el virus,\u00a0 ella sabe que es importante que todos sepan c\u00f3mo prevenir la propagaci\u00f3n del virus. Les ense\u00f1a a sus vecinos: \"Debemos lavarnos las manos con frecuencia\".",
+    "en": "\u00a0Even though going out and talking with lots of people increases her risk of getting the virus, she knows that it\u2019s important for everyone to know how to prevent the virus from spreading. She teaches her neighbors, \u201cWe must be careful to wash our hands often\".",
+    "z": ""
+  },
+  "30": {
+    "es": "Aunque salir y hablar con mucha gente aumenta el riesgo de contraer el virus,\u00a0 ella sabe que es importante que todos sepan c\u00f3mo prevenir la propagaci\u00f3n del virus. Les ense\u00f1a a sus vecinos: \"Debemos lavarnos las manos con frecuencia\".",
+    "en": "\u00a0Even though going out and talking with lots of people increases her risk of getting the virus, she knows that it\u2019s important for everyone to know how to prevent the virus from spreading. She teaches her neighbors, \u201cWe must be careful to wash our hands often\".",
+    "z": ""
+  },
+  "31": {
+    "es": "Aunque salir y hablar con mucha gente aumenta el riesgo de contraer el virus,\u00a0 ella sabe que es importante que todos sepan c\u00f3mo prevenir la propagaci\u00f3n del virus. Les ense\u00f1a a sus vecinos: \"Debemos lavarnos las manos con frecuencia\".",
+    "en": "\u00a0Even though going out and talking with lots of people increases her risk of getting the virus, she knows that it\u2019s important for everyone to know how to prevent the virus from spreading. She teaches her neighbors, \u201cWe must be careful to wash our hands often\".",
+    "z": ""
+  },
+  "32": {
+    "es": "Luego explica: \u201cNecesitamos usar mascarillas cuando salimos de la casa o cuando estamos con personas que no viven en nuestra casa\u201d.",
+    "en": "Then she explains, \u201cWe need to wear masks when we\u00a0 leave our homes or when we are with people who do not live in the same house as us\"."
+  },
+  "33": {
+    "es": "Luego explica: \u201cNecesitamos usar mascarillas cuando salimos de la casa o cuando estamos con personas que no viven en nuestra casa\u201d.",
+    "en": "Then she explains, \u201cWe need to wear masks when we\u00a0 leave our homes or when we are with people who do not live in the same house as us\"."
+  },
+  "34": {
+    "es": "\"Tambi\u00e9n debemos tratar de evitar pasar mucho tiempo con personas ajenas a nuestro hogar\u201d.",
+    "en": "\"We also must try to avoid spending lots of time with people outside of our own household\".",
+    "z": ""
+  },
+  "35": {
+    "es": "\"Tambi\u00e9n debemos tratar de evitar pasar mucho tiempo con personas ajenas a nuestro hogar\u201d.",
+    "en": "\"We also must try to avoid spending lots of time with people outside of our own household\".",
+    "z": ""
+  },
+  "36": {
+    "es": "\"Tambi\u00e9n debemos tratar de evitar pasar mucho tiempo con personas ajenas a nuestro hogar\u201d.",
+    "en": "\"We also must try to avoid spending lots of time with people outside of our own household\".",
+    "z": ""
+  },
+  "37": {
+    "es": "\u201cAdem\u00e1s, debemos mantenernos a dos metros de otras personas cuando compramos, trabajamos o hablamos con los vecinos\u201d.",
+    "en": "\"Also, we need to keep two meters away from other people when we shop, work or talk to neighbors\"."
+  },
+  "38": {
+    "es": "\u201cAdem\u00e1s, debemos mantenernos a dos metros de otras personas cuando compramos, trabajamos o hablamos con los vecinos\u201d.",
+    "en": "\"Also, we need to keep two meters away from other people when we shop, work or talk to neighbors\"."
+  },
+  "39": {
+    "es": "\"Hacer estas cosas ayudar\u00e1 a evitar que el virus pase de persona a persona\".",
+    "en": "\"Doing these things will help to stop the virus from spreading from person to person\u201d.",
+    "z": ""
+  },
+  "40": {
+    "es": "\"Hacer estas cosas ayudar\u00e1 a evitar que el virus pase de persona a persona\".",
+    "en": "\"Doing these things will help to stop the virus from spreading from person to person\u201d.",
+    "z": ""
+  },
+  "41": {
+    "es": "\"Hacer estas cosas ayudar\u00e1 a evitar que el virus pase de persona a persona\".",
+    "en": "\"Doing these things will help to stop the virus from spreading from person to person\u201d.",
+    "z": ""
+  },
+  "42": {
+    "es": "",
+    "en": ""
+  },
+  "43": {
+    "es": "",
+    "en": ""
+  },
+  "44": {
+    "es": "Un d\u00eda, Anita no se siente bien. Tiene un fuerte dolor de cabeza, fiebre y ha comenzado a toser. Adem\u00e1s, se da cuenta de que no puede oler ni saborear la comida. Anita reconoce que tiene Covid-19.",
+    "en": "One day, Anita doesn\u2019t feel well. She has a bad headache, a fever, and has begun to cough. Also, she notices that she cannot taste or smell her food. Anita realizes that she has Covid-19. ",
+    "z": ""
+  },
+  "45": {
+    "es": "Un d\u00eda, Anita no se siente bien. Tiene un fuerte dolor de cabeza, fiebre y ha comenzado a toser. Adem\u00e1s, se da cuenta de que no puede oler ni saborear la comida. Anita reconoce que tiene Covid-19.",
+    "en": "One day, Anita doesn\u2019t feel well. She has a bad headache, a fever, and has begun to cough. Also, she notices that she cannot taste or smell her food. Anita realizes that she has Covid-19. ",
+    "z": ""
+  },
+  "46": {
+    "es": "Un d\u00eda, Anita no se siente bien. Tiene un fuerte dolor de cabeza, fiebre y ha comenzado a toser. Adem\u00e1s, se da cuenta de que no puede oler ni saborear la comida. Anita reconoce que tiene Covid-19.",
+    "en": "One day, Anita doesn\u2019t feel well. She has a bad headache, a fever, and has begun to cough. Also, she notices that she cannot taste or smell her food. Anita realizes that she has Covid-19. ",
+    "z": ""
+  },
+  "47": {
+    "es": "Inmediatamente le dice a su familia: \u201cTodos debemos quedarnos en casa y mantenernos alejados de los dem\u00e1s. Es posible que ustedes tambi\u00e9n tengan el virus, aunque no se sientan enfermos. F\u00e1cilmente podr\u00edan contagiar el virus a otros\".",
+    "en": "Right away she tells her family and says, \u201cWe all need to stay home and keep away from others. You might have the virus, too, even though you do not feel sick. You could easily spread the virus to others.\u201d"
+  },
+  "48": {
+    "es": "Inmediatamente le dice a su familia: \u201cTodos debemos quedarnos en casa y mantenernos alejados de los dem\u00e1s. Es posible que ustedes tambi\u00e9n tengan el virus, aunque no se sientan enfermos. F\u00e1cilmente podr\u00edan contagiar el virus a otros\".",
+    "en": "Right away she tells her family and says, \u201cWe all need to stay home and keep away from others. You might have the virus, too, even though you do not feel sick. You could easily spread the virus to others.\u201d"
+  },
+  "49": {
+    "es": "Entonces Anita comienza a quedarse sola en una habitaci\u00f3n separada.Ella no quiere contagiar la enfermedad a su familia.",
+    "en": "Then Anita goes and stays alone in a separate room, away from the family. She does not want to give them the sickness.",
+    "z": ""
+  },
+  "50": {
+    "es": "Entonces Anita comienza a quedarse sola en una habitaci\u00f3n separada.Ella no quiere contagiar la enfermedad a su familia.",
+    "en": "Then Anita goes and stays alone in a separate room, away from the family. She does not want to give them the sickness.",
+    "z": ""
+  },
+  "51": {
+    "es": "Entonces Anita comienza a quedarse sola en una habitaci\u00f3n separada.Ella no quiere contagiar la enfermedad a su familia.",
+    "en": "Then Anita goes and stays alone in a separate room, away from the family. She does not want to give them the sickness.",
+    "z": ""
+  },
+  "52": {
+    "es": "David, el marido de Anita, se hace cargo de ella. \u00c9l le trae comida y se lleva los platos vac\u00edos. \u00c9l mantiene los platos que Anita usa separados de los que usan la familia.",
+    "en": "Anita\u2019s husband, David, takes care of her. He brings her food and takes away the empty dishes. He keeps her dishes separate and only Anita uses them."
+  },
+  "53": {
+    "es": "David, el marido de Anita, se hace cargo de ella. \u00c9l le trae comida y se lleva los platos vac\u00edos. \u00c9l mantiene los platos que Anita usa separados de los que usan la familia.",
+    "en": "Anita\u2019s husband, David, takes care of her. He brings her food and takes away the empty dishes. He keeps her dishes separate and only Anita uses them."
+  },
+  "54": {
+    "es": "David siempre usa una mascarilla cuando entra a la habitaci\u00f3n d\u00f3nde queda Anita. Tambi\u00e9n se lava las manos cada vez que hace algo por ella. Anita tambi\u00e9n pone una mascarilla cuando \u00e9l entra a la habitaci\u00f3n.",
+    "en": "David always wears a mask whenever he goes into her room. He also washes his hands every time he does anything for her. Anita also wears a mask when he comes into the room.",
+    "z": ""
+  },
+  "55": {
+    "es": "David siempre usa una mascarilla cuando entra a la habitaci\u00f3n d\u00f3nde queda Anita. Tambi\u00e9n se lava las manos cada vez que hace algo por ella. Anita tambi\u00e9n pone una mascarilla cuando \u00e9l entra a la habitaci\u00f3n.",
+    "en": "David always wears a mask whenever he goes into her room. He also washes his hands every time he does anything for her. Anita also wears a mask when he comes into the room.",
+    "z": ""
+  },
+  "56": {
+    "es": "David siempre usa una mascarilla cuando entra a la habitaci\u00f3n d\u00f3nde queda Anita. Tambi\u00e9n se lava las manos cada vez que hace algo por ella. Anita tambi\u00e9n pone una mascarilla cuando \u00e9l entra a la habitaci\u00f3n.",
+    "en": "David always wears a mask whenever he goes into her room. He also washes his hands every time he does anything for her. Anita also wears a mask when he comes into the room.",
+    "z": ""
+  },
+  "57": {
+    "es": "La familia comparte un ba\u00f1o. As\u00ed que, cuando Anita lo usa, siempre usa una mascarilla.",
+    "en": "The family shares one bathroom. So whenever Anita uses it, she always wears a mask.\u00a0",
+    "z": ""
+  },
+  "58": {
+    "es": "La familia comparte un ba\u00f1o. As\u00ed que, cuando Anita lo usa, siempre usa una mascarilla.",
+    "en": "The family shares one bathroom. So whenever Anita uses it, she always wears a mask.\u00a0",
+    "z": ""
+  },
+  "59": {
+    "es": "La familia comparte un ba\u00f1o. As\u00ed que, cuando Anita lo usa, siempre usa una mascarilla.",
+    "en": "The family shares one bathroom. So whenever Anita uses it, she always wears a mask.\u00a0",
+    "z": ""
+  },
+  "60": {
+    "es": "Cuando termina, ella limpia el ba\u00f1o con una soluci\u00f3n desinfectante antes de regresar a su habitaci\u00f3n.",
+    "en": "When she is done, she wipes down the bathroom with a disinfectant solution before going back to her room."
+  },
+  "61": {
+    "es": "Cuando termina, ella limpia el ba\u00f1o con una soluci\u00f3n desinfectante antes de regresar a su habitaci\u00f3n.",
+    "en": "When she is done, she wipes down the bathroom with a disinfectant solution before going back to her room."
+  },
+  "62": {
+    "es": "",
+    "en": "The room where Anita, her mother, and Marcos stay is small and crowded."
+  },
+  "63": {
+    "es": "",
+    "en": "The room where Anita, her mother, and Marcos stay is small and crowded."
+  },
+  "64": {
+    "es": "Afortunadamente, la habitaci\u00f3n tiene una puerta al exterior. David establece un lugar fuera de la puerta donde los tres miembros enfermos de la familia pueden descansar y disfrutar del aire fresco.",
+    "en": "Happily, it has a door to the outside. David sets up a place outside the door where the three sick family members can rest and enjoy the fresh air.",
+    "z": ""
+  },
+  "65": {
+    "es": "Afortunadamente, la habitaci\u00f3n tiene una puerta al exterior. David establece un lugar fuera de la puerta donde los tres miembros enfermos de la familia pueden descansar y disfrutar del aire fresco.",
+    "en": "Happily, it has a door to the outside. David sets up a place outside the door where the three sick family members can rest and enjoy the fresh air.",
+    "z": ""
+  },
+  "66": {
+    "es": "Afortunadamente, la habitaci\u00f3n tiene una puerta al exterior. David establece un lugar fuera de la puerta donde los tres miembros enfermos de la familia pueden descansar y disfrutar del aire fresco.",
+    "en": "Happily, it has a door to the outside. David sets up a place outside the door where the three sick family members can rest and enjoy the fresh air.",
+    "z": ""
+  },
+  "67": {
+    "es": "Para ayudar, las hijas de Anita y David cocinan y lavan la ropa.",
+    "en": "Anita and David\u2019s daughters cook and do the laundry to help out.",
+    "z": ""
+  },
+  "68": {
+    "es": "Para ayudar, las hijas de Anita y David cocinan y lavan la ropa.",
+    "en": "Anita and David\u2019s daughters cook and do the laundry to help out.",
+    "z": ""
+  },
+  "69": {
+    "es": "Para ayudar, las hijas de Anita y David cocinan y lavan la ropa.",
+    "en": "Anita and David\u2019s daughters cook and do the laundry to help out.",
+    "z": ""
+  },
+  "70": {
+    "es": "Algunos vecinos traen v\u00edveres y medicinas para la fiebre, para evitar que la familia transmita la enfermedad yendo ellos mismos a las tiendas. Ellos entienden que incluso las personas que no se sienten enfermas pueden tener el virus y transmitir la enfermedad. Saben que es importante que toda la familia de Anita y David se quede en casa.",
+    "en": "\u00a0Some neighbors bring groceries and fever medicines so that the family does not spread the disease by going to the shops themselves. They understand that even people who do not feel sick might have the virus and can spread the illness. They know it is important that Anita and David's whole family stays at home.",
+    "z": ""
+  },
+  "71": {
+    "es": "Algunos vecinos traen v\u00edveres y medicinas para la fiebre, para evitar que la familia transmita la enfermedad yendo ellos mismos a las tiendas. Ellos entienden que incluso las personas que no se sienten enfermas pueden tener el virus y transmitir la enfermedad. Saben que es importante que toda la familia de Anita y David se quede en casa.",
+    "en": "\u00a0Some neighbors bring groceries and fever medicines so that the family does not spread the disease by going to the shops themselves. They understand that even people who do not feel sick might have the virus and can spread the illness. They know it is important that Anita and David's whole family stays at home.",
+    "z": ""
+  },
+  "72": {
+    "es": "Algunos vecinos traen v\u00edveres y medicinas para la fiebre, para evitar que la familia transmita la enfermedad yendo ellos mismos a las tiendas. Ellos entienden que incluso las personas que no se sienten enfermas pueden tener el virus y transmitir la enfermedad. Saben que es importante que toda la familia de Anita y David se quede en casa.",
+    "en": "\u00a0Some neighbors bring groceries and fever medicines so that the family does not spread the disease by going to the shops themselves. They understand that even people who do not feel sick might have the virus and can spread the illness. They know it is important that Anita and David's whole family stays at home.",
+    "z": ""
+  },
+  "73": {
+    "es": "David les dice a los vecinos: \u201c\u00a1No se acerquen a nuestros familiares enfermos! No queremos que ustedes tambi\u00e9n se enfermen. Pero, por favor, ore por ellos, cante canciones y vis\u00edtelos desde fuera del recinto\".",
+    "en": "David says to the neighbors, \u201cDo not come close to our sick family members! We do not want you to get sick, too. But please do pray for them, sing songs and visit with them from outside the enclosure.\u201d"
+  },
+  "74": {
+    "es": "David les dice a los vecinos: \u201c\u00a1No se acerquen a nuestros familiares enfermos! No queremos que ustedes tambi\u00e9n se enfermen. Pero, por favor, ore por ellos, cante canciones y vis\u00edtelos desde fuera del recinto\".",
+    "en": "David says to the neighbors, \u201cDo not come close to our sick family members! We do not want you to get sick, too. But please do pray for them, sing songs and visit with them from outside the enclosure.\u201d"
+  },
+  "75": {
+    "es": "El pastor viene cada dos d\u00edas para orar por los enfermos y animarlos leyendo las Escrituras en voz alta desde el otro lado de la cerca. Tambi\u00e9n tiene cuidado de usar una mascarilla.",
+    "en": "The pastor comes every couple of days to pray for the sick, and encourage them by reading the Scriptures aloud from across the fence. He is careful to wear a mask as well.",
+    "z": ""
+  },
+  "76": {
+    "es": "El pastor viene cada dos d\u00edas para orar por los enfermos y animarlos leyendo las Escrituras en voz alta desde el otro lado de la cerca. Tambi\u00e9n tiene cuidado de usar una mascarilla.",
+    "en": "The pastor comes every couple of days to pray for the sick, and encourage them by reading the Scriptures aloud from across the fence. He is careful to wear a mask as well.",
+    "z": ""
+  },
+  "77": {
+    "es": "El pastor viene cada dos d\u00edas para orar por los enfermos y animarlos leyendo las Escrituras en voz alta desde el otro lado de la cerca. Tambi\u00e9n tiene cuidado de usar una mascarilla.",
+    "en": "The pastor comes every couple of days to pray for the sick, and encourage them by reading the Scriptures aloud from across the fence. He is careful to wear a mask as well.",
+    "z": ""
+  },
+  "78": {
+    "es": "Cuando no pueden comer mucho, les da de comer un simple caldo caliente y sopa. Sus hijas ayudan cocinando el caldo.",
+    "en": "When they cannot eat much, he feeds them simple hot broth and soup. His daughters help by cooking the broth.",
+    "z": ""
+  },
+  "79": {
+    "es": "Cuando no pueden comer mucho, les da de comer un simple caldo caliente y sopa. Sus hijas ayudan cocinando el caldo.",
+    "en": "When they cannot eat much, he feeds them simple hot broth and soup. His daughters help by cooking the broth.",
+    "z": ""
+  },
+  "80": {
+    "es": "Cuando no pueden comer mucho, les da de comer un simple caldo caliente y sopa. Sus hijas ayudan cocinando el caldo.",
+    "en": "When they cannot eat much, he feeds them simple hot broth and soup. His daughters help by cooking the broth.",
+    "z": ""
+  },
+  "81": {
+    "es": "Su suegra, Flora, est\u00e1 tan enferma que no puede comer nada.",
+    "en": "His mother-in-law, Flora, gets so ill that she cannot eat anything."
+  },
+  "82": {
+    "es": "Su suegra, Flora, est\u00e1 tan enferma que no puede comer nada.",
+    "en": "His mother-in-law, Flora, gets so ill that she cannot eat anything."
+  },
+  "83": {
+    "es": "Entonces, David mezcla 8 cucharaditas de az\u00facar y 1/2 cucharadita de sal en un litro de agua pura para que Flora beba. Intenta asegurarse de que todos beban dos litros de l\u00edquido al d\u00eda.",
+    "en": "So, David\u00a0 mixes 8 teaspoons of sugar and 1/2 teaspoon of salt in a liter of clean water for Flora to drink. He tries to make sure that they all drink two liters of liquid per day.",
+    "z": ""
+  },
+  "84": {
+    "es": "Entonces, David mezcla 8 cucharaditas de az\u00facar y 1/2 cucharadita de sal en un litro de agua pura para que Flora beba. Intenta asegurarse de que todos beban dos litros de l\u00edquido al d\u00eda.",
+    "en": "So, David\u00a0 mixes 8 teaspoons of sugar and 1/2 teaspoon of salt in a liter of clean water for Flora to drink. He tries to make sure that they all drink two liters of liquid per day.",
+    "z": ""
+  },
+  "85": {
+    "es": "Entonces, David mezcla 8 cucharaditas de az\u00facar y 1/2 cucharadita de sal en un litro de agua pura para que Flora beba. Intenta asegurarse de que todos beban dos litros de l\u00edquido al d\u00eda.",
+    "en": "So, David\u00a0 mixes 8 teaspoons of sugar and 1/2 teaspoon of salt in a liter of clean water for Flora to drink. He tries to make sure that they all drink two liters of liquid per day.",
+    "z": ""
+  },
+  "86": {
+    "es": "Despu\u00e9s de varios d\u00edas de estar muy enferma, Anita comienza a sentirse mejor. Su hijo, Marcos, no se enferma mucho y se recupera muy r\u00e1pido.",
+    "en": "After several days of being very sick, Anita begins to feel better. Her son, Marcos, does not get very sick and recovers very quickly."
+  },
+  "87": {
+    "es": "Despu\u00e9s de varios d\u00edas de estar muy enferma, Anita comienza a sentirse mejor. Su hijo, Marcos, no se enferma mucho y se recupera muy r\u00e1pido.",
+    "en": "After several days of being very sick, Anita begins to feel better. Her son, Marcos, does not get very sick and recovers very quickly."
+  },
+  "88": {
+    "es": "David responde: \u201cOjal\u00e1 pudi\u00e9ramos. Pero debido al bloqueo no hay autobuses en funcionamiento. \u00a1Incluso Mar\u00eda, nuestra trabajadora de salud comunitaria, no puede venir!\"",
+    "en": "David replies, \u201cI wish we could. But because of the lockdown there are no buses running. Even Maria, our Community Health Worker, can\u2019t come!\""
+  },
+  "89": {
+    "es": "David responde: \u201cOjal\u00e1 pudi\u00e9ramos. Pero debido al bloqueo no hay autobuses en funcionamiento. \u00a1Incluso Mar\u00eda, nuestra trabajadora de salud comunitaria, no puede venir!\"",
+    "en": "David replies, \u201cI wish we could. But because of the lockdown there are no buses running. Even Maria, our Community Health Worker, can\u2019t come!\""
+  },
+  "90": {
+    "es": "Afortunadamente, Anita puede llamar a Mar\u00eda por tel\u00e9fono para recibir algunos consejos sobre c\u00f3mo cuidar a su madre.",
+    "en": "Thankfully, Anita is able to call Maria on the phone to get some advice about how to take care of her mother."
+  },
+  "91": {
+    "es": "Afortunadamente, Anita puede llamar a Mar\u00eda por tel\u00e9fono para recibir algunos consejos sobre c\u00f3mo cuidar a su madre.",
+    "en": "Thankfully, Anita is able to call Maria on the phone to get some advice about how to take care of her mother."
+  },
+  "92": {
+    "es": "Mar\u00eda le dice: \u201cRecuerde que todos ustedes deben quedarse en cuarentena para evitar contagiar al resto de la comunidad. Hay formas en que puedes ayudar a tu madre incluso si no puedes salir\".",
+    "en": "Maria tells her, \u201cRemember that all of you still need to quarantine from the rest of the community to keep from spreading the disease. There are ways you can help your mother even if you cannot go out.\u201d",
+    "z": ""
+  },
+  "93": {
+    "es": "Mar\u00eda le dice: \u201cRecuerde que todos ustedes deben quedarse en cuarentena para evitar contagiar al resto de la comunidad. Hay formas en que puedes ayudar a tu madre incluso si no puedes salir\".",
+    "en": "Maria tells her, \u201cRemember that all of you still need to quarantine from the rest of the community to keep from spreading the disease. There are ways you can help your mother even if you cannot go out.\u201d",
+    "z": ""
+  },
+  "94": {
+    "es": "Mar\u00eda le dice: \u201cRecuerde que todos ustedes deben quedarse en cuarentena para evitar contagiar al resto de la comunidad. Hay formas en que puedes ayudar a tu madre incluso si no puedes salir\".",
+    "en": "Maria tells her, \u201cRemember that all of you still need to quarantine from the rest of the community to keep from spreading the disease. There are ways you can help your mother even if you cannot go out.\u201d",
+    "z": ""
+  },
+  "95": {
+    "es": "David abre la puerta y pone una cortina para que entre el aire y las moscas se queden afuera. Cuando la puerta est\u00e1 cerrada, David se asegura de que la ventana est\u00e9 abierta porque el aire fresco ayuda a Flora a respirar m\u00e1s f\u00e1cilmente.",
+    "en": "",
+    "z": ""
+  },
+  "96": {
+    "es": "David abre la puerta y pone una cortina para que entre el aire y las moscas se queden afuera. Cuando la puerta est\u00e1 cerrada, David se asegura de que la ventana est\u00e9 abierta porque el aire fresco ayuda a Flora a respirar m\u00e1s f\u00e1cilmente.",
+    "en": "",
+    "z": ""
+  },
+  "97": {
+    "es": "David abre la puerta y pone una cortina para que entre el aire y las moscas se queden afuera. Cuando la puerta est\u00e1 cerrada, David se asegura de que la ventana est\u00e9 abierta porque el aire fresco ayuda a Flora a respirar m\u00e1s f\u00e1cilmente.",
+    "en": "",
+    "z": ""
+  },
+  "98": {
+    "es": "Anita ayuda a su madre a tomar sorbos de agua al menos cada hora.",
+    "en": "Anita helps her mother take sips of water at least every hour."
+  },
+  "99": {
+    "es": "Anita ayuda a su madre a tomar sorbos de agua al menos cada hora.",
+    "en": "Anita helps her mother take sips of water at least every hour."
+  },
+  "100": {
+    "es": "Anita aprende de Mar\u00eda a hacer que su madre respire profunda y lentamente cada hora. Esto ayuda a Flora a mantener sus pulmones funcionando correctamente.",
+    "en": "Anita learns from Maria to have her mother take some deep, slow breaths every hour. This helps Flora keep her lungs working properly.",
+    "z": ""
+  },
+  "101": {
+    "es": "Anita aprende de Mar\u00eda a hacer que su madre respire profunda y lentamente cada hora. Esto ayuda a Flora a mantener sus pulmones funcionando correctamente.",
+    "en": "Anita learns from Maria to have her mother take some deep, slow breaths every hour. This helps Flora keep her lungs working properly.",
+    "z": ""
+  },
+  "102": {
+    "es": "Anita aprende de Mar\u00eda a hacer que su madre respire profunda y lentamente cada hora. Esto ayuda a Flora a mantener sus pulmones funcionando correctamente.",
+    "en": "Anita learns from Maria to have her mother take some deep, slow breaths every hour. This helps Flora keep her lungs working properly.",
+    "z": ""
+  },
+  "103": {
+    "es": "Anita tambi\u00e9n ayuda a Flora a cambiar de posici\u00f3n a menudo. Intenta que Flora se acueste boca abajo siempre que puede porque eso tambi\u00e9n ayuda a los pulmones de Flora.",
+    "en": "Anita also helps Flora change her position often. She tries to have Flora lie on her stomach whenever she can because that also helps Flora\u2019s lungs.",
+    "z": ""
+  },
+  "104": {
+    "es": "Anita tambi\u00e9n ayuda a Flora a cambiar de posici\u00f3n a menudo. Intenta que Flora se acueste boca abajo siempre que puede porque eso tambi\u00e9n ayuda a los pulmones de Flora.",
+    "en": "Anita also helps Flora change her position often. She tries to have Flora lie on her stomach whenever she can because that also helps Flora\u2019s lungs.",
+    "z": ""
+  },
+  "105": {
+    "es": "Anita tambi\u00e9n ayuda a Flora a cambiar de posici\u00f3n a menudo. Intenta que Flora se acueste boca abajo siempre que puede porque eso tambi\u00e9n ayuda a los pulmones de Flora.",
+    "en": "Anita also helps Flora change her position often. She tries to have Flora lie on her stomach whenever she can because that also helps Flora\u2019s lungs.",
+    "z": ""
+  },
+  "106": {
+    "es": "Mar\u00eda tambi\u00e9n le ense\u00f1a a Anita otra forma de ayudar a los pulmones de Flora, haciendo una botella de burbujas.",
+    "en": "Maria also teaches Anita another way to help Flora\u2019s lungs, by making a bubble bottle.",
+    "z": ""
+  },
+  "107": {
+    "es": "Mar\u00eda tambi\u00e9n le ense\u00f1a a Anita otra forma de ayudar a los pulmones de Flora, haciendo una botella de burbujas.",
+    "en": "Maria also teaches Anita another way to help Flora\u2019s lungs, by making a bubble bottle.",
+    "z": ""
+  },
+  "108": {
+    "es": "Mar\u00eda tambi\u00e9n le ense\u00f1a a Anita otra forma de ayudar a los pulmones de Flora, haciendo una botella de burbujas.",
+    "en": "Maria also teaches Anita another way to help Flora\u2019s lungs, by making a bubble bottle.",
+    "z": ""
+  },
+  "109": {
+    "es": "Primero, Anita llena una botella de refresco con unos 5 cent\u00edmetros de agua y mete una pajita en la botella.",
+    "en": "First Anita fills a coke bottle with about 5 centimeters of water and puts a straw into the bottle.",
+    "z": ""
+  },
+  "110": {
+    "es": "Primero, Anita llena una botella de refresco con unos 5 cent\u00edmetros de agua y mete una pajita en la botella.",
+    "en": "First Anita fills a coke bottle with about 5 centimeters of water and puts a straw into the bottle.",
+    "z": ""
+  },
+  "111": {
+    "es": "Primero, Anita llena una botella de refresco con unos 5 cent\u00edmetros de agua y mete una pajita en la botella.",
+    "en": "First Anita fills a coke bottle with about 5 centimeters of water and puts a straw into the bottle.",
+    "z": ""
+  },
+  "112": {
+    "es": "Luego, Flora sopla suavemente en la pajita para hacer que el agua burbujee. Hacer esto varias veces al d\u00eda por lo menos cada dos horas ayudar\u00e1 a que sus pulmones funcionen mejor.",
+    "en": "Then Flora blows gently into the straw to make the water bubble. Doing this several times every couple of hours helps her lungs work better."
+  },
+  "113": {
+    "es": "Luego, Flora sopla suavemente en la pajita para hacer que el agua burbujee. Hacer esto varias veces al d\u00eda por lo menos cada dos horas ayudar\u00e1 a que sus pulmones funcionen mejor.",
+    "en": "Then Flora blows gently into the straw to make the water bubble. Doing this several times every couple of hours helps her lungs work better."
+  },
+  "114": {
+    "es": "Anita est\u00e1 agradecida por todos los consejos de Mar\u00eda. Flora lentamente comienza a sentirse mejor y recupera sus fuerzas.",
+    "en": "Anita is thankful for all of Maria's advice. Flora slowly begins to feel better and gets her strength back.",
+    "z": ""
+  },
+  "115": {
+    "es": "Anita est\u00e1 agradecida por todos los consejos de Mar\u00eda. Flora lentamente comienza a sentirse mejor y recupera sus fuerzas.",
+    "en": "Anita is thankful for all of Maria's advice. Flora slowly begins to feel better and gets her strength back.",
+    "z": ""
+  },
+  "116": {
+    "es": "Anita est\u00e1 agradecida por todos los consejos de Mar\u00eda. Flora lentamente comienza a sentirse mejor y recupera sus fuerzas.",
+    "en": "Anita is thankful for all of Maria's advice. Flora slowly begins to feel better and gets her strength back.",
+    "z": ""
+  },
+  "117": {
+    "es": "La familia lleva la cuenta de los d\u00edas transcurridos desde que Anita, Marco y Flora enfermaron por primera vez. Finalmente, al cabo de 14 d\u00edas, comprueban su temperatura. Ninguno de ellos ha tenido fiebre durante al menos 24 horas, y pueden volver a salir de casa, ya que no van a contagiar la enfermedad.",
+    "en": "The family keeps track of the days since Anita, Marco and Flora first got sick. Finally, after 14 days, they check their\u00a0temperatures. None of them have had a fever for at least 24 hours, and they are able to go out of the\u00a0house again.They will not spread the sickness anymore.",
+    "z": ""
+  },
+  "118": {
+    "es": "La familia lleva la cuenta de los d\u00edas transcurridos desde que Anita, Marco y Flora enfermaron por primera vez. Finalmente, al cabo de 14 d\u00edas, comprueban su temperatura. Ninguno de ellos ha tenido fiebre durante al menos 24 horas, y pueden volver a salir de casa, ya que no van a contagiar la enfermedad.",
+    "en": "The family keeps track of the days since Anita, Marco and Flora first got sick. Finally, after 14 days, they check their\u00a0temperatures. None of them have had a fever for at least 24 hours, and they are able to go out of the\u00a0house again.They will not spread the sickness anymore.",
+    "z": ""
+  },
+  "119": {
+    "es": "La familia lleva la cuenta de los d\u00edas transcurridos desde que Anita, Marco y Flora enfermaron por primera vez. Finalmente, al cabo de 14 d\u00edas, comprueban su temperatura. Ninguno de ellos ha tenido fiebre durante al menos 24 horas, y pueden volver a salir de casa, ya que no van a contagiar la enfermedad.",
+    "en": "The family keeps track of the days since Anita, Marco and Flora first got sick. Finally, after 14 days, they check their\u00a0temperatures. None of them have had a fever for at least 24 hours, and they are able to go out of the\u00a0house again.They will not spread the sickness anymore.",
+    "z": ""
+  },
+  "120": {
+    "es": "Muchos otros en su comunidad tienen Covid-19. Anita y David han aprendido tanto que ahora pueden ayudarlos a ellos y a sus familias.",
+    "en": "Many others in their community have Covid-19. Anita and David have learned so much that now they can help them and their families.",
+    "z": ""
+  },
+  "121": {
+    "es": "Muchos otros en su comunidad tienen Covid-19. Anita y David han aprendido tanto que ahora pueden ayudarlos a ellos y a sus familias.",
+    "en": "Many others in their community have Covid-19. Anita and David have learned so much that now they can help them and their families.",
+    "z": ""
+  },
+  "122": {
+    "es": "Muchos otros en su comunidad tienen Covid-19. Anita y David han aprendido tanto que ahora pueden ayudarlos a ellos y a sus familias.",
+    "en": "Many others in their community have Covid-19. Anita and David have learned so much that now they can help them and their families.",
+    "z": ""
+  },
+  "123": {
+    "es": "Tambi\u00e9n ayudan con los funerales de las personas que han muerto a causa del virus y brindan consuelo a las familias y la comunidad en duelo.",
+    "en": "Their church has been able to encourage people by praying and bringing food. They also help with funerals of people who have died from the virus and give comfort to the grieving families and community.",
+    "z": ""
+  },
+  "124": {
+    "es": "Tambi\u00e9n ayudan con los funerales de las personas que han muerto a causa del virus y brindan consuelo a las familias y la comunidad en duelo.",
+    "en": "Their church has been able to encourage people by praying and bringing food. They also help with funerals of people who have died from the virus and give comfort to the grieving families and community.",
+    "z": ""
+  },
+  "125": {
+    "es": "Tambi\u00e9n ayudan con los funerales de las personas que han muerto a causa del virus y brindan consuelo a las familias y la comunidad en duelo.",
+    "en": "Their church has been able to encourage people by praying and bringing food. They also help with funerals of people who have died from the virus and give comfort to the grieving families and community.",
+    "z": ""
+  },
+  "126": {
+    "es": "Todos esperan con ansias el momento en que puedan recibir la vacuna para protegerse contra Covid-19. Afortunadamente, mientras esperan, saben qu\u00e9 hacer.",
+    "en": "Everyone is looking forward to when they can get the vaccine to protect against Covid-19. Thankfully, while they wait, they know what to do.",
+    "z": ""
+  },
+  "127": {
+    "es": "Todos esperan con ansias el momento en que puedan recibir la vacuna para protegerse contra Covid-19. Afortunadamente, mientras esperan, saben qu\u00e9 hacer.",
+    "en": "Everyone is looking forward to when they can get the vaccine to protect against Covid-19. Thankfully, while they wait, they know what to do.",
+    "z": ""
+  },
+  "128": {
+    "es": "Todos esperan con ansias el momento en que puedan recibir la vacuna para protegerse contra Covid-19. Afortunadamente, mientras esperan, saben qu\u00e9 hacer.",
+    "en": "Everyone is looking forward to when they can get the vaccine to protect against Covid-19. Thankfully, while they wait, they know what to do.",
+    "z": ""
+  }
+}

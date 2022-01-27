@@ -1,0 +1,309 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "947fd470-47b2-4be1-8685-40f848c45d92",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Sobre Coronavirus",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre Coronavirus\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+  "downloadSource": "matt_gray@wycliffe.org/947fd470-47b2-4be1-8685-40f848c45d92",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "No cambie el texto de esta obra, pero puede traducirla, adaptarla a otras formas y distribuirla para prop\u00f3sitos no comerciales. Debe guardar los derechos del autor e ilustrador Weiman Kow.",
+  "copyright": "Copyright \u00a9 2020, Matthew A. Gray",
+  "credits": "Creado por Weiman Kow, instagram: weimankow",
+  "tags": [],
+  "pageCount": 22,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "GwYREzzd0l"
+    }
+  ],
+  "summary": "Este libro comparte consejos b\u00e1sicos para abordar el coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "M\u00e9xico",
+  "province": "Oaxaca",
+  "district": "Tlacolula",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "aHZJXPRIag"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "es": "espa\u00f1ol"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "2": {
+    "es": "Sobre Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "es": "Sobre Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "es": "Sobre Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "9": {
+    "es": "Hay solo UNA cosa que usted necesita entender de como un coronavirus"
+  },
+  "10": {
+    "es": "SE PROPAGA"
+  },
+  "11": {
+    "es": "la boca"
+  },
+  "12": {
+    "es": "la nariz"
+  },
+  "13": {
+    "es": "los ojos"
+  },
+  "14": {
+    "es": "entran en"
+  },
+  "15": {
+    "es": "Persona Sana"
+  },
+  "16": {
+    "es": "Persona Enferma"
+  },
+  "17": {
+    "es": "El virus se propaga cuando estas gotitas"
+  },
+  "18": {
+    "es": "Una distancia de 0,5m a 2m le proteger\u00e1 de gotitas grandes."
+  },
+  "19": {
+    "es": "1"
+  },
+  "20": {
+    "es": "0,5m-2m"
+  },
+  "21": {
+    "es": "\u00a1Ach\u00eds!"
+  },
+  "22": {
+    "es": "Entonces, si ve a alguien que tose, estornuda o est\u00e1 visiblemente enfermo, puede escoger"
+  },
+  "23": {
+    "es": "Puede toser o estornudar y este protege a todos los que lo rodean."
+  },
+  "24": {
+    "es": "2"
+  },
+  "25": {
+    "es": "Gracias"
+  },
+  "26": {
+    "es": "O,"
+  },
+  "27": {
+    "es": "Tal vez no est\u00e1 enferma, s\u00f3lo est\u00e1 protegi\u00e9ndose."
+  },
+  "28": {
+    "es": "Puede que personas infectadas no muestren s\u00edntomas, pero a\u00fan as\u00ed son contagiosas."
+  },
+  "29": {
+    "es": "En general, es buena idea evitar a las multitudes, porque no sabe quien puede estar enfermo."
+  },
+  "30": {
+    "es": "botones de elevadores"
+  },
+  "31": {
+    "es": "pa\u00f1uelos"
+  },
+  "32": {
+    "es": "vasos"
+  },
+  "33": {
+    "es": "dispositivos digitales"
+  },
+  "34": {
+    "es": "y aun el exterior del cubrebocas."
+  },
+  "35": {
+    "es": "pasamanos"
+  },
+  "36": {
+    "es": "rat\u00f3n"
+  },
+  "37": {
+    "es": "lapiceros"
+  },
+  "38": {
+    "es": "perillas"
+  },
+  "39": {
+    "es": "las manos"
+  },
+  "40": {
+    "es": "Sin embargo, a veces la saliva de un enfermo puede pegarse en otras cosas..."
+  },
+  "41": {
+    "es": "todos ustedes se contagien."
+  },
+  "42": {
+    "es": "o la cara de un querido"
+  },
+  "43": {
+    "es": "o frota los ojos,"
+  },
+  "44": {
+    "es": "Y si toca una de estas cosas sin querer, y despu\u00e9s se toca la cara"
+  },
+  "45": {
+    "es": "y la \u00fanica manera eficaz de eliminarlos es lavarlos con jab\u00f3n."
+  },
+  "46": {
+    "es": "Los virus pueden durar hasta 48 horas en objetos,"
+  },
+  "47": {
+    "es": "jab\u00f3n"
+  },
+  "48": {
+    "es": "precauciones"
+  },
+  "49": {
+    "es": "Por eso, tambi\u00e9n es bueno seguir estas"
+  },
+  "50": {
+    "es": "l\u00e1vese hasta aqu\u00ed"
+  },
+  "51": {
+    "es": "jab\u00f3n"
+  },
+  "52": {
+    "es": "codo"
+  },
+  "53": {
+    "es": "20 segundos despu\u00e9s de tocar una superficie presuntamente contaminada."
+  },
+  "54": {
+    "es": "Tiempo suficiente para cantar \"Happy Birthday\" dos veces"
+  },
+  "55": {
+    "es": "debajo las u\u00f1as"
+  },
+  "56": {
+    "es": "por 20 segundos"
+  },
+  "57": {
+    "es": "entre los dedos"
+  },
+  "58": {
+    "es": "l\u00e1vese el dorso de las manos"
+  },
+  "59": {
+    "es": "\u00bfQu\u00e9 quiere decir \"completamente\"?"
+  },
+  "60": {
+    "es": "Si lo hizo, no se preocupe.\u00a0 Solo l\u00e1vese las manos con jab\u00f3n despu\u00e9s."
+  },
+  "61": {
+    "es": "Adem\u00e1s, no toque el exterior del cubrebocas si puede evitarlo."
+  },
+  "62": {
+    "es": "gotitas"
+  },
+  "63": {
+    "es": "La bacteria crece en el interior del cubrebocas si lo usa demasiado tiempo."
+  },
+  "64": {
+    "es": "Cubra la tos con un pa\u00f1uelo desechable y t\u00edrelo inmediatamente en un bote.\u00a0 No use un cubrebocas m\u00e1s de un d\u00eda."
+  },
+  "65": {
+    "es": "nene"
+  },
+  "66": {
+    "es": "papi"
+  },
+  "67": {
+    "es": "mami"
+  },
+  "68": {
+    "es": "No se toque los ojos, las orejas ni la nariz."
+  },
+  "69": {
+    "es": "Cada quien tiene su propia toalla"
+  },
+  "70": {
+    "es": "Evite contacto con personas enfermas.\u00a0 No comparta art\u00edculos personales, cubiertos, vasos ni toallas."
+  },
+  "71": {
+    "es": "Busque atenci\u00f3n m\u00e9dica si est\u00e1 enfermo."
+  },
+  "72": {
+    "es": "Y finalmente,"
+  },
+  "73": {
+    "es": "jab\u00f3n"
+  },
+  "74": {
+    "es": "\u00a1Cu\u00eddense, todos!"
+  },
+  "77": {
+    "es": "Sobre Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "78": {
+    "es": "Sobre Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "79": {
+    "es": "Sobre Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "81": {
+    "es": "Im\u00e1genes por Weiman Kow, \u00a9 2020 Weiman Kow. CC BY-NC-SA 4.0."
+  },
+  "84": {
+    "es": "Traducido a espa\u00f1ol por Matthew A. Gray con consejos de Gamaliel Astivia y Alfredo Balbuena"
+  },
+  "86": {
+    "es": "Creado por Weiman Kow, instagram: weimankow"
+  }
+}

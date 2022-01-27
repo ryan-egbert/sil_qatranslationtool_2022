@@ -1,0 +1,322 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "7beb3419-75d7-4e7d-af50-ca69352ae9e5",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Local-Community",
+  "folio": false,
+  "isRtl": false,
+  "title": "\u00bfC\u00f3mo ayudar a un miembro\nde la familia con COVID-19?",
+  "allTitles": "{\"es\":\"\u00bfC\u00f3mo ayudar a un miembro\nde la familia con COVID-19?\"}",
+  "originalTitle": "\u00bfC\u00f3mo ayudar a un miembro\nde la familia con COVID-19?",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "1a648b00-1ec0-46a7-be11-b0dec22fa0f4",
+  "downloadSource": "cfsblomm@gmail.com/7beb3419-75d7-4e7d-af50-ca69352ae9e5",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2021, ASOCIACI\u00d3N CRISTIANA MANOS EN ACCI\u00d3N",
+  "credits": "ASOCIACI\u00d3N CRISATIANA MANOS EN ACCI\u00d3N",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 20,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "asUh6dYuEO"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "L5o89HLV0w"
+    }
+  ],
+  "summary": "ASOCIACI\u00d3N CRISTIANA MANOS EN ACCI\u00d3N ",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "fpj1aahDD9"
+  },
+  "tools": [
+    {
+      "name": "signLanguage",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "signLanguageTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "signLanguage",
+    "signLanguage:csn",
+    "video"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "es": "Spanish",
+    "csn": "LENGUA DE SE\u00d1AS COLOMBIANA (LSC)"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "2": {
+    "es": "de la familia con COVID-19?"
+  },
+  "3": {
+    "es": "de la familia con COVID-19?"
+  },
+  "14": {
+    "es": "de la familia con COVID-19?"
+  },
+  "15": {
+    "es": "de la familia con COVID-19?"
+  },
+  "18": {
+    "csn": ""
+  },
+  "23": {
+    "csn": "ASOCIACI\u00d3N CRISTIANA MANOS EN ACCI\u00d3N"
+  },
+  "26": {
+    "csn": "ASOCIACI\u00d3N CRISATIANA MANOS EN ACCI\u00d3N"
+  },
+  "29": {
+    "z": "",
+    "es": "\u00a0\u00bfC\u00f3mo ayudar a un miembro de la familia con COVID-19?",
+    "csn": ""
+  },
+  "30": {
+    "z": "",
+    "es": "\u00a0\u00bfC\u00f3mo ayudar a un miembro de la familia con COVID-19?",
+    "csn": ""
+  },
+  "31": {
+    "z": "",
+    "es": "\u00a0\u00bfC\u00f3mo ayudar a un miembro de la familia con COVID-19?",
+    "csn": ""
+  },
+  "32": {
+    "z": "",
+    "es": "Qu\u00e9dese en su casa.",
+    "csn": ""
+  },
+  "33": {
+    "z": "",
+    "es": "Qu\u00e9dese en su casa.",
+    "csn": ""
+  },
+  "34": {
+    "z": "",
+    "es": "Qu\u00e9dese en su casa.",
+    "csn": ""
+  },
+  "35": {
+    "z": "",
+    "es": "Para recibir atenci\u00f3n m\u00e9dica puede tener una vista virtual con el doctor o con\u00a0 telemedicina.",
+    "csn": ""
+  },
+  "36": {
+    "z": "",
+    "es": "Para recibir atenci\u00f3n m\u00e9dica puede tener una vista virtual con el doctor o con\u00a0 telemedicina.",
+    "csn": ""
+  },
+  "37": {
+    "z": "",
+    "es": "Para recibir atenci\u00f3n m\u00e9dica puede tener una vista virtual con el doctor o con\u00a0 telemedicina.",
+    "csn": ""
+  },
+  "38": {
+    "z": "",
+    "es": "La familia y los amigos pueden compartir tiempo y haga actividades con la persona enferma por medios virtuales o video llamadas asi se mantendr\u00e1 de buen \u00e1mino.",
+    "csn": ""
+  },
+  "39": {
+    "z": "",
+    "es": "La familia y los amigos pueden compartir tiempo y haga actividades con la persona enferma por medios virtuales o video llamadas asi se mantendr\u00e1 de buen \u00e1mino.",
+    "csn": ""
+  },
+  "40": {
+    "z": "",
+    "es": "La familia y los amigos pueden compartir tiempo y haga actividades con la persona enferma por medios virtuales o video llamadas asi se mantendr\u00e1 de buen \u00e1mino.",
+    "csn": ""
+  },
+  "41": {
+    "z": "",
+    "es": "Prepare comida para el enfermo.",
+    "csn": ""
+  },
+  "42": {
+    "z": "",
+    "es": "Prepare comida para el enfermo.",
+    "csn": ""
+  },
+  "43": {
+    "z": "",
+    "es": "Prepare comida para el enfermo.",
+    "csn": ""
+  },
+  "44": {
+    "z": "",
+    "es": "Ofr\u00e9zcale agua para mantenerle hidratado.",
+    "csn": ""
+  },
+  "45": {
+    "z": "",
+    "es": "Ofr\u00e9zcale agua para mantenerle hidratado.",
+    "csn": ""
+  },
+  "46": {
+    "z": "",
+    "es": "Ofr\u00e9zcale agua para mantenerle hidratado.",
+    "csn": ""
+  },
+  "47": {
+    "z": "",
+    "es": "L\u00e1vese las manos con frecuencia y mantenga la ropa de la persona enferma limpia.",
+    "csn": ""
+  },
+  "48": {
+    "z": "",
+    "es": "L\u00e1vese las manos con frecuencia y mantenga la ropa de la persona enferma limpia.",
+    "csn": ""
+  },
+  "49": {
+    "z": "",
+    "es": "L\u00e1vese las manos con frecuencia y mantenga la ropa de la persona enferma limpia.",
+    "csn": ""
+  },
+  "50": {
+    "z": "",
+    "es": "Si necesita comprar medicamentos, pida un servicio a domicilio.",
+    "csn": ""
+  },
+  "51": {
+    "z": "",
+    "es": "Si necesita comprar medicamentos, pida un servicio a domicilio.",
+    "csn": ""
+  },
+  "52": {
+    "z": "",
+    "es": "Si necesita comprar medicamentos, pida un servicio a domicilio.",
+    "csn": ""
+  },
+  "53": {
+    "z": "",
+    "es": "Sea responsable con el autocuidado y el de los dem\u00e1s.",
+    "csn": ""
+  },
+  "54": {
+    "z": "",
+    "es": "Sea responsable con el autocuidado y el de los dem\u00e1s.",
+    "csn": ""
+  },
+  "55": {
+    "z": "",
+    "es": "Sea responsable con el autocuidado y el de los dem\u00e1s.",
+    "csn": ""
+  },
+  "56": {
+    "z": "",
+    "es": "Todos los miembros de la familia deben cuidar de su propia salud.",
+    "csn": ""
+  },
+  "57": {
+    "z": "",
+    "es": "Todos los miembros de la familia deben cuidar de su propia salud.",
+    "csn": ""
+  },
+  "58": {
+    "z": "",
+    "es": "Todos los miembros de la familia deben cuidar de su propia salud.",
+    "csn": ""
+  },
+  "59": {
+    "z": "",
+    "es": "En una dieta balanceada y nutritiva no pueden faltar las frutas y las verduras pues contribuyen a la buena salud.",
+    "csn": ""
+  },
+  "60": {
+    "z": "",
+    "es": "En una dieta balanceada y nutritiva no pueden faltar las frutas y las verduras pues contribuyen a la buena salud.",
+    "csn": ""
+  },
+  "61": {
+    "z": "",
+    "es": "En una dieta balanceada y nutritiva no pueden faltar las frutas y las verduras pues contribuyen a la buena salud.",
+    "csn": ""
+  },
+  "62": {
+    "z": "",
+    "es": "Est\u00e9 atento a los signos de alarma, como la fiebre alta.",
+    "csn": ""
+  },
+  "63": {
+    "z": "",
+    "es": "Est\u00e9 atento a los signos de alarma, como la fiebre alta.",
+    "csn": ""
+  },
+  "64": {
+    "z": "",
+    "es": "Est\u00e9 atento a los signos de alarma, como la fiebre alta.",
+    "csn": ""
+  },
+  "65": {
+    "z": "",
+    "es": "Abra la ventana para aumentar la circulaci\u00f3n de aire.",
+    "csn": ""
+  },
+  "66": {
+    "z": "",
+    "es": "Abra la ventana para aumentar la circulaci\u00f3n de aire.",
+    "csn": ""
+  },
+  "67": {
+    "z": "",
+    "es": "Abra la ventana para aumentar la circulaci\u00f3n de aire.",
+    "csn": ""
+  },
+  "68": {
+    "z": "",
+    "es": "Limitar sus contactos con otros.",
+    "csn": ""
+  },
+  "69": {
+    "z": "",
+    "es": "Limitar sus contactos con otros.",
+    "csn": ""
+  },
+  "70": {
+    "z": "",
+    "es": "Limitar sus contactos con otros.",
+    "csn": ""
+  }
+}

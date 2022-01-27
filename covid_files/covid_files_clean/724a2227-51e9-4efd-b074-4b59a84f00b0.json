@@ -1,0 +1,338 @@
+{
+    "allTitles": "{\"ags\":\"\u0190tsulu Y\u0254 Korona Varos \u018fne W\u0254h\u0259bh\u0259r\u0259 K\u0254k\u0259r\u0259\",\"en\":\"What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\",\"fr\":\"Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\"}",
+    "author": null,
+    "bookInstanceId": "724a2227-51e9-4efd-b074-4b59a84f00b0",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,4797e2a5-bc4f-48a0-b988-e10ff8deb4bc,5ac3444b-2397-4a3e-ac07-9e4aeaf757b4",
+    "bookSamples": {
+        "0": {
+            "ags": "\u0190tsulu Y\u0254 Korona Varos \u018fne W\u0254h\u0259bh\u0259r\u0259 K\u0254k\u0259r\u0259",
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19",
+            "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19"
+        },
+        "1": {
+            "ags": "",
+            "eng": ""
+        },
+        "2": {
+            "ags": "Cameroon Association for Bible Translation and Literacy",
+            "eng": "Cameroon Association for\nBible Translation and Literacy"
+        },
+        "3": {
+            "ags": "",
+            "eng": ""
+        },
+        "4": {
+            "ags": "\u0190tsulu Y\u0254 Korona Varos \u018fne W\u0254h\u0259bh\u0259r\u0259 K\u0254k\u0259r\u0259",
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19",
+            "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19"
+        },
+        "5": {
+            "ags": "",
+            "eng": "The information in this booklet is taken\nfrom the\nWorld Health Organization (WHO)\nwebsite.\nhttps://www.who.int/home"
+        },
+        "6": {
+            "ags": "",
+            "eng": ""
+        },
+        "7": {
+            "ags": "",
+            "eng": ""
+        },
+        "8": {
+            "ags": "",
+            "eng": "All pictures belong to CABTAL, except\np.2 belongs to Pixabay\np.6 (butcher) and p.7 (crowd) belong to Wikimedia Commons\np.7 (people watching TV) belongs to United Nations (Photo # 616869 UN Photo/Marco Dormino)\n\nCABTAL Contacts\n\nWeb : www.cabtal.org\nMail : info_cabtal@cabtal.org\n\nTel : (237) 699 833 535\nWhatsApp : (237) 654 439 659\n\nP.O. Box : 16 550 Yaound\u00e9, Cameroon"
+        },
+        "9": {
+            "ags": "",
+            "eng": ""
+        },
+        "10": {
+            "ags": "",
+            "eng": ""
+        },
+        "11": {
+            "ags": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 M\u025br\u0259\u014bg\u0259 M\u0259 Minu",
+            "eng": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY"
+        },
+        "12": {
+            "ags": "- Koronavaros\n- M\u0254\u014bgulu \u0259n\u0259 \u0259mam\u0259 \u0254wusu uhu\u014bgu\n- Em\u0259n\u0259 y\u0254 Koron\u0259\n- Ef\u0259gh\u0259 \u0259n\u0259 Korunu owu\u014bgun\u0259 ot\u0259\n- Ef\u0259gh\u0259 \u0259n\u0259 k\u025bnyini wok\u0259 \u0254hu \u0254vu \u0259h\u0259 \u0254gunu n\u025bni\n- \u0186g\u0259 \u0259n\u0259 w\u0254h\u0259bh\u0259r\u0259 k\u025bnyini korona uhu\u014bgu uvu\n",
+            "eng": "- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n"
+        },
+        "13": {
+            "ags": "",
+            "eng": ""
+        },
+        "14": {
+            "ags": "",
+            "eng": ""
+        },
+        "15": {
+            "ags": "",
+            "eng": ""
+        },
+        "16": {
+            "ags": "p.2\np.3\np.4\np.5\n\n\np.6\n\np.8\n",
+            "eng": "p.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8"
+        },
+        "17": {
+            "ags": "Koronavaros\n\nKoronavaros m\u025bbiri ots\u0259 (KOVID_19), amu varos woyi \u0254mu ulu \u0254b\u0259. Mah\u0259 \u025bkiri awunu bh\u0259n\u0259 kitundu ka Chayna \u0259s\u0259 k\u0259 mobughu m\u0259 otu ak\u0259l\u0259 n\u0259 utu on\u0259 k\u0259 \u0254t\u0259\u014bg\u0259 W\u025bkrishi. Ochishi ulu em\u0259n\u0259 odyo\u014bgi k\u0254yu. Wutodi wo\u030cchi \u0254not\u0259 k\u0259 \u0254hu wu o\u014bgulu, \u0259mam\u0259 uzu ongulu \u0254vu ini. Koronavaros way\u0259nd\u0259 ote mitundu m\u0259 owumu mikwiku. M\u0254\u014bgulu \u00a0m\u0259n\u0259h\u0254k\u0259r\u0259 \u0254wulu \u0259n\u0259 ulu \u0254hu.",
+            "eng": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known."
+        },
+        "18": {
+            "ags": "",
+            "eng": ""
+        },
+        "19": {
+            "ags": "",
+            "eng": ""
+        },
+        "20": {
+            "ags": "O\u014bgulu w\u0254t\u0259ban\u0259",
+            "eng": "Elderly person"
+        },
+        "21": {
+            "ags": "",
+            "eng": ""
+        },
+        "22": {
+            "ags": "O\u014bgul \u0259n\u0259\u00a0\u0254fughuru n\u0259 ot\u0259m\u0259\u00a0",
+            "eng": "Person with a heart condition or disease"
+        },
+        "23": {
+            "ags": "M\u0254\u014bgulu \u0259n\u0259 \u0259mam\u0259 mawusu \u025bki Koronavaros\n\nVaros woyi n\u025bni \u0259mam\u0259 uhu\u014bgu di \u0259samu wuneli \u0254yunu, mamu o\u014bgulu w\u0254t\u0259bhan\u0259. M\u0254\u014bgulu mat\u0259bhan\u0259 n\u0259 m\u0254\u014bgulu \u0259n\u0259 mah\u0259 ah\u0259bh\u0259r\u0259 agunu y\u0254k\u0259r\u0259 di: \u0254gunu wu iimu, daybitis, agunu yi ot\u0259m\u0259, n\u0259 \u0254gunu wu \u025bshi\u014bgi ot\u0259m\u0259 \u025bbighiryan\u0259 \u0259mam\u0259 mofi obishi agunu \u0254gunu n\u025bni es\u0259\u014b\u0259 es\u0259\u014b\u0259.",
+            "eng": "Vulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus."
+        },
+        "24": {
+            "ags": "",
+            "eng": ""
+        },
+        "25": {
+            "ags": "",
+            "eng": ""
+        },
+        "26": {
+            "ags": "-\u0186hu ozunwan\u0259\n-M\u0254burwan\u0259",
+            "eng": "Fever\nFatigue"
+        },
+        "27": {
+            "ags": "",
+            "eng": ""
+        },
+        "28": {
+            "ags": "-Kan\u0259\u014bg\u0259r\u0259\n-K\u0254yu agh\u0259\u014bg\u0259 ak\u0259nan\u0259",
+            "eng": "Dry cough\nMuscle aches and pains"
+        },
+        "29": {
+            "ags": "Em\u0259n\u0259 yi \u0254gunu W\u0254 Koronavaros\n\nEm\u0259n\u0259 yi \u0254gunu w\u0254 Koronavaros ezhi ekp\u0259 di em\u0259n\u0259 yi k\u0254yu, amu: \u0254hu ozunwan\u0259, k\u0254y\u030cu an\u0259\u014bg\u0259ran\u0259, agh\u0259ng\u0259 \u0254punwan\u0259, m\u0254burwan\u0259. M\u0254\u014bgulu mamu magunu koronavaros moguru \u0254hu iwini opu ond\u0259\u014b\u0259 \u0254not\u0259, mah\u0259bh\u0259r\u0259\u014b\u0259 ohu\u0301ndu o\u014bgilyan\u0259, mah\u0259bh\u0259r\u0259\u014b\u0259 ohundu orwan\u0259, ka\u014bgura\u014bgu kafi\u014b\u0259, mamu k\u025bshi. \u00a0M\u0254\u014bgulu mamu mah\u0259bh\u0259r\u0259 \u0254gunu n\u025bni m\u0259n\u0254h\u0259bh\u0259r\u0259 em\u0259n\u0259 en\u0259 en\u0259, mamu okp\u0259 d\u0254d\u0259. M\u0254\u014bgulu mamu mah\u0259bh\u0259r\u0259 \u0254gunu n\u025bni may\u0259bh\u0259 okp\u0259 ini o\u014bgulu \u0259n\u0254f\u0259r\u0259 bu.",
+            "eng": "Symptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment."
+        },
+        "30": {
+            "ags": "",
+            "eng": ""
+        },
+        "31": {
+            "ags": "O\u014bgulu \u0259n\u0259 \u0254h\u0259bh\u0259r\u0259 k\u0254yu",
+            "eng": "Person with a cough"
+        },
+        "32": {
+            "ags": "Efegh\u0259 \u0259n\u0259 koronavaros owu\u014bgu\u014b\u0259 ot\u0259\n\nAmu m\u0254\u014bgulu \u0259n\u0259 mah\u0259bh\u0259r\u0259 koronavaros motumburu ag\u0259bh\u0259 \u0254h\u0259 k\u0259 m\u0254\u014bgulu m\u0254n\u0254b\u0259. O\u014bgulu \u0259n\u0259 \u0254h\u0259bh\u0259r\u0259 koronavaros o\u0302kishi k\u0254yu m\u0259 o\u0302tishi \u025btishi (o\u0302kpishi \u025bkpish), tat\u0301u\u014bgu t\u0259 mondz\u0259gh\u0259r\u0259 n\u0259 t\u0259 k\u0254yu t\u025bt\u0301\u0259 ilu ot\u0259 k\u0259 \u0254dzu ivi m\u0259 iyot\u0259 k\u0259 ohundu ivi. Tat\u0301u\u014bgu \u025btini ten\u0301d\u0259 ot\u0259 k\u0259 \u00a0\u0254dzu m\u0259 iyot\u0259 k\u0259 ohundu wu o\u014bgulu wok\u0259r\u0259, \u0259mam\u0259 o\u014bgulu \u0254vwini \u0254h\u0259bh\u0259r\u0259 koronavaros. O\u014bgulu ochi \u0254g\u0259 \u0259n\u0259 tat\u0301u\u014bgu n\u025bni tegb\u0259 \u025bvyos\u0259 \u0254hini ochi kishi iki, m\u0259 ohundu ivi, m\u0259 \u0254dzu ivi, umu h\u0259n\u0259 oki koronavaros.",
+            "eng": "Transmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected."
+        },
+        "33": {
+            "ags": "",
+            "eng": ""
+        },
+        "34": {
+            "ags": "",
+            "eng": ""
+        },
+        "35": {
+            "ags": "",
+            "eng": ""
+        },
+        "36": {
+            "ags": "",
+            "eng": ""
+        },
+        "37": {
+            "ags": "Ef\u0259gh\u0259 \u0259n\u0259 K\u025bnyini Wok\u0259 \u0186hu \u0186vu \u018fh\u0259 \u0186gunu N\u025bni",
+            "eng": "How to protect yourself"
+        },
+        "38": {
+            "ags": "1. T\u025bchi \u0254\u014bgu\u014b\u0259 oshi \u025bzhi, m\u0259 ohundu \u0254vu, m\u0259 \u0254dzu \u0254vu ot\u0259 k\u0254bu.\u00a0",
+            "eng": "1. Avoid touching eyes, nose, mouth."
+        },
+        "39": {
+            "ags": "",
+            "eng": ""
+        },
+        "40": {
+            "ags": "2. Ts\u0259bh\u0259 osu abu \u025bzhi k\u0254ts\u0259bh\u0259 \u0254su ot\u0259 kusu tokpi tikwiku. \u0186hini wushi\u014bgi ot\u0259 kebhi kiburu kebhinjyan\u0259.\u00a0",
+            "eng": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel."
+        },
+        "41": {
+            "ags": "",
+            "eng": ""
+        },
+        "42": {
+            "ags": "3. Kishi\u0301 k\u0254yu n\u0259 wokpishi\u0301 \u025bkpishi \u0259sot\u0259 k\u0259 ets\u0259 y\u0254bu.\u00a0",
+            "eng": "3. Cough and sneeze into the crook of your arm.\n"
+        },
+        "43": {
+            "ags": "",
+            "eng": ""
+        },
+        "44": {
+            "ags": "4. Di okp\u0259 wuri \u025bnyimi y\u025bku n\u0259 di okp\u0259 wochi \u025bnyimi \u0259n\u0259 eb\u0259r\u0259 eemu. \u014ag\u0259 wuch\u025bchini, wots\u0259bh\u0259 osu abu ot\u0259 kamuru m\u025bbhinjyan\u0259 n\u0259 kusu.",
+            "eng": "4. Avoid eating raw meat and touching live animals."
+        },
+        "45": {
+            "ags": "",
+            "eng": ""
+        },
+        "46": {
+            "ags": "",
+            "eng": ""
+        },
+        "47": {
+            "ags": "",
+            "eng": ""
+        },
+        "48": {
+            "ags": "",
+            "eng": ""
+        },
+        "49": {
+            "ags": "5. Mu, w\u0254n\u0259 uji \u0254h\u0259 k\u0259 o\u014bgulu \u0259n\u0259 o\u0302kishi k\u0254yu mamu o\u0302kpishi \u025bkpishi k\u0254fugh\u0259 \u0254bu ubhi\u014bgiri.\n",
+            "eng": "5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n"
+        },
+        "50": {
+            "ags": "",
+            "eng": ""
+        },
+        "51": {
+            "ags": "6. Wutotumu\u014b\u0259 \u0254bu \u0254h\u0259 k\u0259 m\u0254\u014bgulu. Wupinyini m\u0254\u014bgulu ot\u0259 k\u0259 es\u0259\u014bg\u0259 \u0254bu m\u0259 wupinyini okp\u0259 m\u0254\u014bgulu ot\u0259 k\u0259 \u025by\u0259bh\u0259 \u0254dzu.",
+            "eng": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting."
+        },
+        "52": {
+            "ags": "",
+            "eng": ""
+        },
+        "53": {
+            "ags": "7. Wutamu \u0254\u014bgu\u014b\u0259 \u025bvyot\u0259 kitu.",
+            "eng": "7. Avoid gatherings.\n"
+        },
+        "54": {
+            "ags": "",
+            "eng": ""
+        },
+        "55": {
+            "ags": "8. Wut\u0254wu\u014bgu obughu\u014b\u0259.",
+            "eng": "8. Restrict movement."
+        },
+        "56": {
+            "ags": "",
+            "eng": ""
+        },
+        "57": {
+            "ags": "9. Wokiri ok\u0259r\u0259 \u025btsulu \u0259n\u0259 itumburu n\u0259 koronavaros. N\u0259 w\u0254t\u0259mb\u0259 \u0254wulu \u0259n\u0259 \u025btsulu \u025bzhini ilu \u0254hu.",
+            "eng": "9. Keep informed and verify the source of information."
+        },
+        "58": {
+            "ags": "\u0186g\u0259 \u0259n\u0259 w\u0254h\u0259bh\u0259r\u0259 k\u025bnyini korona uhu\u014bgu uvu.\n\nWodi em\u0259n\u0259 y\u0254 Koronavaros: \u00a0\n- T\u025bchi \u0254\u014bgun\u0259 m\u0254\u014bgulu \u00a0\n- Mu kitumbu-itumbu \u00a0\n- Biri 1510 wonyini \u0254g\u0259 \u0259n\u0259 dutu \u0254k\u0259r\u0259 \u0254b\u0259. \u00a0\u0186humbu yi mitighiri y\u0254k\u0259r\u0259:\u00a0\n",
+            "eng": "What to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:"
+        },
+        "59": {
+            "ags": "",
+            "eng": ""
+        },
+        "60": {
+            "ags": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979",
+            "eng": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979"
+        },
+        "61": {
+            "ags": "",
+            "eng": ""
+        },
+        "62": {
+            "ags": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761",
+            "eng": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761"
+        },
+        "63": {
+            "ags": "",
+            "eng": ""
+        },
+        "64": {
+            "ags": "K\u0259n\u0254ts\u0259 iwunu m\u0259n\u0259h\u0254kiri ef\u0259gh\u0259 \u0259n\u0259 kaf\u0259r\u0259 KOVID_19, mogiri m\u0254b\u0259 okp\u0259 iyish mekiri\u014b\u0259 ef\u0259gh\u0259 \u0259n\u0259 kogi af\u0259r\u0259 \u0254gunu n\u025bni ot\u0259.\n\nO\u014bgulu wanan\u0259 \u0254h\u0259bh\u0259r\u0259 kaf\u0259 akp\u0259ran\u0259, onyini minu m\u025bch\u025bchi k\u0254k\u0259 kiwundu k\u0254hu iki n\u0259 m\u0254\u014bgulu \u0259n\u0259 mamu n\u0259 umu.",
+            "eng": "To date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them."
+        },
+        "65": {
+            "ags": "",
+            "eng": "Definition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed"
+        },
+        "66": {
+            "ags": "",
+            "eng": ""
+        },
+        "67": {
+            "ags": "",
+            "eng": "\u0190tsulu Y\u0254 Korona Varos \u018fne W\u0254h\u0259bh\u0259r\u0259 K\u0254k\u0259r\u0259\n\n\u00a9 CABTAL, 2020\n"
+        }
+    },
+    "bookText": {
+        "ags": "\u0190tsulu Y\u0254 Korona Varos \u018fne W\u0254h\u0259bh\u0259r\u0259 K\u0254k\u0259r\u0259\n\nCameroon Association for Bible Translation and Literacy\n\n\u0190tsulu Y\u0254 Korona Varos \u018fne W\u0254h\u0259bh\u0259r\u0259 K\u0254k\u0259r\u0259\n\n\n\n\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 M\u025br\u0259\u014bg\u0259 M\u0259 Minu\n- Koronavaros\n- M\u0254\u014bgulu \u0259n\u0259 \u0259mam\u0259 \u0254wusu uhu\u014bgu\n- Em\u0259n\u0259 y\u0254 Koron\u0259\n- Ef\u0259gh\u0259 \u0259n\u0259 Korunu owu\u014bgun\u0259 ot\u0259\n- Ef\u0259gh\u0259 \u0259n\u0259 k\u025bnyini wok\u0259 \u0254hu \u0254vu \u0259h\u0259 \u0254gunu n\u025bni\n- \u0186g\u0259 \u0259n\u0259 w\u0254h\u0259bh\u0259r\u0259 k\u025bnyini korona uhu\u014bgu uvu\n\n\n\n\np.2\np.3\np.4\np.5\n\n\np.6\n\np.8\n\nKoronavaros\n\nKoronavaros m\u025bbiri ots\u0259 (KOVID_19), amu varos woyi \u0254mu ulu \u0254b\u0259. Mah\u0259 \u025bkiri awunu bh\u0259n\u0259 kitundu ka Chayna \u0259s\u0259 k\u0259 mobughu m\u0259 otu ak\u0259l\u0259 n\u0259 utu on\u0259 k\u0259 \u0254t\u0259\u014bg\u0259 W\u025bkrishi. Ochishi ulu em\u0259n\u0259 odyo\u014bgi k\u0254yu. Wutodi wo\u030cchi \u0254not\u0259 k\u0259 \u0254hu wu o\u014bgulu, \u0259mam\u0259 uzu ongulu \u0254vu ini. Koronavaros way\u0259nd\u0259 ote mitundu m\u0259 owumu mikwiku. M\u0254\u014bgulu \u00a0m\u0259n\u0259h\u0254k\u0259r\u0259 \u0254wulu \u0259n\u0259 ulu \u0254hu.\n\n\nO\u014bgulu w\u0254t\u0259ban\u0259\n\nO\u014bgul \u0259n\u0259\u00a0\u0254fughuru n\u0259 ot\u0259m\u0259\u00a0\nM\u0254\u014bgulu \u0259n\u0259 \u0259mam\u0259 mawusu \u025bki Koronavaros\n\nVaros woyi n\u025bni \u0259mam\u0259 uhu\u014bgu di \u0259samu wuneli \u0254yunu, mamu o\u014bgulu w\u0254t\u0259bhan\u0259. M\u0254\u014bgulu mat\u0259bhan\u0259 n\u0259 m\u0254\u014bgulu \u0259n\u0259 mah\u0259 ah\u0259bh\u0259r\u0259 agunu y\u0254k\u0259r\u0259 di: \u0254gunu wu iimu, daybitis, agunu yi ot\u0259m\u0259, n\u0259 \u0254gunu wu \u025bshi\u014bgi ot\u0259m\u0259 \u025bbighiryan\u0259 \u0259mam\u0259 mofi obishi agunu \u0254gunu n\u025bni es\u0259\u014b\u0259 es\u0259\u014b\u0259.\n\n\n-\u0186hu ozunwan\u0259\n-M\u0254burwan\u0259\n\n-Kan\u0259\u014bg\u0259r\u0259\n-K\u0254yu agh\u0259\u014bg\u0259 ak\u0259nan\u0259\nEm\u0259n\u0259 yi \u0254gunu W\u0254 Koronavaros\n\nEm\u0259n\u0259 yi \u0254gunu w\u0254 Koronavaros ezhi ekp\u0259 di em\u0259n\u0259 yi k\u0254yu, amu: \u0254hu ozunwan\u0259, k\u0254y\u030cu an\u0259\u014bg\u0259ran\u0259, agh\u0259ng\u0259 \u0254punwan\u0259, m\u0254burwan\u0259. M\u0254\u014bgulu mamu magunu koronavaros moguru \u0254hu iwini opu ond\u0259\u014b\u0259 \u0254not\u0259, mah\u0259bh\u0259r\u0259\u014b\u0259 ohu\u0301ndu o\u014bgilyan\u0259, mah\u0259bh\u0259r\u0259\u014b\u0259 ohundu orwan\u0259, ka\u014bgura\u014bgu kafi\u014b\u0259, mamu k\u025bshi. \u00a0M\u0254\u014bgulu mamu mah\u0259bh\u0259r\u0259 \u0254gunu n\u025bni m\u0259n\u0254h\u0259bh\u0259r\u0259 em\u0259n\u0259 en\u0259 en\u0259, mamu okp\u0259 d\u0254d\u0259. M\u0254\u014bgulu mamu mah\u0259bh\u0259r\u0259 \u0254gunu n\u025bni may\u0259bh\u0259 okp\u0259 ini o\u014bgulu \u0259n\u0254f\u0259r\u0259 bu.\n\nO\u014bgulu \u0259n\u0259 \u0254h\u0259bh\u0259r\u0259 k\u0254yu\nEfegh\u0259 \u0259n\u0259 koronavaros owu\u014bgu\u014b\u0259 ot\u0259\n\nAmu m\u0254\u014bgulu \u0259n\u0259 mah\u0259bh\u0259r\u0259 koronavaros motumburu ag\u0259bh\u0259 \u0254h\u0259 k\u0259 m\u0254\u014bgulu m\u0254n\u0254b\u0259. O\u014bgulu \u0259n\u0259 \u0254h\u0259bh\u0259r\u0259 koronavaros o\u0302kishi k\u0254yu m\u0259 o\u0302tishi \u025btishi (o\u0302kpishi \u025bkpish), tat\u0301u\u014bgu t\u0259 mondz\u0259gh\u0259r\u0259 n\u0259 t\u0259 k\u0254yu t\u025bt\u0301\u0259 ilu ot\u0259 k\u0259 \u0254dzu ivi m\u0259 iyot\u0259 k\u0259 ohundu ivi. Tat\u0301u\u014bgu \u025btini ten\u0301d\u0259 ot\u0259 k\u0259 \u00a0\u0254dzu m\u0259 iyot\u0259 k\u0259 ohundu wu o\u014bgulu wok\u0259r\u0259, \u0259mam\u0259 o\u014bgulu \u0254vwini \u0254h\u0259bh\u0259r\u0259 koronavaros. O\u014bgulu ochi \u0254g\u0259 \u0259n\u0259 tat\u0301u\u014bgu n\u025bni tegb\u0259 \u025bvyos\u0259 \u0254hini ochi kishi iki, m\u0259 ohundu ivi, m\u0259 \u0254dzu ivi, umu h\u0259n\u0259 oki koronavaros.\n\n\n\n\nEf\u0259gh\u0259 \u0259n\u0259 K\u025bnyini Wok\u0259 \u0186hu \u0186vu \u018fh\u0259 \u0186gunu N\u025bni\n1. T\u025bchi \u0254\u014bgu\u014b\u0259 oshi \u025bzhi, m\u0259 ohundu \u0254vu, m\u0259 \u0254dzu \u0254vu ot\u0259 k\u0254bu.\u00a0\n\n2. Ts\u0259bh\u0259 osu abu \u025bzhi k\u0254ts\u0259bh\u0259 \u0254su ot\u0259 kusu tokpi tikwiku. \u0186hini wushi\u014bgi ot\u0259 kebhi kiburu kebhinjyan\u0259.\u00a0\n\n3. Kishi\u0301 k\u0254yu n\u0259 wokpishi\u0301 \u025bkpishi \u0259sot\u0259 k\u0259 ets\u0259 y\u0254bu.\u00a0\n\n4. Di okp\u0259 wuri \u025bnyimi y\u025bku n\u0259 di okp\u0259 wochi \u025bnyimi \u0259n\u0259 eb\u0259r\u0259 eemu. \u014ag\u0259 wuch\u025bchini, wots\u0259bh\u0259 osu abu ot\u0259 kamuru m\u025bbhinjyan\u0259 n\u0259 kusu.\n\n\n\n\n5. Mu, w\u0254n\u0259 uji \u0254h\u0259 k\u0259 o\u014bgulu \u0259n\u0259 o\u0302kishi k\u0254yu mamu o\u0302kpishi \u025bkpishi k\u0254fugh\u0259 \u0254bu ubhi\u014bgiri.\n\n\n6. Wutotumu\u014b\u0259 \u0254bu \u0254h\u0259 k\u0259 m\u0254\u014bgulu. Wupinyini m\u0254\u014bgulu ot\u0259 k\u0259 es\u0259\u014bg\u0259 \u0254bu m\u0259 wupinyini okp\u0259 m\u0254\u014bgulu ot\u0259 k\u0259 \u025by\u0259bh\u0259 \u0254dzu.\n\n7. Wutamu \u0254\u014bgu\u014b\u0259 \u025bvyot\u0259 kitu.\n\n8. Wut\u0254wu\u014bgu obughu\u014b\u0259.\n\n9. Wokiri ok\u0259r\u0259 \u025btsulu \u0259n\u0259 itumburu n\u0259 koronavaros. N\u0259 w\u0254t\u0259mb\u0259 \u0254wulu \u0259n\u0259 \u025btsulu \u025bzhini ilu \u0254hu.\n\u0186g\u0259 \u0259n\u0259 w\u0254h\u0259bh\u0259r\u0259 k\u025bnyini korona uhu\u014bgu uvu.\n\nWodi em\u0259n\u0259 y\u0254 Koronavaros: \u00a0\n- T\u025bchi \u0254\u014bgun\u0259 m\u0254\u014bgulu \u00a0\n- Mu kitumbu-itumbu \u00a0\n- Biri 1510 wonyini \u0254g\u0259 \u0259n\u0259 dutu \u0254k\u0259r\u0259 \u0254b\u0259. \u00a0\u0186humbu yi mitighiri y\u0254k\u0259r\u0259:\u00a0\n\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\nK\u0259n\u0254ts\u0259 iwunu m\u0259n\u0259h\u0254kiri ef\u0259gh\u0259 \u0259n\u0259 kaf\u0259r\u0259 KOVID_19, mogiri m\u0254b\u0259 okp\u0259 iyish mekiri\u014b\u0259 ef\u0259gh\u0259 \u0259n\u0259 kogi af\u0259r\u0259 \u0254gunu n\u025bni ot\u0259.\n\nO\u014bgulu wanan\u0259 \u0254h\u0259bh\u0259r\u0259 kaf\u0259 akp\u0259ran\u0259, onyini minu m\u025bch\u025bchi k\u0254k\u0259 kiwundu k\u0254hu iki n\u0259 m\u0254\u014bgulu \u0259n\u0259 mamu n\u0259 umu.\n\n\n",
+        "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\n\nCameroon Association for\nBible Translation and Literacy\n\nWhat you need to know about the\nCORONAVIRUS\nor\nCOVID-19\nThe information in this booklet is taken\nfrom the\nWorld Health Organization (WHO)\nwebsite.\nhttps://www.who.int/home\n\n\nAll pictures belong to CABTAL, except\np.2 belongs to Pixabay\np.6 (butcher) and p.7 (crowd) belong to Wikimedia Commons\np.7 (people watching TV) belongs to United Nations (Photo # 616869 UN Photo/Marco Dormino)\n\nCABTAL Contacts\n\nWeb : www.cabtal.org\nMail : info_cabtal@cabtal.org\n\nTel : (237) 699 833 535\nWhatsApp : (237) 654 439 659\n\nP.O. Box : 16 550 Yaound\u00e9, Cameroon\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY\n- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n\n\n\n\np.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8\nCoronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.\n\n\nElderly person\n\nPerson with a heart condition or disease\nVulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.\n\n\nFever\nFatigue\n\nDry cough\nMuscle aches and pains\nSymptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.\n\nPerson with a cough\nTransmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.\n\n\n\n\nHow to protect yourself\n1. Avoid touching eyes, nose, mouth.\n\n2. Wash your hands frequently with soap and running water. Then dry them with a clean towel.\n\n3. Cough and sneeze into the crook of your arm.\n\n\n4. Avoid eating raw meat and touching live animals.\n\n\n\n\n5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n\n\n6. Avoid shaking hands. Greet each other with a nod or a verbal greeting.\n\n7. Avoid gatherings.\n\n\n8. Restrict movement.\n\n9. Keep informed and verify the source of information.\nWhat to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\nTo date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them.\nDefinition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed\n\n\u0190tsulu Y\u0254 Korona Varos \u018fne W\u0254h\u0259bh\u0259r\u0259 K\u0254k\u0259r\u0259\n\n\u00a9 CABTAL, 2020\n",
+        "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\n\n\n\nCe que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "fra",
+        "ags",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, CABTAL",
+    "country": "Cameroon",
+    "credits": "\r\nAll pictures belong to CABTAL, except\r\np.2 belongs to Pixabay\r\np.6 (butcher) and p.7 (crowd) belong to Wikimedia Commons\r\np.7 (people watching TV) belongs to United Nations (Photo # 616869 UN Photo/Marco Dormino)\r\n\r\nCABTAL Contacts\r\n\r\nWeb : www.cabtal.org\r\nMail : info_cabtal@cabtal.org\r\n\r\nTel : (237) 699 833 535\r\nWhatsApp : (237) 654 439 659\r\n\r\nP.O. Box : 16 550 Yaound\u00e9, Cameroon",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "NdJcGNwzmK"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "c9XoIsiYN3"
+        }
+    ],
+    "language-display-names": {
+        "ags": "Esimbi language",
+        "en": "Anglais",
+        "es": "Spanish",
+        "fr": "French"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "page-number-style": "Decimal",
+    "pageCount": 15,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Coronavirus COVID-19",
+    "tags": [],
+    "title": "\u0190tsulu Y\u0254 Korona Varos \u018fne W\u0254h\u0259bh\u0259r\u0259 K\u0254k\u0259r\u0259",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

@@ -1,0 +1,370 @@
+{
+    "allTitles": "{\"ahk\":\"Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\",\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"yin\":\"Lawng yawz ka mah phrihz korona\"}",
+    "author": null,
+    "bookInstanceId": "e92273a3-b003-4c42-a214-17f27b094ffe",
+    "bookLineage": "",
+    "bookSamples": {
+        "0": {
+            "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "yin": "Lawng yawz ka mah phrihz korona\n"
+        },
+        "1": {
+            "eng": "",
+            "yin": ""
+        },
+        "2": {
+            "eng": "",
+            "yin": ""
+        },
+        "3": {
+            "yin": ""
+        },
+        "4": {
+            "yin": "Lo mas mok mah phrihz korona ne\nnaeh mah phrihz ceun nae"
+        },
+        "5": {
+            "yin": "teur takz"
+        },
+        "6": {
+            "yin": "mony\n"
+        },
+        "7": {
+            "yin": "keu dawhz"
+        },
+        "8": {
+            "yin": "ngaai"
+        },
+        "9": {
+            "yin": "Moh aarz ni lan phraeoz a mih"
+        },
+        "10": {
+            "yin": "ihz moh\nrak"
+        },
+        "11": {
+            "yin": "ihz penz\n"
+        },
+        "12": {
+            "yin": "Meuz cakz keu ni car ne aez yawz ka an ni prae.\n"
+        },
+        "13": {
+            "yin": "moh yaan ponz keu teungz leuz\nne lawt takz yawz ka."
+        },
+        "14": {
+            "yin": "1"
+        },
+        "15": {
+            "yin": "ponz keu teungz leuz (aarz metz)"
+        },
+        "16": {
+            "yin": "keum casz\n"
+        },
+        "17": {
+            "yin": "Beuk mih awlz ihz seu hawkz hawkz eulz, keum casz, reum keu ni kaw mih caang cih boh seu meoz meoz.\n"
+        },
+        "18": {
+            "yin": "aez keuh nahz seum bitz keu dawhz.Keuh keum\ncasz nam anz kaw eulz tuhz an diz ne kan aez yawz ka ihz naeh thatz daehz."
+        },
+        "19": {
+            "yin": "2"
+        },
+        "20": {
+            "yin": "kez cuz mawh baaiz\n(ihz keum okz)"
+        },
+        "21": {
+            "yin": "nam anz kaw,\n"
+        },
+        "22": {
+            "yin": "sangz daz hnhz nam maang reum kaw hnhz caang kan mial toz daehz."
+        },
+        "23": {
+            "yin": "sangz daz maang boh yawz ka kaw nam caang plaez yawz ka keuiz daz caang teur takz boh."
+        },
+        "24": {
+            "yin": "kawp nam mas yaeh maang yawz\nka rae wiar ihz wungz."
+        },
+        "25": {
+            "yin": "kawn kaepz\n"
+        },
+        "26": {
+            "yin": "ihz mok rak"
+        },
+        "27": {
+            "yin": "tihz law li boh\ntihz yeu thaz\n"
+        },
+        "28": {
+            "yin": "mangz keur wah"
+        },
+        "29": {
+            "yin": "cez watz"
+        },
+        "30": {
+            "yin": "omz klakz\n"
+        },
+        "31": {
+            "yin": "phrihz phrahz caak"
+        },
+        "32": {
+            "yin": "thaz nawk seum bitz keu dawhz"
+        },
+        "33": {
+            "yin": "tihz reung duangz"
+        },
+        "34": {
+            "yin": "seum kraai khuakz caak\n"
+        },
+        "35": {
+            "yin": "seum taemz"
+        },
+        "36": {
+            "yin": "tihz keur wah"
+        },
+        "37": {
+            "yin": "tihz keuh"
+        },
+        "38": {
+            "yin": "omz nyaangz ihz penz keui teur laehz teur pawk caang klaez kaai phrihz phrahz seu meoz meoz."
+        },
+        "39": {
+            "yin": "keuh caang reum, caang takz"
+        },
+        "40": {
+            "yin": "teu ngaai ihz ti daehz rak ne"
+        },
+        "41": {
+            "yin": "meuz truz nyual mial ngaai daehz"
+        },
+        "42": {
+            "yin": "beuk pehz a wa teu phrihz phrahz seu meoz\nmeoz an maang mah phrihz an diz kaw"
+        },
+        "43": {
+            "yin": "aez ehz kan bawnz ne leh seu pya nam anz kaw\nleh omz a yaetz phaan cih mok keui khez rak rak."
+        },
+        "44": {
+            "yin": "mah phrihz an ni caang moh kaai phrihz phrahz heungz na ri baaiz."
+        },
+        "45": {
+            "yin": "seu pya"
+        },
+        "46": {
+            "yin": ""
+        },
+        "47": {
+            "yin": "An caang kan\nnaeh hanz meoz"
+        },
+        "48": {
+            "yin": "cih tawiz keu ni kaw rak baaiz."
+        },
+        "49": {
+            "yin": "\u00a0leh seu pya khez phraeoz a niz."
+        },
+        "50": {
+            "yin": "seu pya"
+        },
+        "51": {
+            "yin": "tawkz wawk"
+        },
+        "52": {
+            "yin": "yak teu ngaai daehz. Nam anz kaw yak teu\nngaai ihz. Beuk daz nam teu nam caang daz\nkaw khez aacz tihz sirz sirz.\n"
+        },
+        "53": {
+            "yin": "aez ceu nawhz seu ngawk haepz piz beutz ta aarz laehz"
+        },
+        "54": {
+            "yin": "tawiz reum himz"
+        },
+        "55": {
+            "yin": "ta aarz kawlz\ncaek kaanz"
+        },
+        "56": {
+            "yin": "tawiz peur lah\nreum haz\n"
+        },
+        "57": {
+            "yin": "khez butz tihz\n"
+        },
+        "58": {
+            "yin": "Sirz sirz ne daz naehz?"
+        },
+        "59": {
+            "yin": "beuk lan teu maen kaw yak kawcz phawmz. Leh seu pya khez mial tihz daehz.\n"
+        },
+        "60": {
+            "yin": "yak teu plaakz thaz nawk seum bitz keu dawhz."
+        },
+        "61": {
+            "yin": "cakz"
+        },
+        "62": {
+            "yin": "sapz mok seum bitz keu dawhz ceu nawhz baaiz kaw mah phrihz caang mawh tuhz an diz.\n"
+        },
+        "63": {
+            "yin": "seum bitz keu dawhz teun akz ne\nyak cao leuz seu seu ngihz. Nuarz\na wa thurz kaw thengz.\n"
+        },
+        "64": {
+            "yin": "cao laak sawtz sawtz seu tuhz."
+        },
+        "65": {
+            "yin": "kuanz ihz\n"
+        },
+        "66": {
+            "yin": "paz"
+        },
+        "67": {
+            "yin": "mah"
+        },
+        "68": {
+            "yin": "cao seum watz\ndaehz leun"
+        },
+        "69": {
+            "yin": "seum suamz, klohz sroz seu tuhz sroz\nkaaiz, klakz omz boh seum watz ngaai\nkeui yak cao teur kawmz.\n"
+        },
+        "70": {
+            "yin": "cih seu naez kaw dangz darz daehz nam caang teu ngaai daehz."
+        },
+        "71": {
+            "yin": "meuz lawk dapz keur wah ne leh dangz\u00a0 darz (nam anz kaw) leh cawkz pahz nyunz. Beuk caang kaw yak leh tihz lawk dapz.\n"
+        },
+        "72": {
+            "yin": "kaang\n"
+        },
+        "73": {
+            "yin": "meuz weng truz\nthaz nawk"
+        },
+        "74": {
+            "yin": "meuz maat suamz\nseum suamz"
+        },
+        "75": {
+            "yin": "leh seu pya khez tihz se se\n"
+        },
+        "76": {
+            "yin": "meuz teuk wa\n"
+        },
+        "77": {
+            "yin": "seu pya"
+        },
+        "78": {
+            "yin": "moh aez lawt phez klawhz ihz\n"
+        },
+        "79": {
+            "yin": "moh aez lawt phez klawhz ihz"
+        },
+        "80": {
+            "yin": "seu pya"
+        },
+        "81": {
+            "yin": ""
+        },
+        "82": {
+            "yin": ""
+        },
+        "83": {
+            "yin": ""
+        },
+        "84": {
+            "yin": ""
+        },
+        "85": {
+            "yin": ""
+        },
+        "86": {
+            "yin": ""
+        },
+        "87": {
+            "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "yin": "Lawng yawz ka mah phrihz korona\n"
+        },
+        "88": {
+            "eng": "",
+            "yin": ""
+        },
+        "89": {
+            "eng": "",
+            "yin": ""
+        },
+        "90": {
+            "eng": "",
+            "yin": ""
+        },
+        "91": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "yin": ""
+        },
+        "92": {
+            "eng": "",
+            "yin": ""
+        },
+        "93": {
+            "eng": "",
+            "yin": ""
+        },
+        "94": {
+            "eng": "",
+            "yin": ""
+        },
+        "95": {
+            "eng": "",
+            "yin": ""
+        }
+    },
+    "bookText": {
+        "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKo\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\n\n\n\n\n\n\n\n",
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\n\n\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "spa": "Sobre el Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSobre el Coronavirus\n\n\n\n\n\n\n\n",
+        "yin": "Lawng yawz ka mah phrihz korona\n\n\n\n\nLo mas mok mah phrihz korona ne\nnaeh mah phrihz ceun nae\nteur takz\nmony\n\nkeu dawhz\nngaai\nMoh aarz ni lan phraeoz a mih\nihz moh\nrak\nihz penz\n\nMeuz cakz keu ni car ne aez yawz ka an ni prae.\n\nmoh yaan ponz keu teungz leuz\nne lawt takz yawz ka.\n1\nponz keu teungz leuz (aarz metz)\nkeum casz\n\nBeuk mih awlz ihz seu hawkz hawkz eulz, keum casz, reum keu ni kaw mih caang cih boh seu meoz meoz.\n\naez keuh nahz seum bitz keu dawhz.Keuh keum\ncasz nam anz kaw eulz tuhz an diz ne kan aez yawz ka ihz naeh thatz daehz.\n2\nkez cuz mawh baaiz\n(ihz keum okz)\nnam anz kaw,\n\nsangz daz hnhz nam maang reum kaw hnhz caang kan mial toz daehz.\nsangz daz maang boh yawz ka kaw nam caang plaez yawz ka keuiz daz caang teur takz boh.\nkawp nam mas yaeh maang yawz\nka rae wiar ihz wungz.\nkawn kaepz\n\nihz mok rak\ntihz law li boh\ntihz yeu thaz\n\nmangz keur wah\ncez watz\nomz klakz\n\nphrihz phrahz caak\nthaz nawk seum bitz keu dawhz\ntihz reung duangz\nseum kraai khuakz caak\n\nseum taemz\ntihz keur wah\ntihz keuh\nomz nyaangz ihz penz keui teur laehz teur pawk caang klaez kaai phrihz phrahz seu meoz meoz.\nkeuh caang reum, caang takz\nteu ngaai ihz ti daehz rak ne\nmeuz truz nyual mial ngaai daehz\nbeuk pehz a wa teu phrihz phrahz seu meoz\nmeoz an maang mah phrihz an diz kaw\naez ehz kan bawnz ne leh seu pya nam anz kaw\nleh omz a yaetz phaan cih mok keui khez rak rak.\nmah phrihz an ni caang moh kaai phrihz phrahz heungz na ri baaiz.\nseu pya\n\nAn caang kan\nnaeh hanz meoz\ncih tawiz keu ni kaw rak baaiz.\n\u00a0leh seu pya khez phraeoz a niz.\nseu pya\ntawkz wawk\nyak teu ngaai daehz. Nam anz kaw yak teu\nngaai ihz. Beuk daz nam teu nam caang daz\nkaw khez aacz tihz sirz sirz.\n\naez ceu nawhz seu ngawk haepz piz beutz ta aarz laehz\ntawiz reum himz\nta aarz kawlz\ncaek kaanz\ntawiz peur lah\nreum haz\n\nkhez butz tihz\n\nSirz sirz ne daz naehz?\nbeuk lan teu maen kaw yak kawcz phawmz. Leh seu pya khez mial tihz daehz.\n\nyak teu plaakz thaz nawk seum bitz keu dawhz.\ncakz\nsapz mok seum bitz keu dawhz ceu nawhz baaiz kaw mah phrihz caang mawh tuhz an diz.\n\nseum bitz keu dawhz teun akz ne\nyak cao leuz seu seu ngihz. Nuarz\na wa thurz kaw thengz.\n\ncao laak sawtz sawtz seu tuhz.\nkuanz ihz\n\npaz\nmah\ncao seum watz\ndaehz leun\nseum suamz, klohz sroz seu tuhz sroz\nkaaiz, klakz omz boh seum watz ngaai\nkeui yak cao teur kawmz.\n\ncih seu naez kaw dangz darz daehz nam caang teu ngaai daehz.\nmeuz lawk dapz keur wah ne leh dangz\u00a0 darz (nam anz kaw) leh cawkz pahz nyunz. Beuk caang kaw yak leh tihz lawk dapz.\n\nkaang\n\nmeuz weng truz\nthaz nawk\nmeuz maat suamz\nseum suamz\nleh seu pya khez tihz se se\n\nmeuz teuk wa\n\nseu pya\nmoh aez lawt phez klawhz ihz\n\nmoh aez lawt phez klawhz ihz\nseu pya\n\n\n\n\n\n\nLawng yawz ka mah phrihz korona\n\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "ahk",
+        "spa",
+        "yin",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Riang literacy",
+    "country": "Myanmar",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "imported-book-source-url": null,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "dsfzu2f8Eu"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "yin": "Riang"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "originalTitle": "About Coronavirus",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "phashOfFirstContentImage": null,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "About coronavirus",
+    "tags": [],
+    "title": "Lawng yawz ka mah phrihz korona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

@@ -1,0 +1,303 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "e271d26d-1563-44be-a363-d9c470a34b39",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Cak \u0254 njalaa n\u025b se\u014bl\u025b if\u0254\u0254 Kolonavilus keh kisi KOVID-19",
+  "allTitles": "{\"en\":\"What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\",\"fr\":\"Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\",\"kwu\":\"Cak \u0254 njalaa n\u025b se\u014bl\u025b if\u0254\u0254 Kolonavilus keh kisi KOVID-19\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,4797e2a5-bc4f-48a0-b988-e10ff8deb4bc,5ac3444b-2397-4a3e-ac07-9e4aeaf757b4",
+  "downloadSource": "stacey.hare@worldteam.org/e271d26d-1563-44be-a363-d9c470a34b39",
+  "license": "cc-by-nc",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": null,
+  "credits": "Toutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\r\n\r\nContacts CABTAL\r\n\r\nWeb : www.cabtal.org\r\nMail : info_cabtal@cabtal.org\r\n\r\nTel : (237) 699 833 535\r\nWhatsApp : (237) 654 439 659\r\n\r\nB.P. : 16 550 Yaound\u00e9, Cameroun",
+  "tags": [],
+  "pageCount": 14,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "xHLfbnmJC4"
+    }
+  ],
+  "summary": "Coronavirus COVID-19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "ebUk4MNTqo"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": "",
+  "originalPublisher": "",
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "es": "Spanish",
+    "en": "English",
+    "fr": "French",
+    "kwu": "Kwakum"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "kwu": "Cak \u0254 njalaa n\u025b se\u014bl\u025b if\u0254\u0254 Kolonavilus keh kisi KOVID-19",
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "en": "COVID-19"
+  },
+  "2": {
+    "kwu": "Cak \u0254 njalaa n\u025b se\u014bl\u025b if\u0254\u0254 Kolonavilus keh kisi KOVID-19",
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "en": "COVID-19"
+  },
+  "3": {
+    "kwu": "Cak \u0254 njalaa n\u025b se\u014bl\u025b if\u0254\u0254 Kolonavilus keh kisi KOVID-19",
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "en": "COVID-19"
+  },
+  "9": {
+    "fr": "Association Camerounaise pour \ufeffla Traduction de la Bible et l'Alphab\u00e9tisation"
+  },
+  "13": {
+    "kwu": "Cak \u0254 njalaa n\u025b se\u014bl\u025b if\u0254\u0254 Kolonavilus keh kisi KOVID-19",
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "en": "COVID-19"
+  },
+  "14": {
+    "kwu": "Cak \u0254 njalaa n\u025b se\u014bl\u025b if\u0254\u0254 Kolonavilus keh kisi KOVID-19",
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "en": "COVID-19"
+  },
+  "15": {
+    "kwu": "Cak \u0254 njalaa n\u025b se\u014bl\u025b if\u0254\u0254 Kolonavilus keh kisi KOVID-19",
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "en": "COVID-19"
+  },
+  "18": {
+    "fr": "Les informations contenues dans ce livret \ufeffproviennent du site internet \ufeffde l'Organisation Mondiale de la Sant\u00e9 (OMS). https://www.who.int/fr/home"
+  },
+  "21": {
+    "fr": "Traduit en Kwakum par : NDENGUE NDENGUE Simon"
+  },
+  "26": {
+    "fr": "B.P. : 16 550 Yaound\u00e9, Cameroun"
+  },
+  "29": {
+    "z": "",
+    "kwu": ""
+  },
+  "30": {
+    "z": "",
+    "kwu": ""
+  },
+  "31": {
+    "kwu": ""
+  },
+  "32": {
+    "kwu": ""
+  },
+  "33": {
+    "kwu": "Gwom\u0254 s\u0254s\u025b\u014b."
+  },
+  "34": {
+    "kwu": ""
+  },
+  "35": {
+    "kwu": "Gwom\u0254 ji n\u025b k\u0254n f\u0254ku."
+  },
+  "36": {
+    "kwu": "",
+    "z": ""
+  },
+  "37": {
+    "kwu": "",
+    "z": ""
+  },
+  "38": {
+    "kwu": ""
+  },
+  "39": {
+    "kwu": ""
+  },
+  "40": {
+    "kwu": "Nyotu nl\u025bl\u0254."
+  },
+  "41": {
+    "kwu": ""
+  },
+  "42": {
+    "kwu": "Ik\u025b\u025b ji \u0254 pund\u0254 tee."
+  },
+  "43": {
+    "kwu": "K\u0254n KOVID-19 ntakaa n\u025b tabanda. \u0186 kitatla kik\u0254n, gwom\u0254, y\u025b mpaam\u0254. Y\u025b mb\u025b n\u025b kik\u0254sly\u025b moo ji jomaaw\u025b yi. Pund\u0254 \u014bk\u025b\u025b ya. Nyotu moo gwaa nl\u025bl\u0254 t\u025bsi. Gwom\u0254 f\u0254ku, jol waa ji k\u025b\u025b. A'i t\u025bsi fol\u0254. Mel \u014bk\u025b\u025b ya. Y\u025b'i n\u025b kul y\u025b nt\u025bsi b\u025b n\u025b fol. Gwom\u0254 f\u0254ku, t\u0254\u0254 y\u025b ji n\u025b k\u0254n, y\u025b b\u025bk k\u0254mby\u025b. Y\u025b m\u025b\u025b se\u014bl\u025b naa y\u025b'i n\u025b k\u0254n. Mby\u025btma gwom\u0254 nt\u0254\u0254mb\u0254 b\u025bk n\u025b ceti.",
+    "z": ""
+  },
+  "44": {
+    "kwu": "K\u0254n KOVID-19 ntakaa n\u025b tabanda. \u0186 kitatla kik\u0254n, gwom\u0254, y\u025b mpaam\u0254. Y\u025b mb\u025b n\u025b kik\u0254sly\u025b moo ji jomaaw\u025b yi. Pund\u0254 \u014bk\u025b\u025b ya. Nyotu moo gwaa nl\u025bl\u0254 t\u025bsi. Gwom\u0254 f\u0254ku, jol waa ji k\u025b\u025b. A'i t\u025bsi fol\u0254. Mel \u014bk\u025b\u025b ya. Y\u025b'i n\u025b kul y\u025b nt\u025bsi b\u025b n\u025b fol. Gwom\u0254 f\u0254ku, t\u0254\u0254 y\u025b ji n\u025b k\u0254n, y\u025b b\u025bk k\u0254mby\u025b. Y\u025b m\u025b\u025b se\u014bl\u025b naa y\u025b'i n\u025b k\u0254n. Mby\u025btma gwom\u0254 nt\u0254\u0254mb\u0254 b\u025bk n\u025b ceti.",
+    "z": ""
+  },
+  "45": {
+    "kwu": ""
+  },
+  "46": {
+    "kwu": "Mom\u0254 moo \u014bk\u0254sl\u025b yi."
+  },
+  "47": {
+    "kwu": "",
+    "z": ""
+  },
+  "48": {
+    "kwu": "",
+    "z": ""
+  },
+  "49": {
+    "kwu": ""
+  },
+  "50": {
+    "kwu": ""
+  },
+  "51": {
+    "kwu": ""
+  },
+  "52": {
+    "kwu": ""
+  },
+  "53": {
+    "kwu": "S\u025b \u014bkw\u025bnj\u0254 k\u0254n nai ?"
+  },
+  "54": {
+    "kwu": "",
+    "z": ""
+  },
+  "55": {
+    "kwu": "",
+    "z": ""
+  },
+  "56": {
+    "kwu": ""
+  },
+  "57": {
+    "kwu": ""
+  },
+  "58": {
+    "kwu": ""
+  },
+  "59": {
+    "kwu": ""
+  },
+  "60": {
+    "kwu": ""
+  },
+  "61": {
+    "kwu": ""
+  },
+  "62": {
+    "kwu": ""
+  },
+  "63": {
+    "kwu": ""
+  },
+  "64": {
+    "kwu": ""
+  },
+  "65": {
+    "kwu": ""
+  },
+  "66": {
+    "kwu": "5. \u0186 b\u025bk t\u025b\u0302wl\u025b kunwaaw\u025b n\u025b moo ncisl\u025b yi, t\u0254\u0254 moo \u014bk\u0254sl\u025b yi. \u0186 nlond\u0254 n\u025b ja t\u0254\u0254 tah m\u025bta m\u0254tu.",
+    "z": ""
+  },
+  "67": {
+    "kwu": "5. \u0186 b\u025bk t\u025b\u0302wl\u025b kunwaaw\u025b n\u025b moo ncisl\u025b yi, t\u0254\u0254 moo \u014bk\u0254sl\u025b yi. \u0186 nlond\u0254 n\u025b ja t\u0254\u0254 tah m\u025bta m\u0254tu.",
+    "z": ""
+  },
+  "68": {
+    "kwu": ""
+  },
+  "69": {
+    "kwu": "N\u025b mpy\u025bpl\u025b mb\u0254, t\u0254\u0254 n\u025b \u014bkee si naa : \u00ab \u0186 ndomb'\u025b\u025b. \u00bb"
+  },
+  "70": {
+    "kwu": ""
+  },
+  "71": {
+    "kwu": "7. \u0186 b\u025bk ji\u0302l\u0254 igwosu mby\u025btma gwom\u0254."
+  },
+  "72": {
+    "kwu": ""
+  },
+  "73": {
+    "kwu": ""
+  },
+  "74": {
+    "kwu": ""
+  },
+  "75": {
+    "kwu": ""
+  },
+  "76": {
+    "kwu": "",
+    "z": ""
+  },
+  "77": {
+    "kwu": "",
+    "z": ""
+  },
+  "78": {
+    "kwu": ""
+  },
+  "79": {
+    "kwu": "670 713 979"
+  },
+  "80": {
+    "kwu": ""
+  },
+  "81": {
+    "kwu": "670 113 761"
+  },
+  "82": {
+    "kwu": ""
+  },
+  "83": {
+    "kwu": ""
+  },
+  "84": {
+    "z": "",
+    "kwu": ""
+  },
+  "85": {
+    "z": "",
+    "kwu": ""
+  }
+}

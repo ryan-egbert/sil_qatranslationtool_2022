@@ -1,0 +1,120 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "65e76209-cf95-471d-811c-3aed7e3574f8",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Covid-19 Vaccine",
+  "allTitles": "{\"en\":\"Covid-19 Vaccine\"}",
+  "originalTitle": "Covid-19 Vaccine",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+  "downloadSource": "ari.vitikainen@piplia.fi/65e76209-cf95-471d-811c-3aed7e3574f8",
+  "license": "cc-by-nc",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2021, Elaine Vitikainen",
+  "credits": "",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 11,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "Information about the Covid-19 vaccine",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "ii9ImeTf5A"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": true,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "en": "Covid-19 Vaccine"
+  },
+  "8": {
+    "en": "Covid-19 Vaccine"
+  },
+  "10": {
+    "en": "Original text adapted from WHO by Elaine Vitikainen"
+  },
+  "17": {
+    "en": "Why should I get vaccinated?",
+    "z": ""
+  },
+  "18": {
+    "en": "Why should I get vaccinated?",
+    "z": ""
+  },
+  "19": {
+    "en": ""
+  },
+  "20": {
+    "en": "",
+    "z": ""
+  },
+  "21": {
+    "en": "",
+    "z": ""
+  },
+  "22": {
+    "en": "Being vaccinated won't give me the disease."
+  },
+  "23": {
+    "en": "",
+    "z": ""
+  },
+  "24": {
+    "en": "",
+    "z": ""
+  }
+}

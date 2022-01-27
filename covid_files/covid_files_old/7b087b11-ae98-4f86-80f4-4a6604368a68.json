@@ -1,0 +1,220 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "7b087b11-ae98-4f86-80f4-4a6604368a68",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Epuka ugonjwa wa virusi vya Korona",
+  "allTitles": "{\"en\":\"Avoid Covid-19\",\"swh\":\"Epuka ugonjwa wa virusi vya Korona\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,12b180ea-a5e9-4402-9346-4c06f5ba4177,721ab58b-8cd6-48a1-ac4b-27611ccd8a59",
+  "downloadSource": "karin_yalonde@sil.org/7b087b11-ae98-4f86-80f4-4a6604368a68",
+  "license": "cc-by-nc",
+  "formatVersion": "2.1",
+  "licenseNotes": "",
+  "copyright": "Copyright \u00a9 2020, SIL International",
+  "credits": "",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 12,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "u5c9kqFWWi"
+    }
+  ],
+  "summary": "Basic information on how to avoid Coronavirus (Covid-19)",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "3Grntutl4q"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "swh": "Swahili",
+    "swh-TZ": "Swahili"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "swh": "Epuka ugonjwa wa virusi vya Korona",
+    "en": "Avoid Covid-19"
+  },
+  "2": {
+    "swh": "Epuka ugonjwa wa virusi vya Korona",
+    "en": "Avoid Covid-19"
+  },
+  "3": {
+    "swh": "",
+    "swh-TZ": "",
+    "z": "",
+    "en": ""
+  },
+  "4": {
+    "swh": "",
+    "swh-TZ": "",
+    "z": "",
+    "en": ""
+  },
+  "5": {
+    "swh": "",
+    "swh-TZ": "",
+    "z": "",
+    "en": ""
+  },
+  "6": {
+    "swh": "",
+    "swh-TZ": "",
+    "z": "",
+    "en": ""
+  },
+  "11": {
+    "en": ""
+  },
+  "13": {
+    "swh": "Epuka ugonjwa wa virusi vya Korona",
+    "en": "Avoid Covid-19"
+  },
+  "14": {
+    "swh": "Epuka ugonjwa wa virusi vya Korona",
+    "en": "Avoid Covid-19"
+  },
+  "17": {
+    "en": "Version 6/4/2020"
+  },
+  "20": {
+    "en": "Literacy for Women in Africa"
+  },
+  "22": {
+    "en": "Translated into Swahili by Heri Mwanjalanje"
+  },
+  "28": {
+    "z": "",
+    "swh": "",
+    "en": "Nawa mikono yako mara kwa mara kila siku kwa maji na sabuni, au kwa maji yenye dawa ya kuua wadudu (sanitizer)."
+  },
+  "29": {
+    "z": "",
+    "swh": "",
+    "en": "Nawa mikono yako mara kwa mara kila siku kwa maji na sabuni, au kwa maji yenye dawa ya kuua wadudu (sanitizer)."
+  },
+  "30": {
+    "z": "",
+    "swh": "",
+    "en": "Nawa mikono yako mara kwa mara kila siku kwa maji na sabuni, au kwa maji yenye dawa ya kuua wadudu (sanitizer)."
+  },
+  "31": {
+    "z": "",
+    "swh": "Epuka kugusa macho, pua na mdomo.",
+    "en": ""
+  },
+  "32": {
+    "z": "",
+    "swh": "Epuka kugusa macho, pua na mdomo.",
+    "en": ""
+  },
+  "33": {
+    "z": "",
+    "swh": "Epuka kugusa macho, pua na mdomo.",
+    "en": ""
+  },
+  "34": {
+    "z": "",
+    "swh": "Funika mdomo na pua yako kwa mkunjo wa kiwiko cha mkono au kwa tishu wakati unapokohoa au kupiga chafya. Tupa tishu iliyotumika mara moja.",
+    "en": ""
+  },
+  "35": {
+    "z": "",
+    "swh": "Funika mdomo na pua yako kwa mkunjo wa kiwiko cha mkono au kwa tishu wakati unapokohoa au kupiga chafya. Tupa tishu iliyotumika mara moja.",
+    "en": ""
+  },
+  "36": {
+    "z": "",
+    "swh": "Funika mdomo na pua yako kwa mkunjo wa kiwiko cha mkono au kwa tishu wakati unapokohoa au kupiga chafya. Tupa tishu iliyotumika mara moja.",
+    "en": ""
+  },
+  "37": {
+    "swh": "Kaa umbali wa mita 2 kati yako na mtu mwingine. Epuka safari zisizo za lazima pamoja na mikusanyiko mikubwa ya watu.",
+    "en": "",
+    "z": ""
+  },
+  "38": {
+    "swh": "Kaa umbali wa mita 2 kati yako na mtu mwingine. Epuka safari zisizo za lazima pamoja na mikusanyiko mikubwa ya watu.",
+    "en": "",
+    "z": ""
+  },
+  "39": {
+    "swh": "Kaa umbali wa mita 2 kati yako na mtu mwingine. Epuka safari zisizo za lazima pamoja na mikusanyiko mikubwa ya watu.",
+    "en": "",
+    "z": ""
+  },
+  "40": {
+    "swh": "Kaa nyumbani kama hujisikii vizuri. Kama unaumwa kichwa, unakohoa au unapumua kwa shida, umwone daktari mapema.",
+    "en": "",
+    "z": ""
+  },
+  "41": {
+    "swh": "Kaa nyumbani kama hujisikii vizuri. Kama unaumwa kichwa, unakohoa au unapumua kwa shida, umwone daktari mapema.",
+    "en": "",
+    "z": ""
+  },
+  "42": {
+    "swh": "Kaa nyumbani kama hujisikii vizuri. Kama unaumwa kichwa, unakohoa au unapumua kwa shida, umwone daktari mapema.",
+    "en": "",
+    "z": ""
+  },
+  "43": {
+    "swh": "Jaribu kupata habari zaidi juu ya yale yanayotokea juu ya ugonjwa wa Korona. Fuata ushauri unaotolewa na wahudumu wa afya.\u00a0\u00a0",
+    "en": "",
+    "z": ""
+  },
+  "44": {
+    "swh": "Jaribu kupata habari zaidi juu ya yale yanayotokea juu ya ugonjwa wa Korona. Fuata ushauri unaotolewa na wahudumu wa afya.\u00a0\u00a0",
+    "en": "",
+    "z": ""
+  },
+  "45": {
+    "swh": "Jaribu kupata habari zaidi juu ya yale yanayotokea juu ya ugonjwa wa Korona. Fuata ushauri unaotolewa na wahudumu wa afya.\u00a0\u00a0",
+    "en": "",
+    "z": ""
+  }
+}

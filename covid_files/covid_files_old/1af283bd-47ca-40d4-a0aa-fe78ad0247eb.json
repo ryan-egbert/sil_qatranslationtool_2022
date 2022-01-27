@@ -1,0 +1,626 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "1af283bd-47ca-40d4-a0aa-fe78ad0247eb",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Pengalaman Nanek Pringak ku Padeg berkenaan Covid-19",
+  "allTitles": "{\"en\":\"A Family\u2019s Experience\nwith COVID-19 at Home\",\"sea\":\"Pengalaman Nanek Pringak ku Padeg berkenaan Covid-19\"}",
+  "originalTitle": "A Family\u2019s Experience with COVID-19 at Home",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,dd67bd4b-d16a-411b-81c4-dcd4af3fe6d3,3988905c-2540-456f-8aeb-6dbb43d5e07a",
+  "downloadSource": "adif_bahyit@sil.org/1af283bd-47ca-40d4-a0aa-fe78ad0247eb",
+  "license": "cc-by",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2021, LD SIL",
+  "credits": "Mong kebenaran untok bitejemah ju bop COVID-19 Home Based Care: How to do it best for the patient and the family, 2020, Difaem - German Institute for Medical Mission, www.difaem.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBop bibeh bedasarkan sumber maklumat mengenai Kesihatan Awam bagi tujuan pendidikan taleh. Bop adeh pek sesuei bipejadi sebagei nasihat perubatan. Ma-ma taleh soalan bekenaan hal-hal di bipasal ku padeh, sila behubong ru Pegawai Kesihatan.\r\n",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 33,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "ift1GrGVn5"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "Easily understood and accurate guidance for families and communities who must care for COVID-19 patients at home without medical help.",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Malaysia",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "MCzwTjUtFV"
+  },
+  "tools": [
+    {
+      "name": "imageDescription",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": "",
+  "originalPublisher": "",
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "sea": "Semai"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "sea": "Pengalaman Nanek Pringak ku Padeg berkenaan Covid-19",
+    "en": "with COVID-19 at Home"
+  },
+  "2": {
+    "sea": "Pengalaman Nanek Pringak ku Padeg berkenaan Covid-19",
+    "en": "with COVID-19 at Home"
+  },
+  "8": {
+    "en": "Easily understood and accurate guidance for families and communities who must care for COVID-19 patients at home without medical help."
+  },
+  "12": {
+    "sea": "Pengalaman Nanek Pringak ku Padeg berkenaan Covid-19",
+    "en": "with COVID-19 at Home"
+  },
+  "13": {
+    "sea": "Pengalaman Nanek Pringak ku Padeg berkenaan Covid-19",
+    "en": "with COVID-19 at Home"
+  },
+  "16": {
+    "en": "Gambar bilukes ya Mark Marcuson, \u00a9 2021 SIL International. CC BY-NC 4.0."
+  },
+  "24": {
+    "en": ""
+  },
+  "27": {
+    "sea": "",
+    "en": ""
+  },
+  "28": {
+    "sea": "",
+    "en": ""
+  },
+  "30": {
+    "en": ""
+  },
+  "31": {
+    "sea": "Anita ru ipringak naigei ku pekan macot. Kek mimang kigemar ha ikerjak sebagei numom cikgu sekulah tapi isekulah ya tutop kerana virus COVID-19.",
+    "en": "Anita and her family live in a small town. She loves her job as teacher but the school is closed because of the COVID-19 virus."
+  },
+  "32": {
+    "sea": "Anita ru ipringak naigei ku pekan macot. Kek mimang kigemar ha ikerjak sebagei numom cikgu sekulah tapi isekulah ya tutop kerana virus COVID-19.",
+    "en": "Anita and her family live in a small town. She loves her job as teacher but the school is closed because of the COVID-19 virus."
+  },
+  "33": {
+    "sea": "Ku ipadeg, Anita kicerngai siaran radio ru jeoi kibelajar mengenai virus COVID-19 ru bageiharok virus ajeh kijekjog nu manusia.",
+    "en": "At home, Anita has listened to radio programs and has learned a lot about the virus and how to keep\u00a0it from spreading.",
+    "z": ""
+  },
+  "34": {
+    "sea": "Ku ipadeg, Anita kicerngai siaran radio ru jeoi kibelajar mengenai virus COVID-19 ru bageiharok virus ajeh kijekjog nu manusia.",
+    "en": "At home, Anita has listened to radio programs and has learned a lot about the virus and how to keep\u00a0it from spreading.",
+    "z": ""
+  },
+  "35": {
+    "sea": "Ku ipadeg, Anita kicerngai siaran radio ru jeoi kibelajar mengenai virus COVID-19 ru bageiharok virus ajeh kijekjog nu manusia.",
+    "en": "At home, Anita has listened to radio programs and has learned a lot about the virus and how to keep\u00a0it from spreading.",
+    "z": ""
+  },
+  "36": {
+    "sea": "Ju pekara de kibelajar ajeh, Anita kiajar sengoi-sengoi ku ikomuniti care bageiharok ha lindog diri ju virus ajeh.",
+    "en": "With all that she has learned Anita helps to teach her community how to keep themselves safe from the virus."
+  },
+  "37": {
+    "sea": "Ju pekara de kibelajar ajeh, Anita kiajar sengoi-sengoi ku ikomuniti care bageiharok ha lindog diri ju virus ajeh.",
+    "en": "With all that she has learned Anita helps to teach her community how to keep themselves safe from the virus."
+  },
+  "38": {
+    "sea": "Kek kipanei, amen kihol nu luar ru belwal ru jeoi mai, kek senang kaha-kep nyaknik virus ajeh. Tapi, kek kipanei ikepentengan dea dikdij mai naipanei care ha lindog diri ju virus ajeh. Kek kiajar ijiran-jiran, \"Hik hot hibejaga-jaga ru hot selalu hisuj teg hik ya sabon.\"",
+    "en": "\u00a0Even though going out and talking with lots of people increases her risk of getting the virus, she knows that it\u2019s important for everyone to know how to prevent the virus from spreading. She teaches her neighbors, \u201cWe must be careful to wash our hands often\".",
+    "z": ""
+  },
+  "39": {
+    "sea": "Kek kipanei, amen kihol nu luar ru belwal ru jeoi mai, kek senang kaha-kep nyaknik virus ajeh. Tapi, kek kipanei ikepentengan dea dikdij mai naipanei care ha lindog diri ju virus ajeh. Kek kiajar ijiran-jiran, \"Hik hot hibejaga-jaga ru hot selalu hisuj teg hik ya sabon.\"",
+    "en": "\u00a0Even though going out and talking with lots of people increases her risk of getting the virus, she knows that it\u2019s important for everyone to know how to prevent the virus from spreading. She teaches her neighbors, \u201cWe must be careful to wash our hands often\".",
+    "z": ""
+  },
+  "40": {
+    "sea": "Kek kipanei, amen kihol nu luar ru belwal ru jeoi mai, kek senang kaha-kep nyaknik virus ajeh. Tapi, kek kipanei ikepentengan dea dikdij mai naipanei care ha lindog diri ju virus ajeh. Kek kiajar ijiran-jiran, \"Hik hot hibejaga-jaga ru hot selalu hisuj teg hik ya sabon.\"",
+    "en": "\u00a0Even though going out and talking with lots of people increases her risk of getting the virus, she knows that it\u2019s important for everyone to know how to prevent the virus from spreading. She teaches her neighbors, \u201cWe must be careful to wash our hands often\".",
+    "z": ""
+  },
+  "41": {
+    "sea": "Telas ajeh, kek kipeterang, \"Hik mesti hilog tuntop moh ru empag mase hihol ju kendeg, atau ku mase hik mong ru mai de pek naigei sama deg ru hik.\"",
+    "en": "Then she explains, \u201cWe need to wear masks when we\u00a0 leave our homes or when we are with people who do not live in the same house as us\"."
+  },
+  "42": {
+    "sea": "Telas ajeh, kek kipeterang, \"Hik mesti hilog tuntop moh ru empag mase hihol ju kendeg, atau ku mase hik mong ru mai de pek naigei sama deg ru hik.\"",
+    "en": "Then she explains, \u201cWe need to wear masks when we\u00a0 leave our homes or when we are with people who do not live in the same house as us\"."
+  },
+  "43": {
+    "sea": "\"Hik juga mesti hielak luang jeoi mase ru sengoi-sengoi de pek sama deg ru hik.\"",
+    "en": "\"We also must try to avoid spending lots of time with people outside of our own household\".",
+    "z": ""
+  },
+  "44": {
+    "sea": "\"Hik juga mesti hielak luang jeoi mase ru sengoi-sengoi de pek sama deg ru hik.\"",
+    "en": "\"We also must try to avoid spending lots of time with people outside of our own household\".",
+    "z": ""
+  },
+  "45": {
+    "sea": "\"Hik juga mesti hielak luang jeoi mase ru sengoi-sengoi de pek sama deg ru hik.\"",
+    "en": "\"We also must try to avoid spending lots of time with people outside of our own household\".",
+    "z": ""
+  },
+  "46": {
+    "sea": "\"Hik juga mesti hijarak diri 2 miter inyaknak ju mai kilek, baik mase ku kedei, ku tempat kerjak, atau mase hibelwal ru jiran.",
+    "en": "\"Also, we need to keep two meters away from other people when we shop, work or talk to neighbors\"."
+  },
+  "47": {
+    "sea": "\"Hik juga mesti hijarak diri 2 miter inyaknak ju mai kilek, baik mase ku kedei, ku tempat kerjak, atau mase hibelwal ru jiran.",
+    "en": "\"Also, we need to keep two meters away from other people when we shop, work or talk to neighbors\"."
+  },
+  "48": {
+    "sea": "\"Amen hibeh bagei ajeh, hik buleh hitulog pebehenti virus ajeh dari kijekjog ju numom nu numom.\"",
+    "en": "\"Doing these things will help to stop the virus from spreading from person to person\u201d.",
+    "z": ""
+  },
+  "49": {
+    "sea": "\"Amen hibeh bagei ajeh, hik buleh hitulog pebehenti virus ajeh dari kijekjog ju numom nu numom.\"",
+    "en": "\"Doing these things will help to stop the virus from spreading from person to person\u201d.",
+    "z": ""
+  },
+  "50": {
+    "sea": "\"Amen hibeh bagei ajeh, hik buleh hitulog pebehenti virus ajeh dari kijekjog ju numom nu numom.\"",
+    "en": "\"Doing these things will help to stop the virus from spreading from person to person\u201d.",
+    "z": ""
+  },
+  "51": {
+    "sea": "",
+    "en": ""
+  },
+  "52": {
+    "sea": "",
+    "en": ""
+  },
+  "53": {
+    "sea": "Nuarik, Anita kirasa pek sihat iberog. Ihat pehot ikui, beket iberog, ru kek ya mula kikehol. Kek juga kiperasan kek pek dapat kirasa ru kikerngoi caknak de kicak. Anita kisedar kek ya kikena nyaknik virus Covid-19.",
+    "en": "One day, Anita doesn\u2019t feel well. She has a bad headache, a fever, and has begun to cough. Also, she notices that she cannot taste or smell her food. Anita realizes that she has Covid-19. ",
+    "z": ""
+  },
+  "54": {
+    "sea": "Nuarik, Anita kirasa pek sihat iberog. Ihat pehot ikui, beket iberog, ru kek ya mula kikehol. Kek juga kiperasan kek pek dapat kirasa ru kikerngoi caknak de kicak. Anita kisedar kek ya kikena nyaknik virus Covid-19.",
+    "en": "One day, Anita doesn\u2019t feel well. She has a bad headache, a fever, and has begun to cough. Also, she notices that she cannot taste or smell her food. Anita realizes that she has Covid-19. ",
+    "z": ""
+  },
+  "55": {
+    "sea": "Nuarik, Anita kirasa pek sihat iberog. Ihat pehot ikui, beket iberog, ru kek ya mula kikehol. Kek juga kiperasan kek pek dapat kirasa ru kikerngoi caknak de kicak. Anita kisedar kek ya kikena nyaknik virus Covid-19.",
+    "en": "One day, Anita doesn\u2019t feel well. She has a bad headache, a fever, and has begun to cough. Also, she notices that she cannot taste or smell her food. Anita realizes that she has Covid-19. ",
+    "z": ""
+  },
+  "56": {
+    "sea": "Kek segera kipasal nu iperingak, \"Hik mesti higei padeg ru hielak diri ju mai kilek. Virus Covid-19 mungken ya kijekjog nu engkek juga hamapen pek engkenyik. Engkek doh senang engkeog virus ajeh kijekjog nu mai kilek.\"",
+    "en": "Right away she tells her family and says, \u201cWe all need to stay home and keep away from others. You might have the virus, too, even though you do not feel sick. You could easily spread the virus to others.\u201d"
+  },
+  "57": {
+    "sea": "Kek segera kipasal nu iperingak, \"Hik mesti higei padeg ru hielak diri ju mai kilek. Virus Covid-19 mungken ya kijekjog nu engkek juga hamapen pek engkenyik. Engkek doh senang engkeog virus ajeh kijekjog nu mai kilek.\"",
+    "en": "Right away she tells her family and says, \u201cWe all need to stay home and keep away from others. You might have the virus, too, even though you do not feel sick. You could easily spread the virus to others.\u201d"
+  },
+  "58": {
+    "sea": "Telas ajeh, Anita kimuj nu kiaseg idiri nu kateh bilek kihalei, nyak ju iperingak de kilek. Kek kinyek doh inyaknik kijekjog nu enai ru enai pen doh nainyik juga.",
+    "en": "Then Anita goes and stays alone in a separate room, away from the family. She does not want to give them the sickness.",
+    "z": ""
+  },
+  "59": {
+    "sea": "Telas ajeh, Anita kimuj nu kiaseg idiri nu kateh bilek kihalei, nyak ju iperingak de kilek. Kek kinyek doh inyaknik kijekjog nu enai ru enai pen doh nainyik juga.",
+    "en": "Then Anita goes and stays alone in a separate room, away from the family. She does not want to give them the sickness.",
+    "z": ""
+  },
+  "60": {
+    "sea": "Telas ajeh, Anita kimuj nu kiaseg idiri nu kateh bilek kihalei, nyak ju iperingak de kilek. Kek kinyek doh inyaknik kijekjog nu enai ru enai pen doh nainyik juga.",
+    "en": "Then Anita goes and stays alone in a separate room, away from the family. She does not want to give them the sickness.",
+    "z": ""
+  },
+  "61": {
+    "sea": "Igensir, David, kijaga ha kek. Kek kien caknak nu ikenah ru kikot pingat-mangkok de ya kusong ju bilek ajeh. \u00a0Kek kiaseg pingat-mangkok de biguna ya ikenah ajeh dea pek biguna ya mai kilek.",
+    "en": "Anita\u2019s husband, David, takes care of her. He brings her food and takes away the empty dishes. He keeps her dishes separate and only Anita uses them."
+  },
+  "62": {
+    "sea": "Igensir, David, kijaga ha kek. Kek kien caknak nu ikenah ru kikot pingat-mangkok de ya kusong ju bilek ajeh. \u00a0Kek kiaseg pingat-mangkok de biguna ya ikenah ajeh dea pek biguna ya mai kilek.",
+    "en": "Anita\u2019s husband, David, takes care of her. He brings her food and takes away the empty dishes. He keeps her dishes separate and only Anita uses them."
+  },
+  "63": {
+    "sea": "David selalu kilog tuntop moh ru empag jap kali kimuj nu kateh bilek de bigei ya ikenah ajeh. Kek juga selalu kisuj iteg jap kali kibeh ma-ma ihal ha ikenah ajeh. Anita juga kilog tuntop moh ru empag jap kali igensir kimuj nu kateh ibilek.",
+    "en": "David always wears a mask whenever he goes into her room. He also washes his hands every time he does anything for her. Anita also wears a mask when he comes into the room.",
+    "z": ""
+  },
+  "64": {
+    "sea": "David selalu kilog tuntop moh ru empag jap kali kimuj nu kateh bilek de bigei ya ikenah ajeh. Kek juga selalu kisuj iteg jap kali kibeh ma-ma ihal ha ikenah ajeh. Anita juga kilog tuntop moh ru empag jap kali igensir kimuj nu kateh ibilek.",
+    "en": "David always wears a mask whenever he goes into her room. He also washes his hands every time he does anything for her. Anita also wears a mask when he comes into the room.",
+    "z": ""
+  },
+  "65": {
+    "sea": "David selalu kilog tuntop moh ru empag jap kali kimuj nu kateh bilek de bigei ya ikenah ajeh. Kek juga selalu kisuj iteg jap kali kibeh ma-ma ihal ha ikenah ajeh. Anita juga kilog tuntop moh ru empag jap kali igensir kimuj nu kateh ibilek.",
+    "en": "David always wears a mask whenever he goes into her room. He also washes his hands every time he does anything for her. Anita also wears a mask when he comes into the room.",
+    "z": ""
+  },
+  "66": {
+    "sea": "Pringak enai ajeh naikungsi tandas ru deg mahnuh de sama. Jadi, jap kali Anita kiguna tandas atau deg mahnuh ajeh, kek selalu kilog tuntop moh ru empag.",
+    "en": "The family shares one bathroom. So whenever Anita uses it, she always wears a mask.\u00a0",
+    "z": ""
+  },
+  "67": {
+    "sea": "Pringak enai ajeh naikungsi tandas ru deg mahnuh de sama. Jadi, jap kali Anita kiguna tandas atau deg mahnuh ajeh, kek selalu kilog tuntop moh ru empag.",
+    "en": "The family shares one bathroom. So whenever Anita uses it, she always wears a mask.\u00a0",
+    "z": ""
+  },
+  "68": {
+    "sea": "Pringak enai ajeh naikungsi tandas ru deg mahnuh de sama. Jadi, jap kali Anita kiguna tandas atau deg mahnuh ajeh, kek selalu kilog tuntop moh ru empag.",
+    "en": "The family shares one bathroom. So whenever Anita uses it, she always wears a mask.\u00a0",
+    "z": ""
+  },
+  "69": {
+    "sea": "Amen ya sudah, kek selalu kisuj jap pemukaan ya sabon sebelom kijog nu ibilek.",
+    "en": "When she is done, she wipes down the bathroom with a disinfectant solution before going back to her room."
+  },
+  "70": {
+    "sea": "Amen ya sudah, kek selalu kisuj jap pemukaan ya sabon sebelom kijog nu ibilek.",
+    "en": "When she is done, she wipes down the bathroom with a disinfectant solution before going back to her room."
+  },
+  "71": {
+    "sea": "Bilek de bigei ya Anita, ikenon, ru iamek ajeh ihat macot.",
+    "en": "The room where Anita, her mother, and Marcos stay is small and crowded."
+  },
+  "72": {
+    "sea": "Bilek de bigei ya Anita, ikenon, ru iamek ajeh ihat macot.",
+    "en": "The room where Anita, her mother, and Marcos stay is small and crowded."
+  },
+  "73": {
+    "sea": "Mujur, bilek enai ajeh mong pintu de buleh naihol nu luar deg. David kiseryap tempat ku luar pintu ajeh, tempat ha ipringak de nyik ajeh naiberihat sambel nairasa udare segar.",
+    "en": "Happily, it has a door to the outside. David sets up a place outside the door where the three sick family members can rest and enjoy the fresh air.",
+    "z": ""
+  },
+  "74": {
+    "sea": "Mujur, bilek enai ajeh mong pintu de buleh naihol nu luar deg. David kiseryap tempat ku luar pintu ajeh, tempat ha ipringak de nyik ajeh naiberihat sambel nairasa udare segar.",
+    "en": "Happily, it has a door to the outside. David sets up a place outside the door where the three sick family members can rest and enjoy the fresh air.",
+    "z": ""
+  },
+  "75": {
+    "sea": "Mujur, bilek enai ajeh mong pintu de buleh naihol nu luar deg. David kiseryap tempat ku luar pintu ajeh, tempat ha ipringak de nyik ajeh naiberihat sambel nairasa udare segar.",
+    "en": "Happily, it has a door to the outside. David sets up a place outside the door where the three sick family members can rest and enjoy the fresh air.",
+    "z": ""
+  },
+  "76": {
+    "sea": "Kekenon menaleh Anita ru David de kilek naitulog ma de patot ju care naibrencet ru naisahsah.",
+    "en": "Anita and David\u2019s daughters cook and do the laundry to help out.",
+    "z": ""
+  },
+  "77": {
+    "sea": "Kekenon menaleh Anita ru David de kilek naitulog ma de patot ju care naibrencet ru naisahsah.",
+    "en": "Anita and David\u2019s daughters cook and do the laundry to help out.",
+    "z": ""
+  },
+  "78": {
+    "sea": "Kekenon menaleh Anita ru David de kilek naitulog ma de patot ju care naibrencet ru naisahsah.",
+    "en": "Anita and David\u2019s daughters cook and do the laundry to help out.",
+    "z": ""
+  },
+  "79": {
+    "sea": "Jiran enai naien barang caknak ru penglai nyaknik ha enai dea pek naihol. Itujuan dea pek naiog nyaknik enai kijekjog nu mai kilek. Enai naipanei, hamapen nenumom sengoi ajeh pek kirasa nyik, kek lekat buleh kiog inyaknik kijekjog nu mai kilek. Enai naipanei, mimang ihat penteng dea pringak Anita ru David hat naigei padeg taleh.",
+    "en": "\u00a0Some neighbors bring groceries and fever medicines so that the family does not spread the disease by going to the shops themselves. They understand that even people who do not feel sick might have the virus and can spread the illness. They know it is important that Anita and David's whole family stays at home.",
+    "z": ""
+  },
+  "80": {
+    "sea": "Jiran enai naien barang caknak ru penglai nyaknik ha enai dea pek naihol. Itujuan dea pek naiog nyaknik enai kijekjog nu mai kilek. Enai naipanei, hamapen nenumom sengoi ajeh pek kirasa nyik, kek lekat buleh kiog inyaknik kijekjog nu mai kilek. Enai naipanei, mimang ihat penteng dea pringak Anita ru David hat naigei padeg taleh.",
+    "en": "\u00a0Some neighbors bring groceries and fever medicines so that the family does not spread the disease by going to the shops themselves. They understand that even people who do not feel sick might have the virus and can spread the illness. They know it is important that Anita and David's whole family stays at home.",
+    "z": ""
+  },
+  "81": {
+    "sea": "Jiran enai naien barang caknak ru penglai nyaknik ha enai dea pek naihol. Itujuan dea pek naiog nyaknik enai kijekjog nu mai kilek. Enai naipanei, hamapen nenumom sengoi ajeh pek kirasa nyik, kek lekat buleh kiog inyaknik kijekjog nu mai kilek. Enai naipanei, mimang ihat penteng dea pringak Anita ru David hat naigei padeg taleh.",
+    "en": "\u00a0Some neighbors bring groceries and fever medicines so that the family does not spread the disease by going to the shops themselves. They understand that even people who do not feel sick might have the virus and can spread the illness. They know it is important that Anita and David's whole family stays at home.",
+    "z": ""
+  },
+  "82": {
+    "sea": "David kiurok nu ijiran-jiran, \"Aguk terbuk rek nu pringak enj de nyik adeh! Enj ngnyek engkek pen doh engkenyik juga. Tapi, bedoaleh ha jik ru suegleh jik ju luar deg taleh.\"",
+    "en": "David says to the neighbors, \u201cDo not come close to our sick family members! We do not want you to get sick, too. But please do pray for them, sing songs and visit with them from outside the enclosure.\u201d"
+  },
+  "83": {
+    "sea": "David kiurok nu ijiran-jiran, \"Aguk terbuk rek nu pringak enj de nyik adeh! Enj ngnyek engkek pen doh engkenyik juga. Tapi, bedoaleh ha jik ru suegleh jik ju luar deg taleh.\"",
+    "en": "David says to the neighbors, \u201cDo not come close to our sick family members! We do not want you to get sick, too. But please do pray for them, sing songs and visit with them from outside the enclosure.\u201d"
+  },
+  "84": {
+    "sea": "Pastor enai kihol jap memerip arik, kibedoa ha mai de nyik, ru kiog galakkan nu enai ju luar pagar deg. Kek juga pen turot kibehati-hati ju care kilog tuntop moh ru empag.",
+    "en": "The pastor comes every couple of days to pray for the sick, and encourage them by reading the Scriptures aloud from across the fence. He is careful to wear a mask as well.",
+    "z": ""
+  },
+  "85": {
+    "sea": "Pastor enai kihol jap memerip arik, kibedoa ha mai de nyik, ru kiog galakkan nu enai ju luar pagar deg. Kek juga pen turot kibehati-hati ju care kilog tuntop moh ru empag.",
+    "en": "The pastor comes every couple of days to pray for the sick, and encourage them by reading the Scriptures aloud from across the fence. He is careful to wear a mask as well.",
+    "z": ""
+  },
+  "86": {
+    "sea": "Pastor enai kihol jap memerip arik, kibedoa ha mai de nyik, ru kiog galakkan nu enai ju luar pagar deg. Kek juga pen turot kibehati-hati ju care kilog tuntop moh ru empag.",
+    "en": "The pastor comes every couple of days to pray for the sick, and encourage them by reading the Scriptures aloud from across the fence. He is careful to wear a mask as well.",
+    "z": ""
+  },
+  "87": {
+    "sea": "Ku mase pek lalu naiha-cak jeoi, kek kiog enai caknak bagei ha sup. Ikekenon menaleh naitulog masak sup ajeh.\u00a0",
+    "en": "When they cannot eat much, he feeds them simple hot broth and soup. His daughters help by cooking the broth.",
+    "z": ""
+  },
+  "88": {
+    "sea": "Ku mase pek lalu naiha-cak jeoi, kek kiog enai caknak bagei ha sup. Ikekenon menaleh naitulog masak sup ajeh.\u00a0",
+    "en": "When they cannot eat much, he feeds them simple hot broth and soup. His daughters help by cooking the broth.",
+    "z": ""
+  },
+  "89": {
+    "sea": "Ku mase pek lalu naiha-cak jeoi, kek kiog enai caknak bagei ha sup. Ikekenon menaleh naitulog masak sup ajeh.\u00a0",
+    "en": "When they cannot eat much, he feeds them simple hot broth and soup. His daughters help by cooking the broth.",
+    "z": ""
+  },
+  "90": {
+    "sea": "Ijak, Flora, kinyik terok lei pek lalu kicakcak.",
+    "en": "His mother-in-law, Flora, gets so ill that she cannot eat anything."
+  },
+  "91": {
+    "sea": "Ijak, Flora, kinyik terok lei pek lalu kicakcak.",
+    "en": "His mother-in-law, Flora, gets so ill that she cannot eat anything."
+  },
+  "92": {
+    "sea": "Jadi, David kicampor 8 sudu gula ru setengah sudu empoj ku kateh teu ru kiog Flora, ijak ajeh kingot. Kek selalu kipastikan ipringak de nyik ajeh naingot jeoi teu, sekurang-kurang 2 liter nuarik.",
+    "en": "So, David\u00a0 mixes 8 teaspoons of sugar and 1/2 teaspoon of salt in a liter of clean water for Flora to drink. He tries to make sure that they all drink two liters of liquid per day.",
+    "z": ""
+  },
+  "93": {
+    "sea": "Jadi, David kicampor 8 sudu gula ru setengah sudu empoj ku kateh teu ru kiog Flora, ijak ajeh kingot. Kek selalu kipastikan ipringak de nyik ajeh naingot jeoi teu, sekurang-kurang 2 liter nuarik.",
+    "en": "So, David\u00a0 mixes 8 teaspoons of sugar and 1/2 teaspoon of salt in a liter of clean water for Flora to drink. He tries to make sure that they all drink two liters of liquid per day.",
+    "z": ""
+  },
+  "94": {
+    "sea": "Jadi, David kicampor 8 sudu gula ru setengah sudu empoj ku kateh teu ru kiog Flora, ijak ajeh kingot. Kek selalu kipastikan ipringak de nyik ajeh naingot jeoi teu, sekurang-kurang 2 liter nuarik.",
+    "en": "So, David\u00a0 mixes 8 teaspoons of sugar and 1/2 teaspoon of salt in a liter of clean water for Flora to drink. He tries to make sure that they all drink two liters of liquid per day.",
+    "z": ""
+  },
+  "95": {
+    "sea": "Telas memerip arik kinyik terok, Anita ya mula kirasa bor. Ikenon, Marcos, pek kinyik terok ru deras kibor.",
+    "en": "After several days of being very sick, Anita begins to feel better. Her son, Marcos, does not get very sick and recovers very quickly."
+  },
+  "96": {
+    "sea": "Telas memerip arik kinyik terok, Anita ya mula kirasa bor. Ikenon, Marcos, pek kinyik terok ru deras kibor.",
+    "en": "After several days of being very sick, Anita begins to feel better. Her son, Marcos, does not get very sick and recovers very quickly."
+  },
+  "97": {
+    "sea": "David kiberlag, \"Enj betol-betol ngbeharap hik buleh hibeh bagei ajeh. Tapi, pek mong bas kerana PKP. Maria, pekerjak Kesihatan Komuniti hik pen pek dapat kihol madeh!\"",
+    "en": "David replies, \u201cI wish we could. But because of the lockdown there are no buses running. Even Maria, our Community Health Worker, can\u2019t come!\""
+  },
+  "98": {
+    "sea": "David kiberlag, \"Enj betol-betol ngbeharap hik buleh hibeh bagei ajeh. Tapi, pek mong bas kerana PKP. Maria, pekerjak Kesihatan Komuniti hik pen pek dapat kihol madeh!\"",
+    "en": "David replies, \u201cI wish we could. But because of the lockdown there are no buses running. Even Maria, our Community Health Worker, can\u2019t come!\""
+  },
+  "99": {
+    "sea": "Syukur, Anita buleh kitalipon Maria ru kisemanj nasihat ha care kaha-jaga iamek.",
+    "en": "Thankfully, Anita is able to call Maria on the phone to get some advice about how to take care of her mother."
+  },
+  "100": {
+    "sea": "Syukur, Anita buleh kitalipon Maria ru kisemanj nasihat ha care kaha-jaga iamek.",
+    "en": "Thankfully, Anita is able to call Maria on the phone to get some advice about how to take care of her mother."
+  },
+  "101": {
+    "sea": "Maria kiurok, \"Ingat, engkek mesti kuarantin ru pek engkebegaul ru mai sekelileg dea pek engkeog nyaknik engkek kijekjog nu mai kilek. Mimang mong icare ha jaga amek hek hamapen pek dapat engkehol nu luar.\"",
+    "en": "Maria tells her, \u201cRemember that all of you still need to quarantine from the rest of the community to keep from spreading the disease. There are ways you can help your mother even if you cannot go out.\u201d",
+    "z": ""
+  },
+  "102": {
+    "sea": "Maria kiurok, \"Ingat, engkek mesti kuarantin ru pek engkebegaul ru mai sekelileg dea pek engkeog nyaknik engkek kijekjog nu mai kilek. Mimang mong icare ha jaga amek hek hamapen pek dapat engkehol nu luar.\"",
+    "en": "Maria tells her, \u201cRemember that all of you still need to quarantine from the rest of the community to keep from spreading the disease. There are ways you can help your mother even if you cannot go out.\u201d",
+    "z": ""
+  },
+  "103": {
+    "sea": "Maria kiurok, \"Ingat, engkek mesti kuarantin ru pek engkebegaul ru mai sekelileg dea pek engkeog nyaknik engkek kijekjog nu mai kilek. Mimang mong icare ha jaga amek hek hamapen pek dapat engkehol nu luar.\"",
+    "en": "Maria tells her, \u201cRemember that all of you still need to quarantine from the rest of the community to keep from spreading the disease. There are ways you can help your mother even if you cannot go out.\u201d",
+    "z": ""
+  },
+  "104": {
+    "sea": "David kibuka pintu ru kiletak jaring dea pinoi dapat kimuj, tapi kemet ru roi pek dapat. Amen pintu bitutop, David kipastikan tingkap lekat bibuka dea udare segar dapat kimuj nu kateh deg ru kitulog ijak kibelehem lebeh senang nij.",
+    "en": "",
+    "z": ""
+  },
+  "105": {
+    "sea": "David kibuka pintu ru kiletak jaring dea pinoi dapat kimuj, tapi kemet ru roi pek dapat. Amen pintu bitutop, David kipastikan tingkap lekat bibuka dea udare segar dapat kimuj nu kateh deg ru kitulog ijak kibelehem lebeh senang nij.",
+    "en": "",
+    "z": ""
+  },
+  "106": {
+    "sea": "David kibuka pintu ru kiletak jaring dea pinoi dapat kimuj, tapi kemet ru roi pek dapat. Amen pintu bitutop, David kipastikan tingkap lekat bibuka dea udare segar dapat kimuj nu kateh deg ru kitulog ijak kibelehem lebeh senang nij.",
+    "en": "",
+    "z": ""
+  },
+  "107": {
+    "sea": "Anita kitulog iamek ngot teu sekurang-kurang tiap nujam nukali.",
+    "en": "Anita helps her mother take sips of water at least every hour."
+  },
+  "108": {
+    "sea": "Anita kitulog iamek ngot teu sekurang-kurang tiap nujam nukali.",
+    "en": "Anita helps her mother take sips of water at least every hour."
+  },
+  "109": {
+    "sea": "Anita kibelajar ju Maria, tiap jam iamek hot kitarek ilehem ajerek, ru kiperhol ilehem ajeh pelahat-lahat. Hal ajeh buleh kitulog iparu-paru kibekerja bor. \u00a0",
+    "en": "Anita learns from Maria to have her mother take some deep, slow breaths every hour. This helps Flora keep her lungs working properly.",
+    "z": ""
+  },
+  "110": {
+    "sea": "Anita kibelajar ju Maria, tiap jam iamek hot kitarek ilehem ajerek, ru kiperhol ilehem ajeh pelahat-lahat. Hal ajeh buleh kitulog iparu-paru kibekerja bor. \u00a0",
+    "en": "Anita learns from Maria to have her mother take some deep, slow breaths every hour. This helps Flora keep her lungs working properly.",
+    "z": ""
+  },
+  "111": {
+    "sea": "Anita kibelajar ju Maria, tiap jam iamek hot kitarek ilehem ajerek, ru kiperhol ilehem ajeh pelahat-lahat. Hal ajeh buleh kitulog iparu-paru kibekerja bor. \u00a0",
+    "en": "Anita learns from Maria to have her mother take some deep, slow breaths every hour. This helps Flora keep her lungs working properly.",
+    "z": ""
+  },
+  "112": {
+    "sea": "Anita juga kitulog iamek selalu kitukar icare daknak. Kek kicuba beh iamek dakdak kekkop kerana hal ajeh buleh kitulog iamek kibelehem dea iparu-paru kibekerja bor.",
+    "en": "Anita also helps Flora change her position often. She tries to have Flora lie on her stomach whenever she can because that also helps Flora\u2019s lungs.",
+    "z": ""
+  },
+  "113": {
+    "sea": "Anita juga kitulog iamek selalu kitukar icare daknak. Kek kicuba beh iamek dakdak kekkop kerana hal ajeh buleh kitulog iamek kibelehem dea iparu-paru kibekerja bor.",
+    "en": "Anita also helps Flora change her position often. She tries to have Flora lie on her stomach whenever she can because that also helps Flora\u2019s lungs.",
+    "z": ""
+  },
+  "114": {
+    "sea": "Anita juga kitulog iamek selalu kitukar icare daknak. Kek kicuba beh iamek dakdak kekkop kerana hal ajeh buleh kitulog iamek kibelehem dea iparu-paru kibekerja bor.",
+    "en": "Anita also helps Flora change her position often. She tries to have Flora lie on her stomach whenever she can because that also helps Flora\u2019s lungs.",
+    "z": ""
+  },
+  "115": {
+    "sea": "Maria juga kiajar Anita care kilek de buleh kitulog paru-paru iamek ajeh. Icare. guna butol tenghol.",
+    "en": "Maria also teaches Anita another way to help Flora\u2019s lungs, by making a bubble bottle.",
+    "z": ""
+  },
+  "116": {
+    "sea": "Maria juga kiajar Anita care kilek de buleh kitulog paru-paru iamek ajeh. Icare. guna butol tenghol.",
+    "en": "Maria also teaches Anita another way to help Flora\u2019s lungs, by making a bubble bottle.",
+    "z": ""
+  },
+  "117": {
+    "sea": "Maria juga kiajar Anita care kilek de buleh kitulog paru-paru iamek ajeh. Icare. guna butol tenghol.",
+    "en": "Maria also teaches Anita another way to help Flora\u2019s lungs, by making a bubble bottle.",
+    "z": ""
+  },
+  "118": {
+    "sea": "Mula-mula, Anita kiisi butol kusong ya teu, lebeh kurang 5 sentimiter iteninggi ru kiletak strow ku kateh butol ajeh.",
+    "en": "First Anita fills a coke bottle with about 5 centimeters of water and puts a straw into the bottle.",
+    "z": ""
+  },
+  "119": {
+    "sea": "Mula-mula, Anita kiisi butol kusong ya teu, lebeh kurang 5 sentimiter iteninggi ru kiletak strow ku kateh butol ajeh.",
+    "en": "First Anita fills a coke bottle with about 5 centimeters of water and puts a straw into the bottle.",
+    "z": ""
+  },
+  "120": {
+    "sea": "Mula-mula, Anita kiisi butol kusong ya teu, lebeh kurang 5 sentimiter iteninggi ru kiletak strow ku kateh butol ajeh.",
+    "en": "First Anita fills a coke bottle with about 5 centimeters of water and puts a straw into the bottle.",
+    "z": ""
+  },
+  "121": {
+    "sea": "Telas ajeh, iamek kitehol nu kateh butol ajeh pelahat-lahat lei iteu hol jeoi udare. Kibeh hal ajeh memerip kali nuarik dea kitulog iparu-paru bekerjak bor.",
+    "en": "Then Flora blows gently into the straw to make the water bubble. Doing this several times every couple of hours helps her lungs work better."
+  },
+  "122": {
+    "sea": "Telas ajeh, iamek kitehol nu kateh butol ajeh pelahat-lahat lei iteu hol jeoi udare. Kibeh hal ajeh memerip kali nuarik dea kitulog iparu-paru bekerjak bor.",
+    "en": "Then Flora blows gently into the straw to make the water bubble. Doing this several times every couple of hours helps her lungs work better."
+  },
+  "123": {
+    "sea": "Anita kibesyukor ha neajar ju Maria. Iamek ya mula kirasa bor ru itenage ya kijekjog nij.",
+    "en": "Anita is thankful for all of Maria's advice. Flora slowly begins to feel better and gets her strength back.",
+    "z": ""
+  },
+  "124": {
+    "sea": "Anita kibesyukor ha neajar ju Maria. Iamek ya mula kirasa bor ru itenage ya kijekjog nij.",
+    "en": "Anita is thankful for all of Maria's advice. Flora slowly begins to feel better and gets her strength back.",
+    "z": ""
+  },
+  "125": {
+    "sea": "Anita kibesyukor ha neajar ju Maria. Iamek ya mula kirasa bor ru itenage ya kijekjog nij.",
+    "en": "Anita is thankful for all of Maria's advice. Flora slowly begins to feel better and gets her strength back.",
+    "z": ""
+  },
+  "126": {
+    "sea": "Ipringak naikira merip iluniu sejak Anita, Marco, ru Flora mula nainyik. Telas ya 14 arik, naikot nij suhu berog enai. Telas 24 jam, pek mong numom pen ju enai ajeh de nyik. Jadi, enai ya buleh naihol ju kendeg. Enai ya pek akan naiog nyaknik enai kijekjog nu mai kilek.",
+    "en": "The family keeps track of the days since Anita, Marco and Flora first got sick. Finally, after 14 days, they check their\u00a0temperatures. None of them have had a fever for at least 24 hours, and they are able to go out of the\u00a0house again.They will not spread the sickness anymore.",
+    "z": ""
+  },
+  "127": {
+    "sea": "Ipringak naikira merip iluniu sejak Anita, Marco, ru Flora mula nainyik. Telas ya 14 arik, naikot nij suhu berog enai. Telas 24 jam, pek mong numom pen ju enai ajeh de nyik. Jadi, enai ya buleh naihol ju kendeg. Enai ya pek akan naiog nyaknik enai kijekjog nu mai kilek.",
+    "en": "The family keeps track of the days since Anita, Marco and Flora first got sick. Finally, after 14 days, they check their\u00a0temperatures. None of them have had a fever for at least 24 hours, and they are able to go out of the\u00a0house again.They will not spread the sickness anymore.",
+    "z": ""
+  },
+  "128": {
+    "sea": "Ipringak naikira merip iluniu sejak Anita, Marco, ru Flora mula nainyik. Telas ya 14 arik, naikot nij suhu berog enai. Telas 24 jam, pek mong numom pen ju enai ajeh de nyik. Jadi, enai ya buleh naihol ju kendeg. Enai ya pek akan naiog nyaknik enai kijekjog nu mai kilek.",
+    "en": "The family keeps track of the days since Anita, Marco and Flora first got sick. Finally, after 14 days, they check their\u00a0temperatures. None of them have had a fever for at least 24 hours, and they are able to go out of the\u00a0house again.They will not spread the sickness anymore.",
+    "z": ""
+  },
+  "129": {
+    "sea": "Jeoi mai ku kateh komuniti enai ajeh de naikena Covid-19. Anita ru David ya jeoi ubai belajar ru hunen dapat ubai tulog komuniti liubai, ru pringak enai juga.",
+    "en": "Many others in their community have Covid-19. Anita and David have learned so much that now they can help them and their families.",
+    "z": ""
+  },
+  "130": {
+    "sea": "Jeoi mai ku kateh komuniti enai ajeh de naikena Covid-19. Anita ru David ya jeoi ubai belajar ru hunen dapat ubai tulog komuniti liubai, ru pringak enai juga.",
+    "en": "Many others in their community have Covid-19. Anita and David have learned so much that now they can help them and their families.",
+    "z": ""
+  },
+  "131": {
+    "sea": "Jeoi mai ku kateh komuniti enai ajeh de naikena Covid-19. Anita ru David ya jeoi ubai belajar ru hunen dapat ubai tulog komuniti liubai, ru pringak enai juga.",
+    "en": "Many others in their community have Covid-19. Anita and David have learned so much that now they can help them and their families.",
+    "z": ""
+  },
+  "132": {
+    "sea": "Gerija enai selalu naipelagak mai ya bedoa ru selalu juga naien caknak ha mai de nyik. Enai juga naitulog danan mai kerana Covid-19, ru naiturot serta besedeh besama pringak ru komuniti ajeh.",
+    "en": "Their church has been able to encourage people by praying and bringing food. They also help with funerals of people who have died from the virus and give comfort to the grieving families and community.",
+    "z": ""
+  },
+  "133": {
+    "sea": "Gerija enai selalu naipelagak mai ya bedoa ru selalu juga naien caknak ha mai de nyik. Enai juga naitulog danan mai kerana Covid-19, ru naiturot serta besedeh besama pringak ru komuniti ajeh.",
+    "en": "Their church has been able to encourage people by praying and bringing food. They also help with funerals of people who have died from the virus and give comfort to the grieving families and community.",
+    "z": ""
+  },
+  "134": {
+    "sea": "Gerija enai selalu naipelagak mai ya bedoa ru selalu juga naien caknak ha mai de nyik. Enai juga naitulog danan mai kerana Covid-19, ru naiturot serta besedeh besama pringak ru komuniti ajeh.",
+    "en": "Their church has been able to encourage people by praying and bringing food. They also help with funerals of people who have died from the virus and give comfort to the grieving families and community.",
+    "z": ""
+  },
+  "135": {
+    "sea": "Jap-jap mai ya pek sabar naiha-berkep cenucok vaksin dea enai bilindog ju virus Covid-19. Syukur, sementare naipimpoj, enai ya naipanei perkara de patot naibeh.",
+    "en": "Everyone is looking forward to when they can get the vaccine to protect against Covid-19. Thankfully, while they wait, they know what to do.",
+    "z": ""
+  },
+  "136": {
+    "sea": "Jap-jap mai ya pek sabar naiha-berkep cenucok vaksin dea enai bilindog ju virus Covid-19. Syukur, sementare naipimpoj, enai ya naipanei perkara de patot naibeh.",
+    "en": "Everyone is looking forward to when they can get the vaccine to protect against Covid-19. Thankfully, while they wait, they know what to do.",
+    "z": ""
+  },
+  "137": {
+    "sea": "Jap-jap mai ya pek sabar naiha-berkep cenucok vaksin dea enai bilindog ju virus Covid-19. Syukur, sementare naipimpoj, enai ya naipanei perkara de patot naibeh.",
+    "en": "Everyone is looking forward to when they can get the vaccine to protect against Covid-19. Thankfully, while they wait, they know what to do.",
+    "z": ""
+  }
+}

@@ -1,0 +1,630 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "edca7149-abed-4207-9315-0a9745ca1fed",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "\u0190NY\u0197\u014a \u0190N\u0190 \u0186BH\u0186\u014a\u0186 B\u0190R\u0197\u014a\u0197 \u0190\u030cTI KORO\u0301NA\u0301 VAYR\u0186S NY\u0190N \u0190NI\nN\u0190CHAK B\u0190 KOVID\u201319",
+  "allTitles": "{\"en\":\"What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\",\"fr\":\"Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\",\"ken\":\"\u0190NY\u0197\u014a \u0190N\u0190 \u0186BH\u0186\u014a\u0186 B\u0190R\u0197\u014a\u0197 \u0190\u030cTI KORO\u0301NA\u0301 VAYR\u0186S NY\u0190N \u0190NI\nN\u0190CHAK B\u0190 KOVID\u201319\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,4797e2a5-bc4f-48a0-b988-e10ff8deb4bc,5ac3444b-2397-4a3e-ac07-9e4aeaf757b4",
+  "downloadSource": "morgane_soudrain@cabtal.org/edca7149-abed-4207-9315-0a9745ca1fed",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2020, CABTAL",
+  "credits": "\r\nAll pictures belong to CABTAL, except\r\np.2 belongs to Pixabay\r\np.6 (butcher) and p.7 (crowd) belong to Wikimedia Commons\r\np.7 (people watching TV) belongs to United Nations (Photo # 616869 UN Photo/Marco Dormino)\r\n\r\nCABTAL Contacts\r\n\r\nWeb : www.cabtal.org\r\nMail : info_cabtal@cabtal.org\r\n\r\nTel : (237) 699 833 535\r\nWhatsApp : (237) 654 439 659\r\n\r\nP.O. Box: 16 550 Yaound\u00e9, Cameroon",
+  "tags": [],
+  "pageCount": 15,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "LQy1JEA8EB"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "c9XoIsiYN3"
+    }
+  ],
+  "summary": "Coronavirus COVID-19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Cameroon",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "1xBKlzBnBB"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "es": "Spanish",
+    "en": "Anglais",
+    "fr": "French",
+    "ken": "Kenyang language"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "ken": "N\u0190CHAK B\u0190 KOVID\u201319",
+    "en": "COVID-19"
+  },
+  "2": {
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "ken": "N\u0190CHAK B\u0190 KOVID\u201319",
+    "en": "COVID-19"
+  },
+  "3": {
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "ken": "N\u0190CHAK B\u0190 KOVID\u201319",
+    "en": "COVID-19"
+  },
+  "8": {
+    "ken": "Cameroon Association for Bible Translation and Literacy",
+    "en": "Bible Translation and Literacy"
+  },
+  "9": {
+    "ken": "Cameroon Association for Bible Translation and Literacy",
+    "en": "Bible Translation and Literacy"
+  },
+  "13": {
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "ken": "N\u0190CHAK B\u0190 KOVID\u201319",
+    "en": "COVID-19"
+  },
+  "14": {
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "ken": "N\u0190CHAK B\u0190 KOVID\u201319",
+    "en": "COVID-19"
+  },
+  "15": {
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "ken": "N\u0190CHAK B\u0190 KOVID\u201319",
+    "en": "COVID-19"
+  },
+  "18": {
+    "en": "https://www.who.int/home"
+  },
+  "26": {
+    "en": "P.O. Box: 16 550 Yaound\u00e9, Cameroon"
+  },
+  "29": {
+    "ken": "",
+    "en": ""
+  },
+  "30": {
+    "ken": "",
+    "en": ""
+  },
+  "31": {
+    "ken": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 BATI K\u0190P\u0197",
+    "en": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY"
+  },
+  "32": {
+    "ken": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 BATI K\u0190P\u0197",
+    "en": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY"
+  },
+  "33": {
+    "ken": "",
+    "en": "",
+    "z": ""
+  },
+  "34": {
+    "ken": "",
+    "en": "",
+    "z": ""
+  },
+  "35": {
+    "ken": "",
+    "en": "",
+    "z": ""
+  },
+  "36": {
+    "ken": "",
+    "en": ""
+  },
+  "37": {
+    "ken": "",
+    "en": ""
+  },
+  "38": {
+    "ken": "",
+    "en": ""
+  },
+  "39": {
+    "ken": "",
+    "en": ""
+  },
+  "40": {
+    "ken": "",
+    "en": ""
+  },
+  "41": {
+    "ken": "",
+    "en": ""
+  },
+  "42": {
+    "ken": "",
+    "en": "p.8"
+  },
+  "43": {
+    "ken": "",
+    "en": "p.8"
+  },
+  "44": {
+    "ken": "",
+    "en": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+    "z": ""
+  },
+  "45": {
+    "ken": "",
+    "en": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+    "z": ""
+  },
+  "46": {
+    "ken": "",
+    "en": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+    "z": ""
+  },
+  "47": {
+    "ken": "",
+    "en": ""
+  },
+  "48": {
+    "ken": "",
+    "en": ""
+  },
+  "49": {
+    "ken": "",
+    "en": ""
+  },
+  "50": {
+    "ken": "",
+    "en": ""
+  },
+  "51": {
+    "ken": "Base\u0301ansi",
+    "en": "Elderly person"
+  },
+  "52": {
+    "ken": "Base\u0301ansi",
+    "en": "Elderly person"
+  },
+  "53": {
+    "ken": "",
+    "en": ""
+  },
+  "54": {
+    "ken": "",
+    "en": ""
+  },
+  "55": {
+    "ken": "Mmu an\u025b a\u0301bh\u0254\u0301\u014b\u0254\u0301 n\u025bme\u030cnt\u0268 n\u025b y\u025b\u030cchi n\u025bme mb\u0254\u014b ant\u0268",
+    "en": "Person with a heart condition or disease"
+  },
+  "56": {
+    "ken": "Mmu an\u025b a\u0301bh\u0254\u0301\u014b\u0254\u0301 n\u025bme\u030cnt\u0268 n\u025b y\u025b\u030cchi n\u025bme mb\u0254\u014b ant\u0268",
+    "en": "Person with a heart condition or disease"
+  },
+  "57": {
+    "ken": "",
+    "en": "People of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+    "z": ""
+  },
+  "58": {
+    "ken": "",
+    "en": "People of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+    "z": ""
+  },
+  "59": {
+    "ken": "",
+    "en": "People of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+    "z": ""
+  },
+  "60": {
+    "ken": "",
+    "en": ""
+  },
+  "61": {
+    "ken": "",
+    "en": ""
+  },
+  "62": {
+    "ken": "",
+    "en": ""
+  },
+  "63": {
+    "ken": "",
+    "en": ""
+  },
+  "64": {
+    "ken": "-N\u025bseri\u030cm\u0289\u025bt",
+    "en": "Fatigue"
+  },
+  "65": {
+    "ken": "-N\u025bseri\u030cm\u0289\u025bt",
+    "en": "Fatigue"
+  },
+  "66": {
+    "ken": "",
+    "en": ""
+  },
+  "67": {
+    "ken": "",
+    "en": ""
+  },
+  "68": {
+    "ken": "-Mmu\u0289\u025bt b\u025bsay n\u025b b\u025bbe",
+    "en": "Muscle aches and pains"
+  },
+  "69": {
+    "ken": "-Mmu\u0289\u025bt b\u025bsay n\u025b b\u025bbe",
+    "en": "Muscle aches and pains"
+  },
+  "70": {
+    "ken": "B\u025br\u0268\u014b \u025bbh\u025bn b\u025b\u0301t\u0254\u014b b\u025b mmu abh\u0254\u014b koro\u0301na\u0301vayr\u0254s chi mb\u0254 \u025bbh\u025bn: mb\u0289\u025b\u0301p ata\u014bata\u014b, \u025bw\u0254\u0301si\u0301 \u025bkwaka n\u025b b\u025bbe\u030c mm\u0289\u025b\u0301t nk\u025bm n\u025b mm\u0289\u025b\u0301t b\u025bseri. Bo abh\u025bn ba\u0301bh\u0254\u014b\u0254 neme \u025bn\u025bn ba\u0301ghok b\u025bbe, n\u025b manyu\u025bn b\u025bchok many\u025bp amfuaka, n\u025b \u025bf\u0289\u025br\u025b\u0301 ngo\u014bo, n\u025b y\u025b\u030cchi njw\u025bt. Mb\u0254k bho ba\u0301bh\u0254\u014b n\u025bme \u025bn\u025bn k\u025b b\u025br\u0268\u014b \u025bbh\u025bn b\u025bpu bhak.\u00a0 B\u025bya\u030c bho abh\u025bn babh\u0254\u0301\u014b\u0254\u0301 n\u0254 ba\u0301ta\u014b \u025bn\u025b ba\u0301bh\u0268\u0301k\u0268\u0301 s\u0254t \u025bsa\u0301yri\u0301 babhe.",
+    "en": "The symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+    "z": ""
+  },
+  "71": {
+    "ken": "B\u025br\u0268\u014b \u025bbh\u025bn b\u025b\u0301t\u0254\u014b b\u025b mmu abh\u0254\u014b koro\u0301na\u0301vayr\u0254s chi mb\u0254 \u025bbh\u025bn: mb\u0289\u025b\u0301p ata\u014bata\u014b, \u025bw\u0254\u0301si\u0301 \u025bkwaka n\u025b b\u025bbe\u030c mm\u0289\u025b\u0301t nk\u025bm n\u025b mm\u0289\u025b\u0301t b\u025bseri. Bo abh\u025bn ba\u0301bh\u0254\u014b\u0254 neme \u025bn\u025bn ba\u0301ghok b\u025bbe, n\u025b manyu\u025bn b\u025bchok many\u025bp amfuaka, n\u025b \u025bf\u0289\u025br\u025b\u0301 ngo\u014bo, n\u025b y\u025b\u030cchi njw\u025bt. Mb\u0254k bho ba\u0301bh\u0254\u014b n\u025bme \u025bn\u025bn k\u025b b\u025br\u0268\u014b \u025bbh\u025bn b\u025bpu bhak.\u00a0 B\u025bya\u030c bho abh\u025bn babh\u0254\u0301\u014b\u0254\u0301 n\u0254 ba\u0301ta\u014b \u025bn\u025b ba\u0301bh\u0268\u0301k\u0268\u0301 s\u0254t \u025bsa\u0301yri\u0301 babhe.",
+    "en": "The symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+    "z": ""
+  },
+  "72": {
+    "ken": "B\u025br\u0268\u014b \u025bbh\u025bn b\u025b\u0301t\u0254\u014b b\u025b mmu abh\u0254\u014b koro\u0301na\u0301vayr\u0254s chi mb\u0254 \u025bbh\u025bn: mb\u0289\u025b\u0301p ata\u014bata\u014b, \u025bw\u0254\u0301si\u0301 \u025bkwaka n\u025b b\u025bbe\u030c mm\u0289\u025b\u0301t nk\u025bm n\u025b mm\u0289\u025b\u0301t b\u025bseri. Bo abh\u025bn ba\u0301bh\u0254\u014b\u0254 neme \u025bn\u025bn ba\u0301ghok b\u025bbe, n\u025b manyu\u025bn b\u025bchok many\u025bp amfuaka, n\u025b \u025bf\u0289\u025br\u025b\u0301 ngo\u014bo, n\u025b y\u025b\u030cchi njw\u025bt. Mb\u0254k bho ba\u0301bh\u0254\u014b n\u025bme \u025bn\u025bn k\u025b b\u025br\u0268\u014b \u025bbh\u025bn b\u025bpu bhak.\u00a0 B\u025bya\u030c bho abh\u025bn babh\u0254\u0301\u014b\u0254\u0301 n\u0254 ba\u0301ta\u014b \u025bn\u025b ba\u0301bh\u0268\u0301k\u0268\u0301 s\u0254t \u025bsa\u0301yri\u0301 babhe.",
+    "en": "The symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+    "z": ""
+  },
+  "73": {
+    "ken": "",
+    "en": ""
+  },
+  "74": {
+    "ken": "",
+    "en": ""
+  },
+  "75": {
+    "ken": "Mmu an\u025b a\u0301bh\u0254\u0301\u014b\u0254\u0301 \u025bkwaka",
+    "en": "Person with a cough"
+  },
+  "76": {
+    "ken": "Mmu an\u025b a\u0301bh\u0254\u0301\u014b\u0254\u0301 \u025bkwaka",
+    "en": "Person with a cough"
+  },
+  "77": {
+    "ken": "KOVID \u2013 19 Bo abh\u025bn ba\u0301bh\u0254\u0301\u014b\u0254\u0301 vayr\u0254s n\u025b k\u025b ba\u0301char\u025b bo bachak. Mmu an\u025b a\u0301me n\u0254, a\u030cf\u025br\u025b n\u0254\u0301 anyu ndu \u025bkwaka, amf\u025br\u025b manyw\u025b\u0301n ndu b\u025b\u0301ch\u0268\u0301k\u0268\u0301. N\u025b mba\u0301k bo bachak bachi k\u025bkw\u0254t koro\u0301na\u0301vayr\u0254s a\u030cf\u0289\u025bt b\u0254 am\u0289\u025bt ndu ba\u0301f\u025br\u025b \u025b\u030cyu. Mba\u0301k mmu at\u0254k \u025bny\u0268\u014b \u025bn\u025b k\u025broko\u0301 baty\u025b n\u025b b\u025b\u0301h\u0268\u0301k\u0268\u0301 b\u025bkw\u025bn\u025b ar\u025b, k\u025b ans\u0254t nku\u0301bh\u025b\u0301 aw\u0254 wu ant\u0254k y\u025b\u030cchi ny\u025b\u0301s\u025b\u0301 \u025bni, y\u025b\u030c nyw\u025bn \u025bni, n\u025b y\u025b\u030c nyu ywi, a\u030ckway nkw\u0254 b\u025b\u0301bh\u0254\u014b n\u025bme \u025bn\u025b\u0301n.",
+    "en": "COVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+    "z": ""
+  },
+  "78": {
+    "ken": "KOVID \u2013 19 Bo abh\u025bn ba\u0301bh\u0254\u0301\u014b\u0254\u0301 vayr\u0254s n\u025b k\u025b ba\u0301char\u025b bo bachak. Mmu an\u025b a\u0301me n\u0254, a\u030cf\u025br\u025b n\u0254\u0301 anyu ndu \u025bkwaka, amf\u025br\u025b manyw\u025b\u0301n ndu b\u025b\u0301ch\u0268\u0301k\u0268\u0301. N\u025b mba\u0301k bo bachak bachi k\u025bkw\u0254t koro\u0301na\u0301vayr\u0254s a\u030cf\u0289\u025bt b\u0254 am\u0289\u025bt ndu ba\u0301f\u025br\u025b \u025b\u030cyu. Mba\u0301k mmu at\u0254k \u025bny\u0268\u014b \u025bn\u025b k\u025broko\u0301 baty\u025b n\u025b b\u025b\u0301h\u0268\u0301k\u0268\u0301 b\u025bkw\u025bn\u025b ar\u025b, k\u025b ans\u0254t nku\u0301bh\u025b\u0301 aw\u0254 wu ant\u0254k y\u025b\u030cchi ny\u025b\u0301s\u025b\u0301 \u025bni, y\u025b\u030c nyw\u025bn \u025bni, n\u025b y\u025b\u030c nyu ywi, a\u030ckway nkw\u0254 b\u025b\u0301bh\u0254\u014b n\u025bme \u025bn\u025b\u0301n.",
+    "en": "COVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+    "z": ""
+  },
+  "79": {
+    "ken": "KOVID \u2013 19 Bo abh\u025bn ba\u0301bh\u0254\u0301\u014b\u0254\u0301 vayr\u0254s n\u025b k\u025b ba\u0301char\u025b bo bachak. Mmu an\u025b a\u0301me n\u0254, a\u030cf\u025br\u025b n\u0254\u0301 anyu ndu \u025bkwaka, amf\u025br\u025b manyw\u025b\u0301n ndu b\u025b\u0301ch\u0268\u0301k\u0268\u0301. N\u025b mba\u0301k bo bachak bachi k\u025bkw\u0254t koro\u0301na\u0301vayr\u0254s a\u030cf\u0289\u025bt b\u0254 am\u0289\u025bt ndu ba\u0301f\u025br\u025b \u025b\u030cyu. Mba\u0301k mmu at\u0254k \u025bny\u0268\u014b \u025bn\u025b k\u025broko\u0301 baty\u025b n\u025b b\u025b\u0301h\u0268\u0301k\u0268\u0301 b\u025bkw\u025bn\u025b ar\u025b, k\u025b ans\u0254t nku\u0301bh\u025b\u0301 aw\u0254 wu ant\u0254k y\u025b\u030cchi ny\u025b\u0301s\u025b\u0301 \u025bni, y\u025b\u030c nyw\u025bn \u025bni, n\u025b y\u025b\u030c nyu ywi, a\u030ckway nkw\u0254 b\u025b\u0301bh\u0254\u014b n\u025bme \u025bn\u025b\u0301n.",
+    "en": "COVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+    "z": ""
+  },
+  "80": {
+    "ken": "",
+    "en": ""
+  },
+  "81": {
+    "ken": "",
+    "en": ""
+  },
+  "82": {
+    "ken": "",
+    "en": ""
+  },
+  "83": {
+    "ken": "",
+    "en": ""
+  },
+  "84": {
+    "ken": "",
+    "en": ""
+  },
+  "85": {
+    "ken": "",
+    "en": ""
+  },
+  "86": {
+    "ken": "",
+    "en": ""
+  },
+  "87": {
+    "ken": "",
+    "en": ""
+  },
+  "88": {
+    "ken": "\u0190nyu \u0254\u0301kway b\u025bk\u025bm mm\u0289\u025bt b\u025b \u0254k\u025b bh\u0254\u014b n\u0254",
+    "en": "How to protect yourself"
+  },
+  "89": {
+    "ken": "\u0190nyu \u0254\u0301kway b\u025bk\u025bm mm\u0289\u025bt b\u025b \u0254k\u025b bh\u0254\u014b n\u0254",
+    "en": "How to protect yourself"
+  },
+  "90": {
+    "ken": "",
+    "en": "1. Avoid touching eyes, nose, mouth.",
+    "z": ""
+  },
+  "91": {
+    "ken": "",
+    "en": "1. Avoid touching eyes, nose, mouth.",
+    "z": ""
+  },
+  "92": {
+    "ken": "",
+    "en": "1. Avoid touching eyes, nose, mouth.",
+    "z": ""
+  },
+  "93": {
+    "ken": "",
+    "en": ""
+  },
+  "94": {
+    "ken": "",
+    "en": ""
+  },
+  "95": {
+    "ken": "2. So\u030c am\u0254\u0301 yw\u025b nd\u0254\u014b n\u025b nd\u0254\u014b n\u025b \u025b\u0301s\u0254\u0301p n\u025b many\u025bp am\u025bn \u0254\u0301n\u0254\u0301k\u0254\u0301si\u0301 am\u0254 ar\u025b, n\u025b \u0254\u0301nt\u025bs\u025b am\u0254\u0301 n\u025b ta\u0301wa\u0301y an\u025b achi p\u025bp\u025bp.",
+    "en": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel."
+  },
+  "96": {
+    "ken": "2. So\u030c am\u0254\u0301 yw\u025b nd\u0254\u014b n\u025b nd\u0254\u014b n\u025b \u025b\u0301s\u0254\u0301p n\u025b many\u025bp am\u025bn \u0254\u0301n\u0254\u0301k\u0254\u0301si\u0301 am\u0254 ar\u025b, n\u025b \u0254\u0301nt\u025bs\u025b am\u0254\u0301 n\u025b ta\u0301wa\u0301y an\u025b achi p\u025bp\u025bp.",
+    "en": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel."
+  },
+  "97": {
+    "ken": "",
+    "en": ""
+  },
+  "98": {
+    "ken": "",
+    "en": ""
+  },
+  "99": {
+    "ken": "",
+    "en": ""
+  },
+  "100": {
+    "ken": "",
+    "en": ""
+  },
+  "101": {
+    "ken": "",
+    "en": ""
+  },
+  "102": {
+    "ken": "",
+    "en": ""
+  },
+  "103": {
+    "ken": "4. K\u025b\u0301 nyi\u025b nnya mb\u0268k n\u025b k\u025b\u0301t\u0254k nnya \u025bn\u025b\u0301 am\u0268k. K\u025b mba\u0301k \u0254t\u0254k nnya \u025bn\u025b am\u0268k mb\u0254 mmu\u0301, soo\u0301 am\u0254\u0301 y\u025b te\u0301mte\u0301 n\u025b \u025bs\u0254p n\u025b many\u025bp am\u025bn a\u0301s\u025bp w\u0254 am\u0254.",
+    "en": "4. Avoid eating raw meat and touching live animals."
+  },
+  "104": {
+    "ken": "4. K\u025b\u0301 nyi\u025b nnya mb\u0268k n\u025b k\u025b\u0301t\u0254k nnya \u025bn\u025b\u0301 am\u0268k. K\u025b mba\u0301k \u0254t\u0254k nnya \u025bn\u025b am\u0268k mb\u0254 mmu\u0301, soo\u0301 am\u0254\u0301 y\u025b te\u0301mte\u0301 n\u025b \u025bs\u0254p n\u025b many\u025bp am\u025bn a\u0301s\u025bp w\u0254 am\u0254.",
+    "en": "4. Avoid eating raw meat and touching live animals."
+  },
+  "105": {
+    "ken": "",
+    "en": ""
+  },
+  "106": {
+    "ken": "",
+    "en": ""
+  },
+  "107": {
+    "ken": "",
+    "en": ""
+  },
+  "108": {
+    "ken": "",
+    "en": ""
+  },
+  "109": {
+    "ken": "",
+    "en": ""
+  },
+  "110": {
+    "ken": "",
+    "en": ""
+  },
+  "111": {
+    "ken": "",
+    "en": ""
+  },
+  "112": {
+    "ken": "",
+    "en": ""
+  },
+  "113": {
+    "ken": "",
+    "en": "",
+    "z": ""
+  },
+  "114": {
+    "ken": "",
+    "en": "",
+    "z": ""
+  },
+  "115": {
+    "ken": "",
+    "en": "",
+    "z": ""
+  },
+  "116": {
+    "ken": "",
+    "en": ""
+  },
+  "117": {
+    "ken": "",
+    "en": ""
+  },
+  "118": {
+    "ken": "",
+    "en": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting."
+  },
+  "119": {
+    "ken": "",
+    "en": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting."
+  },
+  "120": {
+    "ken": "",
+    "en": ""
+  },
+  "121": {
+    "ken": "",
+    "en": ""
+  },
+  "122": {
+    "ken": "7. K\u025b\u0301bhak ndu\u030c nch\u025bmnti-bho.",
+    "en": ""
+  },
+  "123": {
+    "ken": "7. K\u025b\u0301bhak ndu\u030c nch\u025bmnti-bho.",
+    "en": ""
+  },
+  "124": {
+    "ken": "",
+    "en": ""
+  },
+  "125": {
+    "ken": "",
+    "en": ""
+  },
+  "126": {
+    "ken": "",
+    "en": "8. Restrict movement."
+  },
+  "127": {
+    "ken": "",
+    "en": "8. Restrict movement."
+  },
+  "128": {
+    "ken": "",
+    "en": ""
+  },
+  "129": {
+    "ken": "",
+    "en": ""
+  },
+  "130": {
+    "ken": "",
+    "en": "9. Keep informed and verify the source of information."
+  },
+  "131": {
+    "ken": "",
+    "en": "9. Keep informed and verify the source of information."
+  },
+  "132": {
+    "ken": "Bar\u0254\u0301\u014b a\u0301cha\u0301k an\u025b \u0254kway b\u025bbh\u0268\u014b\u0268:",
+    "en": "- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+    "z": ""
+  },
+  "133": {
+    "ken": "Bar\u0254\u0301\u014b a\u0301cha\u0301k an\u025b \u0254kway b\u025bbh\u0268\u014b\u0268:",
+    "en": "- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+    "z": ""
+  },
+  "134": {
+    "ken": "Bar\u0254\u0301\u014b a\u0301cha\u0301k an\u025b \u0254kway b\u025bbh\u0268\u014b\u0268:",
+    "en": "- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+    "z": ""
+  },
+  "135": {
+    "ken": "",
+    "en": ""
+  },
+  "136": {
+    "ken": "",
+    "en": ""
+  },
+  "137": {
+    "ken": "",
+    "en": "670 713\u00a0979"
+  },
+  "138": {
+    "ken": "",
+    "en": "670 713\u00a0979"
+  },
+  "139": {
+    "ken": "",
+    "en": ""
+  },
+  "140": {
+    "ken": "",
+    "en": ""
+  },
+  "141": {
+    "ken": "670 113\u00a0761",
+    "en": "670 113\u00a0761"
+  },
+  "142": {
+    "ken": "670 113\u00a0761",
+    "en": "670 113\u00a0761"
+  },
+  "143": {
+    "ken": "",
+    "en": ""
+  },
+  "144": {
+    "ken": "",
+    "en": ""
+  },
+  "145": {
+    "ken": "Y\u025b\u030cnt\u0268k\u0268 mmu abh\u0254\u014b b\u025b\u0301r\u0268\u0301\u014b\u0268 \u025bnyu\u030c yi ah\u0254\u014b\u0254 b\u025bk\u0289 ndu b\u025bk\u025bm mm\u0289\u025bt n\u025b \u025bnyu b\u025bkwak bo abh\u025bn bachi k\u025bkw\u0254t n\u025b yi. ",
+    "en": "Everyone must be responsible and take the right steps to protect themselves and those around them."
+  },
+  "146": {
+    "ken": "Y\u025b\u030cnt\u0268k\u0268 mmu abh\u0254\u014b b\u025b\u0301r\u0268\u0301\u014b\u0268 \u025bnyu\u030c yi ah\u0254\u014b\u0254 b\u025bk\u0289 ndu b\u025bk\u025bm mm\u0289\u025bt n\u025b \u025bnyu b\u025bkwak bo abh\u025bn bachi k\u025bkw\u0254t n\u025b yi. ",
+    "en": "Everyone must be responsible and take the right steps to protect themselves and those around them."
+  },
+  "148": {
+    "en": "Vulnerable: defenseless, exposed",
+    "z": ""
+  },
+  "149": {
+    "en": "Vulnerable: defenseless, exposed",
+    "z": ""
+  },
+  "153": {
+    "en": ""
+  }
+}

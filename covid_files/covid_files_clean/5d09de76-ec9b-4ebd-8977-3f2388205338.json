@@ -1,0 +1,349 @@
+{
+    "allTitles": "{\"am\":\"\u1235\u1208 \u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235\",\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"tsb\":\"Qooda bayrese koronata\"}",
+    "author": null,
+    "bookInstanceId": "5d09de76-ec9b-4ebd-8977-3f2388205338",
+    "bookLineage": "",
+    "bookSamples": {
+        "0": {
+            "amh": "\u1235\u1208 \u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "tsb": "Qooda bayrese koronata"
+        },
+        "1": {
+            "amh": "",
+            "tsb": ""
+        },
+        "2": {
+            "amh": "",
+            "tsb": ""
+        },
+        "3": {
+            "tsb": ""
+        },
+        "4": {
+            "tsb": "Ola dookko kunenu hullu gheevasa bayrese korona maala akki haghti:"
+        },
+        "5": {
+            "tsb": "HAARTI"
+        },
+        "6": {
+            "tsb": "bago"
+        },
+        "7": {
+            "tsb": "sindhe"
+        },
+        "8": {
+            "tsb": "axxe"
+        },
+        "9": {
+            "tsb": "axxe kaaku giddema"
+        },
+        "10": {
+            "tsb": "qawko qaayya"
+        },
+        "11": {
+            "tsb": "qawko qarari"
+        },
+        "12": {
+            "tsb": "Bayrese tittay, kigorite axxema aaka sindhema aaka bagoma jammati yaaka, gorema daxxiti:"
+        },
+        "13": {
+            "tsb": "Zigabnoka elleta davadhindha.\nMeetiro lakki ola firra ayyakkilo kuneka davanni."
+        },
+        "14": {
+            "tsb": "1."
+        },
+        "15": {
+            "tsb": "2 m"
+        },
+        "16": {
+            "tsb": "tirshaqaddho!"
+        },
+        "17": {
+            "tsb": "Kottanu kaqawko ghufava woykiyaka tirshaqadha woykiyaka buuvadhika yi'te yaaka, kosse godhinte:"
+        },
+        "18": {
+            "tsb": "Saara tesse naayya sindhe aaka bago shudhadhika ufundhenu deh.\nTannu ufundhe giddema nata ghufavvo aaka tirshaqaddho algasnanki ba gore nata galla hagha xumbhekakka davadhonkiye."
+        },
+        "19": {
+            "tsb": "2."
+        },
+        "20": {
+            "tsb": "Hororro siine sindheteta"
+        },
+        "21": {
+            "tsb": "woykiyaka"
+        },
+        "22": {
+            "tsb": "Ise qararakka vaydhini, bishini elle ~bangatti."
+        },
+        "23": {
+            "tsb": "Gore keghaftadhi armadhisso xurro algasnanki, bishini ufundhe keghaftadhi."
+        },
+        "24": {
+            "tsb": "Wayko nata gore gaaneka xurro ammake, muunu mallantay aha akki qararika ko'arro xurtennu."
+        },
+        "25": {
+            "tsb": ""
+        },
+        "26": {
+            "tsb": "qawko qaayya"
+        },
+        "27": {
+            "tsb": ""
+        },
+        "28": {
+            "tsb": ""
+        },
+        "29": {
+            "tsb": "sooftema"
+        },
+        "30": {
+            "tsb": "kubbayaddhema"
+        },
+        "31": {
+            "tsb": "moobayladdhema,\nkomfiterattema"
+        },
+        "32": {
+            "tsb": "saara tesse sindhe aaka bagoma shabadhima"
+        },
+        "33": {
+            "tsb": ""
+        },
+        "34": {
+            "tsb": "mawuze\nkomfiterattema"
+        },
+        "35": {
+            "tsb": "iskibirtoma"
+        },
+        "36": {
+            "tsb": "karradhema"
+        },
+        "37": {
+            "tsb": "harke kuusundhema"
+        },
+        "38": {
+            "tsb": "Vaydhakkamay, qane do'o do'o waaqe qawko qararita acchinaki ba olama baynki..."
+        },
+        "39": {
+            "tsb": "atundhe xumbhe qararroya ghaftananku."
+        },
+        "40": {
+            "tsb": "woykiyaka miinte qawko ato cigattitaka beeranku ba"
+        },
+        "41": {
+            "tsb": "axxe\nrigaddhanku\nyaaka"
+        },
+        "42": {
+            "tsb": "Ka'ussay kottay xumbheka arrankunnay beerrite ba koleyaaka miinte taakundheka"
+        },
+        "43": {
+            "tsb": "ola dooko konaaya badisnanki maaxxisaka saamuna aaka ola alkoole ligghumaya shohho na'a."
+        },
+        "44": {
+            "tsb": "Bayrese korona maaxxema sa'ate daggaya oladdho algasnay,"
+        },
+        "45": {
+            "tsb": "saamuna"
+        },
+        "46": {
+            "tsb": "bango"
+        },
+        "47": {
+            "tsb": "Kottannuki bango xubin kittayay cam kavaddho koqaayya vaydhi."
+        },
+        "48": {
+            "tsb": "haysamma asa saamunaya shohadha"
+        },
+        "49": {
+            "tsb": "saamuna"
+        },
+        "50": {
+            "tsb": "tsikile"
+        },
+        "51": {
+            "tsb": "Innu miinte elleta beerrunku, woykiyaka miinte qawko bilatteka. Kabeerranto gheevte yaaka, qarra harkeka saamunaya ammake shohadha."
+        },
+        "52": {
+            "tsb": "Kosse harke shohattenay, dookkonu aga kunkaddhe lakkima asa dhikindha."
+        },
+        "53": {
+            "tsb": "qubbete giddeka ammake shoh"
+        },
+        "54": {
+            "tsb": "sokonde 20"
+        },
+        "55": {
+            "tsb": "qottete shaarkoka shoh"
+        },
+        "56": {
+            "tsb": "harkete duuko shoh"
+        },
+        "57": {
+            "tsb": "Ammake shohadha bayyo moo?"
+        },
+        "58": {
+            "tsb": "Kabeerrite yaaka, innu shukunku. Faanatte harkeka vandhe aaka saamunaya shohadha."
+        },
+        "59": {
+            "tsb": "Ka'algaste yaaka innu saara taakundheta lavakko beerunku."
+        },
+        "60": {
+            "tsb": "ola kayya"
+        },
+        "61": {
+            "tsb": "* Qayto xumbhe shabatte yaaka, bacteeriya nata giddema ghohna."
+        },
+        "62": {
+            "tsb": "Saara tesse sindhe aaka bagoma shabadhi ki'uskakkotti yaaka, tsiibadha. Tesse kaalikkoma tsaqqamadhika innu\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 kaallikko dookkonu caalishunku ba shabadhanku!"
+        },
+        "63": {
+            "tsb": "kaale tsaqqamadhi"
+        },
+        "64": {
+            "tsb": "na'a"
+        },
+        "65": {
+            "tsb": "indiye"
+        },
+        "66": {
+            "tsb": "aabbayo"
+        },
+        "67": {
+            "tsb": "Qawko xumbhe laybe tuusuya vaydha:"
+        },
+        "68": {
+            "tsb": "Ji'o, maaxxe ji'ilo, hale aaka laybaddheka innu elleta ergadhunku."
+        },
+        "69": {
+            "tsb": "Tsikileya miinteka beerantonu teemitina vaydhakka, beeranto algastikka."
+        },
+        "70": {
+            "tsb": "Karraddheka qaaccantonu aaka caqqummonu ka'algasinte yaaka, tsikileya woykiyaka kaccheya qaacchamay innu harkoya qaacchunku."
+        },
+        "71": {
+            "tsb": "MANNE"
+        },
+        "72": {
+            "tsb": "gore dhammama qaashattennay faanatte"
+        },
+        "73": {
+            "tsb": "biifankunnay qarra"
+        },
+        "74": {
+            "tsb": "harkeka qayto xumbhe saamunaya shohadha..."
+        },
+        "75": {
+            "tsb": "Tannu faagaddhoma,"
+        },
+        "76": {
+            "tsb": "saamuna"
+        },
+        "77": {
+            "tsb": "Xumbhenay nagaykoya oladha!"
+        },
+        "78": {
+            "tsb": "Xumbhenay nagaykoya oladha!"
+        },
+        "79": {
+            "tsb": "saamuna"
+        },
+        "80": {
+            "amh": "\u1235\u1208 \u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "tsb": "Qooda bayrese koronata"
+        },
+        "81": {
+            "amh": "Translated and edited under supervision of Hailu Berhanu Golla\nImages by Weiman Kou, \u00a9 2020 Weiman Kou. CC BY-NC-SA 4.0.",
+            "tsb": ""
+        },
+        "82": {
+            "amh": "",
+            "tsb": ""
+        },
+        "83": {
+            "amh": "",
+            "tsb": ""
+        },
+        "84": {
+            "amh": "Created by Weiman Kow, instagram: weimankow",
+            "tsb": ""
+        },
+        "85": {
+            "amh": "",
+            "tsb": ""
+        },
+        "86": {
+            "amh": "",
+            "tsb": ""
+        },
+        "87": {
+            "amh": "",
+            "tsb": ""
+        },
+        "88": {
+            "amh": "",
+            "tsb": ""
+        }
+    },
+    "bookText": {
+        "amh": "\u1235\u1208 \u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u1235\u1208 \u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235\nTranslated and edited under supervision of Hailu Berhanu Golla\nImages by Weiman Kou, \u00a9 2020 Weiman Kou. CC BY-NC-SA 4.0.\n\n\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\n\n\n\n\n\n\n",
+        "spa": "Sobre el Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSobre el Coronavirus\n\n\n\n\n\n\n\n",
+        "tsb": "Qooda bayrese koronata\n\n\n\nOla dookko kunenu hullu gheevasa bayrese korona maala akki haghti:\nHAARTI\nbago\nsindhe\naxxe\naxxe kaaku giddema\nqawko qaayya\nqawko qarari\nBayrese tittay, kigorite axxema aaka sindhema aaka bagoma jammati yaaka, gorema daxxiti:\nZigabnoka elleta davadhindha.\nMeetiro lakki ola firra ayyakkilo kuneka davanni.\n1.\n2 m\ntirshaqaddho!\nKottanu kaqawko ghufava woykiyaka tirshaqadha woykiyaka buuvadhika yi'te yaaka, kosse godhinte:\nSaara tesse naayya sindhe aaka bago shudhadhika ufundhenu deh.\nTannu ufundhe giddema nata ghufavvo aaka tirshaqaddho algasnanki ba gore nata galla hagha xumbhekakka davadhonkiye.\n2.\nHororro siine sindheteta\nwoykiyaka\nIse qararakka vaydhini, bishini elle ~bangatti.\nGore keghaftadhi armadhisso xurro algasnanki, bishini ufundhe keghaftadhi.\nWayko nata gore gaaneka xurro ammake, muunu mallantay aha akki qararika ko'arro xurtennu.\n\nqawko qaayya\n\n\nsooftema\nkubbayaddhema\nmoobayladdhema,\nkomfiterattema\nsaara tesse sindhe aaka bagoma shabadhima\n\nmawuze\nkomfiterattema\niskibirtoma\nkarradhema\nharke kuusundhema\nVaydhakkamay, qane do'o do'o waaqe qawko qararita acchinaki ba olama baynki...\natundhe xumbhe qararroya ghaftananku.\nwoykiyaka miinte qawko ato cigattitaka beeranku ba\naxxe\nrigaddhanku\nyaaka\nKa'ussay kottay xumbheka arrankunnay beerrite ba koleyaaka miinte taakundheka\nola dooko konaaya badisnanki maaxxisaka saamuna aaka ola alkoole ligghumaya shohho na'a.\nBayrese korona maaxxema sa'ate daggaya oladdho algasnay,\nsaamuna\nbango\nKottannuki bango xubin kittayay cam kavaddho koqaayya vaydhi.\nhaysamma asa saamunaya shohadha\nsaamuna\ntsikile\nInnu miinte elleta beerrunku, woykiyaka miinte qawko bilatteka. Kabeerranto gheevte yaaka, qarra harkeka saamunaya ammake shohadha.\nKosse harke shohattenay, dookkonu aga kunkaddhe lakkima asa dhikindha.\nqubbete giddeka ammake shoh\nsokonde 20\nqottete shaarkoka shoh\nharkete duuko shoh\nAmmake shohadha bayyo moo?\nKabeerrite yaaka, innu shukunku. Faanatte harkeka vandhe aaka saamunaya shohadha.\nKa'algaste yaaka innu saara taakundheta lavakko beerunku.\nola kayya\n* Qayto xumbhe shabatte yaaka, bacteeriya nata giddema ghohna.\nSaara tesse sindhe aaka bagoma shabadhi ki'uskakkotti yaaka, tsiibadha. Tesse kaalikkoma tsaqqamadhika innu\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 kaallikko dookkonu caalishunku ba shabadhanku!\nkaale tsaqqamadhi\nna'a\nindiye\naabbayo\nQawko xumbhe laybe tuusuya vaydha:\nJi'o, maaxxe ji'ilo, hale aaka laybaddheka innu elleta ergadhunku.\nTsikileya miinteka beerantonu teemitina vaydhakka, beeranto algastikka.\nKarraddheka qaaccantonu aaka caqqummonu ka'algasinte yaaka, tsikileya woykiyaka kaccheya qaacchamay innu harkoya qaacchunku.\nMANNE\ngore dhammama qaashattennay faanatte\nbiifankunnay qarra\nharkeka qayto xumbhe saamunaya shohadha...\nTannu faagaddhoma,\nsaamuna\nXumbhenay nagaykoya oladha!\nXumbhenay nagaykoya oladha!\nsaamuna\nQooda bayrese koronata\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "tsb",
+        "amh",
+        "spa",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Copyright 2020, Weiman Kow",
+    "country": "Ethiopia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "South Omo",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "imported-book-source-url": null,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "ot3I9fN9sw"
+        }
+    ],
+    "language-display-names": {
+        "am": "Amharic",
+        "tsb": "Tsamai"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "",
+    "originalPublisher": null,
+    "originalTitle": "About Coronavirus",
+    "page-number-style": "Decimal",
+    "pageCount": 25,
+    "phashOfFirstContentImage": null,
+    "province": "SNNPR",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "",
+    "tags": [],
+    "title": "Qooda bayrese koronata",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

@@ -1,0 +1,385 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "a6e2fe49-0b2d-4329-a01b-9ea677468fae",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Te Kabara u Virusu Corona",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"id\":\"Tentang Virus Corona\",\"khc\":\"Te Kabara u Virusu Corona\",\"lts\":\"Olumbe lwa Korona\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+  "downloadSource": "media@suluh.org/a6e2fe49-0b2d-4329-a01b-9ea677468fae",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+  "copyright": "Copyright \u00a9 2020, Weiman Kow",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "HOPMnC50yI"
+    }
+  ],
+  "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Indonesia",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "c1ceNFU299"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "lts": "Lutachoni",
+    "id": "Indonesian",
+    "khc": "Tukang Besi Utara"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "2": {
+    "lts": "Olumbe lwa Korona",
+    "khc": "Te Kabara u Virusu Corona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "3": {
+    "lts": "Olumbe lwa Korona",
+    "khc": "Te Kabara u Virusu Corona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "4": {
+    "lts": "Olumbe lwa Korona",
+    "khc": "Te Kabara u Virusu Corona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "5": {
+    "lts": "Olumbe lwa Korona",
+    "khc": "Te Kabara u Virusu Corona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "13": {
+    "khc": "Buntu sa asa ako waralu kodhumahani wana umpa na virusu corona o linda kua mia hele"
+  },
+  "14": {
+    "khc": ""
+  },
+  "15": {
+    "khc": ""
+  },
+  "16": {
+    "khc": ""
+  },
+  "17": {
+    "khc": ""
+  },
+  "18": {
+    "khc": ""
+  },
+  "19": {
+    "khc": ""
+  },
+  "20": {
+    "khc": ""
+  },
+  "21": {
+    "khc": "Te virusu o dhari o linda ara ane kene ilu"
+  },
+  "22": {
+    "khc": ""
+  },
+  "23": {
+    "khc": "1"
+  },
+  "24": {
+    "khc": "2m-0,5m"
+  },
+  "25": {
+    "khc": ""
+  },
+  "26": {
+    "khc": ""
+  },
+  "27": {
+    "khc": ""
+  },
+  "28": {
+    "khc": "2"
+  },
+  "29": {
+    "khc": ""
+  },
+  "30": {
+    "khc": ""
+  },
+  "31": {
+    "khc": ""
+  },
+  "32": {
+    "khc": ""
+  },
+  "33": {
+    "khc": ""
+  },
+  "34": {
+    "khc": "I ala alati u manga'a"
+  },
+  "35": {
+    "khc": ""
+  },
+  "36": {
+    "khc": ""
+  },
+  "37": {
+    "khc": "I tindisi'a u lift"
+  },
+  "38": {
+    "khc": ""
+  },
+  "39": {
+    "khc": ""
+  },
+  "40": {
+    "khc": ""
+  },
+  "41": {
+    "khc": ""
+  },
+  "42": {
+    "khc": ""
+  },
+  "43": {
+    "khc": ""
+  },
+  "44": {
+    "khc": ""
+  },
+  "45": {
+    "khc": ""
+  },
+  "46": {
+    "khc": ""
+  },
+  "47": {
+    "khc": ""
+  },
+  "48": {
+    "khc": "sabha'angkomiu odhari ki moho."
+  },
+  "49": {
+    "khc": ""
+  },
+  "50": {
+    "khc": ""
+  },
+  "51": {
+    "khc": ""
+  },
+  "52": {
+    "khc": "Sa'asa asano ako dhunari umambe te virusu meana'e ai sa buntumo kiwumuwu'i na lima miu kene ki pumake te sabo, atawa te Pemutih, atawa te al kohol."
+  },
+  "53": {
+    "khc": ""
+  },
+  "54": {
+    "khc": "Sabo"
+  },
+  "55": {
+    "khc": "te mingku bhara ako raho kita, umane dhi gau ako u parenta, mea na'e."
+  },
+  "56": {
+    "khc": ""
+  },
+  "57": {
+    "khc": ""
+  },
+  "58": {
+    "khc": "Sabo"
+  },
+  "59": {
+    "khc": ""
+  },
+  "60": {
+    "khc": ""
+  },
+  "61": {
+    "khc": ""
+  },
+  "62": {
+    "khc": ""
+  },
+  "63": {
+    "khc": ""
+  },
+  "64": {
+    "khc": ""
+  },
+  "65": {
+    "khc": ""
+  },
+  "66": {
+    "khc": "Wana umpa na cara hewanu'a atawa wuwuika nulima kumobhe?"
+  },
+  "67": {
+    "khc": ""
+  },
+  "68": {
+    "khc": ""
+  },
+  "69": {
+    "khc": ""
+  },
+  "70": {
+    "khc": ""
+  },
+  "71": {
+    "khc": ""
+  },
+  "72": {
+    "khc": ""
+  },
+  "73": {
+    "khc": ""
+  },
+  "74": {
+    "khc": "Ama"
+  },
+  "75": {
+    "khc": "Ina"
+  },
+  "76": {
+    "khc": ""
+  },
+  "77": {
+    "khc": ""
+  },
+  "78": {
+    "khc": ""
+  },
+  "79": {
+    "khc": ""
+  },
+  "80": {
+    "khc": "Wunua"
+  },
+  "81": {
+    "khc": ""
+  },
+  "82": {
+    "khc": ""
+  },
+  "83": {
+    "khc": ""
+  },
+  "84": {
+    "khc": ""
+  },
+  "85": {
+    "khc": "Sabo"
+  },
+  "86": {
+    "khc": ""
+  },
+  "87": {
+    "khc": ""
+  },
+  "88": {
+    "khc": "Sabo"
+  },
+  "89": {
+    "khc": ""
+  },
+  "90": {
+    "khc": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "91": {
+    "khc": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+  },
+  "92": {
+    "khc": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+  },
+  "93": {
+    "khc": ""
+  },
+  "94": {
+    "khc": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+  },
+  "97": {
+    "lts": "Olumbe lwa Korona",
+    "khc": "Te Kabara u Virusu Corona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "98": {
+    "lts": "Olumbe lwa Korona",
+    "khc": "Te Kabara u Virusu Corona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "99": {
+    "lts": "Olumbe lwa Korona",
+    "khc": "Te Kabara u Virusu Corona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "100": {
+    "lts": "Olumbe lwa Korona",
+    "khc": "Te Kabara u Virusu Corona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "106": {
+    "en": ""
+  },
+  "108": {
+    "en": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org"
+  },
+  "111": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

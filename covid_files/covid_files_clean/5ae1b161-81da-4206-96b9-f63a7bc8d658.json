@@ -1,0 +1,122 @@
+{
+    "allTitles": "{\"en\":\"Avoid Covid-19\",\"es\":\"C\u00f3mo evitar el COVID-19\"}",
+    "author": null,
+    "bookInstanceId": "5ae1b161-81da-4206-96b9-f63a7bc8d658",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,12b180ea-a5e9-4402-9346-4c06f5ba4177",
+    "bookSamples": {
+        "0": {
+            "eng": "Avoid Covid-19",
+            "spa": "C\u00f3mo evitar el COVID-19"
+        },
+        "1": {
+            "spa": ""
+        },
+        "2": {
+            "spa": ""
+        },
+        "3": {
+            "spa": ""
+        },
+        "4": {
+            "eng": "Avoid Covid-19",
+            "spa": "C\u00f3mo evitar el COVID-19"
+        },
+        "5": {
+            "spa": "Ilustraciones:\u00a0 Ari and Elaine Vitikainen\u00a0\n\nLa informaci\u00f3n se tom\u00f3 de los sitios web\ufeffde la Organizaci\u00f3n Mundial de la Salud (OMS), como:\ufeffhttps://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\n\nVersi\u00f3n 27.3.2020"
+        },
+        "6": {
+            "spa": "Literacy for Women in Africa"
+        },
+        "7": {
+            "spa": ""
+        },
+        "8": {
+            "spa": ""
+        },
+        "9": {
+            "spa": ""
+        },
+        "10": {
+            "eng": "Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.\n\n",
+            "spa": "L\u00e1vese las manos regularmente con agua y jab\u00f3n, o l\u00edmpielas con un desinfectante para manos a base de alcohol."
+        },
+        "11": {
+            "eng": "Avoid touching eyes, nose and mouth.\n",
+            "spa": "Evite tocarse los ojos, la nariz y la boca."
+        },
+        "12": {
+            "eng": "Cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose\u00a0 the used tissue immediately.\n\n\n",
+            "spa": "C\u00fabrase la boca y la nariz con el codo doblado o con un pa\u00f1uelo de papel cuando tosa o estornude. Deseche el pa\u00f1uelo usado inmediatamente."
+        },
+        "13": {
+            "eng": "Maintain 2 meters distance between yourself and others.\n\n",
+            "spa": "Mantenga una distancia de 2 metros entre usted y los dem\u00e1s."
+        },
+        "14": {
+            "eng": "Stay home if you feel unwell.\nIf you have fever, cough and difficulty breathing, seek medical attention early.\n\n",
+            "spa": "Si tiene fiebre, tos y dificultades respiratorias, busque atenci\u00f3n m\u00e9dica muy pronto."
+        },
+        "15": {
+            "eng": "Stay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider.\n\n",
+            "spa": "Mant\u00e9ngase informado sobre las \u00faltimas noticias sobre el COVID-19. Siga los consejos de su proveedor de atenci\u00f3n m\u00e9dica."
+        },
+        "16": {
+            "spa": ""
+        },
+        "17": {
+            "spa": ""
+        }
+    },
+    "bookText": {
+        "eng": "Avoid Covid-19\n\n\n\nAvoid Covid-19\n\n\n\n\n\nWash your hands regularly with soap and water, or clean them with alcohol-based hand rub.\n\n\nAvoid touching eyes, nose and mouth.\n\nCover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose\u00a0 the used tissue immediately.\n\n\n\nMaintain 2 meters distance between yourself and others.\n\n\nStay home if you feel unwell.\nIf you have fever, cough and difficulty breathing, seek medical attention early.\n\n\nStay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider.\n\n\n\n",
+        "spa": "C\u00f3mo evitar el COVID-19\n\n\n\nC\u00f3mo evitar el COVID-19\nIlustraciones:\u00a0 Ari and Elaine Vitikainen\u00a0\n\nLa informaci\u00f3n se tom\u00f3 de los sitios web\ufeffde la Organizaci\u00f3n Mundial de la Salud (OMS), como:\ufeffhttps://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\n\nVersi\u00f3n 27.3.2020\nLiteracy for Women in Africa\n\n\n\nL\u00e1vese las manos regularmente con agua y jab\u00f3n, o l\u00edmpielas con un desinfectante para manos a base de alcohol.\nEvite tocarse los ojos, la nariz y la boca.\nC\u00fabrase la boca y la nariz con el codo doblado o con un pa\u00f1uelo de papel cuando tosa o estornude. Deseche el pa\u00f1uelo usado inmediatamente.\nMantenga una distancia de 2 metros entre usted y los dem\u00e1s.\nSi tiene fiebre, tos y dificultades respiratorias, busque atenci\u00f3n m\u00e9dica muy pronto.\nMant\u00e9ngase informado sobre las \u00faltimas noticias sobre el COVID-19. Siga los consejos de su proveedor de atenci\u00f3n m\u00e9dica.\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "spa",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Traducido al espa\u00f1ol por SIL LEAD, Inc.",
+    "country": "",
+    "credits": "",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vdvXaCTBFC"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "Espa\u00f1ol"
+    },
+    "languages": [],
+    "license": "cc-by-nc",
+    "licenseNotes": "",
+    "page-number-style": "Decimal",
+    "pageCount": 12,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Infomaci\u00f3n b\u00e1sica sobre c\u00f3mo evitar el Coronavirus (Covid-19)",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "C\u00f3mo evitar el COVID-19",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

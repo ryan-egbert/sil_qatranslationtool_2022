@@ -1,0 +1,364 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"xmm\":\"TENTANG VIRUS KORONA\"}",
+    "author": null,
+    "bookInstanceId": "eda28c16-f649-4bca-853d-53be722a20e4",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,726d708d-535e-47af-8905-ce6e5e0d745c",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "xmm": "TENTANG VIRUS KORONA"
+        },
+        "1": {
+            "eng": "",
+            "xmm": ""
+        },
+        "2": {
+            "eng": "",
+            "xmm": ""
+        },
+        "3": {
+            "xmm": ""
+        },
+        "4": {
+            "xmm": "Cuma ada satu hal\u00a0tu ngoni musti mangarti tentang bagimana virus korona"
+        },
+        "5": {
+            "xmm": "bajangke pa orang laeng.\n\n"
+        },
+        "6": {
+            "xmm": "Mulu\n"
+        },
+        "7": {
+            "xmm": "Idong\n"
+        },
+        "8": {
+            "xmm": "Mata"
+        },
+        "9": {
+            "xmm": "Maso ka dalam\n"
+        },
+        "10": {
+            "xmm": "\u00a0Tu orang sehat"
+        },
+        "11": {
+            "xmm": "Tu orang saki\n"
+        },
+        "12": {
+            "xmm": "Ini tasebar pa orang waktu ada virus\n"
+        },
+        "13": {
+            "xmm": "Bajaga jarak.\u00a0Ngoni nyanda mo takana akang tu virus kalu ngoni bajaga jarak barang 2 meter."
+        },
+        "14": {
+            "xmm": "1"
+        },
+        "15": {
+            "xmm": "2"
+        },
+        "16": {
+            "xmm": "Hachi!\n"
+        },
+        "17": {
+            "xmm": "So itu, waktu ngoni lia ada \u00a0orang bakokehe/bahachi\u00a0ngoni musti:"
+        },
+        "18": {
+            "xmm": "Kase akang masker pa dorang. Dorang bole mo bakokehe di dalam masker for mo jaga tu orang-orang laeng yang ada di dekat pa dia."
+        },
+        "19": {
+            "xmm": "2"
+        },
+        "20": {
+            "xmm": "Makase banya\n* batarek ingus *\n"
+        },
+        "21": {
+            "xmm": "ATO\n"
+        },
+        "22": {
+            "xmm": "Ni orang stou nyanda saki mar dia cuma mo jaga de pe diri."
+        },
+        "23": {
+            "xmm": "Bole jadi ada orang yang so takena tu virus mar nyanda ada tanda apa-apa. Dorang bole mo se jangke pa orang laeng\n"
+        },
+        "24": {
+            "xmm": "Lebe bae bajao jo dari tampa-tampa rame lantaran ngana nintau sapa tu da samantara saki di situ"
+        },
+        "25": {
+            "xmm": "Alat-alat makang\n"
+        },
+        "26": {
+            "xmm": "Orang sehat\n"
+        },
+        "27": {
+            "xmm": "Tampa pegang kreta\n"
+        },
+        "28": {
+            "xmm": "Tombol lift\n"
+        },
+        "29": {
+            "xmm": "Tisyu\n"
+        },
+        "30": {
+            "xmm": "Glas\n"
+        },
+        "31": {
+            "xmm": "Barang-barang elektronik\n"
+        },
+        "32": {
+            "xmm": "Tangga pe tampa pegang\n"
+        },
+        "33": {
+            "xmm": "Tangga pe tampa pegang\n"
+        },
+        "34": {
+            "xmm": "Mause\n"
+        },
+        "35": {
+            "xmm": "Polpen\n"
+        },
+        "36": {
+            "xmm": "Tampa pegang pintu\n"
+        },
+        "37": {
+            "xmm": "Dorang pe tangan\n"
+        },
+        "38": {
+            "xmm": "Biar lei bagitu, lengkali orang saki pe luda bole mo tatempel di :"
+        },
+        "39": {
+            "xmm": "ngoni samua bole mo saki."
+        },
+        "40": {
+            "xmm": "Ato kore tu orang yang ngoni sayang pe muka\n"
+        },
+        "41": {
+            "xmm": "Kuca-kuca tu ngoni pe mata\n"
+        },
+        "42": {
+            "xmm": "Kalu ngoni nyanda sengaja da sontong sala satu jo dari tu barang-barang itu, kong abis itu kore tu ngoni pe muka,\n"
+        },
+        "43": {
+            "xmm": "Cuma ada satu cara paling gampang for mo kase mati ni virus. Ngoni musti cuci tu barang-barang itu pake sabong, pemutih ato alkohol."
+        },
+        "44": {
+            "xmm": "Ni virus bole mo batahang di barang-barang slama bebrapa jam,"
+        },
+        "45": {
+            "xmm": "Sabong\n"
+        },
+        "46": {
+            "xmm": ""
+        },
+        "47": {
+            "xmm": "Cara supaya nyanda mo tajangke ni virus"
+        },
+        "48": {
+            "xmm": "So itu, lebe bae tare ngoni iko ini\n"
+        },
+        "49": {
+            "xmm": "cuci deng sabong sampe sini\n"
+        },
+        "50": {
+            "xmm": "Sabong\n"
+        },
+        "51": {
+            "xmm": "Tangan pe siku\n"
+        },
+        "52": {
+            "xmm": "JANG KORE NGONI PE MUKA\u00a0 (ATO TU ORANG LAENG PE MUKA).\nKalu memang musti mo kore, tu tangan musti cuci \u201centeru\u201d dulu pake sabong."
+        },
+        "53": {
+            "xmm": "De pe lama sama deng da manyanyi lagu \"Slamat hari jadi\"\u00a0dua kali\n"
+        },
+        "54": {
+            "xmm": "Kuku-kuku pe bagean bawah\n"
+        },
+        "55": {
+            "xmm": "Slama\u00a020 detik\n"
+        },
+        "56": {
+            "xmm": "Di antara jare-jare\n\n"
+        },
+        "57": {
+            "xmm": "cuci \u00a0tu tangan pe bagean blakang\n"
+        },
+        "58": {
+            "xmm": "Apa de pe maksud cuci tangan \u201centeru\u201d?\n"
+        },
+        "59": {
+            "xmm": "Kalu so tapegang, jang tako. Capat-capat jo pi cuci deng sabong tu ngoni pe tangan\n"
+        },
+        "60": {
+            "xmm": "Jang kore tu masker pe bagean luar\n"
+        },
+        "61": {
+            "xmm": "Tu Virus\n"
+        },
+        "62": {
+            "xmm": "Tu bakteri bole mo jadi lebe banya\u00a0di dalam masker, kalu ngoni talalu lama\u00a0pake\n"
+        },
+        "63": {
+            "xmm": "Buang jo tu ngoni pe masker yang so kotor. Jang ja pake masker lebe dari satu hari!\n"
+        },
+        "64": {
+            "xmm": "Pake leper sandiri\n"
+        },
+        "65": {
+            "xmm": "Anak"
+        },
+        "66": {
+            "xmm": "Papa"
+        },
+        "67": {
+            "xmm": "Mama"
+        },
+        "68": {
+            "xmm": "Pake handuk masing-masing\n"
+        },
+        "69": {
+            "xmm": "Jang baku berbage makanan, kong tu alat-alat makang deng handuk jang ja baku ganti pake\n"
+        },
+        "70": {
+            "xmm": "Biar lei mo coba, mar ngoni pe siku nyanda mungkin bole mo sontong ngoni pe muka\n"
+        },
+        "71": {
+            "xmm": "Kalu bole, usahakan jo babuka deng batutup pintu pake ngoni pe siku ato bahu. Jang pake tangan\n"
+        },
+        "72": {
+            "xmm": "Ruma"
+        },
+        "73": {
+            "xmm": "Deng abis dari tampa umum\n"
+        },
+        "74": {
+            "xmm": "Seblum makang\n"
+        },
+        "75": {
+            "xmm": "Salalu cuci ngoni pe tangan pake sabong\n"
+        },
+        "76": {
+            "xmm": "Terakhir skali,\n"
+        },
+        "77": {
+            "xmm": "Sabong"
+        },
+        "78": {
+            "xmm": "For samua, jaga bae-bae jo tu kesehatan!\n"
+        },
+        "79": {
+            "xmm": "For samua,jaga \u00a0bae-bae jo tu kesehatan!"
+        },
+        "80": {
+            "xmm": "Sabong"
+        },
+        "81": {
+            "xmm": "Baca ni tulisan-tulisan for dapa petunjuk lebe lanjut!\n"
+        },
+        "82": {
+            "xmm": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "83": {
+            "xmm": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+        },
+        "84": {
+            "xmm": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "85": {
+            "xmm": "Acuan utama for informasi kesehatan:\u00a0"
+        },
+        "86": {
+            "xmm": "Catatan tambahan: \u00a0Usaha for mo cegah pake cirita deng gambar rupa ini, cocok lei for mo cega tu saki laeng sama deng flu, bato. Ini musti ja beking trus-trus pa torang pe hidop hari-hari, biar lei nyanda ada ni pandemi. Acuan: informasi dalam bentuk cirita bagambar ini da beking iko tu penjelasan-penjelasan tentang COVID 19 sampe tanggal 28 Februari 2020, deng lei da iko tiga acuan ini: https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\nhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0\nhttps: // www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nInformasi tambahan. Cirita bagambar ini pe versi PDF bole mo saleng frei. Ambe jo dari sini: https://gumroad.com/weimankowart\u00a0 Petunjuk for mo kase berbage. Cirita bagambar ini bole kase berbage frei for keperluan umum. Kase berbage deng cara online, pake Whatsapp, Telegram, \u00a0 deng bole mo cetak jadi gambar basar for keperluan pribadi deng for keperluan blajar di rumah, skolah deng tampa-tampa karja.\u00a0 Waktu mo berbage, inga jo tu 3 hal ini:\n1) \u00a0 Waktu mo kase berbage, nimbole mo potong apa tu ada di cirita bagambar ini.\n2) \u00a0Cirita bagambar ini nimbole pake for samua urusan supaya mo dapa doi.\n3) kalu da kirim online, jang lupa kase maso lei tu orang yang da beking ni cirita bagambar pe nama. Kalu kase \u00a0maso di FB \u00a0se tanda pa @weimankowart, kalu di IG se tanda pa @weimankow (IG), ato kase sambung ka instagram com / weimankow. Kalu mo pake for keperluan laeng, kirim jo surat ka: comicsforgood@gmail.com"
+        },
+        "87": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "xmm": "TENTANG VIRUS KORONA"
+        },
+        "88": {
+            "eng": "",
+            "xmm": ""
+        },
+        "89": {
+            "eng": "Diterjemahkan dalam Bahasa Melayu Manado oleh\nPusat Penerjemahan Alkitab-GMIM",
+            "xmm": ""
+        },
+        "90": {
+            "eng": "Versi Bahasa Inggris : Paul Frank (sil-lead.org), versi Melayu Manado : Pusat Penerjemahan Alkitab-GMIM",
+            "xmm": ""
+        },
+        "91": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "xmm": ""
+        },
+        "92": {
+            "eng": "",
+            "xmm": ""
+        },
+        "93": {
+            "eng": "",
+            "xmm": ""
+        },
+        "94": {
+            "eng": "",
+            "xmm": ""
+        },
+        "95": {
+            "eng": "",
+            "xmm": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nDiterjemahkan dalam Bahasa Melayu Manado oleh\nPusat Penerjemahan Alkitab-GMIM\nVersi Bahasa Inggris : Paul Frank (sil-lead.org), versi Melayu Manado : Pusat Penerjemahan Alkitab-GMIM\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "spa": "Sobre el Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSobre el Coronavirus\n\n\n\n\n\n\n\n",
+        "xmm": "TENTANG VIRUS KORONA\n\n\n\nCuma ada satu hal\u00a0tu ngoni musti mangarti tentang bagimana virus korona\nbajangke pa orang laeng.\n\n\nMulu\n\nIdong\n\nMata\nMaso ka dalam\n\n\u00a0Tu orang sehat\nTu orang saki\n\nIni tasebar pa orang waktu ada virus\n\nBajaga jarak.\u00a0Ngoni nyanda mo takana akang tu virus kalu ngoni bajaga jarak barang 2 meter.\n1\n2\nHachi!\n\nSo itu, waktu ngoni lia ada \u00a0orang bakokehe/bahachi\u00a0ngoni musti:\nKase akang masker pa dorang. Dorang bole mo bakokehe di dalam masker for mo jaga tu orang-orang laeng yang ada di dekat pa dia.\n2\nMakase banya\n* batarek ingus *\n\nATO\n\nNi orang stou nyanda saki mar dia cuma mo jaga de pe diri.\nBole jadi ada orang yang so takena tu virus mar nyanda ada tanda apa-apa. Dorang bole mo se jangke pa orang laeng\n\nLebe bae bajao jo dari tampa-tampa rame lantaran ngana nintau sapa tu da samantara saki di situ\nAlat-alat makang\n\nOrang sehat\n\nTampa pegang kreta\n\nTombol lift\n\nTisyu\n\nGlas\n\nBarang-barang elektronik\n\nTangga pe tampa pegang\n\nTangga pe tampa pegang\n\nMause\n\nPolpen\n\nTampa pegang pintu\n\nDorang pe tangan\n\nBiar lei bagitu, lengkali orang saki pe luda bole mo tatempel di :\nngoni samua bole mo saki.\nAto kore tu orang yang ngoni sayang pe muka\n\nKuca-kuca tu ngoni pe mata\n\nKalu ngoni nyanda sengaja da sontong sala satu jo dari tu barang-barang itu, kong abis itu kore tu ngoni pe muka,\n\nCuma ada satu cara paling gampang for mo kase mati ni virus. Ngoni musti cuci tu barang-barang itu pake sabong, pemutih ato alkohol.\nNi virus bole mo batahang di barang-barang slama bebrapa jam,\nSabong\n\n\nCara supaya nyanda mo tajangke ni virus\nSo itu, lebe bae tare ngoni iko ini\n\ncuci deng sabong sampe sini\n\nSabong\n\nTangan pe siku\n\nJANG KORE NGONI PE MUKA\u00a0 (ATO TU ORANG LAENG PE MUKA).\nKalu memang musti mo kore, tu tangan musti cuci \u201centeru\u201d dulu pake sabong.\nDe pe lama sama deng da manyanyi lagu \"Slamat hari jadi\"\u00a0dua kali\n\nKuku-kuku pe bagean bawah\n\nSlama\u00a020 detik\n\nDi antara jare-jare\n\n\ncuci \u00a0tu tangan pe bagean blakang\n\nApa de pe maksud cuci tangan \u201centeru\u201d?\n\nKalu so tapegang, jang tako. Capat-capat jo pi cuci deng sabong tu ngoni pe tangan\n\nJang kore tu masker pe bagean luar\n\nTu Virus\n\nTu bakteri bole mo jadi lebe banya\u00a0di dalam masker, kalu ngoni talalu lama\u00a0pake\n\nBuang jo tu ngoni pe masker yang so kotor. Jang ja pake masker lebe dari satu hari!\n\nPake leper sandiri\n\nAnak\nPapa\nMama\nPake handuk masing-masing\n\nJang baku berbage makanan, kong tu alat-alat makang deng handuk jang ja baku ganti pake\n\nBiar lei mo coba, mar ngoni pe siku nyanda mungkin bole mo sontong ngoni pe muka\n\nKalu bole, usahakan jo babuka deng batutup pintu pake ngoni pe siku ato bahu. Jang pake tangan\n\nRuma\nDeng abis dari tampa umum\n\nSeblum makang\n\nSalalu cuci ngoni pe tangan pake sabong\n\nTerakhir skali,\n\nSabong\nFor samua, jaga bae-bae jo tu kesehatan!\n\nFor samua,jaga \u00a0bae-bae jo tu kesehatan!\nSabong\nBaca ni tulisan-tulisan for dapa petunjuk lebe lanjut!\n\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)\nAcuan utama for informasi kesehatan:\u00a0\nCatatan tambahan: \u00a0Usaha for mo cegah pake cirita deng gambar rupa ini, cocok lei for mo cega tu saki laeng sama deng flu, bato. Ini musti ja beking trus-trus pa torang pe hidop hari-hari, biar lei nyanda ada ni pandemi. Acuan: informasi dalam bentuk cirita bagambar ini da beking iko tu penjelasan-penjelasan tentang COVID 19 sampe tanggal 28 Februari 2020, deng lei da iko tiga acuan ini: https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\nhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0\nhttps: // www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nInformasi tambahan. Cirita bagambar ini pe versi PDF bole mo saleng frei. Ambe jo dari sini: https://gumroad.com/weimankowart\u00a0 Petunjuk for mo kase berbage. Cirita bagambar ini bole kase berbage frei for keperluan umum. Kase berbage deng cara online, pake Whatsapp, Telegram, \u00a0 deng bole mo cetak jadi gambar basar for keperluan pribadi deng for keperluan blajar di rumah, skolah deng tampa-tampa karja.\u00a0 Waktu mo berbage, inga jo tu 3 hal ini:\n1) \u00a0 Waktu mo kase berbage, nimbole mo potong apa tu ada di cirita bagambar ini.\n2) \u00a0Cirita bagambar ini nimbole pake for samua urusan supaya mo dapa doi.\n3) kalu da kirim online, jang lupa kase maso lei tu orang yang da beking ni cirita bagambar pe nama. Kalu kase \u00a0maso di FB \u00a0se tanda pa @weimankowart, kalu di IG se tanda pa @weimankow (IG), ato kase sambung ka instagram com / weimankow. Kalu mo pake for keperluan laeng, kirim jo surat ka: comicsforgood@gmail.com\nTENTANG VIRUS KORONA\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "spa",
+        "xmm",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vZCeNd8xyZ"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "Spanish",
+        "xmm": "Melayu Manado"
+    },
+    "languages": [],
+    "license": "cc-by-nc-nd",
+    "licenseNotes": "",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "Sulawesi Utara",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "TENTANG VIRUS KORONA",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

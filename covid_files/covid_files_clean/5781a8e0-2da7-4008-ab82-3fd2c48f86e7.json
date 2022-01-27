@@ -1,0 +1,154 @@
+{
+    "allTitles": "{\"es\":\"El cuento de COVID-19\"}",
+    "audioLangsToPublish": null,
+    "author": null,
+    "bookInstanceId": "5781a8e0-2da7-4008-ab82-3fd2c48f86e7",
+    "bookLineage": "1a648b00-1ec0-46a7-be11-b0dec22fa0f4",
+    "bookSamples": {
+        "0": {
+            "eng": "",
+            "gsm": "",
+            "spa": "El cuento de COVID-19"
+        },
+        "1": {
+            "gsm": "",
+            "spa": ""
+        },
+        "2": {
+            "gsm": "",
+            "spa": ""
+        },
+        "3": {
+            "gsm": "",
+            "spa": ""
+        },
+        "4": {
+            "eng": "",
+            "gsm": "",
+            "spa": "El cuento de COVID-19"
+        },
+        "5": {
+            "gsm": "Signant LSG: Maria Hern\u00e1ndez\nGrabaci\u00f3n: Cesar Hern\u00e1ndez\nIlustradora, editora y subtitulaci\u00f3n: Mar\u00eda Hern\u00e1ndez",
+            "spa": ""
+        },
+        "6": {
+            "gsm": "Agradecemos a los generosos donantes que hicieron posible este proyecto.",
+            "spa": ""
+        },
+        "7": {
+            "gsm": "",
+            "spa": ""
+        },
+        "8": {
+            "gsm": "",
+            "spa": ""
+        },
+        "9": {
+            "gsm": "",
+            "spa": ""
+        },
+        "10": {
+            "gsm": "",
+            "spa": "En un mundo lejano"
+        },
+        "11": {
+            "gsm": "",
+            "spa": "Aparecio un virus desconocido"
+        },
+        "12": {
+            "gsm": "",
+            "spa": "Mar\u00eda estaba asustada, no quiere que llegar a Guatemala"
+        },
+        "13": {
+            "gsm": "",
+            "spa": "Un d\u00eda el presidente anunci\u00f3 que el COVID-19 lleg\u00f3 a Guatemala"
+        },
+        "14": {
+            "gsm": "",
+            "spa": "Todas las personas deberiamos quedarmos en casa"
+        },
+        "15": {
+            "gsm": "",
+            "spa": "Empezamos a usar mascarilla , gel y deberamos mantener distancia con las personas"
+        },
+        "16": {
+            "gsm": "",
+            "spa": "Mar\u00eda se sentia triste,\u00a0 ya no jugaria con sus amigos con sus amigos en la escuela"
+        },
+        "17": {
+            "gsm": "",
+            "spa": "El virus cambio el mundo, fue una situaci\u00f3n d\u00edficil"
+        },
+        "18": {
+            "gsm": "",
+            "spa": ""
+        },
+        "19": {
+            "gsm": "",
+            "spa": ""
+        }
+    },
+    "bookText": {
+        "gsm": "\n\n\n\n\nSignant LSG: Maria Hern\u00e1ndez\nGrabaci\u00f3n: Cesar Hern\u00e1ndez\nIlustradora, editora y subtitulaci\u00f3n: Mar\u00eda Hern\u00e1ndez\nAgradecemos a los generosos donantes que hicieron posible este proyecto.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "spa": "El cuento de COVID-19\n\n\n\nEl cuento de COVID-19\n\n\n\n\n\nEn un mundo lejano\nAparecio un virus desconocido\nMar\u00eda estaba asustada, no quiere que llegar a Guatemala\nUn d\u00eda el presidente anunci\u00f3 que el COVID-19 lleg\u00f3 a Guatemala\nTodas las personas deberiamos quedarmos en casa\nEmpezamos a usar mascarilla , gel y deberamos mantener distancia con las personas\nMar\u00eda se sentia triste,\u00a0 ya no jugaria con sus amigos con sus amigos en la escuela\nEl virus cambio el mundo, fue una situaci\u00f3n d\u00edficil\n\n"
+    },
+    "brandingProjectName": "Local-Community",
+    "contentLanguages": [
+        "spa",
+        "gsm"
+    ],
+    "copyright": "Copyright \u00a9 2021, Benem\u00e9rito Comit\u00e9 Prociegos y Sordos",
+    "country": "Guatemala",
+    "credits": "",
+    "district": "",
+    "features": [
+        "signLanguage",
+        "signLanguage:gsm",
+        "video"
+    ],
+    "folio": false,
+    "imported-book-source-url": null,
+    "internetLimits": null,
+    "isRtl": true,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "Nm0lsg6rQC"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "L5o89HLV0w"
+        }
+    ],
+    "language-display-names": {
+        "es": "Spanish",
+        "gsm": "Lengua de Se\u00f1as Guatemalteca"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "nameLocked": false,
+    "originalPublisher": null,
+    "originalTitle": "El cuento de COVID-19",
+    "page-number-style": "Decimal",
+    "pageCount": 14,
+    "phashOfFirstContentImage": null,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": null,
+    "tags": [
+        "topic:Health"
+    ],
+    "textLangsToPublish": null,
+    "title": "El cuento de COVID-19",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

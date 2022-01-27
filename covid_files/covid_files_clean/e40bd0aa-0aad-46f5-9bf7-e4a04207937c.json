@@ -1,0 +1,366 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"id\":\"Tentang Virus Corona\",\"lts\":\"Olumbe lwa Korona\",\"nij\":\"Pahurui Virus Corona\"}",
+    "author": null,
+    "bookInstanceId": "e40bd0aa-0aad-46f5-9bf7-e4a04207937c",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "Tentang Virus Corona",
+            "lts": "Olumbe lwa Korona",
+            "nij": "Pahurui Virus Corona",
+            "und": ""
+        },
+        "1": {
+            "eng": "",
+            "nij": ""
+        },
+        "2": {
+            "eng": "",
+            "nij": ""
+        },
+        "3": {
+            "nij": ""
+        },
+        "4": {
+            "nij": "Baya ice hal je perlu ikam haratie en arak pahurui virus Corona\n"
+        },
+        "5": {
+            "nij": "MANJAKIT"
+        },
+        "6": {
+            "nij": "Nyama\n"
+        },
+        "7": {
+            "nij": "Urung\n"
+        },
+        "8": {
+            "nij": "Mate\n"
+        },
+        "9": {
+            "nij": "Tame akan suang\n"
+        },
+        "10": {
+            "nij": "Ulun barihas\n"
+        },
+        "11": {
+            "nij": "Ulun diya barihas\n"
+        },
+        "12": {
+            "nij": "Virus akan manjakit amun samburan iweh tuh\n"
+        },
+        "13": {
+            "nij": "Manjaga kakecau.\nIkam akan aman bara samburan danum iweh amun manjaga kakecau 2m.\n"
+        },
+        "14": {
+            "nij": "1"
+        },
+        "15": {
+            "nij": "2m-0,5m"
+        },
+        "16": {
+            "nij": "Haaachii!!\n"
+        },
+        "17": {
+            "nij": "Jari, metuh ikam manggite ulun bajemuh/banyin/diya barihas, ikam tau :\n"
+        },
+        "18": {
+            "nij": "NENGA AKAN LUSE MASKER.\nJari luse tau banyin/bajemuh njung suang masker je, hapa ngalindung ulun are je tehe kaliling iye.\n"
+        },
+        "19": {
+            "nij": "2"
+        },
+        "20": {
+            "nij": "Tarima kasih *SROOT*\n"
+        },
+        "21": {
+            "nij": "ATAWAI\n"
+        },
+        "22": {
+            "nij": "Mukin ulun jiye keme arep barihas. Iye baya ngalindung arep\u2019e.\n"
+        },
+        "23": {
+            "nij": "Ulun je jari tajakit mukin diya ati arak tanda, tapi tatap tau\u00a0manjakit peres\u2019e.\n"
+        },
+        "24": {
+            "nij": "Njung akan ita uras, keleh mahila bara ukan ulun rami, gawi ikam diya tawan ewei-ewei je metuh diya barihas.\n"
+        },
+        "25": {
+            "nij": "Pakakas hapa kuman\n"
+        },
+        "26": {
+            "nij": "Ulun barihas\n"
+        },
+        "27": {
+            "nij": "Tatut njung kareta\n"
+        },
+        "28": {
+            "nij": "Tumbul lift\n"
+        },
+        "29": {
+            "nij": "Tisu\n"
+        },
+        "30": {
+            "nij": "Galas\n"
+        },
+        "31": {
+            "nij": "Pakakas digital\n"
+        },
+        "32": {
+            "nij": "Malah njung hila luar\u00a0masker\n"
+        },
+        "33": {
+            "nij": "Tatut tangga\n"
+        },
+        "34": {
+            "nij": "Tetikus\n"
+        },
+        "35": {
+            "nij": "Pen\n"
+        },
+        "36": {
+            "nij": "Tatut baun tunggang\n"
+        },
+        "37": {
+            "nij": "Lengen luse\n"
+        },
+        "38": {
+            "nij": "Manyau kilau jiye, tau kiya danum iweh ulun je dia barihas tau maleket njung\u2026\n"
+        },
+        "39": {
+            "nij": "ikam uras tau hawan kiya.\n"
+        },
+        "40": {
+            "nij": "atawai baun kare ulun je dani ikau,\n"
+        },
+        "41": {
+            "nij": "manguhus mate\n"
+        },
+        "42": {
+            "nij": "Amun ikam diya sangaja tatekap barang banda jiye, limbah jiye tatekap baummu kabuat,\n"
+        },
+        "43": {
+            "nij": "Ice duha cara je paling pas hapa manganan virus jiye, iye je ngenyau hapa sabun, pamuti, atawai alkohol.\n"
+        },
+        "44": {
+            "nij": "Virus jituh tau batahan sapai 24 jam njung ice banda.\n"
+        },
+        "45": {
+            "nij": "Sabun"
+        },
+        "46": {
+            "nij": "cara mahila kilau tuh."
+        },
+        "47": {
+            "nij": "Gawi jiye, kalamus numun ih\n"
+        },
+        "48": {
+            "nij": "Ngenyau hapa sabun sapai situh."
+        },
+        "49": {
+            "nij": "Sabun"
+        },
+        "50": {
+            "nij": "Sikun lenge\n"
+        },
+        "51": {
+            "nij": "Ilah nekap baumu (atawai bawun ewei bewei).\nAmun memang diya tau diya, ngenyau barasih lengem umba sabun.\n"
+        },
+        "52": {
+            "nij": "Kilau manyanyi lagu \u201cHappy Birthday\u201d due kali.\n"
+        },
+        "53": {
+            "nij": "Nga penda silu\n"
+        },
+        "54": {
+            "nij": "Katahin 20 detik\n"
+        },
+        "55": {
+            "nij": "nga helang-helang tinjuk\n"
+        },
+        "56": {
+            "nij": "Ngenyau tekuk lukap\n"
+        },
+        "57": {
+            "nij": "En arak cara mengenyau lenge sapai barasih?\n"
+        },
+        "58": {
+            "nij": "Amun tatekap, ilah gaer. Balias ih ngenyau lenge hapa sabun.\n"
+        },
+        "59": {
+            "nij": "Ilah nekap hila luar\u00a0masker.\n"
+        },
+        "60": {
+            "nij": "Samburan danum iweh\n"
+        },
+        "61": {
+            "nij": "Bakteri tau manganak manjaria njung hila suang\u00a0masker amun hapa halau tahi.\n"
+        },
+        "62": {
+            "nij": "Nganan maskermu amun jari balike. Ilah mahapa masker je labih bara jandau.\n"
+        },
+        "63": {
+            "nij": "Hapa ih takip sayur\n"
+        },
+        "64": {
+            "nij": "Nyanak\n"
+        },
+        "65": {
+            "nij": "Yapang\n"
+        },
+        "66": {
+            "nij": "Indang\n"
+        },
+        "67": {
+            "nij": "Hapa ih anduk hai-hai\n"
+        },
+        "68": {
+            "nij": "Ilah talinjam panginan, pakakas hapa kuman, galas tutang anduk.\n"
+        },
+        "69": {
+            "nij": "Ikau diya tau manekap baumu hapa sikum kabuat, lauh ih.\n"
+        },
+        "70": {
+            "nij": "Sabuli-bulih, nguap atawa ngatep baun tunggang hapa siku atawai bahu.\n"
+        },
+        "71": {
+            "nij": "PASAH"
+        },
+        "72": {
+            "nij": "Limbah miar balua bara pasah\n"
+        },
+        "73": {
+            "nij": "Helu bara kuman\n"
+        },
+        "74": {
+            "nij": "Halajur ngenyau lengemu hapa sabun\u2026.\n"
+        },
+        "75": {
+            "nij": "Kahapus,\n"
+        },
+        "76": {
+            "nij": "Sabun"
+        },
+        "77": {
+            "nij": "Haga ih karihas!\n"
+        },
+        "78": {
+            "nij": "Haga ih karihas!\n"
+        },
+        "79": {
+            "nij": "Sabun"
+        },
+        "80": {
+            "nij": "Mbasa auh-auh beken njung surat-surat je ngambu!\n"
+        },
+        "81": {
+            "nij": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "nij": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+        },
+        "83": {
+            "nij": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "nij": "Bahan hapa bapikir \u00a0hapa mangabar auh medis:\n"
+        },
+        "85": {
+            "nij": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "Tentang Virus Corona",
+            "lts": "Olumbe lwa Korona",
+            "nij": "Pahurui Virus Corona",
+            "und": ""
+        },
+        "87": {
+            "eng": "",
+            "nij": ""
+        },
+        "88": {
+            "eng": "Diterjemahkan dalam Bahasa Katingan oleh\n\u00a0Hamlin, S. Pd.,\u00a0 Kaliwus Asi, S.H. dan Reno P. Jambang\n",
+            "nij": ""
+        },
+        "89": {
+            "eng": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org",
+            "nij": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "nij": ""
+        },
+        "91": {
+            "eng": "",
+            "nij": ""
+        },
+        "92": {
+            "eng": "",
+            "nij": ""
+        },
+        "93": {
+            "eng": "",
+            "nij": ""
+        },
+        "94": {
+            "eng": "",
+            "nij": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nDiterjemahkan dalam Bahasa Katingan oleh\n\u00a0Hamlin, S. Pd.,\u00a0 Kaliwus Asi, S.H. dan Reno P. Jambang\n\nVersi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "ind": "Tentang Virus Corona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTentang Virus Corona\n\n\n\n\n\n\n\n",
+        "lts": "Olumbe lwa Korona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOlumbe lwa Korona\n\n\n\n\n\n\n\n",
+        "nij": "Pahurui Virus Corona\n\n\n\nBaya ice hal je perlu ikam haratie en arak pahurui virus Corona\n\nMANJAKIT\nNyama\n\nUrung\n\nMate\n\nTame akan suang\n\nUlun barihas\n\nUlun diya barihas\n\nVirus akan manjakit amun samburan iweh tuh\n\nManjaga kakecau.\nIkam akan aman bara samburan danum iweh amun manjaga kakecau 2m.\n\n1\n2m-0,5m\nHaaachii!!\n\nJari, metuh ikam manggite ulun bajemuh/banyin/diya barihas, ikam tau :\n\nNENGA AKAN LUSE MASKER.\nJari luse tau banyin/bajemuh njung suang masker je, hapa ngalindung ulun are je tehe kaliling iye.\n\n2\nTarima kasih *SROOT*\n\nATAWAI\n\nMukin ulun jiye keme arep barihas. Iye baya ngalindung arep\u2019e.\n\nUlun je jari tajakit mukin diya ati arak tanda, tapi tatap tau\u00a0manjakit peres\u2019e.\n\nNjung akan ita uras, keleh mahila bara ukan ulun rami, gawi ikam diya tawan ewei-ewei je metuh diya barihas.\n\nPakakas hapa kuman\n\nUlun barihas\n\nTatut njung kareta\n\nTumbul lift\n\nTisu\n\nGalas\n\nPakakas digital\n\nMalah njung hila luar\u00a0masker\n\nTatut tangga\n\nTetikus\n\nPen\n\nTatut baun tunggang\n\nLengen luse\n\nManyau kilau jiye, tau kiya danum iweh ulun je dia barihas tau maleket njung\u2026\n\nikam uras tau hawan kiya.\n\natawai baun kare ulun je dani ikau,\n\nmanguhus mate\n\nAmun ikam diya sangaja tatekap barang banda jiye, limbah jiye tatekap baummu kabuat,\n\nIce duha cara je paling pas hapa manganan virus jiye, iye je ngenyau hapa sabun, pamuti, atawai alkohol.\n\nVirus jituh tau batahan sapai 24 jam njung ice banda.\n\nSabun\ncara mahila kilau tuh.\nGawi jiye, kalamus numun ih\n\nNgenyau hapa sabun sapai situh.\nSabun\nSikun lenge\n\nIlah nekap baumu (atawai bawun ewei bewei).\nAmun memang diya tau diya, ngenyau barasih lengem umba sabun.\n\nKilau manyanyi lagu \u201cHappy Birthday\u201d due kali.\n\nNga penda silu\n\nKatahin 20 detik\n\nnga helang-helang tinjuk\n\nNgenyau tekuk lukap\n\nEn arak cara mengenyau lenge sapai barasih?\n\nAmun tatekap, ilah gaer. Balias ih ngenyau lenge hapa sabun.\n\nIlah nekap hila luar\u00a0masker.\n\nSamburan danum iweh\n\nBakteri tau manganak manjaria njung hila suang\u00a0masker amun hapa halau tahi.\n\nNganan maskermu amun jari balike. Ilah mahapa masker je labih bara jandau.\n\nHapa ih takip sayur\n\nNyanak\n\nYapang\n\nIndang\n\nHapa ih anduk hai-hai\n\nIlah talinjam panginan, pakakas hapa kuman, galas tutang anduk.\n\nIkau diya tau manekap baumu hapa sikum kabuat, lauh ih.\n\nSabuli-bulih, nguap atawa ngatep baun tunggang hapa siku atawai bahu.\n\nPASAH\nLimbah miar balua bara pasah\n\nHelu bara kuman\n\nHalajur ngenyau lengemu hapa sabun\u2026.\n\nKahapus,\n\nSabun\nHaga ih karihas!\n\nHaga ih karihas!\n\nSabun\nMbasa auh-auh beken njung surat-surat je ngambu!\n\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)\nBahan hapa bapikir \u00a0hapa mangabar auh medis:\n\nKeterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\nPahurui Virus Corona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "lts",
+        "nij",
+        "eng",
+        "ind"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "Katingan",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "PQ2fG5wMcH"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "id": "Indonesian",
+        "lts": "Lutachoni",
+        "nij": "Katingan"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "Kalimantan Tengah",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Pahurui Virus Corona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

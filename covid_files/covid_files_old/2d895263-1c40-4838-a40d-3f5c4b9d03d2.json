@@ -1,0 +1,385 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "2d895263-1c40-4838-a40d-3f5c4b9d03d2",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Karodukka Korona",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"id\":\"Tentang Virus Corona\",\"lts\":\"Olumbe lwa Korona\",\"wew\":\"Karodukka Korona\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+  "downloadSource": "media@suluh.org/2d895263-1c40-4838-a40d-3f5c4b9d03d2",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+  "copyright": "Copyright \u00a9 2020, Weiman Kow",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "Ce2klq0Yhx"
+    }
+  ],
+  "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Indonesia",
+  "province": "NTT",
+  "district": "SBD",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "c1ceNFU299"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "lts": "Lutachoni",
+    "id": "Indonesian",
+    "wew": "Wejewa"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "2": {
+    "lts": "Olumbe lwa Korona",
+    "wew": "Karodukka Korona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "3": {
+    "lts": "Olumbe lwa Korona",
+    "wew": "Karodukka Korona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "4": {
+    "lts": "Olumbe lwa Korona",
+    "wew": "Karodukka Korona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "5": {
+    "lts": "Olumbe lwa Korona",
+    "wew": "Karodukka Korona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "13": {
+    "wew": ""
+  },
+  "14": {
+    "wew": ""
+  },
+  "15": {
+    "wew": ""
+  },
+  "16": {
+    "wew": ""
+  },
+  "17": {
+    "wew": "Mata dana"
+  },
+  "18": {
+    "wew": ""
+  },
+  "19": {
+    "wew": ""
+  },
+  "20": {
+    "wew": ""
+  },
+  "21": {
+    "wew": "Ne Korona patekki na lede ngge ngawuta/we\u2019e pani\u2019i"
+  },
+  "22": {
+    "wew": ""
+  },
+  "23": {
+    "wew": "1"
+  },
+  "24": {
+    "wew": "2m-0,5m"
+  },
+  "25": {
+    "wew": "Diora!!!"
+  },
+  "26": {
+    "wew": "Bai eta ko ata a tengge, a karorroka korru na, a ngangnga:"
+  },
+  "27": {
+    "wew": ""
+  },
+  "28": {
+    "wew": "2"
+  },
+  "29": {
+    "wew": ""
+  },
+  "30": {
+    "wew": ""
+  },
+  "31": {
+    "wew": ""
+  },
+  "32": {
+    "wew": ""
+  },
+  "33": {
+    "wew": ""
+  },
+  "34": {
+    "wew": ""
+  },
+  "35": {
+    "wew": ""
+  },
+  "36": {
+    "wew": ""
+  },
+  "37": {
+    "wew": ""
+  },
+  "38": {
+    "wew": ""
+  },
+  "39": {
+    "wew": ""
+  },
+  "40": {
+    "wew": ""
+  },
+  "41": {
+    "wew": ""
+  },
+  "42": {
+    "wew": ""
+  },
+  "43": {
+    "wew": ""
+  },
+  "44": {
+    "wew": ""
+  },
+  "45": {
+    "wew": ""
+  },
+  "46": {
+    "wew": ""
+  },
+  "47": {
+    "wew": ""
+  },
+  "48": {
+    "wew": "na ma pande we bai karodukka kua wu mi."
+  },
+  "49": {
+    "wew": ""
+  },
+  "50": {
+    "wew": ""
+  },
+  "51": {
+    "wew": ""
+  },
+  "52": {
+    "wew": ""
+  },
+  "53": {
+    "wew": ""
+  },
+  "54": {
+    "wew": "Sabo"
+  },
+  "55": {
+    "wew": ""
+  },
+  "56": {
+    "wew": ""
+  },
+  "57": {
+    "wew": "Pario wi limma waina sabo dukki barra kasi\u2019u"
+  },
+  "58": {
+    "wew": "Sabo"
+  },
+  "59": {
+    "wew": ""
+  },
+  "60": {
+    "wew": ""
+  },
+  "61": {
+    "wew": ""
+  },
+  "62": {
+    "wew": ""
+  },
+  "63": {
+    "wew": ""
+  },
+  "64": {
+    "wew": ""
+  },
+  "65": {
+    "wew": ""
+  },
+  "66": {
+    "wew": ""
+  },
+  "67": {
+    "wew": ""
+  },
+  "68": {
+    "wew": ""
+  },
+  "69": {
+    "wew": ""
+  },
+  "70": {
+    "wew": ""
+  },
+  "71": {
+    "wew": ""
+  },
+  "72": {
+    "wew": "Wai na tako tondo"
+  },
+  "73": {
+    "wew": "Lakawa"
+  },
+  "74": {
+    "wew": ""
+  },
+  "75": {
+    "wew": ""
+  },
+  "76": {
+    "wew": ""
+  },
+  "77": {
+    "wew": ""
+  },
+  "78": {
+    "wew": ""
+  },
+  "79": {
+    "wew": ""
+  },
+  "80": {
+    "wew": "UMMA"
+  },
+  "81": {
+    "wew": ""
+  },
+  "82": {
+    "wew": ""
+  },
+  "83": {
+    "wew": ""
+  },
+  "84": {
+    "wew": ""
+  },
+  "85": {
+    "wew": "Sabo"
+  },
+  "86": {
+    "wew": ""
+  },
+  "87": {
+    "wew": "Ndangga we tou mu!"
+  },
+  "88": {
+    "wew": "Sabo"
+  },
+  "89": {
+    "wew": ""
+  },
+  "90": {
+    "wew": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "91": {
+    "wew": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+  },
+  "92": {
+    "wew": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+  },
+  "93": {
+    "wew": "Kana lua kyangge pa pande da tutuna ne karodukka, wa\u2019i ndi pa tanda buku dana:"
+  },
+  "94": {
+    "wew": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+  },
+  "97": {
+    "lts": "Olumbe lwa Korona",
+    "wew": "Karodukka Korona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "98": {
+    "lts": "Olumbe lwa Korona",
+    "wew": "Karodukka Korona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "99": {
+    "lts": "Olumbe lwa Korona",
+    "wew": "Karodukka Korona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "100": {
+    "lts": "Olumbe lwa Korona",
+    "wew": "Karodukka Korona",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "106": {
+    "en": ""
+  },
+  "108": {
+    "en": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org"
+  },
+  "111": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

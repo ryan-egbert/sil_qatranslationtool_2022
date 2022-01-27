@@ -1,0 +1,370 @@
+{
+    "allTitles": "{\"ahk\":\"Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\",\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"lsi\":\"Kovid \u2013 19 lang: yoem\u201d noo\"}",
+    "author": null,
+    "bookInstanceId": "73eeae30-3e91-41c5-92cc-fbec50a0d62d",
+    "bookLineage": "",
+    "bookSamples": {
+        "0": {
+            "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lsi": "Kovid \u2013 19 lang: yoem\u201d noo",
+            "spa": "Sobre el Coronavirus"
+        },
+        "1": {
+            "eng": "",
+            "lsi": ""
+        },
+        "2": {
+            "eng": "",
+            "lsi": ""
+        },
+        "3": {
+            "lsi": ""
+        },
+        "4": {
+            "lsi": "Kovid \u2013 19 lang: yoem\u201d noo gi khate\u201d\nzi nghoid ziri se\u2019 gyoo: ca\u201d da:.\n"
+        },
+        "5": {
+            "lsi": "Lang: yoem\u201d noo"
+        },
+        "6": {
+            "lsi": "Nhoid\n"
+        },
+        "7": {
+            "lsi": "Nhoo:\n"
+        },
+        "8": {
+            "lsi": "Myojid\u201d\n"
+        },
+        "9": {
+            "lsi": "Re\u201d jhang moo hau: joyoo mo dab wa da:.\n"
+        },
+        "10": {
+            "lsi": "\u00a0Yang\u201d zain\u201d\nsu:"
+        },
+        "11": {
+            "lsi": "Lang: yoem\u201d\nnoo dab su:\n"
+        },
+        "12": {
+            "lsi": "Hau: azo\u2019 gyo\u201d lang\u201d lang: yoem\u201d noo dab lei da:.\n"
+        },
+        "13": {
+            "lsi": "6 pe: koo: vi: moo nyid lang\u201d lang: yoem\u201d noo boug: dab wa jang\u201d moo yo\u201d loid wa."
+        },
+        "14": {
+            "lsi": "1"
+        },
+        "15": {
+            "lsi": "6 pe:\n"
+        },
+        "16": {
+            "lsi": "\u00a0 Hab co"
+        },
+        "17": {
+            "lsi": "Houg: yoomo byu dayug khyung\u201d zhoug\u201d zhau\u201d \u2013 xam: myhid\u201d noo bang: ri myang lang\u201d vhoo: mo ziyo\u2019 dakhyoo\u201d ti\u201d yo\u201d koid wa da:.\n"
+        },
+        "18": {
+            "lsi": "Nyangnu\u201d ri nhoid nghoeb (mask) byid: we\u2019. hau: nhoid nghoeb khoug: moo nyangnu\u201d zhau\u201d- xam: myhid\u201d noo loug awei: ayam moo nyid bang: ri noo ayo\u201d dab da:.\n\n"
+        },
+        "19": {
+            "lsi": "2"
+        },
+        "20": {
+            "lsi": "Kaja bye:\n( zhoug\u201d su: )\n"
+        },
+        "21": {
+            "lsi": "Anghoid lang\u201d\n"
+        },
+        "22": {
+            "lsi": "Nyang: noo aboo nghoid loug we\u2019 nyang: gung nyang: zid\u201d nyid zi we\u2019 nghoid da:."
+        },
+        "23": {
+            "lsi": "Noo dab bye: nghoid loug we\u2019 noo dab zi asi loo: we\u2019 yo\u201d nyid shi\u201d da:. Nghoid loug we\u2019 noo ri gi yo\u201d dab nhang: da:.\n"
+        },
+        "24": {
+            "lsi": "Kha: yug jang\u201d moo noo dab zi ayo\u201d\nsi yoomo byu phung: cang\u2019 ayhi: wa.\n"
+        },
+        "25": {
+            "lsi": "Du\n"
+        },
+        "26": {
+            "lsi": "Yang\u201d zain: su:"
+        },
+        "27": {
+            "lsi": "Myi: rheing\u201d- modoo:\u00a0 cang\u2019 lo, zei: tei\u201d"
+        },
+        "28": {
+            "lsi": "Jag zoemlhang: khalug"
+        },
+        "29": {
+            "lsi": "Lo, boid mougsoug\u201d"
+        },
+        "30": {
+            "lsi": "Gyid: koem.;:\n"
+        },
+        "31": {
+            "lsi": "Jag jonu\u201d yi\n"
+        },
+        "32": {
+            "lsi": "Nhoid nghoeb ( mask )\nda\u201d nghi: shoid."
+        },
+        "33": {
+            "lsi": "Zoemlhang: lo, zei:\n"
+        },
+        "34": {
+            "lsi": "Computer moug\u2019\n"
+        },
+        "35": {
+            "lsi": "Mhug youg:"
+        },
+        "36": {
+            "lsi": "Khoem: lo, zei:"
+        },
+        "37": {
+            "lsi": "Nyangnu\u201d da\u201d lo,\n"
+        },
+        "38": {
+            "lsi": "Hau: thang: noo dab su: da\u201d shikain\u201d gi dalheing: lheing: gootu: jonu\u201d atho\u2019 moo lo\u201d jo, da:. Dang: tu\u2019"
+        },
+        "39": {
+            "lsi": "Nanu\u201d dangain\u201d ge noo\nwa \u2013 noo dab wa."
+        },
+        "40": {
+            "lsi": "Nang jheddab da\u201d su: myonhoo: ri zang\u201d thung\u201d lang\u201d\n"
+        },
+        "41": {
+            "lsi": "Myo, jid\u201d ri boid lang\u201d\n"
+        },
+        "42": {
+            "lsi": "Dang: tu\u2019 nang gi hau: jonu\u201d daja: ja: ri zei:\nkho\u2019 lho: re\u201d myonhoo: moo doem zang\u201d\nthung\u201d lang\u201d"
+        },
+        "43": {
+            "lsi": "Hau: gyi mo loid wa shid mo lo, ri sabya: yo\u2019\u00a0 ( angh ) yhid: bo da\u201d mocid\u201d yeing yo\u2019 voin: tang: cid\u201d we\u2019."
+        },
+        "44": {
+            "lsi": "He: noo gi ziyoo jonu\u201d adang moo we\u2019 akhyeing:\u00a0 myang\u201d sho\u2019 kangso\u2019 yo\u201d dei nyid da:.\n"
+        },
+        "45": {
+            "lsi": "\u00a0Sapya:\n"
+        },
+        "46": {
+            "lsi": ""
+        },
+        "47": {
+            "lsi": "Noo adab wa shidmo zid\u201d lhid ca\u201d khyoo: 5 ja:"
+        },
+        "48": {
+            "lsi": "He: ziri cang\u201d lang\u201d gye ge da:."
+        },
+        "49": {
+            "lsi": "He: joyoo sho\u2019\nsapya: yo\u2019 cid\u201d we\u2019\n"
+        },
+        "50": {
+            "lsi": "Sapya:"
+        },
+        "51": {
+            "lsi": "Lo, moin\u201d thung\u201d guid\u201d thang:"
+        },
+        "52": {
+            "lsi": "Re\u201d myonhoo: ri azang\u201d thung\u201d. (angh) sube\u201d\nda: myonhoo: ri we\u2019 azang\u201d thung\u201d.Khasu\u201d ase\u2019\nkoid zang\u201d\u00a0 ca\u201d bye: lang\u201d xangshi\u201d lo, ri sapya:\nyo\u2019 voin: tang: joid lho: shang\u2019 sho\u2019 cid\u201d we\u2019."
+        },
+        "53": {
+            "lsi": "Hab pi\u201d baidde\u201d mokhoin\u201d eiglheing: koo: bain khoin\u201d myang\u201d sho\u2019 lo, ri cid\u201d we\u2019\n"
+        },
+        "54": {
+            "lsi": "Lo, seing\u201d ajhab moo\n"
+        },
+        "55": {
+            "lsi": "Second 20 koo:\n"
+        },
+        "56": {
+            "lsi": "Lo, nyhoug\u201d agyoo:\nmoo\n"
+        },
+        "57": {
+            "lsi": "Lo, go, tho\u2019 ri cid\u201d we\u2019\n"
+        },
+        "58": {
+            "lsi": "Dakhung\u201d ga: zi ciri: tid la\u201d\n"
+        },
+        "59": {
+            "lsi": "Zang\u201d thung\u201d nghoid loug we\u2019 aseing\u201d khoo\u201d ca\u201d. Re\u201d lo, ri sapya: yo\u2019 voin: tang: doem cid\u201d we\u2019.\n"
+        },
+        "60": {
+            "lsi": "Nhoig nghoeb da\u201d nghi: shoid khyoo: azang\u201d thung\u201d\u00a0\n\n"
+        },
+        "61": {
+            "lsi": "Ayeing zo,"
+        },
+        "62": {
+            "lsi": "Nhoid nghoeb ri myang\u201d sho\u2019 tab too\u201d lang\u201d noo boug: gi hau: akhoug: moo yo\u201d gyi: lo.\n"
+        },
+        "63": {
+            "lsi": "Nhoid nghoeb ( mask ) daku ri danyid\u201d mo jain\u201d\nsho\u2019 aci: dajhi\u2019 agi loo: lang\u201d she: pyam\u2019 we\u2019."
+        },
+        "64": {
+            "lsi": "Moidzoo: ri ci: yhung: we\u2019"
+        },
+        "65": {
+            "lsi": "Zoo:\n"
+        },
+        "66": {
+            "lsi": "Ba\u201d Ba\u201d\n"
+        },
+        "67": {
+            "lsi": "Yhid yhid"
+        },
+        "68": {
+            "lsi": "Yug khang\u201d moo\u201d nyang: tu: nyang: lo, boid ri ci: ca\u201d wa.\n"
+        },
+        "69": {
+            "lsi": "Zoo: shug \u2013 voem: yhung\u2019 yhoem: moo ci: jonu\u201d \u2013 gyid khu\u2019 yo\u2019 lo, boid ri byu myoo: sho\u2019 dage\u201d aci: wa."
+        },
+        "70": {
+            "lsi": "Re\u201d da: lo, moin\u201d thung\u201d guid\u201d thang: yo\u2019 myonhoo: ri khasu\u201d we\u2019 ayo\u201d zang\u201d thung\u201d nghoid da:."
+        },
+        "71": {
+            "lsi": "Khoem\u201d phang\u2019 lang\u201d lo, moin\u201d thung\u201d guid\u201d thang: ( angh ) kootho\u2019 yo\u2019 doin: phang\u2019 we\u2019.\nGe boi\u201d ri lo, yo\u2019 aphang\u2019.\n"
+        },
+        "72": {
+            "lsi": "Yhoem:\n"
+        },
+        "73": {
+            "lsi": "Vi: mo doem lo uri\n"
+        },
+        "74": {
+            "lsi": "Zoo: shug azoo: shi\u201d uri\n"
+        },
+        "75": {
+            "lsi": "Lo, ri ajang\u201d sapya: yo\u2019 cid\u201d we\u2019"
+        },
+        "76": {
+            "lsi": "Thang: thang\u2019 ri\n"
+        },
+        "77": {
+            "lsi": "Sapya:"
+        },
+        "78": {
+            "lsi": "Yug khang\u201d moo\u201d gyi mo loid sho\u2019 nyid we\u2019"
+        },
+        "79": {
+            "lsi": "Yug khang\u201d moo\u201d gyi mo loid sho\u2019 nyid we\u2019\n"
+        },
+        "80": {
+            "lsi": "Sapya:"
+        },
+        "81": {
+            "lsi": ""
+        },
+        "82": {
+            "lsi": ""
+        },
+        "83": {
+            "lsi": ""
+        },
+        "84": {
+            "lsi": ""
+        },
+        "85": {
+            "lsi": ""
+        },
+        "86": {
+            "lsi": ""
+        },
+        "87": {
+            "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lsi": "Kovid \u2013 19 lang: yoem\u201d noo",
+            "spa": "Sobre el Coronavirus"
+        },
+        "88": {
+            "eng": "",
+            "lsi": ""
+        },
+        "89": {
+            "eng": "",
+            "lsi": ""
+        },
+        "90": {
+            "eng": "About Coronavirus",
+            "lsi": ""
+        },
+        "91": {
+            "eng": "Translate by Zone Call",
+            "lsi": ""
+        },
+        "92": {
+            "eng": "",
+            "lsi": ""
+        },
+        "93": {
+            "eng": "",
+            "lsi": ""
+        },
+        "94": {
+            "eng": "",
+            "lsi": ""
+        },
+        "95": {
+            "eng": "",
+            "lsi": ""
+        }
+    },
+    "bookText": {
+        "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKo\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\n\n\n\n\n\n\n\n",
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\n\nAbout Coronavirus\nTranslate by Zone Call\n\n\n\n",
+        "lsi": "Kovid \u2013 19 lang: yoem\u201d noo\n\n\n\nKovid \u2013 19 lang: yoem\u201d noo gi khate\u201d\nzi nghoid ziri se\u2019 gyoo: ca\u201d da:.\n\nLang: yoem\u201d noo\nNhoid\n\nNhoo:\n\nMyojid\u201d\n\nRe\u201d jhang moo hau: joyoo mo dab wa da:.\n\n\u00a0Yang\u201d zain\u201d\nsu:\nLang: yoem\u201d\nnoo dab su:\n\nHau: azo\u2019 gyo\u201d lang\u201d lang: yoem\u201d noo dab lei da:.\n\n6 pe: koo: vi: moo nyid lang\u201d lang: yoem\u201d noo boug: dab wa jang\u201d moo yo\u201d loid wa.\n1\n6 pe:\n\n\u00a0 Hab co\nHoug: yoomo byu dayug khyung\u201d zhoug\u201d zhau\u201d \u2013 xam: myhid\u201d noo bang: ri myang lang\u201d vhoo: mo ziyo\u2019 dakhyoo\u201d ti\u201d yo\u201d koid wa da:.\n\nNyangnu\u201d ri nhoid nghoeb (mask) byid: we\u2019. hau: nhoid nghoeb khoug: moo nyangnu\u201d zhau\u201d- xam: myhid\u201d noo loug awei: ayam moo nyid bang: ri noo ayo\u201d dab da:.\n\n\n2\nKaja bye:\n( zhoug\u201d su: )\n\nAnghoid lang\u201d\n\nNyang: noo aboo nghoid loug we\u2019 nyang: gung nyang: zid\u201d nyid zi we\u2019 nghoid da:.\nNoo dab bye: nghoid loug we\u2019 noo dab zi asi loo: we\u2019 yo\u201d nyid shi\u201d da:. Nghoid loug we\u2019 noo ri gi yo\u201d dab nhang: da:.\n\nKha: yug jang\u201d moo noo dab zi ayo\u201d\nsi yoomo byu phung: cang\u2019 ayhi: wa.\n\nDu\n\nYang\u201d zain: su:\nMyi: rheing\u201d- modoo:\u00a0 cang\u2019 lo, zei: tei\u201d\nJag zoemlhang: khalug\nLo, boid mougsoug\u201d\nGyid: koem.;:\n\nJag jonu\u201d yi\n\nNhoid nghoeb ( mask )\nda\u201d nghi: shoid.\nZoemlhang: lo, zei:\n\nComputer moug\u2019\n\nMhug youg:\nKhoem: lo, zei:\nNyangnu\u201d da\u201d lo,\n\nHau: thang: noo dab su: da\u201d shikain\u201d gi dalheing: lheing: gootu: jonu\u201d atho\u2019 moo lo\u201d jo, da:. Dang: tu\u2019\nNanu\u201d dangain\u201d ge noo\nwa \u2013 noo dab wa.\nNang jheddab da\u201d su: myonhoo: ri zang\u201d thung\u201d lang\u201d\n\nMyo, jid\u201d ri boid lang\u201d\n\nDang: tu\u2019 nang gi hau: jonu\u201d daja: ja: ri zei:\nkho\u2019 lho: re\u201d myonhoo: moo doem zang\u201d\nthung\u201d lang\u201d\nHau: gyi mo loid wa shid mo lo, ri sabya: yo\u2019\u00a0 ( angh ) yhid: bo da\u201d mocid\u201d yeing yo\u2019 voin: tang: cid\u201d we\u2019.\nHe: noo gi ziyoo jonu\u201d adang moo we\u2019 akhyeing:\u00a0 myang\u201d sho\u2019 kangso\u2019 yo\u201d dei nyid da:.\n\n\u00a0Sapya:\n\n\nNoo adab wa shidmo zid\u201d lhid ca\u201d khyoo: 5 ja:\nHe: ziri cang\u201d lang\u201d gye ge da:.\nHe: joyoo sho\u2019\nsapya: yo\u2019 cid\u201d we\u2019\n\nSapya:\nLo, moin\u201d thung\u201d guid\u201d thang:\nRe\u201d myonhoo: ri azang\u201d thung\u201d. (angh) sube\u201d\nda: myonhoo: ri we\u2019 azang\u201d thung\u201d.Khasu\u201d ase\u2019\nkoid zang\u201d\u00a0 ca\u201d bye: lang\u201d xangshi\u201d lo, ri sapya:\nyo\u2019 voin: tang: joid lho: shang\u2019 sho\u2019 cid\u201d we\u2019.\nHab pi\u201d baidde\u201d mokhoin\u201d eiglheing: koo: bain khoin\u201d myang\u201d sho\u2019 lo, ri cid\u201d we\u2019\n\nLo, seing\u201d ajhab moo\n\nSecond 20 koo:\n\nLo, nyhoug\u201d agyoo:\nmoo\n\nLo, go, tho\u2019 ri cid\u201d we\u2019\n\nDakhung\u201d ga: zi ciri: tid la\u201d\n\nZang\u201d thung\u201d nghoid loug we\u2019 aseing\u201d khoo\u201d ca\u201d. Re\u201d lo, ri sapya: yo\u2019 voin: tang: doem cid\u201d we\u2019.\n\nNhoig nghoeb da\u201d nghi: shoid khyoo: azang\u201d thung\u201d\u00a0\n\n\nAyeing zo,\nNhoid nghoeb ri myang\u201d sho\u2019 tab too\u201d lang\u201d noo boug: gi hau: akhoug: moo yo\u201d gyi: lo.\n\nNhoid nghoeb ( mask ) daku ri danyid\u201d mo jain\u201d\nsho\u2019 aci: dajhi\u2019 agi loo: lang\u201d she: pyam\u2019 we\u2019.\nMoidzoo: ri ci: yhung: we\u2019\nZoo:\n\nBa\u201d Ba\u201d\n\nYhid yhid\nYug khang\u201d moo\u201d nyang: tu: nyang: lo, boid ri ci: ca\u201d wa.\n\nZoo: shug \u2013 voem: yhung\u2019 yhoem: moo ci: jonu\u201d \u2013 gyid khu\u2019 yo\u2019 lo, boid ri byu myoo: sho\u2019 dage\u201d aci: wa.\nRe\u201d da: lo, moin\u201d thung\u201d guid\u201d thang: yo\u2019 myonhoo: ri khasu\u201d we\u2019 ayo\u201d zang\u201d thung\u201d nghoid da:.\nKhoem\u201d phang\u2019 lang\u201d lo, moin\u201d thung\u201d guid\u201d thang: ( angh ) kootho\u2019 yo\u2019 doin: phang\u2019 we\u2019.\nGe boi\u201d ri lo, yo\u2019 aphang\u2019.\n\nYhoem:\n\nVi: mo doem lo uri\n\nZoo: shug azoo: shi\u201d uri\n\nLo, ri ajang\u201d sapya: yo\u2019 cid\u201d we\u2019\nThang: thang\u2019 ri\n\nSapya:\nYug khang\u201d moo\u201d gyi mo loid sho\u2019 nyid we\u2019\nYug khang\u201d moo\u201d gyi mo loid sho\u2019 nyid we\u2019\n\nSapya:\n\n\n\n\n\n\nKovid \u2013 19 lang: yoem\u201d noo\n\n\n\n\n\n\n\n",
+        "spa": "Sobre el Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSobre el Coronavirus\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "ahk",
+        "spa",
+        "lsi",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Lacid Literacy",
+    "country": "Myanmar",
+    "credits": "Translate by Zone Call",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "imported-book-source-url": null,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "Au6o3hacjq"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "lsi": "Lacid"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "originalTitle": "About Coronavirus",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "phashOfFirstContentImage": null,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": null,
+    "tags": [],
+    "title": "Kovid \u2013 19 lang: yoem\u201d noo",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

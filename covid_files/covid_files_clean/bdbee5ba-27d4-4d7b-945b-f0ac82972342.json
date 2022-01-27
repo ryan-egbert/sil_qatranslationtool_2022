@@ -1,0 +1,354 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"tvs\":\"Malosha \u00a0wanga ya bhiambu bhya Korona\"}",
+    "author": null,
+    "bookInstanceId": "bdbee5ba-27d4-4d7b-945b-f0ac82972342",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "tvs": "Malosha \u00a0wanga ya bhiambu bhya Korona"
+        },
+        "1": {
+            "eng": "",
+            "tvs": ""
+        },
+        "2": {
+            "eng": "",
+            "tvs": "Translated by Matayo Tariwoi M., Daniel Kichogha M. & Mathias Letiaki A."
+        },
+        "3": {
+            "tvs": ""
+        },
+        "4": {
+            "tvs": "Hena tiki kindu KIMWE ukundike kutwarija bhundu bhiambu bya korona\u00a0"
+        },
+        "5": {
+            "tvs": "BHINARARIA"
+        },
+        "6": {
+            "tvs": "Momo"
+        },
+        "7": {
+            "tvs": "Fua"
+        },
+        "8": {
+            "tvs": "Meso"
+        },
+        "9": {
+            "tvs": "Bhiingia kubhetia na"
+        },
+        "10": {
+            "tvs": "Mndu mzima bee"
+        },
+        "11": {
+            "tvs": "Mndu muwaji"
+        },
+        "12": {
+            "tvs": "Bhiambu bhinararia igheri\u00a0 mate hai lukoho luna bhiambu"
+        },
+        "13": {
+            "tvs": "Kuikaa hae naye. Bhueza bhwa kusongeriana mashoghwe bhwa mita 2 bhukukinda na mate ma lukoho."
+        },
+        "14": {
+            "tvs": "1"
+        },
+        "15": {
+            "tvs": "Mita 2"
+        },
+        "16": {
+            "tvs": "Eeepya!"
+        },
+        "17": {
+            "tvs": "Hena hubho ukambhona mndu ekoha pada/ebigha fua/ebhonekana muaji uidima:"
+        },
+        "18": {
+            "tvs": "Muinge kitambaa cha kuchunga fua na momo.\ufeff Bheidima kukohia kana kubigha fua na cho, na kubhakinda na bhiambu bhandu bhose bheoho afuhi nabho."
+        },
+        "19": {
+            "tvs": "2"
+        },
+        "20": {
+            "tvs": "Haika pada \ufeff*ejutia ifufa*"
+        },
+        "21": {
+            "tvs": "Kana"
+        },
+        "22": {
+            "tvs": "Hengi esi muwaji, eteoho ekukinda tiki"
+        },
+        "23": {
+            "tvs": "Bhandu bhebhabhiwa bheidima bhasibhonyanye mibhonire\u00a0 ya ndwari, kake bhena luidimo lwa kiambu\n"
+        },
+        "24": {
+            "tvs": "Na hena ibhi bhyose tuidima tukaghamba iti ni chedi mndu akubhike hae na mbotu ya bhandu, amu usiidima kutwarija iti niani eidima kuoka muaji."
+        },
+        "25": {
+            "tvs": "Bhitunga majegho"
+        },
+        "26": {
+            "tvs": "Mndu mzima bee"
+        },
+        "27": {
+            "tvs": "Mikwa ja igari la moshi"
+        },
+        "28": {
+            "tvs": "\u201cBhifungo, bhya lifuti\u2019"
+        },
+        "29": {
+            "tvs": "Malalu ma \u2018tissue\u2019"
+        },
+        "30": {
+            "tvs": "Bhikombe"
+        },
+        "31": {
+            "tvs": "Bhia bhya kijiditali"
+        },
+        "32": {
+            "tvs": "Naetee mbai ya shighati ya kitambaa chako cha kujibha fua na momo."
+        },
+        "33": {
+            "tvs": "Mishighi ya ngazi"
+        },
+        "34": {
+            "tvs": "Mkono wa kompiyuta"
+        },
+        "35": {
+            "tvs": "Kalamu"
+        },
+        "36": {
+            "tvs": "Chabi ja lughwi"
+        },
+        "37": {
+            "tvs": "Mikono yabho"
+        },
+        "38": {
+            "tvs": "Kake naetee hubho, hena igheri mate ma mndu muwaji meidima mekaoka na bhindu ibhi\u2026"
+        },
+        "39": {
+            "tvs": "muidima bhose kuoka bhawaji."
+        },
+        "40": {
+            "tvs": "kana kubhagura bhakundwa bhako bhusho,"
+        },
+        "41": {
+            "tvs": "usighise meso,"
+        },
+        "42": {
+            "tvs": "Na ukakunda bhindu ibhi usibharirie, na ade ugure bhusho bhwako,"
+        },
+        "43": {
+            "tvs": "na zia yedi tiki ya kubhikenja ni kuoja bhia ibhyo na sabuni, bhikuruta ikwe, kana bhiengeji."
+        },
+        "44": {
+            "tvs": "Bhiambu bhiidima kuoka moo hena masaa matare \u00a0bhireoho na bhia"
+        },
+        "45": {
+            "tvs": "Sabuni"
+        },
+        "46": {
+            "tvs": "Bhila twaaghanywa"
+        },
+        "47": {
+            "tvs": "Ichi nicho kindu kioho kiinga tughambe iti ni chedi kuyoa iti tuoho turateria \u00a0"
+        },
+        "48": {
+            "tvs": "Oja nezo na sabuni mhaka aha."
+        },
+        "49": {
+            "tvs": "Sabuni"
+        },
+        "50": {
+            "tvs": "Kikokora"
+        },
+        "51": {
+            "tvs": "Usigure bhusho bhwako. (Kana bhusho bhwa mndu ungi.) Na ikaoka iti nire ugure bhusho, oja ini nezo mikono yako na sabuni."
+        },
+        "52": {
+            "tvs": "Igheri lifishie kubhina kibhini cha \u2018Izirihiwa msi wa Kubhoneka\u2019 ndekero keeri."
+        },
+        "53": {
+            "tvs": "Sii ya ngombe"
+        },
+        "54": {
+            "tvs": "Hena sekunde 20"
+        },
+        "55": {
+            "tvs": "Ghati na ghati ya bhichaa"
+        },
+        "56": {
+            "tvs": "Oja mghongo wa maghaza mako"
+        },
+        "57": {
+            "tvs": "Kuoja nezo ni kuketa ze?"
+        },
+        "58": {
+            "tvs": "Ukakunda\u00a0 usiituke. Oja tiki mikono yako na sabuni."
+        },
+        "59": {
+            "tvs": "Kaja uidima usikunde mbai ya shighati ya kijibha fua na momo chako."
+        },
+        "60": {
+            "tvs": "Mate mena bhiambu"
+        },
+        "61": {
+            "tvs": "Bhiini bhya Bakitiria bhinamea\u00a0 mbai ya ndeni ya bhijibha fua na momo bhikadokwa igheri ieza"
+        },
+        "62": {
+            "tvs": "Bhijibha fua na momo bhidokwe tiki hena msi mmwe!\u00a0 Ade\u00a0 bhibhiritwe handu eho bhisiidima kukundwa ni ungi."
+        },
+        "63": {
+            "tvs": "Taha kijo na upao"
+        },
+        "64": {
+            "tvs": "Mwana"
+        },
+        "65": {
+            "tvs": "Papa"
+        },
+        "66": {
+            "tvs": "Iya"
+        },
+        "67": {
+            "tvs": "Kila mndu aoke na taulo yakwe"
+        },
+        "68": {
+            "tvs": "Bhandu bhasitang\u2019are kijo, bhia bhya kulia, ndemwa, taulo."
+        },
+        "69": {
+            "tvs": "Usiidima kukunda bhusho bhwako na kikokor chako naetee ukateghesha zee."
+        },
+        "70": {
+            "tvs": "Kaja uidima shindika mlango ujughuke na kikokora chako kana kituro. Usishindike na mikono yako."
+        },
+        "71": {
+            "tvs": "Kaa"
+        },
+        "72": {
+            "tvs": "na gheri twafuma kutorana na bhandu."
+        },
+        "73": {
+            "tvs": "Kabula tusimele kijo"
+        },
+        "74": {
+            "tvs": "Misi yose tuoje mikono yetu na sabuni\u2026"
+        },
+        "75": {
+            "tvs": "Tiricho tusiibhae ibhi,"
+        },
+        "76": {
+            "tvs": "Sabuni"
+        },
+        "77": {
+            "tvs": "Kila mmwezu wetu aikae mashoghwe"
+        },
+        "78": {
+            "tvs": "Kila mmwezu wetu aikae mashoghwe"
+        },
+        "79": {
+            "tvs": "Sabuni"
+        },
+        "80": {
+            "tvs": "Soma bhitamo ibhi upate malosha!"
+        },
+        "81": {
+            "tvs": "\u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n"
+        },
+        "82": {
+            "tvs": "\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report.\u00a0 (Jan 25, 2020).\n"
+        },
+        "83": {
+            "tvs": "\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion.\u00a0 (Jan 28,2020)."
+        },
+        "84": {
+            "tvs": "Hala tuidima tukapata malosha ama ma bhurighiti:"
+        },
+        "85": {
+            "tvs": "Wanga ya malosha ama: Malosha ama hena fana ja kusekija meoho metulosha wanga ya bhiambu bhya COVID19 sabhundu bhandu bhabhitwarija mhaka tarehe 28/02/2020. Malosha ama bhandu bhamapata\u00a0 kubhetia na: https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nElimu ya kukumbia hena bhila tutwarije: Malosha ama ma fana ja kusekija mewaho pia na \u00a0PDF na uidima kuma\u2019down load\u2019 bhesho hena mtandao wa https://gumroad.com/weimankowart\u00a0\nMaghanyo igheri tutang\u2019ara malosha ama: Malosha ama ma fana ja kusekija ni ma\u00a0 bhesho bhandu bhatang\u2019are hena mitandao ja Whatsapp na Telegram. Uidima pia ukamapata bhesho hena kungola bhibhuri bhya posters ja kulosha bhandu kaa, hena masukulu na ndimeni.\nIgheri utang\u2019ara malosha ama hena mitandao wasembwa ukumbuke maaghanyo ama matatu: 1) Usikoranye kila chtamwa hena zia yoyose. 2) Malosha ama esimakutagha esa kukumazia hena zia yoyose. 3) Ukaoka ukundie kuhiria kindu chochose ndima ii shigha mwenye ndima atwarije hena FB\u00a0 kubhetia mitandao iji: @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow. Ukakunda kuhiria kindu chochose ndima ii kindu ukundike kuhira ni kusemba uingwe ngalo iyo ni mwenye hena mtandao wa:comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "tvs": "Malosha \u00a0wanga ya bhiambu bhya Korona"
+        },
+        "87": {
+            "eng": "",
+            "tvs": ""
+        },
+        "88": {
+            "eng": "Bible Translation & Literacy E.A",
+            "tvs": ""
+        },
+        "89": {
+            "eng": "Translated by Matayo Tariwoi M., Daniel Kichogha M. & Mathias Letiaki A.",
+            "tvs": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "tvs": ""
+        },
+        "91": {
+            "eng": "",
+            "tvs": ""
+        },
+        "92": {
+            "eng": "",
+            "tvs": ""
+        },
+        "93": {
+            "eng": "",
+            "tvs": ""
+        },
+        "94": {
+            "eng": "",
+            "tvs": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nBible Translation & Literacy E.A\nTranslated by Matayo Tariwoi M., Daniel Kichogha M. & Mathias Letiaki A.\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "tvs": "Malosha \u00a0wanga ya bhiambu bhya Korona\n\nTranslated by Matayo Tariwoi M., Daniel Kichogha M. & Mathias Letiaki A.\n\nHena tiki kindu KIMWE ukundike kutwarija bhundu bhiambu bya korona\u00a0\nBHINARARIA\nMomo\nFua\nMeso\nBhiingia kubhetia na\nMndu mzima bee\nMndu muwaji\nBhiambu bhinararia igheri\u00a0 mate hai lukoho luna bhiambu\nKuikaa hae naye. Bhueza bhwa kusongeriana mashoghwe bhwa mita 2 bhukukinda na mate ma lukoho.\n1\nMita 2\nEeepya!\nHena hubho ukambhona mndu ekoha pada/ebigha fua/ebhonekana muaji uidima:\nMuinge kitambaa cha kuchunga fua na momo.\ufeff Bheidima kukohia kana kubigha fua na cho, na kubhakinda na bhiambu bhandu bhose bheoho afuhi nabho.\n2\nHaika pada \ufeff*ejutia ifufa*\nKana\nHengi esi muwaji, eteoho ekukinda tiki\nBhandu bhebhabhiwa bheidima bhasibhonyanye mibhonire\u00a0 ya ndwari, kake bhena luidimo lwa kiambu\n\nNa hena ibhi bhyose tuidima tukaghamba iti ni chedi mndu akubhike hae na mbotu ya bhandu, amu usiidima kutwarija iti niani eidima kuoka muaji.\nBhitunga majegho\nMndu mzima bee\nMikwa ja igari la moshi\n\u201cBhifungo, bhya lifuti\u2019\nMalalu ma \u2018tissue\u2019\nBhikombe\nBhia bhya kijiditali\nNaetee mbai ya shighati ya kitambaa chako cha kujibha fua na momo.\nMishighi ya ngazi\nMkono wa kompiyuta\nKalamu\nChabi ja lughwi\nMikono yabho\nKake naetee hubho, hena igheri mate ma mndu muwaji meidima mekaoka na bhindu ibhi\u2026\nmuidima bhose kuoka bhawaji.\nkana kubhagura bhakundwa bhako bhusho,\nusighise meso,\nNa ukakunda bhindu ibhi usibharirie, na ade ugure bhusho bhwako,\nna zia yedi tiki ya kubhikenja ni kuoja bhia ibhyo na sabuni, bhikuruta ikwe, kana bhiengeji.\nBhiambu bhiidima kuoka moo hena masaa matare \u00a0bhireoho na bhia\nSabuni\nBhila twaaghanywa\nIchi nicho kindu kioho kiinga tughambe iti ni chedi kuyoa iti tuoho turateria \u00a0\nOja nezo na sabuni mhaka aha.\nSabuni\nKikokora\nUsigure bhusho bhwako. (Kana bhusho bhwa mndu ungi.) Na ikaoka iti nire ugure bhusho, oja ini nezo mikono yako na sabuni.\nIgheri lifishie kubhina kibhini cha \u2018Izirihiwa msi wa Kubhoneka\u2019 ndekero keeri.\nSii ya ngombe\nHena sekunde 20\nGhati na ghati ya bhichaa\nOja mghongo wa maghaza mako\nKuoja nezo ni kuketa ze?\nUkakunda\u00a0 usiituke. Oja tiki mikono yako na sabuni.\nKaja uidima usikunde mbai ya shighati ya kijibha fua na momo chako.\nMate mena bhiambu\nBhiini bhya Bakitiria bhinamea\u00a0 mbai ya ndeni ya bhijibha fua na momo bhikadokwa igheri ieza\nBhijibha fua na momo bhidokwe tiki hena msi mmwe!\u00a0 Ade\u00a0 bhibhiritwe handu eho bhisiidima kukundwa ni ungi.\nTaha kijo na upao\nMwana\nPapa\nIya\nKila mndu aoke na taulo yakwe\nBhandu bhasitang\u2019are kijo, bhia bhya kulia, ndemwa, taulo.\nUsiidima kukunda bhusho bhwako na kikokor chako naetee ukateghesha zee.\nKaja uidima shindika mlango ujughuke na kikokora chako kana kituro. Usishindike na mikono yako.\nKaa\nna gheri twafuma kutorana na bhandu.\nKabula tusimele kijo\nMisi yose tuoje mikono yetu na sabuni\u2026\nTiricho tusiibhae ibhi,\nSabuni\nKila mmwezu wetu aikae mashoghwe\nKila mmwezu wetu aikae mashoghwe\nSabuni\nSoma bhitamo ibhi upate malosha!\n\u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\n\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report.\u00a0 (Jan 25, 2020).\n\n\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion.\u00a0 (Jan 28,2020).\nHala tuidima tukapata malosha ama ma bhurighiti:\nWanga ya malosha ama: Malosha ama hena fana ja kusekija meoho metulosha wanga ya bhiambu bhya COVID19 sabhundu bhandu bhabhitwarija mhaka tarehe 28/02/2020. Malosha ama bhandu bhamapata\u00a0 kubhetia na: https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nElimu ya kukumbia hena bhila tutwarije: Malosha ama ma fana ja kusekija mewaho pia na \u00a0PDF na uidima kuma\u2019down load\u2019 bhesho hena mtandao wa https://gumroad.com/weimankowart\u00a0\nMaghanyo igheri tutang\u2019ara malosha ama: Malosha ama ma fana ja kusekija ni ma\u00a0 bhesho bhandu bhatang\u2019are hena mitandao ja Whatsapp na Telegram. Uidima pia ukamapata bhesho hena kungola bhibhuri bhya posters ja kulosha bhandu kaa, hena masukulu na ndimeni.\nIgheri utang\u2019ara malosha ama hena mitandao wasembwa ukumbuke maaghanyo ama matatu: 1) Usikoranye kila chtamwa hena zia yoyose. 2) Malosha ama esimakutagha esa kukumazia hena zia yoyose. 3) Ukaoka ukundie kuhiria kindu chochose ndima ii shigha mwenye ndima atwarije hena FB\u00a0 kubhetia mitandao iji: @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow. Ukakunda kuhiria kindu chochose ndima ii kindu ukundike kuhira ni kusemba uingwe ngalo iyo ni mwenye hena mtandao wa:comicsforgood@gmail.com\nMalosha \u00a0wanga ya bhiambu bhya Korona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "tvs",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Bible Translation & Literacy E.A",
+    "country": "Kenya",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "4bvPJA6hIV"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "tvs": "Taveta"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "Do not change the text of this work, but you may translate it, adapt it into other forms, and distribute it for non-commerical purposes. You must keep the copyrights and credits for the author and illustrator Weiman Kow.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "Malosha \u00a0wanga ya bhiambu bhya Korona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

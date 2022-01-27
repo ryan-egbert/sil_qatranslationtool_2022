@@ -1,0 +1,366 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"id\":\"Tentang Virus Corona\",\"lts\":\"Olumbe lwa Korona\",\"puj\":\"Ja\u2019 tenin Virus Korona\"}",
+    "author": null,
+    "bookInstanceId": "073724ef-3fae-4467-8082-4a8a1838bf4d",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "Tentang Virus Corona",
+            "lts": "Olumbe lwa Korona",
+            "puj": "Ja\u2019 tenin Virus Korona\n",
+            "und": ""
+        },
+        "1": {
+            "eng": "",
+            "puj": ""
+        },
+        "2": {
+            "eng": "",
+            "puj": ""
+        },
+        "3": {
+            "puj": ""
+        },
+        "4": {
+            "puj": "Ja' tenin kutun corona ji' oih wo' la'ung kou dor\u00e9n ja' tenin ja' enuh virus corona.\n"
+        },
+        "5": {
+            "puj": ""
+        },
+        "6": {
+            "puj": "Pa\n"
+        },
+        "7": {
+            "puj": "Urung\n"
+        },
+        "8": {
+            "puj": "Metan\n"
+        },
+        "9": {
+            "puj": "memboh an luang\n"
+        },
+        "10": {
+            "puj": "A' iga\n"
+        },
+        "11": {
+            "puj": "A' miram\n"
+        },
+        "12": {
+            "puj": "Virus d\u00e9h ngamang tat teveci ibah inih"
+        },
+        "13": {
+            "puj": "Mena' tang.\u00a0\nKou d\u00e9h maling bok tat teveci ungai ibah unan mena' tang duoh mitin."
+        },
+        "14": {
+            "puj": "1"
+        },
+        "15": {
+            "puj": "2m-0,5m"
+        },
+        "16": {
+            "puj": "Hacih!\n"
+        },
+        "17": {
+            "puj": "Jadi' tat kou ngenong a' nuken/ ngecim/\nmiram, kou ngom:\n"
+        },
+        "18": {
+            "puj": "ARUNG DETOU MASKER.\nJadi' detou ngom ngecim/nuken/an luang masker lun navun a'-a' an lirin rin."
+        },
+        "19": {
+            "puj": "2"
+        },
+        "20": {
+            "puj": "Jan noh\n\"sroot\"\n"
+        },
+        "21": {
+            "puj": "ATAU"
+        },
+        "22": {
+            "puj": "A' inih laba' ovi' rin miram.\n"
+        },
+        "23": {
+            "puj": "A' wo' tubit nenggop laba' menyou mena tanu\u2019, ja'enah pa' tenong ngom\u00a0nyekadit layu' rin.\n"
+        },
+        "24": {
+            "puj": "Ibi rin nyap jan rin menyo' tekung a' vi' kou maling jam hei wo' tubit bok piram.\n"
+        },
+        "25": {
+            "puj": "ubat kun\n"
+        },
+        "26": {
+            "puj": "a' iga\n"
+        },
+        "27": {
+            "puj": "don kereta\n"
+        },
+        "28": {
+            "puj": "tombol lift\n"
+        },
+        "29": {
+            "puj": "tisu\n"
+        },
+        "30": {
+            "puj": "gelas\n"
+        },
+        "31": {
+            "puj": "ubat digital (hp), komputer\n"
+        },
+        "32": {
+            "puj": "ba' bi'ang a'un\u00a0masker\n"
+        },
+        "33": {
+            "puj": "nggah ocan\n"
+        },
+        "34": {
+            "puj": "mouse\n"
+        },
+        "35": {
+            "puj": "pulpen\n"
+        },
+        "36": {
+            "puj": "don teban\n"
+        },
+        "37": {
+            "puj": "kucu\u2019 detou\n"
+        },
+        "38": {
+            "puj": "Tera' pe ah, nah pe lou ungei ibah a' miram ngom nekepit an..."
+        },
+        "39": {
+            "puj": "ketou piah ngom leruh miram.\n"
+        },
+        "40": {
+            "puj": "unan jawei a' a' an lirim.\n"
+        },
+        "41": {
+            "puj": "ngegaren metan\n"
+        },
+        "42": {
+            "puj": "Tat kou maling wok mendin amung amung inah, deh menggah jawei nuh rop,\n"
+        },
+        "43": {
+            "puj": "Ji' ji' tenin penggu lun mecui virus muvi' rin unan sabun, pemutih, pa' alkohol.\n"
+        },
+        "44": {
+            "puj": "virus (uka\u2019) ngom menyen nyelu duoh pulu' pat jam an a'un ji' amung.\n"
+        },
+        "45": {
+            "puj": "Sabun"
+        },
+        "46": {
+            "puj": "ibi pekavou ja' inih."
+        },
+        "47": {
+            "puj": "Igam inah kecan rin kelekan\n"
+        },
+        "48": {
+            "puj": "uvi' unan sabun lemok an nih.\n"
+        },
+        "49": {
+            "puj": "Sabun"
+        },
+        "50": {
+            "puj": "Ikun kucu\u2019\n"
+        },
+        "51": {
+            "puj": "En nugih jawei nuh (pa' jawei hei vei rin).\nTat kamen la'ung la'ung menggah rin uvi' lulung kucu' ketou unan sabun.\n"
+        },
+        "52": {
+            "puj": "Ja' ibi ngeledu' levun \"Petabe' uli' Luman\" duoh liwai.\n"
+        },
+        "53": {
+            "puj": "an lela' ilun\n"
+        },
+        "54": {
+            "puj": "nyelu duoh pulu' detik.\n"
+        },
+        "55": {
+            "puj": "an tang tang cangau\n"
+        },
+        "56": {
+            "puj": "Uvi' penuk kucu'.\n"
+        },
+        "57": {
+            "puj": "Ja'a' ai ibi muvi' kucu' nyelu temai?\n"
+        },
+        "58": {
+            "puj": "Tat nenggah,en u\u2019ut. Lacet uvi' kucu' unan sabun.\n"
+        },
+        "59": {
+            "puj": "\u00c9n menggah ba' a'un masker\u00a0tavun.\n"
+        },
+        "60": {
+            "puj": "teveci ungei ibah\n"
+        },
+        "61": {
+            "puj": "Virus ngom mangun vi' an ba' biang luang tavun masker\u00a0tat peguna' kelak lali'.\n"
+        },
+        "62": {
+            "puj": "Cui masker nuh tat uma' tuno. \u00c9n nyarung masker lali' d\u00e9h ji' lou.\n"
+        },
+        "63": {
+            "puj": "peguna' uluk kelien\n"
+        },
+        "64": {
+            "puj": "kelovi\n"
+        },
+        "65": {
+            "puj": "m\u00e9\u2019\n"
+        },
+        "66": {
+            "puj": "in\u00e9\u2019\n"
+        },
+        "67": {
+            "puj": "peguna' anduk rop rop\n"
+        },
+        "68": {
+            "puj": "\u00c9n pekua kun, ubat kun, gelas, perin anduk.\n"
+        },
+        "69": {
+            "puj": "Kou maling ngom ngarap/menggah jawei unan ikun rop rop. Pira beh.\n"
+        },
+        "70": {
+            "puj": "Pira nyi'ah, pekop teban an ikun an le'ep.\n"
+        },
+        "71": {
+            "puj": ""
+        },
+        "72": {
+            "puj": "tenaring andang muit tat levu'\n"
+        },
+        "73": {
+            "puj": "em keman lulung\n"
+        },
+        "74": {
+            "puj": "Kevi' uvi' kucu' unan sabun...\n"
+        },
+        "75": {
+            "puj": "Tupuh,\n"
+        },
+        "76": {
+            "puj": "Sabun"
+        },
+        "77": {
+            "puj": "Tugum ne urip!\n"
+        },
+        "78": {
+            "puj": "Tugum ne urip!\n"
+        },
+        "79": {
+            "puj": "Sabun"
+        },
+        "80": {
+            "puj": "Baca' tips tips wo' aji' an artikel artikel an livou.\n"
+        },
+        "81": {
+            "puj": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "puj": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+        },
+        "83": {
+            "puj": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "puj": "Referensi utama yu' dengo medis:\n"
+        },
+        "85": {
+            "puj": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "Tentang Virus Corona",
+            "lts": "Olumbe lwa Korona",
+            "puj": "Ja\u2019 tenin Virus Korona\n",
+            "und": ""
+        },
+        "87": {
+            "eng": "",
+            "puj": ""
+        },
+        "88": {
+            "eng": "Diterjemahkan dalam Bahasa Punan Tubu oleh\nDollop Mamung",
+            "puj": ""
+        },
+        "89": {
+            "eng": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org",
+            "puj": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "puj": ""
+        },
+        "91": {
+            "eng": "",
+            "puj": ""
+        },
+        "92": {
+            "eng": "",
+            "puj": ""
+        },
+        "93": {
+            "eng": "",
+            "puj": ""
+        },
+        "94": {
+            "eng": "",
+            "puj": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nDiterjemahkan dalam Bahasa Punan Tubu oleh\nDollop Mamung\nVersi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "ind": "Tentang Virus Corona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTentang Virus Corona\n\n\n\n\n\n\n\n",
+        "lts": "Olumbe lwa Korona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOlumbe lwa Korona\n\n\n\n\n\n\n\n",
+        "puj": "Ja\u2019 tenin Virus Korona\n\n\n\n\nJa' tenin kutun corona ji' oih wo' la'ung kou dor\u00e9n ja' tenin ja' enuh virus corona.\n\n\nPa\n\nUrung\n\nMetan\n\nmemboh an luang\n\nA' iga\n\nA' miram\n\nVirus d\u00e9h ngamang tat teveci ibah inih\nMena' tang.\u00a0\nKou d\u00e9h maling bok tat teveci ungai ibah unan mena' tang duoh mitin.\n1\n2m-0,5m\nHacih!\n\nJadi' tat kou ngenong a' nuken/ ngecim/\nmiram, kou ngom:\n\nARUNG DETOU MASKER.\nJadi' detou ngom ngecim/nuken/an luang masker lun navun a'-a' an lirin rin.\n2\nJan noh\n\"sroot\"\n\nATAU\nA' inih laba' ovi' rin miram.\n\nA' wo' tubit nenggop laba' menyou mena tanu\u2019, ja'enah pa' tenong ngom\u00a0nyekadit layu' rin.\n\nIbi rin nyap jan rin menyo' tekung a' vi' kou maling jam hei wo' tubit bok piram.\n\nubat kun\n\na' iga\n\ndon kereta\n\ntombol lift\n\ntisu\n\ngelas\n\nubat digital (hp), komputer\n\nba' bi'ang a'un\u00a0masker\n\nnggah ocan\n\nmouse\n\npulpen\n\ndon teban\n\nkucu\u2019 detou\n\nTera' pe ah, nah pe lou ungei ibah a' miram ngom nekepit an...\nketou piah ngom leruh miram.\n\nunan jawei a' a' an lirim.\n\nngegaren metan\n\nTat kou maling wok mendin amung amung inah, deh menggah jawei nuh rop,\n\nJi' ji' tenin penggu lun mecui virus muvi' rin unan sabun, pemutih, pa' alkohol.\n\nvirus (uka\u2019) ngom menyen nyelu duoh pulu' pat jam an a'un ji' amung.\n\nSabun\nibi pekavou ja' inih.\nIgam inah kecan rin kelekan\n\nuvi' unan sabun lemok an nih.\n\nSabun\nIkun kucu\u2019\n\nEn nugih jawei nuh (pa' jawei hei vei rin).\nTat kamen la'ung la'ung menggah rin uvi' lulung kucu' ketou unan sabun.\n\nJa' ibi ngeledu' levun \"Petabe' uli' Luman\" duoh liwai.\n\nan lela' ilun\n\nnyelu duoh pulu' detik.\n\nan tang tang cangau\n\nUvi' penuk kucu'.\n\nJa'a' ai ibi muvi' kucu' nyelu temai?\n\nTat nenggah,en u\u2019ut. Lacet uvi' kucu' unan sabun.\n\n\u00c9n menggah ba' a'un masker\u00a0tavun.\n\nteveci ungei ibah\n\nVirus ngom mangun vi' an ba' biang luang tavun masker\u00a0tat peguna' kelak lali'.\n\nCui masker nuh tat uma' tuno. \u00c9n nyarung masker lali' d\u00e9h ji' lou.\n\npeguna' uluk kelien\n\nkelovi\n\nm\u00e9\u2019\n\nin\u00e9\u2019\n\npeguna' anduk rop rop\n\n\u00c9n pekua kun, ubat kun, gelas, perin anduk.\n\nKou maling ngom ngarap/menggah jawei unan ikun rop rop. Pira beh.\n\nPira nyi'ah, pekop teban an ikun an le'ep.\n\n\ntenaring andang muit tat levu'\n\nem keman lulung\n\nKevi' uvi' kucu' unan sabun...\n\nTupuh,\n\nSabun\nTugum ne urip!\n\nTugum ne urip!\n\nSabun\nBaca' tips tips wo' aji' an artikel artikel an livou.\n\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)\nReferensi utama yu' dengo medis:\n\nKeterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\nJa\u2019 tenin Virus Korona\n\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "lts",
+        "puj",
+        "eng",
+        "ind"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "02MgxS3sWz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "id": "Indonesian",
+        "lts": "Lutachoni",
+        "puj": "Punan Tubu"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "Kalimantan Timur",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Ja\u2019 tenin Virus Korona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

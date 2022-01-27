@@ -1,0 +1,364 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "2e93189a-16fe-4f68-8a84-8da536554d13",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Penngissangngiqi naia nioaang\nVirus Corona",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"ulm\":\"Penngissangngiqi naia nioaang\nVirus Corona\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+  "downloadSource": "media@suluh.org/2e93189a-16fe-4f68-8a84-8da536554d13",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+  "copyright": "Copyright \u00a9 2020, Weiman Kow",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "UgvPfdHOOZ"
+    }
+  ],
+  "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Indonesia",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "c1ceNFU299"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "lts": "Lutachoni",
+    "id": "Indonesian",
+    "ulm": "Ulumanda\u2019"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "3": {
+    "ulm": "Virus Corona",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "ulm": "Virus Corona",
+    "en": "About Coronavirus"
+  },
+  "5": {
+    "ulm": "Virus Corona",
+    "en": "About Coronavirus"
+  },
+  "12": {
+    "ulm": ""
+  },
+  "13": {
+    "ulm": "Mesade de neiq pepahangngi umba noa caranan virus corona mellele.\u00a0"
+  },
+  "14": {
+    "ulm": ""
+  },
+  "15": {
+    "ulm": "Sua"
+  },
+  "16": {
+    "ulm": "Pudung"
+  },
+  "17": {
+    "ulm": "Mata"
+  },
+  "18": {
+    "ulm": "Mettama laling"
+  },
+  "19": {
+    "ulm": "To magassing"
+  },
+  "20": {
+    "ulm": "To masaki"
+  },
+  "21": {
+    "ulm": "Indediq virus mellele moaq diang to tibarassi"
+  },
+  "22": {
+    "ulm": "Moaq meloq tau amang Annaq uqde tau naroa elunna pano sola muaq tibarassi, dako sikdukku beka pano, allaqi sudangmmeteq."
+  },
+  "23": {
+    "ulm": "1"
+  },
+  "24": {
+    "ulm": "2m - 0,5m"
+  },
+  "25": {
+    "ulm": "Haaachii!!"
+  },
+  "26": {
+    "ulm": "Aka deneiq namu babe muaq mangita tau to seqdeng, to tibarassi:"
+  },
+  "27": {
+    "ulm": "Jari mala kasiq tibarassi/Seqdeng laling di maskerna annaq malai mappasalamaq rupa tau."
+  },
+  "28": {
+    "ulm": "2"
+  },
+  "29": {
+    "ulm": "Tarima kasih \u201cSROOT\u201d"
+  },
+  "30": {
+    "ulm": "Mala tobande"
+  },
+  "31": {
+    "ulm": "Uqde kapang masaski/mapiqdi indo tau. Napaparoa kalettuneiq kalaena annaq uqde naroa indeqe piqdiq."
+  },
+  "32": {
+    "ulm": "Akaq indo to naleleimi inde piqdiq, uqde leqbaq tiqi nadiang nita pano makkuallaq-allaq dibatang kalaena. Aka deneiq memmanya-manya tau akaq indo pano tonaleleimi inde piqdi, mala toi neiq mambahaang piqdi pano rupa tau.\u00a0\u00a0"
+  },
+  "33": {
+    "ulm": "Aka deneiq, dako pano di tomaroaq, akaq uqdemi muissang mennami inde pano pesalasaohongang mamanya kasiq masaki/mapiqdiq."
+  },
+  "34": {
+    "ulm": "Andeang"
+  },
+  "35": {
+    "ulm": "To Magassing"
+  },
+  "36": {
+    "ulm": "Pettuqgalanganna kereta"
+  },
+  "37": {
+    "ulm": "Pepesseqna lif"
+  },
+  "38": {
+    "ulm": "Tissu"
+  },
+  "39": {
+    "ulm": "Kaca/gallas"
+  },
+  "40": {
+    "ulm": "Pareba digital"
+  },
+  "41": {
+    "ulm": "Annaq disulihanna masker"
+  },
+  "42": {
+    "ulm": "Pettuqgalangan endeq"
+  },
+  "43": {
+    "ulm": "Mos"
+  },
+  "44": {
+    "ulm": "Polopeng"
+  },
+  "45": {
+    "ulm": "Ahona baqba"
+  },
+  "46": {
+    "ulm": "Tajena"
+  },
+  "47": {
+    "ulm": "Moa umba noa, akaq mala toi elunna sola mendekkeq pano ..."
+  },
+  "48": {
+    "ulm": "Namasaki/namapiqdiq nasakkoaq"
+  },
+  "49": {
+    "ulm": "Anna rupanna pano rupa tau to musikadukkuang,"
+  },
+  "50": {
+    "ulm": "Mupojoqi matammu"
+  },
+  "51": {
+    "ulm": "Muaq uqde mutumbanga mangatti indo pano barang-barang, annaq muatti bumi rupammu kalaemu."
+  },
+  "52": {
+    "ulm": "Mesa kale deneiq mala nipogau annaq mala malai indeq pidiq, anna mala mate inde pambaha piqdi. akami indoqo, nibasei annaq nisabungngi, mala toi nipake indo pano anu mala mepamapute, annaq alkohol."
+  },
+  "53": {
+    "ulm": "Indediq piqdiq nakulle tuho pano dinahang sambengi sangallo (24 jam) pano diahona barang-barang."
+  },
+  "54": {
+    "ulm": "Sabung"
+  },
+  "55": {
+    "ulm": "aka nipogauq annaq malai malai inde piqdiq."
+  },
+  "56": {
+    "ulm": "Akade neiq pengissangngi mating"
+  },
+  "57": {
+    "ulm": "Baseiqi, mappake tau sabung tandaq dinde."
+  },
+  "58": {
+    "ulm": "Sabung"
+  },
+  "59": {
+    "ulm": "Sikkung"
+  },
+  "60": {
+    "ulm": "Muaq uqderangngia namala uqde nanipogauq, yaq nibasei kalemi tajeta ingga mapaccinna, annaq nisabunggi toi."
+  },
+  "61": {
+    "ulm": "Sitteng masaena muaq makkelong tau \u201cHappy Birthday\u201d pendeqdua."
+  },
+  "62": {
+    "ulm": "Kanikimmu"
+  },
+  "63": {
+    "ulm": "Paling masaemi muaq 20 detik"
+  },
+  "64": {
+    "ulm": "Allaqna pano kareme tajemu"
+  },
+  "65": {
+    "ulm": "Basei ahona tajemu"
+  },
+  "66": {
+    "ulm": "Umba noa cara mambasei taje annaq mala mapaccing sisiqda?"
+  },
+  "67": {
+    "ulm": "Muaq muroari palakang, dako tappa rabang. Aka deneiq tappa pano mi tau nibasei tajetaq anna nipakeang toi sabung."
+  },
+  "68": {
+    "ulm": "Da muroai ahona (Sulihanna) maskermu"
+  },
+  "69": {
+    "ulm": "Merassiqi uhai elu"
+  },
+  "70": {
+    "ulm": "Akaq inde piqdi mala menjari maiqdi illaing di masker muaq masae beka nipake."
+  },
+  "71": {
+    "ulm": "Tibei maskermu muaq sarupuqmi musaqding. Da mulewaqi sangallo mupake maskermu."
+  },
+  "72": {
+    "ulm": "Mappake seruq dokkaju tau"
+  },
+  "73": {
+    "ulm": "Anaq"
+  },
+  "74": {
+    "ulm": "Ambe"
+  },
+  "75": {
+    "ulm": "Indo"
+  },
+  "76": {
+    "ulm": "Handuqta toi kitaq nipake"
+  },
+  "77": {
+    "ulm": "ande, andeang, gallas/kaca, annaq handuq"
+  },
+  "78": {
+    "ulm": "Pogauqmi ..."
+  },
+  "79": {
+    "ulm": "Muaq malai, muaq mambokaqi tau baqba, atau nani oppoq, mala ari sikkutta atau paleppetta nipake."
+  },
+  "80": {
+    "ulm": "Sapo"
+  },
+  "81": {
+    "ulm": "Wattuttaq messohong di sapo"
+  },
+  "82": {
+    "ulm": "Uru naummandetaq"
+  },
+  "83": {
+    "ulm": "mappake sabung..."
+  },
+  "84": {
+    "ulm": "Paccappuranna,"
+  },
+  "85": {
+    "ulm": "Sabung"
+  },
+  "86": {
+    "ulm": "Mala arattau sehaq asang!"
+  },
+  "87": {
+    "ulm": "Mala arattau sehaq asang!"
+  },
+  "88": {
+    "ulm": "Sabung"
+  },
+  "89": {
+    "ulm": "Mambaca tau artikel annaq cara-carana anna detau naroa piqdiq."
+  },
+  "90": {
+    "ulm": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "91": {
+    "ulm": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "92": {
+    "ulm": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion (Jan 28, 2020)"
+  },
+  "93": {
+    "ulm": "Muaq mangitai tau kabar, yaq meringgimi tau aka naoa to maqjama di kesehatang:"
+  },
+  "94": {
+    "ulm": "Saat membagikan komik ini, ingat 3 hal berikut: 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+  },
+  "98": {
+    "ulm": "Virus Corona",
+    "en": "About Coronavirus"
+  },
+  "99": {
+    "ulm": "Virus Corona",
+    "en": "About Coronavirus"
+  },
+  "100": {
+    "ulm": "Virus Corona",
+    "en": "About Coronavirus"
+  },
+  "106": {
+    "en": "oleh Busra Basir Mr, S.Pd., M.Pd."
+  },
+  "108": {
+    "en": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org"
+  },
+  "111": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

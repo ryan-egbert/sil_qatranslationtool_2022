@@ -1,0 +1,1046 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "faeb2049-1b44-4205-bf17-307902c1ab1a",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "J\u0259 masa akwar da s\u0259na da ya\u014b KAWRAWNAVIRUS daha aabay KAWVID-19",
+  "allTitles": "{\"cuv\":\"J\u0259 masa akwar da s\u0259na da ya\u014b KAWRAWNAVIRUS daha aabay KAWVID-19\",\"en\":\"What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\",\"fr\":\"Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,4797e2a5-bc4f-48a0-b988-e10ff8deb4bc,5ac3444b-2397-4a3e-ac07-9e4aeaf757b4",
+  "downloadSource": "morgane_soudrain@cabtal.org/faeb2049-1b44-4205-bf17-307902c1ab1a",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2020, CABTAL",
+  "credits": "\r\nToutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\r\n\r\nContacts CABTAL\r\n\r\nWeb : www.cabtal.org\r\nMail : info_cabtal@cabtal.org\r\n\r\nTel : (237) 699 833 535\r\nWhatsApp : (237) 654 439 659\r\n\r\nB.P. : 16 550 Yaound\u00e9, Cameroun",
+  "tags": [],
+  "pageCount": 15,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "x2CFEMKUqF"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "O4H7hNzC4n"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "Coronavirus COVID-19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Cameroun",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "1xBKlzBnBB"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "es": "Spanish",
+    "en": "English",
+    "fr": "fran\u00e7ais",
+    "cuv": "Langue tchouvok"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "en": "COVID-19",
+    "cuv": "J\u0259 masa akwar da s\u0259na da ya\u014b KAWRAWNAVIRUS daha aabay KAWVID-19"
+  },
+  "2": {
+    "en": "COVID-19",
+    "cuv": "J\u0259 masa akwar da s\u0259na da ya\u014b KAWRAWNAVIRUS daha aabay KAWVID-19"
+  },
+  "3": {
+    "en": "COVID-19",
+    "cuv": "J\u0259 masa akwar da s\u0259na da ya\u014b KAWRAWNAVIRUS daha aabay KAWVID-19"
+  },
+  "8": {
+    "cuv": "Association Camerounaise pour la Traduction de la Bible et l'Alphab\u00e9tisation",
+    "fr": "Association Camerounaise pour \ufeffla Traduction de la Bible et l'Alphab\u00e9tisation"
+  },
+  "9": {
+    "cuv": "Association Camerounaise pour la Traduction de la Bible et l'Alphab\u00e9tisation",
+    "fr": "Association Camerounaise pour \ufeffla Traduction de la Bible et l'Alphab\u00e9tisation"
+  },
+  "13": {
+    "en": "COVID-19",
+    "cuv": "J\u0259 masa akwar da s\u0259na da ya\u014b KAWRAWNAVIRUS daha aabay KAWVID-19"
+  },
+  "14": {
+    "en": "COVID-19",
+    "cuv": "J\u0259 masa akwar da s\u0259na da ya\u014b KAWRAWNAVIRUS daha aabay KAWVID-19"
+  },
+  "15": {
+    "en": "COVID-19",
+    "cuv": "J\u0259 masa akwar da s\u0259na da ya\u014b KAWRAWNAVIRUS daha aabay KAWVID-19"
+  },
+  "18": {
+    "fr": "Les informations contenues dans ce livret \ufeffproviennent du site internet \ufeffde l'Organisation Mondiale de la Sant\u00e9 (OMS). https://www.who.int/fr/home"
+  },
+  "26": {
+    "fr": "B.P. : 16 550 Yaound\u00e9, Cameroun"
+  },
+  "29": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "30": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "31": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "32": {
+    "cuv": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 YA\u014a TA MA ANA HAY",
+    "fr": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE",
+    "en": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY"
+  },
+  "33": {
+    "cuv": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 YA\u014a TA MA ANA HAY",
+    "fr": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE",
+    "en": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY"
+  },
+  "34": {
+    "cuv": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 YA\u014a TA MA ANA HAY",
+    "fr": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE",
+    "en": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY"
+  },
+  "35": {
+    "cuv": "- Ma\u014bguzad ma da ya\u014b ma hay mazl\u0259la",
+    "fr": "- D\u00e9finition des mots difficiles",
+    "en": "",
+    "z": ""
+  },
+  "36": {
+    "cuv": "- Ma\u014bguzad ma da ya\u014b ma hay mazl\u0259la",
+    "fr": "- D\u00e9finition des mots difficiles",
+    "en": "",
+    "z": ""
+  },
+  "37": {
+    "cuv": "- Ma\u014bguzad ma da ya\u014b ma hay mazl\u0259la",
+    "fr": "- D\u00e9finition des mots difficiles",
+    "en": "",
+    "z": ""
+  },
+  "38": {
+    "cuv": "- Ma\u014bguzad ma da ya\u014b ma hay mazl\u0259la",
+    "fr": "- D\u00e9finition des mots difficiles",
+    "en": "",
+    "z": ""
+  },
+  "39": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "40": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "41": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "42": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "43": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "44": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "45": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "46": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "47": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "48": {
+    "cuv": "",
+    "fr": "p.8",
+    "en": "p.8"
+  },
+  "49": {
+    "cuv": "",
+    "fr": "p.8",
+    "en": "p.8"
+  },
+  "50": {
+    "cuv": "",
+    "fr": "p.8",
+    "en": "p.8"
+  },
+  "51": {
+    "cuv": "Kawrawnavirus s\u0259, aca zaliya saya KAWVID-19, a\u014bga mawzar\u0257ay waya. E zlerek macaaca ana dapa vavara ta Sinuwa hay da hwa\u0257 ta manah 31 ta kiya ta Mafa\u0257 2019. J\u0259 masa e \u014bguzdek vaw kad a v\u0259da ndana hay da s\u0259niya anj\u0259kar a\u014bga ana s\u0259, ara madama, a zlafa mahwad nda kad pa mam\u0259c masa e teh bay. A\u014bga makwakwaca mabay dapa vavara fakwanay. Mehecey ana masa e zlerekey s\u0259, ndana a s\u0259niya bay heley.",
+    "fr": "Le coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.",
+    "en": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+    "z": ""
+  },
+  "52": {
+    "cuv": "Kawrawnavirus s\u0259, aca zaliya saya KAWVID-19, a\u014bga mawzar\u0257ay waya. E zlerek macaaca ana dapa vavara ta Sinuwa hay da hwa\u0257 ta manah 31 ta kiya ta Mafa\u0257 2019. J\u0259 masa e \u014bguzdek vaw kad a v\u0259da ndana hay da s\u0259niya anj\u0259kar a\u014bga ana s\u0259, ara madama, a zlafa mahwad nda kad pa mam\u0259c masa e teh bay. A\u014bga makwakwaca mabay dapa vavara fakwanay. Mehecey ana masa e zlerekey s\u0259, ndana a s\u0259niya bay heley.",
+    "fr": "Le coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.",
+    "en": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+    "z": ""
+  },
+  "53": {
+    "cuv": "Kawrawnavirus s\u0259, aca zaliya saya KAWVID-19, a\u014bga mawzar\u0257ay waya. E zlerek macaaca ana dapa vavara ta Sinuwa hay da hwa\u0257 ta manah 31 ta kiya ta Mafa\u0257 2019. J\u0259 masa e \u014bguzdek vaw kad a v\u0259da ndana hay da s\u0259niya anj\u0259kar a\u014bga ana s\u0259, ara madama, a zlafa mahwad nda kad pa mam\u0259c masa e teh bay. A\u014bga makwakwaca mabay dapa vavara fakwanay. Mehecey ana masa e zlerekey s\u0259, ndana a s\u0259niya bay heley.",
+    "fr": "Le coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.",
+    "en": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+    "z": ""
+  },
+  "54": {
+    "cuv": "Kawrawnavirus s\u0259, aca zaliya saya KAWVID-19, a\u014bga mawzar\u0257ay waya. E zlerek macaaca ana dapa vavara ta Sinuwa hay da hwa\u0257 ta manah 31 ta kiya ta Mafa\u0257 2019. J\u0259 masa e \u014bguzdek vaw kad a v\u0259da ndana hay da s\u0259niya anj\u0259kar a\u014bga ana s\u0259, ara madama, a zlafa mahwad nda kad pa mam\u0259c masa e teh bay. A\u014bga makwakwaca mabay dapa vavara fakwanay. Mehecey ana masa e zlerekey s\u0259, ndana a s\u0259niya bay heley.",
+    "fr": "Le coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.",
+    "en": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+    "z": ""
+  },
+  "55": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "56": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "57": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "58": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "59": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "60": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "61": {
+    "cuv": "mavay cay",
+    "fr": "Personne \u00e2g\u00e9e",
+    "en": "Elderly person"
+  },
+  "62": {
+    "cuv": "mavay cay",
+    "fr": "Personne \u00e2g\u00e9e",
+    "en": "Elderly person"
+  },
+  "63": {
+    "cuv": "mavay cay",
+    "fr": "Personne \u00e2g\u00e9e",
+    "en": "Elderly person"
+  },
+  "64": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "65": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "66": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "67": {
+    "cuv": "Nda masa rav tata e \u014bgel zef zef daha aabay nda masa mehecey ana a t\u0259rda bay",
+    "fr": "Personne cardiaque ou souffrant de maladie",
+    "en": "Person with a heart condition or disease"
+  },
+  "68": {
+    "cuv": "Nda masa rav tata e \u014bgel zef zef daha aabay nda masa mehecey ana a t\u0259rda bay",
+    "fr": "Personne cardiaque ou souffrant de maladie",
+    "en": "Person with a heart condition or disease"
+  },
+  "69": {
+    "cuv": "Nda masa rav tata e \u014bgel zef zef daha aabay nda masa mehecey ana a t\u0259rda bay",
+    "fr": "Personne cardiaque ou souffrant de maladie",
+    "en": "Person with a heart condition or disease"
+  },
+  "70": {
+    "cuv": "Kwa nda masa a\u014bga ava mavay wula wula fakwanay s\u0259, mehecey waya ana nesey a zlafa mat\u0259haziya. Ndah masa ac ava mavay va ndah eve mehecey hay masa ac ava a\u014bga dapa vaw d\u0259ga zleezle (madama ta rav, mehecey ta sukar, mehecey masa a \u014bgal rav, mehecey masa a \u014bgal rav a \u0253\u0259razla nda) aca zlafa mete\u0257 zef kad pe mehecey mahwalhwala ana masa a lal nda mafay ta mazar\u0257ay ana nesey.",
+    "fr": "Les personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.",
+    "en": "People of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+    "z": ""
+  },
+  "71": {
+    "cuv": "Kwa nda masa a\u014bga ava mavay wula wula fakwanay s\u0259, mehecey waya ana nesey a zlafa mat\u0259haziya. Ndah masa ac ava mavay va ndah eve mehecey hay masa ac ava a\u014bga dapa vaw d\u0259ga zleezle (madama ta rav, mehecey ta sukar, mehecey masa a \u014bgal rav, mehecey masa a \u014bgal rav a \u0253\u0259razla nda) aca zlafa mete\u0257 zef kad pe mehecey mahwalhwala ana masa a lal nda mafay ta mazar\u0257ay ana nesey.",
+    "fr": "Les personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.",
+    "en": "People of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+    "z": ""
+  },
+  "72": {
+    "cuv": "Kwa nda masa a\u014bga ava mavay wula wula fakwanay s\u0259, mehecey waya ana nesey a zlafa mat\u0259haziya. Ndah masa ac ava mavay va ndah eve mehecey hay masa ac ava a\u014bga dapa vaw d\u0259ga zleezle (madama ta rav, mehecey ta sukar, mehecey masa a \u014bgal rav, mehecey masa a \u014bgal rav a \u0253\u0259razla nda) aca zlafa mete\u0257 zef kad pe mehecey mahwalhwala ana masa a lal nda mafay ta mazar\u0257ay ana nesey.",
+    "fr": "Les personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.",
+    "en": "People of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+    "z": ""
+  },
+  "73": {
+    "cuv": "Kwa nda masa a\u014bga ava mavay wula wula fakwanay s\u0259, mehecey waya ana nesey a zlafa mat\u0259haziya. Ndah masa ac ava mavay va ndah eve mehecey hay masa ac ava a\u014bga dapa vaw d\u0259ga zleezle (madama ta rav, mehecey ta sukar, mehecey masa a \u014bgal rav, mehecey masa a \u014bgal rav a \u0253\u0259razla nda) aca zlafa mete\u0257 zef kad pe mehecey mahwalhwala ana masa a lal nda mafay ta mazar\u0257ay ana nesey.",
+    "fr": "Les personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.",
+    "en": "People of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+    "z": ""
+  },
+  "74": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "75": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "76": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "77": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "78": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "79": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "80": {
+    "cuv": "-Mey\u0259vey",
+    "fr": "- Fatigue",
+    "en": "Fatigue"
+  },
+  "81": {
+    "cuv": "-Mey\u0259vey",
+    "fr": "- Fatigue",
+    "en": "Fatigue"
+  },
+  "82": {
+    "cuv": "-Mey\u0259vey",
+    "fr": "- Fatigue",
+    "en": "Fatigue"
+  },
+  "83": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "84": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "85": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "86": {
+    "cuv": "-Mef\u0259tes hay ece hec zef zef",
+    "fr": "- Douleurs musculaires",
+    "en": "Muscle aches and pains"
+  },
+  "87": {
+    "cuv": "-Mef\u0259tes hay ece hec zef zef",
+    "fr": "- Douleurs musculaires",
+    "en": "Muscle aches and pains"
+  },
+  "88": {
+    "cuv": "-Mef\u0259tes hay ece hec zef zef",
+    "fr": "- Douleurs musculaires",
+    "en": "Muscle aches and pains"
+  },
+  "89": {
+    "cuv": "Jene hay masa anda \u0257alakwa fa ndah masa ac eve mehecey ana s\u0259, je\u014b ana hay ac ara madama: Map kwakwaw fa vaw, majajahw uway, mef\u0259tes hay ece hec zef zef, mey\u0259vey. Ndah kwabay hay d\u0259rziya vaw e hecece\u014b, madazl h\u0259te\u014b, h\u0259ta\u014b e gej\u0259 jajaja, ma\u014bgwarlam e hecey, mehed da hwa\u0257. Ndah d\u0259rziya kwa ac eve mehecey ana amaa mehecey ana e s\u0259n vere ec aabay, ac manjaha werwer. Ndah d\u0259rziya ece mb\u0259l dapa mehecey ana, amaa kwa ac ka \u014bgat menjev mekele aabay.",
+    "fr": "Les sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.",
+    "en": "The symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+    "z": ""
+  },
+  "90": {
+    "cuv": "Jene hay masa anda \u0257alakwa fa ndah masa ac eve mehecey ana s\u0259, je\u014b ana hay ac ara madama: Map kwakwaw fa vaw, majajahw uway, mef\u0259tes hay ece hec zef zef, mey\u0259vey. Ndah kwabay hay d\u0259rziya vaw e hecece\u014b, madazl h\u0259te\u014b, h\u0259ta\u014b e gej\u0259 jajaja, ma\u014bgwarlam e hecey, mehed da hwa\u0257. Ndah d\u0259rziya kwa ac eve mehecey ana amaa mehecey ana e s\u0259n vere ec aabay, ac manjaha werwer. Ndah d\u0259rziya ece mb\u0259l dapa mehecey ana, amaa kwa ac ka \u014bgat menjev mekele aabay.",
+    "fr": "Les sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.",
+    "en": "The symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+    "z": ""
+  },
+  "91": {
+    "cuv": "Jene hay masa anda \u0257alakwa fa ndah masa ac eve mehecey ana s\u0259, je\u014b ana hay ac ara madama: Map kwakwaw fa vaw, majajahw uway, mef\u0259tes hay ece hec zef zef, mey\u0259vey. Ndah kwabay hay d\u0259rziya vaw e hecece\u014b, madazl h\u0259te\u014b, h\u0259ta\u014b e gej\u0259 jajaja, ma\u014bgwarlam e hecey, mehed da hwa\u0257. Ndah d\u0259rziya kwa ac eve mehecey ana amaa mehecey ana e s\u0259n vere ec aabay, ac manjaha werwer. Ndah d\u0259rziya ece mb\u0259l dapa mehecey ana, amaa kwa ac ka \u014bgat menjev mekele aabay.",
+    "fr": "Les sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.",
+    "en": "The symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+    "z": ""
+  },
+  "92": {
+    "cuv": "Jene hay masa anda \u0257alakwa fa ndah masa ac eve mehecey ana s\u0259, je\u014b ana hay ac ara madama: Map kwakwaw fa vaw, majajahw uway, mef\u0259tes hay ece hec zef zef, mey\u0259vey. Ndah kwabay hay d\u0259rziya vaw e hecece\u014b, madazl h\u0259te\u014b, h\u0259ta\u014b e gej\u0259 jajaja, ma\u014bgwarlam e hecey, mehed da hwa\u0257. Ndah d\u0259rziya kwa ac eve mehecey ana amaa mehecey ana e s\u0259n vere ec aabay, ac manjaha werwer. Ndah d\u0259rziya ece mb\u0259l dapa mehecey ana, amaa kwa ac ka \u014bgat menjev mekele aabay.",
+    "fr": "Les sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.",
+    "en": "The symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+    "z": ""
+  },
+  "93": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "94": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "95": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "96": {
+    "cuv": "Nda masa a jajahw uway",
+    "fr": "Personne qui tousse",
+    "en": "Person with a cough"
+  },
+  "97": {
+    "cuv": "Nda masa a jajahw uway",
+    "fr": "Personne qui tousse",
+    "en": "Person with a cough"
+  },
+  "98": {
+    "cuv": "Nda masa a jajahw uway",
+    "fr": "Personne qui tousse",
+    "en": "Person with a cough"
+  },
+  "99": {
+    "cuv": "Kawvid-19 e z\u0259vek s\u0259, jaka pa ndah masa ac ava mazar\u0257ay ana \u0253a. Daha nda gwabay a jajahw uway, a \u014bg\u0259 we\u0257cew, e c\u0259hek slesle\u0253 jaka pa h\u0259ta\u014b daha aabay jaka p\u0259 ma. Daha ndana a s\u0259\u0257ak slesle\u0253 ana kad hwa\u0257, a zlafa ma\u014bgat kawrawnavirus ana cay. Daha ndana e jej\u0259hwek jene masa mehecey ana f\u0259tiya \u0253a cay jaka pe slesle\u0253 ana hay va daha a \u0253\u0259la ndey hay, h\u0259ta\u014b daha aabay \u0257af ta ma s\u0259, a zlafa maz\u0259vafa mehecey ana cay.",
+    "fr": "Le COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.",
+    "en": "COVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+    "z": ""
+  },
+  "100": {
+    "cuv": "Kawvid-19 e z\u0259vek s\u0259, jaka pa ndah masa ac ava mazar\u0257ay ana \u0253a. Daha nda gwabay a jajahw uway, a \u014bg\u0259 we\u0257cew, e c\u0259hek slesle\u0253 jaka pa h\u0259ta\u014b daha aabay jaka p\u0259 ma. Daha ndana a s\u0259\u0257ak slesle\u0253 ana kad hwa\u0257, a zlafa ma\u014bgat kawrawnavirus ana cay. Daha ndana e jej\u0259hwek jene masa mehecey ana f\u0259tiya \u0253a cay jaka pe slesle\u0253 ana hay va daha a \u0253\u0259la ndey hay, h\u0259ta\u014b daha aabay \u0257af ta ma s\u0259, a zlafa maz\u0259vafa mehecey ana cay.",
+    "fr": "Le COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.",
+    "en": "COVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+    "z": ""
+  },
+  "101": {
+    "cuv": "Kawvid-19 e z\u0259vek s\u0259, jaka pa ndah masa ac ava mazar\u0257ay ana \u0253a. Daha nda gwabay a jajahw uway, a \u014bg\u0259 we\u0257cew, e c\u0259hek slesle\u0253 jaka pa h\u0259ta\u014b daha aabay jaka p\u0259 ma. Daha ndana a s\u0259\u0257ak slesle\u0253 ana kad hwa\u0257, a zlafa ma\u014bgat kawrawnavirus ana cay. Daha ndana e jej\u0259hwek jene masa mehecey ana f\u0259tiya \u0253a cay jaka pe slesle\u0253 ana hay va daha a \u0253\u0259la ndey hay, h\u0259ta\u014b daha aabay \u0257af ta ma s\u0259, a zlafa maz\u0259vafa mehecey ana cay.",
+    "fr": "Le COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.",
+    "en": "COVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+    "z": ""
+  },
+  "102": {
+    "cuv": "Kawvid-19 e z\u0259vek s\u0259, jaka pa ndah masa ac ava mazar\u0257ay ana \u0253a. Daha nda gwabay a jajahw uway, a \u014bg\u0259 we\u0257cew, e c\u0259hek slesle\u0253 jaka pa h\u0259ta\u014b daha aabay jaka p\u0259 ma. Daha ndana a s\u0259\u0257ak slesle\u0253 ana kad hwa\u0257, a zlafa ma\u014bgat kawrawnavirus ana cay. Daha ndana e jej\u0259hwek jene masa mehecey ana f\u0259tiya \u0253a cay jaka pe slesle\u0253 ana hay va daha a \u0253\u0259la ndey hay, h\u0259ta\u014b daha aabay \u0257af ta ma s\u0259, a zlafa maz\u0259vafa mehecey ana cay.",
+    "fr": "Le COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.",
+    "en": "COVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+    "z": ""
+  },
+  "103": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "104": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "105": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "106": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "107": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "108": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "109": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "110": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "111": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "112": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "113": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "114": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "115": {
+    "cuv": "Anda da lalkakwa vaw tandakwa s\u0259, memey?",
+    "fr": "Comment se prot\u00e9ger ?",
+    "en": "How to protect yourself"
+  },
+  "116": {
+    "cuv": "Anda da lalkakwa vaw tandakwa s\u0259, memey?",
+    "fr": "Comment se prot\u00e9ger ?",
+    "en": "How to protect yourself"
+  },
+  "117": {
+    "cuv": "Anda da lalkakwa vaw tandakwa s\u0259, memey?",
+    "fr": "Comment se prot\u00e9ger ?",
+    "en": "How to protect yourself"
+  },
+  "118": {
+    "cuv": "1. Ma\u014bg\u0259lana vaw ta ma\u0253\u0259la ndey, h\u0259ta\u014b, \u0257af ta ma.",
+    "fr": "1. Eviter de se toucher les yeux, le nez, la bouche.",
+    "en": "1. Avoid touching eyes, nose, mouth.",
+    "z": ""
+  },
+  "119": {
+    "cuv": "1. Ma\u014bg\u0259lana vaw ta ma\u0253\u0259la ndey, h\u0259ta\u014b, \u0257af ta ma.",
+    "fr": "1. Eviter de se toucher les yeux, le nez, la bouche.",
+    "en": "1. Avoid touching eyes, nose, mouth.",
+    "z": ""
+  },
+  "120": {
+    "cuv": "1. Ma\u014bg\u0259lana vaw ta ma\u0253\u0259la ndey, h\u0259ta\u014b, \u0257af ta ma.",
+    "fr": "1. Eviter de se toucher les yeux, le nez, la bouche.",
+    "en": "1. Avoid touching eyes, nose, mouth.",
+    "z": ""
+  },
+  "121": {
+    "cuv": "1. Ma\u014bg\u0259lana vaw ta ma\u0253\u0259la ndey, h\u0259ta\u014b, \u0257af ta ma.",
+    "fr": "1. Eviter de se toucher les yeux, le nez, la bouche.",
+    "en": "1. Avoid touching eyes, nose, mouth.",
+    "z": ""
+  },
+  "122": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "123": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "124": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "125": {
+    "cuv": "2. Mapana ha c\u0259\u0257em c\u0259\u0257em ava yam mamb\u0259la ana va sava\u014bw. Ava d\u0259\u0253a ana, mat\u0259kwa\u0257a ava r\u0259kwat mamb\u0259la ana.",
+    "fr": "2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.",
+    "en": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel."
+  },
+  "126": {
+    "cuv": "2. Mapana ha c\u0259\u0257em c\u0259\u0257em ava yam mamb\u0259la ana va sava\u014bw. Ava d\u0259\u0253a ana, mat\u0259kwa\u0257a ava r\u0259kwat mamb\u0259la ana.",
+    "fr": "2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.",
+    "en": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel."
+  },
+  "127": {
+    "cuv": "2. Mapana ha c\u0259\u0257em c\u0259\u0257em ava yam mamb\u0259la ana va sava\u014bw. Ava d\u0259\u0253a ana, mat\u0259kwa\u0257a ava r\u0259kwat mamb\u0259la ana.",
+    "fr": "2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.",
+    "en": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel."
+  },
+  "128": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "129": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "130": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "131": {
+    "cuv": "3. Majajahw uway va me\u014bg\u0259 we\u0257cew a hwa\u0257 ta maandalakw ta ha.",
+    "fr": "3. Tousser et \u00e9ternuer dans le creux de son bras.",
+    "en": ""
+  },
+  "132": {
+    "cuv": "3. Majajahw uway va me\u014bg\u0259 we\u0257cew a hwa\u0257 ta maandalakw ta ha.",
+    "fr": "3. Tousser et \u00e9ternuer dans le creux de son bras.",
+    "en": ""
+  },
+  "133": {
+    "cuv": "3. Majajahw uway va me\u014bg\u0259 we\u0257cew a hwa\u0257 ta maandalakw ta ha.",
+    "fr": "3. Tousser et \u00e9ternuer dans le creux de son bras.",
+    "en": ""
+  },
+  "134": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "135": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "136": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "137": {
+    "cuv": "4. Ma\u014bg\u0259lana vaw mand\u0259 slaw dende\u0253ek va mapafa ha g\u0259naw hay masa ec eve ndey.",
+    "fr": "4. Eviter de manger de la viande crue et de toucher des animaux vivants.",
+    "en": "4. Avoid eating raw meat and touching live animals."
+  },
+  "138": {
+    "cuv": "4. Ma\u014bg\u0259lana vaw mand\u0259 slaw dende\u0253ek va mapafa ha g\u0259naw hay masa ec eve ndey.",
+    "fr": "4. Eviter de manger de la viande crue et de toucher des animaux vivants.",
+    "en": "4. Avoid eating raw meat and touching live animals."
+  },
+  "139": {
+    "cuv": "4. Ma\u014bg\u0259lana vaw mand\u0259 slaw dende\u0253ek va mapafa ha g\u0259naw hay masa ec eve ndey.",
+    "fr": "4. Eviter de manger de la viande crue et de toucher des animaux vivants.",
+    "en": "4. Avoid eating raw meat and touching live animals."
+  },
+  "140": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "141": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "142": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "143": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "144": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "145": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "146": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "147": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "148": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "149": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "150": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "151": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "152": {
+    "cuv": "",
+    "fr": "5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.",
+    "en": "",
+    "z": ""
+  },
+  "153": {
+    "cuv": "",
+    "fr": "5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.",
+    "en": "",
+    "z": ""
+  },
+  "154": {
+    "cuv": "",
+    "fr": "5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.",
+    "en": "",
+    "z": ""
+  },
+  "155": {
+    "cuv": "",
+    "fr": "5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.",
+    "en": "",
+    "z": ""
+  },
+  "156": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "157": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "158": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "159": {
+    "cuv": "6. Mag\u0259rda megwe\u0257 fa vaw ava macam ha. A lada megwe\u0257 fa vaw s\u0259, ava mad\u0259razl ya\u014b daha aabay ava ma war.",
+    "fr": "6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.",
+    "en": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting."
+  },
+  "160": {
+    "cuv": "6. Mag\u0259rda megwe\u0257 fa vaw ava macam ha. A lada megwe\u0257 fa vaw s\u0259, ava mad\u0259razl ya\u014b daha aabay ava ma war.",
+    "fr": "6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.",
+    "en": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting."
+  },
+  "161": {
+    "cuv": "6. Mag\u0259rda megwe\u0257 fa vaw ava macam ha. A lada megwe\u0257 fa vaw s\u0259, ava mad\u0259razl ya\u014b daha aabay ava ma war.",
+    "fr": "6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.",
+    "en": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting."
+  },
+  "162": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "163": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "164": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "165": {
+    "cuv": "7. Mag\u0259rda makwas vaw hay.",
+    "fr": "7. Eviter les rassemblements.",
+    "en": ""
+  },
+  "166": {
+    "cuv": "7. Mag\u0259rda makwas vaw hay.",
+    "fr": "7. Eviter les rassemblements.",
+    "en": ""
+  },
+  "167": {
+    "cuv": "7. Mag\u0259rda makwas vaw hay.",
+    "fr": "7. Eviter les rassemblements.",
+    "en": ""
+  },
+  "168": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "169": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "170": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "171": {
+    "cuv": "8. Mag\u0259rda ma\u014bgway hay masa taamb\u0259la.",
+    "fr": "8. Limiter ses d\u00e9placements.",
+    "en": "8. Restrict movement."
+  },
+  "172": {
+    "cuv": "8. Mag\u0259rda ma\u014bgway hay masa taamb\u0259la.",
+    "fr": "8. Limiter ses d\u00e9placements.",
+    "en": "8. Restrict movement."
+  },
+  "173": {
+    "cuv": "8. Mag\u0259rda ma\u014bgway hay masa taamb\u0259la.",
+    "fr": "8. Limiter ses d\u00e9placements.",
+    "en": "8. Restrict movement."
+  },
+  "174": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "175": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "176": {
+    "cuv": "",
+    "fr": "",
+    "en": ""
+  },
+  "177": {
+    "cuv": "9. Manjah dapa macak zl\u0259may va mac\u0259na slaslalay ta ma hay masa ndana hay ta gwa\u0257iya.",
+    "fr": "9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.",
+    "en": "9. Keep informed and verify the source of information."
+  },
+  "178": {
+    "cuv": "9. Manjah dapa macak zl\u0259may va mac\u0259na slaslalay ta ma hay masa ndana hay ta gwa\u0257iya.",
+    "fr": "9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.",
+    "en": "9. Keep informed and verify the source of information."
+  },
+  "179": {
+    "cuv": "9. Manjah dapa macak zl\u0259may va mac\u0259na slaslalay ta ma hay masa ndana hay ta gwa\u0257iya.",
+    "fr": "9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.",
+    "en": "9. Keep informed and verify the source of information."
+  },
+  "180": {
+    "en": "- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+    "cuv": "- Mazal numerew nesey 1510 va macak zl\u0259may fa ma hay masa da\u0253\u0259tar ta gwa\u0257akwar. Numerew hay mekele kana \u0253a saya:",
+    "fr": "- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :",
+    "z": ""
+  },
+  "181": {
+    "en": "- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+    "cuv": "- Mazal numerew nesey 1510 va macak zl\u0259may fa ma hay masa da\u0253\u0259tar ta gwa\u0257akwar. Numerew hay mekele kana \u0253a saya:",
+    "fr": "- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :",
+    "z": ""
+  },
+  "182": {
+    "en": "- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+    "cuv": "- Mazal numerew nesey 1510 va macak zl\u0259may fa ma hay masa da\u0253\u0259tar ta gwa\u0257akwar. Numerew hay mekele kana \u0253a saya:",
+    "fr": "- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :",
+    "z": ""
+  },
+  "183": {
+    "en": "- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+    "cuv": "- Mazal numerew nesey 1510 va macak zl\u0259may fa ma hay masa da\u0253\u0259tar ta gwa\u0257akwar. Numerew hay mekele kana \u0253a saya:",
+    "fr": "- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :",
+    "z": ""
+  },
+  "184": {
+    "en": "",
+    "cuv": "",
+    "fr": ""
+  },
+  "185": {
+    "en": "",
+    "cuv": "",
+    "fr": ""
+  },
+  "186": {
+    "en": "",
+    "cuv": "",
+    "fr": ""
+  },
+  "187": {
+    "en": "670 713\u00a0979",
+    "cuv": "670 713\u00a0979",
+    "fr": "670 713 979"
+  },
+  "188": {
+    "en": "670 713\u00a0979",
+    "cuv": "670 713\u00a0979",
+    "fr": "670 713 979"
+  },
+  "189": {
+    "en": "670 713\u00a0979",
+    "cuv": "670 713\u00a0979",
+    "fr": "670 713 979"
+  },
+  "190": {
+    "en": "",
+    "cuv": "",
+    "fr": ""
+  },
+  "191": {
+    "en": "",
+    "cuv": "",
+    "fr": ""
+  },
+  "192": {
+    "en": "",
+    "cuv": "",
+    "fr": ""
+  },
+  "193": {
+    "en": "670 113\u00a0761",
+    "cuv": "670 113\u00a0761",
+    "fr": "670 113 761"
+  },
+  "194": {
+    "en": "670 113\u00a0761",
+    "cuv": "670 113\u00a0761",
+    "fr": "670 113 761"
+  },
+  "195": {
+    "en": "670 113\u00a0761",
+    "cuv": "670 113\u00a0761",
+    "fr": "670 113 761"
+  },
+  "196": {
+    "en": "",
+    "cuv": "",
+    "fr": ""
+  },
+  "197": {
+    "en": "",
+    "cuv": "",
+    "fr": ""
+  },
+  "198": {
+    "en": "",
+    "cuv": "",
+    "fr": ""
+  },
+  "199": {
+    "en": "Everyone must be responsible and take the right steps to protect themselves and those around them.",
+    "cuv": "Ta p\u0259sna nesey s\u0259, menjev masa ta mamb\u0259l mehecey ta KAWVID-19 s\u0259, aabay heley amaa ndah ta gwam\u0259na hay aca yah wewer hay mekele mekele ta mamb\u0259l ndana hay ava a\u014bga.Kwa waawa da njah bay ta ya\u014b tata va mayah wewer hay mamb\u0259la ana ta majal vaw tata va ndah da cak tata.",
+    "fr": "Chacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage."
+  },
+  "200": {
+    "en": "Everyone must be responsible and take the right steps to protect themselves and those around them.",
+    "cuv": "Ta p\u0259sna nesey s\u0259, menjev masa ta mamb\u0259l mehecey ta KAWVID-19 s\u0259, aabay heley amaa ndah ta gwam\u0259na hay aca yah wewer hay mekele mekele ta mamb\u0259l ndana hay ava a\u014bga.Kwa waawa da njah bay ta ya\u014b tata va mayah wewer hay mamb\u0259la ana ta majal vaw tata va ndah da cak tata.",
+    "fr": "Chacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage."
+  },
+  "201": {
+    "en": "Everyone must be responsible and take the right steps to protect themselves and those around them.",
+    "cuv": "Ta p\u0259sna nesey s\u0259, menjev masa ta mamb\u0259l mehecey ta KAWVID-19 s\u0259, aabay heley amaa ndah ta gwam\u0259na hay aca yah wewer hay mekele mekele ta mamb\u0259l ndana hay ava a\u014bga.Kwa waawa da njah bay ta ya\u014b tata va mayah wewer hay mamb\u0259la ana ta majal vaw tata va ndah da cak tata.",
+    "fr": "Chacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage."
+  },
+  "202": {
+    "en": "Vulnerable: defenseless, exposed",
+    "cuv": "Memb\u0259ley: mambas mehecey, menjev hay.\u00a0",
+    "fr": "Vuln\u00e9rable : faible, \u00e0 risque",
+    "z": ""
+  },
+  "203": {
+    "en": "Vulnerable: defenseless, exposed",
+    "cuv": "Memb\u0259ley: mambas mehecey, menjev hay.\u00a0",
+    "fr": "Vuln\u00e9rable : faible, \u00e0 risque",
+    "z": ""
+  },
+  "204": {
+    "en": "Vulnerable: defenseless, exposed",
+    "cuv": "Memb\u0259ley: mambas mehecey, menjev hay.\u00a0",
+    "fr": "Vuln\u00e9rable : faible, \u00e0 risque",
+    "z": ""
+  },
+  "205": {
+    "en": "Vulnerable: defenseless, exposed",
+    "cuv": "Memb\u0259ley: mambas mehecey, menjev hay.\u00a0",
+    "fr": "Vuln\u00e9rable : faible, \u00e0 risque",
+    "z": ""
+  },
+  "209": {
+    "fr": "\u00a9 CABTAL, 2020"
+  }
+}

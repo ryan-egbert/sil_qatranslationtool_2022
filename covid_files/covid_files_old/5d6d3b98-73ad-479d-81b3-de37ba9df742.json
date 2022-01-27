@@ -1,0 +1,364 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "5d6d3b98-73ad-479d-81b3-de37ba9df742",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Passalenna Riaseng Lasa Corona",
+  "allTitles": "{\"bug\":\"Passalenna Riaseng Lasa Corona\",\"en\":\"About Coronavirus\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+  "downloadSource": "media@suluh.org/5d6d3b98-73ad-479d-81b3-de37ba9df742",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+  "copyright": "Copyright \u00a9 2020, Weiman Kow",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "CAB1bB0OsH"
+    }
+  ],
+  "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Indonesia",
+  "province": "Sulawesi Selatan",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "c1ceNFU299"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "lts": "Lutachoni",
+    "id": "Indonesian",
+    "bug": "Bugis"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "3": {
+    "bug": "Passalenna Riaseng Lasa Corona",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "bug": "Passalenna Riaseng Lasa Corona",
+    "en": "About Coronavirus"
+  },
+  "5": {
+    "bug": "Passalenna Riaseng Lasa Corona",
+    "en": "About Coronavirus"
+  },
+  "12": {
+    "bug": ""
+  },
+  "13": {
+    "bug": ""
+  },
+  "14": {
+    "bug": "Mallebang"
+  },
+  "15": {
+    "bug": "Timue"
+  },
+  "16": {
+    "bug": "Inge\u201de"
+  },
+  "17": {
+    "bug": "Matae"
+  },
+  "18": {
+    "bug": "Muttama rilaleng"
+  },
+  "19": {
+    "bug": "Tau malessie"
+  },
+  "20": {
+    "bug": ""
+  },
+  "21": {
+    "bug": "Iyyae lasae mallembangi narekko pole ko wae miccue"
+  },
+  "22": {
+    "bug": "Massalla\u201dki mabela, naweddikki amang pole ri miccue nasaba massalla\u2019 kira-kira 2 metere."
+  },
+  "23": {
+    "bug": "1"
+  },
+  "24": {
+    "bug": "2m-0,5m"
+  },
+  "25": {
+    "bug": "Haaachii!!"
+  },
+  "26": {
+    "bug": "Jaji,nar-kira 2 metekko mitaki tau more/barassing/malasae,tappa:"
+  },
+  "27": {
+    "bug": "Talangi mattutu timu(maskere). Jaji amangi rupataue ye engkae riceddena narekko barassingngi."
+  },
+  "28": {
+    "bug": "2"
+  },
+  "29": {
+    "bug": "Terima kasih *SROOT*"
+  },
+  "30": {
+    "bug": "ATO"
+  },
+  "31": {
+    "bug": "Nulle kapang iyyae taue de namalasa, narawa\u2019mi alena."
+  },
+  "32": {
+    "bug": "Tau nakennae iyyae lasae wedding jaji degaga tanra-tanranna malasa,naekiya weddingi napaleccei tau lainge."
+  },
+  "33": {
+    "bug": "Gellona, tasalai onrong maruae, nasaba denariisseng niga tau nakenna iyye lasae."
+  },
+  "34": {
+    "bug": "Pennewe atau sinrue"
+  },
+  "35": {
+    "bug": "Tau malessie"
+  },
+  "36": {
+    "bug": "Akkatenningeng karetae"
+  },
+  "37": {
+    "bug": ""
+  },
+  "38": {
+    "bug": ""
+  },
+  "39": {
+    "bug": "Inungenge"
+  },
+  "40": {
+    "bug": "Taliponge"
+  },
+  "41": {
+    "bug": "Makkotoparo risaliwenna pattutu timue"
+  },
+  "42": {
+    "bug": "Akkatanningeng addengnge"
+  },
+  "43": {
+    "bug": "Mouse"
+  },
+  "44": {
+    "bug": "Palopeng"
+  },
+  "45": {
+    "bug": "Ritange\u2019e"
+  },
+  "46": {
+    "bug": "Pada jarinna"
+  },
+  "47": {
+    "bug": "Narimakkuannaro,engka seuwwa wettu wae miccunna tau malasae wedding majjeppe ri..."
+  },
+  "48": {
+    "bug": "Wedding manekki nassabari malasa"
+  },
+  "49": {
+    "bug": "Atao mugeru rupanna sideppemu"
+  },
+  "50": {
+    "bug": "Masalussu matammu"
+  },
+  "51": {
+    "bug": "Narekko de diattungkai makkatenning seuwwa-seuwwae,nappa musapu rupammu,"
+  },
+  "52": {
+    "bug": "Ceddimi carana narekko melokki mabela pole iyae lasae iyanaritu matinuluki bissai jaritta nasibawai risabungi iyarega risapui alkohol atau ala\u2019 pappepaccing lainge."
+  },
+  "53": {
+    "bug": "Iyyae lasae wedding maddenreng diseddie weuwwa-seuwwa selama 24 jang ittana."
+  },
+  "54": {
+    "bug": "Sabung"
+  },
+  "55": {
+    "bug": "pangkaukeng weddinge pabelaiki pada-padanna:"
+  },
+  "56": {
+    "bug": ""
+  },
+  "57": {
+    "bug": "Tabissai jaritta lattu koe"
+  },
+  "58": {
+    "bug": "Sabung"
+  },
+  "59": {
+    "bug": "Sikku"
+  },
+  "60": {
+    "bug": "Aja tagerui rupatta( atau rupanna tau lainge)"
+  },
+  "61": {
+    "bug": "Ebarakenna tomakkelong kelong \u201cselama ulang tahung\u201d wekkadua makkuling"
+  },
+  "62": {
+    "bug": ""
+  },
+  "63": {
+    "bug": ""
+  },
+  "64": {
+    "bug": ""
+  },
+  "65": {
+    "bug": "Tabissai tompo jaritta"
+  },
+  "66": {
+    "bug": "Pekkogi carana ribissai jaritta nawedding mapaccing?"
+  },
+  "67": {
+    "bug": "Narekko tappa rigerui, ajamua to maseleng, magattiki bissai jaritta."
+  },
+  "68": {
+    "bug": "Aja tagerui pattutu timutta pole saliweng."
+  },
+  "69": {
+    "bug": "Itti miccu"
+  },
+  "70": {
+    "bug": ""
+  },
+  "71": {
+    "bug": "Tabuangi pattutu timutta narekko majemmenni,aja tapake pattutu timutta makkuling."
+  },
+  "72": {
+    "bug": "Tapakeki sinru ukkaju"
+  },
+  "73": {
+    "bug": "Ana\u2019"
+  },
+  "74": {
+    "bug": "Ambo\u2019"
+  },
+  "75": {
+    "bug": "Indo\u2019"
+  },
+  "76": {
+    "bug": "Pakeki handuta toha"
+  },
+  "77": {
+    "bug": "Anu dianre,penne,canteng-canteng,nenni handu."
+  },
+  "78": {
+    "bug": "Demullei gerui rupammu nasaba sikkumu, cobani dolo."
+  },
+  "79": {
+    "bug": "Tabiasangi, ribukka ato ritutui tange\u2019e nasaba sikku."
+  },
+  "80": {
+    "bug": "Bola"
+  },
+  "81": {
+    "bug": "Riwettu masuu risaliweng bola"
+  },
+  "82": {
+    "bug": "Riolo temanreta"
+  },
+  "83": {
+    "bug": "Tapubiasai paccingi jaritta nasibawai sabung"
+  },
+  "84": {
+    "bug": "Ponco\u2019na ada"
+  },
+  "85": {
+    "bug": "Sabung"
+  },
+  "86": {
+    "bug": "Tajagai aleta!"
+  },
+  "87": {
+    "bug": "Tajagai aleta!"
+  },
+  "88": {
+    "bug": "Sabung"
+  },
+  "89": {
+    "bug": "Baca tips-tips lainnya pada artikel-artikel di atas!"
+  },
+  "90": {
+    "bug": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "91": {
+    "bug": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+  },
+  "92": {
+    "bug": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+  },
+  "93": {
+    "bug": "Referensi utama untuk informasi medis:"
+  },
+  "94": {
+    "bug": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+  },
+  "98": {
+    "bug": "Passalenna Riaseng Lasa Corona",
+    "en": "About Coronavirus"
+  },
+  "99": {
+    "bug": "Passalenna Riaseng Lasa Corona",
+    "en": "About Coronavirus"
+  },
+  "100": {
+    "bug": "Passalenna Riaseng Lasa Corona",
+    "en": "About Coronavirus"
+  },
+  "106": {
+    "en": "Diterjemahkan dalam Bahasa Bugis oleh Samsir"
+  },
+  "108": {
+    "en": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam bahasa daerah : www.suluh.org"
+  },
+  "111": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

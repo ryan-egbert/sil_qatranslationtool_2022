@@ -1,0 +1,366 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"id\":\"Tentang Virus Corona\",\"jax\":\"Tentang Virus Korona\",\"lts\":\"Olumbe lwa Korona\"}",
+    "author": null,
+    "bookInstanceId": "560b4658-5475-44dd-abeb-d0ac8fc5aba3",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "Tentang Virus Corona",
+            "jax": "Tentang Virus Korona",
+            "lts": "Olumbe lwa Korona",
+            "und": ""
+        },
+        "1": {
+            "eng": "",
+            "jax": ""
+        },
+        "2": {
+            "eng": "",
+            "jax": ""
+        },
+        "3": {
+            "jax": ""
+        },
+        "4": {
+            "jax": "Ado satu hal yang harus kau tau tentang caro virus Corona tu\n"
+        },
+        "5": {
+            "jax": "NYEBAR"
+        },
+        "6": {
+            "jax": "Mulut\n"
+        },
+        "7": {
+            "jax": "Idung"
+        },
+        "8": {
+            "jax": "Mato"
+        },
+        "9": {
+            "jax": "Masuk ke\n"
+        },
+        "10": {
+            "jax": "Orang sehat\n"
+        },
+        "11": {
+            "jax": "Orang sakit\n"
+        },
+        "12": {
+            "jax": "Virus tu nyebar kalau tetesan aek ludah ni\n"
+        },
+        "13": {
+            "jax": "Jago jarak.\nKau jadi aman dari tetesan aek ludah kalau kau jago jarak duo meter."
+        },
+        "14": {
+            "jax": "1"
+        },
+        "15": {
+            "jax": "2m-0,5m"
+        },
+        "16": {
+            "jax": "Hatcyuu!!!"
+        },
+        "17": {
+            "jax": "Jadi, kalau kau nengok orang batuk/bersin/sakit, kau biso:\n"
+        },
+        "18": {
+            "jax": "Kasi orang-orang tu masker.\nJadi orang-orang tu biso bersin/batuk di dalam maskernyo. Jadi, orang-orang di sekitarnyo aman.\n"
+        },
+        "19": {
+            "jax": "2"
+        },
+        "20": {
+            "jax": "Terimo kasih *hek*\n"
+        },
+        "21": {
+            "jax": "ATAU"
+        },
+        "22": {
+            "jax": "Biso jadi orang ni dak sakit. Dio cuma jago\u00a0dirinyo.\n"
+        },
+        "23": {
+            "jax": "Orang yang la tetular biso jadi dak nampak gejalonyo, tapi dio tetap biso nularin penyakitnyo.\n"
+        },
+        "24": {
+            "jax": "Secaro garis besak, lebih baek hindari rame-rame karno kau dak tau siapo be yang lagi sakit.\n"
+        },
+        "25": {
+            "jax": "Alat makan\n"
+        },
+        "26": {
+            "jax": "Orang sehat\n"
+        },
+        "27": {
+            "jax": "Pegangnan kereto\n"
+        },
+        "28": {
+            "jax": "Tombol lift\n"
+        },
+        "29": {
+            "jax": "Tisu\n"
+        },
+        "30": {
+            "jax": "Gelas\n"
+        },
+        "31": {
+            "jax": "Perangkat digital\n"
+        },
+        "32": {
+            "jax": "Biso jugo di bagian luar masker\n"
+        },
+        "33": {
+            "jax": "Pegangan tango\n"
+        },
+        "34": {
+            "jax": "Mos komputer\n"
+        },
+        "35": {
+            "jax": "pena\n"
+        },
+        "36": {
+            "jax": "Pegangan pintu\n"
+        },
+        "37": {
+            "jax": "tangannyo\n"
+        },
+        "38": {
+            "jax": "Tapi, kadang-kadang aek ludah orang sakit biso be nempel di..."
+        },
+        "39": {
+            "jax": "kau biso jadi sakit galo.\n"
+        },
+        "40": {
+            "jax": "apo muko orang-orang yang kau sayang\n"
+        },
+        "41": {
+            "jax": "Kocek-kocek mato\n"
+        },
+        "42": {
+            "jax": "Kalau kau dak sengajo nyentuh bendo-bendo tu, terus kau megang muko kau dewek,\n"
+        },
+        "43": {
+            "jax": "Satu-satunyo caro yang manjur untuk nyingkiri virus tu yo nyuci pake sabun, pemutih, apo alkohol.\n"
+        },
+        "44": {
+            "jax": "Virus biso bertahan sampe duo puluh empat jam di atas satu bendo.\n"
+        },
+        "45": {
+            "jax": "Sabun"
+        },
+        "46": {
+            "jax": "caro-caro pencegahannyo ni."
+        },
+        "47": {
+            "jax": "Karno tu, sebaeknyo kito ngikuti\n"
+        },
+        "48": {
+            "jax": "Cuci pake sabun sampe sini."
+        },
+        "49": {
+            "jax": "Sabun\n"
+        },
+        "50": {
+            "jax": "Sikut tangan\n"
+        },
+        "51": {
+            "jax": "Jangan nyentuh muko kau (atau muko siapo be).\nBilo perlu, cuci dulu tangan kau pake sabun."
+        },
+        "52": {
+            "jax": "Kayak sambil nyanyi lagu \u201cHappy Birthday\u201d duo kali.\n"
+        },
+        "53": {
+            "jax": "Di bawah kuku\n"
+        },
+        "54": {
+            "jax": "Selamo duo puluh detik\n"
+        },
+        "55": {
+            "jax": "antaro jari\n"
+        },
+        "56": {
+            "jax": "Cuci punggung tangan\n"
+        },
+        "57": {
+            "jax": "Macam mano caro nyuci tangan sampe bersih?\n"
+        },
+        "58": {
+            "jax": "Kalau dak sengajo nyentuh, langsung cuci tangan sampe bersih.\n"
+        },
+        "59": {
+            "jax": "Jangan sentuh bagian luar masker.\n"
+        },
+        "60": {
+            "jax": "Tetesan aek ludah\n"
+        },
+        "61": {
+            "jax": "Bakteri biso beranak di bagian dalam masker kalau dipake kelewat lamo.\n"
+        },
+        "62": {
+            "jax": "Langsung buang masker kalau la kotor dan jangan pake masker yang samo lebih dari satu ari.\n"
+        },
+        "63": {
+            "jax": "Pake sendok sayur\n"
+        },
+        "64": {
+            "jax": "Anak\n"
+        },
+        "65": {
+            "jax": "Bapak\n"
+        },
+        "66": {
+            "jax": "Mak\n"
+        },
+        "67": {
+            "jax": "Pake handuk dewek-dewek.\n"
+        },
+        "68": {
+            "jax": "Jangan kongsian makanan, jangan pake alat, gelas apo handuk yang samo.\n"
+        },
+        "69": {
+            "jax": "Cubolah\u2026 kau dak biso nyentuh muko kau pake siku dewek kan?\n"
+        },
+        "70": {
+            "jax": "Kalau biso, buka apo tutup pintu pake sikut apo bahu.\n"
+        },
+        "71": {
+            "jax": "Rumah"
+        },
+        "72": {
+            "jax": "Abis dari tempat umum\n"
+        },
+        "73": {
+            "jax": "Sebelum makan\n"
+        },
+        "74": {
+            "jax": "Pake sabun tiap kali cuci tangan...\n"
+        },
+        "75": {
+            "jax": "Terakhir\n"
+        },
+        "76": {
+            "jax": "Sabun"
+        },
+        "77": {
+            "jax": "Jagolah kesehatan!\n"
+        },
+        "78": {
+            "jax": "Jagolah kesehatan!\n"
+        },
+        "79": {
+            "jax": "Sabun"
+        },
+        "80": {
+            "jax": "Baco caro-caro laen di atas ini!\n"
+        },
+        "81": {
+            "jax": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "jax": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+        },
+        "83": {
+            "jax": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "jax": "Acuan utamo untuk informasi kesehatan:\n"
+        },
+        "85": {
+            "jax": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "Tentang Virus Corona",
+            "jax": "Tentang Virus Korona",
+            "lts": "Olumbe lwa Korona",
+            "und": ""
+        },
+        "87": {
+            "eng": "",
+            "jax": ""
+        },
+        "88": {
+            "eng": "Diterjemahkan dalam Bahasa Indonesia oleh\nYanti dan Yulina",
+            "jax": ""
+        },
+        "89": {
+            "eng": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org",
+            "jax": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "jax": ""
+        },
+        "91": {
+            "eng": "",
+            "jax": ""
+        },
+        "92": {
+            "eng": "",
+            "jax": ""
+        },
+        "93": {
+            "eng": "",
+            "jax": ""
+        },
+        "94": {
+            "eng": "",
+            "jax": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nDiterjemahkan dalam Bahasa Indonesia oleh\nYanti dan Yulina\nVersi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "ind": "Tentang Virus Corona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTentang Virus Corona\n\n\n\n\n\n\n\n",
+        "jax": "Tentang Virus Korona\n\n\n\nAdo satu hal yang harus kau tau tentang caro virus Corona tu\n\nNYEBAR\nMulut\n\nIdung\nMato\nMasuk ke\n\nOrang sehat\n\nOrang sakit\n\nVirus tu nyebar kalau tetesan aek ludah ni\n\nJago jarak.\nKau jadi aman dari tetesan aek ludah kalau kau jago jarak duo meter.\n1\n2m-0,5m\nHatcyuu!!!\nJadi, kalau kau nengok orang batuk/bersin/sakit, kau biso:\n\nKasi orang-orang tu masker.\nJadi orang-orang tu biso bersin/batuk di dalam maskernyo. Jadi, orang-orang di sekitarnyo aman.\n\n2\nTerimo kasih *hek*\n\nATAU\nBiso jadi orang ni dak sakit. Dio cuma jago\u00a0dirinyo.\n\nOrang yang la tetular biso jadi dak nampak gejalonyo, tapi dio tetap biso nularin penyakitnyo.\n\nSecaro garis besak, lebih baek hindari rame-rame karno kau dak tau siapo be yang lagi sakit.\n\nAlat makan\n\nOrang sehat\n\nPegangnan kereto\n\nTombol lift\n\nTisu\n\nGelas\n\nPerangkat digital\n\nBiso jugo di bagian luar masker\n\nPegangan tango\n\nMos komputer\n\npena\n\nPegangan pintu\n\ntangannyo\n\nTapi, kadang-kadang aek ludah orang sakit biso be nempel di...\nkau biso jadi sakit galo.\n\napo muko orang-orang yang kau sayang\n\nKocek-kocek mato\n\nKalau kau dak sengajo nyentuh bendo-bendo tu, terus kau megang muko kau dewek,\n\nSatu-satunyo caro yang manjur untuk nyingkiri virus tu yo nyuci pake sabun, pemutih, apo alkohol.\n\nVirus biso bertahan sampe duo puluh empat jam di atas satu bendo.\n\nSabun\ncaro-caro pencegahannyo ni.\nKarno tu, sebaeknyo kito ngikuti\n\nCuci pake sabun sampe sini.\nSabun\n\nSikut tangan\n\nJangan nyentuh muko kau (atau muko siapo be).\nBilo perlu, cuci dulu tangan kau pake sabun.\nKayak sambil nyanyi lagu \u201cHappy Birthday\u201d duo kali.\n\nDi bawah kuku\n\nSelamo duo puluh detik\n\nantaro jari\n\nCuci punggung tangan\n\nMacam mano caro nyuci tangan sampe bersih?\n\nKalau dak sengajo nyentuh, langsung cuci tangan sampe bersih.\n\nJangan sentuh bagian luar masker.\n\nTetesan aek ludah\n\nBakteri biso beranak di bagian dalam masker kalau dipake kelewat lamo.\n\nLangsung buang masker kalau la kotor dan jangan pake masker yang samo lebih dari satu ari.\n\nPake sendok sayur\n\nAnak\n\nBapak\n\nMak\n\nPake handuk dewek-dewek.\n\nJangan kongsian makanan, jangan pake alat, gelas apo handuk yang samo.\n\nCubolah\u2026 kau dak biso nyentuh muko kau pake siku dewek kan?\n\nKalau biso, buka apo tutup pintu pake sikut apo bahu.\n\nRumah\nAbis dari tempat umum\n\nSebelum makan\n\nPake sabun tiap kali cuci tangan...\n\nTerakhir\n\nSabun\nJagolah kesehatan!\n\nJagolah kesehatan!\n\nSabun\nBaco caro-caro laen di atas ini!\n\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)\nAcuan utamo untuk informasi kesehatan:\n\nKeterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\nTentang Virus Korona\n\n\n\n\n\n\n\n",
+        "lts": "Olumbe lwa Korona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOlumbe lwa Korona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "lts",
+        "jax",
+        "eng",
+        "ind"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "jQo7VyfJ80"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "id": "Indonesian",
+        "jax": "Melayu Jambi",
+        "lts": "Lutachoni"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "Jambi",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Tentang Virus Korona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

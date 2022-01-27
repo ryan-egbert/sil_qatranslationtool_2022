@@ -1,0 +1,153 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 1,
+  "epub_RemoveFontStyles": true,
+  "bookInstanceId": "8accbc60-8232-4cd6-8a3a-777ca7a7dbcb",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Aba, Fify et le COVID 19",
+  "allTitles": "{\"fr\":\"Aba, Fify et le COVID 19\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+  "downloadSource": "olga_nka@sil.org/8accbc60-8232-4cd6-8a3a-777ca7a7dbcb",
+  "license": "ask",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2020, Illustrations: Abby Grace\r\n",
+  "credits": "",
+  "tags": [],
+  "pageCount": 13,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "HPam93MYgO"
+    }
+  ],
+  "summary": "Un livre qui parle du COVID 19 aux enfants ",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Cameroun",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "Uc2EagHKEU"
+  },
+  "tools": [
+    {
+      "name": "imageDescription",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "imageDescriptionTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "fr": "French",
+    "en": "English"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "fr": "Aba, Fify et le COVID 19"
+  },
+  "2": {
+    "fr": "Aba, Fify et le COVID 19"
+  },
+  "12": {
+    "fr": "Aba, Fify et le COVID 19"
+  },
+  "13": {
+    "fr": "Aba, Fify et le COVID 19"
+  },
+  "16": {
+    "en": "Assistance technique: David Nka et Nelly Krist"
+  },
+  "27": {
+    "z": "",
+    "fr": ""
+  },
+  "28": {
+    "z": "",
+    "fr": ""
+  },
+  "29": {
+    "z": "",
+    "fr": "Aba et Fify se regardent, inquiets!"
+  },
+  "30": {
+    "z": "",
+    "fr": "Aba et Fify se regardent, inquiets!"
+  },
+  "31": {
+    "z": "",
+    "fr": "Papa: All\u00f4? Oui mon fr\u00e8re... Ah bon? Les enfants sont d\u00e9j\u00e0 \u00e0 la gare? Je vais les chercher."
+  },
+  "32": {
+    "z": "",
+    "fr": "Papa: All\u00f4? Oui mon fr\u00e8re... Ah bon? Les enfants sont d\u00e9j\u00e0 \u00e0 la gare? Je vais les chercher."
+  },
+  "33": {
+    "z": "",
+    "fr": ""
+  },
+  "34": {
+    "z": "",
+    "fr": ""
+  },
+  "35": {
+    "z": "",
+    "fr": ""
+  },
+  "36": {
+    "z": "",
+    "fr": ""
+  },
+  "37": {
+    "fr": ""
+  },
+  "38": {
+    "fr": ""
+  },
+  "39": {
+    "z": "",
+    "fr": ""
+  },
+  "40": {
+    "z": "",
+    "fr": ""
+  },
+  "41": {
+    "z": "",
+    "fr": ""
+  },
+  "42": {
+    "z": "",
+    "fr": ""
+  }
+}

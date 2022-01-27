@@ -1,0 +1,363 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "0ad38776-391b-48cd-adca-6f77d77a0c39",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Lukaotem COVID-19",
+  "allTitles": "{\"en\":\"Avoid COVID-19 (Africa) Poster\",\"lgr\":\"Lukaotem COVID-19\"}",
+  "originalTitle": "Avoid COVID-19 (Africa) Poster",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "17848ae4-d76f-4566-9275-b01a0fb16cf4,3d60fcec-f533-4e3b-972e-7110d0b885f5,86057422-bef9-42b2-b3e9-276c4623b559",
+  "downloadSource": "paul-cathy_unger@sil.org/0ad38776-391b-48cd-adca-6f77d77a0c39",
+  "license": "cc-by-nc",
+  "formatVersion": "2.1",
+  "licenseNotes": "",
+  "copyright": "Copyright \u00a9 2022, Solomon Islands Translation Advisory Group (SITAG)",
+  "credits": "Adapted by Paul Frank from original, Copyright \u00a9 2020, Illustrations by Elaine Vitikainen https://ev-visuals.com/",
+  "tags": [],
+  "pageCount": 9,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "bGsITlGldR"
+    }
+  ],
+  "summary": "This is an A3 poster of Elaine Vitikainen's Avoid COVID-19 book (version 2)",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "country": "Solomon Islands",
+  "province": "Guadalcanal",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "KcLcNq3CbA"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": "",
+  "originalPublisher": "",
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "an": "Aragon\u00e9s",
+    "lgr": "Doku"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "2": {
+    "lgr": "Lukaotem COVID-19",
+    "en": "Avoid COVID-19 (Africa) Poster"
+  },
+  "3": {
+    "lgr": "Lukaotem COVID-19",
+    "en": "Avoid COVID-19 (Africa) Poster"
+  },
+  "14": {
+    "lgr": "Lukaotem COVID-19",
+    "en": "Avoid COVID-19 (Africa) Poster"
+  },
+  "15": {
+    "lgr": "Lukaotem COVID-19",
+    "en": "Avoid COVID-19 (Africa) Poster"
+  },
+  "18": {
+    "en": "Illustrations: \u00a0Ari and Elaine Vitikainen Information was taken from WHO websites such as https://www.who.int/emer gencies/diseases/novel-coronavir us-2019/advice-for-public Version 27.3.2020 Literacy for Women in Africa"
+  },
+  "26": {
+    "en": "Adapted by Paul Frank from original, Copyright \u00a9 2020, Illustrations by Elaine Vitikainen https://ev-visuals.com/"
+  },
+  "29": {
+    "lgr": "",
+    "en": ""
+  },
+  "30": {
+    "lgr": "",
+    "en": ""
+  },
+  "31": {
+    "lgr": "",
+    "en": "How to Create Posters with this Template"
+  },
+  "32": {
+    "lgr": "",
+    "en": "How to Create Posters with this Template"
+  },
+  "33": {
+    "lgr": "",
+    "en": "This template is for creating posters. You add pages that contain only a picture. Then you add text boxes to the page by right-clicking on the image and choosing \"Add Text Box to Image\":",
+    "an": "",
+    "z": ""
+  },
+  "34": {
+    "lgr": "",
+    "en": "This template is for creating posters. You add pages that contain only a picture. Then you add text boxes to the page by right-clicking on the image and choosing \"Add Text Box to Image\":",
+    "an": "",
+    "z": ""
+  },
+  "35": {
+    "lgr": "",
+    "en": "This template is for creating posters. You add pages that contain only a picture. Then you add text boxes to the page by right-clicking on the image and choosing \"Add Text Box to Image\":",
+    "an": "",
+    "z": ""
+  },
+  "36": {
+    "lgr": "",
+    "en": "This template is for creating posters. You add pages that contain only a picture. Then you add text boxes to the page by right-clicking on the image and choosing \"Add Text Box to Image\":",
+    "an": "",
+    "z": ""
+  },
+  "37": {
+    "lgr": "",
+    "en": ""
+  },
+  "38": {
+    "lgr": "",
+    "en": ""
+  },
+  "39": {
+    "lgr": "",
+    "en": ""
+  },
+  "40": {
+    "lgr": "",
+    "en": ""
+  },
+  "41": {
+    "lgr": "",
+    "en": "Type words into the box. If the box is not big enough, use the mouse to change the size of the box. You can also move the box around the page with the mouse.",
+    "an": ""
+  },
+  "42": {
+    "lgr": "",
+    "en": "Type words into the box. If the box is not big enough, use the mouse to change the size of the box. You can also move the box around the page with the mouse.",
+    "an": ""
+  },
+  "43": {
+    "lgr": "",
+    "en": "Type words into the box. If the box is not big enough, use the mouse to change the size of the box. You can also move the box around the page with the mouse.",
+    "an": ""
+  },
+  "44": {
+    "lgr": "",
+    "en": ""
+  },
+  "45": {
+    "lgr": "",
+    "en": ""
+  },
+  "46": {
+    "lgr": "",
+    "en": ""
+  },
+  "47": {
+    "lgr": "",
+    "en": ""
+  },
+  "48": {
+    "lgr": "",
+    "en": ""
+  },
+  "49": {
+    "lgr": "",
+    "en": ""
+  },
+  "50": {
+    "lgr": "Wasim han blong yu plande taem long evri de. Usim plade sop an wata.",
+    "en": "Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub."
+  },
+  "51": {
+    "lgr": "Wasim han blong yu plande taem long evri de. Usim plade sop an wata.",
+    "en": "Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub."
+  },
+  "52": {
+    "lgr": "",
+    "en": ""
+  },
+  "53": {
+    "lgr": "",
+    "en": ""
+  },
+  "54": {
+    "lgr": "",
+    "en": ""
+  },
+  "55": {
+    "lgr": "",
+    "en": ""
+  },
+  "56": {
+    "lgr": "No tasim ae or nos or maos blong yu. Disfala siki hem laekim tumas ples long bodi wea hemi tuwet.",
+    "en": "Avoid touching eyes, nose and mouth."
+  },
+  "57": {
+    "lgr": "No tasim ae or nos or maos blong yu. Disfala siki hem laekim tumas ples long bodi wea hemi tuwet.",
+    "en": "Avoid touching eyes, nose and mouth."
+  },
+  "58": {
+    "lgr": "",
+    "en": ""
+  },
+  "59": {
+    "lgr": "",
+    "en": ""
+  },
+  "60": {
+    "lgr": "Lukaotem COVID-19",
+    "en": "Avoid Covid-19"
+  },
+  "61": {
+    "lgr": "Lukaotem COVID-19",
+    "en": "Avoid Covid-19"
+  },
+  "62": {
+    "lgr": "",
+    "en": ""
+  },
+  "63": {
+    "lgr": "",
+    "en": ""
+  },
+  "64": {
+    "lgr": "",
+    "en": ""
+  },
+  "65": {
+    "lgr": "",
+    "en": ""
+  },
+  "66": {
+    "lgr": "Livim tufala mita melwan yu an nara man. No holem han blong nara man tu.",
+    "en": "Maintain 2 meters distance between yourself and others."
+  },
+  "67": {
+    "lgr": "Livim tufala mita melwan yu an nara man. No holem han blong nara man tu.",
+    "en": "Maintain 2 meters distance between yourself and others."
+  },
+  "68": {
+    "lgr": "Sapos yu go long ples wea plande pipol i stap olsem maket, kavem nos an maos blong yu wetem 'mask'.",
+    "en": "Wear a mask in public."
+  },
+  "69": {
+    "lgr": "Sapos yu go long ples wea plande pipol i stap olsem maket, kavem nos an maos blong yu wetem 'mask'.",
+    "en": "Wear a mask in public."
+  },
+  "70": {
+    "lgr": "",
+    "en": ""
+  },
+  "71": {
+    "lgr": "",
+    "en": ""
+  },
+  "72": {
+    "lgr": "",
+    "en": ""
+  },
+  "73": {
+    "lgr": "",
+    "en": ""
+  },
+  "74": {
+    "lgr": "Folom gud olketa toktok blong dokta an Ministri blong Helti.",
+    "en": "Stay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider."
+  },
+  "75": {
+    "lgr": "Folom gud olketa toktok blong dokta an Ministri blong Helti.",
+    "en": "Stay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider."
+  },
+  "76": {
+    "lgr": "",
+    "en": ""
+  },
+  "77": {
+    "lgr": "",
+    "en": ""
+  },
+  "78": {
+    "lgr": "",
+    "en": ""
+  },
+  "79": {
+    "lgr": "",
+    "en": ""
+  },
+  "80": {
+    "lgr": "",
+    "en": ""
+  },
+  "81": {
+    "lgr": "",
+    "en": ""
+  },
+  "82": {
+    "lgr": "Sapos yu kof, kavem nos an maos blong yu usim elbou\u2014no usim han seleva.",
+    "en": "Cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose of the used tissue immediately."
+  },
+  "83": {
+    "lgr": "Sapos yu kof, kavem nos an maos blong yu usim elbou\u2014no usim han seleva.",
+    "en": "Cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose of the used tissue immediately."
+  },
+  "84": {
+    "lgr": "",
+    "en": ""
+  },
+  "85": {
+    "lgr": "",
+    "en": ""
+  },
+  "86": {
+    "lgr": "",
+    "en": ""
+  },
+  "87": {
+    "lgr": "",
+    "en": ""
+  },
+  "88": {
+    "lgr": "",
+    "en": ""
+  },
+  "89": {
+    "lgr": "",
+    "en": ""
+  },
+  "90": {
+    "lgr": "Sapos yu siki, stap long haos nomoa. Bat sapos yu fiva an kof, an yu no save brid, yu no stap nating\u2014yu go stret long\u00a0klinik, mekem olketa save helpim yu!",
+    "en": "Stay home if you feel unwell. If you have fever, cough and difficulty breathing, seek medical attention early."
+  },
+  "91": {
+    "lgr": "Sapos yu siki, stap long haos nomoa. Bat sapos yu fiva an kof, an yu no save brid, yu no stap nating\u2014yu go stret long\u00a0klinik, mekem olketa save helpim yu!",
+    "en": "Stay home if you feel unwell. If you have fever, cough and difficulty breathing, seek medical attention early."
+  }
+}

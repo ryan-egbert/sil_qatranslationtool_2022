@@ -1,0 +1,350 @@
+{
+    "allTitles": "{\"en\":\"PERLU KALYANTA\nSO SAPA SI VIRUS CORONA\",\"es\":\"Sobre el Coronavirus\",\"tom\":\"UN TOTOZ KATA'UANTA\nTUMORO U VIRUS CORONA\"}",
+    "author": null,
+    "bookInstanceId": "a27fe520-a0b4-46e7-9c92-81192675ac20",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,726d708d-535e-47af-8905-ce6e5e0d745c,d8a787aa-e541-45a6-bab5-4c2b80855f31",
+    "bookSamples": {
+        "0": {
+            "eng": "PERLU KALYANTA\nSO SAPA SI VIRUS CORONA",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "tom": "UN TOTOZ KATA'UANTA\nTUMORO U VIRUS CORONA"
+        },
+        "1": {
+            "eng": ""
+        },
+        "2": {
+            "eng": "TONTEMBOAN MAK\u00c9LA'I"
+        },
+        "3": {
+            "eng": ""
+        },
+        "4": {
+            "eng": "Waya esa en perlu kalya\u2019an you k\u00e9nsya en virus Corona"
+        },
+        "5": {
+            "eng": "MALAW\u00c9"
+        },
+        "6": {
+            "eng": "Semu\u2019d"
+        },
+        "7": {
+            "eng": "Ngilung"
+        },
+        "8": {
+            "eng": "Welen"
+        },
+        "9": {
+            "eng": "Muntep an nuntep"
+        },
+        "10": {
+            "eng": "Tou\u00a0 nyaman"
+        },
+        "11": {
+            "eng": "Tou semakit"
+        },
+        "12": {
+            "eng": "Virus lemaw\u00e9 so kareputan ni lua\u2019 anio\u2019"
+        },
+        "13": {
+            "eng": "Sia\u2019am tatawi.\u00a0 Co aman ca kareputan lua\u2019 so mas\u00e9re antara 2 m."
+        },
+        "14": {
+            "eng": "1"
+        },
+        "15": {
+            "eng": "0,5m - 2m"
+        },
+        "16": {
+            "eng": "Haaachii!!"
+        },
+        "17": {
+            "eng": "An\u00e9, so ko semer\u00e9 tou masekol/masait/sumakit,co rona:"
+        },
+        "18": {
+            "eng": "W\u00e9\u2019an masker s\u00e9lya.\nAn\u00e9 s\u00e9lya rona semait/semekol an nuntep maskerna, sityu karun ca lemaw\u00e9 as\u00e9 tou-tou antawina."
+        },
+        "19": {
+            "eng": "2"
+        },
+        "20": {
+            "eng": "Makapulu\u2019sama\u2019 \u201cSROOT\u201d"
+        },
+        "21": {
+            "eng": "Ato,"
+        },
+        "22": {
+            "eng": "Semangkum si tou anyo\u2019 ca semakit.\nSia waya temaruy nowa\u2019kena."
+        },
+        "23": {
+            "eng": "Tou si kinyalaw\u00e9an nem, semanggkum ca temuru\u2019 myendam, ta\u2019an tetap sakitna lemaw\u00e9"
+        },
+        "24": {
+            "eng": "Pakasaan, loor tar\u00e9n siya\u2019am ma kumpul, \u00e9h ca kalyan you so s\u00e9y-s\u00e9y s\u00e9 sy\u00e9makit."
+        },
+        "25": {
+            "eng": "Pakakas pakanan"
+        },
+        "26": {
+            "eng": "Tou nyaman"
+        },
+        "27": {
+            "eng": "Patemboyan kereta"
+        },
+        "28": {
+            "eng": "Kenop lift"
+        },
+        "29": {
+            "eng": "Tisu"
+        },
+        "30": {
+            "eng": "Paleppan"
+        },
+        "31": {
+            "eng": "Eletronik"
+        },
+        "32": {
+            "eng": "Wo an bagean luar masker"
+        },
+        "33": {
+            "eng": "Patemboyan tangga"
+        },
+        "34": {
+            "eng": "Mous"
+        },
+        "35": {
+            "eng": "Polp\u00e9n"
+        },
+        "36": {
+            "eng": "Kenop papalen"
+        },
+        "37": {
+            "eng": "Kama \u00e9 lya"
+        },
+        "38": {
+            "eng": "Ta\u2019an\u00a0 ma\u2019an k\u00e9na, semangkum lua\u2019tou sumakit lem\u00e9ngk\u00e9t an\u2026"
+        },
+        "39": {
+            "eng": "Camo waya semangkum semakit"
+        },
+        "40": {
+            "eng": "Ato namo tou-tou an tawinu,"
+        },
+        "41": {
+            "eng": "Mapisyi mbelen"
+        },
+        "42": {
+            "eng": "So ca sengaja kinyatuliannu pakakas tyu, oh sontongngennu en namonu nesa,"
+        },
+        "43": {
+            "eng": "Waya esa en cara rona myus\u00e9r virus, muas kama mak\u00e9 sabong, pyakelo\u2019, ato alkohol."
+        },
+        "44": {
+            "eng": "Virus rona temang makad 24 jam an dior esa pakakas,"
+        },
+        "45": {
+            "eng": "Sabong"
+        },
+        "46": {
+            "eng": "\u00c9ma\u2019an cegan k\u00e9l\u00e9 sinyo\u2019"
+        },
+        "47": {
+            "eng": "An\u00e9 tyu, loor kii\u2019ten"
+        },
+        "48": {
+            "eng": "Muas kama mak\u00e9 sabong makad ambi\u2019"
+        },
+        "49": {
+            "eng": "Sabong"
+        },
+        "50": {
+            "eng": "Siku kama"
+        },
+        "51": {
+            "eng": "Siaa\u2019m syontong namonu\n(ato namo sey)"
+        },
+        "52": {
+            "eng": "K\u00e9l\u00e9 kemantar lagu \u201c Happy Birthday\u201d maka rua war\u00e9ngen."
+        },
+        "53": {
+            "eng": "An bawa\u2019 sulu"
+        },
+        "54": {
+            "eng": "Sangapulu\u2019 o rua detik"
+        },
+        "55": {
+            "eng": "An pabu\u2019un popondol"
+        },
+        "56": {
+            "eng": "Uwasan an somoy kama"
+        },
+        "57": {
+            "eng": "K\u00e9nsya cara muas kama makaa\u2019d wersi?"
+        },
+        "58": {
+            "eng": "So katulian, siam m\u00e9ny\u00e9nd\u00e9\u2019. Pedioren muas kama mak\u00e9 sabong."
+        },
+        "59": {
+            "eng": "Sia\u2019am ka tulian an bag\u00e9an kesot i masker."
+        },
+        "60": {
+            "eng": "Pentakan lua\u2019"
+        },
+        "61": {
+            "eng": "*Bakteri rona mamuali keli an nuntep masker so talosem ur\u00e9 pinak\u00e9."
+        },
+        "62": {
+            "eng": "Wangkillem en masker so karasaannu kotorem. Siam pak\u00e9n en masker l\u00e9b\u00e9 asi esa ngando!"
+        },
+        "63": {
+            "eng": "Pak\u00e9n l\u00e9p\u00e9r sayor"
+        },
+        "64": {
+            "eng": "Toyang"
+        },
+        "65": {
+            "eng": "Amang"
+        },
+        "66": {
+            "eng": "Inang"
+        },
+        "67": {
+            "eng": "Pak\u00e9n handuk mengesa-esa."
+        },
+        "68": {
+            "eng": "Siam pak\u00e9n mebali-wali pakanen, pakakas pakanan, palepan, o handuk."
+        },
+        "69": {
+            "eng": "Co carona tulyinu en namo mak\u00e9 sikunu nesa, epe\u2019 kad\u00e9n"
+        },
+        "70": {
+            "eng": "So rona, muka\u2019an ato pyalen papalen mak\u00e9 siku ato tongka\u2019."
+        },
+        "71": {
+            "eng": "Wal\u00e9"
+        },
+        "72": {
+            "eng": "Maka war\u00e9ng\u00e9' an bal\u00e9 pinyontaran"
+        },
+        "73": {
+            "eng": "So keman nem"
+        },
+        "74": {
+            "eng": "Mento\u2019 toyo\u2019 uasen en kamanu mak\u00e9 sabong\u2026"
+        },
+        "75": {
+            "eng": "Kasampetan,"
+        },
+        "76": {
+            "eng": "Sabong"
+        },
+        "77": {
+            "eng": "Taruyan en nowa\u2019 sityu ca saki\u2019tan!"
+        },
+        "78": {
+            "eng": "Wacan pakasa sisinou tar\u00e9p\u00e9 an natas!"
+        },
+        "79": {
+            "eng": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "80": {
+            "eng": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+        },
+        "81": {
+            "eng": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020"
+        },
+        "82": {
+            "eng": "Referensi\u00a0 katar\u00e9 informasi kesehatan:"
+        },
+        "83": {
+            "eng": "A yawes cua: \u00e9maan pencegahan an komik anio\u2019 sinyo\u2019 paling gampang cemega sakit ma law\u00e9 pakasa walina, k\u00e9l\u00e9, flu dan pilek, o musti \u00e9ma\u2019an se susud nendo, o ma\u2019an cawana waba.\nReferensi: Nunuwu\u2019 an komik anio\u2019 ny\u00e9ma\u2019 kumi\u2019it ke\u2019 an COVID 19 aka\u2019d 28 Februari 2020, o kelian nindyo an telu referensi anio\u2019.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 https://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nIyawes Cua: Komik an bentu PDF rona ndyon ambi\u2019:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 https://gumroad.com/weimankowart\u00a0\nEn Pedoman Semerar Komik. Komik anio\u2019 rona wyag\u00e9\u00a0 ca w\u00e9ran an media daring,ato an Whattspp o an Telegram, o rona ndyon ca w\u00e9ran o cetaken an poster peken nesa ato \u00e9ma\u2019an paajaren am bal\u00e9, sekolah o an tampa pa tawoyan.\u00a0\nSo mag\u00e9 si komik anio\u2019, taneyan nang\u00e9 en telu\u00a0 a patik ambawa\u2019 anyo\u2019:\u00a0\u00a0\u00a0\u00a0 \ufeff1)\u00a0 Sia\u2019am roban\u00a0 en gambar komik anio\u2019 \u00e9 wyage p\u00e9.\ufeff2)\u00a0 Komik anio\u2019 catoro pya bangk\u00e9r.\ufeff3) So wyag\u00e9 an media social FB, tyulis kredit si my\u00e9ma\u2019wo cua @weimankowart, wyag\u00e9 IG @weimankow (IG), ato tyulis kredit si my\u00e9ma\u2019wo cua instagram.com/weimankow\ufeffSo mak\u00e9 walinya, rangaten sinyo\u2019: comicsforgood@gmail.com"
+        },
+        "84": {
+            "eng": "PERLU KALYANTA\nSO SAPA SI VIRUS CORONA",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "tom": "UN TOTOZ KATA'UANTA\nTUMORO U VIRUS CORONA"
+        },
+        "85": {
+            "eng": ""
+        },
+        "86": {
+            "eng": "Diterjemahkan dalam bahasa Tontemboan Makelai oleh Pusat Penerjemahan Alkitab-GMIM"
+        },
+        "87": {
+            "eng": ""
+        },
+        "88": {
+            "eng": "Created by Weiman Kow, instagram: weimankow"
+        },
+        "89": {
+            "eng": ""
+        },
+        "90": {
+            "eng": "Hak cipta \u00a9 2020, Weiman Kow\n\nSia\u2019m sawelan teks materi anio\u2019, ta\u2019an co rona semal\u00e9ng, ato indyon an k\u00e9l\u00e9 sapak\u00e9\u2019, o wyag\u00e9 an bentuk walina, o siam pawangk\u00e9r. O tyulis si my\u00e9ma\u2019 anio\u2019 o tulis si penulis o si jemambar komik anio\u2019 Weiman Kou.\n\nAn versi Bahasa Inggris, ny\u00e9ma\u2019 I Paul Frank\n\nSo versi asli ny\u00e9ma\u2019 i Weiman Kow, Instagram: weimankow\n\nRangat\u00e9n ambi\u2019:\n\nWebsite: www.sil-lead.org Facebook: www.facebook.com/sillead/ Youtube: www.youtube.com/silleadinc Email: bloomhelp@sil-lead.org"
+        },
+        "91": {
+            "eng": ""
+        },
+        "92": {
+            "eng": ""
+        }
+    },
+    "bookText": {
+        "eng": "PERLU KALYANTA\nSO SAPA SI VIRUS CORONA\n\nTONTEMBOAN MAK\u00c9LA'I\n\nWaya esa en perlu kalya\u2019an you k\u00e9nsya en virus Corona\nMALAW\u00c9\nSemu\u2019d\nNgilung\nWelen\nMuntep an nuntep\nTou\u00a0 nyaman\nTou semakit\nVirus lemaw\u00e9 so kareputan ni lua\u2019 anio\u2019\nSia\u2019am tatawi.\u00a0 Co aman ca kareputan lua\u2019 so mas\u00e9re antara 2 m.\n1\n0,5m - 2m\nHaaachii!!\nAn\u00e9, so ko semer\u00e9 tou masekol/masait/sumakit,co rona:\nW\u00e9\u2019an masker s\u00e9lya.\nAn\u00e9 s\u00e9lya rona semait/semekol an nuntep maskerna, sityu karun ca lemaw\u00e9 as\u00e9 tou-tou antawina.\n2\nMakapulu\u2019sama\u2019 \u201cSROOT\u201d\nAto,\nSemangkum si tou anyo\u2019 ca semakit.\nSia waya temaruy nowa\u2019kena.\nTou si kinyalaw\u00e9an nem, semanggkum ca temuru\u2019 myendam, ta\u2019an tetap sakitna lemaw\u00e9\nPakasaan, loor tar\u00e9n siya\u2019am ma kumpul, \u00e9h ca kalyan you so s\u00e9y-s\u00e9y s\u00e9 sy\u00e9makit.\nPakakas pakanan\nTou nyaman\nPatemboyan kereta\nKenop lift\nTisu\nPaleppan\nEletronik\nWo an bagean luar masker\nPatemboyan tangga\nMous\nPolp\u00e9n\nKenop papalen\nKama \u00e9 lya\nTa\u2019an\u00a0 ma\u2019an k\u00e9na, semangkum lua\u2019tou sumakit lem\u00e9ngk\u00e9t an\u2026\nCamo waya semangkum semakit\nAto namo tou-tou an tawinu,\nMapisyi mbelen\nSo ca sengaja kinyatuliannu pakakas tyu, oh sontongngennu en namonu nesa,\nWaya esa en cara rona myus\u00e9r virus, muas kama mak\u00e9 sabong, pyakelo\u2019, ato alkohol.\nVirus rona temang makad 24 jam an dior esa pakakas,\nSabong\n\u00c9ma\u2019an cegan k\u00e9l\u00e9 sinyo\u2019\nAn\u00e9 tyu, loor kii\u2019ten\nMuas kama mak\u00e9 sabong makad ambi\u2019\nSabong\nSiku kama\nSiaa\u2019m syontong namonu\n(ato namo sey)\nK\u00e9l\u00e9 kemantar lagu \u201c Happy Birthday\u201d maka rua war\u00e9ngen.\nAn bawa\u2019 sulu\nSangapulu\u2019 o rua detik\nAn pabu\u2019un popondol\nUwasan an somoy kama\nK\u00e9nsya cara muas kama makaa\u2019d wersi?\nSo katulian, siam m\u00e9ny\u00e9nd\u00e9\u2019. Pedioren muas kama mak\u00e9 sabong.\nSia\u2019am ka tulian an bag\u00e9an kesot i masker.\nPentakan lua\u2019\n*Bakteri rona mamuali keli an nuntep masker so talosem ur\u00e9 pinak\u00e9.\nWangkillem en masker so karasaannu kotorem. Siam pak\u00e9n en masker l\u00e9b\u00e9 asi esa ngando!\nPak\u00e9n l\u00e9p\u00e9r sayor\nToyang\nAmang\nInang\nPak\u00e9n handuk mengesa-esa.\nSiam pak\u00e9n mebali-wali pakanen, pakakas pakanan, palepan, o handuk.\nCo carona tulyinu en namo mak\u00e9 sikunu nesa, epe\u2019 kad\u00e9n\nSo rona, muka\u2019an ato pyalen papalen mak\u00e9 siku ato tongka\u2019.\nWal\u00e9\nMaka war\u00e9ng\u00e9' an bal\u00e9 pinyontaran\nSo keman nem\nMento\u2019 toyo\u2019 uasen en kamanu mak\u00e9 sabong\u2026\nKasampetan,\nSabong\nTaruyan en nowa\u2019 sityu ca saki\u2019tan!\nWacan pakasa sisinou tar\u00e9p\u00e9 an natas!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020\nReferensi\u00a0 katar\u00e9 informasi kesehatan:\nA yawes cua: \u00e9maan pencegahan an komik anio\u2019 sinyo\u2019 paling gampang cemega sakit ma law\u00e9 pakasa walina, k\u00e9l\u00e9, flu dan pilek, o musti \u00e9ma\u2019an se susud nendo, o ma\u2019an cawana waba.\nReferensi: Nunuwu\u2019 an komik anio\u2019 ny\u00e9ma\u2019 kumi\u2019it ke\u2019 an COVID 19 aka\u2019d 28 Februari 2020, o kelian nindyo an telu referensi anio\u2019.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 https://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nIyawes Cua: Komik an bentu PDF rona ndyon ambi\u2019:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 https://gumroad.com/weimankowart\u00a0\nEn Pedoman Semerar Komik. Komik anio\u2019 rona wyag\u00e9\u00a0 ca w\u00e9ran an media daring,ato an Whattspp o an Telegram, o rona ndyon ca w\u00e9ran o cetaken an poster peken nesa ato \u00e9ma\u2019an paajaren am bal\u00e9, sekolah o an tampa pa tawoyan.\u00a0\nSo mag\u00e9 si komik anio\u2019, taneyan nang\u00e9 en telu\u00a0 a patik ambawa\u2019 anyo\u2019:\u00a0\u00a0\u00a0\u00a0 \ufeff1)\u00a0 Sia\u2019am roban\u00a0 en gambar komik anio\u2019 \u00e9 wyage p\u00e9.\ufeff2)\u00a0 Komik anio\u2019 catoro pya bangk\u00e9r.\ufeff3) So wyag\u00e9 an media social FB, tyulis kredit si my\u00e9ma\u2019wo cua @weimankowart, wyag\u00e9 IG @weimankow (IG), ato tyulis kredit si my\u00e9ma\u2019wo cua instagram.com/weimankow\ufeffSo mak\u00e9 walinya, rangaten sinyo\u2019: comicsforgood@gmail.com\nPERLU KALYANTA\nSO SAPA SI VIRUS CORONA\n\nDiterjemahkan dalam bahasa Tontemboan Makelai oleh Pusat Penerjemahan Alkitab-GMIM\n\nCreated by Weiman Kow, instagram: weimankow\n\nHak cipta \u00a9 2020, Weiman Kow\n\nSia\u2019m sawelan teks materi anio\u2019, ta\u2019an co rona semal\u00e9ng, ato indyon an k\u00e9l\u00e9 sapak\u00e9\u2019, o wyag\u00e9 an bentuk walina, o siam pawangk\u00e9r. O tyulis si my\u00e9ma\u2019 anio\u2019 o tulis si penulis o si jemambar komik anio\u2019 Weiman Kou.\n\nAn versi Bahasa Inggris, ny\u00e9ma\u2019 I Paul Frank\n\nSo versi asli ny\u00e9ma\u2019 i Weiman Kow, Instagram: weimankow\n\nRangat\u00e9n ambi\u2019:\n\nWebsite: www.sil-lead.org Facebook: www.facebook.com/sillead/ Youtube: www.youtube.com/silleadinc Email: bloomhelp@sil-lead.org\n\n",
+        "spa": "Sobre el Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSobre el Coronavirus\n\n\n\n\n\n\n\n",
+        "tom": "UN TOTOZ KATA'UANTA\nTUMORO U VIRUS CORONA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUN TOTOZ KATA'UANTA\nTUMORO U VIRUS CORONA\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "tom",
+        "spa",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Hak cipta \u00a9 2020, Weiman Kow",
+    "country": "",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "imported-book-source-url": null,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "Spanish",
+        "tom": "Tombulu"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "",
+    "originalPublisher": "",
+    "originalTitle": "PERLU KALYANTA SO SAPA SI VIRUS CORONA",
+    "page-number-style": "Decimal",
+    "pageCount": 26,
+    "phashOfFirstContentImage": null,
+    "province": "",
+    "publisher": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "PERLU KALYANTA\nSO SAPA SI VIRUS CORONA",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

@@ -1,0 +1,361 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "2e58ae0c-dd70-4ccf-b3c1-1e0686047b13",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "\u101c\u103d\u1004\u103a\u1088\u1019\u1085\u1004\u103a\u1038 \u101a\u1031\u1083\u1038\u1075\u1083\u1087 \u1075\u1030\u101d\u103a\u1087\u101b\u1030\u101d\u103a\u1087\u107c\u1083\u1087",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"shn\":\"\u101c\u103d\u1004\u103a\u1088\u1019\u1085\u1004\u103a\u1038 \u101a\u1031\u1083\u1038\u1075\u1083\u1087 \u1075\u1030\u101d\u103a\u1087\u101b\u1030\u101d\u103a\u1087\u107c\u1083\u1087\"}",
+  "originalTitle": "About Coronavirus",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,726d708d-535e-47af-8905-ce6e5e0d745c",
+  "downloadSource": "kwemoo@gmail.com/2e58ae0c-dd70-4ccf-b3c1-1e0686047b13",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": "",
+  "copyright": "Copyright \u00a9 2020, Shan Literacy",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "q7mv01ufeX"
+    }
+  ],
+  "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Myanmar",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "b3xvsSgeg9"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "es": "Spanish",
+    "ahk": "Akha shell books",
+    "shn": "Shan"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "es": "Sobre el Coronavirus",
+    "shn": "\u101c\u103d\u1004\u103a\u1088\u1019\u1085\u1004\u103a\u1038 \u101a\u1031\u1083\u1038\u1075\u1083\u1087 \u1075\u1030\u101d\u103a\u1087\u101b\u1030\u101d\u103a\u1087\u107c\u1083\u1087",
+    "en": "About Coronavirus"
+  },
+  "2": {
+    "es": "Sobre el Coronavirus",
+    "shn": "\u101c\u103d\u1004\u103a\u1088\u1019\u1085\u1004\u103a\u1038 \u101a\u1031\u1083\u1038\u1075\u1083\u1087 \u1075\u1030\u101d\u103a\u1087\u101b\u1030\u101d\u103a\u1087\u107c\u1083\u1087",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "es": "Sobre el Coronavirus",
+    "shn": "\u101c\u103d\u1004\u103a\u1088\u1019\u1085\u1004\u103a\u1038 \u101a\u1031\u1083\u1038\u1075\u1083\u1087 \u1075\u1030\u101d\u103a\u1087\u101b\u1030\u101d\u103a\u1087\u107c\u1083\u1087",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "es": "Sobre el Coronavirus",
+    "shn": "\u101c\u103d\u1004\u103a\u1088\u1019\u1085\u1004\u103a\u1038 \u101a\u1031\u1083\u1038\u1075\u1083\u1087 \u1075\u1030\u101d\u103a\u1087\u101b\u1030\u101d\u103a\u1087\u107c\u1083\u1087",
+    "en": "About Coronavirus"
+  },
+  "11": {
+    "shn": ""
+  },
+  "12": {
+    "shn": ""
+  },
+  "13": {
+    "shn": "\u1019\u1031\u1083\u1078\u1015\u103a\u1038 \u1019\u1031\u1083\u107d\u1084\u1088\u1075\u1082\u1083\u1087\u1078\u102d\u1030\u1004\u1037\u103a\u1081\u102d\u102f\u101d\u103a?"
+  },
+  "14": {
+    "shn": ""
+  },
+  "15": {
+    "shn": "\u00a0\u00a0\u00a0 \u1081\u1030\u1038\u101c\u1004\u103a"
+  },
+  "16": {
+    "shn": ""
+  },
+  "17": {
+    "shn": ""
+  },
+  "18": {
+    "shn": "\u101c\u102e\u101a\u1030\u1087"
+  },
+  "19": {
+    "shn": ""
+  },
+  "20": {
+    "shn": ""
+  },
+  "21": {
+    "shn": "\u1015\u1031\u1083\u1038\u101a\u1030\u1087\u101a\u1062\u107c\u103a\u1075\u107c\u103a \u1081\u1030\u1075\u103a\u1038\u1015\u1031\u1087\u107c\u1086\u1037 \u101c\u1086\u1088\u101d\u1062\u1004\u103a\u1038\u1078\u1082\u103a\u104b \u1019\u1085\u1004\u103a\u1038 \u1022\u1019\u103a\u1087\u1078\u1062\u1004\u103a\u1088\u1078\u1015\u103a\u1038\u104b "
+  },
+  "22": {
+    "shn": "1"
+  },
+  "23": {
+    "shn": ""
+  },
+  "24": {
+    "shn": "\u1081\u1010\u103a\u1038\u1076\u103b\u1030\u101d\u103a\u1038!"
+  },
+  "25": {
+    "shn": "\u1081\u1035\u1010\u103a\u1038\u1078\u102d\u1030\u1004\u1037\u103a\u107c\u1086\u104b "
+  },
+  "26": {
+    "shn": "\u1015\u1031\u1083\u1038\u1081\u1084\u1037\u101e\u1030\u1015\u103a\u1038\u101d\u1086\u1037\u107c\u1086\u1037 \u1015\u102d\u1075\u1037\u103a\u101e\u1019\u1037\u103a\u1019\u107c\u103a\u1038\u1022\u1086\u101e\u1031\u1075\u1031\u1083\u1088 \u1022\u1019\u103a\u1087\u1078\u1062\u1004\u103a\u1088\u1078\u1015\u103a\u1038\u1075\u1030\u107c\u103a\u1038\u1081\u102d\u1019\u103a\u1038\u1081\u103d\u1019\u103a\u1038\u104b"
+  },
+  "27": {
+    "shn": "2"
+  },
+  "28": {
+    "shn": ""
+  },
+  "29": {
+    "shn": ""
+  },
+  "30": {
+    "shn": "\u1019\u1004\u103a\u1075\u1031\u1083\u1037 \u1022\u1019\u103a\u1087\u1081\u107c\u103a\u107c\u101d\u103a\u1022\u1019\u103a\u1087\u1081\u107c\u103a\u1015\u1035\u107c\u103a\u101e\u1004\u103a\u104b \u1019\u107c\u103a\u1038\u1022\u1019\u103a\u1087\u1076\u1082\u103a\u1088\u1081\u1082\u103a\u1088\u1015\u102d\u1030\u107c\u103a\u1088\u1081\u1030\u1089\u1075\u1031\u1083\u1088 \u1015\u1035\u107c\u103a\u101c\u1086\u1088\u101a\u1030\u1087\u104b"
+  },
+  "31": {
+    "shn": "\u00a0\u1019\u1004\u103a\u1075\u1031\u1083\u1037 \u1078\u1015\u103a\u1038\u101a\u1031\u1083\u1038\u1075\u1083\u1087\u101a\u101d\u1037\u103a \u101e\u1031\u1075\u1031\u1083\u1088\u1022\u1019\u103a\u1087\u1078\u1062\u1004\u103a\u1088\u1081\u107c\u103a \u101c\u1075\u103a\u1088\u1076\u107c\u1083\u1087\u1019\u107c\u103a\u1038\u1075\u1031\u1083\u1088 \u1078\u1062\u1004\u103a\u1088\u1076\u1084\u1038\u1019\u102e\u1038\u104b \u1015\u1031\u1083\u1038\u1078\u102d\u1030\u1004\u1037\u103a\u107c\u107c\u103a \u1078\u1062\u1004\u103a\u1088\u1078\u1015\u103a\u1038\u1015\u102d\u1030\u107c\u103a\u1088"
+  },
+  "32": {
+    "shn": "\u00a0\u107d\u1082\u103a\u1019\u102e\u1038\u101a\u1031\u1083\u1038\u1075\u1083\u1087 \u1075\u103d\u1015\u103a\u1088\u1015\u102d\u1030\u101d\u103a\u1088\u1022\u1019\u103a\u1087\u1081\u1030\u1089\u101c\u1086\u1088\u101c\u1084\u1088 \u101c\u1030\u101d\u103a\u1087\u101d\u1084\u1088\u1010\u102e\u1088 \u1075\u1030\u107c\u103a\u1038\u107c\u1019\u103a\u1075\u1030\u107c\u103a\u1038\u1078\u102f\u1010\u102f\u1019\u103a\u1075\u107c\u103a\u104b"
+  },
+  "33": {
+    "shn": ""
+  },
+  "34": {
+    "shn": "\u1075\u1031\u1083\u1037\u1022\u107c\u103a\u101a\u1030\u1087\u101c\u102e"
+  },
+  "35": {
+    "shn": ""
+  },
+  "36": {
+    "shn": "\u1010\u102e\u1088\u1015\u102d\u102f\u1010\u103a\u1087\u107d\u1062\u1086\u1038"
+  },
+  "37": {
+    "shn": ""
+  },
+  "38": {
+    "shn": ""
+  },
+  "39": {
+    "shn": "\u1076\u102d\u1030\u1004\u103a\u1088\u1078\u1062\u1075\u103a\u1088"
+  },
+  "40": {
+    "shn": ""
+  },
+  "41": {
+    "shn": ""
+  },
+  "42": {
+    "shn": ""
+  },
+  "43": {
+    "shn": ""
+  },
+  "44": {
+    "shn": ""
+  },
+  "45": {
+    "shn": ""
+  },
+  "46": {
+    "shn": "\u1022\u1019\u103a\u1087\u107c\u107c\u103a\u1075\u1031\u1083\u1088 \u107c\u1019\u1037\u103a\u101c\u1062\u1086\u1038 \u1075\u1030\u107c\u103a\u1038\u1015\u1035\u107c\u103a\u101a\u1031\u1083\u1038\u1075\u1083\u1087 \u1078\u1062\u1004\u103a\u1088\u1010\u102d\u1010\u103a\u1038 \u101d\u1086\u1037\u101e\u1031\u1010\u102e\u1088\u1010\u102e\u1088\u104b "
+  },
+  "47": {
+    "shn": "\u1076\u101d\u103a\u1010\u1062\u1004\u103a\u1038\u101e\u1035\u1004\u103a\u1088 \u1078\u1062\u1004\u103a\u1088\u1078\u1015\u103a\u1038\u1075\u1082\u1083\u1087\u1022\u1031\u1083\u1088\u104b"
+  },
+  "48": {
+    "shn": ""
+  },
+  "49": {
+    "shn": ""
+  },
+  "50": {
+    "shn": ""
+  },
+  "51": {
+    "shn": "( \u1022\u1019\u103a\u1087\u107c\u107c\u103a) \u101c\u1030\u101d\u103a\u1087\u1078\u1082\u103a\u1037\u107c\u1019\u1037\u103a\u101c\u1062\u1004\u1037\u103a\u1019\u102d\u102f\u101d\u103a\u1038 \u1022\u107c\u103a\u1015\u1083\u1038\u1075\u1031\u1083\u1087\u1081\u1031\u1083\u1038 \u101c\u102f\u1015\u103a\u1088\u1019\u102d\u102f\u101d\u103a\u1038\u104b"
+  },
+  "52": {
+    "shn": ""
+  },
+  "53": {
+    "shn": ""
+  },
+  "54": {
+    "shn": "\u107c\u1084\u1038\u101c\u1062\u1086\u1038 \u1081\u1084\u1037\u1075\u1004\u103a\u1088 5 \u1015\u102d\u1030\u1004\u103a\u104b"
+  },
+  "55": {
+    "shn": "\u1015\u1031\u1083\u1038\u1081\u101d\u103a\u1038\u1081\u1035\u1010\u103a\u1038\u1078\u103d\u1019\u103a\u1038\u1078\u102d\u1030\u101d\u103a\u1038\u107c\u1086\u1037 \u1010\u1031\u101c\u102e\u107c\u1083\u1087\u104b "
+  },
+  "56": {
+    "shn": ""
+  },
+  "57": {
+    "shn": ""
+  },
+  "58": {
+    "shn": "\u1004\u103d\u1075\u103a\u1038\u101e\u103d\u1075\u103a\u1087"
+  },
+  "59": {
+    "shn": ""
+  },
+  "60": {
+    "shn": "\u1081\u102d\u102f\u1004\u103a\u1019\u103d\u1075\u103a\u1088\u1081\u103d\u1004\u1037\u103a\u1075\u1082\u1062\u1019\u103a\u1038 \u1081\u1085\u1015\u103a\u1038\u1015\u102e\u1038\u1015\u102d\u1030\u1010\u103a\u1038\u1010\u1031\u1038 \u101e\u103d\u1004\u103a\u1015\u103d\u1075\u103a\u1088\u104b"
+  },
+  "61": {
+    "shn": ""
+  },
+  "62": {
+    "shn": ""
+  },
+  "63": {
+    "shn": "\u101e\u102f\u1075\u103a\u1088\u1075\u1031\u1088\u107c\u102d\u101d\u1037\u103a\u1019\u102d\u102f\u101d\u103a\u1038"
+  },
+  "64": {
+    "shn": "\u00a0\u101e\u102f\u1075\u103a\u1088\u1015\u1083\u1038\u101c\u1004\u103a\u1019\u102d\u102f\u101d\u103a\u1038"
+  },
+  "65": {
+    "shn": ""
+  },
+  "66": {
+    "shn": ""
+  },
+  "67": {
+    "shn": "\u101a\u1083\u1087\u1015\u1031\u1010\u102d\u1030\u101d\u1037\u103a \u1010\u1062\u1004\u103a\u1038\u107c\u103d\u1075\u103a\u1088 \u107d\u1083\u1088\u1081\u1084\u1089\u101e\u1030\u1015\u103a\u1038\u104b"
+  },
+  "68": {
+    "shn": "\u107c\u1019\u1037\u103a\u1015\u1035\u107c\u103a\u1019\u102d\u1075\u103a\u1038\u1015\u1035\u107c\u103a\u1019\u103d\u1075\u103a\u1038"
+  },
+  "69": {
+    "shn": ""
+  },
+  "70": {
+    "shn": ""
+  },
+  "71": {
+    "shn": ""
+  },
+  "72": {
+    "shn": ""
+  },
+  "73": {
+    "shn": ""
+  },
+  "74": {
+    "shn": ""
+  },
+  "75": {
+    "shn": ""
+  },
+  "76": {
+    "shn": ""
+  },
+  "77": {
+    "shn": "\u1075\u103d\u1015\u103a\u1088\u1015\u102d\u1030\u101d\u103a\u1088\u101d\u1083\u1088 \u1004\u103d\u1075\u103a\u1038\u101e\u103d\u1075\u103a\u1087\u107c\u1086\u1037 \u1022\u1019\u103a\u1087\u1078\u1062\u1004\u103a\u1088\u1010\u102d\u1030\u101d\u1037\u103a\u107c\u1083\u1088\u1081\u101d\u103a\u1038\u104b"
+  },
+  "78": {
+    "shn": ""
+  },
+  "79": {
+    "shn": ""
+  },
+  "80": {
+    "shn": "\u1015\u1031\u1083\u1038\u101c\u102f\u1075\u1037\u103a\u1010\u1062\u1004\u103a\u1038\u107c\u103d\u1075\u103a\u1088\u1015\u103d\u1075\u103a\u1088\u1019\u1083\u1038"
+  },
+  "81": {
+    "shn": ""
+  },
+  "82": {
+    "shn": ""
+  },
+  "83": {
+    "shn": ""
+  },
+  "84": {
+    "shn": "\u101e\u1015\u103a\u1038\u1015\u103b\u1083\u1087"
+  },
+  "85": {
+    "shn": ""
+  },
+  "86": {
+    "shn": ""
+  },
+  "87": {
+    "shn": "\u101e\u1015\u103a\u1038\u1015\u103b\u1083\u1087"
+  },
+  "95": {
+    "es": "Sobre el Coronavirus",
+    "shn": "\u101c\u103d\u1004\u103a\u1088\u1019\u1085\u1004\u103a\u1038 \u101a\u1031\u1083\u1038\u1075\u1083\u1087 \u1075\u1030\u101d\u103a\u1087\u101b\u1030\u101d\u103a\u1087\u107c\u1083\u1087",
+    "en": "About Coronavirus"
+  },
+  "96": {
+    "es": "Sobre el Coronavirus",
+    "shn": "\u101c\u103d\u1004\u103a\u1088\u1019\u1085\u1004\u103a\u1038 \u101a\u1031\u1083\u1038\u1075\u1083\u1087 \u1075\u1030\u101d\u103a\u1087\u101b\u1030\u101d\u103a\u1087\u107c\u1083\u1087",
+    "en": "About Coronavirus"
+  },
+  "97": {
+    "es": "Sobre el Coronavirus",
+    "shn": "\u101c\u103d\u1004\u103a\u1088\u1019\u1085\u1004\u103a\u1038 \u101a\u1031\u1083\u1038\u1075\u1083\u1087 \u1075\u1030\u101d\u103a\u1087\u101b\u1030\u101d\u103a\u1087\u107c\u1083\u1087",
+    "en": "About Coronavirus"
+  },
+  "98": {
+    "es": "Sobre el Coronavirus",
+    "shn": "\u101c\u103d\u1004\u103a\u1088\u1019\u1085\u1004\u103a\u1038 \u101a\u1031\u1083\u1038\u1075\u1083\u1087 \u1075\u1030\u101d\u103a\u1087\u101b\u1030\u101d\u103a\u1087\u107c\u1083\u1087",
+    "en": "About Coronavirus"
+  },
+  "106": {
+    "en": "About coronavirus"
+  },
+  "109": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

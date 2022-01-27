@@ -1,0 +1,380 @@
+{
+    "allTitles": "{\"bbu\":\"Nene VIRUS CORONA\",\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"tdt\":\"Kona ba VIRUS CORONA\"}",
+    "author": null,
+    "bookInstanceId": "726d708d-535e-47af-8905-ce6e5e0d745c",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+    "bookSamples": {
+        "0": {
+            "bbu": "Nene VIRUS CORONA",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "tdt": "Kona ba VIRUS CORONA",
+            "und": ""
+        },
+        "1": {
+            "bbu": "",
+            "eng": "",
+            "tdt": ""
+        },
+        "2": {
+            "bbu": "Associa\u00e7\u00e3o KULIT",
+            "eng": "",
+            "tdt": "Associ\u00e7\u00e3o KULIT"
+        },
+        "3": {
+            "bbu": ""
+        },
+        "4": {
+            "bbu": "Lalaa' HEA maney importanti ita presiza raknay nene virus corona:"
+        },
+        "5": {
+            "bbu": "DAET"
+        },
+        "6": {
+            "bbu": "Suak"
+        },
+        "7": {
+            "bbu": "Hngiru"
+        },
+        "8": {
+            "bbu": "Mata"
+        },
+        "9": {
+            "bbu": "Tama la'a ita"
+        },
+        "10": {
+            "bbu": "Likmory isi aia"
+        },
+        "11": {
+            "bbu": "Likmory papeu"
+        },
+        "12": {
+            "bbu": "Virus hea ri'a bele daet lii muri' likmory apakreek (kuandu sii raklungu)"
+        },
+        "13": {
+            "bbu": "Roo nai likmory ere'.\nMetru 2 sei noy ita seguru nai likmory maney rakaklungu sii apakreek."
+        },
+        "14": {
+            "bbu": "1"
+        },
+        "15": {
+            "bbu": "Metru 2"
+        },
+        "16": {
+            "bbu": "Rahmasi!"
+        },
+        "17": {
+            "bbu": "Se ita kmata' likmory hey poo', rahmasi ou peu, ita bele rili atu:"
+        },
+        "18": {
+            "bbu": "Knee' masker la'a sia.\nSii bele poo' ou rahmasi nia masker rala, para bele nee' seguru la'a likmory maney kapapehy sia."
+        },
+        "19": {
+            "bbu": "2"
+        },
+        "20": {
+            "bbu": "Obrigadu!"
+        },
+        "21": {
+            "bbu": "OU,"
+        },
+        "22": {
+            "bbu": "Se nii te peu, nii proteje hleu nii aan."
+        },
+        "23": {
+            "bbu": "Likmory maney pasasehu papeu corona, hey te tina' sintoma, masi' sei daet nahatik la'a likmory seuk."
+        },
+        "24": {
+            "bbu": "Biasa, maneira aia lii atu prevene... te sanga kla'a haty maney raramy ou likmory rarea, tamba ita te raknay asaly' ma' papeu corona."
+        },
+        "25": {
+            "bbu": "Stik"
+        },
+        "26": {
+            "bbu": "Likmory isi aia"
+        },
+        "27": {
+            "bbu": "Tali Kareta'"
+        },
+        "28": {
+            "bbu": "Butaun"
+        },
+        "29": {
+            "bbu": "Tisu"
+        },
+        "30": {
+            "bbu": "Kopu"
+        },
+        "31": {
+            "bbu": "Lalaa' hira-hira' Eletronika"
+        },
+        "32": {
+            "bbu": "i rala hey nia ita masker tungu"
+        },
+        "33": {
+            "bbu": "Eskada sasi'a rody"
+        },
+        "34": {
+            "bbu": "Mouse"
+        },
+        "35": {
+            "bbu": "Lapizeira"
+        },
+        "36": {
+            "bbu": "Dada'ik rody odamata"
+        },
+        "37": {
+            "bbu": "Sii lima"
+        },
+        "38": {
+            "bbu": "Rala hey, likmory papeu sii apakreek bele nene nia lalaa' hira-hira' oida..."
+        },
+        "39": {
+            "bbu": "mii nahula bele sehu papeu ere'."
+        },
+        "40": {
+            "bbu": "ou likmory maney ita hahadomi sii mata hngiru"
+        },
+        "41": {
+            "bbu": "kose la'a ita mata"
+        },
+        "42": {
+            "bbu": "Se ita si'a sala lalaa' hira-hira' ere' hea, soruk ita si'a ita mata hngiru,"
+        },
+        "43": {
+            "bbu": "maneira aia lii atu halaku, hrasi lalaa' hira-hira' ere' noro'sapaa, baiklin ou alkohol."
+        },
+        "44": {
+            "bbu": "Virus ere', bele nory nia lalaa' hira-hira' raik oras haira' hea"
+        },
+        "45": {
+            "bbu": "sapaa"
+        },
+        "46": {
+            "bbu": "para prevene"
+        },
+        "47": {
+            "bbu": "Tamba ere', ia lii ita roy do'i maneira"
+        },
+        "48": {
+            "bbu": "hrasi lima noro'sapaa raik ari'a"
+        },
+        "49": {
+            "bbu": "sapaa"
+        },
+        "50": {
+            "bbu": "lima si'u"
+        },
+        "51": {
+            "bbu": "Te ngee kay ita mata hngiru. (Ou likmory hey mata hngiru.) Se ita atu ngee, hrasi aia muna' ita lima noro' sapaa."
+        },
+        "52": {
+            "bbu": "Hlery \"Happy Birthday\" rala harua'"
+        },
+        "53": {
+            "bbu": "lu'u mata rala"
+        },
+        "54": {
+            "bbu": "durante detik 20"
+        },
+        "55": {
+            "bbu": "lima klanga heta"
+        },
+        "56": {
+            "bbu": "hrasi ita lima tanyk nii tungu"
+        },
+        "57": {
+            "bbu": "Oilaa' ma' atu hrasi aia ita lima?"
+        },
+        "58": {
+            "bbu": "Se ita si'a sala, te rata'uk kay. Kla'a hrasi aia hleu lima noro' sapaa."
+        },
+        "59": {
+            "bbu": "Se bele, te si'a kay masker tungu."
+        },
+        "60": {
+            "bbu": ""
+        },
+        "61": {
+            "bbu": "Virus sei nory nia ita masker rala, se ita uza ose lii."
+        },
+        "62": {
+            "bbu": "Ta'u masker kuandu pa ra'i. Te paluri uza masker lii nai hengi hea!"
+        },
+        "63": {
+            "bbu": "Uza\u00a0 aru"
+        },
+        "64": {
+            "bbu": "ANANA"
+        },
+        "65": {
+            "bbu": "AMAKAY"
+        },
+        "66": {
+            "bbu": "INAKAY"
+        },
+        "67": {
+            "bbu": "Likmory hea-hea tengki uza nii toalha doi"
+        },
+        "68": {
+            "bbu": "Te hrere' kay rara'a, lalaa' hira-hirak dapuk nii, kopu, toalha."
+        },
+        "69": {
+            "bbu": "Te si'a kay ita mata hngiru noro' ita lima si'u"
+        },
+        "70": {
+            "bbu": "Da'ik & taka' odamata rody lima si'u ou pas, se bele te uza kay lima sasi'a rody."
+        },
+        "71": {
+            "bbu": "Ruma"
+        },
+        "72": {
+            "bbu": "i kuandu sai kla'a haty publik"
+        },
+        "73": {
+            "bbu": "Antis ita ra'a"
+        },
+        "74": {
+            "bbu": "Sempre hrasi ita lima noro' sapaa..."
+        },
+        "75": {
+            "bbu": "Kamuri' isi"
+        },
+        "76": {
+            "bbu": "sapaa"
+        },
+        "77": {
+            "bbu": "Nahula-nahula hakmatik!"
+        },
+        "78": {
+            "bbu": "Nahula-nahula hakmatik!"
+        },
+        "79": {
+            "bbu": "sapaa"
+        },
+        "80": {
+            "bbu": "Klee artikel nenee informasaun hey tera!"
+        },
+        "81": {
+            "bbu": "\"Animasaun ri'a tina', kuandu ita rahmasi biasa nii is bele la'a\" nai Chia Yi Hou noro' Andrea Schmitz, nia Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "bbu": "\"Virus Wuhan: Oilaa' atu hakmatik\", nai Laurie Garrett, nia Foreign Policy, Report. (Jan 25, 2020)"
+        },
+        "83": {
+            "bbu": "\"Oilaa' atu raroo' nai virus corona? Hrasi ita lima\", nai Elizabeth Rosenthal, nia Nova Yorke Times, Opiniaun. (Jan 28, 2020)"
+        },
+        "84": {
+            "bbu": "Referensia Informasaun prinsipal nai saude:"
+        },
+        "85": {
+            "bbu": ""
+        },
+        "86": {
+            "bbu": "Nene VIRUS CORONA",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "tdt": "Kona ba VIRUS CORONA",
+            "und": ""
+        },
+        "87": {
+            "bbu": "",
+            "eng": "",
+            "tdt": ""
+        },
+        "88": {
+            "bbu": "",
+            "eng": "",
+            "tdt": ""
+        },
+        "89": {
+            "bbu": "",
+            "eng": "",
+            "tdt": ""
+        },
+        "90": {
+            "bbu": "",
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "tdt": "Created by Weiman Kow, instagram: weimankow"
+        },
+        "91": {
+            "bbu": "",
+            "eng": "",
+            "tdt": ""
+        },
+        "92": {
+            "bbu": "",
+            "eng": "",
+            "tdt": ""
+        },
+        "93": {
+            "bbu": "",
+            "eng": "",
+            "tdt": ""
+        },
+        "94": {
+            "bbu": "",
+            "eng": "",
+            "tdt": ""
+        }
+    },
+    "bookText": {
+        "bbu": "Nene VIRUS CORONA\n\nAssocia\u00e7\u00e3o KULIT\n\nLalaa' HEA maney importanti ita presiza raknay nene virus corona:\nDAET\nSuak\nHngiru\nMata\nTama la'a ita\nLikmory isi aia\nLikmory papeu\nVirus hea ri'a bele daet lii muri' likmory apakreek (kuandu sii raklungu)\nRoo nai likmory ere'.\nMetru 2 sei noy ita seguru nai likmory maney rakaklungu sii apakreek.\n1\nMetru 2\nRahmasi!\nSe ita kmata' likmory hey poo', rahmasi ou peu, ita bele rili atu:\nKnee' masker la'a sia.\nSii bele poo' ou rahmasi nia masker rala, para bele nee' seguru la'a likmory maney kapapehy sia.\n2\nObrigadu!\nOU,\nSe nii te peu, nii proteje hleu nii aan.\nLikmory maney pasasehu papeu corona, hey te tina' sintoma, masi' sei daet nahatik la'a likmory seuk.\nBiasa, maneira aia lii atu prevene... te sanga kla'a haty maney raramy ou likmory rarea, tamba ita te raknay asaly' ma' papeu corona.\nStik\nLikmory isi aia\nTali Kareta'\nButaun\nTisu\nKopu\nLalaa' hira-hira' Eletronika\ni rala hey nia ita masker tungu\nEskada sasi'a rody\nMouse\nLapizeira\nDada'ik rody odamata\nSii lima\nRala hey, likmory papeu sii apakreek bele nene nia lalaa' hira-hira' oida...\nmii nahula bele sehu papeu ere'.\nou likmory maney ita hahadomi sii mata hngiru\nkose la'a ita mata\nSe ita si'a sala lalaa' hira-hira' ere' hea, soruk ita si'a ita mata hngiru,\nmaneira aia lii atu halaku, hrasi lalaa' hira-hira' ere' noro'sapaa, baiklin ou alkohol.\nVirus ere', bele nory nia lalaa' hira-hira' raik oras haira' hea\nsapaa\npara prevene\nTamba ere', ia lii ita roy do'i maneira\nhrasi lima noro'sapaa raik ari'a\nsapaa\nlima si'u\nTe ngee kay ita mata hngiru. (Ou likmory hey mata hngiru.) Se ita atu ngee, hrasi aia muna' ita lima noro' sapaa.\nHlery \"Happy Birthday\" rala harua'\nlu'u mata rala\ndurante detik 20\nlima klanga heta\nhrasi ita lima tanyk nii tungu\nOilaa' ma' atu hrasi aia ita lima?\nSe ita si'a sala, te rata'uk kay. Kla'a hrasi aia hleu lima noro' sapaa.\nSe bele, te si'a kay masker tungu.\n\nVirus sei nory nia ita masker rala, se ita uza ose lii.\nTa'u masker kuandu pa ra'i. Te paluri uza masker lii nai hengi hea!\nUza\u00a0 aru\nANANA\nAMAKAY\nINAKAY\nLikmory hea-hea tengki uza nii toalha doi\nTe hrere' kay rara'a, lalaa' hira-hirak dapuk nii, kopu, toalha.\nTe si'a kay ita mata hngiru noro' ita lima si'u\nDa'ik & taka' odamata rody lima si'u ou pas, se bele te uza kay lima sasi'a rody.\nRuma\ni kuandu sai kla'a haty publik\nAntis ita ra'a\nSempre hrasi ita lima noro' sapaa...\nKamuri' isi\nsapaa\nNahula-nahula hakmatik!\nNahula-nahula hakmatik!\nsapaa\nKlee artikel nenee informasaun hey tera!\n\"Animasaun ri'a tina', kuandu ita rahmasi biasa nii is bele la'a\" nai Chia Yi Hou noro' Andrea Schmitz, nia Business Insider (Jan 21, 2020)\n\"Virus Wuhan: Oilaa' atu hakmatik\", nai Laurie Garrett, nia Foreign Policy, Report. (Jan 25, 2020)\n\"Oilaa' atu raroo' nai virus corona? Hrasi ita lima\", nai Elizabeth Rosenthal, nia Nova Yorke Times, Opiniaun. (Jan 28, 2020)\nReferensia Informasaun prinsipal nai saude:\n\nNene VIRUS CORONA\n\n\n\n\n\n\n\n",
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\n\n\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "spa": "Sobre el Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSobre el Coronavirus\n\n\n\n\n\n\n\n",
+        "tdt": "Kona ba VIRUS CORONA\n\nAssoci\u00e7\u00e3o KULIT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKona ba VIRUS CORONA\n\n\n\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "spa",
+        "bbu",
+        "tdt",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, ba versaun, tradusaun no adaptasaun ho lian Raklungu Atauro, Associa\u00e7\u00e3o KULIT mak kaer (KULIT \u2013 Kultura, Lian no Identidade iha Timor-Leste).",
+    "country": "Timor-Leste",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "Atauro, Maquer",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "8PbcvnR5FW"
+        }
+    ],
+    "language-display-names": {
+        "bbu": "Raklungu",
+        "en": "English",
+        "es": "Spanish",
+        "tdt": "Tetun Dili"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Do not change the text of this work, but you may translate it, adapt it into other forms, and distribute it for non-commerical purposes. You must keep the copyrights and credits for the author and illustrator Weiman Kow.",
+    "originalPublisher": null,
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "Dili",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [
+        "bookshelf:SIL LEAD"
+    ],
+    "title": "Nene VIRUS CORONA",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

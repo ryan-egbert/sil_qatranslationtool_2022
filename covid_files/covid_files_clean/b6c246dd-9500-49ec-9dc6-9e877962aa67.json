@@ -1,0 +1,185 @@
+{
+    "allTitles": "{\"es\":\"S\u00cdNTOMAS DEL COVID-19\"}",
+    "author": null,
+    "bookInstanceId": "b6c246dd-9500-49ec-9dc6-9e877962aa67",
+    "bookLineage": "1a648b00-1ec0-46a7-be11-b0dec22fa0f4,9e760841-f913-4be4-8b74-1fee37936d52",
+    "bookSamples": {
+        "0": {
+            "csn": "",
+            "eng": "",
+            "esn": "",
+            "spa": "S\u00cdNTOMAS DEL COVID-19"
+        },
+        "1": {
+            "csn": "",
+            "spa": ""
+        },
+        "2": {
+            "csn": "",
+            "spa": ""
+        },
+        "3": {
+            "csn": "",
+            "spa": ""
+        },
+        "4": {
+            "csn": "",
+            "eng": "",
+            "esn": "",
+            "spa": "S\u00cdNTOMAS DEL COVID-19"
+        },
+        "5": {
+            "csn": "Lengua de Se\u00f1as Colombiana: Sebastian Nu\u00f1ez\nFilmaci\u00f3n: Eudes de Armas y Kelly Rojas\nEditor: Luis Forero y Sebastian Nu\u00f1ez\nilustradora y subtitulaci\u00f3n: Lisseth Amaya\nAsesora t\u00e9cnica: Sonia Shannon, SIL GSLT",
+            "spa": ""
+        },
+        "6": {
+            "csn": "Agradecemos a los generosos donantes que hicieron posible este proyecto.",
+            "spa": ""
+        },
+        "7": {
+            "csn": "",
+            "spa": ""
+        },
+        "8": {
+            "csn": "",
+            "spa": ""
+        },
+        "9": {
+            "csn": "",
+            "spa": ""
+        },
+        "10": {
+            "csn": "",
+            "spa": "La se\u00f1a de coronavirus"
+        },
+        "11": {
+            "csn": "",
+            "spa": "\u00bfQu\u00e9 es el coronavirus?"
+        },
+        "12": {
+            "csn": "",
+            "spa": "Es un virus que puede causar enfermedades\nen humanos como infecciones respiratorias."
+        },
+        "13": {
+            "csn": "",
+            "spa": "\u00bfCu\u00e1les son los s\u00edntomas de COVID-19?"
+        },
+        "14": {
+            "csn": "",
+            "spa": "Fiebre"
+        },
+        "15": {
+            "csn": "",
+            "spa": "Tos seca"
+        },
+        "16": {
+            "csn": "",
+            "spa": "Cansancio"
+        },
+        "17": {
+            "csn": "",
+            "spa": "Dolor de cuerpo"
+        },
+        "18": {
+            "csn": "",
+            "spa": "Dolor de garganta"
+        },
+        "19": {
+            "csn": "",
+            "spa": "Diarrea"
+        },
+        "20": {
+            "csn": "",
+            "spa": "Conjuntivitis"
+        },
+        "21": {
+            "csn": "",
+            "spa": "Dolor de cabeza"
+        },
+        "22": {
+            "csn": "",
+            "spa": "P\u00e9rdida del sentido del olfato"
+        },
+        "23": {
+            "csn": "",
+            "spa": "P\u00e9rdida del sentido del gusto"
+        },
+        "24": {
+            "csn": "",
+            "spa": "Dolor en el pecho"
+        },
+        "25": {
+            "csn": "",
+            "spa": "Dificultad para respirar"
+        },
+        "26": {
+            "csn": "",
+            "spa": ""
+        },
+        "27": {
+            "csn": "",
+            "spa": ""
+        }
+    },
+    "bookText": {
+        "csn": "\n\n\n\n\nLengua de Se\u00f1as Colombiana: Sebastian Nu\u00f1ez\nFilmaci\u00f3n: Eudes de Armas y Kelly Rojas\nEditor: Luis Forero y Sebastian Nu\u00f1ez\nilustradora y subtitulaci\u00f3n: Lisseth Amaya\nAsesora t\u00e9cnica: Sonia Shannon, SIL GSLT\nAgradecemos a los generosos donantes que hicieron posible este proyecto.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "spa": "S\u00cdNTOMAS DEL COVID-19\n\n\n\nS\u00cdNTOMAS DEL COVID-19\n\n\n\n\n\nLa se\u00f1a de coronavirus\n\u00bfQu\u00e9 es el coronavirus?\nEs un virus que puede causar enfermedades\nen humanos como infecciones respiratorias.\n\u00bfCu\u00e1les son los s\u00edntomas de COVID-19?\nFiebre\nTos seca\nCansancio\nDolor de cuerpo\nDolor de garganta\nDiarrea\nConjuntivitis\nDolor de cabeza\nP\u00e9rdida del sentido del olfato\nP\u00e9rdida del sentido del gusto\nDolor en el pecho\nDificultad para respirar\n\n"
+    },
+    "brandingProjectName": "Local-Community",
+    "contentLanguages": [
+        "spa",
+        "csn"
+    ],
+    "copyright": null,
+    "country": "",
+    "credits": "",
+    "district": "",
+    "features": [
+        "signLanguage",
+        "signLanguage:csn"
+    ],
+    "folio": false,
+    "imported-book-source-url": null,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "asUh6dYuEO"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "L5o89HLV0w"
+        }
+    ],
+    "language-display-names": {
+        "csn": "LENGUA DE SE\u00d1AS COLOMBIANA (LSC)",
+        "es": "Spanish",
+        "esn": "Salvadoran Sign Language"
+    },
+    "languages": [],
+    "license": "cc-by-nc",
+    "licenseNotes": null,
+    "originalPublisher": "",
+    "originalTitle": "S\u00cdNTOMAS DEL COVID-19",
+    "page-number-style": "Decimal",
+    "pageCount": 22,
+    "phashOfFirstContentImage": null,
+    "province": "",
+    "publisher": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": null,
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "S\u00cdNTOMAS DEL COVID-19",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

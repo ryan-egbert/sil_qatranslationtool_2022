@@ -1,0 +1,351 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "24bf2f90-8fb5-46bf-b1e4-611ca3e3a8bd",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Sobre el Coronavirus",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": null,
+  "downloadSource": "paul_frank@sil-lead.org/24bf2f90-8fb5-46bf-b1e4-611ca3e3a8bd",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Do not change the text of this work, but you may translate it, adapt it into other forms, and distribute it for non-commerical purposes. You must keep the copyrights and credits for the author and illustrator Weiman Kow.",
+  "copyright": "Copyright \u00a9 2020, SIL LEAD, Inc.",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "8YzEAaA09V"
+    }
+  ],
+  "summary": "Este libro informa sobre el coronavius COVID19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "k2DhvvBWS5"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "es": "espa\u00f1ol",
+    "en": "English"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "2": {
+    "es": "Sobre el Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "es": "Sobre el Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "es": "Sobre el Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "9": {
+    "es": ""
+  },
+  "10": {
+    "es": "Hay solo UNA cosa que usted necesita entender de como el coronavirus"
+  },
+  "11": {
+    "es": "SE PROPAGA"
+  },
+  "12": {
+    "es": "la boca"
+  },
+  "13": {
+    "es": "la nariz"
+  },
+  "14": {
+    "es": "los ojos"
+  },
+  "15": {
+    "es": "entran en"
+  },
+  "16": {
+    "es": "Persona Sana"
+  },
+  "17": {
+    "es": "Persona Enferma"
+  },
+  "18": {
+    "es": "El virus se propaga cuando estas gotitas"
+  },
+  "19": {
+    "es": "Mantener distancia. Con una distancia de 2 metros puede evitar contacto con las gotitas."
+  },
+  "20": {
+    "es": "1"
+  },
+  "21": {
+    "es": "2m"
+  },
+  "22": {
+    "es": "\u00a1Ach\u00fa!"
+  },
+  "23": {
+    "es": "Si ve a alguien que tose, estornuda o est\u00e1 enfermo, puede:"
+  },
+  "24": {
+    "es": "Darle una mascarilla.\u00a0 As\u00ed, la persona puede toser o estornudar sin poner en riesgo a los dem\u00e1s."
+  },
+  "25": {
+    "es": "2"
+  },
+  "26": {
+    "es": "\u00a1\u00a1\u00a1Gracias!!!"
+  },
+  "27": {
+    "es": "Tambi\u00e9n puede:"
+  },
+  "28": {
+    "es": "Quiz\u00e1 no est\u00e1 enferma, s\u00f3lo est\u00e1 protegi\u00e9ndose."
+  },
+  "29": {
+    "es": "Puede que personas infectadas no presenten s\u00edntomas, pero a\u00fan as\u00ed son \ufeffcontagiosas."
+  },
+  "30": {
+    "es": "En general, le conviene evitar lugares con mucha gente, porque no sabe quien podr\u00eda estar enfermo."
+  },
+  "31": {
+    "es": "palillos/\ufeffcubiertos"
+  },
+  "32": {
+    "es": "persona\ufeffsana"
+  },
+  "33": {
+    "es": "agarraderas"
+  },
+  "34": {
+    "es": "botones"
+  },
+  "35": {
+    "es": "pa\u00f1uelos"
+  },
+  "36": {
+    "es": "vasos"
+  },
+  "37": {
+    "es": "celulares y computadoras"
+  },
+  "38": {
+    "es": "hasta en el exterior de la mascarilla"
+  },
+  "39": {
+    "es": "barandal"
+  },
+  "40": {
+    "es": "mouse"
+  },
+  "41": {
+    "es": "lapiceros"
+  },
+  "42": {
+    "es": "pomos"
+  },
+  "43": {
+    "es": "manos"
+  },
+  "44": {
+    "es": "A veces, la saliva de una persona enferma puede pegarse en otras cosas."
+  },
+  "45": {
+    "es": "todos podr\u00edan enfermarse."
+  },
+  "46": {
+    "es": "o la de un querido"
+  },
+  "47": {
+    "es": "frota los ojos"
+  },
+  "48": {
+    "es": "Si toca cualquiera de estas cosas sin querer y despu\u00e9s se toca la cara,"
+  },
+  "49": {
+    "es": "La \u00fanica manera eficaz de eliminarlos es lavar los objectos con jab\u00f3n, blanqueador o alcohol medicinal."
+  },
+  "50": {
+    "es": "Los virus pueden durar muchas horas en los objetos."
+  },
+  "51": {
+    "es": "jab\u00f3n"
+  },
+  "52": {
+    "es": "precauciones"
+  },
+  "53": {
+    "es": "Para evitar contagios, siga estas"
+  },
+  "54": {
+    "es": "l\u00e1vese con\ufeffjab\u00f3n hasta aqu\u00ed"
+  },
+  "55": {
+    "es": "jab\u00f3n"
+  },
+  "56": {
+    "es": "codo"
+  },
+  "57": {
+    "es": "No toque su cara (o la de alguien m\u00e1s).\ufeffSi tiene que hacerlo, l\u00e1vese completamente las manos"
+  },
+  "58": {
+    "es": "el tiempo suficiente para cantar \"Cumplea\u00f1os feliz\" dos veces"
+  },
+  "59": {
+    "es": "debajo de las u\u00f1as"
+  },
+  "60": {
+    "es": "por 20 segundos"
+  },
+  "61": {
+    "es": "entre los dedos"
+  },
+  "62": {
+    "es": "l\u00e1vese la parte de atr\u00e1s"
+  },
+  "63": {
+    "es": "\u00bfQu\u00e9 quiere decir \"completamente\"?"
+  },
+  "64": {
+    "es": "Si lo hizo, no se preocupe.\u00a0 Solo l\u00e1vese bien las manos con jab\u00f3n despu\u00e9s.\u00a0 \u00a0\u00a0"
+  },
+  "65": {
+    "es": "No toque el exterior de la mascarilla."
+  },
+  "66": {
+    "es": "gotitas"
+  },
+  "67": {
+    "es": "Si la uses por mucho tiempo la misma mascarilla puede acumular bacterias por dentro."
+  },
+  "68": {
+    "es": "Tire las mascarillas que est\u00e9n sucios.\ufeff\u00a1No las use m\u00e1s de un d\u00eda!"
+  },
+  "69": {
+    "es": "Use una cuchara especial para servir."
+  },
+  "70": {
+    "es": "Beb\u00e9"
+  },
+  "71": {
+    "es": "Pap\u00e1"
+  },
+  "72": {
+    "es": "Mam\u00e1"
+  },
+  "73": {
+    "es": "Todos deben de tener su propia toalla."
+  },
+  "74": {
+    "es": "No comparta comida, cubiertos, vasos ni toallas."
+  },
+  "75": {
+    "es": "No puede tocarse la cara con los codos, por m\u00e1s que lo intente."
+  },
+  "76": {
+    "es": "Abra y cierre las puertas con los hombros o codos. Evite usar las manos."
+  },
+  "77": {
+    "es": "Hogar"
+  },
+  "78": {
+    "es": "y despu\u00e9s de estar en la calle."
+  },
+  "79": {
+    "es": "antes de comer"
+  },
+  "80": {
+    "es": "Siempre l\u00e1vese las manos..."
+  },
+  "81": {
+    "es": "Finalmente,"
+  },
+  "82": {
+    "es": "jab\u00f3n"
+  },
+  "83": {
+    "es": "\u00a1CU\u00cdDENSE!"
+  },
+  "84": {
+    "es": "\u00a1CU\u00cdDENSE!"
+  },
+  "85": {
+    "es": "jab\u00f3n"
+  },
+  "86": {
+    "es": "Lee estos art\u00edculos para mayor informaci\u00f3n."
+  },
+  "87": {
+    "es": "\"This animation shows how far your sneeze can actually travel\" por Chia Yi Hou, en Business Insider (21 de enero de 2020)"
+  },
+  "88": {
+    "es": "\"The Wuhan Virus: How to stay safe\", por Laurie Garrett, en Foreign Policy, Repert. (25 de enero de 2020)"
+  },
+  "89": {
+    "es": "\"How to avoid the coronavirus? Wash your hands\" por Elizabeth Sosenthal, en The New York Times, Opinion. (28 de enero de 2020)"
+  },
+  "90": {
+    "es": "Principales referencias m\u00e9dicas:"
+  },
+  "91": {
+    "es": "\ufeffPara todos los dem\u00e1s usos, por favor env\u00ede una solicitud a: comicsforgood@gmail.com\ufeff(Est\u00e1 p\u00e1gina fue traducido por Crist\u00f3bal con la ayuda de DeepL)"
+  },
+  "94": {
+    "es": "Sobre el Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "95": {
+    "es": "Sobre el Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "96": {
+    "es": "Sobre el Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "101": {
+    "es": "Translation by the Embassy of Mexico in the United States, Matthew A. Gray, and others"
+  },
+  "103": {
+    "es": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

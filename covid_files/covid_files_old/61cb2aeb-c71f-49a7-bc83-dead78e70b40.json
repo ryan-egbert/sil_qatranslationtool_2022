@@ -1,0 +1,235 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "61cb2aeb-c71f-49a7-bc83-dead78e70b40",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Covid-19 ri zid\u201d lhid khyoo:",
+  "allTitles": "{\"ahk\":\"Covid-19-ah\u02c7 yah\u02c7-eu\",\"en\":\"Avoid Covid-19\",\"lsi\":\"Covid-19 ri zid\u201d lhid khyoo:\",\"my\":\"Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038\"}",
+  "originalTitle": "Avoid Covid-19",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+  "downloadSource": "kwemoo@gmail.com/61cb2aeb-c71f-49a7-bc83-dead78e70b40",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2020, Lacid Literacy",
+  "credits": "",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 12,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "Au6o3hacjq"
+    }
+  ],
+  "summary": null,
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Myanmar",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "b3xvsSgeg9"
+  },
+  "tools": [],
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "lsi": "Lacid",
+    "en": "English"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "my": "",
+    "ahk": "\u00a0Covid-19-ah\u02c7 yah\u02c7-eu",
+    "lsi": "",
+    "en": "Avoid Covid-19"
+  },
+  "2": {
+    "my": "",
+    "ahk": "\u00a0Covid-19-ah\u02c7 yah\u02c7-eu",
+    "lsi": "",
+    "en": "Avoid Covid-19"
+  },
+  "3": {
+    "my": "",
+    "ahk": "\u00a0Covid-19-ah\u02c7 yah\u02c7-eu",
+    "lsi": "",
+    "en": "Avoid Covid-19"
+  },
+  "4": {
+    "my": "",
+    "ahk": "\u00a0Covid-19-ah\u02c7 yah\u02c7-eu",
+    "lsi": "",
+    "en": "Avoid Covid-19"
+  },
+  "14": {
+    "my": "",
+    "ahk": "\u00a0Covid-19-ah\u02c7 yah\u02c7-eu",
+    "lsi": "",
+    "en": "Avoid Covid-19"
+  },
+  "15": {
+    "my": "",
+    "ahk": "\u00a0Covid-19-ah\u02c7 yah\u02c7-eu",
+    "lsi": "",
+    "en": "Avoid Covid-19"
+  },
+  "16": {
+    "my": "",
+    "ahk": "\u00a0Covid-19-ah\u02c7 yah\u02c7-eu",
+    "lsi": "",
+    "en": "Avoid Covid-19"
+  },
+  "17": {
+    "my": "",
+    "ahk": "\u00a0Covid-19-ah\u02c7 yah\u02c7-eu",
+    "lsi": "",
+    "en": "Avoid Covid-19"
+  },
+  "20": {
+    "en": "Version 27.3.2020"
+  },
+  "23": {
+    "en": "Literacy for Women in Africa"
+  },
+  "25": {
+    "en": "Translator Lanham: Zung\u201d Khoo\u201d, Illustrator Ai Yawn Kap"
+  },
+  "31": {
+    "lsi": "",
+    "en": ""
+  },
+  "32": {
+    "lsi": "",
+    "en": ""
+  },
+  "33": {
+    "lsi": "",
+    "en": "Lo, ri Sapya: yo\u2019 ajang\u201d cid\u201d ca\u201d (angh ) Yhid: yo\u2019 koid thu\u2019 to\u201d da\u201d lo, cid\u201d yeing yo\u2019 voin: tang: boid lho: cid\u201d ca\u201d.",
+    "z": ""
+  },
+  "34": {
+    "lsi": "",
+    "en": "Lo, ri Sapya: yo\u2019 ajang\u201d cid\u201d ca\u201d (angh ) Yhid: yo\u2019 koid thu\u2019 to\u201d da\u201d lo, cid\u201d yeing yo\u2019 voin: tang: boid lho: cid\u201d ca\u201d.",
+    "z": ""
+  },
+  "35": {
+    "lsi": "",
+    "en": "Lo, ri Sapya: yo\u2019 ajang\u201d cid\u201d ca\u201d (angh ) Yhid: yo\u2019 koid thu\u2019 to\u201d da\u201d lo, cid\u201d yeing yo\u2019 voin: tang: boid lho: cid\u201d ca\u201d.",
+    "z": ""
+  },
+  "36": {
+    "lsi": "Myo, jid\u201d \u2013 nhoo: - nhoid ri azang\u201d thung\u201d.",
+    "en": "",
+    "z": ""
+  },
+  "37": {
+    "lsi": "Myo, jid\u201d \u2013 nhoo: - nhoid ri azang\u201d thung\u201d.",
+    "en": "",
+    "z": ""
+  },
+  "38": {
+    "lsi": "Myo, jid\u201d \u2013 nhoo: - nhoid ri azang\u201d thung\u201d.",
+    "en": "",
+    "z": ""
+  },
+  "39": {
+    "lsi": "Nhoo\u201d yeing yu: - xam: myhid\u201d noo lang\u201d re\u201d nhoo: yo\u2019 nhoid ri lo, moin\u201d thung\u201d guid\u201d thang: ( angh) lo, boid mougsoug\u201d yo\u2019 nghoeb too\u201d we\u2019. Bain lang\u201d hau: lo, boid mougsoug\u201d ri dalheing dam mhoid khoid pung\u201d moo kaid we\u2019.",
+    "en": "",
+    "z": ""
+  },
+  "40": {
+    "lsi": "Nhoo\u201d yeing yu: - xam: myhid\u201d noo lang\u201d re\u201d nhoo: yo\u2019 nhoid ri lo, moin\u201d thung\u201d guid\u201d thang: ( angh) lo, boid mougsoug\u201d yo\u2019 nghoeb too\u201d we\u2019. Bain lang\u201d hau: lo, boid mougsoug\u201d ri dalheing dam mhoid khoid pung\u201d moo kaid we\u2019.",
+    "en": "",
+    "z": ""
+  },
+  "41": {
+    "lsi": "Nhoo\u201d yeing yu: - xam: myhid\u201d noo lang\u201d re\u201d nhoo: yo\u2019 nhoid ri lo, moin\u201d thung\u201d guid\u201d thang: ( angh) lo, boid mougsoug\u201d yo\u2019 nghoeb too\u201d we\u2019. Bain lang\u201d hau: lo, boid mougsoug\u201d ri dalheing dam mhoid khoid pung\u201d moo kaid we\u2019.",
+    "en": "",
+    "z": ""
+  },
+  "42": {
+    "lsi": "Byu dayug yo\u2019 dayug agyoo: moo neing: thang\u2019 Dalam ( 6 pe: ) koo: moo nyid we\u2019.",
+    "en": "",
+    "z": ""
+  },
+  "43": {
+    "lsi": "Byu dayug yo\u2019 dayug agyoo: moo neing: thang\u2019 Dalam ( 6 pe: ) koo: moo nyid we\u2019.",
+    "en": "",
+    "z": ""
+  },
+  "44": {
+    "lsi": "Byu dayug yo\u2019 dayug agyoo: moo neing: thang\u2019 Dalam ( 6 pe: ) koo: moo nyid we\u2019.",
+    "en": "",
+    "z": ""
+  },
+  "45": {
+    "lsi": "Noo lang\u201d yhoem: moo nyid we\u2019. Zhau\u201d \u2013 so\u2019 shi: yau: ziyo\u2019 nge\u201d no nyid lang\u201d je jhang da\u201d mocid\u201d rung\u201d khyoo: myab thang khyo\u201d lo\u201d byang\u201d we\u2019.",
+    "en": "",
+    "z": ""
+  },
+  "46": {
+    "lsi": "Noo lang\u201d yhoem: moo nyid we\u2019. Zhau\u201d \u2013 so\u2019 shi: yau: ziyo\u2019 nge\u201d no nyid lang\u201d je jhang da\u201d mocid\u201d rung\u201d khyoo: myab thang khyo\u201d lo\u201d byang\u201d we\u2019.",
+    "en": "",
+    "z": ""
+  },
+  "47": {
+    "lsi": "Noo lang\u201d yhoem: moo nyid we\u2019. Zhau\u201d \u2013 so\u2019 shi: yau: ziyo\u2019 nge\u201d no nyid lang\u201d je jhang da\u201d mocid\u201d rung\u201d khyoo: myab thang khyo\u201d lo\u201d byang\u201d we\u2019.",
+    "en": "",
+    "z": ""
+  },
+  "48": {
+    "lsi": "COVID-19 yo\u2019 sen: lho: thang: thang\u2019 shoug\u201d gyo: da\u201d kyoo\u201d dang: ri tam\u201d gyoo: we\u2019. Yang\u201d zain: khyoo: shu\u201d ajhung: mo anoo: tid shed nyid da\u201d kyoo\u201d dang: ri voin: tang: cang\u2019 we\u2019.",
+    "en": "",
+    "z": ""
+  },
+  "49": {
+    "lsi": "COVID-19 yo\u2019 sen: lho: thang: thang\u2019 shoug\u201d gyo: da\u201d kyoo\u201d dang: ri tam\u201d gyoo: we\u2019. Yang\u201d zain: khyoo: shu\u201d ajhung: mo anoo: tid shed nyid da\u201d kyoo\u201d dang: ri voin: tang: cang\u2019 we\u2019.",
+    "en": "",
+    "z": ""
+  },
+  "50": {
+    "lsi": "COVID-19 yo\u2019 sen: lho: thang: thang\u2019 shoug\u201d gyo: da\u201d kyoo\u201d dang: ri tam\u201d gyoo: we\u2019. Yang\u201d zain: khyoo: shu\u201d ajhung: mo anoo: tid shed nyid da\u201d kyoo\u201d dang: ri voin: tang: cang\u2019 we\u2019.",
+    "en": "",
+    "z": ""
+  }
+}

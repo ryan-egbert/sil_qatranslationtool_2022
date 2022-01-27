@@ -1,0 +1,451 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"zgh\":\"\u0393ef Avirus n Kuruna\"}",
+    "author": null,
+    "bookInstanceId": "92118500-86f9-41f0-8d39-a42548d5d325",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,726d708d-535e-47af-8905-ce6e5e0d745c",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "zgh": "\u0393ef Avirus n Kuruna"
+        },
+        "1": {
+            "eng": "",
+            "zgh": ""
+        },
+        "2": {
+            "eng": "",
+            "zgh": ""
+        },
+        "3": {
+            "eng": "",
+            "zgh": ""
+        },
+        "4": {
+            "eng": "There's only ONE thing \ufeffyou need to understand about how a coronavirus",
+            "zgh": "Dis t\u0263awsa I\u011e\u011eET a bac at-takzed \u0263ef mammek Avirus n kuruna"
+        },
+        "5": {
+            "eng": "SPREADS",
+            "zgh": "ITTCENTEL"
+        },
+        "6": {
+            "eng": "Mouth",
+            "zgh": "Imi nnem/k"
+        },
+        "7": {
+            "eng": "Nose",
+            "zgh": "Tinzert nnem/k"
+        },
+        "8": {
+            "eng": "Eyes",
+            "zgh": "Ti\u1e6d\u1e6dawin nnem/k"
+        },
+        "9": {
+            "eng": "Get into your",
+            "zgh": "Ittawwa\u1e6d g"
+        },
+        "10": {
+            "eng": "Healthy Person",
+            "zgh": "Bnadem d A\u1e63bi\u1e25"
+        },
+        "11": {
+            "eng": "Sick Person",
+            "zgh": "Bnadem d Ama\u1e6dun"
+        },
+        "12": {
+            "eng": "The virus spreads when \ufeffthese droplets",
+            "zgh": "Avirus ittcentel lemmi yella g tnuzzut(Tikuffa)"
+        },
+        "13": {
+            "eng": "Keep your distance.\ufeff2m will keep you safe from large droplets.",
+            "zgh": "\u011e\u011f jar-am/k ag n 2 miter"
+        },
+        "14": {
+            "eng": "1",
+            "zgh": "1"
+        },
+        "15": {
+            "eng": "2m",
+            "zgh": "2 miter"
+        },
+        "16": {
+            "eng": "Achoo!",
+            "zgh": "Attsu !"
+        },
+        "17": {
+            "eng": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:",
+            "zgh": "Lemmi ad tte\u1e93r-d i\u011f\u011fen/t ittban-d fellas akutti/anuzzi/d ma\u1e6d\u1e6dun ttnejjm-d :"
+        },
+        "18": {
+            "eng": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby.",
+            "zgh": "Uc-as a Tamaskt. T/inejjem sis at/ykutt \u0263en at/yenzzu dis d wel a\u1e6durri i\u1e6dnin \u0263er dis-nnes"
+        },
+        "19": {
+            "eng": "2",
+            "zgh": "2"
+        },
+        "20": {
+            "eng": "Thank you\ufeff*sniffles*",
+            "zgh": "Tanemmirt a *ti\u1e25i\u1e6d\u1e6da*"
+        },
+        "21": {
+            "eng": "OR,",
+            "zgh": "\u0393EN"
+        },
+        "22": {
+            "eng": "Maybe she's not sick, just protecting herself",
+            "zgh": "Waqila nettat ca ttma\u1e6dunt, \u0263er terra labl f yiman nnes"
+        },
+        "23": {
+            "eng": "People who are infected can show no symptoms, but are still\ufeffinfectious",
+            "zgh": "Iwdan lli u\u1e6d\u1e6dnen wel ittban-d dis a\u1e6d\u1e6dan, welyuc ttsawa\u1e6den gwa\u1e6d\u1e6dan"
+        },
+        "24": {
+            "eng": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick.",
+            "zgh": "D rni fellas, taktit tezz\u025bam\u00a0 ac seg agejlu\u1e6d (guda n iwdan), ma\u0263er wel tessn-d mant dis t/yella t/yu\u1e6den."
+        },
+        "25": {
+            "eng": "Chopsticks",
+            "zgh": "Tiqecqac"
+        },
+        "26": {
+            "eng": "Healthy person",
+            "zgh": "Bnadem d A\u1e63bi\u1e25"
+        },
+        "27": {
+            "eng": "Train straps",
+            "zgh": "Tiddriwin n Cmendfir"
+        },
+        "28": {
+            "eng": "Lift buttons",
+            "zgh": "Ta\u1e6dbilt n\nUsensir"
+        },
+        "29": {
+            "eng": "Tissues",
+            "zgh": "Lklineks"
+        },
+        "30": {
+            "eng": "Cups",
+            "zgh": "\u1e6c\u1e6dwasi (Aqbuc)"
+        },
+        "31": {
+            "eng": "Digital devices",
+            "zgh": "Allal Um\u1e0din"
+        },
+        "32": {
+            "eng": "& even on the outside of your face mask",
+            "zgh": "D rrni I lli yella berra n tamaskt nnem/k"
+        },
+        "33": {
+            "eng": "Stair bannisters",
+            "zgh": "Tidderiwin"
+        },
+        "34": {
+            "eng": "Mouse",
+            "zgh": "Tafekrunt (Aselkim)"
+        },
+        "35": {
+            "eng": "Pens",
+            "zgh": "I\u0263unab"
+        },
+        "36": {
+            "eng": "Door knobs",
+            "zgh": "Fus n tawwurt"
+        },
+        "37": {
+            "eng": "Their hands",
+            "zgh": "Ifassen nnes"
+        },
+        "38": {
+            "eng": "However, sometimes a sick person's saliva can get on other things\u2026",
+            "zgh": "Dis mak, itt\u1e63ara d Ama\u1e0dun s tikufsa nnes tassnt-d f ti\u0263awsiwin\u2026"
+        },
+        "39": {
+            "eng": "you might all fall sick.",
+            "zgh": "Waqil ad tta\u1e6dnum ukkul nnwen\\t"
+        },
+        "40": {
+            "eng": "or your loved one's face",
+            "zgh": "\u0263en f udem n tayri nnem/k"
+        },
+        "41": {
+            "eng": "rub eyes",
+            "zgh": "A\u1e25ukki n ti\u1e6d\u1e6dawin"
+        },
+        "42": {
+            "eng": "And if you do touch any of these things by accident, and then touch your face,",
+            "zgh": "i\u1e63ar d ttmuss-d seg ti\u0263awsiwin tidhat saht, d sdeffr-as ttmused udem nnem/k,"
+        },
+        "43": {
+            "eng": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.",
+            "zgh": "D t\u0263awsa\u00a0 i\u011f\u011fet tnejjem aten-tesfe\u1e0d s usired nnes s \u1e63\u1e63abun, tasemellalt, \u0263en i\u0263isem."
+        },
+        "44": {
+            "eng": "Viruses can last for quite a few hours on objects,",
+            "zgh": "Virus inejjem itteqqima yella f t\u0263awsa\u00a0 ugar timirt"
+        },
+        "45": {
+            "eng": "soap",
+            "zgh": "\u1e62\u1e63abun"
+        },
+        "46": {
+            "eng": "precautions",
+            "zgh": "Irray n Lbal"
+        },
+        "47": {
+            "eng": "Which is why it is also good to follow these",
+            "zgh": "D ayed i matta d tasbi\u1e25t ta\u1e0dfrawt tad"
+        },
+        "48": {
+            "eng": "wash with soap up to here",
+            "zgh": "Ssird s \u1e63\u1e63abun al ti\u0263mert"
+        },
+        "49": {
+            "eng": "soap",
+            "zgh": "\u1e63\u1e63abun"
+        },
+        "50": {
+            "eng": "elbow",
+            "zgh": "ti\u0263mert"
+        },
+        "51": {
+            "eng": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.",
+            "zgh": "Ttmusset-c udem nnem/k (\u0263en udem \u1e25ad i\u1e6den) wel dis-c mammek, ssird-t ifassen nnem/k s \u1e63\u1e63abun s Tane\u1e6d\u1e6duft."
+        },
+        "52": {
+            "eng": "Enough time to sing \u201cHappy Birthday\u201d twice",
+            "zgh": "Gget n lu\u0263ed i yinig \u201cTafaska n ulul \u201c sent tikwal"
+        },
+        "53": {
+            "eng": "under the nails",
+            "zgh": "S addu iccaren"
+        },
+        "54": {
+            "eng": "for 20 seconds",
+            "zgh": "Ag 20 tisinin"
+        },
+        "55": {
+            "eng": "between the fingers",
+            "zgh": "Jar i\u1e6du\u1e6dan"
+        },
+        "56": {
+            "eng": "wash the back of your hands",
+            "zgh": "Ssird s denneg fus nnem/k"
+        },
+        "57": {
+            "eng": "What is thoroughly?",
+            "zgh": "Matta nettat Tane\u1e6d\u1e6duft ?"
+        },
+        "58": {
+            "eng": "If you did, don't worry. Just wash your hands with soap after.",
+            "zgh": "Wel ttqeqet-c kan i\u1e63ar ttmuss-tt. S deffer ssird ifassen nnem/k s \u1e63\u1e63abun"
+        },
+        "59": {
+            "eng": "Also, don't touch the outside of the mask if you can.",
+            "zgh": "Rrni fellas, ukan dis mammek wel at-tmussd tamaskt s fus."
+        },
+        "60": {
+            "eng": "droplets",
+            "zgh": "tanuzzut"
+        },
+        "61": {
+            "eng": "*Bacteria grows on the insides of your mask if you wear them too long",
+            "zgh": "Tabaktirit ttekker jaj g tamaskt nnem/k lemmi at-tir\u1e6dd sis guda."
+        },
+        "62": {
+            "eng": "Throw away masks once they feel gross. Don't wear them for more than a day!",
+            "zgh": "Zzref-tt kull tamaskt lemmi at-semdid sis. Wel at-tir\u1e6dd ugar i\u011f\u011fewass !"
+        },
+        "63": {
+            "eng": "Use a serving spoon",
+            "zgh": "Ig s u\u0263enjay"
+        },
+        "64": {
+            "eng": "Baby",
+            "zgh": "Ane\u025bnuc"
+        },
+        "65": {
+            "eng": "Daddy",
+            "zgh": "Baba"
+        },
+        "66": {
+            "eng": "Mommy",
+            "zgh": "Yemma"
+        },
+        "67": {
+            "eng": "Everyone gets their own towel",
+            "zgh": "Kull i\u011f\u011fen\\t s lfu\u1e6det nnes"
+        },
+        "68": {
+            "eng": "Do not share food, utensils, cups, towels.",
+            "zgh": "Wel ttnemili-d s U\u010d\u010du, Tirukan , \u1e6c\u1e6dwasi(Aqbuc), Lleffe\u1e6d."
+        },
+        "69": {
+            "eng": "You can't touch your face with your elbow even if you tried",
+            "zgh": "Wel tzemmr-d at-tmusd udem nnem/k s ti\u0263mert nnem/k"
+        },
+        "70": {
+            "eng": "Open & close doors with your elbows or shoulders instead of hands, if possible.",
+            "zgh": "Arr d aqqes tiwwura s ti\u0263mert \u0263en i\u0263il muc s ifassen, ukan dis mammek."
+        },
+        "71": {
+            "eng": "Home",
+            "zgh": "Taddart"
+        },
+        "72": {
+            "eng": "and after being out in the public",
+            "zgh": "D lemmi\u00a0 tissi-d berra g u\u0263lad"
+        },
+        "73": {
+            "eng": "Before you eat",
+            "zgh": "Qbel u\u010d\u010du"
+        },
+        "74": {
+            "eng": "Always wash your hands with soap\u2026",
+            "zgh": "Ssird-t ifassen nnwen s \u1e62\u1e63abun\u2026"
+        },
+        "75": {
+            "eng": "And finally,",
+            "zgh": "G uneggaru"
+        },
+        "76": {
+            "eng": "soap",
+            "zgh": "\u1e62\u1e63abun"
+        },
+        "77": {
+            "eng": "Stay safe, everyone!",
+            "zgh": "Rret Lbal nnwen/t !"
+        },
+        "78": {
+            "eng": "Stay safe, everyone!",
+            "zgh": "Rret Lbal nnwen/t !"
+        },
+        "79": {
+            "eng": "soap",
+            "zgh": "\u1e62\u1e63abun"
+        },
+        "80": {
+            "eng": "Read the articles for more tips!",
+            "zgh": "\u0393\u0263er imegrad i ugar isemtar !"
+        },
+        "81": {
+            "eng": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)",
+            "zgh": "\u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\n\u0393\u0263er imegrad i ugar isemtar !"
+        },
+        "82": {
+            "eng": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)",
+            "zgh": "\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report. (Jan 25, 2020)"
+        },
+        "83": {
+            "eng": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020",
+            "zgh": "\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion. \u00a0(Jan 28,2020)"
+        },
+        "84": {
+            "eng": "Main references for medical info:",
+            "zgh": "Tamsel\u0263ut tadasilant i taywalt tadawsant:"
+        },
+        "85": {
+            "eng": "",
+            "zgh": ""
+        },
+        "86": {
+            "eng": "Additional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com",
+            "zgh": "Tazmilt Timernant: irray n lbal s u\u0263us s Kumik d t\u0263awsa \u0263ers asemday g asbeddi a guda n wa\u1e6d\u1e6danen ama Fluwenza d tamesla\u0263t, d ilaq u\u0263us kull ass g ussan nne\u0263, d ula wel tella lluhef\\arwas.\nTimsel\u0263a: Tal\u0263ut g Kumik tus-d seg tikazt n COVID-19 al 28 Furar 2020,d adasil n Tal\u0263ut nnes seg kra\u1e0dt Timsel\u0263a tidhat. \u00a0\u00a0\u00a0\nhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nTal\u0263ut Timernant: Afulyu n PDF seg Kumik a yella i usahwi f umellal dahat:\nhttps://gumroad.com/weimankowart\u00a0\nTamyedrawt n Tamnirt: Kumik a yella f umellal i kull i usebleg g uskar uqqin d f ubrid n\u00a0 Whatsapp d Telegram, d usehhwi f umellal i useggiz am Aker\u1e0da i yiman nnem\\k d usinan g tiddar, tinmal\\i\u0263erbaz d timlilin n twuri.\nLemmi at-tig-d ssis tamyedrawt, ig g lbal i 3 n ti\u0263awsiwin:1) wel itt\u1e63ara kull icckel g i\u1e93rag n Ikumiken lemmi at-tig-d sis tamyedrawt.2)Ikumiken ca i usexdem nnesn g usenfar asenzan\n3)g uskar uqqin, ari isem n umeslal g FB s @weimankowart, g IG s @weimankow (IG), \u0263en ari iqqin\\asmel instagramcom/weimankow I usemres i\u1e6den, enki tabra\u1e6dt i:comicsforgood@gmail.com"
+        },
+        "87": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "zgh": "\u0393ef Avirus n Kuruna"
+        },
+        "88": {
+            "eng": "Images on pages Front Cover, 1\u201318 by Weiman Kou, \u00a9 2020 Weiman Kou. CC BY-NC-SA 4.0.\nImage on page 19 by SIL LEAD, Inc.. CC0 1.0.",
+            "zgh": ""
+        },
+        "89": {
+            "eng": "",
+            "zgh": ""
+        },
+        "90": {
+            "eng": "Translators: Madghis Bouzakhar & Houda Khzam",
+            "zgh": ""
+        },
+        "91": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "zgh": ""
+        },
+        "92": {
+            "eng": "",
+            "zgh": ""
+        },
+        "93": {
+            "eng": "",
+            "zgh": ""
+        },
+        "94": {
+            "eng": "",
+            "zgh": ""
+        },
+        "95": {
+            "eng": "",
+            "zgh": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\nThere's only ONE thing \ufeffyou need to understand about how a coronavirus\nSPREADS\nMouth\nNose\nEyes\nGet into your\nHealthy Person\nSick Person\nThe virus spreads when \ufeffthese droplets\nKeep your distance.\ufeff2m will keep you safe from large droplets.\n1\n2m\nAchoo!\nSo if you see someone who is visibly coughing/sneezing/sick you can choose to:\nGive them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby.\n2\nThank you\ufeff*sniffles*\nOR,\nMaybe she's not sick, just protecting herself\nPeople who are infected can show no symptoms, but are still\ufeffinfectious\nAnd in general, it's a good idea to avoid crowds, because you don't know who might be sick.\nChopsticks\nHealthy person\nTrain straps\nLift buttons\nTissues\nCups\nDigital devices\n& even on the outside of your face mask\nStair bannisters\nMouse\nPens\nDoor knobs\nTheir hands\nHowever, sometimes a sick person's saliva can get on other things\u2026\nyou might all fall sick.\nor your loved one's face\nrub eyes\nAnd if you do touch any of these things by accident, and then touch your face,\nand the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.\nViruses can last for quite a few hours on objects,\nsoap\nprecautions\nWhich is why it is also good to follow these\nwash with soap up to here\nsoap\nelbow\nDo not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.\nEnough time to sing \u201cHappy Birthday\u201d twice\nunder the nails\nfor 20 seconds\nbetween the fingers\nwash the back of your hands\nWhat is thoroughly?\nIf you did, don't worry. Just wash your hands with soap after.\nAlso, don't touch the outside of the mask if you can.\ndroplets\n*Bacteria grows on the insides of your mask if you wear them too long\nThrow away masks once they feel gross. Don't wear them for more than a day!\nUse a serving spoon\nBaby\nDaddy\nMommy\nEveryone gets their own towel\nDo not share food, utensils, cups, towels.\nYou can't touch your face with your elbow even if you tried\nOpen & close doors with your elbows or shoulders instead of hands, if possible.\nHome\nand after being out in the public\nBefore you eat\nAlways wash your hands with soap\u2026\nAnd finally,\nsoap\nStay safe, everyone!\nStay safe, everyone!\nsoap\nRead the articles for more tips!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020\nMain references for medical info:\n\nAdditional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com\nAbout Coronavirus\nImages on pages Front Cover, 1\u201318 by Weiman Kou, \u00a9 2020 Weiman Kou. CC BY-NC-SA 4.0.\nImage on page 19 by SIL LEAD, Inc.. CC0 1.0.\n\nTranslators: Madghis Bouzakhar & Houda Khzam\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "spa": "Sobre el Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSobre el Coronavirus\n\n\n\n\n\n\n\n",
+        "zgh": "\u0393ef Avirus n Kuruna\n\n\n\nDis t\u0263awsa I\u011e\u011eET a bac at-takzed \u0263ef mammek Avirus n kuruna\nITTCENTEL\nImi nnem/k\nTinzert nnem/k\nTi\u1e6d\u1e6dawin nnem/k\nIttawwa\u1e6d g\nBnadem d A\u1e63bi\u1e25\nBnadem d Ama\u1e6dun\nAvirus ittcentel lemmi yella g tnuzzut(Tikuffa)\n\u011e\u011f jar-am/k ag n 2 miter\n1\n2 miter\nAttsu !\nLemmi ad tte\u1e93r-d i\u011f\u011fen/t ittban-d fellas akutti/anuzzi/d ma\u1e6d\u1e6dun ttnejjm-d :\nUc-as a Tamaskt. T/inejjem sis at/ykutt \u0263en at/yenzzu dis d wel a\u1e6durri i\u1e6dnin \u0263er dis-nnes\n2\nTanemmirt a *ti\u1e25i\u1e6d\u1e6da*\n\u0393EN\nWaqila nettat ca ttma\u1e6dunt, \u0263er terra labl f yiman nnes\nIwdan lli u\u1e6d\u1e6dnen wel ittban-d dis a\u1e6d\u1e6dan, welyuc ttsawa\u1e6den gwa\u1e6d\u1e6dan\nD rni fellas, taktit tezz\u025bam\u00a0 ac seg agejlu\u1e6d (guda n iwdan), ma\u0263er wel tessn-d mant dis t/yella t/yu\u1e6den.\nTiqecqac\nBnadem d A\u1e63bi\u1e25\nTiddriwin n Cmendfir\nTa\u1e6dbilt n\nUsensir\nLklineks\n\u1e6c\u1e6dwasi (Aqbuc)\nAllal Um\u1e0din\nD rrni I lli yella berra n tamaskt nnem/k\nTidderiwin\nTafekrunt (Aselkim)\nI\u0263unab\nFus n tawwurt\nIfassen nnes\nDis mak, itt\u1e63ara d Ama\u1e0dun s tikufsa nnes tassnt-d f ti\u0263awsiwin\u2026\nWaqil ad tta\u1e6dnum ukkul nnwen\\t\n\u0263en f udem n tayri nnem/k\nA\u1e25ukki n ti\u1e6d\u1e6dawin\ni\u1e63ar d ttmuss-d seg ti\u0263awsiwin tidhat saht, d sdeffr-as ttmused udem nnem/k,\nD t\u0263awsa\u00a0 i\u011f\u011fet tnejjem aten-tesfe\u1e0d s usired nnes s \u1e63\u1e63abun, tasemellalt, \u0263en i\u0263isem.\nVirus inejjem itteqqima yella f t\u0263awsa\u00a0 ugar timirt\n\u1e62\u1e63abun\nIrray n Lbal\nD ayed i matta d tasbi\u1e25t ta\u1e0dfrawt tad\nSsird s \u1e63\u1e63abun al ti\u0263mert\n\u1e63\u1e63abun\nti\u0263mert\nTtmusset-c udem nnem/k (\u0263en udem \u1e25ad i\u1e6den) wel dis-c mammek, ssird-t ifassen nnem/k s \u1e63\u1e63abun s Tane\u1e6d\u1e6duft.\nGget n lu\u0263ed i yinig \u201cTafaska n ulul \u201c sent tikwal\nS addu iccaren\nAg 20 tisinin\nJar i\u1e6du\u1e6dan\nSsird s denneg fus nnem/k\nMatta nettat Tane\u1e6d\u1e6duft ?\nWel ttqeqet-c kan i\u1e63ar ttmuss-tt. S deffer ssird ifassen nnem/k s \u1e63\u1e63abun\nRrni fellas, ukan dis mammek wel at-tmussd tamaskt s fus.\ntanuzzut\nTabaktirit ttekker jaj g tamaskt nnem/k lemmi at-tir\u1e6dd sis guda.\nZzref-tt kull tamaskt lemmi at-semdid sis. Wel at-tir\u1e6dd ugar i\u011f\u011fewass !\nIg s u\u0263enjay\nAne\u025bnuc\nBaba\nYemma\nKull i\u011f\u011fen\\t s lfu\u1e6det nnes\nWel ttnemili-d s U\u010d\u010du, Tirukan , \u1e6c\u1e6dwasi(Aqbuc), Lleffe\u1e6d.\nWel tzemmr-d at-tmusd udem nnem/k s ti\u0263mert nnem/k\nArr d aqqes tiwwura s ti\u0263mert \u0263en i\u0263il muc s ifassen, ukan dis mammek.\nTaddart\nD lemmi\u00a0 tissi-d berra g u\u0263lad\nQbel u\u010d\u010du\nSsird-t ifassen nnwen s \u1e62\u1e63abun\u2026\nG uneggaru\n\u1e62\u1e63abun\nRret Lbal nnwen/t !\nRret Lbal nnwen/t !\n\u1e62\u1e63abun\n\u0393\u0263er imegrad i ugar isemtar !\n\u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\n\u0393\u0263er imegrad i ugar isemtar !\n\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report. (Jan 25, 2020)\n\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion. \u00a0(Jan 28,2020)\nTamsel\u0263ut tadasilant i taywalt tadawsant:\n\nTazmilt Timernant: irray n lbal s u\u0263us s Kumik d t\u0263awsa \u0263ers asemday g asbeddi a guda n wa\u1e6d\u1e6danen ama Fluwenza d tamesla\u0263t, d ilaq u\u0263us kull ass g ussan nne\u0263, d ula wel tella lluhef\\arwas.\nTimsel\u0263a: Tal\u0263ut g Kumik tus-d seg tikazt n COVID-19 al 28 Furar 2020,d adasil n Tal\u0263ut nnes seg kra\u1e0dt Timsel\u0263a tidhat. \u00a0\u00a0\u00a0\nhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nTal\u0263ut Timernant: Afulyu n PDF seg Kumik a yella i usahwi f umellal dahat:\nhttps://gumroad.com/weimankowart\u00a0\nTamyedrawt n Tamnirt: Kumik a yella f umellal i kull i usebleg g uskar uqqin d f ubrid n\u00a0 Whatsapp d Telegram, d usehhwi f umellal i useggiz am Aker\u1e0da i yiman nnem\\k d usinan g tiddar, tinmal\\i\u0263erbaz d timlilin n twuri.\nLemmi at-tig-d ssis tamyedrawt, ig g lbal i 3 n ti\u0263awsiwin:1) wel itt\u1e63ara kull icckel g i\u1e93rag n Ikumiken lemmi at-tig-d sis tamyedrawt.2)Ikumiken ca i usexdem nnesn g usenfar asenzan\n3)g uskar uqqin, ari isem n umeslal g FB s @weimankowart, g IG s @weimankow (IG), \u0263en ari iqqin\\asmel instagramcom/weimankow I usemres i\u1e6den, enki tabra\u1e6dt i:comicsforgood@gmail.com\n\u0393ef Avirus n Kuruna\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "spa",
+        "zgh",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, SIL International",
+    "country": "Libya",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "8eEpwx8kue"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "Spanish",
+        "zgh": "Tamazight of Infusen region"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "\u0393ef Avirus n Kuruna",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

@@ -1,0 +1,413 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "726d708d-535e-47af-8905-ce6e5e0d745c",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Nene VIRUS CORONA",
+  "allTitles": "{\"bbu\":\"Nene VIRUS CORONA\",\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"tdt\":\"Kona ba VIRUS CORONA\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+  "downloadSource": "associacaokulit.tl@gmail.com/726d708d-535e-47af-8905-ce6e5e0d745c",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Do not change the text of this work, but you may translate it, adapt it into other forms, and distribute it for non-commerical purposes. You must keep the copyrights and credits for the author and illustrator Weiman Kow.",
+  "copyright": "Copyright \u00a9 2020, ba versaun, tradusaun no adaptasaun ho lian Raklungu Atauro, Associa\u00e7\u00e3o KULIT mak kaer (KULIT \u2013 Kultura, Lian no Identidade iha Timor-Leste).",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [
+    "bookshelf:SIL LEAD"
+  ],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "8PbcvnR5FW"
+    }
+  ],
+  "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Timor-Leste",
+  "province": "Dili",
+  "district": "Atauro, Maquer",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "q4EI0jFraG"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": true,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "es": "Spanish",
+    "tdt": "Tetun Dili",
+    "bbu": "Raklungu"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "2": {
+    "es": "Sobre el Coronavirus",
+    "bbu": "Nene VIRUS CORONA",
+    "tdt": "Kona ba VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "es": "Sobre el Coronavirus",
+    "bbu": "Nene VIRUS CORONA",
+    "tdt": "Kona ba VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "es": "Sobre el Coronavirus",
+    "bbu": "Nene VIRUS CORONA",
+    "tdt": "Kona ba VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "5": {
+    "es": "Sobre el Coronavirus",
+    "bbu": "Nene VIRUS CORONA",
+    "tdt": "Kona ba VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "6": {
+    "es": "Sobre el Coronavirus",
+    "bbu": "Nene VIRUS CORONA",
+    "tdt": "Kona ba VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "12": {
+    "bbu": "Associa\u00e7\u00e3o KULIT",
+    "tdt": "Associ\u00e7\u00e3o KULIT"
+  },
+  "13": {
+    "bbu": "Associa\u00e7\u00e3o KULIT",
+    "tdt": "Associ\u00e7\u00e3o KULIT"
+  },
+  "14": {
+    "bbu": "Associa\u00e7\u00e3o KULIT",
+    "tdt": "Associ\u00e7\u00e3o KULIT"
+  },
+  "15": {
+    "bbu": ""
+  },
+  "16": {
+    "bbu": "Lalaa' HEA maney importanti ita presiza raknay nene virus corona:"
+  },
+  "17": {
+    "bbu": "DAET"
+  },
+  "18": {
+    "bbu": "Suak"
+  },
+  "19": {
+    "bbu": "Hngiru"
+  },
+  "20": {
+    "bbu": "Mata"
+  },
+  "21": {
+    "bbu": "Tama la'a ita"
+  },
+  "22": {
+    "bbu": "Likmory isi aia"
+  },
+  "23": {
+    "bbu": "Likmory papeu"
+  },
+  "24": {
+    "bbu": "Virus hea ri'a bele daet lii muri' likmory apakreek (kuandu sii raklungu)"
+  },
+  "25": {
+    "bbu": "Metru 2 sei noy ita seguru nai likmory maney rakaklungu sii apakreek."
+  },
+  "26": {
+    "bbu": "1"
+  },
+  "27": {
+    "bbu": "Metru 2"
+  },
+  "28": {
+    "bbu": "Rahmasi!"
+  },
+  "29": {
+    "bbu": "Se ita kmata' likmory hey poo', rahmasi ou peu, ita bele rili atu:"
+  },
+  "30": {
+    "bbu": "Sii bele poo' ou rahmasi nia masker rala, para bele nee' seguru la'a likmory maney kapapehy sia."
+  },
+  "31": {
+    "bbu": "2"
+  },
+  "32": {
+    "bbu": "Obrigadu!"
+  },
+  "33": {
+    "bbu": "OU,"
+  },
+  "34": {
+    "bbu": "Se nii te peu, nii proteje hleu nii aan."
+  },
+  "35": {
+    "bbu": "Likmory maney pasasehu papeu corona, hey te tina' sintoma, masi' sei daet nahatik la'a likmory seuk."
+  },
+  "36": {
+    "bbu": "Biasa, maneira aia lii atu prevene... te sanga kla'a haty maney raramy ou likmory rarea, tamba ita te raknay asaly' ma' papeu corona."
+  },
+  "37": {
+    "bbu": "Stik"
+  },
+  "38": {
+    "bbu": "Likmory isi aia"
+  },
+  "39": {
+    "bbu": "Tali Kareta'"
+  },
+  "40": {
+    "bbu": "Butaun"
+  },
+  "41": {
+    "bbu": "Tisu"
+  },
+  "42": {
+    "bbu": "Kopu"
+  },
+  "43": {
+    "bbu": "Lalaa' hira-hira' Eletronika"
+  },
+  "44": {
+    "bbu": "i rala hey nia ita masker tungu"
+  },
+  "45": {
+    "bbu": "Eskada sasi'a rody"
+  },
+  "46": {
+    "bbu": "Mouse"
+  },
+  "47": {
+    "bbu": "Lapizeira"
+  },
+  "48": {
+    "bbu": "Dada'ik rody odamata"
+  },
+  "49": {
+    "bbu": "Sii lima"
+  },
+  "50": {
+    "bbu": "Rala hey, likmory papeu sii apakreek bele nene nia lalaa' hira-hira' oida..."
+  },
+  "51": {
+    "bbu": "mii nahula bele sehu papeu ere'."
+  },
+  "52": {
+    "bbu": "ou likmory maney ita hahadomi sii mata hngiru"
+  },
+  "53": {
+    "bbu": "kose la'a ita mata"
+  },
+  "54": {
+    "bbu": "Se ita si'a sala lalaa' hira-hira' ere' hea, soruk ita si'a ita mata hngiru,"
+  },
+  "55": {
+    "bbu": "maneira aia lii atu halaku, hrasi lalaa' hira-hira' ere' noro'sapaa, baiklin ou alkohol."
+  },
+  "56": {
+    "bbu": "Virus ere', bele nory nia lalaa' hira-hira' raik oras haira' hea"
+  },
+  "57": {
+    "bbu": "sapaa"
+  },
+  "58": {
+    "bbu": "para prevene"
+  },
+  "59": {
+    "bbu": "Tamba ere', ia lii ita roy do'i maneira"
+  },
+  "60": {
+    "bbu": "hrasi lima noro'sapaa raik ari'a"
+  },
+  "61": {
+    "bbu": "sapaa"
+  },
+  "62": {
+    "bbu": "lima si'u"
+  },
+  "63": {
+    "bbu": "Te ngee kay ita mata hngiru. (Ou likmory hey mata hngiru.) Se ita atu ngee, hrasi aia muna' ita lima noro' sapaa."
+  },
+  "64": {
+    "bbu": "Hlery \"Happy Birthday\" rala harua'"
+  },
+  "65": {
+    "bbu": "lu'u mata rala"
+  },
+  "66": {
+    "bbu": "durante detik 20"
+  },
+  "67": {
+    "bbu": "lima klanga heta"
+  },
+  "68": {
+    "bbu": "hrasi ita lima tanyk nii tungu"
+  },
+  "69": {
+    "bbu": "Oilaa' ma' atu hrasi aia ita lima?"
+  },
+  "70": {
+    "bbu": "Se ita si'a sala, te rata'uk kay. Kla'a hrasi aia hleu lima noro' sapaa."
+  },
+  "71": {
+    "bbu": "Se bele, te si'a kay masker tungu."
+  },
+  "72": {
+    "bbu": ""
+  },
+  "73": {
+    "bbu": "Virus sei nory nia ita masker rala, se ita uza ose lii."
+  },
+  "74": {
+    "bbu": "Ta'u masker kuandu pa ra'i. Te paluri uza masker lii nai hengi hea!"
+  },
+  "75": {
+    "bbu": "Uza\u00a0 aru"
+  },
+  "76": {
+    "bbu": "ANANA"
+  },
+  "77": {
+    "bbu": "AMAKAY"
+  },
+  "78": {
+    "bbu": "INAKAY"
+  },
+  "79": {
+    "bbu": "Likmory hea-hea tengki uza nii toalha doi"
+  },
+  "80": {
+    "bbu": "Te hrere' kay rara'a, lalaa' hira-hirak dapuk nii, kopu, toalha."
+  },
+  "81": {
+    "bbu": "Te si'a kay ita mata hngiru noro' ita lima si'u"
+  },
+  "82": {
+    "bbu": "Da'ik & taka' odamata rody lima si'u ou pas, se bele te uza kay lima sasi'a rody."
+  },
+  "83": {
+    "bbu": "Ruma"
+  },
+  "84": {
+    "bbu": "i kuandu sai kla'a haty publik"
+  },
+  "85": {
+    "bbu": "Antis ita ra'a"
+  },
+  "86": {
+    "bbu": "Sempre hrasi ita lima noro' sapaa..."
+  },
+  "87": {
+    "bbu": "Kamuri' isi"
+  },
+  "88": {
+    "bbu": "sapaa"
+  },
+  "89": {
+    "bbu": "Nahula-nahula hakmatik!"
+  },
+  "90": {
+    "bbu": "Nahula-nahula hakmatik!"
+  },
+  "91": {
+    "bbu": "sapaa"
+  },
+  "92": {
+    "bbu": "Klee artikel nenee informasaun hey tera!"
+  },
+  "93": {
+    "bbu": "\"Animasaun ri'a tina', kuandu ita rahmasi biasa nii is bele la'a\" nai Chia Yi Hou noro' Andrea Schmitz, nia Business Insider (Jan 21, 2020)"
+  },
+  "94": {
+    "bbu": "\"Virus Wuhan: Oilaa' atu hakmatik\", nai Laurie Garrett, nia Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "95": {
+    "bbu": "\"Oilaa' atu raroo' nai virus corona? Hrasi ita lima\", nai Elizabeth Rosenthal, nia Nova Yorke Times, Opiniaun. (Jan 28, 2020)"
+  },
+  "96": {
+    "bbu": "Referensia Informasaun prinsipal nai saude:"
+  },
+  "97": {
+    "bbu": ""
+  },
+  "100": {
+    "es": "Sobre el Coronavirus",
+    "bbu": "Nene VIRUS CORONA",
+    "tdt": "Kona ba VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "101": {
+    "es": "Sobre el Coronavirus",
+    "bbu": "Nene VIRUS CORONA",
+    "tdt": "Kona ba VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "102": {
+    "es": "Sobre el Coronavirus",
+    "bbu": "Nene VIRUS CORONA",
+    "tdt": "Kona ba VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "103": {
+    "es": "Sobre el Coronavirus",
+    "bbu": "Nene VIRUS CORONA",
+    "tdt": "Kona ba VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "104": {
+    "es": "Sobre el Coronavirus",
+    "bbu": "Nene VIRUS CORONA",
+    "tdt": "Kona ba VIRUS CORONA",
+    "en": "About Coronavirus"
+  },
+  "118": {
+    "tdt": "Created by Weiman Kow, instagram: weimankow",
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  },
+  "119": {
+    "tdt": "Created by Weiman Kow, instagram: weimankow",
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

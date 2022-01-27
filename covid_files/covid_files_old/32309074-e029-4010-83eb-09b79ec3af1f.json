@@ -1,0 +1,1052 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "32309074-e029-4010-83eb-09b79ec3af1f",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Y\u0254\u0301 ya\u0301 p\u0254\u0302 w\u00e9 m\u01dd\u0301 zi\u0301n\u01dd\u0301 no\u030c kolona vil\u0289s\u01dd k\u025b\u0301 COVID-19",
+  "allTitles": "{\"bce\":\"Y\u0254\u0301 ya\u0301 p\u0254\u0302 w\u00e9 m\u01dd\u0301 zi\u0301n\u01dd\u0301 no\u030c kolona vil\u0289s\u01dd k\u025b\u0301 COVID-19\",\"en\":\"What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\",\"fr\":\"Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,4797e2a5-bc4f-48a0-b988-e10ff8deb4bc,5ac3444b-2397-4a3e-ac07-9e4aeaf757b4",
+  "downloadSource": "morgane_soudrain@cabtal.org/32309074-e029-4010-83eb-09b79ec3af1f",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2020, CABTAL",
+  "credits": "\r\nToutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\r\n\r\nContacts CABTAL\r\n\r\nWeb : www.cabtal.org\r\nMail : info_cabtal@cabtal.org\r\n\r\nTel : (237) 699 833 535\r\nWhatsApp : (237) 654 439 659\r\n\r\nB.P. : 16 550 Yaound\u00e9, Cameroun",
+  "tags": [],
+  "pageCount": 15,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "1g909nH2eK"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "O4H7hNzC4n"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "Coronavirus COVID-19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Cameroun",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "1xBKlzBnBB"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "es": "Spanish",
+    "en": "English",
+    "fr": "fran\u00e7ais",
+    "bce": "Langue bamenyam"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "en": "COVID-19",
+    "bce": "Y\u0254\u0301 ya\u0301 p\u0254\u0302 w\u00e9 m\u01dd\u0301 zi\u0301n\u01dd\u0301 no\u030c kolona vil\u0289s\u01dd k\u025b\u0301 COVID-19",
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19"
+  },
+  "2": {
+    "en": "COVID-19",
+    "bce": "Y\u0254\u0301 ya\u0301 p\u0254\u0302 w\u00e9 m\u01dd\u0301 zi\u0301n\u01dd\u0301 no\u030c kolona vil\u0289s\u01dd k\u025b\u0301 COVID-19",
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19"
+  },
+  "3": {
+    "en": "COVID-19",
+    "bce": "Y\u0254\u0301 ya\u0301 p\u0254\u0302 w\u00e9 m\u01dd\u0301 zi\u0301n\u01dd\u0301 no\u030c kolona vil\u0289s\u01dd k\u025b\u0301 COVID-19",
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19"
+  },
+  "8": {
+    "bce": "Association Camerounaise pour la Traduction de la Bible et l'Alphab\u00e9tisation",
+    "fr": "Association Camerounaise pour \ufeffla Traduction de la Bible et l'Alphab\u00e9tisation"
+  },
+  "9": {
+    "bce": "Association Camerounaise pour la Traduction de la Bible et l'Alphab\u00e9tisation",
+    "fr": "Association Camerounaise pour \ufeffla Traduction de la Bible et l'Alphab\u00e9tisation"
+  },
+  "13": {
+    "en": "COVID-19",
+    "bce": "Y\u0254\u0301 ya\u0301 p\u0254\u0302 w\u00e9 m\u01dd\u0301 zi\u0301n\u01dd\u0301 no\u030c kolona vil\u0289s\u01dd k\u025b\u0301 COVID-19",
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19"
+  },
+  "14": {
+    "en": "COVID-19",
+    "bce": "Y\u0254\u0301 ya\u0301 p\u0254\u0302 w\u00e9 m\u01dd\u0301 zi\u0301n\u01dd\u0301 no\u030c kolona vil\u0289s\u01dd k\u025b\u0301 COVID-19",
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19"
+  },
+  "15": {
+    "en": "COVID-19",
+    "bce": "Y\u0254\u0301 ya\u0301 p\u0254\u0302 w\u00e9 m\u01dd\u0301 zi\u0301n\u01dd\u0301 no\u030c kolona vil\u0289s\u01dd k\u025b\u0301 COVID-19",
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19"
+  },
+  "18": {
+    "fr": "Les informations contenues dans ce livret \ufeffproviennent du site internet \ufeffde l'Organisation Mondiale de la Sant\u00e9 (OMS). https://www.who.int/fr/home"
+  },
+  "26": {
+    "fr": "B.P. : 16 550 Yaound\u00e9, Cameroun"
+  },
+  "29": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "30": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "31": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "32": {
+    "bce": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Tse\u0301t'tse\u0301t'we\u030c",
+    "fr": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE",
+    "en": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY"
+  },
+  "33": {
+    "bce": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Tse\u0301t'tse\u0301t'we\u030c",
+    "fr": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE",
+    "en": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY"
+  },
+  "34": {
+    "bce": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Tse\u0301t'tse\u0301t'we\u030c",
+    "fr": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE",
+    "en": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY"
+  },
+  "35": {
+    "bce": "",
+    "fr": "- D\u00e9finition des mots difficiles",
+    "en": "",
+    "z": ""
+  },
+  "36": {
+    "bce": "",
+    "fr": "- D\u00e9finition des mots difficiles",
+    "en": "",
+    "z": ""
+  },
+  "37": {
+    "bce": "",
+    "fr": "- D\u00e9finition des mots difficiles",
+    "en": "",
+    "z": ""
+  },
+  "38": {
+    "bce": "",
+    "fr": "- D\u00e9finition des mots difficiles",
+    "en": "",
+    "z": ""
+  },
+  "39": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "40": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "41": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "42": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "43": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "44": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "45": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "46": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "47": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "48": {
+    "bce": "p.9",
+    "fr": "p.8",
+    "en": "p.8"
+  },
+  "49": {
+    "bce": "p.9",
+    "fr": "p.8",
+    "en": "p.8"
+  },
+  "50": {
+    "bce": "p.9",
+    "fr": "p.8",
+    "en": "p.8"
+  },
+  "51": {
+    "bce": "Kolona vil\u0289s\u01dd k\u025b\u0301 COVID tso\u0301pn\u01ddpu\u0301 a\u0301 gho\u030c fi\u0301, a\u0301 ta\u2019 vil\u0289s\u01dd fi\u030c. P\u01dd n\u01dd nd\u025bn\u01dd w\u00e9 no\u030c mbi\u0301sh\u0289\u0302 n\u01ddshu s\u0269\u0301n\u01dd no\u030c ly\u00e9\u2019mbi\u0301 tsopmo\u030c n\u01dd mo\u030cm\u01dd nty\u00e9n\u01dd\u0301 fwo sy\u00e9 k\u01ddt\u2019s\u01ddm\u00e9t. M\u01dd\u0301ntya m\u00e9 ndu\u030c cw\u00e9ty\u01dd\u0301 l\u01dd\u0302 mbi\u0301 a\u0301 ghy\u01dd\u0301 t\u01dd\u0301 njw\u00e9 \u014bo\u0301 no\u030c m\u01ddcy\u01dd m\u01dd\u0301ntya gha\u2019n\u01dd. A\u0301 fwo n\u01ddgha\u0301 m\u01ddt\u0254mbi\u0301. P\u01dd nka\u0301 zi\u0301 n\u01ddf\u025b\u2019 gh\u0254\u030c.",
+    "fr": "Le coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.",
+    "en": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+    "z": ""
+  },
+  "52": {
+    "bce": "Kolona vil\u0289s\u01dd k\u025b\u0301 COVID tso\u0301pn\u01ddpu\u0301 a\u0301 gho\u030c fi\u0301, a\u0301 ta\u2019 vil\u0289s\u01dd fi\u030c. P\u01dd n\u01dd nd\u025bn\u01dd w\u00e9 no\u030c mbi\u0301sh\u0289\u0302 n\u01ddshu s\u0269\u0301n\u01dd no\u030c ly\u00e9\u2019mbi\u0301 tsopmo\u030c n\u01dd mo\u030cm\u01dd nty\u00e9n\u01dd\u0301 fwo sy\u00e9 k\u01ddt\u2019s\u01ddm\u00e9t. M\u01dd\u0301ntya m\u00e9 ndu\u030c cw\u00e9ty\u01dd\u0301 l\u01dd\u0302 mbi\u0301 a\u0301 ghy\u01dd\u0301 t\u01dd\u0301 njw\u00e9 \u014bo\u0301 no\u030c m\u01ddcy\u01dd m\u01dd\u0301ntya gha\u2019n\u01dd. A\u0301 fwo n\u01ddgha\u0301 m\u01ddt\u0254mbi\u0301. P\u01dd nka\u0301 zi\u0301 n\u01ddf\u025b\u2019 gh\u0254\u030c.",
+    "fr": "Le coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.",
+    "en": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+    "z": ""
+  },
+  "53": {
+    "bce": "Kolona vil\u0289s\u01dd k\u025b\u0301 COVID tso\u0301pn\u01ddpu\u0301 a\u0301 gho\u030c fi\u0301, a\u0301 ta\u2019 vil\u0289s\u01dd fi\u030c. P\u01dd n\u01dd nd\u025bn\u01dd w\u00e9 no\u030c mbi\u0301sh\u0289\u0302 n\u01ddshu s\u0269\u0301n\u01dd no\u030c ly\u00e9\u2019mbi\u0301 tsopmo\u030c n\u01dd mo\u030cm\u01dd nty\u00e9n\u01dd\u0301 fwo sy\u00e9 k\u01ddt\u2019s\u01ddm\u00e9t. M\u01dd\u0301ntya m\u00e9 ndu\u030c cw\u00e9ty\u01dd\u0301 l\u01dd\u0302 mbi\u0301 a\u0301 ghy\u01dd\u0301 t\u01dd\u0301 njw\u00e9 \u014bo\u0301 no\u030c m\u01ddcy\u01dd m\u01dd\u0301ntya gha\u2019n\u01dd. A\u0301 fwo n\u01ddgha\u0301 m\u01ddt\u0254mbi\u0301. P\u01dd nka\u0301 zi\u0301 n\u01ddf\u025b\u2019 gh\u0254\u030c.",
+    "fr": "Le coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.",
+    "en": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+    "z": ""
+  },
+  "54": {
+    "bce": "Kolona vil\u0289s\u01dd k\u025b\u0301 COVID tso\u0301pn\u01ddpu\u0301 a\u0301 gho\u030c fi\u0301, a\u0301 ta\u2019 vil\u0289s\u01dd fi\u030c. P\u01dd n\u01dd nd\u025bn\u01dd w\u00e9 no\u030c mbi\u0301sh\u0289\u0302 n\u01ddshu s\u0269\u0301n\u01dd no\u030c ly\u00e9\u2019mbi\u0301 tsopmo\u030c n\u01dd mo\u030cm\u01dd nty\u00e9n\u01dd\u0301 fwo sy\u00e9 k\u01ddt\u2019s\u01ddm\u00e9t. M\u01dd\u0301ntya m\u00e9 ndu\u030c cw\u00e9ty\u01dd\u0301 l\u01dd\u0302 mbi\u0301 a\u0301 ghy\u01dd\u0301 t\u01dd\u0301 njw\u00e9 \u014bo\u0301 no\u030c m\u01ddcy\u01dd m\u01dd\u0301ntya gha\u2019n\u01dd. A\u0301 fwo n\u01ddgha\u0301 m\u01ddt\u0254mbi\u0301. P\u01dd nka\u0301 zi\u0301 n\u01ddf\u025b\u2019 gh\u0254\u030c.",
+    "fr": "Le coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.",
+    "en": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+    "z": ""
+  },
+  "55": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "56": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "57": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "58": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "59": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "60": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "61": {
+    "bce": "Nt\u01dd\u0301nky\u00e9 \u014bo\u0301",
+    "fr": "Personne \u00e2g\u00e9e",
+    "en": "Elderly person"
+  },
+  "62": {
+    "bce": "Nt\u01dd\u0301nky\u00e9 \u014bo\u0301",
+    "fr": "Personne \u00e2g\u00e9e",
+    "en": "Elderly person"
+  },
+  "63": {
+    "bce": "Nt\u01dd\u0301nky\u00e9 \u014bo\u0301",
+    "fr": "Personne \u00e2g\u00e9e",
+    "en": "Elderly person"
+  },
+  "64": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "65": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "66": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "67": {
+    "bce": "\u014ao\u0301 nz\u0254\u2019 zo\u0301n\u01dd k\u025b\u0301 mba ghy\u00e9 gh\u0254\u030c",
+    "fr": "Personne cardiaque ou souffrant de maladie",
+    "en": "Person with a heart condition or disease"
+  },
+  "68": {
+    "bce": "\u014ao\u0301 nz\u0254\u2019 zo\u0301n\u01dd k\u025b\u0301 mba ghy\u00e9 gh\u0254\u030c",
+    "fr": "Personne cardiaque ou souffrant de maladie",
+    "en": "Person with a heart condition or disease"
+  },
+  "69": {
+    "bce": "\u014ao\u0301 nz\u0254\u2019 zo\u0301n\u01dd k\u025b\u0301 mba ghy\u00e9 gh\u0254\u030c",
+    "fr": "Personne cardiaque ou souffrant de maladie",
+    "en": "Person with a heart condition or disease"
+  },
+  "70": {
+    "bce": "Mbi\u0301 p\u01dd\u0301 na w\u00e9 gh\u0254\u030c fi\u030c ghyw\u01dd. P\u01dd nt\u01dd\u0301nky\u00e9 n\u01dd p\u01ddghy\u00e9gh\u0254\u030c pa po\u030c n\u01dd mb\u01dd\u0301n\u01dd ngw\u00e9 gh\u0254\u030c (ndu\u030c ngh\u01dd\u030cn\u01dd, gh\u0254\u030c s\u01dd\u0301ka, gh\u0254\u030c nz\u0254\u2019, gh\u0254\u030c m\u01dd\u0301sh\u0289\u0301) fi\u0301 ndu\u0301 m\u01dd\u0301nkw\u025bn\u01dd gha\u0301 o\u030c mv\u01dd gh\u0254\u030c gha\u2019n\u01dd ntya vil\u0289s\u01dd ghyw\u01ddly\u00e9.",
+    "fr": "Les personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.",
+    "en": "People of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+    "z": ""
+  },
+  "71": {
+    "bce": "Mbi\u0301 p\u01dd\u0301 na w\u00e9 gh\u0254\u030c fi\u030c ghyw\u01dd. P\u01dd nt\u01dd\u0301nky\u00e9 n\u01dd p\u01ddghy\u00e9gh\u0254\u030c pa po\u030c n\u01dd mb\u01dd\u0301n\u01dd ngw\u00e9 gh\u0254\u030c (ndu\u030c ngh\u01dd\u030cn\u01dd, gh\u0254\u030c s\u01dd\u0301ka, gh\u0254\u030c nz\u0254\u2019, gh\u0254\u030c m\u01dd\u0301sh\u0289\u0301) fi\u0301 ndu\u0301 m\u01dd\u0301nkw\u025bn\u01dd gha\u0301 o\u030c mv\u01dd gh\u0254\u030c gha\u2019n\u01dd ntya vil\u0289s\u01dd ghyw\u01ddly\u00e9.",
+    "fr": "Les personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.",
+    "en": "People of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+    "z": ""
+  },
+  "72": {
+    "bce": "Mbi\u0301 p\u01dd\u0301 na w\u00e9 gh\u0254\u030c fi\u030c ghyw\u01dd. P\u01dd nt\u01dd\u0301nky\u00e9 n\u01dd p\u01ddghy\u00e9gh\u0254\u030c pa po\u030c n\u01dd mb\u01dd\u0301n\u01dd ngw\u00e9 gh\u0254\u030c (ndu\u030c ngh\u01dd\u030cn\u01dd, gh\u0254\u030c s\u01dd\u0301ka, gh\u0254\u030c nz\u0254\u2019, gh\u0254\u030c m\u01dd\u0301sh\u0289\u0301) fi\u0301 ndu\u0301 m\u01dd\u0301nkw\u025bn\u01dd gha\u0301 o\u030c mv\u01dd gh\u0254\u030c gha\u2019n\u01dd ntya vil\u0289s\u01dd ghyw\u01ddly\u00e9.",
+    "fr": "Les personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.",
+    "en": "People of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+    "z": ""
+  },
+  "73": {
+    "bce": "Mbi\u0301 p\u01dd\u0301 na w\u00e9 gh\u0254\u030c fi\u030c ghyw\u01dd. P\u01dd nt\u01dd\u0301nky\u00e9 n\u01dd p\u01ddghy\u00e9gh\u0254\u030c pa po\u030c n\u01dd mb\u01dd\u0301n\u01dd ngw\u00e9 gh\u0254\u030c (ndu\u030c ngh\u01dd\u030cn\u01dd, gh\u0254\u030c s\u01dd\u0301ka, gh\u0254\u030c nz\u0254\u2019, gh\u0254\u030c m\u01dd\u0301sh\u0289\u0301) fi\u0301 ndu\u0301 m\u01dd\u0301nkw\u025bn\u01dd gha\u0301 o\u030c mv\u01dd gh\u0254\u030c gha\u2019n\u01dd ntya vil\u0289s\u01dd ghyw\u01ddly\u00e9.",
+    "fr": "Les personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.",
+    "en": "People of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+    "z": ""
+  },
+  "74": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "75": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "76": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "77": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "78": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "79": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "80": {
+    "bce": "Nka\u030c ",
+    "fr": "- Fatigue",
+    "en": "Fatigue"
+  },
+  "81": {
+    "bce": "Nka\u030c ",
+    "fr": "- Fatigue",
+    "en": "Fatigue"
+  },
+  "82": {
+    "bce": "Nka\u030c ",
+    "fr": "- Fatigue",
+    "en": "Fatigue"
+  },
+  "83": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "84": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "85": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "86": {
+    "bce": "M\u01dd\u0301zh\u0289\u0301 mbe\u0302 nz\u0254\u0301\u2019n\u01dd",
+    "fr": "- Douleurs musculaires",
+    "en": "Muscle aches and pains"
+  },
+  "87": {
+    "bce": "M\u01dd\u0301zh\u0289\u0301 mbe\u0302 nz\u0254\u0301\u2019n\u01dd",
+    "fr": "- Douleurs musculaires",
+    "en": "Muscle aches and pains"
+  },
+  "88": {
+    "bce": "M\u01dd\u0301zh\u0289\u0301 mbe\u0302 nz\u0254\u0301\u2019n\u01dd",
+    "fr": "- Douleurs musculaires",
+    "en": "Muscle aches and pains"
+  },
+  "89": {
+    "bce": "",
+    "fr": "Les sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.",
+    "en": "The symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+    "z": ""
+  },
+  "90": {
+    "bce": "",
+    "fr": "Les sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.",
+    "en": "The symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+    "z": ""
+  },
+  "91": {
+    "bce": "",
+    "fr": "Les sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.",
+    "en": "The symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+    "z": ""
+  },
+  "92": {
+    "bce": "",
+    "fr": "Les sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.",
+    "en": "The symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+    "z": ""
+  },
+  "93": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "94": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "95": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "96": {
+    "bce": "No\u0301 wa\u0301 a\u0301 nkw\u025b\u2019n\u01dd",
+    "fr": "Personne qui tousse",
+    "en": "Person with a cough"
+  },
+  "97": {
+    "bce": "No\u0301 wa\u0301 a\u0301 nkw\u025b\u2019n\u01dd",
+    "fr": "Personne qui tousse",
+    "en": "Person with a cough"
+  },
+  "98": {
+    "bce": "No\u0301 wa\u0301 a\u0301 nkw\u025b\u2019n\u01dd",
+    "fr": "Personne qui tousse",
+    "en": "Person with a cough"
+  },
+  "99": {
+    "bce": "",
+    "fr": "Le COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.",
+    "en": "COVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+    "z": ""
+  },
+  "100": {
+    "bce": "",
+    "fr": "Le COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.",
+    "en": "COVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+    "z": ""
+  },
+  "101": {
+    "bce": "",
+    "fr": "Le COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.",
+    "en": "COVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+    "z": ""
+  },
+  "102": {
+    "bce": "",
+    "fr": "Le COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.",
+    "en": "COVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+    "z": ""
+  },
+  "103": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "104": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "105": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "106": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "107": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "108": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "109": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "110": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "111": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "112": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "113": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "114": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "115": {
+    "bce": "P\u01dd mpa\u030c gh\u0254\u030c nga\u2019k\u01dd\u00a0?",
+    "fr": "Comment se prot\u00e9ger ?",
+    "en": "How to protect yourself"
+  },
+  "116": {
+    "bce": "P\u01dd mpa\u030c gh\u0254\u030c nga\u2019k\u01dd\u00a0?",
+    "fr": "Comment se prot\u00e9ger ?",
+    "en": "How to protect yourself"
+  },
+  "117": {
+    "bce": "P\u01dd mpa\u030c gh\u0254\u030c nga\u2019k\u01dd\u00a0?",
+    "fr": "Comment se prot\u00e9ger ?",
+    "en": "How to protect yourself"
+  },
+  "118": {
+    "bce": "1. M\u01ddpa\u030cn\u01dd m\u01ddk\u0254\u0302n\u01dd mi\u030c, m\u01ddlwi\u0301, ts\u01ddt\u2019.",
+    "fr": "1. Eviter de se toucher les yeux, le nez, la bouche.",
+    "en": "1. Avoid touching eyes, nose, mouth.",
+    "z": ""
+  },
+  "119": {
+    "bce": "1. M\u01ddpa\u030cn\u01dd m\u01ddk\u0254\u0302n\u01dd mi\u030c, m\u01ddlwi\u0301, ts\u01ddt\u2019.",
+    "fr": "1. Eviter de se toucher les yeux, le nez, la bouche.",
+    "en": "1. Avoid touching eyes, nose, mouth.",
+    "z": ""
+  },
+  "120": {
+    "bce": "1. M\u01ddpa\u030cn\u01dd m\u01ddk\u0254\u0302n\u01dd mi\u030c, m\u01ddlwi\u0301, ts\u01ddt\u2019.",
+    "fr": "1. Eviter de se toucher les yeux, le nez, la bouche.",
+    "en": "1. Avoid touching eyes, nose, mouth.",
+    "z": ""
+  },
+  "121": {
+    "bce": "1. M\u01ddpa\u030cn\u01dd m\u01ddk\u0254\u0302n\u01dd mi\u030c, m\u01ddlwi\u0301, ts\u01ddt\u2019.",
+    "fr": "1. Eviter de se toucher les yeux, le nez, la bouche.",
+    "en": "1. Avoid touching eyes, nose, mouth.",
+    "z": ""
+  },
+  "122": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "123": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "124": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "125": {
+    "bce": "2. M\u01ddso\u0301n\u01dd mbwa\u030c n\u01dd nki\u030c po ntsi\u030c. Ngut l\u01dd nzi\u030c mbwa\u030c n\u01dd y\u0254\u030cnjwi\u030c la\u030cn\u01dd.",
+    "fr": "2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.",
+    "en": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel."
+  },
+  "126": {
+    "bce": "2. M\u01ddso\u0301n\u01dd mbwa\u030c n\u01dd nki\u030c po ntsi\u030c. Ngut l\u01dd nzi\u030c mbwa\u030c n\u01dd y\u0254\u030cnjwi\u030c la\u030cn\u01dd.",
+    "fr": "2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.",
+    "en": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel."
+  },
+  "127": {
+    "bce": "2. M\u01ddso\u0301n\u01dd mbwa\u030c n\u01dd nki\u030c po ntsi\u030c. Ngut l\u01dd nzi\u030c mbwa\u030c n\u01dd y\u0254\u030cnjwi\u030c la\u030cn\u01dd.",
+    "fr": "2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.",
+    "en": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel."
+  },
+  "128": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "129": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "130": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "131": {
+    "bce": "3. M\u01ddkw\u025b\u2019n\u01dd po m\u01ddts\u025b\u2019n\u01dd fwo gh\u01dd\u0301 pwa\u030c yo\u0301.",
+    "fr": "3. Tousser et \u00e9ternuer dans le creux de son bras.",
+    "en": ""
+  },
+  "132": {
+    "bce": "3. M\u01ddkw\u025b\u2019n\u01dd po m\u01ddts\u025b\u2019n\u01dd fwo gh\u01dd\u0301 pwa\u030c yo\u0301.",
+    "fr": "3. Tousser et \u00e9ternuer dans le creux de son bras.",
+    "en": ""
+  },
+  "133": {
+    "bce": "3. M\u01ddkw\u025b\u2019n\u01dd po m\u01ddts\u025b\u2019n\u01dd fwo gh\u01dd\u0301 pwa\u030c yo\u0301.",
+    "fr": "3. Tousser et \u00e9ternuer dans le creux de son bras.",
+    "en": ""
+  },
+  "134": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "135": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "136": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "137": {
+    "bce": "4. M\u01ddpa\u030cn\u01dd m\u01ddkun\u01dd na\u2019 p\u0289\u030c mb\u025bn\u01dd k\u0254\u0302 m\u01ddn\u025b\u030c \u014ba\u030cn\u01dd.",
+    "fr": "4. Eviter de manger de la viande crue et de toucher des animaux vivants.",
+    "en": "4. Avoid eating raw meat and touching live animals."
+  },
+  "138": {
+    "bce": "4. M\u01ddpa\u030cn\u01dd m\u01ddkun\u01dd na\u2019 p\u0289\u030c mb\u025bn\u01dd k\u0254\u0302 m\u01ddn\u025b\u030c \u014ba\u030cn\u01dd.",
+    "fr": "4. Eviter de manger de la viande crue et de toucher des animaux vivants.",
+    "en": "4. Avoid eating raw meat and touching live animals."
+  },
+  "139": {
+    "bce": "4. M\u01ddpa\u030cn\u01dd m\u01ddkun\u01dd na\u2019 p\u0289\u030c mb\u025bn\u01dd k\u0254\u0302 m\u01ddn\u025b\u030c \u014ba\u030cn\u01dd.",
+    "fr": "4. Eviter de manger de la viande crue et de toucher des animaux vivants.",
+    "en": "4. Avoid eating raw meat and touching live animals."
+  },
+  "140": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "141": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "142": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "143": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "144": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "145": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "146": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "147": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "148": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "149": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "150": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "151": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "152": {
+    "bce": "",
+    "fr": "5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.",
+    "en": "",
+    "z": ""
+  },
+  "153": {
+    "bce": "",
+    "fr": "5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.",
+    "en": "",
+    "z": ""
+  },
+  "154": {
+    "bce": "",
+    "fr": "5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.",
+    "en": "",
+    "z": ""
+  },
+  "155": {
+    "bce": "",
+    "fr": "5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.",
+    "en": "",
+    "z": ""
+  },
+  "156": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "157": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "158": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "159": {
+    "bce": "",
+    "fr": "6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.",
+    "en": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting."
+  },
+  "160": {
+    "bce": "",
+    "fr": "6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.",
+    "en": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting."
+  },
+  "161": {
+    "bce": "",
+    "fr": "6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.",
+    "en": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting."
+  },
+  "162": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "163": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "164": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "165": {
+    "bce": "7. M\u01ddpa\u030cn\u01dd m\u01dd\u0301cu\u2019n\u01dd.",
+    "fr": "7. Eviter les rassemblements.",
+    "en": ""
+  },
+  "166": {
+    "bce": "7. M\u01ddpa\u030cn\u01dd m\u01dd\u0301cu\u2019n\u01dd.",
+    "fr": "7. Eviter les rassemblements.",
+    "en": ""
+  },
+  "167": {
+    "bce": "7. M\u01ddpa\u030cn\u01dd m\u01dd\u0301cu\u2019n\u01dd.",
+    "fr": "7. Eviter les rassemblements.",
+    "en": ""
+  },
+  "168": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "169": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "170": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "171": {
+    "bce": "8. Mba\u030c wa\u0301 nk\u01ddm\u01dd m\u01ddni\u030cn\u01dd m\u00e9.",
+    "fr": "8. Limiter ses d\u00e9placements.",
+    "en": "8. Restrict movement."
+  },
+  "172": {
+    "bce": "8. Mba\u030c wa\u0301 nk\u01ddm\u01dd m\u01ddni\u030cn\u01dd m\u00e9.",
+    "fr": "8. Limiter ses d\u00e9placements.",
+    "en": "8. Restrict movement."
+  },
+  "173": {
+    "bce": "8. Mba\u030c wa\u0301 nk\u01ddm\u01dd m\u01ddni\u030cn\u01dd m\u00e9.",
+    "fr": "8. Limiter ses d\u00e9placements.",
+    "en": "8. Restrict movement."
+  },
+  "174": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "175": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "176": {
+    "bce": "",
+    "fr": "",
+    "en": ""
+  },
+  "177": {
+    "bce": "9. Nt\u01dd nzhwo\u2019 m\u01ddn\u01dd\u0301 ma\u0301 a\u0301 l\u00e9n\u01dd mnen\u01dd nzi\u030c n\u01ddf\u025b\u2019 y\u00e9.",
+    "fr": "9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.",
+    "en": "9. Keep informed and verify the source of information."
+  },
+  "178": {
+    "bce": "9. Nt\u01dd nzhwo\u2019 m\u01ddn\u01dd\u0301 ma\u0301 a\u0301 l\u00e9n\u01dd mnen\u01dd nzi\u030c n\u01ddf\u025b\u2019 y\u00e9.",
+    "fr": "9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.",
+    "en": "9. Keep informed and verify the source of information."
+  },
+  "179": {
+    "bce": "9. Nt\u01dd nzhwo\u2019 m\u01ddn\u01dd\u0301 ma\u0301 a\u0301 l\u00e9n\u01dd mnen\u01dd nzi\u030c n\u01ddf\u025b\u2019 y\u00e9.",
+    "fr": "9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.",
+    "en": "9. Keep informed and verify the source of information."
+  },
+  "180": {
+    "en": "- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+    "bce": "P\u01ddcy\u01dd pa\u0301 n\u0254mba pa mbi\u0301 p\u01dd m\u025b\u0301 no\u030c\u00a0:",
+    "fr": "- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :",
+    "z": ""
+  },
+  "181": {
+    "en": "- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+    "bce": "P\u01ddcy\u01dd pa\u0301 n\u0254mba pa mbi\u0301 p\u01dd m\u025b\u0301 no\u030c\u00a0:",
+    "fr": "- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :",
+    "z": ""
+  },
+  "182": {
+    "en": "- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+    "bce": "P\u01ddcy\u01dd pa\u0301 n\u0254mba pa mbi\u0301 p\u01dd m\u025b\u0301 no\u030c\u00a0:",
+    "fr": "- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :",
+    "z": ""
+  },
+  "183": {
+    "en": "- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+    "bce": "P\u01ddcy\u01dd pa\u0301 n\u0254mba pa mbi\u0301 p\u01dd m\u025b\u0301 no\u030c\u00a0:",
+    "fr": "- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :",
+    "z": ""
+  },
+  "184": {
+    "en": "",
+    "bce": "",
+    "fr": ""
+  },
+  "185": {
+    "en": "",
+    "bce": "",
+    "fr": ""
+  },
+  "186": {
+    "en": "",
+    "bce": "",
+    "fr": ""
+  },
+  "187": {
+    "en": "670 713\u00a0979",
+    "bce": "",
+    "fr": "670 713 979"
+  },
+  "188": {
+    "en": "670 713\u00a0979",
+    "bce": "",
+    "fr": "670 713 979"
+  },
+  "189": {
+    "en": "670 713\u00a0979",
+    "bce": "",
+    "fr": "670 713 979"
+  },
+  "190": {
+    "en": "",
+    "bce": "",
+    "fr": ""
+  },
+  "191": {
+    "en": "",
+    "bce": "",
+    "fr": ""
+  },
+  "192": {
+    "en": "",
+    "bce": "",
+    "fr": ""
+  },
+  "193": {
+    "en": "670 113\u00a0761",
+    "bce": "670 113\u00a0761",
+    "fr": "670 113 761"
+  },
+  "194": {
+    "en": "670 113\u00a0761",
+    "bce": "670 113\u00a0761",
+    "fr": "670 113 761"
+  },
+  "195": {
+    "en": "670 113\u00a0761",
+    "bce": "670 113\u00a0761",
+    "fr": "670 113 761"
+  },
+  "196": {
+    "en": "",
+    "bce": "",
+    "fr": ""
+  },
+  "197": {
+    "en": "",
+    "bce": "",
+    "fr": ""
+  },
+  "198": {
+    "en": "",
+    "bce": "",
+    "fr": ""
+  },
+  "199": {
+    "en": "Everyone must be responsible and take the right steps to protect themselves and those around them.",
+    "bce": "Wa\u030cwa\u030c ghy\u01dd\u030c nt\u00e9t ty\u01dd\u0302 y\u00e9 mb\u00e9n\u01dd\u0301 ngut y\u0254\u030c ya\u0301 a\u0301 p\u025b\u0301n\u01dd\u0301 l\u0254 mb\u00e9p mb\u01dd y\u00e9 n\u01dd\u0301 p\u01dd\u0302 ndo\u030c.",
+    "fr": "Chacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage."
+  },
+  "200": {
+    "en": "Everyone must be responsible and take the right steps to protect themselves and those around them.",
+    "bce": "Wa\u030cwa\u030c ghy\u01dd\u030c nt\u00e9t ty\u01dd\u0302 y\u00e9 mb\u00e9n\u01dd\u0301 ngut y\u0254\u030c ya\u0301 a\u0301 p\u025b\u0301n\u01dd\u0301 l\u0254 mb\u00e9p mb\u01dd y\u00e9 n\u01dd\u0301 p\u01dd\u0302 ndo\u030c.",
+    "fr": "Chacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage."
+  },
+  "201": {
+    "en": "Everyone must be responsible and take the right steps to protect themselves and those around them.",
+    "bce": "Wa\u030cwa\u030c ghy\u01dd\u030c nt\u00e9t ty\u01dd\u0302 y\u00e9 mb\u00e9n\u01dd\u0301 ngut y\u0254\u030c ya\u0301 a\u0301 p\u025b\u0301n\u01dd\u0301 l\u0254 mb\u00e9p mb\u01dd y\u00e9 n\u01dd\u0301 p\u01dd\u0302 ndo\u030c.",
+    "fr": "Chacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage."
+  },
+  "202": {
+    "en": "Vulnerable: defenseless, exposed",
+    "bce": "",
+    "fr": "Vuln\u00e9rable : faible, \u00e0 risque",
+    "z": ""
+  },
+  "203": {
+    "en": "Vulnerable: defenseless, exposed",
+    "bce": "",
+    "fr": "Vuln\u00e9rable : faible, \u00e0 risque",
+    "z": ""
+  },
+  "204": {
+    "en": "Vulnerable: defenseless, exposed",
+    "bce": "",
+    "fr": "Vuln\u00e9rable : faible, \u00e0 risque",
+    "z": ""
+  },
+  "205": {
+    "en": "Vulnerable: defenseless, exposed",
+    "bce": "",
+    "fr": "Vuln\u00e9rable : faible, \u00e0 risque",
+    "z": ""
+  },
+  "209": {
+    "fr": "\u00a9 CABTAL, 2020"
+  }
+}

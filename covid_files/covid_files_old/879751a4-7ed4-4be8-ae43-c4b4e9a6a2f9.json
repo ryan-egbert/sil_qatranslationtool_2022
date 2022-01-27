@@ -1,0 +1,288 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "879751a4-7ed4-4be8-ae43-c4b4e9a6a2f9",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Where There Is No Hospital:\nA Home Care Guide for People with COVID-19",
+  "allTitles": "{\"en\":\"Where There Is No Hospital:\nA Home Care Guide for People with COVID-19\"}",
+  "originalTitle": "Where There Is No Hospital:\nA Home Care Guide for People with COVID-19",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+  "downloadSource": "kristine_trammell@sil.org/879751a4-7ed4-4be8-ae43-c4b4e9a6a2f9",
+  "license": "cc-by-nc",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2021, SIL International. CC BY-NC 4.0",
+  "credits": "Adapted with permission from COVID-19 Home Based Care: How to do it best for the patient and the family, 2020, Difaem - German Institute for Medical Mission, www.difaem.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThis resource has been developed using reputable public health sources for educational purposes only. It is not a substitute for professional medical advice. For questions or concerns about any topic described here, please consult a health professional.\r\n",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 26,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "\u2022 This book tells how to give home-based care while also protecting others in the household and community who are not sick. COVID-19 is a serious illness, but there are ways to help the sick person be more comfortable, and most survive the illness.",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "wPcS23Jl9V"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "en": "A Home Care Guide for People with COVID-19"
+  },
+  "8": {
+    "en": "A Home Care Guide for People with COVID-19"
+  },
+  "10": {
+    "en": "Images by Mark Marcuson, \u00a9 2021 SIL International. CC BY-NC 4.0."
+  },
+  "15": {
+    "en": ""
+  },
+  "17": {
+    "en": ""
+  },
+  "18": {
+    "en": ""
+  },
+  "19": {
+    "en": "Table of Contents"
+  },
+  "20": {
+    "en": "",
+    "z": ""
+  },
+  "21": {
+    "en": "",
+    "z": ""
+  },
+  "22": {
+    "en": "Introduction to this Guide"
+  },
+  "23": {
+    "en": "\u2022 Your country/government will have guidelines that should be followed.",
+    "z": ""
+  },
+  "24": {
+    "en": "\u2022 Your country/government will have guidelines that should be followed.",
+    "z": ""
+  },
+  "25": {
+    "en": "Basic Information about COVID-19"
+  },
+  "26": {
+    "en": "The main points for avoiding COVID-19 are also the main points for Home-based Care.",
+    "z": ""
+  },
+  "27": {
+    "en": "The main points for avoiding COVID-19 are also the main points for Home-based Care.",
+    "z": ""
+  },
+  "28": {
+    "en": "Keep 2 meters distance between people."
+  },
+  "29": {
+    "en": "Wear a mask when in a shared space."
+  },
+  "30": {
+    "en": "Wash hands frequently and don\u2019t touch your face or mask"
+  },
+  "31": {
+    "en": "People who are sick with the virus may not show all the signs."
+  },
+  "32": {
+    "en": "If someone has any of these signs, they should be tested, if possible. It is important to tell other people who they have been close to about their illness so those people can also watch for signs of illness. Those people should also stay away from other people for fourteen days to avoid spreading the illness.",
+    "z": ""
+  },
+  "33": {
+    "en": "If someone has any of these signs, they should be tested, if possible. It is important to tell other people who they have been close to about their illness so those people can also watch for signs of illness. Those people should also stay away from other people for fourteen days to avoid spreading the illness.",
+    "z": ""
+  },
+  "34": {
+    "en": "People are most contagious when they first feel they are getting sick. Many people have very mild symptoms, but they can still spread the illness to other people, who may get very sick."
+  },
+  "35": {
+    "en": "Home Care for Well People"
+  },
+  "36": {
+    "en": "Everyone else in the household should stay away from the sick person, wash their hands often, and avoid touching their faces. They should wear masks when they are in any area where the sick person goes.",
+    "z": ""
+  },
+  "37": {
+    "en": "Everyone else in the household should stay away from the sick person, wash their hands often, and avoid touching their faces. They should wear masks when they are in any area where the sick person goes.",
+    "z": ""
+  },
+  "38": {
+    "en": "",
+    "z": ""
+  },
+  "39": {
+    "en": "",
+    "z": ""
+  },
+  "40": {
+    "en": "If Health workers visit, they should wear a coat, face and eye coverings."
+  },
+  "41": {
+    "en": "Home Care for the Sick Person or People"
+  },
+  "42": {
+    "en": "Drawing a two meter line to remind people to stay away can be helpful.",
+    "z": ""
+  },
+  "43": {
+    "en": "Drawing a two meter line to remind people to stay away can be helpful.",
+    "z": ""
+  },
+  "44": {
+    "en": "If there is more than one ill person, they can all stay in the same area, and do not have to stay far apart.",
+    "z": ""
+  },
+  "45": {
+    "en": "If there is more than one ill person, they can all stay in the same area, and do not have to stay far apart.",
+    "z": ""
+  },
+  "46": {
+    "en": "",
+    "z": ""
+  },
+  "47": {
+    "en": "",
+    "z": ""
+  },
+  "48": {
+    "en": "Home Care for Someone with Mild Sickness"
+  },
+  "49": {
+    "en": "Paracetamol, Aspirin (ASA, Acetyl Salicylic Acid) and Ibuprofen are medications that can help with fever and pain. It is important to follow the directions of a health worker to give the correct amount of medicine.",
+    "z": ""
+  },
+  "50": {
+    "en": "Paracetamol, Aspirin (ASA, Acetyl Salicylic Acid) and Ibuprofen are medications that can help with fever and pain. It is important to follow the directions of a health worker to give the correct amount of medicine.",
+    "z": ""
+  },
+  "51": {
+    "en": "Whenever the person uses the toilet or bathroom, all surfaces should be wiped with disinfectant, especially door handles, water taps. Wash surfaces and wash cleaning cloths often."
+  },
+  "52": {
+    "en": "Home Care for the Very Sick Person or People"
+  },
+  "53": {
+    "en": "",
+    "z": ""
+  },
+  "54": {
+    "en": "",
+    "z": ""
+  },
+  "55": {
+    "en": "If you must care for a very ill person at home here are some ways to help:",
+    "z": ""
+  },
+  "56": {
+    "en": "If you must care for a very ill person at home here are some ways to help:",
+    "z": ""
+  },
+  "57": {
+    "en": "\u2022 No visitors should come near the patient because they might get sick and spread the illness.",
+    "z": ""
+  },
+  "58": {
+    "en": "\u2022 No visitors should come near the patient because they might get sick and spread the illness.",
+    "z": ""
+  },
+  "59": {
+    "en": "Keep the patient in a well-ventilated room, near a window or where they can feel air blowing on them. Fresh air will help them breathe better. They can be outside too, if they won\u2019t be in contact with other people.",
+    "z": ""
+  },
+  "60": {
+    "en": "Keep the patient in a well-ventilated room, near a window or where they can feel air blowing on them. Fresh air will help them breathe better. They can be outside too, if they won\u2019t be in contact with other people.",
+    "z": ""
+  },
+  "61": {
+    "en": "Help them change positions regularly.\u00a0When they are awake, help them lie on their stomach for a while if they can. This helps their lungs work better."
+  },
+  "62": {
+    "en": "It may be helpful to attach the straw to the bottle with some tape or string, but this is not necessary.",
+    "z": ""
+  },
+  "63": {
+    "en": "It may be helpful to attach the straw to the bottle with some tape or string, but this is not necessary.",
+    "z": ""
+  },
+  "64": {
+    "en": "The patient should do this about 5 to 10 times in a row, about 5-7 times a day.",
+    "z": ""
+  },
+  "65": {
+    "en": "The patient should do this about 5 to 10 times in a row, about 5-7 times a day.",
+    "z": ""
+  },
+  "66": {
+    "en": "Home Care as a Person Gets Better"
+  },
+  "67": {
+    "en": "Recovery can take a long time: help them notice small\u00a0 signs that they are getting better.",
+    "z": ""
+  },
+  "68": {
+    "en": "Recovery can take a long time: help them notice small\u00a0 signs that they are getting better.",
+    "z": ""
+  },
+  "69": {
+    "en": "Key Points"
+  },
+  "70": {
+    "en": "",
+    "z": ""
+  },
+  "71": {
+    "en": "",
+    "z": ""
+  }
+}

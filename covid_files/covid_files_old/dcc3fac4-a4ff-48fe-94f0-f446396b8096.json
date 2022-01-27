@@ -1,0 +1,1405 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "dcc3fac4-a4ff-48fe-94f0-f446396b8096",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \"Coronavirus\"",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre el coronavirus\",\"jmx\":\"Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \\\"Coronavirus\\\"\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,deb84390-dffc-42cd-a314-abd4a2738a57",
+  "downloadSource": "bruce_beatham@sil.org/dcc3fac4-a4ff-48fe-94f0-f446396b8096",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "No cambie el texto de esta obra, pero puede traducirla, adaptarla a otras formas y distribuirla para prop\u00f3sitos no comerciales. Debe mantener que Weiman Kow sea el titular de derechos de autor en cuanto a ambos el texto y las ilustraciones.",
+  "copyright": "Copyright \u00a9 2020, Weiman Kow",
+  "credits": "Creado por Weiman Kow\r\ninstagram: weimankow\r\nfb: weimankowart",
+  "tags": [],
+  "pageCount": 28,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "4kt6dOigk2"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "GwYREzzd0l"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "Este libro ofrece consejos b\u00e1sicos frente a la situaci\u00f3n del coronavirus COVID 19. This book gives basic advice on dealing with the coronavirus COVID 19.",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "ESapFhNjHF"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "es": "espa\u00f1ol",
+    "jmx-x-coi": "mixteco de Coicoy\u00e1n de las Flores",
+    "jmx": "mixteco del oeste de Juxtlahauca"
+  },
+  "internetLimits": null,
+  "use-original-copyright": true,
+  "2": {
+    "jmx": "Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \"Coronavirus\"",
+    "es": "Sobre el coronavirus",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "jmx": "Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \"Coronavirus\"",
+    "es": "Sobre el coronavirus",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "jmx": "Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \"Coronavirus\"",
+    "es": "Sobre el coronavirus",
+    "en": "About Coronavirus"
+  },
+  "5": {
+    "jmx": "Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \"Coronavirus\"",
+    "es": "Sobre el coronavirus",
+    "en": "About Coronavirus"
+  },
+  "10": {
+    "jmx": "\u200b\u200b\u200b \u200b"
+  },
+  "11": {
+    "jmx": "\u200b\u200b\u200b \u200b"
+  },
+  "12": {
+    "jmx": "",
+    "es": "",
+    "en": ""
+  },
+  "13": {
+    "jmx": "",
+    "es": "",
+    "en": ""
+  },
+  "14": {
+    "jmx": "",
+    "es": "",
+    "en": ""
+  },
+  "15": {
+    "jmx": "",
+    "es": "",
+    "en": ""
+  },
+  "16": {
+    "jmx": "",
+    "es": "",
+    "en": ""
+  },
+  "17": {
+    "jmx": "",
+    "es": "",
+    "en": ""
+  },
+  "18": {
+    "jmx": "Iin \u00f1a\u0331\ua78ca k\u00fa\u00fa \u00f1a\u0331 x\u00ednin\u00fa\ua78cu\ufeffkuntaa ini\u2011\u00fan \u00f1a\u0331 na\u0331xa ku\u0331va nt\u00edku\u0331n m\u00ed\u00ed kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed\ufeffCORONAVIRUS y\u00f3\ua78co\ufeffiinka na\u0331 yuv\u00ed",
+    "es": "Solo hay UNA cosa que tienes que entender sobre c\u00f3mo se contagia el",
+    "en": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+  },
+  "19": {
+    "jmx": "Iin \u00f1a\u0331\ua78ca k\u00fa\u00fa \u00f1a\u0331 x\u00ednin\u00fa\ua78cu\ufeffkuntaa ini\u2011\u00fan \u00f1a\u0331 na\u0331xa ku\u0331va nt\u00edku\u0331n m\u00ed\u00ed kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed\ufeffCORONAVIRUS y\u00f3\ua78co\ufeffiinka na\u0331 yuv\u00ed",
+    "es": "Solo hay UNA cosa que tienes que entender sobre c\u00f3mo se contagia el",
+    "en": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+  },
+  "20": {
+    "jmx": "Iin \u00f1a\u0331\ua78ca k\u00fa\u00fa \u00f1a\u0331 x\u00ednin\u00fa\ua78cu\ufeffkuntaa ini\u2011\u00fan \u00f1a\u0331 na\u0331xa ku\u0331va nt\u00edku\u0331n m\u00ed\u00ed kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed\ufeffCORONAVIRUS y\u00f3\ua78co\ufeffiinka na\u0331 yuv\u00ed",
+    "es": "Solo hay UNA cosa que tienes que entender sobre c\u00f3mo se contagia el",
+    "en": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+  },
+  "21": {
+    "jmx": "\u00a0\u200b",
+    "es": "CORONAVIRUS",
+    "en": "SPREADS"
+  },
+  "22": {
+    "jmx": "\u00a0\u200b",
+    "es": "CORONAVIRUS",
+    "en": "SPREADS"
+  },
+  "23": {
+    "jmx": "\u00a0\u200b",
+    "es": "CORONAVIRUS",
+    "en": "SPREADS"
+  },
+  "24": {
+    "jmx": "yu\ua78c\u00fa\u2011y\u00f3",
+    "es": "boca",
+    "en": "Mouth"
+  },
+  "25": {
+    "jmx": "yu\ua78c\u00fa\u2011y\u00f3",
+    "es": "boca",
+    "en": "Mouth"
+  },
+  "26": {
+    "jmx": "yu\ua78c\u00fa\u2011y\u00f3",
+    "es": "boca",
+    "en": "Mouth"
+  },
+  "27": {
+    "jmx": "xi\u0331t\u00edn\u2011y\u00f3",
+    "es": "nariz",
+    "en": "Nose"
+  },
+  "28": {
+    "jmx": "xi\u0331t\u00edn\u2011y\u00f3",
+    "es": "nariz",
+    "en": "Nose"
+  },
+  "29": {
+    "jmx": "xi\u0331t\u00edn\u2011y\u00f3",
+    "es": "nariz",
+    "en": "Nose"
+  },
+  "30": {
+    "jmx": "nu\u0331\u00fa\u2011y\u00f3",
+    "es": "ojos",
+    "en": "Eyes"
+  },
+  "31": {
+    "jmx": "nu\u0331\u00fa\u2011y\u00f3",
+    "es": "ojos",
+    "en": "Eyes"
+  },
+  "32": {
+    "jmx": "nu\u0331\u00fa\u2011y\u00f3",
+    "es": "ojos",
+    "en": "Eyes"
+  },
+  "33": {
+    "jmx": "Nu\u0331\u00fa k\u00ed\ua78cvi\u2011\u00f1a\u0331 k\u00fa\u00fa",
+    "es": "Entran a tus",
+    "en": "Get into your"
+  },
+  "34": {
+    "jmx": "Nu\u0331\u00fa k\u00ed\ua78cvi\u2011\u00f1a\u0331 k\u00fa\u00fa",
+    "es": "Entran a tus",
+    "en": "Get into your"
+  },
+  "35": {
+    "jmx": "Nu\u0331\u00fa k\u00ed\ua78cvi\u2011\u00f1a\u0331 k\u00fa\u00fa",
+    "es": "Entran a tus",
+    "en": "Get into your"
+  },
+  "36": {
+    "jmx": "Na\u0331 va\u0331\ua78ca",
+    "es": "Persona Sana",
+    "en": "Healthy Person"
+  },
+  "37": {
+    "jmx": "Na\u0331 va\u0331\ua78ca",
+    "es": "Persona Sana",
+    "en": "Healthy Person"
+  },
+  "38": {
+    "jmx": "Na\u0331 va\u0331\ua78ca",
+    "es": "Persona Sana",
+    "en": "Healthy Person"
+  },
+  "39": {
+    "jmx": "Na\u0331 k\u00fa\ua78cvi\u0331",
+    "es": "Persona Enferma",
+    "en": "Sick Person"
+  },
+  "40": {
+    "jmx": "Na\u0331 k\u00fa\ua78cvi\u0331",
+    "es": "Persona Enferma",
+    "en": "Sick Person"
+  },
+  "41": {
+    "jmx": "Na\u0331 k\u00fa\ua78cvi\u0331",
+    "es": "Persona Enferma",
+    "en": "Sick Person"
+  },
+  "42": {
+    "jmx": "M\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co\ufeffnt\u00edku\u0331n\u2011\u00f1a\u0331 iinka\u2011na\u0331 x\u00ed\ua78cin\ufeff\ufeffti\u00e1 s\u01d0\ua78ci\u2011na\u0331.",
+    "es": "El virus se\ufeffcontagia cuando estas\ufeffgotas de saliva",
+    "en": "The virus spreads when \ufeffthese droplets"
+  },
+  "43": {
+    "jmx": "M\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co\ufeffnt\u00edku\u0331n\u2011\u00f1a\u0331 iinka\u2011na\u0331 x\u00ed\ua78cin\ufeff\ufeffti\u00e1 s\u01d0\ua78ci\u2011na\u0331.",
+    "es": "El virus se\ufeffcontagia cuando estas\ufeffgotas de saliva",
+    "en": "The virus spreads when \ufeffthese droplets"
+  },
+  "44": {
+    "jmx": "M\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co\ufeffnt\u00edku\u0331n\u2011\u00f1a\u0331 iinka\u2011na\u0331 x\u00ed\ua78cin\ufeff\ufeffti\u00e1 s\u01d0\ua78ci\u2011na\u0331.",
+    "es": "El virus se\ufeffcontagia cuando estas\ufeffgotas de saliva",
+    "en": "The virus spreads when \ufeffthese droplets"
+  },
+  "45": {
+    "jmx": "X\u00edka koo\u2011\u00fan.\ufeffKu\u0331va u\u0331vi\u0331 \u00e1 nta\u0331a\u0331 u\u0331\ua78cu\u0331n metro koo\u2011\u00fan \u00f1a\u0331 n\u00e1 x\u00e4a\u0331 ti\u00e1 s\u01d0\ua78ci\u2011na\u0331 nu\u0331\u00fa\u2011\u00fan.",
+    "es": "Mantener tu distancia.\ufeffCalcula entre 2 a 5 metros para evitar contacto con las gotas de saliva.",
+    "en": "Keep your distance.\ufeff2m to 0.5m will keep you safe from large droplets."
+  },
+  "46": {
+    "jmx": "X\u00edka koo\u2011\u00fan.\ufeffKu\u0331va u\u0331vi\u0331 \u00e1 nta\u0331a\u0331 u\u0331\ua78cu\u0331n metro koo\u2011\u00fan \u00f1a\u0331 n\u00e1 x\u00e4a\u0331 ti\u00e1 s\u01d0\ua78ci\u2011na\u0331 nu\u0331\u00fa\u2011\u00fan.",
+    "es": "Mantener tu distancia.\ufeffCalcula entre 2 a 5 metros para evitar contacto con las gotas de saliva.",
+    "en": "Keep your distance.\ufeff2m to 0.5m will keep you safe from large droplets."
+  },
+  "47": {
+    "jmx": "X\u00edka koo\u2011\u00fan.\ufeffKu\u0331va u\u0331vi\u0331 \u00e1 nta\u0331a\u0331 u\u0331\ua78cu\u0331n metro koo\u2011\u00fan \u00f1a\u0331 n\u00e1 x\u00e4a\u0331 ti\u00e1 s\u01d0\ua78ci\u2011na\u0331 nu\u0331\u00fa\u2011\u00fan.",
+    "es": "Mantener tu distancia.\ufeffCalcula entre 2 a 5 metros para evitar contacto con las gotas de saliva.",
+    "en": "Keep your distance.\ufeff2m to 0.5m will keep you safe from large droplets."
+  },
+  "48": {
+    "jmx": "1",
+    "es": "1",
+    "en": "1"
+  },
+  "49": {
+    "jmx": "1",
+    "es": "1",
+    "en": "1"
+  },
+  "50": {
+    "jmx": "1",
+    "es": "1",
+    "en": "1"
+  },
+  "51": {
+    "jmx": "2 - 5 m",
+    "es": "2 - 5m",
+    "en": "2m-0.5m"
+  },
+  "52": {
+    "jmx": "2 - 5 m",
+    "es": "2 - 5m",
+    "en": "2m-0.5m"
+  },
+  "53": {
+    "jmx": "2 - 5 m",
+    "es": "2 - 5m",
+    "en": "2m-0.5m"
+  },
+  "54": {
+    "jmx": "\u00a1Ach\u00eds!",
+    "es": "\u00a1Ach\u00eds!",
+    "en": "Achoo!"
+  },
+  "55": {
+    "jmx": "\u00a1Ach\u00eds!",
+    "es": "\u00a1Ach\u00eds!",
+    "en": "Achoo!"
+  },
+  "56": {
+    "jmx": "\u00a1Ach\u00eds!",
+    "es": "\u00a1Ach\u00eds!",
+    "en": "Achoo!"
+  },
+  "57": {
+    "jmx": "\u00c1tu x\u00edni\u2011\u00fan iin na\u0331 k\u00e1t\u00e1 su\u0331k\u00fan, \u00e1 na\u0331 k\u00e1x\u00e1n, \u00e1 na\u0331 k\u00fa\ua78cvi\u0331, kuvi:",
+    "es": "Si ves a alguien que tose, estornuda, o est\u00e1 enfermo, puedes:",
+    "en": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+  },
+  "58": {
+    "jmx": "\u00c1tu x\u00edni\u2011\u00fan iin na\u0331 k\u00e1t\u00e1 su\u0331k\u00fan, \u00e1 na\u0331 k\u00e1x\u00e1n, \u00e1 na\u0331 k\u00fa\ua78cvi\u0331, kuvi:",
+    "es": "Si ves a alguien que tose, estornuda, o est\u00e1 enfermo, puedes:",
+    "en": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+  },
+  "59": {
+    "jmx": "\u00c1tu x\u00edni\u2011\u00fan iin na\u0331 k\u00e1t\u00e1 su\u0331k\u00fan, \u00e1 na\u0331 k\u00e1x\u00e1n, \u00e1 na\u0331 k\u00fa\ua78cvi\u0331, kuvi:",
+    "es": "Si ves a alguien que tose, estornuda, o est\u00e1 enfermo, puedes:",
+    "en": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+  },
+  "60": {
+    "jmx": "Taxi iin \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa nta\ua78c\u00e1\u2011na\u0331.\ufeffSa\u00e1, ra kuvi kat\u00e1 su\u0331k\u00fan\u2011na\u0331 \u00e1 kax\u00e1n\u2011na\u0331,\ufeffra \u00efyo nti\u0331ku\u0331n kue\u0331\ua78ce\u0331 iinka\u2011na\u0331.",
+    "es": "Darle un cubrebocas.\ufeffAs\u00ed, la persona puede toser o estornudar sin poner en riesgo a los dem\u00e1s.",
+    "en": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby"
+  },
+  "61": {
+    "jmx": "Taxi iin \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa nta\ua78c\u00e1\u2011na\u0331.\ufeffSa\u00e1, ra kuvi kat\u00e1 su\u0331k\u00fan\u2011na\u0331 \u00e1 kax\u00e1n\u2011na\u0331,\ufeffra \u00efyo nti\u0331ku\u0331n kue\u0331\ua78ce\u0331 iinka\u2011na\u0331.",
+    "es": "Darle un cubrebocas.\ufeffAs\u00ed, la persona puede toser o estornudar sin poner en riesgo a los dem\u00e1s.",
+    "en": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby"
+  },
+  "62": {
+    "jmx": "Taxi iin \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa nta\ua78c\u00e1\u2011na\u0331.\ufeffSa\u00e1, ra kuvi kat\u00e1 su\u0331k\u00fan\u2011na\u0331 \u00e1 kax\u00e1n\u2011na\u0331,\ufeffra \u00efyo nti\u0331ku\u0331n kue\u0331\ua78ce\u0331 iinka\u2011na\u0331.",
+    "es": "Darle un cubrebocas.\ufeffAs\u00ed, la persona puede toser o estornudar sin poner en riesgo a los dem\u00e1s.",
+    "en": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby"
+  },
+  "63": {
+    "jmx": "2",
+    "es": "2",
+    "en": "2"
+  },
+  "64": {
+    "jmx": "2",
+    "es": "2",
+    "en": "2"
+  },
+  "65": {
+    "jmx": "2",
+    "es": "2",
+    "en": "2"
+  },
+  "66": {
+    "jmx": "\u00a1\u00a1Tixa\u0331\ua78cvi\u2011\u00fan!!",
+    "es": "\u00a1\u00a1\u00a1Gracias!!!",
+    "en": "Thank you\ufeff*sniffles*"
+  },
+  "67": {
+    "jmx": "\u00a1\u00a1Tixa\u0331\ua78cvi\u2011\u00fan!!",
+    "es": "\u00a1\u00a1\u00a1Gracias!!!",
+    "en": "Thank you\ufeff*sniffles*"
+  },
+  "68": {
+    "jmx": "\u00a1\u00a1Tixa\u0331\ua78cvi\u2011\u00fan!!",
+    "es": "\u00a1\u00a1\u00a1Gracias!!!",
+    "en": "Thank you\ufeff*sniffles*"
+  },
+  "69": {
+    "jmx": "Sa\u00e1 tu \u00f1a\u0331 kuvi kasa\u2011\u00fan k\u00fa\u00fa\u2011\u00f1a\u0331:",
+    "es": "Tambien puedes:",
+    "en": "OR,"
+  },
+  "70": {
+    "jmx": "Sa\u00e1 tu \u00f1a\u0331 kuvi kasa\u2011\u00fan k\u00fa\u00fa\u2011\u00f1a\u0331:",
+    "es": "Tambien puedes:",
+    "en": "OR,"
+  },
+  "71": {
+    "jmx": "Sa\u00e1 tu \u00f1a\u0331 kuvi kasa\u2011\u00fan k\u00fa\u00fa\u2011\u00f1a\u0331:",
+    "es": "Tambien puedes:",
+    "en": "OR,"
+  },
+  "72": {
+    "jmx": "Sana \u00f1\u00e1 y\u00f3\ua78co k\u00f6k\u00fa\ua78cvi\u0331 v\u00ed\u2011\u00f1\u00e1, suu nti\u00e1a\u2011\u00f1\u00e1 mi\u00ed\u2011\u00f1\u00e1 \u00f1a\u0331 n\u00e1 nt\u00efku\u0331n\u2011\u00f1a\u0331\u2011\u00f1\u00e1",
+    "es": "Quiz\u00e1 ella no est\u00e9 enferma y solamente se est\u00e1 protegiendo.",
+    "en": "Maybe she's not sick, just protecting herself"
+  },
+  "73": {
+    "jmx": "Sana \u00f1\u00e1 y\u00f3\ua78co k\u00f6k\u00fa\ua78cvi\u0331 v\u00ed\u2011\u00f1\u00e1, suu nti\u00e1a\u2011\u00f1\u00e1 mi\u00ed\u2011\u00f1\u00e1 \u00f1a\u0331 n\u00e1 nt\u00efku\u0331n\u2011\u00f1a\u0331\u2011\u00f1\u00e1",
+    "es": "Quiz\u00e1 ella no est\u00e9 enferma y solamente se est\u00e1 protegiendo.",
+    "en": "Maybe she's not sick, just protecting herself"
+  },
+  "74": {
+    "jmx": "Sana \u00f1\u00e1 y\u00f3\ua78co k\u00f6k\u00fa\ua78cvi\u0331 v\u00ed\u2011\u00f1\u00e1, suu nti\u00e1a\u2011\u00f1\u00e1 mi\u00ed\u2011\u00f1\u00e1 \u00f1a\u0331 n\u00e1 nt\u00efku\u0331n\u2011\u00f1a\u0331\u2011\u00f1\u00e1",
+    "es": "Quiz\u00e1 ella no est\u00e9 enferma y solamente se est\u00e1 protegiendo.",
+    "en": "Maybe she's not sick, just protecting herself"
+  },
+  "75": {
+    "jmx": "Na\u0331 yuv\u00ed na\u0331 xa\u0331 \u00edyo m\u00ed\u00ed kue\u0331\ua78ce\u0331 ik\u00e1n i\u00edn kuvi\ufeffk\u00f6n\u00e1\ua78ca\u0331 v\u00ed\u2011na\u0331 \ufeff\u00f1a\u0331 k\u00fa\ua78cvi\u0331\u2011na\u0331, suu kuvi s\u00e1nti\u0331ku\u0331n\u2011na\u0331\u2011\u00f1a\u0331 iinka na\u0331 yuv\u00ed.",
+    "es": "Las personas que ya tienen contagio pueden no presentar s\u00edntomas, per a\u00fan as\u00ed, te pueden\ufefftransmitir\ufeffel virus.",
+    "en": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+  },
+  "76": {
+    "jmx": "Na\u0331 yuv\u00ed na\u0331 xa\u0331 \u00edyo m\u00ed\u00ed kue\u0331\ua78ce\u0331 ik\u00e1n i\u00edn kuvi\ufeffk\u00f6n\u00e1\ua78ca\u0331 v\u00ed\u2011na\u0331 \ufeff\u00f1a\u0331 k\u00fa\ua78cvi\u0331\u2011na\u0331, suu kuvi s\u00e1nti\u0331ku\u0331n\u2011na\u0331\u2011\u00f1a\u0331 iinka na\u0331 yuv\u00ed.",
+    "es": "Las personas que ya tienen contagio pueden no presentar s\u00edntomas, per a\u00fan as\u00ed, te pueden\ufefftransmitir\ufeffel virus.",
+    "en": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+  },
+  "77": {
+    "jmx": "Na\u0331 yuv\u00ed na\u0331 xa\u0331 \u00edyo m\u00ed\u00ed kue\u0331\ua78ce\u0331 ik\u00e1n i\u00edn kuvi\ufeffk\u00f6n\u00e1\ua78ca\u0331 v\u00ed\u2011na\u0331 \ufeff\u00f1a\u0331 k\u00fa\ua78cvi\u0331\u2011na\u0331, suu kuvi s\u00e1nti\u0331ku\u0331n\u2011na\u0331\u2011\u00f1a\u0331 iinka na\u0331 yuv\u00ed.",
+    "es": "Las personas que ya tienen contagio pueden no presentar s\u00edntomas, per a\u00fan as\u00ed, te pueden\ufefftransmitir\ufeffel virus.",
+    "en": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+  },
+  "78": {
+    "jmx": "\u00d1a\u0331 va\u0331\ua78ca ka k\u00fa\u00fa\u2011\u00f1a\u0331 n\u00e1 k\u00fc\ua78cu\u0331n\u2011\u00fan nu\u0331\u00fa \u00edyo kua\u0331\ua78c\u00e1 na\u0331 yuv\u00ed, chi x\u00efni\u2011\u00fan nt\u00e1a k\u00fa\u00fa na\u0331 k\u00fa\ua78cvi\u0331.",
+    "es": "En general, conviene evitar lugares con mucha gente, porque no sabe qu\u00e9n podr\u00eda estar enfermo.",
+    "en": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+  },
+  "79": {
+    "jmx": "\u00d1a\u0331 va\u0331\ua78ca ka k\u00fa\u00fa\u2011\u00f1a\u0331 n\u00e1 k\u00fc\ua78cu\u0331n\u2011\u00fan nu\u0331\u00fa \u00edyo kua\u0331\ua78c\u00e1 na\u0331 yuv\u00ed, chi x\u00efni\u2011\u00fan nt\u00e1a k\u00fa\u00fa na\u0331 k\u00fa\ua78cvi\u0331.",
+    "es": "En general, conviene evitar lugares con mucha gente, porque no sabe qu\u00e9n podr\u00eda estar enfermo.",
+    "en": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+  },
+  "80": {
+    "jmx": "\u00d1a\u0331 va\u0331\ua78ca ka k\u00fa\u00fa\u2011\u00f1a\u0331 n\u00e1 k\u00fc\ua78cu\u0331n\u2011\u00fan nu\u0331\u00fa \u00edyo kua\u0331\ua78c\u00e1 na\u0331 yuv\u00ed, chi x\u00efni\u2011\u00fan nt\u00e1a k\u00fa\u00fa na\u0331 k\u00fa\ua78cvi\u0331.",
+    "es": "En general, conviene evitar lugares con mucha gente, porque no sabe qu\u00e9n podr\u00eda estar enfermo.",
+    "en": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+  },
+  "81": {
+    "jmx": "nu\u0331\u00fa\ufeffkuch\u00e1ra",
+    "es": "palillos/\ufeffcubiertos",
+    "en": "chopsticks"
+  },
+  "82": {
+    "jmx": "nu\u0331\u00fa\ufeffkuch\u00e1ra",
+    "es": "palillos/\ufeffcubiertos",
+    "en": "chopsticks"
+  },
+  "83": {
+    "jmx": "nu\u0331\u00fa\ufeffkuch\u00e1ra",
+    "es": "palillos/\ufeffcubiertos",
+    "en": "chopsticks"
+  },
+  "84": {
+    "jmx": "na\u0331 va\u0331\ua78ca",
+    "es": "persona sana",
+    "en": "Healthy person"
+  },
+  "85": {
+    "jmx": "na\u0331 va\u0331\ua78ca",
+    "es": "persona sana",
+    "en": "Healthy person"
+  },
+  "86": {
+    "jmx": "na\u0331 va\u0331\ua78ca",
+    "es": "persona sana",
+    "en": "Healthy person"
+  },
+  "87": {
+    "jmx": "so\u0331\ua78co \u00f1a\u0331\ua78ca",
+    "es": "agarraderas",
+    "en": "Train straps"
+  },
+  "88": {
+    "jmx": "so\u0331\ua78co \u00f1a\u0331\ua78ca",
+    "es": "agarraderas",
+    "en": "Train straps"
+  },
+  "89": {
+    "jmx": "so\u0331\ua78co \u00f1a\u0331\ua78ca",
+    "es": "agarraderas",
+    "en": "Train straps"
+  },
+  "90": {
+    "jmx": "\u200csa\ua78cm\u00e1",
+    "es": "botones",
+    "en": "Lift buttons"
+  },
+  "91": {
+    "jmx": "\u200csa\ua78cm\u00e1",
+    "es": "botones",
+    "en": "Lift buttons"
+  },
+  "92": {
+    "jmx": "\u200csa\ua78cm\u00e1",
+    "es": "botones",
+    "en": "Lift buttons"
+  },
+  "93": {
+    "jmx": "pa\u00edto",
+    "es": "pa\u00f1uelos",
+    "en": "Tissues"
+  },
+  "94": {
+    "jmx": "pa\u00edto",
+    "es": "pa\u00f1uelos",
+    "en": "Tissues"
+  },
+  "95": {
+    "jmx": "pa\u00edto",
+    "es": "pa\u00f1uelos",
+    "en": "Tissues"
+  },
+  "96": {
+    "jmx": "v\u00e1so",
+    "es": "vasos",
+    "en": "Cups"
+  },
+  "97": {
+    "jmx": "v\u00e1so",
+    "es": "vasos",
+    "en": "Cups"
+  },
+  "98": {
+    "jmx": "v\u00e1so",
+    "es": "vasos",
+    "en": "Cups"
+  },
+  "99": {
+    "jmx": "nu\u0331\u00fa celular,\ufeff\u00e1 computadora",
+    "es": "dispositivos digitales",
+    "en": "Digital devices"
+  },
+  "100": {
+    "jmx": "nu\u0331\u00fa celular,\ufeff\u00e1 computadora",
+    "es": "dispositivos digitales",
+    "en": "Digital devices"
+  },
+  "101": {
+    "jmx": "nu\u0331\u00fa celular,\ufeff\u00e1 computadora",
+    "es": "dispositivos digitales",
+    "en": "Digital devices"
+  },
+  "102": {
+    "jmx": "sa\u0331t\u00e1\ufeff\u00f1a\u0331 nt\u00e1si yu\u0331\ua78c\u00fa\u2011na\u0331",
+    "es": "hasta en el exterior del cubrebocas",
+    "en": "& even on the outside of your face mask"
+  },
+  "103": {
+    "jmx": "sa\u0331t\u00e1\ufeff\u00f1a\u0331 nt\u00e1si yu\u0331\ua78c\u00fa\u2011na\u0331",
+    "es": "hasta en el exterior del cubrebocas",
+    "en": "& even on the outside of your face mask"
+  },
+  "104": {
+    "jmx": "sa\u0331t\u00e1\ufeff\u00f1a\u0331 nt\u00e1si yu\u0331\ua78c\u00fa\u2011na\u0331",
+    "es": "hasta en el exterior del cubrebocas",
+    "en": "& even on the outside of your face mask"
+  },
+  "105": {
+    "jmx": "nu\u0331\u00fa t\u00edin ntiaa\u2011na\u0331",
+    "es": "pasamanos",
+    "en": "Stair bannisters"
+  },
+  "106": {
+    "jmx": "nu\u0331\u00fa t\u00edin ntiaa\u2011na\u0331",
+    "es": "pasamanos",
+    "en": "Stair bannisters"
+  },
+  "107": {
+    "jmx": "nu\u0331\u00fa t\u00edin ntiaa\u2011na\u0331",
+    "es": "pasamanos",
+    "en": "Stair bannisters"
+  },
+  "108": {
+    "jmx": "\u00f1a\u0331 t\u00edin\u2011na\u0331\ufefft\u00e1 k\u00e9\ua78c\u00e9\u2011na\u0331 computadora",
+    "es": "rat\u00f3n",
+    "en": "Mouse"
+  },
+  "109": {
+    "jmx": "\u00f1a\u0331 t\u00edin\u2011na\u0331\ufefft\u00e1 k\u00e9\ua78c\u00e9\u2011na\u0331 computadora",
+    "es": "rat\u00f3n",
+    "en": "Mouse"
+  },
+  "110": {
+    "jmx": "\u00f1a\u0331 t\u00edin\u2011na\u0331\ufefft\u00e1 k\u00e9\ua78c\u00e9\u2011na\u0331 computadora",
+    "es": "rat\u00f3n",
+    "en": "Mouse"
+  },
+  "111": {
+    "jmx": "l\u00e1pi",
+    "es": "lapiceros",
+    "en": "Pens"
+  },
+  "112": {
+    "jmx": "l\u00e1pi",
+    "es": "lapiceros",
+    "en": "Pens"
+  },
+  "113": {
+    "jmx": "l\u00e1pi",
+    "es": "lapiceros",
+    "en": "Pens"
+  },
+  "114": {
+    "jmx": "nu\u0331\u00fa t\u00edin\u2011na\u0331 x\u00fan\u00e1\u2011na\u0331 y\u00e9\ua78ce",
+    "es": "perillas",
+    "en": "Door knobs"
+  },
+  "115": {
+    "jmx": "nu\u0331\u00fa t\u00edin\u2011na\u0331 x\u00fan\u00e1\u2011na\u0331 y\u00e9\ua78ce",
+    "es": "perillas",
+    "en": "Door knobs"
+  },
+  "116": {
+    "jmx": "nu\u0331\u00fa t\u00edin\u2011na\u0331 x\u00fan\u00e1\u2011na\u0331 y\u00e9\ua78ce",
+    "es": "perillas",
+    "en": "Door knobs"
+  },
+  "117": {
+    "jmx": "nta\ua78c\u00e1\u2011na\u0331",
+    "es": "las manos",
+    "en": "Their hands"
+  },
+  "118": {
+    "jmx": "nta\ua78c\u00e1\u2011na\u0331",
+    "es": "las manos",
+    "en": "Their hands"
+  },
+  "119": {
+    "jmx": "nta\ua78c\u00e1\u2011na\u0331",
+    "es": "las manos",
+    "en": "Their hands"
+  },
+  "120": {
+    "jmx": "Sava ra, m\u00ed\u00ed ti\u00e1 s\u01d0\ua78ci iin na\u0331 yuv\u00ed k\u00fa\ua78cvi\u0331 kuvi koo\u2011r\u00e1:",
+    "es": "A veces, la saliva de una persona enferma puede entrar en contacto con:",
+    "en": "However, sometimes a sick person's saliva can get on other things\u2026"
+  },
+  "121": {
+    "jmx": "Sava ra, m\u00ed\u00ed ti\u00e1 s\u01d0\ua78ci iin na\u0331 yuv\u00ed k\u00fa\ua78cvi\u0331 kuvi koo\u2011r\u00e1:",
+    "es": "A veces, la saliva de una persona enferma puede entrar en contacto con:",
+    "en": "However, sometimes a sick person's saliva can get on other things\u2026"
+  },
+  "122": {
+    "jmx": "Sava ra, m\u00ed\u00ed ti\u00e1 s\u01d0\ua78ci iin na\u0331 yuv\u00ed k\u00fa\ua78cvi\u0331 kuvi koo\u2011r\u00e1:",
+    "es": "A veces, la saliva de una persona enferma puede entrar en contacto con:",
+    "en": "However, sometimes a sick person's saliva can get on other things\u2026"
+  },
+  "123": {
+    "jmx": "nti\ua78ci\u2011na\u0331 kuvi ki\ua78cin m\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co.",
+    "es": "todos podr\u00edan enfermarse.",
+    "en": "you might all fall sick."
+  },
+  "124": {
+    "jmx": "nti\ua78ci\u2011na\u0331 kuvi ki\ua78cin m\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co.",
+    "es": "todos podr\u00edan enfermarse.",
+    "en": "you might all fall sick."
+  },
+  "125": {
+    "jmx": "nti\ua78ci\u2011na\u0331 kuvi ki\ua78cin m\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co.",
+    "es": "todos podr\u00edan enfermarse.",
+    "en": "you might all fall sick."
+  },
+  "126": {
+    "jmx": "\u00e1 nu\u0331\u00fa na\u0331 t\u00e1\ua78can\u2011\u00fan",
+    "es": "o la de tus seres queridos",
+    "en": "or your loved one's face"
+  },
+  "127": {
+    "jmx": "\u00e1 nu\u0331\u00fa na\u0331 t\u00e1\ua78can\u2011\u00fan",
+    "es": "o la de tus seres queridos",
+    "en": "or your loved one's face"
+  },
+  "128": {
+    "jmx": "\u00e1 nu\u0331\u00fa na\u0331 t\u00e1\ua78can\u2011\u00fan",
+    "es": "o la de tus seres queridos",
+    "en": "or your loved one's face"
+  },
+  "129": {
+    "jmx": "\u00e1 ntuch\u00ed nu\u0331\u00fa\u2011\u00fan",
+    "es": "o frotas los ojos,",
+    "en": "rub eyes"
+  },
+  "130": {
+    "jmx": "\u00e1 ntuch\u00ed nu\u0331\u00fa\u2011\u00fan",
+    "es": "o frotas los ojos,",
+    "en": "rub eyes"
+  },
+  "131": {
+    "jmx": "\u00e1 ntuch\u00ed nu\u0331\u00fa\u2011\u00fan",
+    "es": "o frotas los ojos,",
+    "en": "rub eyes"
+  },
+  "132": {
+    "jmx": "\u00c1tu k\u00f6k\u00ed\ua78cin\u2011\u00fan ku\u00e9nta ra ke\ua78c\u00e9\u2011\u00fan nt\u00e1a \u00f1a\u0331\ua78ca y\u00f3\ua78co ra t\u00e1 nti\u0331\ua78ci k\u00e9\ua78c\u00e9\u2011\u00fan nu\u0331\u00fa\u2011\u00fan,",
+    "es": "Si tocas cualquiera de estas cosas sin querer y despu\u00e9s te tocas la cara,",
+    "en": "And if you do touch any of these things by accident, and then touch your face,"
+  },
+  "133": {
+    "jmx": "\u00c1tu k\u00f6k\u00ed\ua78cin\u2011\u00fan ku\u00e9nta ra ke\ua78c\u00e9\u2011\u00fan nt\u00e1a \u00f1a\u0331\ua78ca y\u00f3\ua78co ra t\u00e1 nti\u0331\ua78ci k\u00e9\ua78c\u00e9\u2011\u00fan nu\u0331\u00fa\u2011\u00fan,",
+    "es": "Si tocas cualquiera de estas cosas sin querer y despu\u00e9s te tocas la cara,",
+    "en": "And if you do touch any of these things by accident, and then touch your face,"
+  },
+  "134": {
+    "jmx": "\u00c1tu k\u00f6k\u00ed\ua78cin\u2011\u00fan ku\u00e9nta ra ke\ua78c\u00e9\u2011\u00fan nt\u00e1a \u00f1a\u0331\ua78ca y\u00f3\ua78co ra t\u00e1 nti\u0331\ua78ci k\u00e9\ua78c\u00e9\u2011\u00fan nu\u0331\u00fa\u2011\u00fan,",
+    "es": "Si tocas cualquiera de estas cosas sin querer y despu\u00e9s te tocas la cara,",
+    "en": "And if you do touch any of these things by accident, and then touch your face,"
+  },
+  "135": {
+    "jmx": "\u00e1 alcohol, ra nti\ua78ci xa\u0331\ua78c\u00e1\u2011\u00f1a\u0331.",
+    "es": "Lavarlos con jab\u00f3n, cloro, o alcohol medicinal es la \u00fanica forma de eliminarlos.",
+    "en": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+  },
+  "136": {
+    "jmx": "\u00e1 alcohol, ra nti\ua78ci xa\u0331\ua78c\u00e1\u2011\u00f1a\u0331.",
+    "es": "Lavarlos con jab\u00f3n, cloro, o alcohol medicinal es la \u00fanica forma de eliminarlos.",
+    "en": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+  },
+  "137": {
+    "jmx": "\u00e1 alcohol, ra nti\ua78ci xa\u0331\ua78c\u00e1\u2011\u00f1a\u0331.",
+    "es": "Lavarlos con jab\u00f3n, cloro, o alcohol medicinal es la \u00fanica forma de eliminarlos.",
+    "en": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+  },
+  "138": {
+    "jmx": "M\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co kuvi koo\u2011\u00f1a\u0331 nta\u0331a\u0331 u\u0331vi\u0331 ki\u0331\u00ed nu\u0331\u00fa \u00f1a\u0331\ua78ca.",
+    "es": "Los virus pueden durar hasta 48 horas en objetos.",
+    "en": "Viruses can last for quite a few hours on objects,"
+  },
+  "139": {
+    "jmx": "M\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co kuvi koo\u2011\u00f1a\u0331 nta\u0331a\u0331 u\u0331vi\u0331 ki\u0331\u00ed nu\u0331\u00fa \u00f1a\u0331\ua78ca.",
+    "es": "Los virus pueden durar hasta 48 horas en objetos.",
+    "en": "Viruses can last for quite a few hours on objects,"
+  },
+  "140": {
+    "jmx": "M\u00ed\u00ed kue\u0331\ua78ce\u0331 y\u00f3\ua78co kuvi koo\u2011\u00f1a\u0331 nta\u0331a\u0331 u\u0331vi\u0331 ki\u0331\u00ed nu\u0331\u00fa \u00f1a\u0331\ua78ca.",
+    "es": "Los virus pueden durar hasta 48 horas en objetos.",
+    "en": "Viruses can last for quite a few hours on objects,"
+  },
+  "141": {
+    "jmx": "na\u0331m\u00e1",
+    "es": "jab\u00f3n",
+    "en": "soap"
+  },
+  "142": {
+    "jmx": "na\u0331m\u00e1",
+    "es": "jab\u00f3n",
+    "en": "soap"
+  },
+  "143": {
+    "jmx": "na\u0331m\u00e1",
+    "es": "jab\u00f3n",
+    "en": "soap"
+  },
+  "144": {
+    "jmx": "\u00f1a\u0331 kasa\u2011\u00fan",
+    "es": "precauciones",
+    "en": "precautions"
+  },
+  "145": {
+    "jmx": "\u00f1a\u0331 kasa\u2011\u00fan",
+    "es": "precauciones",
+    "en": "precautions"
+  },
+  "146": {
+    "jmx": "\u00f1a\u0331 kasa\u2011\u00fan",
+    "es": "precauciones",
+    "en": "precautions"
+  },
+  "147": {
+    "jmx": "\u00d1a\u0331 n\u00e1 nt\u00efku\u0331n\u2011\u00f1a\u0331 iinka\u2011na\u0331 \u00e1 mi\u00ed\u2011\u00fan, \u00f1a\u0331 y\u00f3\ua78co k\u00fa\u00fa",
+    "es": "Para evitar contagios,\ufeffsigue estas",
+    "en": "Which is why it is also good to follow these"
+  },
+  "148": {
+    "jmx": "\u00d1a\u0331 n\u00e1 nt\u00efku\u0331n\u2011\u00f1a\u0331 iinka\u2011na\u0331 \u00e1 mi\u00ed\u2011\u00fan, \u00f1a\u0331 y\u00f3\ua78co k\u00fa\u00fa",
+    "es": "Para evitar contagios,\ufeffsigue estas",
+    "en": "Which is why it is also good to follow these"
+  },
+  "149": {
+    "jmx": "\u00d1a\u0331 n\u00e1 nt\u00efku\u0331n\u2011\u00f1a\u0331 iinka\u2011na\u0331 \u00e1 mi\u00ed\u2011\u00fan, \u00f1a\u0331 y\u00f3\ua78co k\u00fa\u00fa",
+    "es": "Para evitar contagios,\ufeffsigue estas",
+    "en": "Which is why it is also good to follow these"
+  },
+  "150": {
+    "jmx": "nta\ua78c\u00e1 ti\u0331ku\u00edi iin s\u00e1a\ufeffnta\u0331a\u0331 y\u00f3\ua78co",
+    "es": "l\u00e1vate\ufeffhasta aqu\u00ed",
+    "en": "wash with soap up to here"
+  },
+  "151": {
+    "jmx": "nta\ua78c\u00e1 ti\u0331ku\u00edi iin s\u00e1a\ufeffnta\u0331a\u0331 y\u00f3\ua78co",
+    "es": "l\u00e1vate\ufeffhasta aqu\u00ed",
+    "en": "wash with soap up to here"
+  },
+  "152": {
+    "jmx": "nta\ua78c\u00e1 ti\u0331ku\u00edi iin s\u00e1a\ufeffnta\u0331a\u0331 y\u00f3\ua78co",
+    "es": "l\u00e1vate\ufeffhasta aqu\u00ed",
+    "en": "wash with soap up to here"
+  },
+  "153": {
+    "jmx": "na\u0331m\u00e1",
+    "es": "jab\u00f3n",
+    "en": "soap"
+  },
+  "154": {
+    "jmx": "na\u0331m\u00e1",
+    "es": "jab\u00f3n",
+    "en": "soap"
+  },
+  "155": {
+    "jmx": "na\u0331m\u00e1",
+    "es": "jab\u00f3n",
+    "en": "soap"
+  },
+  "156": {
+    "jmx": "ko\u0331nto\u0331 nta\ua78c\u00e1",
+    "es": "codo",
+    "en": "elbow"
+  },
+  "157": {
+    "jmx": "ko\u0331nto\u0331 nta\ua78c\u00e1",
+    "es": "codo",
+    "en": "elbow"
+  },
+  "158": {
+    "jmx": "ko\u0331nto\u0331 nta\ua78c\u00e1",
+    "es": "codo",
+    "en": "elbow"
+  },
+  "159": {
+    "jmx": "K\u00eb\ua78c\u00e9\u2011\u00fan nu\u0331\u00fa\u2011\u00fan (\u00e1 nu\u0331\u00fa iinka\u2011na\u0331).\ufeff\u00c1tu x\u00ednin\u00fa\ua78cu kasa\u2011\u00fan\u2011\u00f1a\u0331, x\u00edn\u00e1 ka va\u0331\ua78ca va\u0331\ua78ca nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi.",
+    "es": "No toques tu cara (o la de algui\u00e9n m\u00e1s).\ufeffSi tienes que hacerlo, primero l\u00e1vate muy bien las manos.",
+    "en": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+  },
+  "160": {
+    "jmx": "K\u00eb\ua78c\u00e9\u2011\u00fan nu\u0331\u00fa\u2011\u00fan (\u00e1 nu\u0331\u00fa iinka\u2011na\u0331).\ufeff\u00c1tu x\u00ednin\u00fa\ua78cu kasa\u2011\u00fan\u2011\u00f1a\u0331, x\u00edn\u00e1 ka va\u0331\ua78ca va\u0331\ua78ca nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi.",
+    "es": "No toques tu cara (o la de algui\u00e9n m\u00e1s).\ufeffSi tienes que hacerlo, primero l\u00e1vate muy bien las manos.",
+    "en": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+  },
+  "161": {
+    "jmx": "K\u00eb\ua78c\u00e9\u2011\u00fan nu\u0331\u00fa\u2011\u00fan (\u00e1 nu\u0331\u00fa iinka\u2011na\u0331).\ufeff\u00c1tu x\u00ednin\u00fa\ua78cu kasa\u2011\u00fan\u2011\u00f1a\u0331, x\u00edn\u00e1 ka va\u0331\ua78ca va\u0331\ua78ca nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi.",
+    "es": "No toques tu cara (o la de algui\u00e9n m\u00e1s).\ufeffSi tienes que hacerlo, primero l\u00e1vate muy bien las manos.",
+    "en": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+  },
+  "162": {
+    "jmx": "\u200b\u200b\u200b ",
+    "es": "El tiempo suficiente para cantar \"Happy Birthday\" dos veces",
+    "en": "Enough time to sing \u201cHappy Birthday\u201d twice"
+  },
+  "163": {
+    "jmx": "\u200b\u200b\u200b ",
+    "es": "El tiempo suficiente para cantar \"Happy Birthday\" dos veces",
+    "en": "Enough time to sing \u201cHappy Birthday\u201d twice"
+  },
+  "164": {
+    "jmx": "\u200b\u200b\u200b ",
+    "es": "El tiempo suficiente para cantar \"Happy Birthday\" dos veces",
+    "en": "Enough time to sing \u201cHappy Birthday\u201d twice"
+  },
+  "165": {
+    "jmx": "ti\u0331xin ch\u00ee\u00edn\u2011\u00fan",
+    "es": "debajo las u\u00f1as",
+    "en": "under the nails"
+  },
+  "166": {
+    "jmx": "ti\u0331xin ch\u00ee\u00edn\u2011\u00fan",
+    "es": "debajo las u\u00f1as",
+    "en": "under the nails"
+  },
+  "167": {
+    "jmx": "ti\u0331xin ch\u00ee\u00edn\u2011\u00fan",
+    "es": "debajo las u\u00f1as",
+    "en": "under the nails"
+  },
+  "168": {
+    "jmx": "nu\u0331\u00fa o\u0331ko\u0331 segundo",
+    "es": "por 20 segundos",
+    "en": "for 20 seconds"
+  },
+  "169": {
+    "jmx": "nu\u0331\u00fa o\u0331ko\u0331 segundo",
+    "es": "por 20 segundos",
+    "en": "for 20 seconds"
+  },
+  "170": {
+    "jmx": "nu\u0331\u00fa o\u0331ko\u0331 segundo",
+    "es": "por 20 segundos",
+    "en": "for 20 seconds"
+  },
+  "171": {
+    "jmx": "m\u01ce\ua78c\u00f1u ntuku nta\ua78c\u00e1\u2011\u00fan",
+    "es": "entre los dedos",
+    "en": "between the fingers"
+  },
+  "172": {
+    "jmx": "m\u01ce\ua78c\u00f1u ntuku nta\ua78c\u00e1\u2011\u00fan",
+    "es": "entre los dedos",
+    "en": "between the fingers"
+  },
+  "173": {
+    "jmx": "m\u01ce\ua78c\u00f1u ntuku nta\ua78c\u00e1\u2011\u00fan",
+    "es": "entre los dedos",
+    "en": "between the fingers"
+  },
+  "174": {
+    "jmx": "ntakatia sa\u0331t\u00e1 nta\ua78c\u00e1\u2011\u00fan",
+    "es": "lava la parte de atr\u00e1s",
+    "en": "wash the back of your hands"
+  },
+  "175": {
+    "jmx": "ntakatia sa\u0331t\u00e1 nta\ua78c\u00e1\u2011\u00fan",
+    "es": "lava la parte de atr\u00e1s",
+    "en": "wash the back of your hands"
+  },
+  "176": {
+    "jmx": "ntakatia sa\u0331t\u00e1 nta\ua78c\u00e1\u2011\u00fan",
+    "es": "lava la parte de atr\u00e1s",
+    "en": "wash the back of your hands"
+  },
+  "177": {
+    "jmx": "\u00bfNa\u0331xa ku\u0331va nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi?",
+    "es": "\u00bfC\u00f3mo lavarse muy bien las manos?",
+    "en": "What is thoroughly?"
+  },
+  "178": {
+    "jmx": "\u00bfNa\u0331xa ku\u0331va nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi?",
+    "es": "\u00bfC\u00f3mo lavarse muy bien las manos?",
+    "en": "What is thoroughly?"
+  },
+  "179": {
+    "jmx": "\u00bfNa\u0331xa ku\u0331va nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi?",
+    "es": "\u00bfC\u00f3mo lavarse muy bien las manos?",
+    "en": "What is thoroughly?"
+  },
+  "180": {
+    "jmx": "nta\ua78cnti",
+    "es": "Si lo hiciste, no te procupes. Solamente l\u00e1vate bien las manos con jab\u00f3n despu\u00e9s.",
+    "en": "If you did, don't worry. Just wash your hands with soap after."
+  },
+  "181": {
+    "jmx": "nta\ua78cnti",
+    "es": "Si lo hiciste, no te procupes. Solamente l\u00e1vate bien las manos con jab\u00f3n despu\u00e9s.",
+    "en": "If you did, don't worry. Just wash your hands with soap after."
+  },
+  "182": {
+    "jmx": "nta\ua78cnti",
+    "es": "Si lo hiciste, no te procupes. Solamente l\u00e1vate bien las manos con jab\u00f3n despu\u00e9s.",
+    "en": "If you did, don't worry. Just wash your hands with soap after."
+  },
+  "183": {
+    "jmx": "Ra t\u00efin\u2011\u00fan sa\u0331t\u00e1\ufeffm\u00ed\u00ed \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa\u2011\u00fan ik\u00e1n \u00e1tu n\u00e1 kuvi.",
+    "es": "Adem\u00e1s, no toques el exterior del cubrebocas si puedes evitarlo.",
+    "en": "Also, don't touch the outside of the mask if you can."
+  },
+  "184": {
+    "jmx": "Ra t\u00efin\u2011\u00fan sa\u0331t\u00e1\ufeffm\u00ed\u00ed \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa\u2011\u00fan ik\u00e1n \u00e1tu n\u00e1 kuvi.",
+    "es": "Adem\u00e1s, no toques el exterior del cubrebocas si puedes evitarlo.",
+    "en": "Also, don't touch the outside of the mask if you can."
+  },
+  "185": {
+    "jmx": "Ra t\u00efin\u2011\u00fan sa\u0331t\u00e1\ufeffm\u00ed\u00ed \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa\u2011\u00fan ik\u00e1n \u00e1tu n\u00e1 kuvi.",
+    "es": "Adem\u00e1s, no toques el exterior del cubrebocas si puedes evitarlo.",
+    "en": "Also, don't touch the outside of the mask if you can."
+  },
+  "186": {
+    "jmx": "\u00c1tu ti\u0331in\u2011\u00fan\u2011\u00f1a\u0331, va\u0331\ua78ca va\u0331\ua78ca nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi x\u00ed\ua78cin na\u0331m\u00e1 va.",
+    "es": "gotas",
+    "en": "droplets"
+  },
+  "187": {
+    "jmx": "\u00c1tu ti\u0331in\u2011\u00fan\u2011\u00f1a\u0331, va\u0331\ua78ca va\u0331\ua78ca nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi x\u00ed\ua78cin na\u0331m\u00e1 va.",
+    "es": "gotas",
+    "en": "droplets"
+  },
+  "188": {
+    "jmx": "\u00c1tu ti\u0331in\u2011\u00fan\u2011\u00f1a\u0331, va\u0331\ua78ca va\u0331\ua78ca nta\ua78c\u00e1\u2011\u00fan ti\u0331ku\u00edi x\u00ed\ua78cin na\u0331m\u00e1 va.",
+    "es": "gotas",
+    "en": "droplets"
+  },
+  "189": {
+    "jmx": "\u00c1tu kua\u0331\ua78c\u00e1 ki\u0331\u00ed n\u00e1 kuntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan, kuvi koo \u00f1a ya\u0331kua\u0331 ini\u2011\u00f1a\u0331.",
+    "es": "Si usas por mucho tiempo el mismo cubrebocas, puede acumular bacterias en el interior.",
+    "en": "*Bacteria grows on the insides of your mask if you wear them too long"
+  },
+  "190": {
+    "jmx": "\u00c1tu kua\u0331\ua78c\u00e1 ki\u0331\u00ed n\u00e1 kuntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan, kuvi koo \u00f1a ya\u0331kua\u0331 ini\u2011\u00f1a\u0331.",
+    "es": "Si usas por mucho tiempo el mismo cubrebocas, puede acumular bacterias en el interior.",
+    "en": "*Bacteria grows on the insides of your mask if you wear them too long"
+  },
+  "191": {
+    "jmx": "\u00c1tu kua\u0331\ua78c\u00e1 ki\u0331\u00ed n\u00e1 kuntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan, kuvi koo \u00f1a ya\u0331kua\u0331 ini\u2011\u00f1a\u0331.",
+    "es": "Si usas por mucho tiempo el mismo cubrebocas, puede acumular bacterias en el interior.",
+    "en": "*Bacteria grows on the insides of your mask if you wear them too long"
+  },
+  "192": {
+    "jmx": "S\u00e1kana m\u00ed\u00ed \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa\u2011\u00fan\ufeffik\u00e1n \u00f1a\u0331 ya\u0331kua\u0331 nu\u0331\u00fa kuayo.\ufeffN\u00e1 k\u00fcntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan nu\u0331\u00fa kua\u0331\ua78c\u00e1 ki\u0331\u00ed.\ufeffIin ki\u0331\u00ed va n\u00e1 kuntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan, ra sama\u2011\u00f1a\u0331.",
+    "es": "Tira los cubrebocas que est\u00e9n sucios.\ufeff\u00a1No los uses m\u00e1s de un d\u00eda!",
+    "en": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+  },
+  "193": {
+    "jmx": "S\u00e1kana m\u00ed\u00ed \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa\u2011\u00fan\ufeffik\u00e1n \u00f1a\u0331 ya\u0331kua\u0331 nu\u0331\u00fa kuayo.\ufeffN\u00e1 k\u00fcntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan nu\u0331\u00fa kua\u0331\ua78c\u00e1 ki\u0331\u00ed.\ufeffIin ki\u0331\u00ed va n\u00e1 kuntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan, ra sama\u2011\u00f1a\u0331.",
+    "es": "Tira los cubrebocas que est\u00e9n sucios.\ufeff\u00a1No los uses m\u00e1s de un d\u00eda!",
+    "en": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+  },
+  "194": {
+    "jmx": "S\u00e1kana m\u00ed\u00ed \u00f1a\u0331 nt\u00e1si yu\ua78c\u00fa\u2011\u00fan\ufeffik\u00e1n \u00f1a\u0331 ya\u0331kua\u0331 nu\u0331\u00fa kuayo.\ufeffN\u00e1 k\u00fcntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan nu\u0331\u00fa kua\u0331\ua78c\u00e1 ki\u0331\u00ed.\ufeffIin ki\u0331\u00ed va n\u00e1 kuntaka\u0331a\u0331\u2011\u00f1a\u0331 yu\ua78c\u00fa\u2011\u00fan, ra sama\u2011\u00f1a\u0331.",
+    "es": "Tira los cubrebocas que est\u00e9n sucios.\ufeff\u00a1No los uses m\u00e1s de un d\u00eda!",
+    "en": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+  },
+  "195": {
+    "jmx": "N\u00e1 koo s\u00ed\u00edn\ufeffiin kuch\u00e1ra\ufeff\u00f1a\u0331 taan\u2011\u00fan \u00f1a\u0331\ua78ca.",
+    "es": "Usa una chuchara especial para servir",
+    "en": "Use a serving spoon"
+  },
+  "196": {
+    "jmx": "N\u00e1 koo s\u00ed\u00edn\ufeffiin kuch\u00e1ra\ufeff\u00f1a\u0331 taan\u2011\u00fan \u00f1a\u0331\ua78ca.",
+    "es": "Usa una chuchara especial para servir",
+    "en": "Use a serving spoon"
+  },
+  "197": {
+    "jmx": "N\u00e1 koo s\u00ed\u00edn\ufeffiin kuch\u00e1ra\ufeff\u00f1a\u0331 taan\u2011\u00fan \u00f1a\u0331\ua78ca.",
+    "es": "Usa una chuchara especial para servir",
+    "en": "Use a serving spoon"
+  },
+  "198": {
+    "jmx": "l\u011be",
+    "es": "nene",
+    "en": "Baby"
+  },
+  "199": {
+    "jmx": "l\u011be",
+    "es": "nene",
+    "en": "Baby"
+  },
+  "200": {
+    "jmx": "l\u011be",
+    "es": "nene",
+    "en": "Baby"
+  },
+  "201": {
+    "jmx": "pa\u00e1",
+    "es": "papi",
+    "en": "Daddy"
+  },
+  "202": {
+    "jmx": "pa\u00e1",
+    "es": "papi",
+    "en": "Daddy"
+  },
+  "203": {
+    "jmx": "pa\u00e1",
+    "es": "papi",
+    "en": "Daddy"
+  },
+  "204": {
+    "jmx": "ma\u00e1",
+    "es": "mami",
+    "en": "Mommy"
+  },
+  "205": {
+    "jmx": "ma\u00e1",
+    "es": "mami",
+    "en": "Mommy"
+  },
+  "206": {
+    "jmx": "ma\u00e1",
+    "es": "mami",
+    "en": "Mommy"
+  },
+  "207": {
+    "jmx": "N\u00e1 koo tuvaya iin iin\u2011na\u0331.",
+    "es": "Cada qui\u00e9n tiene su propia toalla",
+    "en": "Everyone gets their own towel"
+  },
+  "208": {
+    "jmx": "N\u00e1 koo tuvaya iin iin\u2011na\u0331.",
+    "es": "Cada qui\u00e9n tiene su propia toalla",
+    "en": "Everyone gets their own towel"
+  },
+  "209": {
+    "jmx": "N\u00e1 koo tuvaya iin iin\u2011na\u0331.",
+    "es": "Cada qui\u00e9n tiene su propia toalla",
+    "en": "Everyone gets their own towel"
+  },
+  "210": {
+    "jmx": "T\u00e4xi too\u2011\u00fan \u00f1a\u0331\ua78c\u00e1 x\u00edxi\u2011\u00fan, kuch\u00e1ra\u2011\u00fan, vaso\u2011\u00fan, \u00e1 tuvaya\u2011\u00fan nt\u00e1\ua78ca iinka\u2011na\u0331.",
+    "es": "No compartas comida, cubiertos, vasos o toallas.",
+    "en": "Do not share food, utensils, cups, towels."
+  },
+  "211": {
+    "jmx": "T\u00e4xi too\u2011\u00fan \u00f1a\u0331\ua78c\u00e1 x\u00edxi\u2011\u00fan, kuch\u00e1ra\u2011\u00fan, vaso\u2011\u00fan, \u00e1 tuvaya\u2011\u00fan nt\u00e1\ua78ca iinka\u2011na\u0331.",
+    "es": "No compartas comida, cubiertos, vasos o toallas.",
+    "en": "Do not share food, utensils, cups, towels."
+  },
+  "212": {
+    "jmx": "T\u00e4xi too\u2011\u00fan \u00f1a\u0331\ua78c\u00e1 x\u00edxi\u2011\u00fan, kuch\u00e1ra\u2011\u00fan, vaso\u2011\u00fan, \u00e1 tuvaya\u2011\u00fan nt\u00e1\ua78ca iinka\u2011na\u0331.",
+    "es": "No compartas comida, cubiertos, vasos o toallas.",
+    "en": "Do not share food, utensils, cups, towels."
+  },
+  "213": {
+    "jmx": "S\u00e1a chi, nii na\u0331xa ka n\u00e1 k\u00fau\u2011\u00fan, k\u00fcvi v\u00ed tiin\u2011\u00fan nu\u0331\u00fa\u2011\u00fan x\u00ed\ua78cin ko\u0331nto\u0331 nta\ua78c\u00e1\u2011\u00fan.",
+    "es": "Ni es posible tocarte la cara con los codos, por m\u00e1s que lo intentes.",
+    "en": "You can't touch your face with your elbow even if you tried"
+  },
+  "214": {
+    "jmx": "S\u00e1a chi, nii na\u0331xa ka n\u00e1 k\u00fau\u2011\u00fan, k\u00fcvi v\u00ed tiin\u2011\u00fan nu\u0331\u00fa\u2011\u00fan x\u00ed\ua78cin ko\u0331nto\u0331 nta\ua78c\u00e1\u2011\u00fan.",
+    "es": "Ni es posible tocarte la cara con los codos, por m\u00e1s que lo intentes.",
+    "en": "You can't touch your face with your elbow even if you tried"
+  },
+  "215": {
+    "jmx": "S\u00e1a chi, nii na\u0331xa ka n\u00e1 k\u00fau\u2011\u00fan, k\u00fcvi v\u00ed tiin\u2011\u00fan nu\u0331\u00fa\u2011\u00fan x\u00ed\ua78cin ko\u0331nto\u0331 nta\ua78c\u00e1\u2011\u00fan.",
+    "es": "Ni es posible tocarte la cara con los codos, por m\u00e1s que lo intentes.",
+    "en": "You can't touch your face with your elbow even if you tried"
+  },
+  "216": {
+    "jmx": "Kun\u00e1 x\u00ed\ua78cin chikasi y\u00e9\ua78ce xi\ua78cin so\u0331ko\u0331\u2011\u00fan \u00e1 x\u00ed\ua78cin ko\u0331nto\u0331 nta\ua78c\u00e1\u2011\u00fan\ufeff\u00f1a\u0331 n\u00e1 k\u00e4sa\u2011\u00fan\u2011\u00f1a\u0331 x\u00ed\ua78cin nta\ua78c\u00e1\u2011\u00fan.",
+    "es": "Abre y cierra las puertas con tus hombros o codos.\ufeffEvitar usar las manos.",
+    "en": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+  },
+  "217": {
+    "jmx": "Kun\u00e1 x\u00ed\ua78cin chikasi y\u00e9\ua78ce xi\ua78cin so\u0331ko\u0331\u2011\u00fan \u00e1 x\u00ed\ua78cin ko\u0331nto\u0331 nta\ua78c\u00e1\u2011\u00fan\ufeff\u00f1a\u0331 n\u00e1 k\u00e4sa\u2011\u00fan\u2011\u00f1a\u0331 x\u00ed\ua78cin nta\ua78c\u00e1\u2011\u00fan.",
+    "es": "Abre y cierra las puertas con tus hombros o codos.\ufeffEvitar usar las manos.",
+    "en": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+  },
+  "218": {
+    "jmx": "Kun\u00e1 x\u00ed\ua78cin chikasi y\u00e9\ua78ce xi\ua78cin so\u0331ko\u0331\u2011\u00fan \u00e1 x\u00ed\ua78cin ko\u0331nto\u0331 nta\ua78c\u00e1\u2011\u00fan\ufeff\u00f1a\u0331 n\u00e1 k\u00e4sa\u2011\u00fan\u2011\u00f1a\u0331 x\u00ed\ua78cin nta\ua78c\u00e1\u2011\u00fan.",
+    "es": "Abre y cierra las puertas con tus hombros o codos.\ufeffEvitar usar las manos.",
+    "en": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+  },
+  "219": {
+    "jmx": "ve\ua78ce",
+    "es": "Hogar",
+    "en": "Home"
+  },
+  "220": {
+    "jmx": "ve\ua78ce",
+    "es": "Hogar",
+    "en": "Home"
+  },
+  "221": {
+    "jmx": "ve\ua78ce",
+    "es": "Hogar",
+    "en": "Home"
+  },
+  "222": {
+    "jmx": "t\u00e1 xa\u0331 nti\u0331k\u00f3\u2011\u00fan nt\u00e1a ka m\u00ed\u00ed nu\u0331\u00fa ni\u0331xa\u0331\ua78ca\u0331n\u2011\u00fan",
+    "es": "y despu\u00e9s de estar en la calle",
+    "en": "and after being out in the public"
+  },
+  "223": {
+    "jmx": "t\u00e1 xa\u0331 nti\u0331k\u00f3\u2011\u00fan nt\u00e1a ka m\u00ed\u00ed nu\u0331\u00fa ni\u0331xa\u0331\ua78ca\u0331n\u2011\u00fan",
+    "es": "y despu\u00e9s de estar en la calle",
+    "en": "and after being out in the public"
+  },
+  "224": {
+    "jmx": "t\u00e1 xa\u0331 nti\u0331k\u00f3\u2011\u00fan nt\u00e1a ka m\u00ed\u00ed nu\u0331\u00fa ni\u0331xa\u0331\ua78ca\u0331n\u2011\u00fan",
+    "es": "y despu\u00e9s de estar en la calle",
+    "en": "and after being out in the public"
+  },
+  "225": {
+    "jmx": "t\u00e1 xa\u0331 n\u00e1 kuxi\u2011\u00fan",
+    "es": "antes de comer",
+    "en": "Before you eat"
+  },
+  "226": {
+    "jmx": "t\u00e1 xa\u0331 n\u00e1 kuxi\u2011\u00fan",
+    "es": "antes de comer",
+    "en": "Before you eat"
+  },
+  "227": {
+    "jmx": "t\u00e1 xa\u0331 n\u00e1 kuxi\u2011\u00fan",
+    "es": "antes de comer",
+    "en": "Before you eat"
+  },
+  "228": {
+    "jmx": "Iin ku\u0331u\u2011\u00fan nta\ua78c\u00e1\u2011un ti\u0331ku\u00edi x\u00ed\ua78cin na\u0331m\u00e1 ...",
+    "es": "Siempre l\u00e1vate las manos con jab\u00f3n ...",
+    "en": "Always wash your hands with soap\u2026"
+  },
+  "229": {
+    "jmx": "Iin ku\u0331u\u2011\u00fan nta\ua78c\u00e1\u2011un ti\u0331ku\u00edi x\u00ed\ua78cin na\u0331m\u00e1 ...",
+    "es": "Siempre l\u00e1vate las manos con jab\u00f3n ...",
+    "en": "Always wash your hands with soap\u2026"
+  },
+  "230": {
+    "jmx": "Iin ku\u0331u\u2011\u00fan nta\ua78c\u00e1\u2011un ti\u0331ku\u00edi x\u00ed\ua78cin na\u0331m\u00e1 ...",
+    "es": "Siempre l\u00e1vate las manos con jab\u00f3n ...",
+    "en": "Always wash your hands with soap\u2026"
+  },
+  "231": {
+    "jmx": "Nu\u0331\u00fa nt\u00ed\ua78ci,",
+    "es": "Finalmente,",
+    "en": "And finally,"
+  },
+  "232": {
+    "jmx": "Nu\u0331\u00fa nt\u00ed\ua78ci,",
+    "es": "Finalmente,",
+    "en": "And finally,"
+  },
+  "233": {
+    "jmx": "Nu\u0331\u00fa nt\u00ed\ua78ci,",
+    "es": "Finalmente,",
+    "en": "And finally,"
+  },
+  "234": {
+    "jmx": "na\u0331m\u00e1",
+    "es": "jab\u00f3n",
+    "en": "soap"
+  },
+  "235": {
+    "jmx": "na\u0331m\u00e1",
+    "es": "jab\u00f3n",
+    "en": "soap"
+  },
+  "236": {
+    "jmx": "na\u0331m\u00e1",
+    "es": "jab\u00f3n",
+    "en": "soap"
+  },
+  "237": {
+    "jmx": "\u00a1Nti\ua78ci\u2011nt\u00f3 kuntiaa\u2011nt\u00f3 mi\u00ed\u2011nt\u00f3!",
+    "es": "\u00a1Cu\u00eddense, todos!",
+    "en": "Stay safe, everyone!"
+  },
+  "238": {
+    "jmx": "\u00a1Nti\ua78ci\u2011nt\u00f3 kuntiaa\u2011nt\u00f3 mi\u00ed\u2011nt\u00f3!",
+    "es": "\u00a1Cu\u00eddense, todos!",
+    "en": "Stay safe, everyone!"
+  },
+  "239": {
+    "jmx": "\u00a1Nti\ua78ci\u2011nt\u00f3 kuntiaa\u2011nt\u00f3 mi\u00ed\u2011nt\u00f3!",
+    "es": "\u00a1Cu\u00eddense, todos!",
+    "en": "Stay safe, everyone!"
+  },
+  "240": {
+    "jmx": "\u00a1Nti\ua78ci\u2011nt\u00f3 kuntiaa\u2011nt\u00f3 mi\u00ed\u2011nt\u00f3!",
+    "es": "\u00a1Cu\u00eddense, todos!",
+    "en": "Stay safe, everyone!"
+  },
+  "241": {
+    "jmx": "\u00a1Nti\ua78ci\u2011nt\u00f3 kuntiaa\u2011nt\u00f3 mi\u00ed\u2011nt\u00f3!",
+    "es": "\u00a1Cu\u00eddense, todos!",
+    "en": "Stay safe, everyone!"
+  },
+  "242": {
+    "jmx": "\u00a1Nti\ua78ci\u2011nt\u00f3 kuntiaa\u2011nt\u00f3 mi\u00ed\u2011nt\u00f3!",
+    "es": "\u00a1Cu\u00eddense, todos!",
+    "en": "Stay safe, everyone!"
+  },
+  "243": {
+    "jmx": "na\u0331m\u00e1",
+    "es": "jab\u00f3n",
+    "en": "soap"
+  },
+  "244": {
+    "jmx": "na\u0331m\u00e1",
+    "es": "jab\u00f3n",
+    "en": "soap"
+  },
+  "245": {
+    "jmx": "na\u0331m\u00e1",
+    "es": "jab\u00f3n",
+    "en": "soap"
+  },
+  "246": {
+    "jmx": "K\u00e1\ua78cvi art\u00edculo y\u00f3\ua78co n\u00e1 kunta\u0331a\u0331 ch\u00e1 ka ini\u2011\u00fan",
+    "es": "Lee estos art\u00edculos para mayor informaci\u00f3n.",
+    "en": "Read the articles for more tips!"
+  },
+  "247": {
+    "jmx": "K\u00e1\ua78cvi art\u00edculo y\u00f3\ua78co n\u00e1 kunta\u0331a\u0331 ch\u00e1 ka ini\u2011\u00fan",
+    "es": "Lee estos art\u00edculos para mayor informaci\u00f3n.",
+    "en": "Read the articles for more tips!"
+  },
+  "248": {
+    "jmx": "K\u00e1\ua78cvi art\u00edculo y\u00f3\ua78co n\u00e1 kunta\u0331a\u0331 ch\u00e1 ka ini\u2011\u00fan",
+    "es": "Lee estos art\u00edculos para mayor informaci\u00f3n.",
+    "en": "Read the articles for more tips!"
+  },
+  "249": {
+    "jmx": "\"This animation shows how far your sneeze can actually travel\" xa\u0331\ua78c\u00e1 Chia Yi Hou and Andrea Schmitz, nu\u0331\u00fa Business Insider. (Jan 21, 2020)",
+    "es": "\"This animation shows how far your sneeze can actually travel\" por Chia Yi Hou, en Business Insider\ufeff(21 de enero de 2020)",
+    "en": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "250": {
+    "jmx": "\"This animation shows how far your sneeze can actually travel\" xa\u0331\ua78c\u00e1 Chia Yi Hou and Andrea Schmitz, nu\u0331\u00fa Business Insider. (Jan 21, 2020)",
+    "es": "\"This animation shows how far your sneeze can actually travel\" por Chia Yi Hou, en Business Insider\ufeff(21 de enero de 2020)",
+    "en": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "251": {
+    "jmx": "\"This animation shows how far your sneeze can actually travel\" xa\u0331\ua78c\u00e1 Chia Yi Hou and Andrea Schmitz, nu\u0331\u00fa Business Insider. (Jan 21, 2020)",
+    "es": "\"This animation shows how far your sneeze can actually travel\" por Chia Yi Hou, en Business Insider\ufeff(21 de enero de 2020)",
+    "en": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "252": {
+    "jmx": "\"The Wuhan Virus: How to stay safe\", xa\u0331\ua78c\u00e1 Laurie Garrett, nu\u0331\u00fa Foreign Policy, Report.\ufeff(25 de enero de 2020)",
+    "es": "\"The Wuhan Virus: How to stay safe\", por Laurie Garrett, en Foreign Policy, Repert.\ufeff(25 de enero de 2020)",
+    "en": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "253": {
+    "jmx": "\"The Wuhan Virus: How to stay safe\", xa\u0331\ua78c\u00e1 Laurie Garrett, nu\u0331\u00fa Foreign Policy, Report.\ufeff(25 de enero de 2020)",
+    "es": "\"The Wuhan Virus: How to stay safe\", por Laurie Garrett, en Foreign Policy, Repert.\ufeff(25 de enero de 2020)",
+    "en": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "254": {
+    "jmx": "\"The Wuhan Virus: How to stay safe\", xa\u0331\ua78c\u00e1 Laurie Garrett, nu\u0331\u00fa Foreign Policy, Report.\ufeff(25 de enero de 2020)",
+    "es": "\"The Wuhan Virus: How to stay safe\", por Laurie Garrett, en Foreign Policy, Repert.\ufeff(25 de enero de 2020)",
+    "en": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "255": {
+    "jmx": "\"How to avoid the coronavirus? Wash your hands\" xa\u0331\ua78c\u00e1 Elizabeth Sosenthal, nu\u0331\u00fa The New York Times, Opinion. (28 de enero de 2020)",
+    "es": "\"How to avoid the coronavirus? Wash your hands\" por Elizabeth Sosenthal, en The New York Times, Opinion. (28 de enero de 2020)",
+    "en": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020"
+  },
+  "256": {
+    "jmx": "\"How to avoid the coronavirus? Wash your hands\" xa\u0331\ua78c\u00e1 Elizabeth Sosenthal, nu\u0331\u00fa The New York Times, Opinion. (28 de enero de 2020)",
+    "es": "\"How to avoid the coronavirus? Wash your hands\" por Elizabeth Sosenthal, en The New York Times, Opinion. (28 de enero de 2020)",
+    "en": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020"
+  },
+  "257": {
+    "jmx": "\"How to avoid the coronavirus? Wash your hands\" xa\u0331\ua78c\u00e1 Elizabeth Sosenthal, nu\u0331\u00fa The New York Times, Opinion. (28 de enero de 2020)",
+    "es": "\"How to avoid the coronavirus? Wash your hands\" por Elizabeth Sosenthal, en The New York Times, Opinion. (28 de enero de 2020)",
+    "en": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020"
+  },
+  "258": {
+    "jmx": "Nu\u0331\u00fa ta\u0331va\u2011nti\u0331 \u00f1a\u0331 y\u00f3\ua78co",
+    "es": "Principales referencias m\u00e9dicas:",
+    "en": "Main references for medical info:"
+  },
+  "259": {
+    "jmx": "Nu\u0331\u00fa ta\u0331va\u2011nti\u0331 \u00f1a\u0331 y\u00f3\ua78co",
+    "es": "Principales referencias m\u00e9dicas:",
+    "en": "Main references for medical info:"
+  },
+  "260": {
+    "jmx": "Nu\u0331\u00fa ta\u0331va\u2011nti\u0331 \u00f1a\u0331 y\u00f3\ua78co",
+    "es": "Principales referencias m\u00e9dicas:",
+    "en": "Main references for medical info:"
+  },
+  "261": {
+    "jmx": "Para todos los dem\u00e1s usos, por favor env\u00ede una solicitud a: comicsforgood@gmail.com \ufeff(Esta p\u00e1gina fue traducido por Crist\u00f3bal con la ayuda de DeepL)",
+    "es": "",
+    "en": "\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+  },
+  "262": {
+    "jmx": "Para todos los dem\u00e1s usos, por favor env\u00ede una solicitud a: comicsforgood@gmail.com \ufeff(Esta p\u00e1gina fue traducido por Crist\u00f3bal con la ayuda de DeepL)",
+    "es": "",
+    "en": "\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+  },
+  "263": {
+    "jmx": "Para todos los dem\u00e1s usos, por favor env\u00ede una solicitud a: comicsforgood@gmail.com \ufeff(Esta p\u00e1gina fue traducido por Crist\u00f3bal con la ayuda de DeepL)",
+    "es": "",
+    "en": "\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+  },
+  "266": {
+    "jmx": "Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \"Coronavirus\"",
+    "es": "Sobre el coronavirus",
+    "en": "About Coronavirus"
+  },
+  "267": {
+    "jmx": "Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \"Coronavirus\"",
+    "es": "Sobre el coronavirus",
+    "en": "About Coronavirus"
+  },
+  "268": {
+    "jmx": "Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \"Coronavirus\"",
+    "es": "Sobre el coronavirus",
+    "en": "About Coronavirus"
+  },
+  "269": {
+    "jmx": "Xa\u0331\ua78c\u00e1 kue\u0331\ua78ce\u0331 \u00f1a\u0331 nan\u00ed \"Coronavirus\"",
+    "es": "Sobre el coronavirus",
+    "en": "About Coronavirus"
+  },
+  "272": {
+    "es": "Escrito por Weiman Kow, \u00a9 2020 Weiman Kow. CC BY-NC-SA 4.0."
+  },
+  "277": {
+    "es": "Traducido al mixto por: Ernesto Altamirano Palacios y Valent\u00edn Ramirez Morelos"
+  },
+  "280": {
+    "es": "fb: weimankowart"
+  }
+}

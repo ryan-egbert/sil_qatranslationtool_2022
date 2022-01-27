@@ -1,0 +1,447 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"sxb\":\"Amang\u2019ana aga Coronavirus\"}",
+    "author": null,
+    "bookInstanceId": "d4f4617b-f232-4635-a8fd-7d5c39964e8d",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,726d708d-535e-47af-8905-ce6e5e0d745c",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "sxb": "Amang\u2019ana aga Coronavirus"
+        },
+        "1": {
+            "eng": "",
+            "sxb": ""
+        },
+        "2": {
+            "eng": "",
+            "sxb": ""
+        },
+        "3": {
+            "eng": "",
+            "sxb": ""
+        },
+        "4": {
+            "eng": "There's only ONE thing \ufeffyou need to understand about how a coronavirus",
+            "sxb": "Kirio eking\u2019ana ekilala kieng\u2019ene ekia osugaane omanye ku kiomo Coronavirus\n"
+        },
+        "5": {
+            "eng": "SPREADS",
+            "sxb": "EILANZIA"
+        },
+        "6": {
+            "eng": "Mouth",
+            "sxb": "No omunwa ogwa"
+        },
+        "7": {
+            "eng": "Nose",
+            "sxb": "Enyindo"
+        },
+        "8": {
+            "eng": "Eyes",
+            "sxb": "Amiiso \u00a0"
+        },
+        "9": {
+            "eng": "Get into your",
+            "sxb": "Gatonyere ku"
+        },
+        "10": {
+            "eng": "Healthy Person",
+            "sxb": "Omuntu omulamu"
+        },
+        "11": {
+            "eng": "Sick Person",
+            "sxb": "Omuntu omulwire"
+        },
+        "12": {
+            "eng": "The virus spreads when \ufeffthese droplets",
+            "sxb": "Enyende eno eilanzia ne entone/ amatone ezia amate aga"
+        },
+        "13": {
+            "eng": "Keep your distance.\ufeff2m will keep you safe from large droplets.",
+            "sxb": "Weera ale. Owuliire owua emiita iwiri\u00a0 wuuza okukuta ale kugere amatone amakate-kaate aga amate gareke okukutuukako"
+        },
+        "14": {
+            "eng": "1",
+            "sxb": "1"
+        },
+        "15": {
+            "eng": "2m",
+            "sxb": "emiita iwiri"
+        },
+        "16": {
+            "eng": "Achoo!",
+            "sxb": "Eeethia!"
+        },
+        "17": {
+            "eng": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:",
+            "sxb": "Kutio no owuine omuntu\u00a0 na akolola/nari omulwire/aisiamula mbwe:"
+        },
+        "18": {
+            "eng": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby.",
+            "sxb": "Wa-ee ekintu ekisanikra enyindo no omunwa. Awantu waesa okukolola namba okuisiamula mu ekintu ekio ni ngawaesa\u00a0 okulanzizia awandi owulwire owuo yaaya."
+        },
+        "19": {
+            "eng": "2",
+            "sxb": "2"
+        },
+        "20": {
+            "eng": "Thank you\ufeff*sniffles*",
+            "sxb": "Otioo"
+        },
+        "21": {
+            "eng": "OR,",
+            "sxb": "NAMBA,"
+        },
+        "22": {
+            "eng": "Maybe she's not sick, just protecting herself",
+            "sxb": "Andi omuntu ono ngari omulwire yaaya, ni airinda kugere atatuukra owulwire"
+        },
+        "23": {
+            "eng": "People who are infected can show no symptoms, but are still\ufeffinfectious",
+            "sxb": "Awantu awalwire waesa okuwula ne ewilago ewilagana mbwe wari no owulwire, ni wakiaesa okulanzia owulwire"
+        },
+        "24": {
+            "eng": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick.",
+            "sxb": "Owukirre wiona, ne ekintu ekilootu no omuntu aweere ale no omuganda ogwa awantu, aeniki ngoesa waamanya omuntu omulwire agati yaawu ao."
+        },
+        "25": {
+            "eng": "Chopsticks",
+            "sxb": "Ewiti ewiogi ewia okuriira"
+        },
+        "26": {
+            "eng": "Healthy person",
+            "sxb": "Omuntu omulamu \u00a0"
+        },
+        "27": {
+            "eng": "Train straps",
+            "sxb": "Emikanda egia mu egaare"
+        },
+        "28": {
+            "eng": "Lift buttons",
+            "sxb": "Ewintu ewisinyiriziwua kugere\u00a0 elifiti eginga awantu eniine namba eike"
+        },
+        "29": {
+            "eng": "Tissues",
+            "sxb": "Etiisiu"
+        },
+        "30": {
+            "eng": "Cups",
+            "sxb": "Ewikombe"
+        },
+        "31": {
+            "eng": "Digital devices",
+            "sxb": "Ewintu ewia ewidijitaali"
+        },
+        "32": {
+            "eng": "& even on the outside of your face mask",
+            "sxb": "Enze eya ekintu ekisanikra enyindo no omunwa"
+        },
+        "33": {
+            "eng": "Stair bannisters",
+            "sxb": "Ewintu ewiambwako no oniina ku egoroofa"
+        },
+        "34": {
+            "eng": "Mouse",
+            "sxb": "Emaosi eya ekompiuta"
+        },
+        "35": {
+            "eng": "Pens",
+            "sxb": "Ekalamu"
+        },
+        "36": {
+            "eng": "Door knobs",
+            "sxb": "Echabi eya olwigi"
+        },
+        "37": {
+            "eng": "Their hands",
+            "sxb": "Amakono gaawu"
+        },
+        "38": {
+            "eng": "However, sometimes a sick person's saliva can get on other things\u2026",
+            "sxb": "Kukawa kutio, enyinga zindi amate aga omulwire gaesa okutoonya ku ewintu windi kiomo\u2026."
+        },
+        "39": {
+            "eng": "you might all fall sick.",
+            "sxb": "No owulwire wuno wuuza wuawamba mwona"
+        },
+        "40": {
+            "eng": "or your loved one's face",
+            "sxb": "Namba ekieni ekia omwina waao"
+        },
+        "41": {
+            "eng": "rub eyes",
+            "sxb": "Oeye amiiso gaao"
+        },
+        "42": {
+            "eng": "And if you do touch any of these things by accident, and then touch your face,",
+            "sxb": "No oizukirre oambe ku ewintu wino nikuemao oambe ekieni kiao,"
+        },
+        "43": {
+            "eng": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.",
+            "sxb": "Kandi engira endala endootu eya oesa okumala nayo enyende zino ni, no ozioziizie ne esabuuni, ekintu ekifumia ikwe namba amanzi agazoganiiwue na amalwa"
+        },
+        "44": {
+            "eng": "Viruses can last for quite a few hours on objects,",
+            "sxb": "Enyende zino ziesa okuwa endamu\u00a0 ku enyinga ezisugire"
+        },
+        "45": {
+            "eng": "soap",
+            "sxb": "Esabuuni"
+        },
+        "46": {
+            "eng": "precautions",
+            "sxb": "Engira zino"
+        },
+        "47": {
+            "eng": "Which is why it is also good to follow these",
+            "sxb": "Ekio nikio ekigera ni kuri kulootu okulonda"
+        },
+        "48": {
+            "eng": "wash with soap up to here",
+            "sxb": "Isaawa ne esabuuni paka ano"
+        },
+        "49": {
+            "eng": "soap",
+            "sxb": "Esabuuni"
+        },
+        "50": {
+            "eng": "elbow",
+            "sxb": "Enkumbo"
+        },
+        "51": {
+            "eng": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.",
+            "sxb": "Ota-amba ku ekieni kiao. (Namba ekieni ekia omwina waao.) Ni, ni kuri mbwe paka owiambeko, ni sooka oisaawe geeza ino ne esabuuni"
+        },
+        "52": {
+            "eng": "Enough time to sing \u201cHappy Birthday\u201d twice",
+            "sxb": "okuemba olwembo olwa \u2018Happy Birthday\u201d kawiri kutoola esekendi amakumi awiri ago"
+        },
+        "53": {
+            "eng": "under the nails",
+            "sxb": "Okuozia mu enkumu"
+        },
+        "54": {
+            "eng": "for 20 seconds",
+            "sxb": "Ku esekendi amakumi awiri"
+        },
+        "55": {
+            "eng": "between the fingers",
+            "sxb": "Okuozia agati eya ewiala"
+        },
+        "56": {
+            "eng": "wash the back of your hands",
+            "sxb": "No okuozia enze eya amakono gaao"
+        },
+        "57": {
+            "eng": "What is thoroughly?",
+            "sxb": "okuisaawa geeza ino no okukolaki?"
+        },
+        "58": {
+            "eng": "If you did, don't worry. Just wash your hands with soap after.",
+            "sxb": "Ni no okiambireko, no omwoyo gwao gutainyaasia yaaya. Ni toola esabuuni oisaawe nayo."
+        },
+        "59": {
+            "eng": "Also, don't touch the outside of the mask if you can.",
+            "sxb": "Lwona ni kuesekana ota-amba enze eya ekintu ekisanikra enyindo no omunwa ekio."
+        },
+        "60": {
+            "eng": "droplets",
+            "sxb": "Amatone/entone"
+        },
+        "61": {
+            "eng": "*Bacteria grows on the insides of your mask if you wear them too long",
+            "sxb": "No oiwooye ekintu ekio ku amiire amangi, enyende zimenya munsi yakio"
+        },
+        "62": {
+            "eng": "Throw away masks once they feel gross. Don't wear them for more than a day!",
+            "sxb": "No omiire okukola ne ekintu ekisanikra enyindo no omunwa, kirigize ale. Kola ni kilala owuire ki owuire."
+        },
+        "63": {
+            "eng": "Use a serving spoon",
+            "sxb": "Muiwule ne ekijiiko ekia okuiwula ewiokuria"
+        },
+        "64": {
+            "eng": "Baby",
+            "sxb": "Omwana"
+        },
+        "65": {
+            "eng": "Daddy",
+            "sxb": "Ise"
+        },
+        "66": {
+            "eng": "Mommy",
+            "sxb": "Ng\u2019ina"
+        },
+        "67": {
+            "eng": "Everyone gets their own towel",
+            "sxb": "Omuntu ki omuntu awe ne etawulo yaae"
+        },
+        "68": {
+            "eng": "Do not share food, utensils, cups, towels.",
+            "sxb": "Mutasangirizia ewiokuria, endaawo, ewinyweero no etawulo ezia okuieya"
+        },
+        "69": {
+            "eng": "You can't touch your face with your elbow even if you tried",
+            "sxb": "Namba okagezaania owufwana wutie, ne enkumbo yaao ngeesa yatuuka ku ekieni kiao yaaya.\n"
+        },
+        "70": {
+            "eng": "Open & close doors with your elbows or shoulders instead of hands, if possible.",
+            "sxb": "Nikuesekana igulao kandi oigaleo ekiriango ne enkumbo namba ni iwega riao."
+        },
+        "71": {
+            "eng": "Home",
+            "sxb": "namba,no ori engo"
+        },
+        "72": {
+            "eng": "and after being out in the public",
+            "sxb": "no oema enze aa owerenga,"
+        },
+        "73": {
+            "eng": "Before you eat",
+            "sxb": "No okiari okuria,"
+        },
+        "74": {
+            "eng": "Always wash your hands with soap\u2026",
+            "sxb": "Weerako no oisaawa ne esabuuni\u2026"
+        },
+        "75": {
+            "eng": "And finally,",
+            "sxb": "Owutuukre,"
+        },
+        "76": {
+            "eng": "soap",
+            "sxb": "Esabuuni"
+        },
+        "77": {
+            "eng": "Stay safe, everyone!",
+            "sxb": "Omuntu ki omuntu airinde!"
+        },
+        "78": {
+            "eng": "Stay safe, everyone!",
+            "sxb": "Omuntu ki omuntu airinde!"
+        },
+        "79": {
+            "eng": "soap",
+            "sxb": "Esabuuni"
+        },
+        "80": {
+            "eng": "Read the articles for more tips!",
+            "sxb": "Soma amang\u2019ana agajojerwe gano kugere owe no okumanya okungi."
+        },
+        "81": {
+            "eng": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)",
+            "sxb": "\u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "eng": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)",
+            "sxb": "\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report. \u00a0(Jan 25, 2020)"
+        },
+        "83": {
+            "eng": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020",
+            "sxb": "\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion. \u00a0(Jan 28,2020)"
+        },
+        "84": {
+            "eng": "Main references for medical info:",
+            "sxb": "Asi aa oesa okutuukra amang\u2019ana agagamba-gamba ku owurezi"
+        },
+        "85": {
+            "eng": "Additional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com",
+            "sxb": "Amang\u2019ana gandi: Amang\u2019ana agagamba-gamba ku okurinda\u00a0 owueru gatunzia awantu ku kiomo wakairinda kugere wareke okuambwa na amalwire agafwana ni iseeka ne embeyo efumuta omuwiri, kandi awantu wasugaane wakole ewintu wino owuire ki owuire namba no owulwire owuilanzia wuwulao.\nAa okatuukra\u00a0 amang\u2019ana gano: Amang\u2019ana gano gajojerwe nikulondokana no\u00a0 okumanya okwa\u00a0 omuntu yawanga nakwo ku COVID19 nawuno kutuuka etariki 28/2/2020. Yagatuukira na agatoola mu https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention- tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\nhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAmang\u2019ana gandi: Amang\u2019ana gano gajojerwe mu engira eya gataesa okugalusiwua yaaya (A PDF. Gaituukrana wusa mu: https://gumroad.com/weimankowart\u00a0\nEngira eya okusangirizia ewilagirizio: Awantu wasugaane\u00a0 watumire awandi woona amang\u2019ana gano ni kuwitira ku engira eya ewidijitaali kiomo Whatsapp ni telegram lwona oesa okugatuukra waagafumia wusa ki emiloome egia okugerera nagio awantu mu emigizi, esikuuli na aa awantu wakola emirimo.\nEnyinga ezia oigerera na awandi ni ingirizia amang\u2019ana asatu gano. 1) Otasonga namba ofumie eking\u2019na-uking\u2019ana ekiri mu amang\u2019ana gano. 2) Otakola na amang\u2019ana gano mu engira eya okutuukira amasendi. 3) Enyinga ezia osoma ni tondowola omulongi owa FB no omumanyisia ne @weimankowart ni\u00a0 mu IG no omumanyisia ne @weimankow, namba no oesana engira eya instagram com/weimankow.Ni wirio ewintu windi ewia oagala okukola, ni tuma okusawa kwao ku comicsforgood@gmail.com\n"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "sxb": "Amang\u2019ana aga Coronavirus"
+        },
+        "87": {
+            "eng": "",
+            "sxb": ""
+        },
+        "88": {
+            "eng": "",
+            "sxb": ""
+        },
+        "89": {
+            "eng": "Translated by Boniface Msaswa",
+            "sxb": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "sxb": ""
+        },
+        "91": {
+            "eng": "",
+            "sxb": ""
+        },
+        "92": {
+            "eng": "Otagalusia amang\u2019ana agagambregambrweko ano, ni oesa waagagalusia mu omunwa gundi namba oesa waagata mu engira indi nikuemao waagaesania ku awantu wusaasa aa otaagalamo amasendi. Otagalusia eriina eria omujoji owajoja amang\u2019ana gano kandi omusaati owasaata ewiiruuzia wino oetwa mbwe Weiman Kou.",
+            "sxb": ""
+        },
+        "93": {
+            "eng": "",
+            "sxb": ""
+        },
+        "94": {
+            "eng": "",
+            "sxb": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\nThere's only ONE thing \ufeffyou need to understand about how a coronavirus\nSPREADS\nMouth\nNose\nEyes\nGet into your\nHealthy Person\nSick Person\nThe virus spreads when \ufeffthese droplets\nKeep your distance.\ufeff2m will keep you safe from large droplets.\n1\n2m\nAchoo!\nSo if you see someone who is visibly coughing/sneezing/sick you can choose to:\nGive them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby.\n2\nThank you\ufeff*sniffles*\nOR,\nMaybe she's not sick, just protecting herself\nPeople who are infected can show no symptoms, but are still\ufeffinfectious\nAnd in general, it's a good idea to avoid crowds, because you don't know who might be sick.\nChopsticks\nHealthy person\nTrain straps\nLift buttons\nTissues\nCups\nDigital devices\n& even on the outside of your face mask\nStair bannisters\nMouse\nPens\nDoor knobs\nTheir hands\nHowever, sometimes a sick person's saliva can get on other things\u2026\nyou might all fall sick.\nor your loved one's face\nrub eyes\nAnd if you do touch any of these things by accident, and then touch your face,\nand the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.\nViruses can last for quite a few hours on objects,\nsoap\nprecautions\nWhich is why it is also good to follow these\nwash with soap up to here\nsoap\nelbow\nDo not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.\nEnough time to sing \u201cHappy Birthday\u201d twice\nunder the nails\nfor 20 seconds\nbetween the fingers\nwash the back of your hands\nWhat is thoroughly?\nIf you did, don't worry. Just wash your hands with soap after.\nAlso, don't touch the outside of the mask if you can.\ndroplets\n*Bacteria grows on the insides of your mask if you wear them too long\nThrow away masks once they feel gross. Don't wear them for more than a day!\nUse a serving spoon\nBaby\nDaddy\nMommy\nEveryone gets their own towel\nDo not share food, utensils, cups, towels.\nYou can't touch your face with your elbow even if you tried\nOpen & close doors with your elbows or shoulders instead of hands, if possible.\nHome\nand after being out in the public\nBefore you eat\nAlways wash your hands with soap\u2026\nAnd finally,\nsoap\nStay safe, everyone!\nStay safe, everyone!\nsoap\nRead the articles for more tips!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020\nMain references for medical info:\nAdditional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com\nAbout Coronavirus\n\n\nTranslated by Boniface Msaswa\nCreated by Weiman Kow, instagram: weimankow\n\nOtagalusia amang\u2019ana agagambregambrweko ano, ni oesa waagagalusia mu omunwa gundi namba oesa waagata mu engira indi nikuemao waagaesania ku awantu wusaasa aa otaagalamo amasendi. Otagalusia eriina eria omujoji owajoja amang\u2019ana gano kandi omusaati owasaata ewiiruuzia wino oetwa mbwe Weiman Kou.\n\n",
+        "spa": "Sobre el Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSobre el Coronavirus\n\n\n\n\n\n\n\n",
+        "sxb": "Amang\u2019ana aga Coronavirus\n\n\n\nKirio eking\u2019ana ekilala kieng\u2019ene ekia osugaane omanye ku kiomo Coronavirus\n\nEILANZIA\nNo omunwa ogwa\nEnyindo\nAmiiso \u00a0\nGatonyere ku\nOmuntu omulamu\nOmuntu omulwire\nEnyende eno eilanzia ne entone/ amatone ezia amate aga\nWeera ale. Owuliire owua emiita iwiri\u00a0 wuuza okukuta ale kugere amatone amakate-kaate aga amate gareke okukutuukako\n1\nemiita iwiri\nEeethia!\nKutio no owuine omuntu\u00a0 na akolola/nari omulwire/aisiamula mbwe:\nWa-ee ekintu ekisanikra enyindo no omunwa. Awantu waesa okukolola namba okuisiamula mu ekintu ekio ni ngawaesa\u00a0 okulanzizia awandi owulwire owuo yaaya.\n2\nOtioo\nNAMBA,\nAndi omuntu ono ngari omulwire yaaya, ni airinda kugere atatuukra owulwire\nAwantu awalwire waesa okuwula ne ewilago ewilagana mbwe wari no owulwire, ni wakiaesa okulanzia owulwire\nOwukirre wiona, ne ekintu ekilootu no omuntu aweere ale no omuganda ogwa awantu, aeniki ngoesa waamanya omuntu omulwire agati yaawu ao.\nEwiti ewiogi ewia okuriira\nOmuntu omulamu \u00a0\nEmikanda egia mu egaare\nEwintu ewisinyiriziwua kugere\u00a0 elifiti eginga awantu eniine namba eike\nEtiisiu\nEwikombe\nEwintu ewia ewidijitaali\nEnze eya ekintu ekisanikra enyindo no omunwa\nEwintu ewiambwako no oniina ku egoroofa\nEmaosi eya ekompiuta\nEkalamu\nEchabi eya olwigi\nAmakono gaawu\nKukawa kutio, enyinga zindi amate aga omulwire gaesa okutoonya ku ewintu windi kiomo\u2026.\nNo owulwire wuno wuuza wuawamba mwona\nNamba ekieni ekia omwina waao\nOeye amiiso gaao\nNo oizukirre oambe ku ewintu wino nikuemao oambe ekieni kiao,\nKandi engira endala endootu eya oesa okumala nayo enyende zino ni, no ozioziizie ne esabuuni, ekintu ekifumia ikwe namba amanzi agazoganiiwue na amalwa\nEnyende zino ziesa okuwa endamu\u00a0 ku enyinga ezisugire\nEsabuuni\nEngira zino\nEkio nikio ekigera ni kuri kulootu okulonda\nIsaawa ne esabuuni paka ano\nEsabuuni\nEnkumbo\nOta-amba ku ekieni kiao. (Namba ekieni ekia omwina waao.) Ni, ni kuri mbwe paka owiambeko, ni sooka oisaawe geeza ino ne esabuuni\nokuemba olwembo olwa \u2018Happy Birthday\u201d kawiri kutoola esekendi amakumi awiri ago\nOkuozia mu enkumu\nKu esekendi amakumi awiri\nOkuozia agati eya ewiala\nNo okuozia enze eya amakono gaao\nokuisaawa geeza ino no okukolaki?\nNi no okiambireko, no omwoyo gwao gutainyaasia yaaya. Ni toola esabuuni oisaawe nayo.\nLwona ni kuesekana ota-amba enze eya ekintu ekisanikra enyindo no omunwa ekio.\nAmatone/entone\nNo oiwooye ekintu ekio ku amiire amangi, enyende zimenya munsi yakio\nNo omiire okukola ne ekintu ekisanikra enyindo no omunwa, kirigize ale. Kola ni kilala owuire ki owuire.\nMuiwule ne ekijiiko ekia okuiwula ewiokuria\nOmwana\nIse\nNg\u2019ina\nOmuntu ki omuntu awe ne etawulo yaae\nMutasangirizia ewiokuria, endaawo, ewinyweero no etawulo ezia okuieya\nNamba okagezaania owufwana wutie, ne enkumbo yaao ngeesa yatuuka ku ekieni kiao yaaya.\n\nNikuesekana igulao kandi oigaleo ekiriango ne enkumbo namba ni iwega riao.\nnamba,no ori engo\nno oema enze aa owerenga,\nNo okiari okuria,\nWeerako no oisaawa ne esabuuni\u2026\nOwutuukre,\nEsabuuni\nOmuntu ki omuntu airinde!\nOmuntu ki omuntu airinde!\nEsabuuni\nSoma amang\u2019ana agajojerwe gano kugere owe no okumanya okungi.\n\u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report. \u00a0(Jan 25, 2020)\n\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion. \u00a0(Jan 28,2020)\nAsi aa oesa okutuukra amang\u2019ana agagamba-gamba ku owurezi\nAmang\u2019ana gandi: Amang\u2019ana agagamba-gamba ku okurinda\u00a0 owueru gatunzia awantu ku kiomo wakairinda kugere wareke okuambwa na amalwire agafwana ni iseeka ne embeyo efumuta omuwiri, kandi awantu wasugaane wakole ewintu wino owuire ki owuire namba no owulwire owuilanzia wuwulao.\nAa okatuukra\u00a0 amang\u2019ana gano: Amang\u2019ana gano gajojerwe nikulondokana no\u00a0 okumanya okwa\u00a0 omuntu yawanga nakwo ku COVID19 nawuno kutuuka etariki 28/2/2020. Yagatuukira na agatoola mu https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention- tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\nhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAmang\u2019ana gandi: Amang\u2019ana gano gajojerwe mu engira eya gataesa okugalusiwua yaaya (A PDF. Gaituukrana wusa mu: https://gumroad.com/weimankowart\u00a0\nEngira eya okusangirizia ewilagirizio: Awantu wasugaane\u00a0 watumire awandi woona amang\u2019ana gano ni kuwitira ku engira eya ewidijitaali kiomo Whatsapp ni telegram lwona oesa okugatuukra waagafumia wusa ki emiloome egia okugerera nagio awantu mu emigizi, esikuuli na aa awantu wakola emirimo.\nEnyinga ezia oigerera na awandi ni ingirizia amang\u2019ana asatu gano. 1) Otasonga namba ofumie eking\u2019na-uking\u2019ana ekiri mu amang\u2019ana gano. 2) Otakola na amang\u2019ana gano mu engira eya okutuukira amasendi. 3) Enyinga ezia osoma ni tondowola omulongi owa FB no omumanyisia ne @weimankowart ni\u00a0 mu IG no omumanyisia ne @weimankow, namba no oesana engira eya instagram com/weimankow.Ni wirio ewintu windi ewia oagala okukola, ni tuma okusawa kwao ku comicsforgood@gmail.com\n\nAmang\u2019ana aga Coronavirus\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "spa",
+        "sxb",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, BTL(EA) Ltd",
+    "country": "Kenya",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "Homabay",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "i6WoP7MnAw"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "Spanish",
+        "sxb": "Suba"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "Amang\u2019ana aga Coronavirus",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

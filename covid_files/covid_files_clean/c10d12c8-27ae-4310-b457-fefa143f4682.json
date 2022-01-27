@@ -1,0 +1,358 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"ki\":\"M\u0169rim\u0169 wa Korona\"}",
+    "author": null,
+    "bookInstanceId": "c10d12c8-27ae-4310-b457-fefa143f4682",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "kik": "M\u0169rim\u0169 wa Korona",
+            "und": ""
+        },
+        "1": {
+            "eng": "",
+            "kik": ""
+        },
+        "2": {
+            "eng": "",
+            "kik": "Translated by Timothy G. Kamau"
+        },
+        "3": {
+            "kik": ""
+        },
+        "4": {
+            "kik": "No \u0169nd\u0169 \u0168MWE tu wag\u0129r\u0129irwo n\u0129 k\u0169menya \u0169r\u0129a m\u0169rim\u0169 wa Korona"
+        },
+        "5": {
+            "kik": "\u0168GWATANAGIO"
+        },
+        "6": {
+            "kik": "Kanua \u00a0"
+        },
+        "7": {
+            "kik": "Ini\u0169r\u0169"
+        },
+        "8": {
+            "kik": "Maitho"
+        },
+        "9": {
+            "kik": "Twak\u0169ing\u0129ra \u00a0"
+        },
+        "10": {
+            "kik": "M\u0169nd\u0169 \u0169tar\u0129 m\u0169rwaru"
+        },
+        "11": {
+            "kik": "M\u0169rwaru wa Korona\n"
+        },
+        "12": {
+            "kik": "M\u0169rim\u0169 \u0169y\u0169 \u0169gwatagio r\u0129r\u0129a t\u0169matata t\u0169t\u0169"
+        },
+        "13": {
+            "kik": "Ikara haraihu. W\u0129 \u0169raihu wa mita 2 nd\u0169ng\u0129kiny\u0129rwo n\u0129 t\u0169matata t\u0169r\u0129a t\u0169nene."
+        },
+        "14": {
+            "kik": "1"
+        },
+        "15": {
+            "kik": "Mita 2"
+        },
+        "16": {
+            "kik": "Achoo!"
+        },
+        "17": {
+            "kik": "Kwoguo \u0169ng\u0129ona m\u0169nd\u0169 ak\u0129enda k\u0169haya/gwathim\u0169ra kana ta e m\u0169rwaru no w\u0129ke \u0169\u0169:"
+        },
+        "18": {
+            "kik": "Kana \u0169mahe maciki. No maha\u0129re kana maathim\u0169r\u0129re maciki-in\u0129 \u0129yo na k\u0169git\u0129ra ar\u0129a othe me hakuh\u0129"
+        },
+        "19": {
+            "kik": "2"
+        },
+        "20": {
+            "kik": "M\u0169he gatambaya ga *k\u0129mira*\n"
+        },
+        "21": {
+            "kik": "KANA,"
+        },
+        "22": {
+            "kik": "No g\u0169korwo ti m\u0169rwaru, no kw\u0129git\u0129ra tu aregit\u0129ra"
+        },
+        "23": {
+            "kik": "And\u0169 mena bairasi cia Korona no \u00a0maage kuonania ndariri, no mar\u0129 o na \u0169hoti wa g\u0169citaambia\n"
+        },
+        "24": {
+            "kik": "N\u0129 wega m\u0169no kwaga g\u0169thi\u0129 k\u0169nd\u0169 kw\u0129na and\u0169 ang\u0129, tond\u0169 nd\u0169ng\u0129menya n\u0169\u0169 \u0169ng\u0129korwo ar\u0129 m\u0169rwar\u0169."
+        },
+        "25": {
+            "kik": "T\u0169m\u0129t\u0129-in\u0129 twa k\u0169r\u0129a"
+        },
+        "26": {
+            "kik": "M\u0169nd\u0169 \u0169tar\u0129 m\u0169rwaru"
+        },
+        "27": {
+            "kik": "M\u0129cibi-in\u0129 ya ngari"
+        },
+        "28": {
+            "kik": "Mbatoni-in\u0129 cia ributi"
+        },
+        "29": {
+            "kik": "Tici\u0169-in\u0129"
+        },
+        "30": {
+            "kik": "Ikombe-in\u0129"
+        },
+        "31": {
+            "kik": "Thim\u0169-in\u0129 na kombiuta-in\u0129"
+        },
+        "32": {
+            "kik": "& ona kana na nja wa maciki yaku ya \u0169thi\u0169"
+        },
+        "33": {
+            "kik": "Cuma-in\u0129 cia ngath\u0129"
+        },
+        "34": {
+            "kik": "Ma\u0169ci \u00a0"
+        },
+        "35": {
+            "kik": "T\u0169ramu-in\u0129"
+        },
+        "36": {
+            "kik": "Ic\u0169h\u0129-in\u0129 cia m\u0129rango\n"
+        },
+        "37": {
+            "kik": "Moko-in\u0129 mao"
+        },
+        "38": {
+            "kik": "Ona k\u0169r\u0129 o \u0169guo, r\u0129mwe mata ma m\u0169nd\u0169 m\u0169rwaru no mag\u0129e indo-in\u0129 ing\u0129 ta \u2026"
+        },
+        "39": {
+            "kik": "inyuothe mwahota k\u0169nyitwo n\u0129 m\u0169rim\u0169 \u0169y\u0169 wa Korona"
+        },
+        "40": {
+            "kik": "kana \u0169huutie \u0169thi\u0169 wa m\u0169nd\u0169 wendete \u00a0\u00a0\u00a0\n"
+        },
+        "41": {
+            "kik": "w\u0129rigithe maitho\n"
+        },
+        "42": {
+            "kik": "Na \u0169ng\u0129huutia k\u0129mwe k\u0129a indo ici na mah\u0129tia, \u0169cooke w\u0129huutie \u0169thi\u0169 waku,\u00a0"
+        },
+        "43": {
+            "kik": "na nj\u0129ra \u0129r\u0129a njega m\u0169no ya g\u0169cinina n\u0129 g\u0169cithaambia na thabuni, kilorini kana dawa ya thanitaitha."
+        },
+        "44": {
+            "kik": "Bairasi cia m\u0169rim\u0169 \u0169y\u0169 no cikare mathaa maigana \u0169na indo-in\u0129"
+        },
+        "45": {
+            "kik": "Thabuni \u00a0"
+        },
+        "46": {
+            "kik": ""
+        },
+        "47": {
+            "kik": "Na n\u0129k\u0129o ar\u0129 wega m\u0169no k\u0169r\u0169m\u0129r\u0129ra motaaro maya"
+        },
+        "48": {
+            "kik": "W\u0129thaambe na thabuni nginya haha"
+        },
+        "49": {
+            "kik": "Thabuni"
+        },
+        "50": {
+            "kik": "K\u0129gokora"
+        },
+        "51": {
+            "kik": "Nd\u0169kehuutie \u0169thi\u0169. (Ona kana \u0169thi\u0169 wa m\u0169nd\u0169 \u0169ng\u0129 o wothe.) Ang\u0129korwo no nginya \u0169huutie, amba w\u0129thambe mooko na thabuni weega bi\u0169. \u00a0"
+        },
+        "52": {
+            "kik": "O kahinda ta kar\u0129a \u0169ng\u0129oya k\u0169ina karw\u0129mbo ga g\u0169c\u0169gia mwana"
+        },
+        "53": {
+            "kik": "ndwara-in\u0129 th\u0129in\u0129"
+        },
+        "54": {
+            "kik": "gwa kahinda ta ga thekondi 20"
+        },
+        "55": {
+            "kik": "gatagat\u0129 ga Ciara"
+        },
+        "56": {
+            "kik": "w\u0129thambe na thuutha wa mooko maku."
+        },
+        "57": {
+            "kik": "Gw\u0129thamba mooko weega bi\u0169 n\u0129 ta at\u0129a?"
+        },
+        "58": {
+            "kik": "No \u0169ng\u0129huutia, nd\u0169kamake. W\u0129thambe tu mooko na thabuni weega b\u0129\u0169."
+        },
+        "59": {
+            "kik": "Ning\u0129, geria m\u0169no nd\u0169kahuutie mwena wa na nja wa maciki."
+        },
+        "60": {
+            "kik": "T\u0169matata twa mata"
+        },
+        "61": {
+            "kik": "*Mbakit\u0129ria n\u0129 ik\u0169rag\u0129ra na th\u0129ini\u0129 wa maciki \u0169ng\u0129m\u0129k\u0129ra gwa kahinda karaihu."
+        },
+        "62": {
+            "kik": "Te maciki waigua yamb\u0129r\u0129ria k\u0169g\u0129a na hinya \u0169k\u0129huhia. Nd\u0169kam\u0129k\u0129re mak\u0129ria ya m\u0169thenya \u0169mwe!\u00a0"
+        },
+        "63": {
+            "kik": "H\u0169th\u0129ra g\u0129ciko g\u0129a k\u0169ih\u0169ra"
+        },
+        "64": {
+            "kik": "Mwana"
+        },
+        "65": {
+            "kik": "Baba"
+        },
+        "66": {
+            "kik": "Mami \u00a0"
+        },
+        "67": {
+            "kik": "O m\u0169nd\u0169 akorwo na taur\u0169 yake"
+        },
+        "68": {
+            "kik": "Nd\u0169kah\u0169th\u0129re indo ta ici na and\u0169 ang\u0129: irio, thaani, iciko, ikombe, taur\u0169."
+        },
+        "69": {
+            "kik": "Nd\u0169ng\u0129hota kw\u0129huutia \u0169thi\u0169 na k\u0129gokora g\u0129aku ona \u0169ng\u0129geria.\n"
+        },
+        "70": {
+            "kik": "K\u0169ng\u0129hoteka, h\u0169th\u0129ra k\u0129gokora kana ciande k\u0169hing\u0169ra m\u0129rango hand\u0169 ha mooko."
+        },
+        "71": {
+            "kik": "M\u0169ci\u0129"
+        },
+        "72": {
+            "kik": "na wacoka kuuma k\u0169r\u0129 m\u0169ing\u0129"
+        },
+        "73": {
+            "kik": "Mbere ya k\u0169r\u0129a"
+        },
+        "74": {
+            "kik": "Hingo ciothe w\u0129thambe mooko na thabuni \u2026"
+        },
+        "75": {
+            "kik": "Wa m\u0169thia,"
+        },
+        "76": {
+            "kik": "Thabuni"
+        },
+        "77": {
+            "kik": "N\u0129 tw\u0129git\u0129re,\nithuothe!"
+        },
+        "78": {
+            "kik": "N\u0129 tw\u0129git\u0129re,\nithuothe!"
+        },
+        "79": {
+            "kik": "Thabuni \u00a0"
+        },
+        "80": {
+            "kik": "Mathome \u0169menye mang\u0129 maing\u0129!"
+        },
+        "81": {
+            "kik": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "kik": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+        },
+        "83": {
+            "kik": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "kik": "Mohoro mak\u0129ria megi\u0129 \u0169gima wa mw\u0129r\u0129:"
+        },
+        "85": {
+            "kik": "Ndeto mak\u0129ria: Mootaro megi\u0129 \u0169gima wa mw\u0129r\u0129 mahean\u0129two na nj\u0129ra ta \u0129no ya mbica cia katuni n\u0129 mateithagia m\u0169no k\u0169rig\u0129r\u0129ria m\u0129rim\u0169 ya k\u0169gwatanio ta homa, na no mah\u0169th\u0129ke hingo ciothe, ona r\u0129r\u0129a g\u0169tar\u0129 na k\u0129ng\u2019\u0169ki. \u00a0\nK\u0129humo: Moohoro mar\u0129a me kabuki-in\u0129 gaka ka mbica cia t\u0169tuni mauman\u0129te na \u0169menyo wa m\u0169rim\u0169 wa KOVID-19 nginyanagia mweri 28 Februar\u0129 2020, ihumo cia ndeto ici n\u0129cio ici ithat\u0169. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nMoohoro mak\u0129ria: No w\u0129g\u0129\u0129re na kabuku gaka ka mbica cia t\u0169tuni ge ka PDF kuuma r\u0169renda-in\u0129 r\u0169r\u0169: https://gumroad.com/weimankowart\u00a0\nMegi\u0129 \u0168h\u0169th\u0129ri: Kabuku gaka ka mbica kahean\u0129two t\u0169h\u0169 k\u0169r\u0129 m\u0169ing\u0129 \u0169gatambie nenda-in\u0129, Whatsapp na Telegram. And\u0169 no marute nenda-in\u0129 na macabithie na ta mbica cia g\u0169cuuria ci\u0129 ciao kana ir\u0129 cia k\u0169rutana m\u0129ci\u0129-in\u0129, macukuru-in\u0129, na maobici-in\u0129.\nR\u0129r\u0129a \u0169raheana kabuku gaka ririkana ma\u0169nd\u0169 maya 3: 1) Nd\u0169r\u0129 na r\u0169tha rwa k\u0169gar\u0169ra \u0169nd\u0169 ona \u0169r\u0129k\u0169. 2) Mbica iria iria ir\u0129 haha iting\u0129h\u0169th\u0129rwo na nj\u0129ra ya gwetha mbeca. 3) Ang\u0129korwo \u0169rah\u0169th\u0129ra r\u0169renda-in\u0129, onania m\u0169thondeki wa th\u0129ini\u0129 wa FB k\u0169r\u0129a \u0169gw\u0129k\u0129ra @weimankowart, na k\u0169r\u0129 IG w\u0129k\u0129re @weimankow (IG), kana wand\u0129ke linki har\u0129 instagram com/weimankow\nN\u0129guo \u0169r\u0129h\u0169th\u0129re na nj\u0129ra ing\u0129 o ciothe, \u00a0t\u0169ma ihoya k\u0169r\u0129: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "kik": "M\u0169rim\u0169 wa Korona",
+            "und": ""
+        },
+        "87": {
+            "eng": "",
+            "kik": ""
+        },
+        "88": {
+            "eng": "",
+            "kik": ""
+        },
+        "89": {
+            "eng": "",
+            "kik": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "kik": ""
+        },
+        "91": {
+            "eng": "",
+            "kik": ""
+        },
+        "92": {
+            "eng": "",
+            "kik": ""
+        },
+        "93": {
+            "eng": "",
+            "kik": ""
+        },
+        "94": {
+            "eng": "",
+            "kik": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\n\n\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "kik": "M\u0169rim\u0169 wa Korona\n\nTranslated by Timothy G. Kamau\n\nNo \u0169nd\u0169 \u0168MWE tu wag\u0129r\u0129irwo n\u0129 k\u0169menya \u0169r\u0129a m\u0169rim\u0169 wa Korona\n\u0168GWATANAGIO\nKanua \u00a0\nIni\u0169r\u0169\nMaitho\nTwak\u0169ing\u0129ra \u00a0\nM\u0169nd\u0169 \u0169tar\u0129 m\u0169rwaru\nM\u0169rwaru wa Korona\n\nM\u0169rim\u0169 \u0169y\u0169 \u0169gwatagio r\u0129r\u0129a t\u0169matata t\u0169t\u0169\nIkara haraihu. W\u0129 \u0169raihu wa mita 2 nd\u0169ng\u0129kiny\u0129rwo n\u0129 t\u0169matata t\u0169r\u0129a t\u0169nene.\n1\nMita 2\nAchoo!\nKwoguo \u0169ng\u0129ona m\u0169nd\u0169 ak\u0129enda k\u0169haya/gwathim\u0169ra kana ta e m\u0169rwaru no w\u0129ke \u0169\u0169:\nKana \u0169mahe maciki. No maha\u0129re kana maathim\u0169r\u0129re maciki-in\u0129 \u0129yo na k\u0169git\u0129ra ar\u0129a othe me hakuh\u0129\n2\nM\u0169he gatambaya ga *k\u0129mira*\n\nKANA,\nNo g\u0169korwo ti m\u0169rwaru, no kw\u0129git\u0129ra tu aregit\u0129ra\nAnd\u0169 mena bairasi cia Korona no \u00a0maage kuonania ndariri, no mar\u0129 o na \u0169hoti wa g\u0169citaambia\n\nN\u0129 wega m\u0169no kwaga g\u0169thi\u0129 k\u0169nd\u0169 kw\u0129na and\u0169 ang\u0129, tond\u0169 nd\u0169ng\u0129menya n\u0169\u0169 \u0169ng\u0129korwo ar\u0129 m\u0169rwar\u0169.\nT\u0169m\u0129t\u0129-in\u0129 twa k\u0169r\u0129a\nM\u0169nd\u0169 \u0169tar\u0129 m\u0169rwaru\nM\u0129cibi-in\u0129 ya ngari\nMbatoni-in\u0129 cia ributi\nTici\u0169-in\u0129\nIkombe-in\u0129\nThim\u0169-in\u0129 na kombiuta-in\u0129\n& ona kana na nja wa maciki yaku ya \u0169thi\u0169\nCuma-in\u0129 cia ngath\u0129\nMa\u0169ci \u00a0\nT\u0169ramu-in\u0129\nIc\u0169h\u0129-in\u0129 cia m\u0129rango\n\nMoko-in\u0129 mao\nOna k\u0169r\u0129 o \u0169guo, r\u0129mwe mata ma m\u0169nd\u0169 m\u0169rwaru no mag\u0129e indo-in\u0129 ing\u0129 ta \u2026\ninyuothe mwahota k\u0169nyitwo n\u0129 m\u0169rim\u0169 \u0169y\u0169 wa Korona\nkana \u0169huutie \u0169thi\u0169 wa m\u0169nd\u0169 wendete \u00a0\u00a0\u00a0\n\nw\u0129rigithe maitho\n\nNa \u0169ng\u0129huutia k\u0129mwe k\u0129a indo ici na mah\u0129tia, \u0169cooke w\u0129huutie \u0169thi\u0169 waku,\u00a0\nna nj\u0129ra \u0129r\u0129a njega m\u0169no ya g\u0169cinina n\u0129 g\u0169cithaambia na thabuni, kilorini kana dawa ya thanitaitha.\nBairasi cia m\u0169rim\u0169 \u0169y\u0169 no cikare mathaa maigana \u0169na indo-in\u0129\nThabuni \u00a0\n\nNa n\u0129k\u0129o ar\u0129 wega m\u0169no k\u0169r\u0169m\u0129r\u0129ra motaaro maya\nW\u0129thaambe na thabuni nginya haha\nThabuni\nK\u0129gokora\nNd\u0169kehuutie \u0169thi\u0169. (Ona kana \u0169thi\u0169 wa m\u0169nd\u0169 \u0169ng\u0129 o wothe.) Ang\u0129korwo no nginya \u0169huutie, amba w\u0129thambe mooko na thabuni weega bi\u0169. \u00a0\nO kahinda ta kar\u0129a \u0169ng\u0129oya k\u0169ina karw\u0129mbo ga g\u0169c\u0169gia mwana\nndwara-in\u0129 th\u0129in\u0129\ngwa kahinda ta ga thekondi 20\ngatagat\u0129 ga Ciara\nw\u0129thambe na thuutha wa mooko maku.\nGw\u0129thamba mooko weega bi\u0169 n\u0129 ta at\u0129a?\nNo \u0169ng\u0129huutia, nd\u0169kamake. W\u0129thambe tu mooko na thabuni weega b\u0129\u0169.\nNing\u0129, geria m\u0169no nd\u0169kahuutie mwena wa na nja wa maciki.\nT\u0169matata twa mata\n*Mbakit\u0129ria n\u0129 ik\u0169rag\u0129ra na th\u0129ini\u0129 wa maciki \u0169ng\u0129m\u0129k\u0129ra gwa kahinda karaihu.\nTe maciki waigua yamb\u0129r\u0129ria k\u0169g\u0129a na hinya \u0169k\u0129huhia. Nd\u0169kam\u0129k\u0129re mak\u0129ria ya m\u0169thenya \u0169mwe!\u00a0\nH\u0169th\u0129ra g\u0129ciko g\u0129a k\u0169ih\u0169ra\nMwana\nBaba\nMami \u00a0\nO m\u0169nd\u0169 akorwo na taur\u0169 yake\nNd\u0169kah\u0169th\u0129re indo ta ici na and\u0169 ang\u0129: irio, thaani, iciko, ikombe, taur\u0169.\nNd\u0169ng\u0129hota kw\u0129huutia \u0169thi\u0169 na k\u0129gokora g\u0129aku ona \u0169ng\u0129geria.\n\nK\u0169ng\u0129hoteka, h\u0169th\u0129ra k\u0129gokora kana ciande k\u0169hing\u0169ra m\u0129rango hand\u0169 ha mooko.\nM\u0169ci\u0129\nna wacoka kuuma k\u0169r\u0129 m\u0169ing\u0129\nMbere ya k\u0169r\u0129a\nHingo ciothe w\u0129thambe mooko na thabuni \u2026\nWa m\u0169thia,\nThabuni\nN\u0129 tw\u0129git\u0129re,\nithuothe!\nN\u0129 tw\u0129git\u0129re,\nithuothe!\nThabuni \u00a0\nMathome \u0169menye mang\u0129 maing\u0129!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020)\nMohoro mak\u0129ria megi\u0129 \u0169gima wa mw\u0129r\u0129:\nNdeto mak\u0129ria: Mootaro megi\u0129 \u0169gima wa mw\u0129r\u0129 mahean\u0129two na nj\u0129ra ta \u0129no ya mbica cia katuni n\u0129 mateithagia m\u0169no k\u0169rig\u0129r\u0129ria m\u0129rim\u0169 ya k\u0169gwatanio ta homa, na no mah\u0169th\u0129ke hingo ciothe, ona r\u0129r\u0129a g\u0169tar\u0129 na k\u0129ng\u2019\u0169ki. \u00a0\nK\u0129humo: Moohoro mar\u0129a me kabuki-in\u0129 gaka ka mbica cia t\u0169tuni mauman\u0129te na \u0169menyo wa m\u0169rim\u0169 wa KOVID-19 nginyanagia mweri 28 Februar\u0129 2020, ihumo cia ndeto ici n\u0129cio ici ithat\u0169. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nMoohoro mak\u0129ria: No w\u0129g\u0129\u0129re na kabuku gaka ka mbica cia t\u0169tuni ge ka PDF kuuma r\u0169renda-in\u0129 r\u0169r\u0169: https://gumroad.com/weimankowart\u00a0\nMegi\u0129 \u0168h\u0169th\u0129ri: Kabuku gaka ka mbica kahean\u0129two t\u0169h\u0169 k\u0169r\u0129 m\u0169ing\u0129 \u0169gatambie nenda-in\u0129, Whatsapp na Telegram. And\u0169 no marute nenda-in\u0129 na macabithie na ta mbica cia g\u0169cuuria ci\u0129 ciao kana ir\u0129 cia k\u0169rutana m\u0129ci\u0129-in\u0129, macukuru-in\u0129, na maobici-in\u0129.\nR\u0129r\u0129a \u0169raheana kabuku gaka ririkana ma\u0169nd\u0169 maya 3: 1) Nd\u0169r\u0129 na r\u0169tha rwa k\u0169gar\u0169ra \u0169nd\u0169 ona \u0169r\u0129k\u0169. 2) Mbica iria iria ir\u0129 haha iting\u0129h\u0169th\u0129rwo na nj\u0129ra ya gwetha mbeca. 3) Ang\u0129korwo \u0169rah\u0169th\u0129ra r\u0169renda-in\u0129, onania m\u0169thondeki wa th\u0129ini\u0129 wa FB k\u0169r\u0129a \u0169gw\u0129k\u0129ra @weimankowart, na k\u0169r\u0129 IG w\u0129k\u0129re @weimankow (IG), kana wand\u0129ke linki har\u0129 instagram com/weimankow\nN\u0129guo \u0169r\u0129h\u0169th\u0129re na nj\u0129ra ing\u0129 o ciothe, \u00a0t\u0169ma ihoya k\u0169r\u0129: comicsforgood@gmail.com\nM\u0169rim\u0169 wa Korona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "kik",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "ya03ODxo7o"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "ki": "Gikuyu"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Nd\u0169kagar\u0169re mand\u0129ko ma ibuku r\u0129r\u0129, no no \u0169r\u0129ta\u0169re, kana \u0169r\u0129rute na nj\u0129ra ing\u0129, na \u0169r\u0129heane hatar\u0129 gwetha mbeca. No m\u0169haka \u0169heane ihoto cia wand\u0129ki k\u0169r\u0129 mwand\u0129ki na m\u0169cori wa mbica ar\u0129 we Weiman Kou.",
+    "originalPublisher": "",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "publisher": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "M\u0169rim\u0169 wa Korona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

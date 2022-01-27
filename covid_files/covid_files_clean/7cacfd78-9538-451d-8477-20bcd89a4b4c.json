@@ -1,0 +1,442 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"mlk\":\"Kuhusu bhirusi bhya Kud\u2019a\"}",
+    "author": null,
+    "bookInstanceId": "7cacfd78-9538-451d-8477-20bcd89a4b4c",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "mlk": "Kuhusu bhirusi bhya Kud\u2019a"
+        },
+        "1": {
+            "eng": "",
+            "mlk": ""
+        },
+        "2": {
+            "eng": "",
+            "mlk": "Translated by Fatuma Ali"
+        },
+        "3": {
+            "eng": "",
+            "mlk": ""
+        },
+        "4": {
+            "eng": "There's only ONE thing \ufeffyou need to understand about how a coronavirus",
+            "mlk": "Kuna jai mooza ipeeka upejikeene kui\u2019elewa kuhusu aka bhirusi bhya kud\u2019a"
+        },
+        "5": {
+            "eng": "SPREADS",
+            "mlk": "KU\u2019ENEE"
+        },
+        "6": {
+            "eng": "Mouth",
+            "mlk": "Kanweeni"
+        },
+        "7": {
+            "eng": "Nose",
+            "mlk": "B\u00fbleeni"
+        },
+        "8": {
+            "eng": "Eyes",
+            "mlk": "Machooni"
+        },
+        "9": {
+            "eng": "Get into your",
+            "mlk": "yakakupacha"
+        },
+        "10": {
+            "eng": "Healthy Person",
+            "mlk": "M\u00fb\u00fbd\u00fb anaa jinna fai"
+        },
+        "11": {
+            "eng": "Sick Person",
+            "mlk": "M\u00fb\u00fbd\u00fb moroghoti"
+        },
+        "12": {
+            "eng": "The virus spreads when \ufeffthese droplets",
+            "mlk": "Bhirusi bhika\u2019enea guya mata yakut\u2019innik\u2019\u00eele"
+        },
+        "13": {
+            "eng": "Keep your distance.\ufeff2m to 0.5m will keep you safe from large droplets.",
+            "mlk": "Kaag hatua. Mita 2 ikud\u2019uuna kukweeka usalaama na mata/ikololo yat\u2019innkie."
+        },
+        "14": {
+            "eng": "1",
+            "mlk": "1"
+        },
+        "15": {
+            "eng": "2m-0.5m",
+            "mlk": "\u00fbz\u00ee"
+        },
+        "16": {
+            "eng": "Achoo!",
+            "mlk": "Hat\u2019isoo!"
+        },
+        "17": {
+            "eng": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:",
+            "mlk": "Kwa aka iyyo guya oone m\u00fb\u00fbd\u00fb akokololee/hat\u2019iseeni"
+        },
+        "18": {
+            "eng": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby",
+            "mlk": "Wanyiige kyiizi. \u00a0Wakokololela dhini ama kuhat\u2019is\u00eeza dhini na wakiinge waalya chwee waa bira yaao"
+        },
+        "19": {
+            "eng": "2",
+            "mlk": "2"
+        },
+        "20": {
+            "eng": "Thank you\ufeff*sniffles*",
+            "mlk": "Ni asanta *Shub\u2019a uvun\u00eeka*"
+        },
+        "21": {
+            "eng": "OR,",
+            "mlk": "Ama"
+        },
+        "22": {
+            "eng": "Maybe she's not sick, just protecting herself",
+            "mlk": "Anaafi daa moroghoti, nijai akukingee m\u00ee\u00eel\u00ee"
+        },
+        "23": {
+            "eng": "People who are infected can show no symptoms, but are still\ufeffinfectious",
+            "mlk": "Waad waalya wa\u2019ambukizizwe wakud\u2019una kochowa konyisa d\u2019alili, am\u00fb yiite wanaa maambukizi"
+        },
+        "24": {
+            "eng": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick.",
+            "mlk": "Na kwa uj\u2019umula, ni fai kukaag\u00ee kla na ummati wa waad\u00fb, maana da\u2019ukud\u2019uuna kumanya kat\u00ee kaao ni ani y\u00fb\u00fb moroghoti."
+        },
+        "25": {
+            "eng": "chopsticks",
+            "mlk": "Bhipod\u2019ozi"
+        },
+        "26": {
+            "eng": "Healthy person",
+            "mlk": "M\u00fb\u00fbd\u00fb anaa jinna fai"
+        },
+        "27": {
+            "eng": "Train straps",
+            "mlk": "Mas\u00ee\u00eerimo za tireni"
+        },
+        "28": {
+            "eng": "Lift buttons",
+            "mlk": "Bhifuungo bhya k\u00fbch\u00eeza iz\u00fbl\u00fb"
+        },
+        "29": {
+            "eng": "Tissues",
+            "mlk": "Tishu"
+        },
+        "30": {
+            "eng": "Cups",
+            "mlk": "Bhikombe"
+        },
+        "31": {
+            "eng": "Digital devices",
+            "mlk": "Bhifaa bhya dijitali"
+        },
+        "32": {
+            "eng": "& even on the outside of your face mask",
+            "mlk": "Na hata na b\u2019atiini ya oso wa\u00a0 kyiizi kyewwe"
+        },
+        "33": {
+            "eng": "Stair bannisters",
+            "mlk": "Mab\u2019ango ya staa"
+        },
+        "34": {
+            "eng": "Mouse",
+            "mlk": "Banya"
+        },
+        "35": {
+            "eng": "Pens",
+            "mlk": "Kalamu"
+        },
+        "36": {
+            "eng": "Door knobs",
+            "mlk": "Kichapi kya babala"
+        },
+        "37": {
+            "eng": "Their hands",
+            "mlk": "Mikono yaao"
+        },
+        "38": {
+            "eng": "However, sometimes a sick person's saliva can get on other things\u2026",
+            "mlk": "J\u2019apokuwa wakati \u00fbg\u00ee mataa m\u00fb\u00fbd\u00fb moroghoti yakud\u2019uuna kut\u2019innik\u2019\u00eela biyya z\u00eeg\u00ee\u2026"
+        },
+        "39": {
+            "eng": "you might all fall sick.",
+            "mlk": "any\u00ee chwee mukud\u2019uuna kulwaala"
+        },
+        "40": {
+            "eng": "or your loved one's face",
+            "mlk": "ama oswaa mud\u2019ala ywewwe"
+        },
+        "41": {
+            "eng": "rub eyes",
+            "mlk": "ukashukuma macho"
+        },
+        "42": {
+            "eng": "And if you do touch any of these things by accident, and then touch your face,",
+            "mlk": "Na guya udhaabhi b\u2019llaa kutarazia b\u2019aadhyaa sehemu \u00eezi, na kisaana ukadhaabha oso wewwe,"
+        },
+        "43": {
+            "eng": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.",
+            "mlk": "Na g\u00eela mooza muhimu hamu ya kuwamala ni kwa koosa na kuwacheeja na sab\u2019uni, jiiki, ama boorte."
+        },
+        "44": {
+            "eng": "Viruses can last for quite a few hours on objects,",
+            "mlk": "Bhirusi nijai bhikakaag\u00ee hubh\u00ee\u00eeni kwa mud\u2019aa masa\u2019a bhit\u2019ook\u2019o"
+        },
+        "45": {
+            "eng": "soap",
+            "mlk": "Sab\u2019uni"
+        },
+        "46": {
+            "eng": "precautions",
+            "mlk": "Tahadhari"
+        },
+        "47": {
+            "eng": "Which is why it is also good to follow these",
+            "mlk": "D\u00fb\u00fb manaa y\u00fb\u00fb muhimu kweera aya"
+        },
+        "48": {
+            "eng": "wash with soap up to here",
+            "mlk": "Osa na sab\u2019uni mupakaa apo"
+        },
+        "49": {
+            "eng": "soap",
+            "mlk": "Sab\u2019uni"
+        },
+        "50": {
+            "eng": "elbow",
+            "mlk": "Chik\u2019il\u00ee"
+        },
+        "51": {
+            "eng": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.",
+            "mlk": "Manya usaadhaabha oso wewwe. (ama oso wa m\u00fb\u00fbd\u00fb \u00fbg\u00ee.) Guya yaakukub\u2019idhi, osa nguzi mikono yewwe aka fai na sab\u2019uni."
+        },
+        "52": {
+            "eng": "Enough time to sing \u201cHappy Birthday\u201d twice",
+            "mlk": "Mud\u2019a mufai wa koghoona ubhinaa \u2018Sikwaa kubhyaal\u00eeka\u2019 mara b\u00eel\u00ee."
+        },
+        "53": {
+            "eng": "under the nails",
+            "mlk": "Gobera mibeeni"
+        },
+        "54": {
+            "eng": "for 20 seconds",
+            "mlk": "Kwa mud\u2019aa sekunde 20"
+        },
+        "55": {
+            "eng": "between the fingers",
+            "mlk": "Kaarha za nyalimo"
+        },
+        "56": {
+            "eng": "wash the back of your hands",
+            "mlk": "Osa nyumaa mikono yewwe"
+        },
+        "57": {
+            "eng": "What is thoroughly?",
+            "mlk": "Kusafisa hamu ikama\u2019nisha j\u00ee\u00eeza?"
+        },
+        "58": {
+            "eng": "If you did, don't worry. Just wash your hands with soap after.",
+            "mlk": "Guya ugheghezie aka iyyo, uswiite na wasiwasi. Ukisaana osa mikono yewwe na sab\u2019uni."
+        },
+        "59": {
+            "eng": "Also, don't touch the outside of the mask if you can.",
+            "mlk": "Manya usaadhaabha kyiizi ikyo na b\u2019atiini."
+        },
+        "60": {
+            "eng": "droplets",
+            "mlk": "Mata/ikololo"
+        },
+        "61": {
+            "eng": "*Bacteria grows on the insides of your mask if you wear them too long",
+            "mlk": "*Bakiteria nijai zika\u2019enea kyiizi ikyo dhini guya ukifaazie kyiizi ikyo kwa mud\u2019a mulaila"
+        },
+        "62": {
+            "eng": "Throw away masks once they feel gross. Don't wear them for more than a day!",
+            "mlk": "Llacha kyiizi guya oone kit\u2019uraawie. Manya usaakufaala kyiizi ikyo zaid\u2019yaa siku mooza!"
+        },
+        "63": {
+            "eng": "Use a serving spoon",
+            "mlk": "Tumia mok\u2019aa kupakua bhiit\u00fb"
+        },
+        "64": {
+            "eng": "Baby",
+            "mlk": "D\u2019aana"
+        },
+        "65": {
+            "eng": "Daddy",
+            "mlk": "Baaba"
+        },
+        "66": {
+            "eng": "Mommy",
+            "mlk": "Aa\u00ee"
+        },
+        "67": {
+            "eng": "Everyone gets their own towel",
+            "mlk": "Killaa m\u00fb\u00fbd\u00fb ipejikeene akwiita na taulwaa koowa yeyye mweenye."
+        },
+        "68": {
+            "eng": "Do not share food, utensils, cups, towels.",
+            "mlk": "Manya musaakulubhana ama kutumika wali bhiit\u00fb, hubh\u00ee, bhikombe, taulu."
+        },
+        "69": {
+            "eng": "You can't touch your face with your elbow even if you tried",
+            "mlk": "Maana da\u2019ud\u2019uuna udhaabhe oso wewwe na chik\u2019il\u00ee hata guya uwakud\u2019eema"
+        },
+        "70": {
+            "eng": "Open & close doors with your elbows or shoulders instead of hands, if possible.",
+            "mlk": "Guya iwakud\u2019unikana arh\u00fblla na ufuuge babala ikiwa utumikee ch\u2019ik\u2019il\u00ee yewwe ama ifuzi lyewwe bad\u2019ilyaa kutumika mokono wewwe."
+        },
+        "71": {
+            "eng": "Home",
+            "mlk": "Muz\u00eeni"
+        },
+        "72": {
+            "eng": "and after being out in the public",
+            "mlk": "Na hata ba\u2019ad\u2019a kwiita b\u2019atiini na wad\u00fb\u00fb"
+        },
+        "73": {
+            "eng": "Before you eat",
+            "mlk": "Kab\u2019ullaa usaak\u00fblya bhiit\u00fb"
+        },
+        "74": {
+            "eng": "Always wash your hands with soap\u2026",
+            "mlk": "Osa mikono yewwe na maaz\u00ee na sab\u2019uni killaa wakati\u2026"
+        },
+        "75": {
+            "eng": "And finally,",
+            "mlk": "Na mwiisho"
+        },
+        "76": {
+            "eng": "soap",
+            "mlk": "Sab\u2019uni"
+        },
+        "77": {
+            "eng": "Stay safe, everyone!",
+            "mlk": "Killaa m\u00fb\u00fbd\u00fb na akaag\u00ee \u00a0na usalaama! \u00a0"
+        },
+        "78": {
+            "eng": "Stay safe, everyone!",
+            "mlk": "Killaa m\u00fb\u00fbd\u00fb na akaag\u00ee \u00a0na usalaama! \u00a0"
+        },
+        "79": {
+            "eng": "soap",
+            "mlk": "Sab\u2019uni"
+        },
+        "80": {
+            "eng": "Read the articles for more tips!",
+            "mlk": "Soma nakala \u00eey\u00ee ud\u2019ak\u2019abhe kumanya udhiina"
+        },
+        "81": {
+            "eng": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)",
+            "mlk": "\u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n"
+        },
+        "82": {
+            "eng": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)",
+            "mlk": "\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report.\u00a0 (Jan 25, 2020)\n"
+        },
+        "83": {
+            "eng": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020",
+            "mlk": "\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion.\u00a0 (Jan 28,2020)\n"
+        },
+        "84": {
+            "eng": "Main references for medical info:",
+            "mlk": "K\u2019aasisa muhimu ya laghwaa madawa"
+        },
+        "85": {
+            "eng": "Additional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVI 019 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-1O\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com",
+            "mlk": "Kifungu kya koogeza: Kuzingatia usafi kwa umakiini kwa komiki kuna umuhimu wa kwiiz\u00eeza ma\u2019ambukizi yag\u00ee yamanyikeene kamaa k\u2019ann\u00fb na bepo, na ipejikeene kuzingatiywa na kutekelezwa kat\u00eeka maisha ya killaa siku, hata guya kusakoona j\u2019anga lya roghoti.\u00a0\nReferences: lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \u00a0https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation A PDF version of the comic is available for free download here: https://gumroad.com/weimankowart\u00a0\nKwaaba mwoongozo Umma kwa uj\u2019umula nijai wakapeewa Komiki \u00a0\u00eey\u00ee b\u2019asi aka wakuitumika mitandao yaao dhini ya Whatsapp na \u00a0Telegramu, na kupakua kweyye l\u00eea ni b\u2019asi aka id\u2019una kuchapishwa aka ikweekwa mab\u2019angooni d\u00fb\u00fb waad\u00fb wakutumika binasu ama itumike kwa golaa kubarsiisisa miz\u00eeni, sukuli na hata \u00a0biyyaa ghiiry\u00fb bal\u00ee\u00ee bal\u00ee.\u00a0\nGuya okonyisee wag\u00ee, \u00fbk\u00fbcha rhaal\u00ee zingatia mambo aya matato: 1) Da\u2019irughusizwe kwa aka yoyote kuhariiri komiki wakati utumikee na wag\u00ee. 2) Komiki da\u2019itumikee kwa murad\u2019i wowote wa kib\u2019yashara 3) Guya y\u00fb\u00fb mutandaoni, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\nKwa waalya wag\u00ee chwee watumikee, m\u00fbk\u00fbcha rhaall\u00ee botaa ombi lyeenu kwa: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "mlk": "Kuhusu bhirusi bhya Kud\u2019a"
+        },
+        "87": {
+            "eng": "",
+            "mlk": ""
+        },
+        "88": {
+            "eng": "\u00a0Bible Translation & Literacy, E.A",
+            "mlk": ""
+        },
+        "89": {
+            "eng": "Translated by Fatuma Ali",
+            "mlk": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "mlk": ""
+        },
+        "91": {
+            "eng": "",
+            "mlk": ""
+        },
+        "92": {
+            "eng": "",
+            "mlk": ""
+        },
+        "93": {
+            "eng": "",
+            "mlk": ""
+        },
+        "94": {
+            "eng": "",
+            "mlk": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\nThere's only ONE thing \ufeffyou need to understand about how a coronavirus\nSPREADS\nMouth\nNose\nEyes\nGet into your\nHealthy Person\nSick Person\nThe virus spreads when \ufeffthese droplets\nKeep your distance.\ufeff2m to 0.5m will keep you safe from large droplets.\n1\n2m-0.5m\nAchoo!\nSo if you see someone who is visibly coughing/sneezing/sick you can choose to:\nGive them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby\n2\nThank you\ufeff*sniffles*\nOR,\nMaybe she's not sick, just protecting herself\nPeople who are infected can show no symptoms, but are still\ufeffinfectious\nAnd in general, it's a good idea to avoid crowds, because you don't know who might be sick.\nchopsticks\nHealthy person\nTrain straps\nLift buttons\nTissues\nCups\nDigital devices\n& even on the outside of your face mask\nStair bannisters\nMouse\nPens\nDoor knobs\nTheir hands\nHowever, sometimes a sick person's saliva can get on other things\u2026\nyou might all fall sick.\nor your loved one's face\nrub eyes\nAnd if you do touch any of these things by accident, and then touch your face,\nand the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.\nViruses can last for quite a few hours on objects,\nsoap\nprecautions\nWhich is why it is also good to follow these\nwash with soap up to here\nsoap\nelbow\nDo not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.\nEnough time to sing \u201cHappy Birthday\u201d twice\nunder the nails\nfor 20 seconds\nbetween the fingers\nwash the back of your hands\nWhat is thoroughly?\nIf you did, don't worry. Just wash your hands with soap after.\nAlso, don't touch the outside of the mask if you can.\ndroplets\n*Bacteria grows on the insides of your mask if you wear them too long\nThrow away masks once they feel gross. Don't wear them for more than a day!\nUse a serving spoon\nBaby\nDaddy\nMommy\nEveryone gets their own towel\nDo not share food, utensils, cups, towels.\nYou can't touch your face with your elbow even if you tried\nOpen & close doors with your elbows or shoulders instead of hands, if possible.\nHome\nand after being out in the public\nBefore you eat\nAlways wash your hands with soap\u2026\nAnd finally,\nsoap\nStay safe, everyone!\nStay safe, everyone!\nsoap\nRead the articles for more tips!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020\nMain references for medical info:\nAdditional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVI 019 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-1O\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com\nAbout Coronavirus\n\n\u00a0Bible Translation & Literacy, E.A\nTranslated by Fatuma Ali\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "mlk": "Kuhusu bhirusi bhya Kud\u2019a\n\nTranslated by Fatuma Ali\n\nKuna jai mooza ipeeka upejikeene kui\u2019elewa kuhusu aka bhirusi bhya kud\u2019a\nKU\u2019ENEE\nKanweeni\nB\u00fbleeni\nMachooni\nyakakupacha\nM\u00fb\u00fbd\u00fb anaa jinna fai\nM\u00fb\u00fbd\u00fb moroghoti\nBhirusi bhika\u2019enea guya mata yakut\u2019innik\u2019\u00eele\nKaag hatua. Mita 2 ikud\u2019uuna kukweeka usalaama na mata/ikololo yat\u2019innkie.\n1\n\u00fbz\u00ee\nHat\u2019isoo!\nKwa aka iyyo guya oone m\u00fb\u00fbd\u00fb akokololee/hat\u2019iseeni\nWanyiige kyiizi. \u00a0Wakokololela dhini ama kuhat\u2019is\u00eeza dhini na wakiinge waalya chwee waa bira yaao\n2\nNi asanta *Shub\u2019a uvun\u00eeka*\nAma\nAnaafi daa moroghoti, nijai akukingee m\u00ee\u00eel\u00ee\nWaad waalya wa\u2019ambukizizwe wakud\u2019una kochowa konyisa d\u2019alili, am\u00fb yiite wanaa maambukizi\nNa kwa uj\u2019umula, ni fai kukaag\u00ee kla na ummati wa waad\u00fb, maana da\u2019ukud\u2019uuna kumanya kat\u00ee kaao ni ani y\u00fb\u00fb moroghoti.\nBhipod\u2019ozi\nM\u00fb\u00fbd\u00fb anaa jinna fai\nMas\u00ee\u00eerimo za tireni\nBhifuungo bhya k\u00fbch\u00eeza iz\u00fbl\u00fb\nTishu\nBhikombe\nBhifaa bhya dijitali\nNa hata na b\u2019atiini ya oso wa\u00a0 kyiizi kyewwe\nMab\u2019ango ya staa\nBanya\nKalamu\nKichapi kya babala\nMikono yaao\nJ\u2019apokuwa wakati \u00fbg\u00ee mataa m\u00fb\u00fbd\u00fb moroghoti yakud\u2019uuna kut\u2019innik\u2019\u00eela biyya z\u00eeg\u00ee\u2026\nany\u00ee chwee mukud\u2019uuna kulwaala\nama oswaa mud\u2019ala ywewwe\nukashukuma macho\nNa guya udhaabhi b\u2019llaa kutarazia b\u2019aadhyaa sehemu \u00eezi, na kisaana ukadhaabha oso wewwe,\nNa g\u00eela mooza muhimu hamu ya kuwamala ni kwa koosa na kuwacheeja na sab\u2019uni, jiiki, ama boorte.\nBhirusi nijai bhikakaag\u00ee hubh\u00ee\u00eeni kwa mud\u2019aa masa\u2019a bhit\u2019ook\u2019o\nSab\u2019uni\nTahadhari\nD\u00fb\u00fb manaa y\u00fb\u00fb muhimu kweera aya\nOsa na sab\u2019uni mupakaa apo\nSab\u2019uni\nChik\u2019il\u00ee\nManya usaadhaabha oso wewwe. (ama oso wa m\u00fb\u00fbd\u00fb \u00fbg\u00ee.) Guya yaakukub\u2019idhi, osa nguzi mikono yewwe aka fai na sab\u2019uni.\nMud\u2019a mufai wa koghoona ubhinaa \u2018Sikwaa kubhyaal\u00eeka\u2019 mara b\u00eel\u00ee.\nGobera mibeeni\nKwa mud\u2019aa sekunde 20\nKaarha za nyalimo\nOsa nyumaa mikono yewwe\nKusafisa hamu ikama\u2019nisha j\u00ee\u00eeza?\nGuya ugheghezie aka iyyo, uswiite na wasiwasi. Ukisaana osa mikono yewwe na sab\u2019uni.\nManya usaadhaabha kyiizi ikyo na b\u2019atiini.\nMata/ikololo\n*Bakiteria nijai zika\u2019enea kyiizi ikyo dhini guya ukifaazie kyiizi ikyo kwa mud\u2019a mulaila\nLlacha kyiizi guya oone kit\u2019uraawie. Manya usaakufaala kyiizi ikyo zaid\u2019yaa siku mooza!\nTumia mok\u2019aa kupakua bhiit\u00fb\nD\u2019aana\nBaaba\nAa\u00ee\nKillaa m\u00fb\u00fbd\u00fb ipejikeene akwiita na taulwaa koowa yeyye mweenye.\nManya musaakulubhana ama kutumika wali bhiit\u00fb, hubh\u00ee, bhikombe, taulu.\nMaana da\u2019ud\u2019uuna udhaabhe oso wewwe na chik\u2019il\u00ee hata guya uwakud\u2019eema\nGuya iwakud\u2019unikana arh\u00fblla na ufuuge babala ikiwa utumikee ch\u2019ik\u2019il\u00ee yewwe ama ifuzi lyewwe bad\u2019ilyaa kutumika mokono wewwe.\nMuz\u00eeni\nNa hata ba\u2019ad\u2019a kwiita b\u2019atiini na wad\u00fb\u00fb\nKab\u2019ullaa usaak\u00fblya bhiit\u00fb\nOsa mikono yewwe na maaz\u00ee na sab\u2019uni killaa wakati\u2026\nNa mwiisho\nSab\u2019uni\nKillaa m\u00fb\u00fbd\u00fb na akaag\u00ee \u00a0na usalaama! \u00a0\nKillaa m\u00fb\u00fbd\u00fb na akaag\u00ee \u00a0na usalaama! \u00a0\nSab\u2019uni\nSoma nakala \u00eey\u00ee ud\u2019ak\u2019abhe kumanya udhiina\n\u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\n\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report.\u00a0 (Jan 25, 2020)\n\n\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion.\u00a0 (Jan 28,2020)\n\nK\u2019aasisa muhimu ya laghwaa madawa\nKifungu kya koogeza: Kuzingatia usafi kwa umakiini kwa komiki kuna umuhimu wa kwiiz\u00eeza ma\u2019ambukizi yag\u00ee yamanyikeene kamaa k\u2019ann\u00fb na bepo, na ipejikeene kuzingatiywa na kutekelezwa kat\u00eeka maisha ya killaa siku, hata guya kusakoona j\u2019anga lya roghoti.\u00a0\nReferences: lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \u00a0https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation A PDF version of the comic is available for free download here: https://gumroad.com/weimankowart\u00a0\nKwaaba mwoongozo Umma kwa uj\u2019umula nijai wakapeewa Komiki \u00a0\u00eey\u00ee b\u2019asi aka wakuitumika mitandao yaao dhini ya Whatsapp na \u00a0Telegramu, na kupakua kweyye l\u00eea ni b\u2019asi aka id\u2019una kuchapishwa aka ikweekwa mab\u2019angooni d\u00fb\u00fb waad\u00fb wakutumika binasu ama itumike kwa golaa kubarsiisisa miz\u00eeni, sukuli na hata \u00a0biyyaa ghiiry\u00fb bal\u00ee\u00ee bal\u00ee.\u00a0\nGuya okonyisee wag\u00ee, \u00fbk\u00fbcha rhaal\u00ee zingatia mambo aya matato: 1) Da\u2019irughusizwe kwa aka yoyote kuhariiri komiki wakati utumikee na wag\u00ee. 2) Komiki da\u2019itumikee kwa murad\u2019i wowote wa kib\u2019yashara 3) Guya y\u00fb\u00fb mutandaoni, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\nKwa waalya wag\u00ee chwee watumikee, m\u00fbk\u00fbcha rhaall\u00ee botaa ombi lyeenu kwa: comicsforgood@gmail.com\nKuhusu bhirusi bhya Kud\u2019a\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "mlk",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Bible Translation & Literacy",
+    "country": "Kenya",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "OHs5jBNnbD"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "mlk": "Kiwilwana"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "Manya usaaku\u2019anya mandishi aya yandikiilwe, am\u00fb ukud\u2019uuna kuitafusiri, kuyaab\u00eepa na kuigheghela aka bal\u00ee\u00ee bal\u00ee, na uik\u2019iise wad\u00fb\u00fbni am\u00fb isaa b\u2019yaashara. Laazima okood\u2019e hakimiliki na muamana ya mwaandiki na mochori Weiman Kou.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "Kuhusu bhirusi bhya Kud\u2019a",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

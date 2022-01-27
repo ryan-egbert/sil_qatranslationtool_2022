@@ -1,0 +1,361 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "ba3d7fb2-c286-4411-9b70-ebd0b64c38f2",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Saki palelean ba'tu' saki korona",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"kli\":\"Saki palelean ba'tu' saki korona\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+  "downloadSource": "media@suluh.org/ba3d7fb2-c286-4411-9b70-ebd0b64c38f2",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+  "copyright": "Copyright \u00a9 2020, Weiman Kow",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "rpZ9D2Lfxf"
+    }
+  ],
+  "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Indonesia",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "c1ceNFU299"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "lts": "Lutachoni",
+    "id": "Indonesian",
+    "kli": "Kalumpang"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "3": {
+    "kli": "Saki palelean ba'tu' saki korona",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "kli": "Saki palelean ba'tu' saki korona",
+    "en": "About Coronavirus"
+  },
+  "5": {
+    "kli": "Saki palelean ba'tu' saki korona",
+    "en": "About Coronavirus"
+  },
+  "13": {
+    "kli": "Mesari lammu penondai isanga titattanna saki palelean ba'tu' saki korona"
+  },
+  "14": {
+    "kli": ""
+  },
+  "15": {
+    "kli": "Puduk"
+  },
+  "16": {
+    "kli": "Illong"
+  },
+  "17": {
+    "kli": "Mata"
+  },
+  "18": {
+    "kli": "lutama"
+  },
+  "19": {
+    "kli": "To maleke"
+  },
+  "20": {
+    "kli": "To masaki"
+  },
+  "21": {
+    "kli": "Tibisi'na elo'na tau iamo to'o uppodadi saki palelean ba\u2019tu\u2019 saki korona lako tau buda"
+  },
+  "22": {
+    "kli": "Kemalako ungato\u2019 sialla'mu lako tau si 2m, tae' siako lanna basa tibissi'na elo'na tau."
+  },
+  "23": {
+    "kli": "1"
+  },
+  "24": {
+    "kli": "2m-0,5m"
+  },
+  "25": {
+    "kli": "Haaachii!!"
+  },
+  "26": {
+    "kli": "Kedeenko ummita tau to'ko'/Koroan/masaki, malako uppokau' susi te'te:"
+  },
+  "27": {
+    "kli": "Anna malara unjakai padanna rupa tau. ke to'ko'i deen sia kain petutu'\u00a0 puduk ullawai."
+  },
+  "28": {
+    "kli": "2"
+  },
+  "29": {
+    "kli": "Kurresumanga' \u201cSROOT\u201d"
+  },
+  "30": {
+    "kli": "Ba\u2019tu\u2019"
+  },
+  "31": {
+    "kli": "Deen tau tae' masaki palelean. Appo\u2019 parallu unjakai kalena."
+  },
+  "32": {
+    "kli": "Kedeen mi tau nalelei saki ia to'o Ke ikitai tanda-tandana, susu to tae' nabasa saki palelean."
+  },
+  "33": {
+    "kli": "Biasanna napokau' tau buda, mapianna ake' tae'ki' si ko'bon-ko'bon dolo lalan kamaroasan, anu' tae' issan benanna masaki ba'tu' to maleke."
+  },
+  "34": {
+    "kli": "Parewa dapo'"
+  },
+  "35": {
+    "kli": "To maleke"
+  },
+  "36": {
+    "kli": "Pettoean kereta"
+  },
+  "37": {
+    "kli": "Pa'temmesanna lift"
+  },
+  "38": {
+    "kli": "Tissu"
+  },
+  "39": {
+    "kli": "Tanggi' kaca"
+  },
+  "40": {
+    "kli": "Parewa digital"
+  },
+  "41": {
+    "kli": "Sallianna petutu' puduk"
+  },
+  "42": {
+    "kli": "Pettoean eran"
+  },
+  "43": {
+    "kli": "Balao"
+  },
+  "44": {
+    "kli": "Pattuli'"
+  },
+  "45": {
+    "kli": "Pettoean ba'ba"
+  },
+  "46": {
+    "kli": "Limanna tau"
+  },
+  "47": {
+    "kli": "Moi to Susi o, biasa wai elo'na tau mekke'pe' lako\u2026"
+  },
+  "48": {
+    "kli": "Mittu'mu to'o mala ko nabasa saki palelean ba'tu' saki korona."
+  },
+  "49": {
+    "kli": "Ba'tu' lindona solah-solahmu tomusikadappisan"
+  },
+  "50": {
+    "kli": "Urussa' mata"
+  },
+  "51": {
+    "kli": "Anna ke' tae' musengaja urrumbu parewa-parewa susi tomai, anna urrumbu boi lindomu,"
+  },
+  "52": {
+    "kli": "Mesa'ri pa'pokausan marrasana mala ipokau ke moraiki uppa'dei saki palelean iamo ke' ibasei uppake sabung anna \u00a0cukka."
+  },
+  "53": {
+    "kli": "Anu' ia to'o saki palelean mala masaeng mekke'pe' lako parewa- parewa susi tu mai"
+  },
+  "54": {
+    "kli": "Sabung"
+  },
+  "55": {
+    "kli": ""
+  },
+  "56": {
+    "kli": "Adi' ke malai, pa'pokausan mapia uppeula'i ki pellaoan marrasa dio te'e."
+  },
+  "57": {
+    "kli": "Basei pake' sabung lambi\u2019 ia to'o"
+  },
+  "58": {
+    "kli": "Sabung"
+  },
+  "59": {
+    "kli": "Sikku"
+  },
+  "60": {
+    "kli": "Appo' ke marru tae\u2019 mi musara basei dolu limammu pake' sabung."
+  },
+  "61": {
+    "kli": "Susi nanian \u201cTanete Sandapang\u201d ipenani penduan."
+  },
+  "62": {
+    "kli": "Kale dokkona kanuku"
+  },
+  "63": {
+    "kli": "Lambi' dua pulo detik"
+  },
+  "64": {
+    "kli": "Alla' alla'na rakka' lima"
+  },
+  "65": {
+    "kli": "Basei boko' lima"
+  },
+  "66": {
+    "kli": "Umbanakua carana umbasei lima lambi\u2019 barassi?"
+  },
+  "67": {
+    "kli": "Appo' ke' manda' irumbu, damo mataku'. Mati'pa' ko umbasei limammu pake' sabung."
+  },
+  "68": {
+    "kli": "Damo rumbui sallianna kain petutu' puduk."
+  },
+  "69": {
+    "kli": "Natibissikki wai elo'"
+  },
+  "70": {
+    "kli": "Saki mala membea' illalan kain petutu' pudukta ke marru masaemi ipake."
+  },
+  "71": {
+    "kli": "Tibemi kain petutu' pudukmu ke bureremi. Damo pake' kain petutu' puduk ke melawemi sangallo."
+  },
+  "72": {
+    "kli": "Pake' i sendo' nasuan"
+  },
+  "73": {
+    "kli": "Ana'"
+  },
+  "74": {
+    "kli": "Ambe'"
+  },
+  "75": {
+    "kli": "Indo'"
+  },
+  "76": {
+    "kli": "Kana' upakeko handu'mu tae' mala musibala'-bala'i."
+  },
+  "77": {
+    "kli": "Damo sola-soalai parewa kakumandean, tanggi\u2019, anna handu'."
+  },
+  "78": {
+    "kli": "Anu\u2019 tae' ko mala urrumbu lindo \u00a0uppake siikku kalemu. Ade' pokau' i mala raka, tae' raka mala."
+  },
+  "79": {
+    "kli": "Kemalai, sikkummu ba\u2019tu\u2019 boko\u2019mu mupake umbukka' anna uttutu' ba\u2019ba."
+  },
+  "80": {
+    "kli": "Banua"
+  },
+  "81": {
+    "kli": "Ke manda' moko lao mallai lalanmai banua"
+  },
+  "82": {
+    "kli": "Ke ta\u2019e poko kumande"
+  },
+  "83": {
+    "kli": "Basei tarru' limammu pake' sabung..."
+  },
+  "84": {
+    "kli": "Kasundunanna"
+  },
+  "85": {
+    "kli": "Sabung"
+  },
+  "86": {
+    "kli": "Jakai kalemu ndana' masakiko!"
+  },
+  "87": {
+    "kli": "Jakai kalemu ndana' masakiko!"
+  },
+  "88": {
+    "kli": "Sabung"
+  },
+  "89": {
+    "kli": "Bacai pellaoan mapia to ituli' dengena' yao!"
+  },
+  "90": {
+    "kli": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "91": {
+    "kli": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "92": {
+    "kli": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion (Jan 28, 2020)"
+  },
+  "93": {
+    "kli": "Parallu iperangi'I to'o napokadanna mittu'na sa' dotto':"
+  },
+  "94": {
+    "kli": "Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja. Saat membagikan komik ini, ingat 3 hal berikut: 1) Dilarang mengedit gambar komik yang akan dibagikan. 2) Komik ini tidak dapat diperjualbelikan. 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+  },
+  "98": {
+    "kli": "Saki palelean ba'tu' saki korona",
+    "en": "About Coronavirus"
+  },
+  "99": {
+    "kli": "Saki palelean ba'tu' saki korona",
+    "en": "About Coronavirus"
+  },
+  "100": {
+    "kli": "Saki palelean ba'tu' saki korona",
+    "en": "About Coronavirus"
+  },
+  "106": {
+    "en": "Diterjemahkan ke dalam Bahasa Kalumpang oleh Nikolaus."
+  },
+  "108": {
+    "en": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam bahasa daerah : https://suluh.org"
+  },
+  "111": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

@@ -1,0 +1,159 @@
+{
+    "allTitles": "{\"es\":\"\u00bfC\u00f3mo evitar el contagio por COVID-19?\"}",
+    "author": null,
+    "bookInstanceId": "71566fa2-cd69-4542-8cf2-ada9108bf84f",
+    "bookLineage": "1a648b00-1ec0-46a7-be11-b0dec22fa0f4,225328cc-8c92-4000-b777-985c05d4141f",
+    "bookSamples": {
+        "0": {
+            "eng": "",
+            "hds": "",
+            "spa": "\u00bfC\u00f3mo evitar el contagio por COVID-19?"
+        },
+        "1": {
+            "eng": "",
+            "spa": ""
+        },
+        "2": {
+            "eng": "",
+            "spa": ""
+        },
+        "3": {
+            "eng": "",
+            "spa": ""
+        },
+        "4": {
+            "eng": "",
+            "hds": "",
+            "spa": "\u00bfC\u00f3mo evitar el contagio por COVID-19?"
+        },
+        "5": {
+            "eng": "Signante LESSA: Edwin Molina\nGrabaci\u00f3n y editora: Lisseth Amaya\nIlustrador: Teofilo Padilla\nSubtitulaci\u00f3n: Oneyda Aguilar\n",
+            "spa": ""
+        },
+        "6": {
+            "eng": "Agradecemos a los generosos donantes que hicieron posible este proyecto.",
+            "spa": ""
+        },
+        "7": {
+            "eng": "",
+            "spa": ""
+        },
+        "8": {
+            "eng": "",
+            "spa": ""
+        },
+        "9": {
+            "eng": "",
+            "spa": ""
+        },
+        "10": {
+            "spa": "\u00bfC\u00f3mo evitar el contagio por COVID-19?"
+        },
+        "11": {
+            "spa": "\u00a0En lo posible: quedarse en casa."
+        },
+        "12": {
+            "spa": "Lavarse las manos correctamente."
+        },
+        "13": {
+            "spa": "Usar gel antibacterial."
+        },
+        "14": {
+            "spa": "Utilizar mascarilla."
+        },
+        "15": {
+            "spa": "Cubrirse la cara al toser y estornudar."
+        },
+        "16": {
+            "spa": "Evitar tocarse los ojos, nariz y la boca."
+        },
+        "17": {
+            "spa": "Limpiar y desinfectar las compras."
+        },
+        "18": {
+            "spa": "No compartir vaso, ni utensilios personales."
+        },
+        "19": {
+            "spa": "Procurar mantener 2 metros de distancia entre uno y los d\u00e9mas."
+        },
+        "20": {
+            "spa": "Evita dar la mano, mejor saluda de lejos o codo con codo."
+        },
+        "21": {
+            "spa": "Al llegar del trabajo, desecha la mascarilla; coloca aparte la ropa, b\u00e1\u00f1ate y ponte ropa limpia."
+        },
+        "22": {
+            "spa": "Luego coloca la ropa en detergente, procede a lavarla y tenderla para que est\u00e9 limpia."
+        },
+        "23": {
+            "eng": "",
+            "spa": ""
+        },
+        "24": {
+            "eng": "",
+            "spa": ""
+        }
+    },
+    "bookText": {
+        "eng": "\n\n\n\n\nSignante LESSA: Edwin Molina\nGrabaci\u00f3n y editora: Lisseth Amaya\nIlustrador: Teofilo Padilla\nSubtitulaci\u00f3n: Oneyda Aguilar\n\nAgradecemos a los generosos donantes que hicieron posible este proyecto.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "spa": "\u00bfC\u00f3mo evitar el contagio por COVID-19?\n\n\n\n\u00bfC\u00f3mo evitar el contagio por COVID-19?\n\n\n\n\n\n\u00bfC\u00f3mo evitar el contagio por COVID-19?\n\u00a0En lo posible: quedarse en casa.\nLavarse las manos correctamente.\nUsar gel antibacterial.\nUtilizar mascarilla.\nCubrirse la cara al toser y estornudar.\nEvitar tocarse los ojos, nariz y la boca.\nLimpiar y desinfectar las compras.\nNo compartir vaso, ni utensilios personales.\nProcurar mantener 2 metros de distancia entre uno y los d\u00e9mas.\nEvita dar la mano, mejor saluda de lejos o codo con codo.\nAl llegar del trabajo, desecha la mascarilla; coloca aparte la ropa, b\u00e1\u00f1ate y ponte ropa limpia.\nLuego coloca la ropa en detergente, procede a lavarla y tenderla para que est\u00e9 limpia.\n\n"
+    },
+    "brandingProjectName": "Local-Community",
+    "contentLanguages": [
+        "spa",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2021, Fundaci\u00f3n para el Desarrollo Integral de la Persona Sorda",
+    "country": "El Salvador",
+    "credits": "",
+    "district": "",
+    "features": [
+        "signLanguage",
+        "signLanguage:esn",
+        "video"
+    ],
+    "folio": false,
+    "imported-book-source-url": null,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "JHlSJTrEqE"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "L5o89HLV0w"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "Spanish",
+        "hds": "Honduran Sign Language"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "originalPublisher": "",
+    "originalTitle": "C\u00f3mo evitar el contagio por COVID-19",
+    "page-number-style": "Decimal",
+    "pageCount": 19,
+    "phashOfFirstContentImage": null,
+    "province": "San Salvador",
+    "publisher": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "\u00bfC\u00f3mo evitar el contagio por COVID-19?",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

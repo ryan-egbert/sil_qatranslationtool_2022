@@ -1,0 +1,810 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "92118500-86f9-41f0-8d39-a42548d5d325",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "\u0393ef Avirus n Kuruna",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"zgh\":\"\u0393ef Avirus n Kuruna\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,726d708d-535e-47af-8905-ce6e5e0d745c",
+  "downloadSource": "robert_waliaula@sil.org/92118500-86f9-41f0-8d39-a42548d5d325",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": "",
+  "copyright": "Copyright \u00a9 2020, SIL International",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "8eEpwx8kue"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Libya",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "UhFOsv8SK8"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    },
+    {
+      "name": "imageDescription",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "imageDescriptionTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "es": "Spanish",
+    "zgh": "Tamazight of Infusen region"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "es": "Sobre el Coronavirus",
+    "zgh": "\u0393ef Avirus n Kuruna",
+    "en": "About Coronavirus"
+  },
+  "2": {
+    "es": "Sobre el Coronavirus",
+    "zgh": "\u0393ef Avirus n Kuruna",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "es": "Sobre el Coronavirus",
+    "zgh": "\u0393ef Avirus n Kuruna",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "es": "Sobre el Coronavirus",
+    "zgh": "\u0393ef Avirus n Kuruna",
+    "en": "About Coronavirus"
+  },
+  "11": {
+    "zgh": "",
+    "en": ""
+  },
+  "12": {
+    "zgh": "",
+    "en": ""
+  },
+  "13": {
+    "zgh": "Dis t\u0263awsa I\u011e\u011eET a bac at-takzed \u0263ef mammek Avirus n kuruna",
+    "en": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+  },
+  "14": {
+    "zgh": "Dis t\u0263awsa I\u011e\u011eET a bac at-takzed \u0263ef mammek Avirus n kuruna",
+    "en": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+  },
+  "15": {
+    "zgh": "ITTCENTEL",
+    "en": "SPREADS"
+  },
+  "16": {
+    "zgh": "ITTCENTEL",
+    "en": "SPREADS"
+  },
+  "17": {
+    "zgh": "Imi nnem/k",
+    "en": "Mouth"
+  },
+  "18": {
+    "zgh": "Imi nnem/k",
+    "en": "Mouth"
+  },
+  "19": {
+    "zgh": "Tinzert nnem/k",
+    "en": "Nose"
+  },
+  "20": {
+    "zgh": "Tinzert nnem/k",
+    "en": "Nose"
+  },
+  "21": {
+    "zgh": "Ti\u1e6d\u1e6dawin nnem/k",
+    "en": "Eyes"
+  },
+  "22": {
+    "zgh": "Ti\u1e6d\u1e6dawin nnem/k",
+    "en": "Eyes"
+  },
+  "23": {
+    "zgh": "Ittawwa\u1e6d g",
+    "en": "Get into your"
+  },
+  "24": {
+    "zgh": "Ittawwa\u1e6d g",
+    "en": "Get into your"
+  },
+  "25": {
+    "zgh": "Bnadem d A\u1e63bi\u1e25",
+    "en": "Healthy Person"
+  },
+  "26": {
+    "zgh": "Bnadem d A\u1e63bi\u1e25",
+    "en": "Healthy Person"
+  },
+  "27": {
+    "zgh": "Bnadem d Ama\u1e6dun",
+    "en": "Sick Person"
+  },
+  "28": {
+    "zgh": "Bnadem d Ama\u1e6dun",
+    "en": "Sick Person"
+  },
+  "29": {
+    "zgh": "Avirus ittcentel lemmi yella g tnuzzut(Tikuffa)",
+    "en": "The virus spreads when \ufeffthese droplets"
+  },
+  "30": {
+    "zgh": "Avirus ittcentel lemmi yella g tnuzzut(Tikuffa)",
+    "en": "The virus spreads when \ufeffthese droplets"
+  },
+  "31": {
+    "zgh": "\u011e\u011f jar-am/k ag n 2 miter",
+    "en": "Keep your distance.\ufeff2m will keep you safe from large droplets."
+  },
+  "32": {
+    "zgh": "\u011e\u011f jar-am/k ag n 2 miter",
+    "en": "Keep your distance.\ufeff2m will keep you safe from large droplets."
+  },
+  "33": {
+    "zgh": "1",
+    "en": "1"
+  },
+  "34": {
+    "zgh": "1",
+    "en": "1"
+  },
+  "35": {
+    "zgh": "2 miter",
+    "en": "2m"
+  },
+  "36": {
+    "zgh": "2 miter",
+    "en": "2m"
+  },
+  "37": {
+    "zgh": "Attsu !",
+    "en": "Achoo!"
+  },
+  "38": {
+    "zgh": "Attsu !",
+    "en": "Achoo!"
+  },
+  "39": {
+    "zgh": "Lemmi ad tte\u1e93r-d i\u011f\u011fen/t ittban-d fellas akutti/anuzzi/d ma\u1e6d\u1e6dun ttnejjm-d :",
+    "en": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+  },
+  "40": {
+    "zgh": "Lemmi ad tte\u1e93r-d i\u011f\u011fen/t ittban-d fellas akutti/anuzzi/d ma\u1e6d\u1e6dun ttnejjm-d :",
+    "en": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+  },
+  "41": {
+    "zgh": "Uc-as a Tamaskt. T/inejjem sis at/ykutt \u0263en at/yenzzu dis d wel a\u1e6durri i\u1e6dnin \u0263er dis-nnes",
+    "en": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby."
+  },
+  "42": {
+    "zgh": "Uc-as a Tamaskt. T/inejjem sis at/ykutt \u0263en at/yenzzu dis d wel a\u1e6durri i\u1e6dnin \u0263er dis-nnes",
+    "en": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby."
+  },
+  "43": {
+    "zgh": "2",
+    "en": "2"
+  },
+  "44": {
+    "zgh": "2",
+    "en": "2"
+  },
+  "45": {
+    "zgh": "Tanemmirt a *ti\u1e25i\u1e6d\u1e6da*",
+    "en": "Thank you\ufeff*sniffles*"
+  },
+  "46": {
+    "zgh": "Tanemmirt a *ti\u1e25i\u1e6d\u1e6da*",
+    "en": "Thank you\ufeff*sniffles*"
+  },
+  "47": {
+    "zgh": "\u0393EN",
+    "en": "OR,"
+  },
+  "48": {
+    "zgh": "\u0393EN",
+    "en": "OR,"
+  },
+  "49": {
+    "zgh": "Waqila nettat ca ttma\u1e6dunt, \u0263er terra labl f yiman nnes",
+    "en": "Maybe she's not sick, just protecting herself"
+  },
+  "50": {
+    "zgh": "Waqila nettat ca ttma\u1e6dunt, \u0263er terra labl f yiman nnes",
+    "en": "Maybe she's not sick, just protecting herself"
+  },
+  "51": {
+    "zgh": "Iwdan lli u\u1e6d\u1e6dnen wel ittban-d dis a\u1e6d\u1e6dan, welyuc ttsawa\u1e6den gwa\u1e6d\u1e6dan",
+    "en": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+  },
+  "52": {
+    "zgh": "Iwdan lli u\u1e6d\u1e6dnen wel ittban-d dis a\u1e6d\u1e6dan, welyuc ttsawa\u1e6den gwa\u1e6d\u1e6dan",
+    "en": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+  },
+  "53": {
+    "zgh": "D rni fellas, taktit tezz\u025bam\u00a0 ac seg agejlu\u1e6d (guda n iwdan), ma\u0263er wel tessn-d mant dis t/yella t/yu\u1e6den.",
+    "en": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+  },
+  "54": {
+    "zgh": "D rni fellas, taktit tezz\u025bam\u00a0 ac seg agejlu\u1e6d (guda n iwdan), ma\u0263er wel tessn-d mant dis t/yella t/yu\u1e6den.",
+    "en": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+  },
+  "55": {
+    "zgh": "Tiqecqac",
+    "en": "Chopsticks"
+  },
+  "56": {
+    "zgh": "Tiqecqac",
+    "en": "Chopsticks"
+  },
+  "57": {
+    "zgh": "Bnadem d A\u1e63bi\u1e25",
+    "en": "Healthy person"
+  },
+  "58": {
+    "zgh": "Bnadem d A\u1e63bi\u1e25",
+    "en": "Healthy person"
+  },
+  "59": {
+    "zgh": "Tiddriwin n Cmendfir",
+    "en": "Train straps"
+  },
+  "60": {
+    "zgh": "Tiddriwin n Cmendfir",
+    "en": "Train straps"
+  },
+  "61": {
+    "zgh": "Usensir",
+    "en": "Lift buttons"
+  },
+  "62": {
+    "zgh": "Usensir",
+    "en": "Lift buttons"
+  },
+  "63": {
+    "zgh": "Lklineks",
+    "en": "Tissues"
+  },
+  "64": {
+    "zgh": "Lklineks",
+    "en": "Tissues"
+  },
+  "65": {
+    "zgh": "\u1e6c\u1e6dwasi (Aqbuc)",
+    "en": "Cups"
+  },
+  "66": {
+    "zgh": "\u1e6c\u1e6dwasi (Aqbuc)",
+    "en": "Cups"
+  },
+  "67": {
+    "zgh": "Allal Um\u1e0din",
+    "en": "Digital devices"
+  },
+  "68": {
+    "zgh": "Allal Um\u1e0din",
+    "en": "Digital devices"
+  },
+  "69": {
+    "zgh": "D rrni I lli yella berra n tamaskt nnem/k",
+    "en": "& even on the outside of your face mask"
+  },
+  "70": {
+    "zgh": "D rrni I lli yella berra n tamaskt nnem/k",
+    "en": "& even on the outside of your face mask"
+  },
+  "71": {
+    "zgh": "Tidderiwin",
+    "en": "Stair bannisters"
+  },
+  "72": {
+    "zgh": "Tidderiwin",
+    "en": "Stair bannisters"
+  },
+  "73": {
+    "zgh": "Tafekrunt (Aselkim)",
+    "en": "Mouse"
+  },
+  "74": {
+    "zgh": "Tafekrunt (Aselkim)",
+    "en": "Mouse"
+  },
+  "75": {
+    "zgh": "I\u0263unab",
+    "en": "Pens"
+  },
+  "76": {
+    "zgh": "I\u0263unab",
+    "en": "Pens"
+  },
+  "77": {
+    "zgh": "Fus n tawwurt",
+    "en": "Door knobs"
+  },
+  "78": {
+    "zgh": "Fus n tawwurt",
+    "en": "Door knobs"
+  },
+  "79": {
+    "zgh": "Ifassen nnes",
+    "en": "Their hands"
+  },
+  "80": {
+    "zgh": "Ifassen nnes",
+    "en": "Their hands"
+  },
+  "81": {
+    "zgh": "Dis mak, itt\u1e63ara d Ama\u1e0dun s tikufsa nnes tassnt-d f ti\u0263awsiwin\u2026",
+    "en": "However, sometimes a sick person's saliva can get on other things\u2026"
+  },
+  "82": {
+    "zgh": "Dis mak, itt\u1e63ara d Ama\u1e0dun s tikufsa nnes tassnt-d f ti\u0263awsiwin\u2026",
+    "en": "However, sometimes a sick person's saliva can get on other things\u2026"
+  },
+  "83": {
+    "zgh": "Waqil ad tta\u1e6dnum ukkul nnwen\\t",
+    "en": "you might all fall sick."
+  },
+  "84": {
+    "zgh": "Waqil ad tta\u1e6dnum ukkul nnwen\\t",
+    "en": "you might all fall sick."
+  },
+  "85": {
+    "zgh": "\u0263en f udem n tayri nnem/k",
+    "en": "or your loved one's face"
+  },
+  "86": {
+    "zgh": "\u0263en f udem n tayri nnem/k",
+    "en": "or your loved one's face"
+  },
+  "87": {
+    "zgh": "A\u1e25ukki n ti\u1e6d\u1e6dawin",
+    "en": "rub eyes"
+  },
+  "88": {
+    "zgh": "A\u1e25ukki n ti\u1e6d\u1e6dawin",
+    "en": "rub eyes"
+  },
+  "89": {
+    "zgh": "i\u1e63ar d ttmuss-d seg ti\u0263awsiwin tidhat saht, d sdeffr-as ttmused udem nnem/k,",
+    "en": "And if you do touch any of these things by accident, and then touch your face,"
+  },
+  "90": {
+    "zgh": "i\u1e63ar d ttmuss-d seg ti\u0263awsiwin tidhat saht, d sdeffr-as ttmused udem nnem/k,",
+    "en": "And if you do touch any of these things by accident, and then touch your face,"
+  },
+  "91": {
+    "zgh": "D t\u0263awsa\u00a0 i\u011f\u011fet tnejjem aten-tesfe\u1e0d s usired nnes s \u1e63\u1e63abun, tasemellalt, \u0263en i\u0263isem.",
+    "en": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+  },
+  "92": {
+    "zgh": "D t\u0263awsa\u00a0 i\u011f\u011fet tnejjem aten-tesfe\u1e0d s usired nnes s \u1e63\u1e63abun, tasemellalt, \u0263en i\u0263isem.",
+    "en": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+  },
+  "93": {
+    "zgh": "Virus inejjem itteqqima yella f t\u0263awsa\u00a0 ugar timirt",
+    "en": "Viruses can last for quite a few hours on objects,"
+  },
+  "94": {
+    "zgh": "Virus inejjem itteqqima yella f t\u0263awsa\u00a0 ugar timirt",
+    "en": "Viruses can last for quite a few hours on objects,"
+  },
+  "95": {
+    "zgh": "\u1e62\u1e63abun",
+    "en": "soap"
+  },
+  "96": {
+    "zgh": "\u1e62\u1e63abun",
+    "en": "soap"
+  },
+  "97": {
+    "zgh": "Irray n Lbal",
+    "en": "precautions"
+  },
+  "98": {
+    "zgh": "Irray n Lbal",
+    "en": "precautions"
+  },
+  "99": {
+    "zgh": "D ayed i matta d tasbi\u1e25t ta\u1e0dfrawt tad",
+    "en": "Which is why it is also good to follow these"
+  },
+  "100": {
+    "zgh": "D ayed i matta d tasbi\u1e25t ta\u1e0dfrawt tad",
+    "en": "Which is why it is also good to follow these"
+  },
+  "101": {
+    "zgh": "Ssird s \u1e63\u1e63abun al ti\u0263mert",
+    "en": "wash with soap up to here"
+  },
+  "102": {
+    "zgh": "Ssird s \u1e63\u1e63abun al ti\u0263mert",
+    "en": "wash with soap up to here"
+  },
+  "103": {
+    "zgh": "\u1e63\u1e63abun",
+    "en": "soap"
+  },
+  "104": {
+    "zgh": "\u1e63\u1e63abun",
+    "en": "soap"
+  },
+  "105": {
+    "zgh": "ti\u0263mert",
+    "en": "elbow"
+  },
+  "106": {
+    "zgh": "ti\u0263mert",
+    "en": "elbow"
+  },
+  "107": {
+    "zgh": "Ttmusset-c udem nnem/k (\u0263en udem \u1e25ad i\u1e6den) wel dis-c mammek, ssird-t ifassen nnem/k s \u1e63\u1e63abun s Tane\u1e6d\u1e6duft.",
+    "en": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+  },
+  "108": {
+    "zgh": "Ttmusset-c udem nnem/k (\u0263en udem \u1e25ad i\u1e6den) wel dis-c mammek, ssird-t ifassen nnem/k s \u1e63\u1e63abun s Tane\u1e6d\u1e6duft.",
+    "en": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+  },
+  "109": {
+    "zgh": "Gget n lu\u0263ed i yinig \u201cTafaska n ulul \u201c sent tikwal",
+    "en": "Enough time to sing \u201cHappy Birthday\u201d twice"
+  },
+  "110": {
+    "zgh": "Gget n lu\u0263ed i yinig \u201cTafaska n ulul \u201c sent tikwal",
+    "en": "Enough time to sing \u201cHappy Birthday\u201d twice"
+  },
+  "111": {
+    "zgh": "S addu iccaren",
+    "en": "under the nails"
+  },
+  "112": {
+    "zgh": "S addu iccaren",
+    "en": "under the nails"
+  },
+  "113": {
+    "zgh": "Ag 20 tisinin",
+    "en": "for 20 seconds"
+  },
+  "114": {
+    "zgh": "Ag 20 tisinin",
+    "en": "for 20 seconds"
+  },
+  "115": {
+    "zgh": "Jar i\u1e6du\u1e6dan",
+    "en": "between the fingers"
+  },
+  "116": {
+    "zgh": "Jar i\u1e6du\u1e6dan",
+    "en": "between the fingers"
+  },
+  "117": {
+    "zgh": "Ssird s denneg fus nnem/k",
+    "en": "wash the back of your hands"
+  },
+  "118": {
+    "zgh": "Ssird s denneg fus nnem/k",
+    "en": "wash the back of your hands"
+  },
+  "119": {
+    "zgh": "Matta nettat Tane\u1e6d\u1e6duft ?",
+    "en": "What is thoroughly?"
+  },
+  "120": {
+    "zgh": "Matta nettat Tane\u1e6d\u1e6duft ?",
+    "en": "What is thoroughly?"
+  },
+  "121": {
+    "zgh": "Wel ttqeqet-c kan i\u1e63ar ttmuss-tt. S deffer ssird ifassen nnem/k s \u1e63\u1e63abun",
+    "en": "If you did, don't worry. Just wash your hands with soap after."
+  },
+  "122": {
+    "zgh": "Wel ttqeqet-c kan i\u1e63ar ttmuss-tt. S deffer ssird ifassen nnem/k s \u1e63\u1e63abun",
+    "en": "If you did, don't worry. Just wash your hands with soap after."
+  },
+  "123": {
+    "zgh": "Rrni fellas, ukan dis mammek wel at-tmussd tamaskt s fus.",
+    "en": "Also, don't touch the outside of the mask if you can."
+  },
+  "124": {
+    "zgh": "Rrni fellas, ukan dis mammek wel at-tmussd tamaskt s fus.",
+    "en": "Also, don't touch the outside of the mask if you can."
+  },
+  "125": {
+    "zgh": "tanuzzut",
+    "en": "droplets"
+  },
+  "126": {
+    "zgh": "tanuzzut",
+    "en": "droplets"
+  },
+  "127": {
+    "zgh": "Tabaktirit ttekker jaj g tamaskt nnem/k lemmi at-tir\u1e6dd sis guda.",
+    "en": "*Bacteria grows on the insides of your mask if you wear them too long"
+  },
+  "128": {
+    "zgh": "Tabaktirit ttekker jaj g tamaskt nnem/k lemmi at-tir\u1e6dd sis guda.",
+    "en": "*Bacteria grows on the insides of your mask if you wear them too long"
+  },
+  "129": {
+    "zgh": "Zzref-tt kull tamaskt lemmi at-semdid sis. Wel at-tir\u1e6dd ugar i\u011f\u011fewass !",
+    "en": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+  },
+  "130": {
+    "zgh": "Zzref-tt kull tamaskt lemmi at-semdid sis. Wel at-tir\u1e6dd ugar i\u011f\u011fewass !",
+    "en": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+  },
+  "131": {
+    "zgh": "Ig s u\u0263enjay",
+    "en": "Use a serving spoon"
+  },
+  "132": {
+    "zgh": "Ig s u\u0263enjay",
+    "en": "Use a serving spoon"
+  },
+  "133": {
+    "zgh": "Ane\u025bnuc",
+    "en": "Baby"
+  },
+  "134": {
+    "zgh": "Ane\u025bnuc",
+    "en": "Baby"
+  },
+  "135": {
+    "zgh": "Baba",
+    "en": "Daddy"
+  },
+  "136": {
+    "zgh": "Baba",
+    "en": "Daddy"
+  },
+  "137": {
+    "zgh": "Yemma",
+    "en": "Mommy"
+  },
+  "138": {
+    "zgh": "Yemma",
+    "en": "Mommy"
+  },
+  "139": {
+    "zgh": "Kull i\u011f\u011fen\\t s lfu\u1e6det nnes",
+    "en": "Everyone gets their own towel"
+  },
+  "140": {
+    "zgh": "Kull i\u011f\u011fen\\t s lfu\u1e6det nnes",
+    "en": "Everyone gets their own towel"
+  },
+  "141": {
+    "zgh": "Wel ttnemili-d s U\u010d\u010du, Tirukan , \u1e6c\u1e6dwasi(Aqbuc), Lleffe\u1e6d.",
+    "en": "Do not share food, utensils, cups, towels."
+  },
+  "142": {
+    "zgh": "Wel ttnemili-d s U\u010d\u010du, Tirukan , \u1e6c\u1e6dwasi(Aqbuc), Lleffe\u1e6d.",
+    "en": "Do not share food, utensils, cups, towels."
+  },
+  "143": {
+    "zgh": "Wel tzemmr-d at-tmusd udem nnem/k s ti\u0263mert nnem/k",
+    "en": "You can't touch your face with your elbow even if you tried"
+  },
+  "144": {
+    "zgh": "Wel tzemmr-d at-tmusd udem nnem/k s ti\u0263mert nnem/k",
+    "en": "You can't touch your face with your elbow even if you tried"
+  },
+  "145": {
+    "zgh": "Arr d aqqes tiwwura s ti\u0263mert \u0263en i\u0263il muc s ifassen, ukan dis mammek.",
+    "en": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+  },
+  "146": {
+    "zgh": "Arr d aqqes tiwwura s ti\u0263mert \u0263en i\u0263il muc s ifassen, ukan dis mammek.",
+    "en": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+  },
+  "147": {
+    "zgh": "Taddart",
+    "en": "Home"
+  },
+  "148": {
+    "zgh": "Taddart",
+    "en": "Home"
+  },
+  "149": {
+    "zgh": "D lemmi\u00a0 tissi-d berra g u\u0263lad",
+    "en": "and after being out in the public"
+  },
+  "150": {
+    "zgh": "D lemmi\u00a0 tissi-d berra g u\u0263lad",
+    "en": "and after being out in the public"
+  },
+  "151": {
+    "zgh": "Qbel u\u010d\u010du",
+    "en": "Before you eat"
+  },
+  "152": {
+    "zgh": "Qbel u\u010d\u010du",
+    "en": "Before you eat"
+  },
+  "153": {
+    "zgh": "Ssird-t ifassen nnwen s \u1e62\u1e63abun\u2026",
+    "en": "Always wash your hands with soap\u2026"
+  },
+  "154": {
+    "zgh": "Ssird-t ifassen nnwen s \u1e62\u1e63abun\u2026",
+    "en": "Always wash your hands with soap\u2026"
+  },
+  "155": {
+    "zgh": "G uneggaru",
+    "en": "And finally,"
+  },
+  "156": {
+    "zgh": "G uneggaru",
+    "en": "And finally,"
+  },
+  "157": {
+    "zgh": "\u1e62\u1e63abun",
+    "en": "soap"
+  },
+  "158": {
+    "zgh": "\u1e62\u1e63abun",
+    "en": "soap"
+  },
+  "159": {
+    "zgh": "Rret Lbal nnwen/t !",
+    "en": "Stay safe, everyone!"
+  },
+  "160": {
+    "zgh": "Rret Lbal nnwen/t !",
+    "en": "Stay safe, everyone!"
+  },
+  "161": {
+    "zgh": "Rret Lbal nnwen/t !",
+    "en": "Stay safe, everyone!"
+  },
+  "162": {
+    "zgh": "Rret Lbal nnwen/t !",
+    "en": "Stay safe, everyone!"
+  },
+  "163": {
+    "zgh": "\u1e62\u1e63abun",
+    "en": "soap"
+  },
+  "164": {
+    "zgh": "\u1e62\u1e63abun",
+    "en": "soap"
+  },
+  "165": {
+    "zgh": "\u0393\u0263er imegrad i ugar isemtar !",
+    "en": "Read the articles for more tips!"
+  },
+  "166": {
+    "zgh": "\u0393\u0263er imegrad i ugar isemtar !",
+    "en": "Read the articles for more tips!"
+  },
+  "167": {
+    "zgh": "\u0393\u0263er imegrad i ugar isemtar !",
+    "en": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "168": {
+    "zgh": "\u0393\u0263er imegrad i ugar isemtar !",
+    "en": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "169": {
+    "zgh": "\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report. (Jan 25, 2020)",
+    "en": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "170": {
+    "zgh": "\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report. (Jan 25, 2020)",
+    "en": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "171": {
+    "zgh": "\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion. \u00a0(Jan 28,2020)",
+    "en": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020"
+  },
+  "172": {
+    "zgh": "\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion. \u00a0(Jan 28,2020)",
+    "en": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020"
+  },
+  "173": {
+    "zgh": "Tamsel\u0263ut tadasilant i taywalt tadawsant:",
+    "en": "Main references for medical info:"
+  },
+  "174": {
+    "zgh": "Tamsel\u0263ut tadasilant i taywalt tadawsant:",
+    "en": "Main references for medical info:"
+  },
+  "175": {
+    "zgh": "",
+    "en": ""
+  },
+  "176": {
+    "zgh": "",
+    "en": ""
+  },
+  "177": {
+    "zgh": "3)g uskar uqqin, ari isem n umeslal g FB s @weimankowart, g IG s @weimankow (IG), \u0263en ari iqqin\\asmel instagramcom/weimankow I usemres i\u1e6den, enki tabra\u1e6dt i:comicsforgood@gmail.com",
+    "en": "\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+  },
+  "178": {
+    "zgh": "3)g uskar uqqin, ari isem n umeslal g FB s @weimankowart, g IG s @weimankow (IG), \u0263en ari iqqin\\asmel instagramcom/weimankow I usemres i\u1e6den, enki tabra\u1e6dt i:comicsforgood@gmail.com",
+    "en": "\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+  },
+  "180": {
+    "es": "Sobre el Coronavirus",
+    "zgh": "\u0393ef Avirus n Kuruna",
+    "en": "About Coronavirus"
+  },
+  "181": {
+    "es": "Sobre el Coronavirus",
+    "zgh": "\u0393ef Avirus n Kuruna",
+    "en": "About Coronavirus"
+  },
+  "182": {
+    "es": "Sobre el Coronavirus",
+    "zgh": "\u0393ef Avirus n Kuruna",
+    "en": "About Coronavirus"
+  },
+  "183": {
+    "es": "Sobre el Coronavirus",
+    "zgh": "\u0393ef Avirus n Kuruna",
+    "en": "About Coronavirus"
+  },
+  "186": {
+    "en": "Image on page 19 by SIL LEAD, Inc.. CC0 1.0."
+  },
+  "191": {
+    "en": "Translators: Madghis Bouzakhar & Houda Khzam"
+  },
+  "194": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

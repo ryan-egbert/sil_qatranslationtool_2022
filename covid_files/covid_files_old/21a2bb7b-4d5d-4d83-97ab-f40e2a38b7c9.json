@@ -1,0 +1,650 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "21a2bb7b-4d5d-4d83-97ab-f40e2a38b7c9",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Nj\u025bm\u025b mot a w\u025bl di bagh\u025b dit\u025b\u014bg\u025bn dulagh dya CORONAVIRUS na COVID-19",
+  "allTitles": "{\"bwt\":\"Nj\u025bm\u025b mot a w\u025bl di bagh\u025b dit\u025b\u014bg\u025bn dulagh dya CORONAVIRUS na COVID-19\",\"en\":\"What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\",\"fr\":\"Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,4797e2a5-bc4f-48a0-b988-e10ff8deb4bc,5ac3444b-2397-4a3e-ac07-9e4aeaf757b4",
+  "downloadSource": "morgane_soudrain@cabtal.org/21a2bb7b-4d5d-4d83-97ab-f40e2a38b7c9",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2020, CABTAL",
+  "credits": "\r\nAll pictures belong to CABTAL, except\r\np.2 belongs to Pixabay\r\np.6 (butcher) and p.7 (crowd) belong to Wikimedia Commons\r\np.7 (people watching TV) belongs to United Nations (Photo # 616869 UN Photo/Marco Dormino)\r\n\r\nCABTAL Contacts\r\n\r\nWeb : www.cabtal.org\r\nMail : info_cabtal@cabtal.org\r\n\r\nTel : (237) 699 833 535\r\nWhatsApp : (237) 654 439 659\r\n\r\nP. O. Box: 16 550 Yaound\u00e9, Cameroon",
+  "tags": [],
+  "pageCount": 15,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "ZpnpbYERWV"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "Coronavirus COVID-19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Cameroon",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "1xBKlzBnBB"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "es": "Spanish",
+    "en": "Anglais",
+    "fr": "French",
+    "bwt": "Balong language"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "bwt": "",
+    "en": "COVID-19"
+  },
+  "2": {
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "bwt": "",
+    "en": "COVID-19"
+  },
+  "3": {
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "bwt": "",
+    "en": "COVID-19"
+  },
+  "4": {
+    "bwt": "",
+    "z": "",
+    "en": ""
+  },
+  "5": {
+    "bwt": "",
+    "z": "",
+    "en": ""
+  },
+  "6": {
+    "bwt": "",
+    "z": "",
+    "en": ""
+  },
+  "8": {
+    "bwt": "Cameroon Association for Bible Translation and Literacy",
+    "en": "Bible Translation and Literacy"
+  },
+  "9": {
+    "bwt": "Cameroon Association for Bible Translation and Literacy",
+    "en": "Bible Translation and Literacy"
+  },
+  "13": {
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "bwt": "",
+    "en": "COVID-19"
+  },
+  "14": {
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "bwt": "",
+    "en": "COVID-19"
+  },
+  "15": {
+    "fr": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+    "bwt": "",
+    "en": "COVID-19"
+  },
+  "18": {
+    "en": "https://www.who.int/home"
+  },
+  "26": {
+    "en": "P. O. Box: 16 550 Yaound\u00e9, Cameroon"
+  },
+  "29": {
+    "bwt": "",
+    "en": ""
+  },
+  "30": {
+    "bwt": "",
+    "en": ""
+  },
+  "31": {
+    "bwt": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 NJ\u0190M\u0190 MOT A W\u0190L",
+    "en": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY"
+  },
+  "32": {
+    "bwt": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 NJ\u0190M\u0190 MOT A W\u0190L",
+    "en": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY"
+  },
+  "33": {
+    "bwt": "- Nj\u025bm\u025b \u0254 fiti di bol, na \u0254 w\u025bl dulagh dinu",
+    "en": "",
+    "z": ""
+  },
+  "34": {
+    "bwt": "- Nj\u025bm\u025b \u0254 fiti di bol, na \u0254 w\u025bl dulagh dinu",
+    "en": "",
+    "z": ""
+  },
+  "35": {
+    "bwt": "- Nj\u025bm\u025b \u0254 fiti di bol, na \u0254 w\u025bl dulagh dinu",
+    "en": "",
+    "z": ""
+  },
+  "36": {
+    "bwt": "",
+    "en": ""
+  },
+  "37": {
+    "bwt": "",
+    "en": ""
+  },
+  "38": {
+    "bwt": "",
+    "en": ""
+  },
+  "39": {
+    "bwt": "",
+    "en": ""
+  },
+  "40": {
+    "bwt": "",
+    "en": ""
+  },
+  "41": {
+    "bwt": "",
+    "en": ""
+  },
+  "42": {
+    "bwt": "",
+    "en": "p.8"
+  },
+  "43": {
+    "bwt": "",
+    "en": "p.8"
+  },
+  "44": {
+    "bwt": "Dulagh m\u025bn di w\u025bl \u025by\u025bmblan ya \u025bkosi na \u025bbomb t\u025b di fiti di y\u025blan mot \u0254 mujumb mwa mudimb. Dulagh m\u025bn di ma kaw\u025bn \u0254 miki jita mya mika mwase. Bibotedi bya dulagh din wan di\u00a0 si bil\u025bni.",
+    "en": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+    "z": ""
+  },
+  "45": {
+    "bwt": "Dulagh m\u025bn di w\u025bl \u025by\u025bmblan ya \u025bkosi na \u025bbomb t\u025b di fiti di y\u025blan mot \u0254 mujumb mwa mudimb. Dulagh m\u025bn di ma kaw\u025bn \u0254 miki jita mya mika mwase. Bibotedi bya dulagh din wan di\u00a0 si bil\u025bni.",
+    "en": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+    "z": ""
+  },
+  "46": {
+    "bwt": "Dulagh m\u025bn di w\u025bl \u025by\u025bmblan ya \u025bkosi na \u025bbomb t\u025b di fiti di y\u025blan mot \u0254 mujumb mwa mudimb. Dulagh m\u025bn di ma kaw\u025bn \u0254 miki jita mya mika mwase. Bibotedi bya dulagh din wan di\u00a0 si bil\u025bni.",
+    "en": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+    "z": ""
+  },
+  "47": {
+    "bwt": "",
+    "en": ""
+  },
+  "48": {
+    "bwt": "",
+    "en": ""
+  },
+  "49": {
+    "bwt": "",
+    "en": ""
+  },
+  "50": {
+    "bwt": "",
+    "en": ""
+  },
+  "51": {
+    "bwt": "Mot a ma jind",
+    "en": "Elderly person"
+  },
+  "52": {
+    "bwt": "Mot a ma jind",
+    "en": "Elderly person"
+  },
+  "53": {
+    "bwt": "",
+    "en": ""
+  },
+  "54": {
+    "bwt": "",
+    "en": ""
+  },
+  "55": {
+    "bwt": "Mot wa a w\u025bl dulagh dya mul\u025bm",
+    "en": "Person with a heart condition or disease"
+  },
+  "56": {
+    "bwt": "Mot wa a w\u025bl dulagh dya mul\u025bm",
+    "en": "Person with a heart condition or disease"
+  },
+  "57": {
+    "bwt": "Bat ba ma jind, na\u00a0 bat ba ba ma w\u025bl mulagh na si dulagh dyo \u0254 s\u0254 so p\u025bmi l\u025b, na dulagh dya fikpa na dulagh dya mul\u025bm, na dulagh dya maki ma kundil \u0254 molo mwa mot m\u0254 ma befi jita na ma tani dulkagh dibey din dya ba fi\u014bgil na coronavirus.",
+    "en": "People of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+    "z": ""
+  },
+  "58": {
+    "bwt": "Bat ba ma jind, na\u00a0 bat ba ba ma w\u025bl mulagh na si dulagh dyo \u0254 s\u0254 so p\u025bmi l\u025b, na dulagh dya fikpa na dulagh dya mul\u025bm, na dulagh dya maki ma kundil \u0254 molo mwa mot m\u0254 ma befi jita na ma tani dulkagh dibey din dya ba fi\u014bgil na coronavirus.",
+    "en": "People of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+    "z": ""
+  },
+  "59": {
+    "bwt": "Bat ba ma jind, na\u00a0 bat ba ba ma w\u025bl mulagh na si dulagh dyo \u0254 s\u0254 so p\u025bmi l\u025b, na dulagh dya fikpa na dulagh dya mul\u025bm, na dulagh dya maki ma kundil \u0254 molo mwa mot m\u0254 ma befi jita na ma tani dulkagh dibey din dya ba fi\u014bgil na coronavirus.",
+    "en": "People of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+    "z": ""
+  },
+  "60": {
+    "bwt": "",
+    "en": ""
+  },
+  "61": {
+    "bwt": "",
+    "en": ""
+  },
+  "62": {
+    "bwt": "",
+    "en": ""
+  },
+  "63": {
+    "bwt": "",
+    "en": ""
+  },
+  "64": {
+    "bwt": "-Di j\u025b dya nyol",
+    "en": "Fatigue"
+  },
+  "65": {
+    "bwt": "-Di j\u025b dya nyol",
+    "en": "Fatigue"
+  },
+  "66": {
+    "bwt": "",
+    "en": ""
+  },
+  "67": {
+    "bwt": "",
+    "en": ""
+  },
+  "68": {
+    "bwt": "-Ekosi ya \u025bf\u025bgh\u025bsi-Missis mya mya wa",
+    "en": "Muscle aches and pains"
+  },
+  "69": {
+    "bwt": "-Ekosi ya \u025bf\u025bgh\u025bsi-Missis mya mya wa",
+    "en": "Muscle aches and pains"
+  },
+  "70": {
+    "bwt": "Do\u014bgo dya bat ba w\u025bl mulagh ba w\u025bl buwa, na \u025bbomb ya etigh mot \u0254 dyo, na \u025bbom ya ese f\u025bgh\u025bs. Na buwa bwa etogha ngom. Na dinya dibi dya maki. Ditu dya bat ko kana ba ma w\u025bl dulagh m\u025bn, ba si w\u025bl ey\u025bmblan nde ba y\u0254 l\u025b. Ditu ba\u0301 pu esiba na ba bolan mel.",
+    "en": "The symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+    "z": ""
+  },
+  "71": {
+    "bwt": "Do\u014bgo dya bat ba w\u025bl mulagh ba w\u025bl buwa, na \u025bbomb ya etigh mot \u0254 dyo, na \u025bbom ya ese f\u025bgh\u025bs. Na buwa bwa etogha ngom. Na dinya dibi dya maki. Ditu dya bat ko kana ba ma w\u025bl dulagh m\u025bn, ba si w\u025bl ey\u025bmblan nde ba y\u0254 l\u025b. Ditu ba\u0301 pu esiba na ba bolan mel.",
+    "en": "The symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+    "z": ""
+  },
+  "72": {
+    "bwt": "Do\u014bgo dya bat ba w\u025bl mulagh ba w\u025bl buwa, na \u025bbomb ya etigh mot \u0254 dyo, na \u025bbom ya ese f\u025bgh\u025bs. Na buwa bwa etogha ngom. Na dinya dibi dya maki. Ditu dya bat ko kana ba ma w\u025bl dulagh m\u025bn, ba si w\u025bl ey\u025bmblan nde ba y\u0254 l\u025b. Ditu ba\u0301 pu esiba na ba bolan mel.",
+    "en": "The symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+    "z": ""
+  },
+  "73": {
+    "bwt": "",
+    "en": ""
+  },
+  "74": {
+    "bwt": "",
+    "en": ""
+  },
+  "75": {
+    "bwt": "Mot na ekosi",
+    "en": "Person with a cough"
+  },
+  "76": {
+    "bwt": "Mot na ekosi",
+    "en": "Person with a cough"
+  },
+  "77": {
+    "bwt": "Na mot a n\u0254\u014bg \u025bfu ya mot am koso ekosi, ko di simi dulagh dinu difit di wali mot m\u025bn. Na mot a myeti yom ya dualgh di ma bandam w\u0254, t\u025b a my\u025bti mi\u030cs \u025bmaw\u025b, dyo \u025bdyaw\u025b ko mujum \u025bmwaw\u025b, dulagh dinu di fiti di wali m\u0254.",
+    "en": "COVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+    "z": ""
+  },
+  "78": {
+    "bwt": "Na mot a n\u0254\u014bg \u025bfu ya mot am koso ekosi, ko di simi dulagh dinu difit di wali mot m\u025bn. Na mot a myeti yom ya dualgh di ma bandam w\u0254, t\u025b a my\u025bti mi\u030cs \u025bmaw\u025b, dyo \u025bdyaw\u025b ko mujum \u025bmwaw\u025b, dulagh dinu di fiti di wali m\u0254.",
+    "en": "COVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+    "z": ""
+  },
+  "79": {
+    "bwt": "Na mot a n\u0254\u014bg \u025bfu ya mot am koso ekosi, ko di simi dulagh dinu difit di wali mot m\u025bn. Na mot a myeti yom ya dualgh di ma bandam w\u0254, t\u025b a my\u025bti mi\u030cs \u025bmaw\u025b, dyo \u025bdyaw\u025b ko mujum \u025bmwaw\u025b, dulagh dinu di fiti di wali m\u0254.",
+    "en": "COVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+    "z": ""
+  },
+  "80": {
+    "bwt": "",
+    "en": ""
+  },
+  "81": {
+    "bwt": "",
+    "en": ""
+  },
+  "82": {
+    "bwt": "",
+    "en": ""
+  },
+  "83": {
+    "bwt": "",
+    "en": ""
+  },
+  "84": {
+    "bwt": "",
+    "en": ""
+  },
+  "85": {
+    "bwt": "",
+    "en": ""
+  },
+  "86": {
+    "bwt": "",
+    "en": ""
+  },
+  "87": {
+    "bwt": "",
+    "en": ""
+  },
+  "88": {
+    "bwt": "Wa\u014bgo \u0254 fiti di komb\u025bn nyol \u025byaw\u025b",
+    "en": "How to protect yourself"
+  },
+  "89": {
+    "bwt": "Wa\u014bgo \u0254 fiti di komb\u025bn nyol \u025byaw\u025b",
+    "en": "How to protect yourself"
+  },
+  "90": {
+    "bwt": "",
+    "en": "1. Avoid touching eyes, nose, mouth.",
+    "z": ""
+  },
+  "91": {
+    "bwt": "",
+    "en": "1. Avoid touching eyes, nose, mouth.",
+    "z": ""
+  },
+  "92": {
+    "bwt": "",
+    "en": "1. Avoid touching eyes, nose, mouth.",
+    "z": ""
+  },
+  "93": {
+    "bwt": "",
+    "en": ""
+  },
+  "94": {
+    "bwt": "",
+    "en": ""
+  },
+  "95": {
+    "bwt": "2. Yofo maka bite\u0301 na bite\u0301, na s\u0254pi na mali ma ma yagha, t\u025b \u0254 tiso na tahili ya esa\u014bgi.",
+    "en": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel."
+  },
+  "96": {
+    "bwt": "2. Yofo maka bite\u0301 na bite\u0301, na s\u0254pi na mali ma ma yagha, t\u025b \u0254 tiso na tahili ya esa\u014bgi.",
+    "en": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel."
+  },
+  "97": {
+    "bwt": "",
+    "en": ""
+  },
+  "98": {
+    "bwt": "",
+    "en": ""
+  },
+  "99": {
+    "bwt": "3. \u0186 koso na di simi \u0254 \u025bpapagh \u025byaw\u025b.",
+    "en": ""
+  },
+  "100": {
+    "bwt": "3. \u0186 koso na di simi \u0254 \u025bpapagh \u025byaw\u025b.",
+    "en": ""
+  },
+  "101": {
+    "bwt": "",
+    "en": ""
+  },
+  "102": {
+    "bwt": "",
+    "en": ""
+  },
+  "103": {
+    "bwt": "4. Bol na osi dya nyam \u025bpe\u0301yn na di myeti biy\u025bmb\u025b bya bi y\u0254 lo\u014bg\u025b.",
+    "en": "4. Avoid eating raw meat and touching live animals."
+  },
+  "104": {
+    "bwt": "4. Bol na osi dya nyam \u025bpe\u0301yn na di myeti biy\u025bmb\u025b bya bi y\u0254 lo\u014bg\u025b.",
+    "en": "4. Avoid eating raw meat and touching live animals."
+  },
+  "105": {
+    "bwt": "",
+    "en": ""
+  },
+  "106": {
+    "bwt": "",
+    "en": ""
+  },
+  "107": {
+    "bwt": "",
+    "en": ""
+  },
+  "108": {
+    "bwt": "",
+    "en": ""
+  },
+  "109": {
+    "bwt": "",
+    "en": ""
+  },
+  "110": {
+    "bwt": "",
+    "en": ""
+  },
+  "111": {
+    "bwt": "",
+    "en": ""
+  },
+  "112": {
+    "bwt": "",
+    "en": ""
+  },
+  "113": {
+    "bwt": "",
+    "en": "",
+    "z": ""
+  },
+  "114": {
+    "bwt": "",
+    "en": "",
+    "z": ""
+  },
+  "115": {
+    "bwt": "",
+    "en": "",
+    "z": ""
+  },
+  "116": {
+    "bwt": "",
+    "en": ""
+  },
+  "117": {
+    "bwt": "",
+    "en": ""
+  },
+  "118": {
+    "bwt": "",
+    "en": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting."
+  },
+  "119": {
+    "bwt": "",
+    "en": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting."
+  },
+  "120": {
+    "bwt": "",
+    "en": ""
+  },
+  "121": {
+    "bwt": "",
+    "en": ""
+  },
+  "122": {
+    "bwt": "7. Si si y\u025blagh \u0254 matan.",
+    "en": ""
+  },
+  "123": {
+    "bwt": "7. Si si y\u025blagh \u0254 matan.",
+    "en": ""
+  },
+  "124": {
+    "bwt": "",
+    "en": ""
+  },
+  "125": {
+    "bwt": "",
+    "en": ""
+  },
+  "126": {
+    "bwt": "8. Si mima fumfogh si si k\u025bnd\u025b k\u025bnd\u025b.",
+    "en": "8. Restrict movement."
+  },
+  "127": {
+    "bwt": "8. Si mima fumfogh si si k\u025bnd\u025b k\u025bnd\u025b.",
+    "en": "8. Restrict movement."
+  },
+  "128": {
+    "bwt": "",
+    "en": ""
+  },
+  "129": {
+    "bwt": "",
+    "en": ""
+  },
+  "130": {
+    "bwt": "9. Si k\u025bg si bagh\u025b na di waso mya\u014bgo mya mya fu dit\u025b\u014bg\u025bn coronavirus.",
+    "en": "9. Keep informed and verify the source of information."
+  },
+  "131": {
+    "bwt": "9. Si k\u025bg si bagh\u025b na di waso mya\u014bgo mya mya fu dit\u025b\u014bg\u025bn coronavirus.",
+    "en": "9. Keep informed and verify the source of information."
+  },
+  "132": {
+    "bwt": "\u0186 fi\u014bgil mis\u0254\u014bgi min wan:",
+    "en": "- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+    "z": ""
+  },
+  "133": {
+    "bwt": "\u0186 fi\u014bgil mis\u0254\u014bgi min wan:",
+    "en": "- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+    "z": ""
+  },
+  "134": {
+    "bwt": "\u0186 fi\u014bgil mis\u0254\u014bgi min wan:",
+    "en": "- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+    "z": ""
+  },
+  "135": {
+    "bwt": "",
+    "en": ""
+  },
+  "136": {
+    "bwt": "",
+    "en": ""
+  },
+  "137": {
+    "bwt": "670 713\u00a0979",
+    "en": "670 713\u00a0979"
+  },
+  "138": {
+    "bwt": "670 713\u00a0979",
+    "en": "670 713\u00a0979"
+  },
+  "139": {
+    "bwt": "",
+    "en": ""
+  },
+  "140": {
+    "bwt": "",
+    "en": ""
+  },
+  "141": {
+    "bwt": "670 113\u00a0761",
+    "en": "670 113\u00a0761"
+  },
+  "142": {
+    "bwt": "670 113\u00a0761",
+    "en": "670 113\u00a0761"
+  },
+  "143": {
+    "bwt": "",
+    "en": ""
+  },
+  "144": {
+    "bwt": "",
+    "en": ""
+  },
+  "145": {
+    "bwt": "Mot musus a w\u025bl di n\u0254\u014bg jangam\u025bn \u0254 di tati nyol \u025byaw\u025b na dulagh di bey din na bat b aba vuten m\u0254 ni di si wali b\u0254.",
+    "en": "Everyone must be responsible and take the right steps to protect themselves and those around them."
+  },
+  "146": {
+    "bwt": "Mot musus a w\u025bl di n\u0254\u014bg jangam\u025bn \u0254 di tati nyol \u025byaw\u025b na dulagh di bey din na bat b aba vuten m\u0254 ni di si wali b\u0254.",
+    "en": "Everyone must be responsible and take the right steps to protect themselves and those around them."
+  },
+  "147": {
+    "bwt": "",
+    "en": "Vulnerable: defenseless, exposed",
+    "z": ""
+  },
+  "148": {
+    "bwt": "",
+    "en": "Vulnerable: defenseless, exposed",
+    "z": ""
+  },
+  "149": {
+    "bwt": "",
+    "en": "Vulnerable: defenseless, exposed",
+    "z": ""
+  },
+  "153": {
+    "en": ""
+  }
+}

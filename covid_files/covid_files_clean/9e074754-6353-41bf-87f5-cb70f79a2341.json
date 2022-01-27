@@ -1,0 +1,365 @@
+{
+    "allTitles": "{\"en\":\"Coronavirus\",\"es\":\"\u00bf Que es Coronavirus?\",\"qub\":\"\u00bfImataj Coronavirus?\"}",
+    "author": null,
+    "bookInstanceId": "9e074754-6353-41bf-87f5-cb70f79a2341",
+    "bookLineage": "24bf2f90-8fb5-46bf-b1e4-611ca3e3a8bd",
+    "bookSamples": {
+        "0": {
+            "eng": "Coronavirus",
+            "ind": "",
+            "qub": "\u00bfImataj Coronavirus?",
+            "spa": "\u00bf Que es Coronavirus?",
+            "und": ""
+        },
+        "1": {
+            "qub": "",
+            "spa": ""
+        },
+        "2": {
+            "qub": "",
+            "spa": ""
+        },
+        "3": {
+            "qub": ""
+        },
+        "4": {
+            "qub": "Chay gueshya imano jogukushantapis\ntantiyakuy"
+        },
+        "5": {
+            "qub": ""
+        },
+        "6": {
+            "qub": "shimikiman"
+        },
+        "7": {
+            "qub": "sengaykiman"
+        },
+        "8": {
+            "qub": "\u00f1awikiman"
+        },
+        "9": {
+            "qub": ""
+        },
+        "10": {
+            "qub": "s\u00e4nu\nruna"
+        },
+        "11": {
+            "qub": "gueshyaykaj\nruna"
+        },
+        "12": {
+            "qub": "Chay gueshya jogucun gueshyaycajpa lausan ichicllapis chayashuptiqui."
+        },
+        "13": {
+            "qub": "Karullaman witikuy. Togaynin mana chayashunaykipaj ishkay metruch\u00f6na kankiman."
+        },
+        "14": {
+            "qub": ""
+        },
+        "15": {
+            "qub": ""
+        },
+        "16": {
+            "qub": ""
+        },
+        "17": {
+            "qub": "Juc runa gueshyaykajta, gosuykajta u wishgaykajta rikar kayno rurankiman:"
+        },
+        "18": {
+            "qub": "Shimi chapakunata goy. Chaura chay runaga gosur y wishgar jukta mana joguchinganachu."
+        },
+        "19": {
+            "qub": ""
+        },
+        "20": {
+            "qub": ""
+        },
+        "21": {
+            "qub": "Kayn\u00f6pis rurankiman"
+        },
+        "22": {
+            "qub": "Capas payga gueshya jogunanta mana munar chapakuykan."
+        },
+        "23": {
+            "qub": "Wakinga gueshyaykashan mana musyakanchu. Ichanga gueshyata joguchishunqui."
+        },
+        "24": {
+            "qub": "Chaymi ama aywashunchu achka runakuna kaykashanman. Mana musyanchichu maygan gueshyaycashanta."
+        },
+        "25": {
+            "qub": "matikunaman\nkashpikunaman"
+        },
+        "26": {
+            "qub": "s\u00e4nu runakunaman"
+        },
+        "27": {
+            "qub": "charikuna k\u00f6sakunaman"
+        },
+        "28": {
+            "qub": "botonkunaman"
+        },
+        "29": {
+            "qub": "mandilkuman"
+        },
+        "30": {
+            "qub": ""
+        },
+        "31": {
+            "qub": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 celularman,\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 computadoraman,"
+        },
+        "32": {
+            "qub": "shimita chapakuna jananmanpis chayanmanmi."
+        },
+        "33": {
+            "qub": "barandakuman"
+        },
+        "34": {
+            "qub": "mouse\nnishanman"
+        },
+        "35": {
+            "qub": "lapikerukunaman"
+        },
+        "36": {
+            "qub": "charikunaman\n"
+        },
+        "37": {
+            "qub": "makiman"
+        },
+        "38": {
+            "qub": "Ayb\u00ebsi gueshyaykaj runapa lausan chayanman kaykunaman:"
+        },
+        "39": {
+            "qub": "llapanmi gueshyanman."
+        },
+        "40": {
+            "qub": "familiyaykita yatar"
+        },
+        "41": {
+            "qub": "\u00f1awikita yataptiki"
+        },
+        "42": {
+            "qub": "Chay k\u00f6sakunta mana musyaypa yatarkur shimikita yataptiki..."
+        },
+        "43": {
+            "qub": "Chay gueshyataga wa\u00f1uchinki jabunwan mayllar u alcohol nishanwan kupakur."
+        },
+        "44": {
+            "qub": "Chay gueshyaga achka h\u00f6rami k\u00f6sakuna janancho kawan."
+        },
+        "45": {
+            "qub": ""
+        },
+        "46": {
+            "qub": "k\u00f6sata ruray."
+        },
+        "47": {
+            "qub": "Mana jogushunaykipaj kay"
+        },
+        "48": {
+            "qub": "jabunwan mayllakuy."
+        },
+        "49": {
+            "qub": "jabon"
+        },
+        "50": {
+            "qub": "kukushnikitapis"
+        },
+        "51": {
+            "qub": "K\u00e4raykita ama yataychu, ni jukpatapis. Yatakuyta munarga sumajraj makikita mayllakuy."
+        },
+        "52": {
+            "qub": "kantapallapa may-\u00f6ra makinchita mayllashun."
+        },
+        "53": {
+            "qub": "shillutapis sumaj mayllashun"
+        },
+        "54": {
+            "qub": ""
+        },
+        "55": {
+            "qub": "d\u00ebdu kallashkunatapis sumaj kupashun."
+        },
+        "56": {
+            "qub": "maki guepanta mayllashun"
+        },
+        "57": {
+            "qub": "\u00bfIman\u00f6taj makinchita sumaj mayllakushun?"
+        },
+        "58": {
+            "qub": "Yatar-imarga makikita sumaj mayllakuy."
+        },
+        "59": {
+            "qub": "Shimikita chapashayki janantaga ama yataychu."
+        },
+        "60": {
+            "qub": ""
+        },
+        "61": {
+            "qub": "Achka junaj chayllata charaptikiga chay chapakuna gueshyata ruriman yaykuchinmanmi."
+        },
+        "62": {
+            "qub": "Shimikita chapakushayki ganra kaptinnaga bas\u00fcraman jitariy. Juc junajllami \u00fcsankiman."
+        },
+        "63": {
+            "qub": "Garanaykipaj juc kucharon kachun."
+        },
+        "64": {
+            "qub": ""
+        },
+        "65": {
+            "qub": ""
+        },
+        "66": {
+            "qub": ""
+        },
+        "67": {
+            "qub": "Kada \u00fcnuykipa kachun toallayki."
+        },
+        "68": {
+            "qub": "Jukwan ama ma\u00f1anakuychu cucharata, pusilluta. n\u00ef toallatapis."
+        },
+        "69": {
+            "qub": "Kukushnikiwanga manami k\u00e4raykita yatayta kam\u00e4pakunkichu may-jina munarpis."
+        },
+        "70": {
+            "qub": "Punkuta u ventanata kichay makiwan mana yatayllapa."
+        },
+        "71": {
+            "qub": "wasi"
+        },
+        "72": {
+            "qub": "c\u00e4llipita wasiman kutirir."
+        },
+        "73": {
+            "qub": "manaraj mikur"
+        },
+        "74": {
+            "qub": "Achca jabunwan makikitaga mana gongaypa mayllakuy."
+        },
+        "75": {
+            "qub": ""
+        },
+        "76": {
+            "qub": "Jab\u00f3n"
+        },
+        "77": {
+            "qub": "Kuydakuy\nLlapayki!"
+        },
+        "78": {
+            "qub": "Kuydakuy"
+        },
+        "79": {
+            "qub": ""
+        },
+        "80": {
+            "qub": ""
+        },
+        "81": {
+            "qub": ""
+        },
+        "82": {
+            "qub": ""
+        },
+        "83": {
+            "qub": ""
+        },
+        "84": {
+            "qub": ""
+        },
+        "85": {
+            "qub": "Masllata willaparkushayki: Kaycho willapayk\u00e4shushayki sumajmi yanap\u00e4shunki tukuy gueshya mana jogushunaykipaj: wishga, gosu.\u00a0 Waran-waran mayllakushun gueshya mana kaptinpis.\nKay willakuy casha COVID19 gueshyapita 28 de febrerukama musyashantami."
+        },
+        "86": {
+            "eng": "Coronavirus",
+            "ind": "",
+            "qub": "\u00bfImataj Coronavirus?",
+            "spa": "\u00bf Que es Coronavirus?",
+            "und": ""
+        },
+        "87": {
+            "qub": "",
+            "spa": "Im\u00e1genes en las p\u00e1ginas Tapa, 1\u201318 por Weiman Kou, \u00a9 2020 Weiman Kou. CC BY-NC-SA 4.0.\nImagen en la p\u00e1gina 19 por SIL LEAD, Inc.. CC0 1.0."
+        },
+        "88": {
+            "qub": "",
+            "spa": ""
+        },
+        "89": {
+            "qub": "",
+            "spa": "Traducido por Pacha Waray"
+        },
+        "90": {
+            "qub": "",
+            "spa": "Created by Weiman Kow, instagram: weimankow"
+        },
+        "91": {
+            "qub": "",
+            "spa": ""
+        },
+        "92": {
+            "qub": "",
+            "spa": ""
+        },
+        "93": {
+            "qub": "",
+            "spa": ""
+        },
+        "94": {
+            "qub": "",
+            "spa": ""
+        }
+    },
+    "bookText": {
+        "eng": "Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCoronavirus\n\n\n\n\n\n\n\n",
+        "qub": "\u00bfImataj Coronavirus?\n\n\n\nChay gueshya imano jogukushantapis\ntantiyakuy\n\nshimikiman\nsengaykiman\n\u00f1awikiman\n\ns\u00e4nu\nruna\ngueshyaykaj\nruna\nChay gueshya jogucun gueshyaycajpa lausan ichicllapis chayashuptiqui.\nKarullaman witikuy. Togaynin mana chayashunaykipaj ishkay metruch\u00f6na kankiman.\n\n\n\nJuc runa gueshyaykajta, gosuykajta u wishgaykajta rikar kayno rurankiman:\nShimi chapakunata goy. Chaura chay runaga gosur y wishgar jukta mana joguchinganachu.\n\n\nKayn\u00f6pis rurankiman\nCapas payga gueshya jogunanta mana munar chapakuykan.\nWakinga gueshyaykashan mana musyakanchu. Ichanga gueshyata joguchishunqui.\nChaymi ama aywashunchu achka runakuna kaykashanman. Mana musyanchichu maygan gueshyaycashanta.\nmatikunaman\nkashpikunaman\ns\u00e4nu runakunaman\ncharikuna k\u00f6sakunaman\nbotonkunaman\nmandilkuman\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 celularman,\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 computadoraman,\nshimita chapakuna jananmanpis chayanmanmi.\nbarandakuman\nmouse\nnishanman\nlapikerukunaman\ncharikunaman\n\nmakiman\nAyb\u00ebsi gueshyaykaj runapa lausan chayanman kaykunaman:\nllapanmi gueshyanman.\nfamiliyaykita yatar\n\u00f1awikita yataptiki\nChay k\u00f6sakunta mana musyaypa yatarkur shimikita yataptiki...\nChay gueshyataga wa\u00f1uchinki jabunwan mayllar u alcohol nishanwan kupakur.\nChay gueshyaga achka h\u00f6rami k\u00f6sakuna janancho kawan.\n\nk\u00f6sata ruray.\nMana jogushunaykipaj kay\njabunwan mayllakuy.\njabon\nkukushnikitapis\nK\u00e4raykita ama yataychu, ni jukpatapis. Yatakuyta munarga sumajraj makikita mayllakuy.\nkantapallapa may-\u00f6ra makinchita mayllashun.\nshillutapis sumaj mayllashun\n\nd\u00ebdu kallashkunatapis sumaj kupashun.\nmaki guepanta mayllashun\n\u00bfIman\u00f6taj makinchita sumaj mayllakushun?\nYatar-imarga makikita sumaj mayllakuy.\nShimikita chapashayki janantaga ama yataychu.\n\nAchka junaj chayllata charaptikiga chay chapakuna gueshyata ruriman yaykuchinmanmi.\nShimikita chapakushayki ganra kaptinnaga bas\u00fcraman jitariy. Juc junajllami \u00fcsankiman.\nGaranaykipaj juc kucharon kachun.\n\n\n\nKada \u00fcnuykipa kachun toallayki.\nJukwan ama ma\u00f1anakuychu cucharata, pusilluta. n\u00ef toallatapis.\nKukushnikiwanga manami k\u00e4raykita yatayta kam\u00e4pakunkichu may-jina munarpis.\nPunkuta u ventanata kichay makiwan mana yatayllapa.\nwasi\nc\u00e4llipita wasiman kutirir.\nmanaraj mikur\nAchca jabunwan makikitaga mana gongaypa mayllakuy.\n\nJab\u00f3n\nKuydakuy\nLlapayki!\nKuydakuy\n\n\n\n\n\n\nMasllata willaparkushayki: Kaycho willapayk\u00e4shushayki sumajmi yanap\u00e4shunki tukuy gueshya mana jogushunaykipaj: wishga, gosu.\u00a0 Waran-waran mayllakushun gueshya mana kaptinpis.\nKay willakuy casha COVID19 gueshyapita 28 de febrerukama musyashantami.\n\u00bfImataj Coronavirus?\n\n\n\n\n\n\n\n",
+        "spa": "\u00bf Que es Coronavirus?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00bf Que es Coronavirus?\nIm\u00e1genes en las p\u00e1ginas Tapa, 1\u201318 por Weiman Kou, \u00a9 2020 Weiman Kou. CC BY-NC-SA 4.0.\nImagen en la p\u00e1gina 19 por SIL LEAD, Inc.. CC0 1.0.\n\nTraducido por Pacha Waray\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "qub",
+        "spa",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow 2020",
+    "country": "Peru",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "HUANUCO",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "SWDj2BkUYU"
+        }
+    ],
+    "language-display-names": {
+        "en": "Ingl\u00e9s",
+        "es": "espa\u00f1ol",
+        "qub": "QUECHUA HUALLAGA"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Do not change the text of this work, but you may translate it, adapt it into other forms, and distribute it for non-commerical purposes. You must keep the copyrights and credits for the author and illustrator Weiman Kow.",
+    "originalPublisher": null,
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "HUANUCO",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Este libro informa sobre el coronavius COVID19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "\u00bfImataj Coronavirus?",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

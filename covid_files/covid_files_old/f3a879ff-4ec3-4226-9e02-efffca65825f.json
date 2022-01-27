@@ -1,0 +1,369 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "f3a879ff-4ec3-4226-9e02-efffca65825f",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Virusi vya Ugonjwa wa Korona",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"luy\":\"Kamakhuwa ke bulwale bwa Korona\",\"swh\":\"Virusi vya Ugonjwa wa Korona\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "",
+  "downloadSource": "hannah_hudson@sil-lead.org/f3a879ff-4ec3-4226-9e02-efffca65825f",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Usibadilishe maneno yaliyo katika kijitabu hiki, lakini unaweza kukitafsiri, au kukiweka katika hali zingine tofauti, na kukisambaza pasipo faida. Ni lazima umpe haki za kunakilli na kumtambua mwandishi na mchoraji Weiman Kou.",
+  "copyright": "Copyright \u00a9 2020, Weiman Kow",
+  "credits": "Created by Weiman Kow, instagram: weimankow\r\n",
+  "tags": [],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "u5c9kqFWWi"
+    }
+  ],
+  "summary": "This book gives basic advice on dealing with the coronavirus COVID-19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "W0oKDlSCmk"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "swh": "Swahili"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "2": {
+    "luy": "Kamakhuwa ke bulwale bwa Korona",
+    "swh": "Virusi vya Ugonjwa wa Korona",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "luy": "Kamakhuwa ke bulwale bwa Korona",
+    "swh": "Virusi vya Ugonjwa wa Korona",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "luy": "Kamakhuwa ke bulwale bwa Korona",
+    "swh": "Virusi vya Ugonjwa wa Korona",
+    "en": "About Coronavirus"
+  },
+  "5": {
+    "luy": "Kamakhuwa ke bulwale bwa Korona",
+    "swh": "Virusi vya Ugonjwa wa Korona",
+    "en": "About Coronavirus"
+  },
+  "9": {
+    "swh": "Toleo hili lilitafsiriwa na Timothy G. Kamau"
+  },
+  "10": {
+    "swh": ""
+  },
+  "11": {
+    "swh": "Kuna jambo MOJA tu unalopaswa kuelewa juu ya jinsi virusi vya Korona"
+  },
+  "12": {
+    "swh": "VINAVYOSAMBAA"
+  },
+  "13": {
+    "swh": "Mdomoni"
+  },
+  "14": {
+    "swh": "Puani"
+  },
+  "15": {
+    "swh": "Machoni"
+  },
+  "16": {
+    "swh": "Vinapokuingia"
+  },
+  "17": {
+    "swh": "Mtu mwenye Afya"
+  },
+  "18": {
+    "swh": "Mgonjwa wa Korona"
+  },
+  "19": {
+    "swh": "Virusi hivi vinasambaa wakati vitone hivi vya mate"
+  },
+  "20": {
+    "swh": "Kwenda mbali. Ukiwa umbali wa mita 2 hutafikiwa na vitone vikubwa vya mate.\u00a0 \u00a0\u00a0\u00a0"
+  },
+  "21": {
+    "swh": "1"
+  },
+  "22": {
+    "swh": "Mita 2"
+  },
+  "23": {
+    "swh": "Achoo!"
+  },
+  "24": {
+    "swh": ""
+  },
+  "25": {
+    "swh": "Wape barakoa. Waweze kukoholea au kuendea chafya na kuwakinga wote walio karibu"
+  },
+  "26": {
+    "swh": "2"
+  },
+  "27": {
+    "swh": "Vitone vya *kamasi*"
+  },
+  "28": {
+    "swh": "AU,"
+  },
+  "29": {
+    "swh": "Pengine yeye si mgonjwa, anajikinga tu"
+  },
+  "30": {
+    "swh": "Watu wenye virusi huenda wasionyeshe ishara zozote, lakini bado wanaweza kuvisambaza"
+  },
+  "31": {
+    "swh": "Kwa jumla, ni wazo bora kuepuka umati wa watu, maana huwezi kujua kama kuna mtu mgonjwa."
+  },
+  "32": {
+    "swh": ""
+  },
+  "33": {
+    "swh": "Mtu mwenye afya"
+  },
+  "34": {
+    "swh": "Vishikilio vya gari"
+  },
+  "35": {
+    "swh": ""
+  },
+  "36": {
+    "swh": ""
+  },
+  "37": {
+    "swh": ""
+  },
+  "38": {
+    "swh": ""
+  },
+  "39": {
+    "swh": ""
+  },
+  "40": {
+    "swh": "Kingo za ngazi"
+  },
+  "41": {
+    "swh": ""
+  },
+  "42": {
+    "swh": "Kalamu"
+  },
+  "43": {
+    "swh": ""
+  },
+  "44": {
+    "swh": ""
+  },
+  "45": {
+    "swh": "Isitoshe, huenda mate ya mtu mgonjwa yakawa kwenye vitu vingine \u2026\u00a0"
+  },
+  "46": {
+    "swh": ""
+  },
+  "47": {
+    "swh": ""
+  },
+  "48": {
+    "swh": ""
+  },
+  "49": {
+    "swh": "Ukigusa mojawapo wa vitu hivi kwa bahati mbaya, kisha ujiguse uso,\u00a0"
+  },
+  "50": {
+    "swh": "na njia ya kipekee iliyo bora kuviondoa ni kuviosha kwa sabuni, dawa ya klorini, au kileo. \u00a0"
+  },
+  "51": {
+    "swh": "Virusi vinaweza kukaa saa kadhaa juu ya vifaa,"
+  },
+  "52": {
+    "swh": "Sabuni"
+  },
+  "53": {
+    "swh": ""
+  },
+  "54": {
+    "swh": "Kwa sababu hii ni vizuri pia kuyafuata maelekezo haya"
+  },
+  "55": {
+    "swh": "Oga kwa \ufeffsabuni hadi hapa"
+  },
+  "56": {
+    "swh": ""
+  },
+  "57": {
+    "swh": "Kisugudi"
+  },
+  "58": {
+    "swh": "Usijiguse uso. (Au uuguse uso wa mtu mwingine yeyote.) Iwapo ni lazima ujiguse, kwanza ioshe mikono yako kabisa kwa sabuni."
+  },
+  "59": {
+    "swh": ""
+  },
+  "60": {
+    "swh": ""
+  },
+  "61": {
+    "swh": ""
+  },
+  "62": {
+    "swh": ""
+  },
+  "63": {
+    "swh": ""
+  },
+  "64": {
+    "swh": "Nini maana ya kuoga kabisa?"
+  },
+  "65": {
+    "swh": "Iwapo umefanya hivyo, usihofu. Nawa mikono yako kwa sabuni hapo baadaye."
+  },
+  "66": {
+    "swh": "Pia, usiguse upande wa nje wa barakoa iwapo utaweza.\u00a0"
+  },
+  "67": {
+    "swh": "vitone vya mate"
+  },
+  "68": {
+    "swh": "*Vijidudu vinavyosababisha magonjwa hukulia ndani ya barakoa unapozivaa kwa muda mrefu"
+  },
+  "69": {
+    "swh": "Zitupe barakoa zinapoanza kuwa nzito. Usizivae kwa zaidi ya siku moja!\u00a0"
+  },
+  "70": {
+    "swh": ""
+  },
+  "71": {
+    "swh": "Mtoto"
+  },
+  "72": {
+    "swh": "Baba"
+  },
+  "73": {
+    "swh": "Mama"
+  },
+  "74": {
+    "swh": ""
+  },
+  "75": {
+    "swh": "Usitumie kwa pamoja vitu kama chakula,vyombo vya jikoni,vikombe,taulo."
+  },
+  "76": {
+    "swh": "Huwezi kuugusa uso wako kwa kisugudi hata ukijaribu"
+  },
+  "77": {
+    "swh": "Fungua na funga milango kwa kutumia kisugudi au bega badala ya mikono, inapowezekana."
+  },
+  "78": {
+    "swh": "Nyumbani"
+  },
+  "79": {
+    "swh": ""
+  },
+  "80": {
+    "swh": ""
+  },
+  "81": {
+    "swh": "Kila wakati nawa mikono yako ukitumia sabuni \u2026"
+  },
+  "82": {
+    "swh": ""
+  },
+  "83": {
+    "swh": "Sabuni"
+  },
+  "84": {
+    "swh": ""
+  },
+  "85": {
+    "swh": ""
+  },
+  "86": {
+    "swh": "Sabuni"
+  },
+  "87": {
+    "swh": ""
+  },
+  "88": {
+    "swh": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, \ufeffin Business Insider (Jan 21, 2020)"
+  },
+  "89": {
+    "swh": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. \ufeff(Jan 25, 2020)"
+  },
+  "90": {
+    "swh": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020)"
+  },
+  "91": {
+    "swh": ""
+  },
+  "92": {
+    "swh": "Wakati unapowapa wengine kijitabu hiki, tafadhali kumbuka hoja hizi 3: \ufeff1) Hakuna ruhusa kuhariri chochote kwa njia yoyote unapokisambaza. \ufeff2) Vibonzo hivi haviwezi kutumiwa kwa mradi wowote wa kuleta faida. \ufeff3) lwapo unakisambaza kupitia kwa tovuti, weka jina la mwandalizi wa kitabu katika FB kwa kuweka @weimankowart, kwa IG kwa kuweka @weimankow (IG), au hata kuandika linki kwa instagram com/weimankow Kwa matumizi mengineyo yote, tafadhali tuma ombi kwa: comicsforgood@gmail.com"
+  },
+  "95": {
+    "luy": "Kamakhuwa ke bulwale bwa Korona",
+    "swh": "Virusi vya Ugonjwa wa Korona",
+    "en": "About Coronavirus"
+  },
+  "96": {
+    "luy": "Kamakhuwa ke bulwale bwa Korona",
+    "swh": "Virusi vya Ugonjwa wa Korona",
+    "en": "About Coronavirus"
+  },
+  "97": {
+    "luy": "Kamakhuwa ke bulwale bwa Korona",
+    "swh": "Virusi vya Ugonjwa wa Korona",
+    "en": "About Coronavirus"
+  },
+  "98": {
+    "luy": "Kamakhuwa ke bulwale bwa Korona",
+    "swh": "Virusi vya Ugonjwa wa Korona",
+    "en": "About Coronavirus"
+  },
+  "103": {
+    "swh": "Toleo hili lilitafsiriwa na Timothy G. Kamau"
+  },
+  "105": {
+    "swh": ""
+  }
+}

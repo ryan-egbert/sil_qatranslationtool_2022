@@ -1,0 +1,186 @@
+{
+    "allTitles": "{\"en\":\"Avoid COVID-19 (Africa) Poster\"}",
+    "author": null,
+    "bookInstanceId": "86057422-bef9-42b2-b3e9-276c4623b559",
+    "bookLineage": "17848ae4-d76f-4566-9275-b01a0fb16cf4,3d60fcec-f533-4e3b-972e-7110d0b885f5",
+    "bookSamples": {
+        "0": {
+            "arg": "",
+            "eng": "Avoid COVID-19 (Africa) Poster"
+        },
+        "1": {
+            "eng": ""
+        },
+        "2": {
+            "eng": ""
+        },
+        "3": {
+            "eng": ""
+        },
+        "4": {
+            "arg": "",
+            "eng": "Avoid COVID-19 (Africa) Poster"
+        },
+        "5": {
+            "eng": "Illustrations: \u00a0Ari and Elaine Vitikainen Information was taken from WHO websites such as https://www.who.int/emer gencies/diseases/novel-coronavir us-2019/advice-for-public Version 27.3.2020 Literacy for Women in Africa"
+        },
+        "6": {
+            "eng": ""
+        },
+        "7": {
+            "eng": ""
+        },
+        "8": {
+            "eng": "Adapted by Paul Frank from original, Copyright \u00a9 2020, Illustrations by Elaine Vitikainen https://ev-visuals.com/"
+        },
+        "9": {
+            "eng": ""
+        },
+        "10": {
+            "eng": ""
+        },
+        "11": {
+            "eng": "How to Create Posters with this Template"
+        },
+        "12": {
+            "arg": "",
+            "eng": "This template is for creating posters. You add pages that contain only a picture. Then you add text boxes to the page by right-clicking on the image and choosing \"Add Text Box to Image\":"
+        },
+        "13": {
+            "eng": ""
+        },
+        "14": {
+            "eng": ""
+        },
+        "15": {
+            "arg": "",
+            "eng": "Type words into the box. If the box is not big enough, use the mouse to change the size of the box. You can also move the box around the page with the mouse."
+        },
+        "16": {
+            "eng": ""
+        },
+        "17": {
+            "eng": ""
+        },
+        "18": {
+            "eng": ""
+        },
+        "19": {
+            "eng": "Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub."
+        },
+        "20": {
+            "eng": ""
+        },
+        "21": {
+            "eng": ""
+        },
+        "22": {
+            "eng": "Avoid touching eyes, nose and mouth."
+        },
+        "23": {
+            "eng": ""
+        },
+        "24": {
+            "eng": "Avoid Covid-19"
+        },
+        "25": {
+            "eng": ""
+        },
+        "26": {
+            "eng": ""
+        },
+        "27": {
+            "eng": "Maintain 2 meters distance between yourself and others."
+        },
+        "28": {
+            "eng": "Wear a mask in public."
+        },
+        "29": {
+            "eng": ""
+        },
+        "30": {
+            "eng": ""
+        },
+        "31": {
+            "eng": "Stay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider."
+        },
+        "32": {
+            "eng": ""
+        },
+        "33": {
+            "eng": ""
+        },
+        "34": {
+            "eng": ""
+        },
+        "35": {
+            "eng": "Cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose of the used tissue immediately."
+        },
+        "36": {
+            "eng": ""
+        },
+        "37": {
+            "eng": ""
+        },
+        "38": {
+            "eng": ""
+        },
+        "39": {
+            "eng": "Stay home if you feel unwell. If you have fever, cough and difficulty breathing, seek medical attention early."
+        },
+        "40": {
+            "eng": ""
+        },
+        "41": {
+            "eng": ""
+        }
+    },
+    "bookText": {
+        "eng": "Avoid COVID-19 (Africa) Poster\n\n\n\nAvoid COVID-19 (Africa) Poster\nIllustrations: \u00a0Ari and Elaine Vitikainen Information was taken from WHO websites such as https://www.who.int/emer gencies/diseases/novel-coronavir us-2019/advice-for-public Version 27.3.2020 Literacy for Women in Africa\n\n\nAdapted by Paul Frank from original, Copyright \u00a9 2020, Illustrations by Elaine Vitikainen https://ev-visuals.com/\n\n\nHow to Create Posters with this Template\nThis template is for creating posters. You add pages that contain only a picture. Then you add text boxes to the page by right-clicking on the image and choosing \"Add Text Box to Image\":\n\n\nType words into the box. If the box is not big enough, use the mouse to change the size of the box. You can also move the box around the page with the mouse.\n\n\n\nWash your hands regularly with soap and water, or clean them with alcohol-based hand rub.\n\n\nAvoid touching eyes, nose and mouth.\n\nAvoid Covid-19\n\n\nMaintain 2 meters distance between yourself and others.\nWear a mask in public.\n\n\nStay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider.\n\n\n\nCover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose of the used tissue immediately.\n\n\n\nStay home if you feel unwell. If you have fever, cough and difficulty breathing, seek medical attention early.\n\n"
+    },
+    "brandingProjectName": "SIL-LEAD",
+    "contentLanguages": [
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Elaine Vitikainen",
+    "country": "",
+    "credits": "Adapted by Paul Frank from original, Copyright \u00a9 2020, Illustrations by Elaine Vitikainen https://ev-visuals.com/",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "imported-book-source-url": null,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "an": "Aragon\u00e9s",
+        "en": "English"
+    },
+    "languages": [],
+    "license": "cc-by-nc",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "originalTitle": "Avoid COVID-19 (Africa) Poster",
+    "page-number-style": "Decimal",
+    "pageCount": 8,
+    "phashOfFirstContentImage": null,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This is an A3 poster of Elaine Vitikainen's Avoid COVID-19 book (version 2)",
+    "tags": [],
+    "title": "Avoid COVID-19 (Africa) Poster",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

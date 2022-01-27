@@ -1,0 +1,362 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"lbw\":\"Tinamoako pirusu Corona\"}",
+    "author": null,
+    "bookInstanceId": "cd66ddd8-1a06-42fb-b03b-3994feed3018",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lbw": "Tinamoako pirusu Corona",
+            "lts": "",
+            "und": ""
+        },
+        "1": {
+            "eng": "",
+            "lbw": ""
+        },
+        "2": {
+            "eng": "",
+            "lbw": ""
+        },
+        "3": {
+            "lbw": ""
+        },
+        "4": {
+            "lbw": "O'aso'ikaa paparaluu ito'orikee, keno te'embe pirusu Corona nopesaki"
+        },
+        "5": {
+            "lbw": ""
+        },
+        "6": {
+            "lbw": "Pondu"
+        },
+        "7": {
+            "lbw": "Enge"
+        },
+        "8": {
+            "lbw": "Mata"
+        },
+        "9": {
+            "lbw": "pewiso i'une"
+        },
+        "10": {
+            "lbw": "Toono waraka"
+        },
+        "11": {
+            "lbw": "Toono meohaki"
+        },
+        "12": {
+            "lbw": "Pirusu tule'i mesaki keno tepidi ni\u2019ino o'eli"
+        },
+        "13": {
+            "lbw": "Dagai'i polawa.\nInggomiu nggo ama ari ine eli tepidi ronga dagai\u2019i polawa 2m."
+        },
+        "14": {
+            "lbw": "1"
+        },
+        "15": {
+            "lbw": "2m - 0,5m"
+        },
+        "16": {
+            "lbw": "Haaachii!!"
+        },
+        "17": {
+            "lbw": "Dadi, keuponggii toono humongo/te'atiho/meo-haki, inggomiu tule'i:"
+        },
+        "18": {
+            "lbw": "POWEE'IRO MASEKERE.\nDadi, rotule'i te'atiho/humongo i'une masekerero ano tedagai toono ipambahakono."
+        },
+        "19": {
+            "lbw": "2"
+        },
+        "20": {
+            "lbw": "Tarima kasi \u201cSROOT\u201d"
+        },
+        "21": {
+            "lbw": "Bara"
+        },
+        "22": {
+            "lbw": "Ni'ino toono hula ki'oki nolaa meohaki.\nNolaakaa dumagai'i dowono."
+        },
+        "23": {
+            "lbw": "Toono kikinonono, hula ki'oki nonio otanda, mano manasa tule'i nopeposaki hakino."
+        },
+        "24": {
+            "lbw": "Masahoro, nggo me'ambono palili'i maroa'a, te'embe ki'oki uto'orike inae-nae laa meohaki."
+        },
+        "25": {
+            "lbw": "Parewa mbonggaa"
+        },
+        "26": {
+            "lbw": "Toono waraka"
+        },
+        "27": {
+            "lbw": "Pepoindi'ano koreta"
+        },
+        "28": {
+            "lbw": "Petindisi'ano olift"
+        },
+        "29": {
+            "lbw": "Otisu"
+        },
+        "30": {
+            "lbw": "Otonde"
+        },
+        "31": {
+            "lbw": "Parewa digitalo"
+        },
+        "32": {
+            "lbw": "Sambe ine luarano masekere"
+        },
+        "33": {
+            "lbw": "Pepoindi'ano la'usa"
+        },
+        "34": {
+            "lbw": "Mouse"
+        },
+        "35": {
+            "lbw": "Opilo"
+        },
+        "36": {
+            "lbw": "Pepoindi'ano otambo"
+        },
+        "37": {
+            "lbw": "Kaero"
+        },
+        "38": {
+            "lbw": "Mano hendenggiro, tembo-tembo elino toono meohaki tule'i tudai ine ..."
+        },
+        "39": {
+            "lbw": "inggomiu luwuako tule'i meohaki."
+        },
+        "40": {
+            "lbw": "ronga tapura'i toonohako memerambi ihorimiu,"
+        },
+        "41": {
+            "lbw": "mohahi omata"
+        },
+        "42": {
+            "lbw": "Keutaa petu'onggeeki moheu nggiro hapo-hapo'ako, auheu'i tapura'i dowomu,"
+        },
+        "43": {
+            "lbw": "Aso-asono osala pale me'ambo nggo mombokondesia pirusu ieto mewohiki nggae mombake osabu ronga alokoholo."
+        },
+        "44": {
+            "lbw": "Pirusu notule'i mo\u2019ia sambe ruambulo o'omba odaa ine hapo-hapo."
+        },
+        "45": {
+            "lbw": "Osabu"
+        },
+        "46": {
+            "lbw": "peowai mondootondo ilolu ni\u2019ino."
+        },
+        "47": {
+            "lbw": "Ieeto nggiro, me'ambono atowatukee"
+        },
+        "48": {
+            "lbw": "wohiki\u2019i ronga osabu sambe ikeni."
+        },
+        "49": {
+            "lbw": "Osabu"
+        },
+        "50": {
+            "lbw": "Hiku nggae"
+        },
+        "51": {
+            "lbw": "Iamo heu'i tapura'imu. (Iepo tapura\u2019i toonohako.)\nKeno nggo'ie'i, wohiki\u2019i ano moroa le\u2019esu kaehakomiu ronga osabu."
+        },
+        "52": {
+            "lbw": "Hende laa mosusua \u201cHappy Birthday\u201d monggoruo."
+        },
+        "53": {
+            "lbw": "Ilolu ngguku"
+        },
+        "54": {
+            "lbw": "menggauno 20 dete"
+        },
+        "55": {
+            "lbw": "Itonga-tonga wua nggae"
+        },
+        "56": {
+            "lbw": "Mowohiki toruku nggae"
+        },
+        "57": {
+            "lbw": "Te\u2019embe sarano mowohiki okae sambe moroa?"
+        },
+        "58": {
+            "lbw": "Keno niheu, iamo kara, merare pewohiki nggae mombake osabu."
+        },
+        "59": {
+            "lbw": "Iamo heu\u2019i iluarano masekere"
+        },
+        "60": {
+            "lbw": "eli tepidi"
+        },
+        "61": {
+            "lbw": "Huma-huma tulei te\u2019ule ronga toro ine i\u2019une masekere keto pake\u2019i lalo menggau\u2019a."
+        },
+        "62": {
+            "lbw": "Pewuangge masekeremiu keno mokosisito. Iamo pombake masekere pelalo ari aso oleo."
+        },
+        "63": {
+            "lbw": "Pombake siru purorembu"
+        },
+        "64": {
+            "lbw": "Ana"
+        },
+        "65": {
+            "lbw": "Ama"
+        },
+        "66": {
+            "lbw": "Ina"
+        },
+        "67": {
+            "lbw": "Pombake ohandu oka-oka"
+        },
+        "68": {
+            "lbw": "Iamo pombake meronga-ronga\nkinaa, parewa mbonggaa, otonde, ronga ohandu."
+        },
+        "69": {
+            "lbw": "Ki\u2019oki utulei humeu\u2019i tapura\u2019imu ronga hiku dowomu, ara-ara\u2019itokaa."
+        },
+        "70": {
+            "lbw": "Keno tule'i, hunggai ronga tutu\u2019i otambo mombake ohiku bara obose."
+        },
+        "71": {
+            "lbw": "Laika"
+        },
+        "72": {
+            "lbw": "Keu'ari peluarako ari ilaika"
+        },
+        "73": {
+            "lbw": "Taahori monggaa"
+        },
+        "74": {
+            "lbw": "Wohiki'i laulau kaemu mombake osabu..."
+        },
+        "75": {
+            "lbw": "Pondutu,"
+        },
+        "76": {
+            "lbw": "Osabu"
+        },
+        "77": {
+            "lbw": "Dagai'i waraka\u2019a!"
+        },
+        "78": {
+            "lbw": "Dagai'i waraka\u2019a!"
+        },
+        "79": {
+            "lbw": "Osabu"
+        },
+        "80": {
+            "lbw": "Basa'i sara-sara suere ine boobo iwawo."
+        },
+        "81": {
+            "lbw": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "lbw": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+        },
+        "83": {
+            "lbw": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "lbw": "Boobo me'ambo ine waraka'a:"
+        },
+        "85": {
+            "lbw": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "lbw": "Tinamoako pirusu Corona",
+            "lts": "",
+            "und": ""
+        },
+        "87": {
+            "eng": "",
+            "lbw": ""
+        },
+        "88": {
+            "eng": "Diterjemahkan ke dalam Bahasa Tolaki oleh\nDr. Tambunan, M.Hum. dan Untung, S.S., M.Pd.",
+            "lbw": ""
+        },
+        "89": {
+            "eng": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org",
+            "lbw": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "lbw": ""
+        },
+        "91": {
+            "eng": "",
+            "lbw": ""
+        },
+        "92": {
+            "eng": "",
+            "lbw": ""
+        },
+        "93": {
+            "eng": "",
+            "lbw": ""
+        },
+        "94": {
+            "eng": "",
+            "lbw": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nDiterjemahkan ke dalam Bahasa Tolaki oleh\nDr. Tambunan, M.Hum. dan Untung, S.S., M.Pd.\nVersi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "lbw": "Tinamoako pirusu Corona\n\n\n\nO'aso'ikaa paparaluu ito'orikee, keno te'embe pirusu Corona nopesaki\n\nPondu\nEnge\nMata\npewiso i'une\nToono waraka\nToono meohaki\nPirusu tule'i mesaki keno tepidi ni\u2019ino o'eli\nDagai'i polawa.\nInggomiu nggo ama ari ine eli tepidi ronga dagai\u2019i polawa 2m.\n1\n2m - 0,5m\nHaaachii!!\nDadi, keuponggii toono humongo/te'atiho/meo-haki, inggomiu tule'i:\nPOWEE'IRO MASEKERE.\nDadi, rotule'i te'atiho/humongo i'une masekerero ano tedagai toono ipambahakono.\n2\nTarima kasi \u201cSROOT\u201d\nBara\nNi'ino toono hula ki'oki nolaa meohaki.\nNolaakaa dumagai'i dowono.\nToono kikinonono, hula ki'oki nonio otanda, mano manasa tule'i nopeposaki hakino.\nMasahoro, nggo me'ambono palili'i maroa'a, te'embe ki'oki uto'orike inae-nae laa meohaki.\nParewa mbonggaa\nToono waraka\nPepoindi'ano koreta\nPetindisi'ano olift\nOtisu\nOtonde\nParewa digitalo\nSambe ine luarano masekere\nPepoindi'ano la'usa\nMouse\nOpilo\nPepoindi'ano otambo\nKaero\nMano hendenggiro, tembo-tembo elino toono meohaki tule'i tudai ine ...\ninggomiu luwuako tule'i meohaki.\nronga tapura'i toonohako memerambi ihorimiu,\nmohahi omata\nKeutaa petu'onggeeki moheu nggiro hapo-hapo'ako, auheu'i tapura'i dowomu,\nAso-asono osala pale me'ambo nggo mombokondesia pirusu ieto mewohiki nggae mombake osabu ronga alokoholo.\nPirusu notule'i mo\u2019ia sambe ruambulo o'omba odaa ine hapo-hapo.\nOsabu\npeowai mondootondo ilolu ni\u2019ino.\nIeeto nggiro, me'ambono atowatukee\nwohiki\u2019i ronga osabu sambe ikeni.\nOsabu\nHiku nggae\nIamo heu'i tapura'imu. (Iepo tapura\u2019i toonohako.)\nKeno nggo'ie'i, wohiki\u2019i ano moroa le\u2019esu kaehakomiu ronga osabu.\nHende laa mosusua \u201cHappy Birthday\u201d monggoruo.\nIlolu ngguku\nmenggauno 20 dete\nItonga-tonga wua nggae\nMowohiki toruku nggae\nTe\u2019embe sarano mowohiki okae sambe moroa?\nKeno niheu, iamo kara, merare pewohiki nggae mombake osabu.\nIamo heu\u2019i iluarano masekere\neli tepidi\nHuma-huma tulei te\u2019ule ronga toro ine i\u2019une masekere keto pake\u2019i lalo menggau\u2019a.\nPewuangge masekeremiu keno mokosisito. Iamo pombake masekere pelalo ari aso oleo.\nPombake siru purorembu\nAna\nAma\nIna\nPombake ohandu oka-oka\nIamo pombake meronga-ronga\nkinaa, parewa mbonggaa, otonde, ronga ohandu.\nKi\u2019oki utulei humeu\u2019i tapura\u2019imu ronga hiku dowomu, ara-ara\u2019itokaa.\nKeno tule'i, hunggai ronga tutu\u2019i otambo mombake ohiku bara obose.\nLaika\nKeu'ari peluarako ari ilaika\nTaahori monggaa\nWohiki'i laulau kaemu mombake osabu...\nPondutu,\nOsabu\nDagai'i waraka\u2019a!\nDagai'i waraka\u2019a!\nOsabu\nBasa'i sara-sara suere ine boobo iwawo.\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)\nBoobo me'ambo ine waraka'a:\nKeterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\nTinamoako pirusu Corona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "lbw",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "eGdzOrEuf2"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "id": "Indonesian",
+        "lbw": "Tolaki",
+        "lts": "Lutachoni"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Tinamoako pirusu Corona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

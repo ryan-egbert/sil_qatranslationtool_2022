@@ -1,0 +1,349 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "a675b7c3-c045-4744-ae22-144d474d3c7c",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Korona Vairas\u2019 Dfisix Thfax",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"nst\":\"Korona Vairas\u2019 Dfisix Thfax\"}",
+  "originalTitle": "About Coronavirus",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "",
+  "downloadSource": "kwemoo@gmail.com/a675b7c3-c045-4744-ae22-144d474d3c7c",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2020, Tangsahng literacy",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "pAPXWUyjEZ"
+    }
+  ],
+  "summary": "about coronavirus",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Myanmar",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "b3xvsSgeg9"
+  },
+  "tools": [],
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "nst": "Tangshang",
+    "en": "English"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "es": "Sobre el Coronavirus",
+    "nst": "Korona Vairas\u2019 Dfisix Thfax",
+    "en": "About Coronavirus"
+  },
+  "2": {
+    "es": "Sobre el Coronavirus",
+    "nst": "Korona Vairas\u2019 Dfisix Thfax",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "es": "Sobre el Coronavirus",
+    "nst": "Korona Vairas\u2019 Dfisix Thfax",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "es": "Sobre el Coronavirus",
+    "nst": "Korona Vairas\u2019 Dfisix Thfax",
+    "en": "About Coronavirus"
+  },
+  "11": {
+    "nst": ""
+  },
+  "12": {
+    "nst": ""
+  },
+  "13": {
+    "nst": ""
+  },
+  "14": {
+    "nst": ""
+  },
+  "15": {
+    "nst": ""
+  },
+  "16": {
+    "nst": ""
+  },
+  "17": {
+    "nst": ""
+  },
+  "18": {
+    "nst": "\u00e0hia ti"
+  },
+  "19": {
+    "nst": ""
+  },
+  "20": {
+    "nst": ""
+  },
+  "21": {
+    "nst": "Fut 6 t\u00e0luz n\u00e4 cyapngax k\u00e4 dfisix thfax ka\u00fc tiim chitlit vaz lawt m\u00e4k mi r\u00e4q."
+  },
+  "22": {
+    "nst": "1"
+  },
+  "23": {
+    "nst": ""
+  },
+  "24": {
+    "nst": ""
+  },
+  "25": {
+    "nst": ""
+  },
+  "26": {
+    "nst": "Ts\u00e4ngxshiq m\u00e4x kh\u00fczp\u00e4ngx cy\u00e4ngz mask kuq l\u00e4q. K\u00e0r\u00e4 kh\u00fczp\u00e4ngx cy\u00e4ngz k\u00e0y\u00e4q hatch\u00fc ch\u00fc, saw saw kham\u00e4q phaix \u00e0phax t\u00e0rawri n\u00e4 si t\u00e0l\u00e4q ti tiim m\u00e4x mi tawz lawt."
+  },
+  "27": {
+    "nst": "2"
+  },
+  "28": {
+    "nst": ""
+  },
+  "29": {
+    "nst": ""
+  },
+  "30": {
+    "nst": "Maic vez shiz raz k\u00e4 \u00e0dfisix \u00e0h\u00fcz li nguzra\u00fc m\u00e4nz maicmiix naix maicmiix t\u00e0chiixvinx lam mawz r\u00e4q."
+  },
+  "31": {
+    "nst": ""
+  },
+  "32": {
+    "nst": ""
+  },
+  "33": {
+    "nst": ""
+  },
+  "34": {
+    "nst": "Hanzs\u00e4ngx \u00e0hia ti"
+  },
+  "35": {
+    "nst": ""
+  },
+  "36": {
+    "nst": ""
+  },
+  "37": {
+    "nst": ""
+  },
+  "38": {
+    "nst": ""
+  },
+  "39": {
+    "nst": ""
+  },
+  "40": {
+    "nst": ""
+  },
+  "41": {
+    "nst": ""
+  },
+  "42": {
+    "nst": ""
+  },
+  "43": {
+    "nst": ""
+  },
+  "44": {
+    "nst": ""
+  },
+  "45": {
+    "nst": ""
+  },
+  "46": {
+    "nst": ""
+  },
+  "47": {
+    "nst": ""
+  },
+  "48": {
+    "nst": "V\u00e0tar\u00fc mawz dfi kai/v\u00e0tar\u00fc r\u00e4q dfisix thfax mawz nga\u00fcx baic"
+  },
+  "49": {
+    "nst": ""
+  },
+  "50": {
+    "nst": ""
+  },
+  "51": {
+    "nst": ""
+  },
+  "52": {
+    "nst": "K\u00e0r\u00e4 dfisix thfax k\u00e0r\u00e4 tawz lawt m\u00e4x l\u00e4x nguz ra\u00fcy\u00e4q k\u00e4 yaq k\u00e0r\u00e4 sazbon m\u00e4q (r\u00e0m\u00e4k ra\u00fc) louxngix (spirit) lawmx t\u00e0l\u00e4q tsiqkham tiim m\u00e4q samhia hezhiiq raongx l\u00e4q."
+  },
+  "53": {
+    "nst": ""
+  },
+  "54": {
+    "nst": ""
+  },
+  "55": {
+    "nst": "T\u00e0luz n\u00e4 t\u00e0taongvaong tawzlawz cy\u00e4ngz lamz 5"
+  },
+  "56": {
+    "nst": ""
+  },
+  "57": {
+    "nst": "\u00c0r\u00e4 y\u00e4q n\u00e4 sa\u00fcx liz sazbon m\u00e4q hezhiiq l\u00e4q."
+  },
+  "58": {
+    "nst": ""
+  },
+  "59": {
+    "nst": "Yaqlaok"
+  },
+  "60": {
+    "nst": ""
+  },
+  "61": {
+    "nst": "\u2018Happy Birthday\u2019 shix t\u00e0r\u00e0thaongz naix khawn lawt liz cyax n\u00e4 sa\u00fcx liz hezhiiq l\u00e4q."
+  },
+  "62": {
+    "nst": ""
+  },
+  "63": {
+    "nst": ""
+  },
+  "64": {
+    "nst": ""
+  },
+  "65": {
+    "nst": ""
+  },
+  "66": {
+    "nst": ""
+  },
+  "67": {
+    "nst": ""
+  },
+  "68": {
+    "nst": ""
+  },
+  "69": {
+    "nst": "Khamdfiz"
+  },
+  "70": {
+    "nst": ""
+  },
+  "71": {
+    "nst": ""
+  },
+  "72": {
+    "nst": "langxraongx l\u00e4q."
+  },
+  "73": {
+    "nst": ""
+  },
+  "74": {
+    "nst": "Vezvez"
+  },
+  "75": {
+    "nst": "\u00a0\u00a0\u00a0\u00a0\u00a0 Nyungznyungz"
+  },
+  "76": {
+    "nst": ""
+  },
+  "77": {
+    "nst": ""
+  },
+  "78": {
+    "nst": "Yaqlaok m\u00e4q k\u00e4 maicmiix thiaphix n\u00e4 m\u2019kh\u00e4x t\u00e0m\u00e4nz th\u00e4nxsh\u00e4nx maix m\u00e4k kham\u00e4q."
+  },
+  "79": {
+    "nst": ""
+  },
+  "80": {
+    "nst": ""
+  },
+  "81": {
+    "nst": "Cyiiz m\u00e4q y\u00e4ngz vaz ra\u00fcy\u00e4q"
+  },
+  "82": {
+    "nst": ""
+  },
+  "83": {
+    "nst": ""
+  },
+  "84": {
+    "nst": ""
+  },
+  "85": {
+    "nst": "Sazbon"
+  },
+  "86": {
+    "nst": ""
+  },
+  "88": {
+    "nst": "Sazbon"
+  },
+  "96": {
+    "es": "Sobre el Coronavirus",
+    "nst": "Korona Vairas\u2019 Dfisix Thfax",
+    "en": "About Coronavirus"
+  },
+  "97": {
+    "es": "Sobre el Coronavirus",
+    "nst": "Korona Vairas\u2019 Dfisix Thfax",
+    "en": "About Coronavirus"
+  },
+  "98": {
+    "es": "Sobre el Coronavirus",
+    "nst": "Korona Vairas\u2019 Dfisix Thfax",
+    "en": "About Coronavirus"
+  },
+  "99": {
+    "es": "Sobre el Coronavirus",
+    "nst": "Korona Vairas\u2019 Dfisix Thfax",
+    "en": "About Coronavirus"
+  },
+  "110": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

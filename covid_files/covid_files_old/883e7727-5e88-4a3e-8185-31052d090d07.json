@@ -1,0 +1,364 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "883e7727-5e88-4a3e-8185-31052d090d07",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "\u0168wau wa Kolona",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"kam\":\"\u0168wau wa Kolona\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+  "downloadSource": "ruth_munguti@sil.org/883e7727-5e88-4a3e-8185-31052d090d07",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": "Do not change the text of this work, but you may translate it, adapt it into other forms, and distribute it for non-commercial purposes. You must keep the copyrights and credits for the author and illustrator Weiman Kou.",
+  "copyright": "Copyright \u00a9 2020, SIL Africa Area",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "AF7O70fKGn"
+    }
+  ],
+  "summary": "\u0128vuku y\u0129\u0129 y\u0129nenganite nz\u0129a mb\u0169th\u0169 sya kw\u0129\u0129s\u0169v\u0129ana na \u0169wau wa kolona kana KOVID-19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Kenya",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "oOndbQ23BI"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    },
+    {
+      "name": "imageDescription",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": true,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "kam": "Kamba"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "kam": "\u0168wau wa Kolona",
+    "en": "About Coronavirus"
+  },
+  "2": {
+    "kam": "\u0168wau wa Kolona",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "kam": "\u0168wau wa Kolona",
+    "en": "About Coronavirus"
+  },
+  "8": {
+    "kam": "Translated by Ruth Munguti"
+  },
+  "9": {
+    "kam": "Translated by Ruth Munguti"
+  },
+  "10": {
+    "kam": ""
+  },
+  "11": {
+    "kam": "Ve k\u0129ndu k\u0129mwe kya vata twa\u0129le k\u0169elewa \u0129\u0169l\u0169 wa \u0169nd\u0169 \u0169wau wa kolona"
+  },
+  "12": {
+    "kam": "\u0169kwatanaw'a."
+  },
+  "13": {
+    "kam": "m\u0169nuka"
+  },
+  "14": {
+    "kam": "many'\u0169\u0169"
+  },
+  "15": {
+    "kam": "metho"
+  },
+  "16": {
+    "kam": "malika"
+  },
+  "17": {
+    "kam": "M\u0169nd\u0169 ute m\u0169wau"
+  },
+  "18": {
+    "kam": "m\u0169nd\u0169 m\u0169wau"
+  },
+  "19": {
+    "kam": "Kolona \u0129kwatanaw'a y\u0129la mata ma"
+  },
+  "20": {
+    "kam": "\u0168ngama vaasa: mita il\u0129 w\u0129\u0129thwa weesi\u0129\u0129a kumana na kolona."
+  },
+  "21": {
+    "kam": ""
+  },
+  "22": {
+    "kam": "Mita il\u0129"
+  },
+  "23": {
+    "kam": "Akyi\u0169\u0169"
+  },
+  "24": {
+    "kam": "Woona m\u0169nd\u0169 aikooa, kwathim\u0169a kana m\u0169nd\u0169 m\u0169wau, ny\u0169va kw\u0129ka at\u0129\u0129:"
+  },
+  "25": {
+    "kam": "M\u0169nenge k\u0129kun\u0129ki kya m\u0169nuka kana masiki.\u00a0 M\u0169nd\u0169 n\u0129\u0169kooea kana akathim\u0169\u0129a vo na ais\u0169v\u0129a and\u0169 ala ang\u0129."
+  },
+  "26": {
+    "kam": "kel\u0129"
+  },
+  "27": {
+    "kam": "M\u0169nenge\u00a0 \u0129thang\u0169 ya kwathim\u0169\u0129a."
+  },
+  "28": {
+    "kam": "Kana"
+  },
+  "29": {
+    "kam": "N\u0129vatonyeka akethwa ate m\u0169wau, lakini ek\u0129te kw\u0129\u0129si\u0129\u0129a."
+  },
+  "30": {
+    "kam": ""
+  },
+  "31": {
+    "kam": "Nd\u0169kathi vala ve and\u0169 aing\u0129 n\u0169nd\u0169 ndw\u0129s\u0129 n\u0169\u0169 \u0169la w\u0129na kolona."
+  },
+  "32": {
+    "kam": "Isikon\u0129"
+  },
+  "33": {
+    "kam": "M\u0169nd\u0169 \u0169te m\u0169wau"
+  },
+  "34": {
+    "kam": "Ikwat\u0129li"
+  },
+  "35": {
+    "kam": "Livutin\u0129"
+  },
+  "36": {
+    "kam": "\u0128thang\u0169n\u0129 ya kyoon\u0129"
+  },
+  "37": {
+    "kam": "ikomben\u0129"
+  },
+  "38": {
+    "kam": "Sim\u0169n\u0129, komby\u0169tan\u0129"
+  },
+  "39": {
+    "kam": "Ona nza wa k\u0129kun\u0129ki kya m\u0169nuka"
+  },
+  "40": {
+    "kam": "Ikwat\u0129li sya ngolova"
+  },
+  "41": {
+    "kam": "Kw'oko kwa komby\u0169ta"
+  },
+  "42": {
+    "kam": "T\u0169lamu"
+  },
+  "43": {
+    "kam": "konzin\u0129"
+  },
+  "44": {
+    "kam": "Moko moo"
+  },
+  "45": {
+    "kam": "Mata ma m\u0169wau wa kolona n\u0129matonya k\u0169kwata sy\u0129nd\u0169n\u0129 ing\u0129 ta ithi:-"
+  },
+  "46": {
+    "kam": "Inywonthe n\u0129m\u0169tonya \u0169kwatwa n\u0129 kolona."
+  },
+  "47": {
+    "kam": "Kana \u0169ikwata \u0169thy\u0169 wa ala me vakuv\u0129 naku,"
+  },
+  "48": {
+    "kam": "\u0168ikiitha metho,"
+  },
+  "49": {
+    "kam": "Wakwata sy\u0129nd\u0169 ithi kwa vaati nth\u0169ku, na \u0169ikwata \u0169thy\u0169 waku,"
+  },
+  "50": {
+    "kam": "Nz\u0129a nzeo ya k\u0169mina kolona n\u0129 k\u0169thamba moko na savun\u0129, kana mbinyu \u0129la \u0129tum\u0129awa sivital\u0129."
+  },
+  "51": {
+    "kam": "Kolona n\u0129tonya kw\u0129kala masaa maing\u0129 sy\u0129nd\u0169n\u0129."
+  },
+  "52": {
+    "kam": "Savun\u0129"
+  },
+  "53": {
+    "kam": ""
+  },
+  "54": {
+    "kam": "N\u0129kyo k\u0129tumi twa\u0129le k\u0169at\u0129\u0129a nz\u0129a ithi sya kw\u0129\u0129s\u0169v\u0129a:"
+  },
+  "55": {
+    "kam": "Thamba moko nginya vaa"
+  },
+  "56": {
+    "kam": "savun\u0129"
+  },
+  "57": {
+    "kam": "k\u0129ngokoa"
+  },
+  "58": {
+    "kam": "Nd\u0169kakwate \u0169thy\u0169 waku kana wa m\u0169nd\u0169 \u0169ng\u0129.\u00a0 Kethwa n\u0129 m\u0169vaka \u0169kwate \u0169thy\u0169, thamba moko na savun\u0129 mathee."
+  },
+  "59": {
+    "kam": "Kana \u0169thambe win\u0129te wathi wa k\u0169lulukya mwana.na \u0169ithamb\u0169ka"
+  },
+  "60": {
+    "kam": "Uungu wa mbwaa"
+  },
+  "61": {
+    "kam": "Tala \u0129mwe nginya m\u0129ongo \u0129l\u0129 na \u0169ithamb\u0169ka"
+  },
+  "62": {
+    "kam": "Kat\u0129kat\u0129 wa syaa"
+  },
+  "63": {
+    "kam": "Thamba moko nth\u0129n\u0129 na nza"
+  },
+  "64": {
+    "kam": "K\u0169thamba moko vy\u0169 n\u0129 K\u0169thamba ata?"
+  },
+  "65": {
+    "kam": "Ethwa n\u0129wakwata, nd\u0169kamake, thamba moko na savun\u0129."
+  },
+  "66": {
+    "kam": "Nd\u0169kakwate nza wa k\u0129kun\u0129ki kya m\u0169nuka."
+  },
+  "67": {
+    "kam": "mata"
+  },
+  "68": {
+    "kam": "K\u0129ko k\u0129likaa nth\u0129n\u0129 wa k\u0129kun\u0129ki wekala nakyo masaa maing\u0129"
+  },
+  "69": {
+    "kam": "\u0128kya k\u0129kun\u0129ki kya m\u0169nuka kyamesya k\u0129w\u2019u, kana woona k\u0129na k\u0129ko.\u00a0 Nd\u0169kat\u0169m\u0129e k\u0129kun\u0129ki k\u0129mwe mala el\u0129."
+  },
+  "70": {
+    "kam": "T\u0169m\u0129a k\u0129siko kya kw\u0129v\u0169a"
+  },
+  "71": {
+    "kam": "Mwana"
+  },
+  "72": {
+    "kam": "Tata"
+  },
+  "73": {
+    "kam": "Mami"
+  },
+  "74": {
+    "kam": "K\u0129la m\u0169nd\u0169 at\u0169m\u0129e ta\u0169lo yake"
+  },
+  "75": {
+    "kam": "Nd\u0169ka\u0129san\u0129e l\u0129u, t\u0169ikat\u0169m\u0129an\u0129e m\u0129io ya k\u0169\u0129\u0129a, ikombe kana ta\u0169lo."
+  },
+  "76": {
+    "kam": "Ti laisi k\u0169kwata \u0169thy\u0169 waku na k\u0129ngokoa."
+  },
+  "77": {
+    "kam": "Ving\u0169a na \u0169ivinga m\u0129omo na k\u0129ngokoa kana k\u0129tuo vand\u0169 va k\u0169t\u0169m\u0129a moko, ethwa n\u0129vatonyeka."
+  },
+  "78": {
+    "kam": "M\u0169sy\u0129"
+  },
+  "79": {
+    "kam": "Wauma nza wa m\u0169sy\u0129"
+  },
+  "80": {
+    "kam": "Mbee wa k\u0169ya l\u0129u"
+  },
+  "81": {
+    "kam": "Thamba moko na savun\u0129 k\u0129la \u0129vinda"
+  },
+  "82": {
+    "kam": "Na \u0129nd\u0129 m\u0169thya,"
+  },
+  "83": {
+    "kam": "Savun\u0129"
+  },
+  "84": {
+    "kam": "K\u0129la m\u0169nd\u0169 ees\u0169v\u0129e!"
+  },
+  "85": {
+    "kam": ""
+  },
+  "86": {
+    "kam": "K\u0129la m\u0169nd\u0169 ees\u0169v\u0129e!"
+  },
+  "87": {
+    "kam": "Savun\u0129"
+  },
+  "88": {
+    "kam": ""
+  },
+  "89": {
+    "kam": ""
+  },
+  "91": {
+    "kam": "\u0168wau wa Kolona",
+    "en": "About Coronavirus"
+  },
+  "92": {
+    "kam": "\u0168wau wa Kolona",
+    "en": "About Coronavirus"
+  },
+  "93": {
+    "kam": "\u0168wau wa Kolona",
+    "en": "About Coronavirus"
+  },
+  "99": {
+    "en": "\u00a0SIL Africa Area"
+  },
+  "101": {
+    "en": "Translated by Ruth Munguti"
+  },
+  "104": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

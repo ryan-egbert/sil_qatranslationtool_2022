@@ -1,0 +1,752 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "70d9bb28-840f-47a0-ac86-9c2e7db17c4c",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Akip\u014d k\u014dr\u014d\u014dyi p\u014d Coronavirus",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"enb\":\"Akip\u014d k\u014dr\u014d\u014dyi p\u014d Coronavirus\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,726d708d-535e-47af-8905-ce6e5e0d745c",
+  "downloadSource": "paul_frank@sil-lead.org/70d9bb28-840f-47a0-ac86-9c2e7db17c4c",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Kim\u0113\u0113t\u0101si ng\u2019\u0101lyoon nyoo ng\u2019ul\u0113y ng\u2019aleechu, w\u014dloo nyuun imuuk\u0113y iwal nk\u014d\u014d kuutiing\u2019uung\u2019 akiiyooyt\u014d nk\u014d\u014d oortin choo ng\u2019ul\u0113y\u2019w\u014dloo nyuun kimee-alta. Kim\u0113\u0113-\u0101p ng\u2019aleechu kul\u0113ku chookuuk. Mwooruu kil\u0113 kiisir\u0113y Weiman Kou.",
+  "copyright": "Copyright \u00a9 2020, Bible Translation and Literacy, Kenya",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "UKpPE7x7SQ"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Kenya",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "k2DhvvBWS5"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": true,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "es": "Spanish",
+    "enb": "Marakwet"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "2": {
+    "enb": "Akip\u014d k\u014dr\u014d\u014dyi p\u014d Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "enb": "Akip\u014d k\u014dr\u014d\u014dyi p\u014d Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "enb": "Akip\u014d k\u014dr\u014d\u014dyi p\u014d Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "9": {
+    "en": ""
+  },
+  "10": {
+    "en": ""
+  },
+  "11": {
+    "enb": "Mii kir AKOONG\u2019O kipaat nyoo nyoolchinii is\u014dwu akip\u014d W\u014cLOO KUUNOOMTOOY KEEY k\u014dr\u014d\u014dyi p\u014d coronavirus",
+    "en": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+  },
+  "12": {
+    "enb": "Mii kir AKOONG\u2019O kipaat nyoo nyoolchinii is\u014dwu akip\u014d W\u014cLOO KUUNOOMTOOY KEEY k\u014dr\u014d\u014dyi p\u014d coronavirus",
+    "en": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+  },
+  "13": {
+    "enb": "",
+    "en": "SPREADS"
+  },
+  "14": {
+    "enb": "",
+    "en": "SPREADS"
+  },
+  "15": {
+    "enb": "Kuut",
+    "en": "Mouth"
+  },
+  "16": {
+    "enb": "Kuut",
+    "en": "Mouth"
+  },
+  "17": {
+    "enb": "S\u0113ruun",
+    "en": "Nose"
+  },
+  "18": {
+    "enb": "S\u0113ruun",
+    "en": "Nose"
+  },
+  "19": {
+    "enb": "Koonyin",
+    "en": "Eyes"
+  },
+  "20": {
+    "enb": "Koonyin",
+    "en": "Eyes"
+  },
+  "21": {
+    "enb": "Kip\u0113\u0113chi chiich",
+    "en": "Get into your"
+  },
+  "22": {
+    "enb": "Kip\u0113\u0113chi chiich",
+    "en": "Get into your"
+  },
+  "23": {
+    "enb": "Chiich nyoo karaam p\u014d\u014dr",
+    "en": "Healthy Person"
+  },
+  "24": {
+    "enb": "Chiich nyoo karaam p\u014d\u014dr",
+    "en": "Healthy Person"
+  },
+  "25": {
+    "enb": "Chiich nyoo mnyaanaat",
+    "en": "Sick Person"
+  },
+  "26": {
+    "enb": "Chiich nyoo mnyaanaat",
+    "en": "Sick Person"
+  },
+  "27": {
+    "enb": "Kuunoomtooy keey k\u014dr\u014d\u014dyi n\u0113\u0113 raal nta kung\u2019alaal :chiich kupka ng\u2019ula",
+    "en": "The virus spreads when \ufeffthese droplets"
+  },
+  "28": {
+    "enb": "Kuunoomtooy keey k\u014dr\u014d\u014dyi n\u0113\u0113 raal nta kung\u2019alaal :chiich kupka ng\u2019ula",
+    "en": "The virus spreads when \ufeffthese droplets"
+  },
+  "29": {
+    "enb": "Ryoong\u2019\u0113\u0113 miita 2 si n\u0113\u0113 ng\u2019at iriip keey m\u0101p\u0113\u0113chiin ng\u2019ul\u0113\u0113p\u014d chiich",
+    "en": "Keep your distance.\ufeff2m will keep you safe from large droplets."
+  },
+  "30": {
+    "enb": "Ryoong\u2019\u0113\u0113 miita 2 si n\u0113\u0113 ng\u2019at iriip keey m\u0101p\u0113\u0113chiin ng\u2019ul\u0113\u0113p\u014d chiich",
+    "en": "Keep your distance.\ufeff2m will keep you safe from large droplets."
+  },
+  "31": {
+    "enb": "1",
+    "en": "1"
+  },
+  "32": {
+    "enb": "1",
+    "en": "1"
+  },
+  "33": {
+    "enb": "Miita 2",
+    "en": "2m"
+  },
+  "34": {
+    "enb": "Miita 2",
+    "en": "2m"
+  },
+  "35": {
+    "enb": "Tirsyaa",
+    "en": "Achoo!"
+  },
+  "36": {
+    "enb": "Tirsyaa",
+    "en": "Achoo!"
+  },
+  "37": {
+    "enb": "N\u0113\u0113 roo chiich nyoo rool\u0113y / tirsyoon\u0113y / mnyanaat",
+    "en": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+  },
+  "38": {
+    "enb": "N\u0113\u0113 roo chiich nyoo rool\u0113y / tirsyoon\u0113y / mnyanaat",
+    "en": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+  },
+  "39": {
+    "enb": "T\u0113\u0113 akwaaneek tukun choo tuk\u0113\u0113 keey s\u0113r nk\u014d\u014d kuut. Muuk\u0113y kuroolchi nta kuutirsyoonchi tukuuchooch\u0113\u0113 sikuriip piich walak choo l\u0113\u0113kit\u0113\u0113n",
+    "en": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby."
+  },
+  "40": {
+    "enb": "T\u0113\u0113 akwaaneek tukun choo tuk\u0113\u0113 keey s\u0113r nk\u014d\u014d kuut. Muuk\u0113y kuroolchi nta kuutirsyoonchi tukuuchooch\u0113\u0113 sikuriip piich walak choo l\u0113\u0113kit\u0113\u0113n",
+    "en": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby."
+  },
+  "41": {
+    "enb": "2",
+    "en": "2"
+  },
+  "42": {
+    "enb": "2",
+    "en": "2"
+  },
+  "43": {
+    "enb": "/kuupuuk\u0113\u0113 s\u0113r",
+    "en": "Thank you\ufeff*sniffles*"
+  },
+  "44": {
+    "enb": "/kuupuuk\u0113\u0113 s\u0113r",
+    "en": "Thank you\ufeff*sniffles*"
+  },
+  "45": {
+    "enb": "NTA",
+    "en": "OR,"
+  },
+  "46": {
+    "enb": "NTA",
+    "en": "OR,"
+  },
+  "47": {
+    "enb": "M\u0101 k\u0113\u0113l\u0113 mnyanaat :inyeentee, mii kipaat kuriip\u0113y keey",
+    "en": "Maybe she's not sick, just protecting herself"
+  },
+  "48": {
+    "enb": "M\u0101 k\u0113\u0113l\u0113 mnyanaat :inyeentee, mii kipaat kuriip\u0113y keey",
+    "en": "Maybe she's not sick, just protecting herself"
+  },
+  "49": {
+    "enb": "Muuk\u0113y kimnyaanaat :chiich w\u014dloo nyuun moomii kiyoo ng\u2019uutuuy kil\u0113 mnyaanaat, akuunoomtooy nyuun piich k\u014dr\u014d\u014dyi",
+    "en": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+  },
+  "50": {
+    "enb": "Muuk\u0113y kimnyaanaat :chiich w\u014dloo nyuun moomii kiyoo ng\u2019uutuuy kil\u0113 mnyaanaat, akuunoomtooy nyuun piich k\u014dr\u014d\u014dyi",
+    "en": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+  },
+  "51": {
+    "enb": "Karaam im\u0113toor\u0113\u0113 keey w\u014dloo mii \u00a0:piich chaa chaang\u2019, \u0101mu m\u0113\u0113muuk\u0113y is\u014dwu kil\u0113 ng\u2019oo nyoo mnyaanaat",
+    "en": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+  },
+  "52": {
+    "enb": "Karaam im\u0113toor\u0113\u0113 keey w\u014dloo mii \u00a0:piich chaa chaang\u2019, \u0101mu m\u0113\u0113muuk\u0113y is\u014dwu kil\u0113 ng\u2019oo nyoo mnyaanaat",
+    "en": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+  },
+  "53": {
+    "enb": "k\u0101tiiniit",
+    "en": "Chopsticks"
+  },
+  "54": {
+    "enb": "k\u0101tiiniit",
+    "en": "Chopsticks"
+  },
+  "55": {
+    "enb": "Chiich nyaa karaam p\u014d\u014dr",
+    "en": "Healthy person"
+  },
+  "56": {
+    "enb": "Chiich nyaa karaam p\u014d\u014dr",
+    "en": "Healthy person"
+  },
+  "57": {
+    "enb": "Misiipi nyoo /kir\u0101t\u0113\u0113 keey nk\u014d\u014d kari",
+    "en": "Train straps"
+  },
+  "58": {
+    "enb": "Misiipi nyoo /kir\u0101t\u0113\u0113 keey nk\u014d\u014d kari",
+    "en": "Train straps"
+  },
+  "59": {
+    "enb": "Tukun choo /kinyipir\u0113y nk\u014d\u014d liipti ny\u0113p\u014d koropa",
+    "en": "Lift buttons"
+  },
+  "60": {
+    "enb": "Tukun choo /kinyipir\u0113y nk\u014d\u014d liipti ny\u0113p\u014d koropa",
+    "en": "Lift buttons"
+  },
+  "61": {
+    "enb": "Kartaasi nyoo kuupuuk\u0113\u0113 keey",
+    "en": "Tissues"
+  },
+  "62": {
+    "enb": "Kartaasi nyoo kuupuuk\u0113\u0113 keey",
+    "en": "Tissues"
+  },
+  "63": {
+    "enb": "Kikoompeen",
+    "en": "Cups"
+  },
+  "64": {
+    "enb": "Kikoompeen",
+    "en": "Cups"
+  },
+  "65": {
+    "enb": "Koompuuta nk\u014d\u014d siimuun",
+    "en": "Digital devices"
+  },
+  "66": {
+    "enb": "Koompuuta nk\u014d\u014d siimuun",
+    "en": "Digital devices"
+  },
+  "67": {
+    "enb": "nk\u014d\u014d mp\u014dsaang\u2019 ny\u0113p\u014d kir nyoo ituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut",
+    "en": "& even on the outside of your face mask"
+  },
+  "68": {
+    "enb": "nk\u014d\u014d mp\u014dsaang\u2019 ny\u0113p\u014d kir nyoo ituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut",
+    "en": "& even on the outside of your face mask"
+  },
+  "69": {
+    "enb": "k\u0101riin choo /kin\u0101m\u0113y paani /kiloong\u2019\u0113y k\u014dp\u014d koropa",
+    "en": "Stair bannisters"
+  },
+  "70": {
+    "enb": "k\u0101riin choo /kin\u0101m\u0113y paani /kiloong\u2019\u0113y k\u014dp\u014d koropa",
+    "en": "Stair bannisters"
+  },
+  "71": {
+    "enb": "Moorinoo koompuuta",
+    "en": "Mouse"
+  },
+  "72": {
+    "enb": "Moorinoo koompuuta",
+    "en": "Mouse"
+  },
+  "73": {
+    "enb": "Kalaamuun",
+    "en": "Pens"
+  },
+  "74": {
+    "enb": "Kalaamuun",
+    "en": "Pens"
+  },
+  "75": {
+    "enb": "Kurkat",
+    "en": "Door knobs"
+  },
+  "76": {
+    "enb": "Kurkat",
+    "en": "Door knobs"
+  },
+  "77": {
+    "enb": "\u0112\u0113ruun\u0113kwaak",
+    "en": "Their hands"
+  },
+  "78": {
+    "enb": "\u0112\u0113ruun\u0113kwaak",
+    "en": "Their hands"
+  },
+  "79": {
+    "enb": "Muuk\u0113y kup\u0113\u0113chi saayiitiis walak ng\u2019ula ch\u0113p\u014d chiich nyoo mnyaanaat tukun walak kil\u0113\u0113\u2026",
+    "en": "However, sometimes a sick person's saliva can get on other things\u2026"
+  },
+  "80": {
+    "enb": "Muuk\u0113y kup\u0113\u0113chi saayiitiis walak ng\u2019ula ch\u0113p\u014d chiich nyoo mnyaanaat tukun walak kil\u0113\u0113\u2026",
+    "en": "However, sometimes a sick person's saliva can get on other things\u2026"
+  },
+  "81": {
+    "enb": "ku \u0101muuk\u0113y \u0101mnyoonch\u014d :t\u014dk\u014dl",
+    "en": "you might all fall sick."
+  },
+  "82": {
+    "enb": "ku \u0101muuk\u0113y \u0101mnyoonch\u014d :t\u014dk\u014dl",
+    "en": "you might all fall sick."
+  },
+  "83": {
+    "enb": "nta inam tokoch ny\u0113p\u014d choorweeng\u2019uung\u2019",
+    "en": "or your loved one's face"
+  },
+  "84": {
+    "enb": "nta inam tokoch ny\u0113p\u014d choorweeng\u2019uung\u2019",
+    "en": "or your loved one's face"
+  },
+  "85": {
+    "enb": "iting\u2019ting\u2019 keey koonyin",
+    "en": "rub eyes"
+  },
+  "86": {
+    "enb": "iting\u2019ting\u2019 keey koonyin",
+    "en": "rub eyes"
+  },
+  "87": {
+    "enb": "N\u0113\u0113 nam tukuuchu kim\u0113\u0113nk\u0113t, aku n\u0113\u0113 ng\u2019at inam keey tokoch,",
+    "en": "And if you do touch any of these things by accident, and then touch your face,"
+  },
+  "88": {
+    "enb": "N\u0113\u0113 nam tukuuchu kim\u0113\u0113nk\u0113t, aku n\u0113\u0113 ng\u2019at inam keey tokoch,",
+    "en": "And if you do touch any of these things by accident, and then touch your face,"
+  },
+  "89": {
+    "enb": "oor kipaat nyoo /kuuwoong\u2019\u0113y kuutyaantaani \u0101puuy k\u014dr\u014d\u014dyi ku /k\u0113\u0113wuun tukuuchooch\u0113\u0113 nk\u014d\u014d s\u0101puni nta /k\u0113\u0113p\u0101yiisy\u0113\u0113r\u014d saakityaan nyoo /kuutiliil\u0113\u0113 tukun.",
+    "en": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+  },
+  "90": {
+    "enb": "oor kipaat nyoo /kuuwoong\u2019\u0113y kuutyaantaani \u0101puuy k\u014dr\u014d\u014dyi ku /k\u0113\u0113wuun tukuuchooch\u0113\u0113 nk\u014d\u014d s\u0101puni nta /k\u0113\u0113p\u0101yiisy\u0113\u0113r\u014d saakityaan nyoo /kuutiliil\u0113\u0113 tukun.",
+    "en": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+  },
+  "91": {
+    "enb": "N\u0113\u0113 nam :kuutyaantaani \u0101puuy k\u014dr\u014d\u014dyi tukun kit\u0113p\u0113\u0113 saayitiis choo ng\u2019\u0113rin",
+    "en": "Viruses can last for quite a few hours on objects,"
+  },
+  "92": {
+    "enb": "N\u0113\u0113 nam :kuutyaantaani \u0101puuy k\u014dr\u014d\u014dyi tukun kit\u0113p\u0113\u0113 saayitiis choo ng\u2019\u0113rin",
+    "en": "Viruses can last for quite a few hours on objects,"
+  },
+  "93": {
+    "enb": "S\u0101puni",
+    "en": "soap"
+  },
+  "94": {
+    "enb": "S\u0101puni",
+    "en": "soap"
+  },
+  "95": {
+    "enb": "/sik\u0113\u0113riip keey",
+    "en": "precautions"
+  },
+  "96": {
+    "enb": "/sik\u0113\u0113riip keey",
+    "en": "precautions"
+  },
+  "97": {
+    "enb": "Karaam nyuun /keetuup tukuuchu",
+    "en": "Which is why it is also good to follow these"
+  },
+  "98": {
+    "enb": "Karaam nyuun /keetuup tukuuchu",
+    "en": "Which is why it is also good to follow these"
+  },
+  "99": {
+    "enb": "Wuun\u0113\u0113 s\u0101puni kuti it yi",
+    "en": "wash with soap up to here"
+  },
+  "100": {
+    "enb": "Wuun\u0113\u0113 s\u0101puni kuti it yi",
+    "en": "wash with soap up to here"
+  },
+  "101": {
+    "enb": "S\u0101puni",
+    "en": "soap"
+  },
+  "102": {
+    "enb": "S\u0101puni",
+    "en": "soap"
+  },
+  "103": {
+    "enb": "Kipkong\u2019",
+    "en": "elbow"
+  },
+  "104": {
+    "enb": "Kipkong\u2019",
+    "en": "elbow"
+  },
+  "105": {
+    "enb": "Kimeenam keey tokoch. (Nta inam chiich aka tokoch.) N\u0113\u0113 m\u0101r\u0113y nama keey tokoch iwuun \u0113\u0113ruung\u2019uung\u2019 kukaraam kupok",
+    "en": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+  },
+  "106": {
+    "enb": "Kimeenam keey tokoch. (Nta inam chiich aka tokoch.) N\u0113\u0113 m\u0101r\u0113y nama keey tokoch iwuun \u0113\u0113ruung\u2019uung\u2019 kukaraam kupok",
+    "en": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+  },
+  "107": {
+    "enb": "T\u0113\u0113n\u014d saayit nyoo y\u0101m\u0113y keey /keetuum tuumi mwoor\u0113y kil\u0113, \u201cKumwooruun k\u014d\u014dnk\u0113y apoonyoon \u0101mu kaakisuwa \u0113\u0113ruung\u2019uung\u2019\u201d kunyil \u0101r\u0113\u0113ny",
+    "en": "Enough time to sing \u201cHappy Birthday\u201d twice"
+  },
+  "108": {
+    "enb": "T\u0113\u0113n\u014d saayit nyoo y\u0101m\u0113y keey /keetuum tuumi mwoor\u0113y kil\u0113, \u201cKumwooruun k\u014d\u014dnk\u0113y apoonyoon \u0101mu kaakisuwa \u0113\u0113ruung\u2019uung\u2019\u201d kunyil \u0101r\u0113\u0113ny",
+    "en": "Enough time to sing \u201cHappy Birthday\u201d twice"
+  },
+  "109": {
+    "enb": "wuun\u014d siiriin",
+    "en": "under the nails"
+  },
+  "110": {
+    "enb": "wuun\u014d siiriin",
+    "en": "under the nails"
+  },
+  "111": {
+    "enb": "nk\u014d\u014d s\u0113kuunt\u0113\u0113n choo l\u0113\u0113 20",
+    "en": "for 20 seconds"
+  },
+  "112": {
+    "enb": "nk\u014d\u014d s\u0113kuunt\u0113\u0113n choo l\u0113\u0113 20",
+    "en": "for 20 seconds"
+  },
+  "113": {
+    "enb": "wuun\u014d kw\u0113\u0113n ny\u0113p\u014d mooriin",
+    "en": "between the fingers"
+  },
+  "114": {
+    "enb": "wuun\u014d kw\u0113\u0113n ny\u0113p\u014d mooriin",
+    "en": "between the fingers"
+  },
+  "115": {
+    "enb": "wuun\u014d saang\u2019 ny\u0113p\u014d \u0113\u0113ruun\u0113kuuk",
+    "en": "wash the back of your hands"
+  },
+  "116": {
+    "enb": "wuun\u014d saang\u2019 ny\u0113p\u014d \u0113\u0113ruun\u0113kuuk",
+    "en": "wash the back of your hands"
+  },
+  "117": {
+    "enb": "/K\u0113\u0113wuun kukaraam ku /kee-ir nee?",
+    "en": "What is thoroughly?"
+  },
+  "118": {
+    "enb": "/K\u0113\u0113wuun kukaraam ku /kee-ir nee?",
+    "en": "What is thoroughly?"
+  },
+  "119": {
+    "enb": "N\u0113\u0113 koo keenam keey kim\u0113\u0113w\u0101riisy\u014d, wuun\u014d kipaat \u0113\u0113ruun\u0113kuuk kukaraam nk\u014d\u014d s\u0101puni",
+    "en": "If you did, don't worry. Just wash your hands with soap after."
+  },
+  "120": {
+    "enb": "N\u0113\u0113 koo keenam keey kim\u0113\u0113w\u0101riisy\u014d, wuun\u014d kipaat \u0113\u0113ruun\u0113kuuk kukaraam nk\u014d\u014d s\u0101puni",
+    "en": "If you did, don't worry. Just wash your hands with soap after."
+  },
+  "121": {
+    "enb": "N\u0113\u0113 muuk\u0113\u0113 ku meenam mp\u014d saang\u2019 ny\u0113p\u014d kiyoon\u0113\u0113 /kituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut",
+    "en": "Also, don't touch the outside of the mask if you can."
+  },
+  "122": {
+    "enb": "N\u0113\u0113 muuk\u0113\u0113 ku meenam mp\u014d saang\u2019 ny\u0113p\u014d kiyoon\u0113\u0113 /kituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut",
+    "en": "Also, don't touch the outside of the mask if you can."
+  },
+  "123": {
+    "enb": "ng\u2019ul",
+    "en": "droplets"
+  },
+  "124": {
+    "enb": "ng\u2019ul",
+    "en": "droplets"
+  },
+  "125": {
+    "enb": "Kuutyaan nyoo \u0101puuy k\u014dr\u014d\u014dy kin\u0101r\u0113y nk\u014d\u014d or ny\u0113p\u014d kir nyoo /kituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut n\u0113\u0113 /kuulaak kil\u014d\u014dwiit",
+    "en": "*Bacteria grows on the insides of your mask if you wear them too long"
+  },
+  "126": {
+    "enb": "Kuutyaan nyoo \u0101puuy k\u014dr\u014d\u014dy kin\u0101r\u0113y nk\u014d\u014d or ny\u0113p\u014d kir nyoo /kituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut n\u0113\u0113 /kuulaak kil\u014d\u014dwiit",
+    "en": "*Bacteria grows on the insides of your mask if you wear them too long"
+  },
+  "127": {
+    "enb": "N\u0113\u0113 nur kipaat kir nyoo /kituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut iwiirta. Kimeelaak kiyoon\u0113\u0113 kisiir p\u0113r\u0113\u0113tuu akoong\u2019o!",
+    "en": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+  },
+  "128": {
+    "enb": "N\u0113\u0113 nur kipaat kir nyoo /kituk\u0113\u0113 keey s\u0113ruun nk\u014d\u014d kuut iwiirta. Kimeelaak kiyoon\u0113\u0113 kisiir p\u0113r\u0113\u0113tuu akoong\u2019o!",
+    "en": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+  },
+  "129": {
+    "enb": "P\u0101yiisy\u0113\u0113r\u0113\u0113 kiichiik\u014d paani ich\u0101r\u0113y \u0101miisy\u014d",
+    "en": "Use a serving spoon"
+  },
+  "130": {
+    "enb": "P\u0101yiisy\u0113\u0113r\u0113\u0113 kiichiik\u014d paani ich\u0101r\u0113y \u0101miisy\u014d",
+    "en": "Use a serving spoon"
+  },
+  "131": {
+    "enb": "Ny\u0113p\u014d laakwee",
+    "en": "Baby"
+  },
+  "132": {
+    "enb": "Ny\u0113p\u014d laakwee",
+    "en": "Baby"
+  },
+  "133": {
+    "enb": "Ny\u0113p\u014d apoo",
+    "en": "Daddy"
+  },
+  "134": {
+    "enb": "Ny\u0113p\u014d apoo",
+    "en": "Daddy"
+  },
+  "135": {
+    "enb": "Ny\u0113p\u014d maama",
+    "en": "Mommy"
+  },
+  "136": {
+    "enb": "Ny\u0113p\u014d maama",
+    "en": "Mommy"
+  },
+  "137": {
+    "enb": "M\u0101r\u0113y kuting\u2019\u0113y :chiich aka t\u014dk\u014dl t\u014dwuleenyiin",
+    "en": "Everyone gets their own towel"
+  },
+  "138": {
+    "enb": "M\u0101r\u0113y kuting\u2019\u0113y :chiich aka t\u014dk\u014dl t\u014dwuleenyiin",
+    "en": "Everyone gets their own towel"
+  },
+  "139": {
+    "enb": "Kimaaramta \u0101miisy\u014d, tukun choo /ki-\u0101miisy\u0113\u0113r\u0113\u0113 nk\u014d\u014d t\u014dwul\u014d",
+    "en": "Do not share food, utensils, cups, towels."
+  },
+  "140": {
+    "enb": "Kimaaramta \u0101miisy\u014d, tukun choo /ki-\u0101miisy\u0113\u0113r\u0113\u0113 nk\u014d\u014d t\u014dwul\u014d",
+    "en": "Do not share food, utensils, cups, towels."
+  },
+  "141": {
+    "enb": "M\u0113\u0113muuk\u0113y :chiich kutiing\u2019o keey kipkong\u2019 tokoch mp\u014d nt\u0101 kuutyam",
+    "en": "You can't touch your face with your elbow even if you tried"
+  },
+  "142": {
+    "enb": "M\u0113\u0113muuk\u0113y :chiich kutiing\u2019o keey kipkong\u2019 tokoch mp\u014d nt\u0101 kuutyam",
+    "en": "You can't touch your face with your elbow even if you tried"
+  },
+  "143": {
+    "enb": "N\u0113\u0113 muuk\u0113\u0113, ip\u0101yiisy\u0113\u0113r\u0113\u0113 kipkong\u2019 nyoo m\u0101 \u0113\u0113r paani iyoot\u0113y akiik\u0101r\u0113y kurkat.",
+    "en": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+  },
+  "144": {
+    "enb": "N\u0113\u0113 muuk\u0113\u0113, ip\u0101yiisy\u0113\u0113r\u0113\u0113 kipkong\u2019 nyoo m\u0101 \u0113\u0113r paani iyoot\u0113y akiik\u0101r\u0113y kurkat.",
+    "en": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+  },
+  "145": {
+    "enb": "Kaaw",
+    "en": "Home"
+  },
+  "146": {
+    "enb": "Kaaw",
+    "en": "Home"
+  },
+  "147": {
+    "enb": "paani k\u0113\u0113ch\u014d\u014dn\u0113\u0113 w\u014dloo chaang\u2019 piich",
+    "en": "and after being out in the public"
+  },
+  "148": {
+    "enb": "paani k\u0113\u0113ch\u014d\u014dn\u0113\u0113 w\u014dloo chaang\u2019 piich",
+    "en": "and after being out in the public"
+  },
+  "149": {
+    "enb": "Kitoom\u014d a-am kir aka t\u014dk\u014dl",
+    "en": "Before you eat"
+  },
+  "150": {
+    "enb": "Kitoom\u014d a-am kir aka t\u014dk\u014dl",
+    "en": "Before you eat"
+  },
+  "151": {
+    "enb": "Wuun\u014d \u0113\u0113ruun\u0113kuuk saayit aka t\u014dk\u014dl nk\u014d\u014d s\u0101puni\u2026",
+    "en": "Always wash your hands with soap\u2026"
+  },
+  "152": {
+    "enb": "Wuun\u014d \u0113\u0113ruun\u0113kuuk saayit aka t\u014dk\u014dl nk\u014d\u014d s\u0101puni\u2026",
+    "en": "Always wash your hands with soap\u2026"
+  },
+  "153": {
+    "enb": "Ny\u0113p\u014d l\u0113t",
+    "en": "And finally,"
+  },
+  "154": {
+    "enb": "Ny\u0113p\u014d l\u0113t",
+    "en": "And finally,"
+  },
+  "155": {
+    "enb": "s\u0101puni",
+    "en": "soap"
+  },
+  "156": {
+    "enb": "s\u0101puni",
+    "en": "soap"
+  },
+  "157": {
+    "enb": "Riip\u014d keey chiich t\u014dk\u014dl!",
+    "en": "Stay safe, everyone!"
+  },
+  "158": {
+    "enb": "Riip\u014d keey chiich t\u014dk\u014dl!",
+    "en": "Stay safe, everyone!"
+  },
+  "159": {
+    "enb": "Riip\u014d keey chiich t\u014dk\u014dl!",
+    "en": "Stay safe, everyone!"
+  },
+  "160": {
+    "enb": "Riip\u014d keey chiich t\u014dk\u014dl!",
+    "en": "Stay safe, everyone!"
+  },
+  "161": {
+    "enb": "s\u0101puni",
+    "en": "soap"
+  },
+  "162": {
+    "enb": "s\u0101puni",
+    "en": "soap"
+  },
+  "163": {
+    "enb": "N\u0113\u0113 m\u0101r\u0113y is\u014dwu ng\u2019al chaa chaang\u2019 akip\u014d k\u014dr\u014d\u014dyi isooman yi",
+    "en": "Read the articles for more tips!"
+  },
+  "164": {
+    "enb": "N\u0113\u0113 m\u0101r\u0113y is\u014dwu ng\u2019al chaa chaang\u2019 akip\u014d k\u014dr\u014d\u014dyi isooman yi",
+    "en": "Read the articles for more tips!"
+  },
+  "165": {
+    "enb": "W\u014dloo /kiny\u014d\u014drchinii ng\u2019aleek akip\u014d w\u014dloo /kiriiptooy keey k\u014dr\u014d\u014dyi",
+    "en": "Main references for medical info:"
+  },
+  "166": {
+    "enb": "W\u014dloo /kiny\u014d\u014drchinii ng\u2019aleek akip\u014d w\u014dloo /kiriiptooy keey k\u014dr\u014d\u014dyi",
+    "en": "Main references for medical info:"
+  },
+  "167": {
+    "enb": "N\u0113\u0113 m\u0101r\u0113y ip\u0101yiisy\u0113\u0113r\u0113\u0113 nk\u014d\u014d oor aka t\u014dk\u014dl isoom: comicsforgood@gmail.com",
+    "en": "\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+  },
+  "168": {
+    "enb": "N\u0113\u0113 m\u0101r\u0113y ip\u0101yiisy\u0113\u0113r\u0113\u0113 nk\u014d\u014d oor aka t\u014dk\u014dl isoom: comicsforgood@gmail.com",
+    "en": "\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+  },
+  "171": {
+    "enb": "Akip\u014d k\u014dr\u014d\u014dyi p\u014d Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "172": {
+    "enb": "Akip\u014d k\u014dr\u014d\u014dyi p\u014d Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "173": {
+    "enb": "Akip\u014d k\u014dr\u014d\u014dyi p\u014d Coronavirus",
+    "en": "About Coronavirus"
+  },
+  "178": {
+    "enb": "Translated by Michael Yano, Edwin Suter, and Paul Kanda"
+  },
+  "180": {
+    "enb": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

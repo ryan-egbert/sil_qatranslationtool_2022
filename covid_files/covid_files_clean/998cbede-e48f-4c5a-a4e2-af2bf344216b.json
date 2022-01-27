@@ -1,0 +1,106 @@
+{
+    "allTitles": "{\"en\":\"Avoid Covid-19 (Asia)\"}",
+    "author": null,
+    "bookInstanceId": "998cbede-e48f-4c5a-a4e2-af2bf344216b",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+    "bookSamples": {
+        "0": {
+            "eng": "Avoid Covid-19 (Asia)"
+        },
+        "1": {
+            "eng": ""
+        },
+        "2": {
+            "eng": ""
+        },
+        "3": {
+            "eng": ""
+        },
+        "4": {
+            "eng": "Avoid Covid-19 (Asia)"
+        },
+        "5": {
+            "eng": "Illustrations:\u00a0 Elaine Vitikainen\u00a0\n\nInformation was taken from WHO websites such as https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\n\nVersion 8.4.2020"
+        },
+        "6": {
+            "eng": "Covid-19 Asian version"
+        },
+        "7": {
+            "eng": ""
+        },
+        "8": {
+            "eng": ""
+        },
+        "9": {
+            "eng": ""
+        },
+        "10": {
+            "eng": "Wash your hands regularly with soap and water, or clean them with an alcohol-based hand rub.\n\n"
+        },
+        "11": {
+            "eng": "Avoid touching your eyes, nose and mouth.\n"
+        },
+        "12": {
+            "eng": "Cover your nose and mouth with your bent elbow or tissue when you cough or sneeze. Dispose of the used tissue immediately.\n\n\n"
+        },
+        "13": {
+            "eng": "Maintain a distance of 2 meters between yourself and others.\u00a0\nAvoid unnecessary travel and stay away from large groups of people.\u00a0\n\n\n"
+        },
+        "14": {
+            "eng": "Stay at home if you feel unwell.\nIf you have a fever, cough or difficulty breathing, seek medical attention early.\n\n"
+        },
+        "15": {
+            "eng": "Stay informed\u00a0about\u00a0the latest developments\u00a0on\u00a0COVID-19.\u00a0\nFind information from reliable\nsources and\u00a0\u00a0follow\u00a0the\u00a0advice given by your healthcare provider.\u00a0\n"
+        },
+        "16": {
+            "eng": ""
+        },
+        "17": {
+            "eng": ""
+        }
+    },
+    "bookText": {
+        "eng": "Avoid Covid-19 (Asia)\n\n\n\nAvoid Covid-19 (Asia)\nIllustrations:\u00a0 Elaine Vitikainen\u00a0\n\nInformation was taken from WHO websites such as https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\n\nVersion 8.4.2020\nCovid-19 Asian version\n\n\n\nWash your hands regularly with soap and water, or clean them with an alcohol-based hand rub.\n\n\nAvoid touching your eyes, nose and mouth.\n\nCover your nose and mouth with your bent elbow or tissue when you cough or sneeze. Dispose of the used tissue immediately.\n\n\n\nMaintain a distance of 2 meters between yourself and others.\u00a0\nAvoid unnecessary travel and stay away from large groups of people.\u00a0\n\n\n\nStay at home if you feel unwell.\nIf you have a fever, cough or difficulty breathing, seek medical attention early.\n\n\nStay informed\u00a0about\u00a0the latest developments\u00a0on\u00a0COVID-19.\u00a0\nFind information from reliable\nsources and\u00a0\u00a0follow\u00a0the\u00a0advice given by your healthcare provider.\u00a0\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "eng"
+    ],
+    "copyright": null,
+    "country": "",
+    "credits": "",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English"
+    },
+    "languages": [],
+    "license": "cc-by-nc",
+    "licenseNotes": null,
+    "page-number-style": "Decimal",
+    "pageCount": 12,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Asian illustrations version of the Avoid Covid-19 booklet",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Avoid Covid-19 (Asia)",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

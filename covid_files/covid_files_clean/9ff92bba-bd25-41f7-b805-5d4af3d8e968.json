@@ -1,0 +1,354 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"ssn\":\"Kiruusih koroonah ah gula\"}",
+    "author": null,
+    "bookInstanceId": "9ff92bba-bd25-41f7-b805-5d4af3d8e968",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "ssn": "Kiruusih koroonah ah gula"
+        },
+        "1": {
+            "eng": "",
+            "ssn": ""
+        },
+        "2": {
+            "eng": "",
+            "ssn": "Translated by Reuben Soso, Gideon Abadiwa & Sarah Wario"
+        },
+        "3": {
+            "ssn": ""
+        },
+        "4": {
+            "ssn": "Wunih TOKO ch\u2019alaati jira tah atini huwanoh ani malte aka kiruusih koroonah ah t\u2019iliptu"
+        },
+        "5": {
+            "ssn": ""
+        },
+        "6": {
+            "ssn": "Afaana"
+        },
+        "7": {
+            "ssn": "Funaani"
+        },
+        "8": {
+            "ssn": "Ila"
+        },
+        "9": {
+            "ssn": "Tenteh kesa \u00a0isheentu"
+        },
+        "10": {
+            "ssn": "Nama bifa daansah k\u2019au"
+        },
+        "11": {
+            "ssn": "Nama d\u2019ukuwah"
+        },
+        "12": {
+            "ssn": "Kiruusih ini hint\u2019ilipti mala ch\u2019och\u2019owa ini kuni"
+        },
+        "13": {
+            "ssn": "Baiyah taai. 2m ch\u2019och\u2019owa gudah arah sih jiraachipti"
+        },
+        "14": {
+            "ssn": "1"
+        },
+        "15": {
+            "ssn": "2m"
+        },
+        "16": {
+            "ssn": "Hatishoo!"
+        },
+        "17": {
+            "ssn": "Suniifi woh atini nama taleh k\u2019ufoh/hat\u2019ifatu/nama d\u2019ukuwah d\u2019egertu atini dendeecheh fook\u2019ata:"
+        },
+        "18": {
+            "ssn": "Maaskih isaaniti kani. Isaani dendeanih ishih kasaati k\u2019ufaanih yoh anamah isaaniti d\u2019iyaatu gaadani."
+        },
+        "19": {
+            "ssn": "2"
+        },
+        "20": {
+            "ssn": "D\u2019ud\u2019ah fed\u2019ed\u2019i *tah hara hintimsiisine*\u00a0"
+        },
+        "21": {
+            "ssn": "YOH"
+        },
+        "22": {
+            "ssn": "Ishiini gaafiah d\u2019ukuh hink\u2019abduh, amoh ufuuma gaadi."
+        },
+        "23": {
+            "ssn": "Anamah d\u2019ukuh ini isheene \u00a0dendeanih hakeeka hind\u2019egersiisanuh, amoh isaani d\u2019ukuh anamah ati hindawarsani"
+        },
+        "24": {
+            "ssn": "Amaleh, moma daansah goduh marfanooni, malyenani atini himbeechuh kah d\u2019ukuh k\u2019au."
+        },
+        "25": {
+            "ssn": "Muka segeleh ani nyaatanu"
+        },
+        "26": {
+            "ssn": "Nama bifa daansah k\u2019au"
+        },
+        "27": {
+            "ssn": "Haada barsiiah"
+        },
+        "28": {
+            "ssn": "Ufunguoh arana ola yaawanuuni"
+        },
+        "29": {
+            "ssn": "Kartaasih faltih ah/ K\u2019art\u2019aasih ifa baanuni\u00a0 \u00a0"
+        },
+        "30": {
+            "ssn": "Gura kooreah"
+        },
+        "31": {
+            "ssn": "K\u2019odah d\u2019ijitoolih ah"
+        },
+        "32": {
+            "ssn": "& even on the outside of your face mask"
+        },
+        "33": {
+            "ssn": "Urga k\u2019awatanih arana ola yaawanuni."
+        },
+        "34": {
+            "ssn": "Mausih"
+        },
+        "35": {
+            "ssn": "Kalaamuh"
+        },
+        "36": {
+            "ssn": "Hiichuh \u00a0Ch\u2019ufanah ah"
+        },
+        "37": {
+            "ssn": "Harka isaanih"
+        },
+        "38": {
+            "ssn": "Akumsuuleh, hanch\u2019ufa nama faiyah hink\u2019amneh dendee nama d\u2019iwih geah\u2026"
+        },
+        "39": {
+            "ssn": "Isani t\u2019uut\u2019umah dendeechanih d\u2019ukuh d\u2019ak\u2019abdani\u00a0"
+        },
+        "40": {
+            "ssn": "Yoh fuula dega atini feetuh"
+        },
+        "41": {
+            "ssn": "Ila tenteh rhiju"
+        },
+        "42": {
+            "ssn": "Amaleh woh atini tokocha wunih tanah sitih\u00a0 himbeenye tuch\u2019u, amaleh fuula kenkeh tuch\u2019u,"
+        },
+        "43": {
+            "ssn": "Amaleh dirbuh ishih ufa arah\u00a0 d\u2019oorganuuni saab\u2019unih afi\u00a0 had\u2019ah yoh, daad\u2019ih ani sad\u2019aneesi"
+        },
+        "44": {
+            "ssn": "Kiruusih ini dendeecheh saa fed\u2019eti k\u2019odah ara teesuma"
+        },
+        "45": {
+            "ssn": "Saab\u2019unih"
+        },
+        "46": {
+            "ssn": ""
+        },
+        "47": {
+            "ssn": "Aka maalifi amaleh atamiini dirbuh ufa gaadanuni tuni hordofaani daansaa?"
+        },
+        "48": {
+            "ssn": "Saab\u2019unih d\u2019ik\u2019i sunumaani bereh tana."
+        },
+        "49": {
+            "ssn": "Saab\u2019unih"
+        },
+        "50": {
+            "ssn": "Ch\u2019ik\u2019ileh"
+        },
+        "51": {
+            "ssn": "Fuula kenkeh hintukini. (Yoh fuula anamah d\u2019iwiah.) Woh atini tuch\u2019u, dursah saab\u2019unih ani aka daansah harka d\u2019ik\u2019ad\u2019i.\u00a0"
+        },
+        "52": {
+            "ssn": "Wogah aka sirba \u201cAabah Jeesoh faarsinah\u201d \u00a0d\u2019oochah"
+        },
+        "53": {
+            "ssn": "K\u2019eensa jala"
+        },
+        "54": {
+            "ssn": "Sekoondih 20"
+        },
+        "55": {
+            "ssn": "Jiduh harkah"
+        },
+        "56": {
+            "ssn": "Hirba harka keetih d\u2019ik\u2019i"
+        },
+        "57": {
+            "ssn": "Aka daansaani"
+        },
+        "58": {
+            "ssn": "Woh atini tuch\u2019u, himudamini.\u00a0 Bisaani umani harka kenkeh d\u2019ik\u2019ad\u2019i hirbah."
+        },
+        "59": {
+            "ssn": "Amaleh, woh ishiini dendeesiptu ifa maskih ah hintuk\u2019ini."
+        },
+        "60": {
+            "ssn": "Ch\u2019och\u2019owa"
+        },
+        "61": {
+            "ssn": "Bineesa ch\u2019ach\u2019arak\u2019oh oni maskih kesaati gugurdata mala atini wogah d\u2019eertuh kaayatu."
+        },
+        "62": {
+            "ssn": "Maaskih geti mala iniini t\u2019uraau. Guyah tokocha ch\u2019alah\u00a0 kaayad\u2019i"
+        },
+        "63": {
+            "ssn": "Heluh ani\u00a0 segeleh baasi"
+        },
+        "64": {
+            "ssn": "imooleh"
+        },
+        "65": {
+            "ssn": "Aabah"
+        },
+        "66": {
+            "ssn": "Aayah"
+        },
+        "67": {
+            "ssn": "Anamah t\u2019uut\u2019umah wah ayah bisaani ini d\u2019ik\u2019atanu k\u2019awaatuh"
+        },
+        "68": {
+            "ssn": "Segeleh nyaanoh anamah atini wulti hindaramini, k\u2019odah yoh wayah bisaani ini d\u2019ik\u2019atanu"
+        },
+        "69": {
+            "ssn": "Atini dendeecheh fuula kenkeh ch\u2019ik\u2019ileh teetini hintuch\u2019uh woh atini hiikaafi baateleah."
+        },
+        "70": {
+            "ssn": "Woh ishiini dendeesiptu ch\u2019ufanah ch\u2019ik\u2019ileh afi hagooda keetini ch\u2019ufi urga harkah."
+        },
+        "71": {
+            "ssn": "Wora"
+        },
+        "72": {
+            "ssn": "Amaleh hirba atini gara ifaatih d\u2019uptu"
+        },
+        "73": {
+            "ssn": "Sitih kah takah\u00a0 hinyaatini"
+        },
+        "74": {
+            "ssn": "Wogah \u00a0t\u2019uut\u2019umah saab\u2019unih ani harka d\u2019ik\u2019ad\u2019i"
+        },
+        "75": {
+            "ssn": "Amaleh muumeh ishiah,"
+        },
+        "76": {
+            "ssn": "Saab\u2019unih"
+        },
+        "77": {
+            "ssn": "Nageh taa, isani t\u2019uut\u2019umah!"
+        },
+        "78": {
+            "ssn": "Nageh taa, isani t\u2019uut\u2019umah!"
+        },
+        "79": {
+            "ssn": "Saab\u2019unih"
+        },
+        "80": {
+            "ssn": "Barsiisa kana shoomi moma gudah d\u2019ak\u2019abdiafi!\u00a0"
+        },
+        "81": {
+            "ssn": "\u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020).\n"
+        },
+        "82": {
+            "ssn": "\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report.\u00a0 (Jan 25, 2020).\n"
+        },
+        "83": {
+            "ssn": "\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion.\u00a0 (Jan 28,2020).\n"
+        },
+        "84": {
+            "ssn": "Urga guduyuh oduh\u00a0 walaansa gulah"
+        },
+        "85": {
+            "ssn": "Additional notes: Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in everyday life, even when there is no epidemic.\u00a0\nReferences: Information in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation A PDF version of the comic is available for free download here:https://gumroad.com/weimankowart\u00a0\nSharing Guidelines This comic is free for the general public to share online and through WhatsApp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: 1) No edits to the comics is allowed in any way when sharing.2) Comics cannot be used for any commercial project3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\nFor all other uses, please send a request in to: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "ssn": "Kiruusih koroonah ah gula"
+        },
+        "87": {
+            "eng": "",
+            "ssn": ""
+        },
+        "88": {
+            "eng": "Bible Translation & Literacy, E.A",
+            "ssn": ""
+        },
+        "89": {
+            "eng": "Translated by Reuben Soso/Gideon Abadiwa/Sarah Wario",
+            "ssn": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "ssn": ""
+        },
+        "91": {
+            "eng": "",
+            "ssn": ""
+        },
+        "92": {
+            "eng": "",
+            "ssn": ""
+        },
+        "93": {
+            "eng": "",
+            "ssn": ""
+        },
+        "94": {
+            "eng": "",
+            "ssn": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\nBible Translation & Literacy, E.A\nTranslated by Reuben Soso/Gideon Abadiwa/Sarah Wario\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "ssn": "Kiruusih koroonah ah gula\n\nTranslated by Reuben Soso, Gideon Abadiwa & Sarah Wario\n\nWunih TOKO ch\u2019alaati jira tah atini huwanoh ani malte aka kiruusih koroonah ah t\u2019iliptu\n\nAfaana\nFunaani\nIla\nTenteh kesa \u00a0isheentu\nNama bifa daansah k\u2019au\nNama d\u2019ukuwah\nKiruusih ini hint\u2019ilipti mala ch\u2019och\u2019owa ini kuni\nBaiyah taai. 2m ch\u2019och\u2019owa gudah arah sih jiraachipti\n1\n2m\nHatishoo!\nSuniifi woh atini nama taleh k\u2019ufoh/hat\u2019ifatu/nama d\u2019ukuwah d\u2019egertu atini dendeecheh fook\u2019ata:\nMaaskih isaaniti kani. Isaani dendeanih ishih kasaati k\u2019ufaanih yoh anamah isaaniti d\u2019iyaatu gaadani.\n2\nD\u2019ud\u2019ah fed\u2019ed\u2019i *tah hara hintimsiisine*\u00a0\nYOH\nIshiini gaafiah d\u2019ukuh hink\u2019abduh, amoh ufuuma gaadi.\nAnamah d\u2019ukuh ini isheene \u00a0dendeanih hakeeka hind\u2019egersiisanuh, amoh isaani d\u2019ukuh anamah ati hindawarsani\nAmaleh, moma daansah goduh marfanooni, malyenani atini himbeechuh kah d\u2019ukuh k\u2019au.\nMuka segeleh ani nyaatanu\nNama bifa daansah k\u2019au\nHaada barsiiah\nUfunguoh arana ola yaawanuuni\nKartaasih faltih ah/ K\u2019art\u2019aasih ifa baanuni\u00a0 \u00a0\nGura kooreah\nK\u2019odah d\u2019ijitoolih ah\n& even on the outside of your face mask\nUrga k\u2019awatanih arana ola yaawanuni.\nMausih\nKalaamuh\nHiichuh \u00a0Ch\u2019ufanah ah\nHarka isaanih\nAkumsuuleh, hanch\u2019ufa nama faiyah hink\u2019amneh dendee nama d\u2019iwih geah\u2026\nIsani t\u2019uut\u2019umah dendeechanih d\u2019ukuh d\u2019ak\u2019abdani\u00a0\nYoh fuula dega atini feetuh\nIla tenteh rhiju\nAmaleh woh atini tokocha wunih tanah sitih\u00a0 himbeenye tuch\u2019u, amaleh fuula kenkeh tuch\u2019u,\nAmaleh dirbuh ishih ufa arah\u00a0 d\u2019oorganuuni saab\u2019unih afi\u00a0 had\u2019ah yoh, daad\u2019ih ani sad\u2019aneesi\nKiruusih ini dendeecheh saa fed\u2019eti k\u2019odah ara teesuma\nSaab\u2019unih\n\nAka maalifi amaleh atamiini dirbuh ufa gaadanuni tuni hordofaani daansaa?\nSaab\u2019unih d\u2019ik\u2019i sunumaani bereh tana.\nSaab\u2019unih\nCh\u2019ik\u2019ileh\nFuula kenkeh hintukini. (Yoh fuula anamah d\u2019iwiah.) Woh atini tuch\u2019u, dursah saab\u2019unih ani aka daansah harka d\u2019ik\u2019ad\u2019i.\u00a0\nWogah aka sirba \u201cAabah Jeesoh faarsinah\u201d \u00a0d\u2019oochah\nK\u2019eensa jala\nSekoondih 20\nJiduh harkah\nHirba harka keetih d\u2019ik\u2019i\nAka daansaani\nWoh atini tuch\u2019u, himudamini.\u00a0 Bisaani umani harka kenkeh d\u2019ik\u2019ad\u2019i hirbah.\nAmaleh, woh ishiini dendeesiptu ifa maskih ah hintuk\u2019ini.\nCh\u2019och\u2019owa\nBineesa ch\u2019ach\u2019arak\u2019oh oni maskih kesaati gugurdata mala atini wogah d\u2019eertuh kaayatu.\nMaaskih geti mala iniini t\u2019uraau. Guyah tokocha ch\u2019alah\u00a0 kaayad\u2019i\nHeluh ani\u00a0 segeleh baasi\nimooleh\nAabah\nAayah\nAnamah t\u2019uut\u2019umah wah ayah bisaani ini d\u2019ik\u2019atanu k\u2019awaatuh\nSegeleh nyaanoh anamah atini wulti hindaramini, k\u2019odah yoh wayah bisaani ini d\u2019ik\u2019atanu\nAtini dendeecheh fuula kenkeh ch\u2019ik\u2019ileh teetini hintuch\u2019uh woh atini hiikaafi baateleah.\nWoh ishiini dendeesiptu ch\u2019ufanah ch\u2019ik\u2019ileh afi hagooda keetini ch\u2019ufi urga harkah.\nWora\nAmaleh hirba atini gara ifaatih d\u2019uptu\nSitih kah takah\u00a0 hinyaatini\nWogah \u00a0t\u2019uut\u2019umah saab\u2019unih ani harka d\u2019ik\u2019ad\u2019i\nAmaleh muumeh ishiah,\nSaab\u2019unih\nNageh taa, isani t\u2019uut\u2019umah!\nNageh taa, isani t\u2019uut\u2019umah!\nSaab\u2019unih\nBarsiisa kana shoomi moma gudah d\u2019ak\u2019abdiafi!\u00a0\n\u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020).\n\n\u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report.\u00a0 (Jan 25, 2020).\n\n\u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion.\u00a0 (Jan 28,2020).\n\nUrga guduyuh oduh\u00a0 walaansa gulah\nAdditional notes: Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in everyday life, even when there is no epidemic.\u00a0\nReferences: Information in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation A PDF version of the comic is available for free download here:https://gumroad.com/weimankowart\u00a0\nSharing Guidelines This comic is free for the general public to share online and through WhatsApp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: 1) No edits to the comics is allowed in any way when sharing.2) Comics cannot be used for any commercial project3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\nFor all other uses, please send a request in to: comicsforgood@gmail.com\nKiruusih koroonah ah gula\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "ssn",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Bible Translation & Literacy E. A",
+    "country": "Kenya",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "rURKEQjr2d"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "ssn": "Waata"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "Do not change the text of this work, but you may translate it, adapt it into other forms, and distribute it for non-commercial purposes. You must keep the copyrights and credits for the author and illustrator Weiman Kou.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "Kiruusih koroonah ah gula",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

@@ -1,0 +1,385 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "6e890dc3-e615-4e64-8c9e-6a5e74d37917",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Isaroaka Virus Corona",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"id\":\"Tentang Virus Corona\",\"lts\":\"Olumbe lwa Korona\",\"wlo\":\"Isaroaka Virus Corona\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+  "downloadSource": "media@suluh.org/6e890dc3-e615-4e64-8c9e-6a5e74d37917",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+  "copyright": "Copyright \u00a9 2020, Weiman Kow",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "zzbTpAE2Sg"
+    }
+  ],
+  "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Indonesia",
+  "province": "Sulawesi Tenggara",
+  "district": "Buton",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "c1ceNFU299"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "lts": "Lutachoni",
+    "id": "Indonesian",
+    "wlo": "Wolio"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "2": {
+    "lts": "Olumbe lwa Korona",
+    "wlo": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "3": {
+    "lts": "Olumbe lwa Korona",
+    "wlo": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "4": {
+    "lts": "Olumbe lwa Korona",
+    "wlo": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "5": {
+    "lts": "Olumbe lwa Korona",
+    "wlo": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "13": {
+    "wlo": ""
+  },
+  "14": {
+    "wlo": ""
+  },
+  "15": {
+    "wlo": ""
+  },
+  "16": {
+    "wlo": ""
+  },
+  "17": {
+    "wlo": ""
+  },
+  "18": {
+    "wlo": ""
+  },
+  "19": {
+    "wlo": "malape"
+  },
+  "20": {
+    "wlo": ""
+  },
+  "21": {
+    "wlo": ""
+  },
+  "22": {
+    "wlo": "Pekaridho, mamudhaakana ingkoo\u00a0usalamati tee\u00a0inda kangkanaiko pasikina wilu jadi pekaridhomo rua metere."
+  },
+  "23": {
+    "wlo": "1"
+  },
+  "24": {
+    "wlo": "2m-0,5m"
+  },
+  "25": {
+    "wlo": ""
+  },
+  "26": {
+    "wlo": ""
+  },
+  "27": {
+    "wlo": "Dhawu manga incia masker. Jadi manga incia membali asambaho/akomeke i nuncana maskerna mamudhaakana\u00a0ajagani manga miana i sambalina."
+  },
+  "28": {
+    "wlo": "2"
+  },
+  "29": {
+    "wlo": ""
+  },
+  "30": {
+    "wlo": ""
+  },
+  "31": {
+    "wlo": "Amembali uka mia sii\u00a0inda amapii. Incia soo\u00a0jagani karona."
+  },
+  "32": {
+    "wlo": ""
+  },
+  "33": {
+    "wlo": ""
+  },
+  "34": {
+    "wlo": ""
+  },
+  "35": {
+    "wlo": ""
+  },
+  "36": {
+    "wlo": ""
+  },
+  "37": {
+    "wlo": ""
+  },
+  "38": {
+    "wlo": ""
+  },
+  "39": {
+    "wlo": ""
+  },
+  "40": {
+    "wlo": ""
+  },
+  "41": {
+    "wlo": ""
+  },
+  "42": {
+    "wlo": ""
+  },
+  "43": {
+    "wlo": ""
+  },
+  "44": {
+    "wlo": ""
+  },
+  "45": {
+    "wlo": ""
+  },
+  "46": {
+    "wlo": ""
+  },
+  "47": {
+    "wlo": ""
+  },
+  "48": {
+    "wlo": "Ingkomiu bhari-bharia amembali kangkanaikomiu kapii."
+  },
+  "49": {
+    "wlo": "Atawa rouna mia i saripimiu\u00a0umaasiakea,"
+  },
+  "50": {
+    "wlo": ""
+  },
+  "51": {
+    "wlo": "Ande ingkomiu\u00a0inda tee haejati\u00a0ukeni manga giuna bara-bara itu, siimpo ukeni roumiu,"
+  },
+  "52": {
+    "wlo": "Saangu-saanguna cara malape to pekamate virus mboo ubhanuia tee pake cabo, pemutih, atawa alkohol."
+  },
+  "53": {
+    "wlo": "Virus membali adhadhi 24 jamu i kulina manga giuna bara."
+  },
+  "54": {
+    "wlo": "Cabo"
+  },
+  "55": {
+    "wlo": "pewau giu mboo\u00a0sii to jagani karomiu."
+  },
+  "56": {
+    "wlo": ""
+  },
+  "57": {
+    "wlo": ""
+  },
+  "58": {
+    "wlo": "Cabo"
+  },
+  "59": {
+    "wlo": "Siku"
+  },
+  "60": {
+    "wlo": ""
+  },
+  "61": {
+    "wlo": ""
+  },
+  "62": {
+    "wlo": ""
+  },
+  "63": {
+    "wlo": ""
+  },
+  "64": {
+    "wlo": "I solongkina kauna lima"
+  },
+  "65": {
+    "wlo": ""
+  },
+  "66": {
+    "wlo": "Tuaapa carana bhanui lima mamudhaakana momangkilona?"
+  },
+  "67": {
+    "wlo": "Ande atokeni, bholi maeka. Lausaka bhanui limamu tee\u00a0cabo."
+  },
+  "68": {
+    "wlo": ""
+  },
+  "69": {
+    "wlo": ""
+  },
+  "70": {
+    "wlo": "Panyaki membali adhadhi i nuncana masker ande atopake mangenge lau-launa."
+  },
+  "71": {
+    "wlo": "Bhanakea maskermu ande amarombumo. Bholi pake masker labhi saeo\u00a0kangengena."
+  },
+  "72": {
+    "wlo": ""
+  },
+  "73": {
+    "wlo": "Ana"
+  },
+  "74": {
+    "wlo": "Ama"
+  },
+  "75": {
+    "wlo": "Ina"
+  },
+  "76": {
+    "wlo": ""
+  },
+  "77": {
+    "wlo": ""
+  },
+  "78": {
+    "wlo": ""
+  },
+  "79": {
+    "wlo": "Ande amembali, bungkale tee\u00a0tutubi bhamba pake siku atawa o awaa."
+  },
+  "80": {
+    "wlo": "Bhanua"
+  },
+  "81": {
+    "wlo": ""
+  },
+  "82": {
+    "wlo": "Ande indapo ukande"
+  },
+  "83": {
+    "wlo": ""
+  },
+  "84": {
+    "wlo": ""
+  },
+  "85": {
+    "wlo": "Cabo"
+  },
+  "86": {
+    "wlo": ""
+  },
+  "87": {
+    "wlo": ""
+  },
+  "88": {
+    "wlo": "Cabo"
+  },
+  "89": {
+    "wlo": ""
+  },
+  "90": {
+    "wlo": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "91": {
+    "wlo": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+  },
+  "92": {
+    "wlo": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+  },
+  "93": {
+    "wlo": ""
+  },
+  "94": {
+    "wlo": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+  },
+  "97": {
+    "lts": "Olumbe lwa Korona",
+    "wlo": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "98": {
+    "lts": "Olumbe lwa Korona",
+    "wlo": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "99": {
+    "lts": "Olumbe lwa Korona",
+    "wlo": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "100": {
+    "lts": "Olumbe lwa Korona",
+    "wlo": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "106": {
+    "en": "Erni dan Lukman"
+  },
+  "108": {
+    "en": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org"
+  },
+  "111": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

@@ -1,0 +1,106 @@
+{
+    "allTitles": "{\"en\":\"Avoid Covid-19\"}",
+    "author": null,
+    "bookInstanceId": "12b180ea-a5e9-4402-9346-4c06f5ba4177",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+    "bookSamples": {
+        "0": {
+            "eng": "Avoid Covid-19"
+        },
+        "1": {
+            "eng": ""
+        },
+        "2": {
+            "eng": ""
+        },
+        "3": {
+            "eng": ""
+        },
+        "4": {
+            "eng": "Avoid Covid-19"
+        },
+        "5": {
+            "eng": "Illustrations:\u00a0 Ari and Elaine Vitikainen\u00a0\n\nInformation was taken from WHO websites such as https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\n\nVersion 27.3.2020"
+        },
+        "6": {
+            "eng": "Literacy for Women in Africa"
+        },
+        "7": {
+            "eng": ""
+        },
+        "8": {
+            "eng": ""
+        },
+        "9": {
+            "eng": ""
+        },
+        "10": {
+            "eng": "Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.\n\n"
+        },
+        "11": {
+            "eng": "Avoid touching eyes, nose and mouth.\n"
+        },
+        "12": {
+            "eng": "Cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose\u00a0 the used tissue immediately.\n\n\n"
+        },
+        "13": {
+            "eng": "Maintain 2 meters distance between yourself and others.\n\n"
+        },
+        "14": {
+            "eng": "Stay home if you feel unwell.\nIf you have fever, cough and difficulty breathing, seek medical attention early.\n\n"
+        },
+        "15": {
+            "eng": "Stay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider.\n\n"
+        },
+        "16": {
+            "eng": ""
+        },
+        "17": {
+            "eng": ""
+        }
+    },
+    "bookText": {
+        "eng": "Avoid Covid-19\n\n\n\nAvoid Covid-19\nIllustrations:\u00a0 Ari and Elaine Vitikainen\u00a0\n\nInformation was taken from WHO websites such as https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\n\nVersion 27.3.2020\nLiteracy for Women in Africa\n\n\n\nWash your hands regularly with soap and water, or clean them with alcohol-based hand rub.\n\n\nAvoid touching eyes, nose and mouth.\n\nCover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose\u00a0 the used tissue immediately.\n\n\n\nMaintain 2 meters distance between yourself and others.\n\n\nStay home if you feel unwell.\nIf you have fever, cough and difficulty breathing, seek medical attention early.\n\n\nStay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider.\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Illustrations by Elaine Vitikainen\r\nhttps://ev-visuals.com/",
+    "country": "",
+    "credits": "",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English"
+    },
+    "languages": [],
+    "license": "cc-by-nc",
+    "licenseNotes": "",
+    "page-number-style": "Decimal",
+    "pageCount": 12,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Basic information on how to avoid Coronavirus (Covid-19)",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Avoid Covid-19",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

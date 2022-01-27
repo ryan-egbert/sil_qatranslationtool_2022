@@ -1,0 +1,441 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"tom\":\"UN TOTOZ KATA'UANTA\nTUMORO U VIRUS CORONA\"}",
+    "author": null,
+    "bookInstanceId": "d8a787aa-e541-45a6-bab5-4c2b80855f31",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,726d708d-535e-47af-8905-ce6e5e0d745c",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "tom": "UN TOTOZ KATA'UANTA\nTUMORO U VIRUS CORONA"
+        },
+        "1": {
+            "eng": "",
+            "tom": ""
+        },
+        "2": {
+            "eng": "",
+            "tom": "Bahasa Tombulu"
+        },
+        "3": {
+            "eng": "",
+            "tom": ""
+        },
+        "4": {
+            "eng": "There's only ONE thing \ufeffyou need to understand about how a coronavirus",
+            "tom": "ESA uman un totoz kata\u2019uan nioua tumoro kura u virus Corona"
+        },
+        "5": {
+            "eng": "SPREADS",
+            "tom": "i mahlaputa"
+        },
+        "6": {
+            "eng": "Mouth",
+            "tom": "Sumah"
+        },
+        "7": {
+            "eng": "Nose",
+            "tom": "Ngirung"
+        },
+        "8": {
+            "eng": "Eyes",
+            "tom": "Weren"
+        },
+        "9": {
+            "eng": "Get into your",
+            "tom": "muntepa wana am"
+        },
+        "10": {
+            "eng": "Healthy Person",
+            "tom": "Tou\nz\u00e9i\u2019kan saki"
+        },
+        "11": {
+            "eng": "Sick Person",
+            "tom": "Tou\nsaki"
+        },
+        "12": {
+            "eng": "The virus spreads when \ufeffthese droplets",
+            "tom": "U virus \u00e9m pahkalaputa\nkaria u rura\u2019 pahkapesika kenu"
+        },
+        "13": {
+            "eng": "Keep your distance.\ufeff2m will keep you safe from large droplets.",
+            "tom": "Zumou\u2019la. Ni kamu \u00e9n z\u00e9i\u2019kan pahkaayoan\u00e9 u rura\u2019 mahpesik\u00e9 sa zumou\u2019la 2m."
+        },
+        "14": {
+            "eng": "1",
+            "tom": "1"
+        },
+        "15": {
+            "eng": "2m",
+            "tom": "\u00bdm - 2m"
+        },
+        "16": {
+            "eng": "Achoo!",
+            "tom": "Haaachii!!"
+        },
+        "17": {
+            "eng": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:",
+            "tom": "Niitumo, sa ni kamu mileka si tou mahenga/mahtihoi/saki, ni kamu \u00e9 l\u00e9wo\u2019z\u00e9i\u2019:"
+        },
+        "18": {
+            "eng": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby.",
+            "tom": "W\u00c9HANA MASKER S\u00c9RA.\nNi s\u00e9ra \u00e9n toro tumihoi/mengah witu u maskerna wo z\u00e9i\u2019kan ikaayoma wia s\u00e9 tou witu r\u00e9t\u00e9na."
+        },
+        "19": {
+            "eng": "2",
+            "tom": "2"
+        },
+        "20": {
+            "eng": "Thank you\ufeff*sniffles*",
+            "tom": "Tamb\u00e9r\nwangko\u2019\n*SROOT*"
+        },
+        "21": {
+            "eng": "OR,",
+            "tom": "KAAPA"
+        },
+        "22": {
+            "eng": "Maybe she's not sick, just protecting herself",
+            "tom": "Si tou itii woo z\u00e9i\u2019kan saki. Ni sia \u00e9ng kimelung uman un touna."
+        },
+        "23": {
+            "eng": "People who are infected can show no symptoms, but are still\ufeffinfectious",
+            "tom": "Si tou kinalaputano \u00e9n z\u00e9i\u2019kan kata\u2019uanta, taan toro uman lumaputa u sakina."
+        },
+        "24": {
+            "eng": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick.",
+            "tom": "Um wangun \u00e9 zumou\u2019m\u00e9 im wia s\u00e9 tou lakez, pahpaan z\u00e9i\u2019kan kata\u2019uannu s\u00e9i si l\u00e9wo\u2019 pendanen."
+        },
+        "25": {
+            "eng": "Chopsticks",
+            "tom": "Am pemamak\u00e9n i mahkan"
+        },
+        "26": {
+            "eng": "Healthy person",
+            "tom": "S\u00e9 tou l\u00e9\u2019o-l\u00e9\u2019os uman"
+        },
+        "27": {
+            "eng": "Train straps",
+            "tom": "Titionan wana ang ker\u00e9ta"
+        },
+        "28": {
+            "eng": "Lift buttons",
+            "tom": "An ipahkepel wana a lif"
+        },
+        "29": {
+            "eng": "Tissues",
+            "tom": "Tisyu"
+        },
+        "30": {
+            "eng": "Cups",
+            "tom": "Eelepan"
+        },
+        "31": {
+            "eng": "Digital devices",
+            "tom": "Leptop,\nHP wo am walina"
+        },
+        "32": {
+            "eng": "& even on the outside of your face mask",
+            "tom": "U LUARNA\nu masker"
+        },
+        "33": {
+            "eng": "Stair bannisters",
+            "tom": "Titionan an ahzan"
+        },
+        "34": {
+            "eng": "Mouse",
+            "tom": "Mous ang computer"
+        },
+        "35": {
+            "eng": "Pens",
+            "tom": "Potlot"
+        },
+        "36": {
+            "eng": "Door knobs",
+            "tom": "Titionan am pepenet"
+        },
+        "37": {
+            "eng": "Their hands",
+            "tom": "Lengen n\u00e9ra"
+        },
+        "38": {
+            "eng": "However, sometimes a sick person's saliva can get on other things\u2026",
+            "tom": "Zozo\u2019 in t\u00e9ntu, satorona u rura\u2019 ni tou saki \u00e9n toro lumaput wana a\u2026"
+        },
+        "39": {
+            "eng": "you might all fall sick.",
+            "tom": "ni kamu p\u00e9l\u00e9ng \u00e9n toro uman masaki."
+        },
+        "40": {
+            "eng": "or your loved one's face",
+            "tom": "kaapa ang gio n\u00e9 tou karaat\u00e9mu,"
+        },
+        "41": {
+            "eng": "rub eyes",
+            "tom": "mahpurisi um weren"
+        },
+        "42": {
+            "eng": "And if you do touch any of these things by accident, and then touch your face,",
+            "tom": "Sa kamu m\u00e9ikationa wana ang kinuamoma itii, an tumiona ung giomu in esa,"
+        },
+        "43": {
+            "eng": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.",
+            "tom": "Un totoz wangun i zum\u00e9i\u2019 a virus \u00e9 mo\u2019as niitu karia\u00a0 u sabong, um pahkulo\u2019 ang karai,\nkaapa alkohol."
+        },
+        "44": {
+            "eng": "Viruses can last for quite a few hours on objects,",
+            "tom": "U virus \u00e9n toro uman tumahang makaz 24 jam witu un apa uman."
+        },
+        "45": {
+            "eng": "soap",
+            "tom": "Sabong"
+        },
+        "46": {
+            "eng": "precautions",
+            "tom": "an toro wangunen i zum\u00e9i\u2019 tanu ang kenu."
+        },
+        "47": {
+            "eng": "Which is why it is also good to follow these",
+            "tom": "Niitumo, um wangun \u00e9ng kiitala u"
+        },
+        "48": {
+            "eng": "wash with soap up to here",
+            "tom": "wo\u2019asan\nkaria u sabong makaz wia\u2019i."
+        },
+        "49": {
+            "eng": "soap",
+            "tom": "Sabong"
+        },
+        "50": {
+            "eng": "elbow",
+            "tom": "Siku u lengen"
+        },
+        "51": {
+            "eng": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.",
+            "tom": "TIA' PAHTIONAN\nUNG GIOMU\n(kaapa ang gio ni s\u00e9i uman)"
+        },
+        "52": {
+            "eng": "Enough time to sing \u201cHappy Birthday\u201d twice",
+            "tom": "Tanu makazua kumantara ung kakantaren\n\u201cHappy Birthday\u201d."
+        },
+        "53": {
+            "eng": "under the nails",
+            "tom": "sulu"
+        },
+        "54": {
+            "eng": "for 20 seconds",
+            "tom": "kaur\u00e9na 20 detik"
+        },
+        "55": {
+            "eng": "between the fingers",
+            "tom": "selat an tutundu\u2019"
+        },
+        "56": {
+            "eng": "wash the back of your hands",
+            "tom": "Wo\u2019asan murina u rorongkem"
+        },
+        "57": {
+            "eng": "What is thoroughly?",
+            "tom": "Kura i mo\u2019as u lengen makaz maweresi?"
+        },
+        "58": {
+            "eng": "If you did, don't worry. Just wash your hands with soap after.",
+            "tom": "Sa kinationannoma,\ntia\u2019 maar\u00e9t. Rengan mo\u2019as\u00e9 lengen karia\nu sabong."
+        },
+        "59": {
+            "eng": "Also, don't touch the outside of the mask if you can.",
+            "tom": "Tia\u2019 pahtionan u luarna masker"
+        },
+        "60": {
+            "eng": "droplets",
+            "tom": "kinapesikan rura\u2019"
+        },
+        "61": {
+            "eng": "*Bacteria grows on the insides of your mask if you wear them too long",
+            "tom": "Si bakteri \u00e9n toro malakez witu un untep u masker sa tahlous ur\u00e9 pinak\u00e9."
+        },
+        "62": {
+            "eng": "Throw away masks once they feel gross. Don't wear them for more than a day!",
+            "tom": "Sa pahgenangela kotoro u maskermu \u00e9n itia\u2019moma. U masker \u00e9n tia\u2019 pahpak\u00e9n lumangkoia witu u sana endo."
+        },
+        "63": {
+            "eng": "Use a serving spoon",
+            "tom": "Pahpak\u00e9ala l\u00e9per a s\u00e9nd\u00e9\u2019en kaapa wawahu\u2019"
+        },
+        "64": {
+            "eng": "Baby",
+            "tom": "Koki\u2019"
+        },
+        "65": {
+            "eng": "Daddy",
+            "tom": "Ama\u2019"
+        },
+        "66": {
+            "eng": "Mommy",
+            "tom": "Ina\u2019"
+        },
+        "67": {
+            "eng": "Everyone gets their own towel",
+            "tom": "Mahpak\u00e9la tata\u2019saan anduk."
+        },
+        "68": {
+            "eng": "Do not share food, utensils, cups, towels.",
+            "tom": "Tia\u2019 pahwali-walian i mahkan, am pahpak\u00e9n mahkan, eelepan wo anduk."
+        },
+        "69": {
+            "eng": "You can't touch your face with your elbow even if you tried",
+            "tom": "Amok\u00e9 wa\u2019wa\u2019ela, ni kamu \u00e9n z\u00e9i\u2019kan mamuali tumion ung giomu karia u sikumu."
+        },
+        "70": {
+            "eng": "Open & close doors with your elbows or shoulders instead of hands, if possible.",
+            "tom": "Satoro \u00e9 mak\u00e9la siku kaapa paluka i muka kaapa menet um pepenet."
+        },
+        "71": {
+            "eng": "Home",
+            "tom": "Wal\u00e9"
+        },
+        "72": {
+            "eng": "and after being out in the public",
+            "tom": "In tar\u00e9 ikaayom\u00e9 witi wal\u00e9"
+        },
+        "73": {
+            "eng": "Before you eat",
+            "tom": "Puunala ing kuman"
+        },
+        "74": {
+            "eng": "Always wash your hands with soap\u2026",
+            "tom": "Sekez\u00e9 u lengenmu \u00e9m pahwo\u2019asala karia u sabong\u2026"
+        },
+        "75": {
+            "eng": "And finally,",
+            "tom": "Kamurian,"
+        },
+        "76": {
+            "eng": "soap",
+            "tom": "Sabong"
+        },
+        "77": {
+            "eng": "Stay safe, everyone!",
+            "tom": "PAHGENANGELA\nUN TOU\n"
+        },
+        "78": {
+            "eng": "Read the articles for more tips!",
+            "tom": "Lakez a m\u00e9ipantik witu tumoro\napa an toro wangunen"
+        },
+        "79": {
+            "eng": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)",
+            "tom": "\"This animation shows how far you sneeze can actually travel.\" by Chia-Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "80": {
+            "eng": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)",
+            "tom": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy Report. (Jan 25, 2020)"
+        },
+        "81": {
+            "eng": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020",
+            "tom": "\"How to Avoid the Coronavirus? Wash Your Hands\", by Elizabeth Rosenthal, in The New York Times, Opinion.(Jan28,2020)"
+        },
+        "82": {
+            "eng": "Main references for medical info:",
+            "tom": "An toro bacan tumoro u mahmuali:"
+        },
+        "83": {
+            "eng": "Additional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com",
+            "tom": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah.\u00a0\nReferensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini.\u00a0 https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nInformasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini: https://gumroad.com/weimankowart\u00a0\nPedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja..\u00a0\nSaat membagikan komik ini, ingat 3 hal berikut: 1) Dilarang mengedit gambar komik yang akan dibagikan. 2) Komik ini tidak dapat diperjualbelikan. 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\nUntuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+        },
+        "84": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "tom": "UN TOTOZ KATA'UANTA\nTUMORO U VIRUS CORONA"
+        },
+        "85": {
+            "eng": "",
+            "tom": ""
+        },
+        "86": {
+            "eng": "Diterjemahkan dalam bahasa Tombulu oleh Pusat Penerjemahan Alkitab-GMIM",
+            "tom": ""
+        },
+        "87": {
+            "eng": "",
+            "tom": ""
+        },
+        "88": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "tom": ""
+        },
+        "89": {
+            "eng": "",
+            "tom": ""
+        },
+        "90": {
+            "eng": "Hak cipta \u00a9 2020, Weiman Kow\n\nDilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kou.\n\nVersi bahasa Inggris dibuat oleh Paul Frank\n\nVersi asli dibuat oleh Weiman Kow, instagram: weimankow\n\nSilakan kunjungi atau hubungi kami di:\nFacebook: www.facebook.com/PusatPenerjemahanAlkitabGMIM/\ufeffIG: @PPA_GMIM\nYoutube: www.youtube.com/pusatpenerjemahanalkitab\nEmail: ppa.tomohon@gmail.com\n",
+            "tom": ""
+        },
+        "91": {
+            "eng": "",
+            "tom": ""
+        },
+        "92": {
+            "eng": "",
+            "tom": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\nThere's only ONE thing \ufeffyou need to understand about how a coronavirus\nSPREADS\nMouth\nNose\nEyes\nGet into your\nHealthy Person\nSick Person\nThe virus spreads when \ufeffthese droplets\nKeep your distance.\ufeff2m will keep you safe from large droplets.\n1\n2m\nAchoo!\nSo if you see someone who is visibly coughing/sneezing/sick you can choose to:\nGive them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby.\n2\nThank you\ufeff*sniffles*\nOR,\nMaybe she's not sick, just protecting herself\nPeople who are infected can show no symptoms, but are still\ufeffinfectious\nAnd in general, it's a good idea to avoid crowds, because you don't know who might be sick.\nChopsticks\nHealthy person\nTrain straps\nLift buttons\nTissues\nCups\nDigital devices\n& even on the outside of your face mask\nStair bannisters\nMouse\nPens\nDoor knobs\nTheir hands\nHowever, sometimes a sick person's saliva can get on other things\u2026\nyou might all fall sick.\nor your loved one's face\nrub eyes\nAnd if you do touch any of these things by accident, and then touch your face,\nand the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.\nViruses can last for quite a few hours on objects,\nsoap\nprecautions\nWhich is why it is also good to follow these\nwash with soap up to here\nsoap\nelbow\nDo not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.\nEnough time to sing \u201cHappy Birthday\u201d twice\nunder the nails\nfor 20 seconds\nbetween the fingers\nwash the back of your hands\nWhat is thoroughly?\nIf you did, don't worry. Just wash your hands with soap after.\nAlso, don't touch the outside of the mask if you can.\ndroplets\n*Bacteria grows on the insides of your mask if you wear them too long\nThrow away masks once they feel gross. Don't wear them for more than a day!\nUse a serving spoon\nBaby\nDaddy\nMommy\nEveryone gets their own towel\nDo not share food, utensils, cups, towels.\nYou can't touch your face with your elbow even if you tried\nOpen & close doors with your elbows or shoulders instead of hands, if possible.\nHome\nand after being out in the public\nBefore you eat\nAlways wash your hands with soap\u2026\nAnd finally,\nsoap\nStay safe, everyone!\nRead the articles for more tips!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020\nMain references for medical info:\nAdditional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com\nAbout Coronavirus\n\nDiterjemahkan dalam bahasa Tombulu oleh Pusat Penerjemahan Alkitab-GMIM\n\nCreated by Weiman Kow, instagram: weimankow\n\nHak cipta \u00a9 2020, Weiman Kow\n\nDilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kou.\n\nVersi bahasa Inggris dibuat oleh Paul Frank\n\nVersi asli dibuat oleh Weiman Kow, instagram: weimankow\n\nSilakan kunjungi atau hubungi kami di:\nFacebook: www.facebook.com/PusatPenerjemahanAlkitabGMIM/\ufeffIG: @PPA_GMIM\nYoutube: www.youtube.com/pusatpenerjemahanalkitab\nEmail: ppa.tomohon@gmail.com\n\n\n",
+        "spa": "Sobre el Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSobre el Coronavirus\n\n\n\n\n\n\n\n",
+        "tom": "UN TOTOZ KATA'UANTA\nTUMORO U VIRUS CORONA\n\nBahasa Tombulu\n\nESA uman un totoz kata\u2019uan nioua tumoro kura u virus Corona\ni mahlaputa\nSumah\nNgirung\nWeren\nmuntepa wana am\nTou\nz\u00e9i\u2019kan saki\nTou\nsaki\nU virus \u00e9m pahkalaputa\nkaria u rura\u2019 pahkapesika kenu\nZumou\u2019la. Ni kamu \u00e9n z\u00e9i\u2019kan pahkaayoan\u00e9 u rura\u2019 mahpesik\u00e9 sa zumou\u2019la 2m.\n1\n\u00bdm - 2m\nHaaachii!!\nNiitumo, sa ni kamu mileka si tou mahenga/mahtihoi/saki, ni kamu \u00e9 l\u00e9wo\u2019z\u00e9i\u2019:\nW\u00c9HANA MASKER S\u00c9RA.\nNi s\u00e9ra \u00e9n toro tumihoi/mengah witu u maskerna wo z\u00e9i\u2019kan ikaayoma wia s\u00e9 tou witu r\u00e9t\u00e9na.\n2\nTamb\u00e9r\nwangko\u2019\n*SROOT*\nKAAPA\nSi tou itii woo z\u00e9i\u2019kan saki. Ni sia \u00e9ng kimelung uman un touna.\nSi tou kinalaputano \u00e9n z\u00e9i\u2019kan kata\u2019uanta, taan toro uman lumaputa u sakina.\nUm wangun \u00e9 zumou\u2019m\u00e9 im wia s\u00e9 tou lakez, pahpaan z\u00e9i\u2019kan kata\u2019uannu s\u00e9i si l\u00e9wo\u2019 pendanen.\nAm pemamak\u00e9n i mahkan\nS\u00e9 tou l\u00e9\u2019o-l\u00e9\u2019os uman\nTitionan wana ang ker\u00e9ta\nAn ipahkepel wana a lif\nTisyu\nEelepan\nLeptop,\nHP wo am walina\nU LUARNA\nu masker\nTitionan an ahzan\nMous ang computer\nPotlot\nTitionan am pepenet\nLengen n\u00e9ra\nZozo\u2019 in t\u00e9ntu, satorona u rura\u2019 ni tou saki \u00e9n toro lumaput wana a\u2026\nni kamu p\u00e9l\u00e9ng \u00e9n toro uman masaki.\nkaapa ang gio n\u00e9 tou karaat\u00e9mu,\nmahpurisi um weren\nSa kamu m\u00e9ikationa wana ang kinuamoma itii, an tumiona ung giomu in esa,\nUn totoz wangun i zum\u00e9i\u2019 a virus \u00e9 mo\u2019as niitu karia\u00a0 u sabong, um pahkulo\u2019 ang karai,\nkaapa alkohol.\nU virus \u00e9n toro uman tumahang makaz 24 jam witu un apa uman.\nSabong\nan toro wangunen i zum\u00e9i\u2019 tanu ang kenu.\nNiitumo, um wangun \u00e9ng kiitala u\nwo\u2019asan\nkaria u sabong makaz wia\u2019i.\nSabong\nSiku u lengen\nTIA' PAHTIONAN\nUNG GIOMU\n(kaapa ang gio ni s\u00e9i uman)\nTanu makazua kumantara ung kakantaren\n\u201cHappy Birthday\u201d.\nsulu\nkaur\u00e9na 20 detik\nselat an tutundu\u2019\nWo\u2019asan murina u rorongkem\nKura i mo\u2019as u lengen makaz maweresi?\nSa kinationannoma,\ntia\u2019 maar\u00e9t. Rengan mo\u2019as\u00e9 lengen karia\nu sabong.\nTia\u2019 pahtionan u luarna masker\nkinapesikan rura\u2019\nSi bakteri \u00e9n toro malakez witu un untep u masker sa tahlous ur\u00e9 pinak\u00e9.\nSa pahgenangela kotoro u maskermu \u00e9n itia\u2019moma. U masker \u00e9n tia\u2019 pahpak\u00e9n lumangkoia witu u sana endo.\nPahpak\u00e9ala l\u00e9per a s\u00e9nd\u00e9\u2019en kaapa wawahu\u2019\nKoki\u2019\nAma\u2019\nIna\u2019\nMahpak\u00e9la tata\u2019saan anduk.\nTia\u2019 pahwali-walian i mahkan, am pahpak\u00e9n mahkan, eelepan wo anduk.\nAmok\u00e9 wa\u2019wa\u2019ela, ni kamu \u00e9n z\u00e9i\u2019kan mamuali tumion ung giomu karia u sikumu.\nSatoro \u00e9 mak\u00e9la siku kaapa paluka i muka kaapa menet um pepenet.\nWal\u00e9\nIn tar\u00e9 ikaayom\u00e9 witi wal\u00e9\nPuunala ing kuman\nSekez\u00e9 u lengenmu \u00e9m pahwo\u2019asala karia u sabong\u2026\nKamurian,\nSabong\nPAHGENANGELA\nUN TOU\n\nLakez a m\u00e9ipantik witu tumoro\napa an toro wangunen\n\"This animation shows how far you sneeze can actually travel.\" by Chia-Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy Report. (Jan 25, 2020)\n\"How to Avoid the Coronavirus? Wash Your Hands\", by Elizabeth Rosenthal, in The New York Times, Opinion.(Jan28,2020)\nAn toro bacan tumoro u mahmuali:\nKeterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah.\u00a0\nReferensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini.\u00a0 https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nInformasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini: https://gumroad.com/weimankowart\u00a0\nPedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja..\u00a0\nSaat membagikan komik ini, ingat 3 hal berikut: 1) Dilarang mengedit gambar komik yang akan dibagikan. 2) Komik ini tidak dapat diperjualbelikan. 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\nUntuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\nUN TOTOZ KATA'UANTA\nTUMORO U VIRUS CORONA\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "spa",
+        "tom",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Hak cipta \u00a9 2020, Weiman Kow",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "Tomohon",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "cPG0NzY87c"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "Spanish",
+        "tom": "Tombulu"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "",
+    "page-number-style": "Decimal",
+    "pageCount": 26,
+    "province": "Sulawesi Utara",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19 / Buku ini memberikan pengarahan dasar tentang menghadapi virus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "UN TOTOZ KATA'UANTA\nTUMORO U VIRUS CORONA",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

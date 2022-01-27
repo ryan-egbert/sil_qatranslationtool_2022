@@ -1,0 +1,133 @@
+{
+    "allTitles": "{\"en\":\"Avoid Covid-19\",\"swh\":\"K\u00dbRIG\u00ce\u00ceRIA M\u00dbRIMO WA KORONA\",\"thk\":\"K\u00dbRIG\u00ce\u00ceRIA M\u00dbRIMO WA KORONA\"}",
+    "author": null,
+    "bookInstanceId": "12afcc97-a360-4cbc-b3f2-e28064dd886e",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,12b180ea-a5e9-4402-9346-4c06f5ba4177",
+    "bookSamples": {
+        "0": {
+            "eng": "Avoid Covid-19",
+            "swh": "K\u00dbRIG\u00ce\u00ceRIA M\u00dbRIMO WA KORONA",
+            "thk": "K\u00dbRIG\u00ce\u00ceRIA M\u00dbRIMO WA KORONA\n"
+        },
+        "1": {
+            "eng": "",
+            "thk": ""
+        },
+        "2": {
+            "eng": "",
+            "thk": ""
+        },
+        "3": {
+            "eng": "Translated by: Susan Nyaga Anzuruni, SIL International",
+            "thk": ""
+        },
+        "4": {
+            "eng": "",
+            "thk": ""
+        },
+        "5": {
+            "eng": "",
+            "thk": ""
+        },
+        "6": {
+            "eng": "Avoid Covid-19",
+            "swh": "K\u00dbRIG\u00ce\u00ceRIA M\u00dbRIMO WA KORONA",
+            "thk": "K\u00dbRIG\u00ce\u00ceRIA M\u00dbRIMO WA KORONA\n"
+        },
+        "7": {
+            "eng": "Illustrations:\u00a0 Ari and Elaine Vitikainen\u00a0\n\nInformation was taken from WHO websites such as https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\n\nVersion 27.3.2020",
+            "thk": ""
+        },
+        "8": {
+            "eng": "Literacy for Women in Africa",
+            "thk": ""
+        },
+        "9": {
+            "eng": "Thaamba njara magiita monthe \u00fbg\u00eet\u00fbmag\u00eera cabuni na r\u00fb\u00fby\u00ee r\u00fbg\u00ee\u00eet\u00eegaga.\n\n",
+            "thk": ""
+        },
+        "10": {
+            "eng": "Avoid touching eyes, nose and mouth.\n",
+            "thk": "Tiga g\u00fbtonganga \u00fbthi\u00fb, m\u00fbromo kana ny\u00ee\u00fbr\u00fb."
+        },
+        "11": {
+            "eng": "Cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose\u00a0 the used tissue immediately.\n\n\n",
+            "thk": "Kororera kana wathim\u00fbr\u00eere mbar\u00ee ya ndeeni ya ngaakura yaku kana \u00fbt\u00fbm\u00eere karataati ga k\u00eeoro na \u00fbgate b\u00fbra k\u00fbbat\u00ee\u00eerue.\n"
+        },
+        "12": {
+            "eng": "Maintain 2 meters distance between yourself and others.\n\n",
+            "thk": "Kara araaya na ant\u00fb bara bang\u00ee (ta mita ci\u00eer\u00ee \u00fbgu)."
+        },
+        "13": {
+            "eng": "Stay home if you feel unwell.\nIf you have fever, cough and difficulty breathing, seek medical attention early.\n\n",
+            "thk": "Kara muci\u00ee weegua \u00fbr\u00ee \u00fbmwayie.\u00a0 Weegua \u00fbr\u00ee na r\u00fbkorora, k\u00fbb\u00ee\u00eeyan\u00eera mw\u00ee\u00eer\u00ee, kana k\u00fbremwa i k\u00fbbeeba bwega, \u00eethi cibitaar\u00ee."
+        },
+        "14": {
+            "eng": "Stay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider.\n\n",
+            "thk": "Kara \u00fbk\u00eethiingatag\u00ee\u00eera b\u00fbra g\u00fbkwenderea mant\u00fb\u00fbni meegi\u00ee Korona na \u00fbr\u00fbthe b\u00fbra atoongoria bakuuga."
+        },
+        "15": {
+            "eng": "",
+            "thk": ""
+        },
+        "16": {
+            "eng": "",
+            "thk": ""
+        }
+    },
+    "bookText": {
+        "eng": "Avoid Covid-19\n\n\nTranslated by: Susan Nyaga Anzuruni, SIL International\n\n\nAvoid Covid-19\nIllustrations:\u00a0 Ari and Elaine Vitikainen\u00a0\n\nInformation was taken from WHO websites such as https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\n\nVersion 27.3.2020\nLiteracy for Women in Africa\nThaamba njara magiita monthe \u00fbg\u00eet\u00fbmag\u00eera cabuni na r\u00fb\u00fby\u00ee r\u00fbg\u00ee\u00eet\u00eegaga.\n\n\nAvoid touching eyes, nose and mouth.\n\nCover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose\u00a0 the used tissue immediately.\n\n\n\nMaintain 2 meters distance between yourself and others.\n\n\nStay home if you feel unwell.\nIf you have fever, cough and difficulty breathing, seek medical attention early.\n\n\nStay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider.\n\n\n\n",
+        "swh": "K\u00dbRIG\u00ce\u00ceRIA M\u00dbRIMO WA KORONA\n\n\n\n\n\nK\u00dbRIG\u00ce\u00ceRIA M\u00dbRIMO WA KORONA\n\n\n\n\n\n\n\n\n\n",
+        "thk": "K\u00dbRIG\u00ce\u00ceRIA M\u00dbRIMO WA KORONA\n\n\n\n\n\n\nK\u00dbRIG\u00ce\u00ceRIA M\u00dbRIMO WA KORONA\n\n\n\n\nTiga g\u00fbtonganga \u00fbthi\u00fb, m\u00fbromo kana ny\u00ee\u00fbr\u00fb.\nKororera kana wathim\u00fbr\u00eere mbar\u00ee ya ndeeni ya ngaakura yaku kana \u00fbt\u00fbm\u00eere karataati ga k\u00eeoro na \u00fbgate b\u00fbra k\u00fbbat\u00ee\u00eerue.\n\nKara araaya na ant\u00fb bara bang\u00ee (ta mita ci\u00eer\u00ee \u00fbgu).\nKara muci\u00ee weegua \u00fbr\u00ee \u00fbmwayie.\u00a0 Weegua \u00fbr\u00ee na r\u00fbkorora, k\u00fbb\u00ee\u00eeyan\u00eera mw\u00ee\u00eer\u00ee, kana k\u00fbremwa i k\u00fbbeeba bwega, \u00eethi cibitaar\u00ee.\nKara \u00fbk\u00eethiingatag\u00ee\u00eera b\u00fbra g\u00fbkwenderea mant\u00fb\u00fbni meegi\u00ee Korona na \u00fbr\u00fbthe b\u00fbra atoongoria bakuuga.\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "swh",
+        "thk",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, SIL INTERNATIONAL",
+    "country": "Kenya",
+    "credits": "",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "pps2DZehaS"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "swh": "Swahili",
+        "thk": "Kitharaka"
+    },
+    "languages": [],
+    "license": "cc-by-nc",
+    "licenseNotes": "",
+    "page-number-style": "Decimal",
+    "pageCount": 11,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Basic information on how to avoid Coronavirus (Covid-19)",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "K\u00dbRIG\u00ce\u00ceRIA M\u00dbRIMO WA KORONA",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

@@ -1,0 +1,238 @@
+{
+    "allTitles": "{\"en\":\"Avoid COVID-19 Poster\",\"mnw\":\"\u1015\u101d\u103a\u101e\u1010\u102c \u101d\u1031\u105a\u103a\u1015\u102b\u1032\u101a\u1032\u1000\u101d\u103a\u101b\u101d\u103a\u1014\u102c\"}",
+    "author": null,
+    "bookInstanceId": "4565be28-c9d2-4419-914e-01df87974760",
+    "bookLineage": "17848ae4-d76f-4566-9275-b01a0fb16cf4,3d60fcec-f533-4e3b-972e-7110d0b885f5,86057422-bef9-42b2-b3e9-276c4623b559",
+    "bookSamples": {
+        "0": {
+            "eng": "Avoid COVID-19 Poster",
+            "mnw": "\u1015\u101d\u103a\u101e\u1010\u102c \u101d\u1031\u105a\u103a\u1015\u102b\u1032\u101a\u1032\u1000\u101d\u103a\u101b\u101d\u103a\u1014\u102c",
+            "mya": ""
+        },
+        "1": {
+            "eng": "",
+            "mnw": "",
+            "mya": ""
+        },
+        "2": {
+            "eng": "",
+            "mnw": "\u1019\u102c\u1036\u101b\u1010\u1014 \u1000\u1060\u102c\u1032\u101c\u101d\u103a\u1018\u102c\u101e\u102c\u1019\u1014\u103a \u101b\u1031\u102c\u105a\u103a\u104b",
+            "mya": ""
+        },
+        "3": {
+            "eng": "",
+            "mnw": "",
+            "mya": "Mehm Rattna"
+        },
+        "4": {
+            "eng": "",
+            "mnw": "",
+            "mya": "Adapted by Paul Frank from original, Copyright \u00a9 2020, Illustrations by Elaine Vitikainen https://ev-visuals.com/"
+        },
+        "5": {
+            "eng": "",
+            "mnw": "",
+            "mya": ""
+        },
+        "6": {
+            "eng": "Avoid COVID-19 Poster",
+            "mnw": "\u1015\u101d\u103a\u101e\u1010\u102c \u101d\u1031\u105a\u103a\u1015\u102b\u1032\u101a\u1032\u1000\u101d\u103a\u101b\u101d\u103a\u1014\u102c",
+            "mya": ""
+        },
+        "7": {
+            "eng": "",
+            "mnw": "",
+            "mya": "Illustrations: \u00a0Ari and Elaine Vitikainen Information was taken from WHO websites such as https://www.who.int/emer gencies/diseases/novel-coronavir us-2019/advice-for-public Version 27.3.2020 Literacy for Women in Africa"
+        },
+        "8": {
+            "eng": "",
+            "mnw": "",
+            "mya": ""
+        },
+        "9": {
+            "eng": "",
+            "mnw": ""
+        },
+        "10": {
+            "eng": "How to Create Posters with this Template",
+            "mnw": ""
+        },
+        "11": {
+            "eng": "This template is for creating posters. You add pages that contain only a picture. Then you add text boxes to the page by right-clicking on the image and choosing \"Add Text Box to Image\":",
+            "mnw": "",
+            "mya": ""
+        },
+        "12": {
+            "eng": "",
+            "mnw": ""
+        },
+        "13": {
+            "eng": "",
+            "mnw": ""
+        },
+        "14": {
+            "eng": "Type words into the box. If the box is not big enough, use the mouse to change the size of the box. You can also move the box around the page with the mouse.",
+            "mnw": "",
+            "mya": ""
+        },
+        "15": {
+            "eng": "",
+            "mnw": ""
+        },
+        "16": {
+            "eng": "",
+            "mnw": ""
+        },
+        "17": {
+            "eng": "",
+            "mnw": ""
+        },
+        "18": {
+            "eng": "Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.",
+            "mnw": "\u1000\u103c\u102c\u1010\u103a\u1010\u1032 \u1014\u1000\u1035\u102f \u100d\u102c\u103a \u1000\u1031\u102f\u102c\u1036 \u1017\u1036\u105a\u103a \u101c\u105f\u1031\u105a\u103a\u105a\u103a\u100a\u102d\u104b (\u101f\u103d\u1036\u101e\u1031\u105a\u103a\u1019\u1039\u1002\u1038) \u1000\u103c\u102c\u1010\u103a\u1010\u1032\u101e\u1039\u1021\u1038 \u1014\u1000\u1035\u102f \u100d\u102c\u103a\u1000\u103c\u102c\u1010\u103a\u1010\u1032 \u1019\u1000\u1060\u1031\u102c\u1014\u103a\u101c\u101d\u103a \u1014\u1000\u1035\u102f\u1021\u1031\u101c\u103a\u1002\u102d\u102f\u101c\u103a\u101f\u102d\u102f\u101c\u103a \u100a\u102d\u104b"
+        },
+        "19": {
+            "eng": "",
+            "mnw": ""
+        },
+        "20": {
+            "eng": "",
+            "mnw": ""
+        },
+        "21": {
+            "eng": "Avoid touching eyes, nose and mouth.",
+            "mnw": "\u101c\u1039\u1015\u101b\u1015\u103a\u101d\u1031\u105a\u103a \u1019\u1010\u103a\u104a \u1019\u102f\u101f\u103a\u104a \u1000\u1031\u102f\u102c\u1036 \u1015\u102b\u105a\u103a \u1010\u1021\u103a\u100a\u102d\u104b"
+        },
+        "22": {
+            "eng": "",
+            "mnw": ""
+        },
+        "23": {
+            "eng": "",
+            "mnw": ""
+        },
+        "24": {
+            "eng": "",
+            "mnw": ""
+        },
+        "25": {
+            "eng": "Maintain 2 meters distance between yourself and others.",
+            "mnw": "\u1021\u1000\u103c\u102c \u1019\u105e\u1038 \u1000\u1031\u102f\u102c\u1036 \u100a\u1038\u1010\u105e\u101f\u103a\u1002\u103e\u103a \u1019\u105e\u1038\u1019\u1036\u105a\u103a\u101e\u1039\u105a\u1031\u102c\u1032\u1001\u103c\u102c \u1017\u105e\u1010\u103a (\u1042) \u1019\u1033\u1010\u102c\u100a\u102d\u104b"
+        },
+        "26": {
+            "eng": "",
+            "mnw": ""
+        },
+        "27": {
+            "eng": "Avoid Covid-19",
+            "mnw": "\u101d\u1031\u105a\u103a\u1015\u102b\u1032\u101a\u1032\u1000\u101d\u103a\u101b\u101d\u103a\u1014\u102c"
+        },
+        "28": {
+            "eng": "",
+            "mnw": ""
+        },
+        "29": {
+            "eng": "",
+            "mnw": ""
+        },
+        "30": {
+            "eng": "Stay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider.",
+            "mnw": "\u1019\u105a\u103a\u1000\u101c\u105a\u103a\u1012\u105f\u1036\u105a\u103a\u1015\u101b\u102d\u102f\u105a\u103a \u1005\u1015\u103a\u1000\u1035\u102f\u1021\u1000\u102c\u1032\u1021\u101b\u102c \u1015\u101b\u1030\u1015\u101b\u102c\u101a\u1032\u1000\u101d\u103a\u101b\u101d\u103a\u1014\u102c \u100a\u102d\u104b \u1012\u1039\u1002\u1031\u1010\u103a\u1017\u1000\u103a\u1021\u1010\u102d\u102f\u105a\u103a \u1000\u101e\u1015\u103a\u101c\u100a\u102c\u1010\u103a \u100a\u1038\u1019\u1019\u105a\u103a\u1019\u103d\u1032\u101c\u103d\u1033\u101c\u103d\u1010\u103a\u1007\u1000\u102f (\u1021\u1039\u1005\u102c\u101e\u101d\u103a\u101d\u1014\u103a) \u100a\u102d\u104b"
+        },
+        "31": {
+            "eng": "",
+            "mnw": ""
+        },
+        "32": {
+            "eng": "",
+            "mnw": ""
+        },
+        "33": {
+            "eng": "",
+            "mnw": ""
+        },
+        "34": {
+            "eng": "Cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose of the used tissue immediately.",
+            "mnw": "\u1021\u1001\u102d\u105a\u103a\u1000\u102c\u101c \u1001\u1039\u100d\u1000\u103a (\u101d\u102b) \u1011\u1021\u103e\u103a \u1019\u1039\u1002\u1038 \u1002\u103c\u1031\u102c\u1015\u103a\u1000\u105f\u102c\u1010\u103a \u1019\u102f\u101f\u103a\u104a \u1015\u102b\u105a\u103a \u1014\u1000\u1035\u102f\u1015\u1039\u105a\u1036\u1000\u103a\u1010\u105a\u103a\u1010\u1032 (\u101d\u102b) \u101a\u102c\u1010\u103a\u1010\u1031\u101e\u103a\u101b\u103e\u1030 \u100a\u102d\u104b \u101a\u102c\u1010\u103a\u1010\u1031\u101e\u103a\u101b\u103e\u1030 \u1019\u101b\u1015\u103a\u1005\u1000\u102c \u101c\u101d\u103a\u1010\u102f\u1032\u1002\u103e\u103a \u1017\u102d\u102f\u1010\u103a\u1000\u1060\u101f\u103a\u1005\u102f\u1010\u103a \u1021\u1015\u1039\u100d\u1032\u1014\u1001\u105f\u102d\u1000\u103a \u1015\u103c\u101f\u103a\u101f\u103a\u100a\u102d\u104b"
+        },
+        "35": {
+            "eng": "",
+            "mnw": ""
+        },
+        "36": {
+            "eng": "",
+            "mnw": ""
+        },
+        "37": {
+            "eng": "",
+            "mnw": ""
+        },
+        "38": {
+            "eng": "Stay home if you feel unwell. If you have fever, cough and difficulty breathing, seek medical attention early.",
+            "mnw": "\u101a\u101d\u103a\u101b \u1019\u105e\u1038\u1019\u1036\u105a\u103a\u1005\u101f\u103d\u1036\u1019\u102d\u1015\u103a\u1019\u1039\u1002\u1038 \u1007\u1030\u1012\u105f\u1036\u105a\u103a\u1021\u1015\u1039\u100d\u1032\u101e\u1039\u105a\u102d\u100a\u102d\u104b \u101a\u101d\u103a\u101b \u1019\u105e\u1038\u1002\u1019\u1039\u1010\u1030\u1010\u102d\u102f\u1014\u103a\u104a \u1001\u1039\u100d\u1000\u103a\u104a \u1000\u1031\u102f\u102c\u1036 \u101a\u102e\u102f\u101d\u102b\u1010\u103a (\u101a\u102e\u102f\u1002\u103c\u1031\u1000\u103a) \u1012\u103e\u103a\u1000\u1060\u102f\u105a\u103a\u1019\u1039\u1002\u1038 \u1021\u102c\u1005\u1019\u103a\u105c\u1010\u103a\u1005\u105f\u1033\u1005\u105f\u1010\u103a\u101a\u1032 \u1015\u103c\u101f\u103a\u101f\u103a\u100a\u102d\u104b"
+        },
+        "39": {
+            "eng": "",
+            "mnw": "",
+            "mya": ""
+        },
+        "40": {
+            "eng": "",
+            "mnw": "",
+            "mya": ""
+        }
+    },
+    "bookText": {
+        "eng": "Avoid COVID-19 Poster\n\n\n\n\n\nAvoid COVID-19 Poster\n\n\n\nHow to Create Posters with this Template\nThis template is for creating posters. You add pages that contain only a picture. Then you add text boxes to the page by right-clicking on the image and choosing \"Add Text Box to Image\":\n\n\nType words into the box. If the box is not big enough, use the mouse to change the size of the box. You can also move the box around the page with the mouse.\n\n\n\nWash your hands regularly with soap and water, or clean them with alcohol-based hand rub.\n\n\nAvoid touching eyes, nose and mouth.\n\n\n\nMaintain 2 meters distance between yourself and others.\n\nAvoid Covid-19\n\n\nStay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider.\n\n\n\nCover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose of the used tissue immediately.\n\n\n\nStay home if you feel unwell. If you have fever, cough and difficulty breathing, seek medical attention early.\n\n",
+        "mnw": "\u1015\u101d\u103a\u101e\u1010\u102c \u101d\u1031\u105a\u103a\u1015\u102b\u1032\u101a\u1032\u1000\u101d\u103a\u101b\u101d\u103a\u1014\u102c\n\n\u1019\u102c\u1036\u101b\u1010\u1014 \u1000\u1060\u102c\u1032\u101c\u101d\u103a\u1018\u102c\u101e\u102c\u1019\u1014\u103a \u101b\u1031\u102c\u105a\u103a\u104b\n\n\n\n\u1015\u101d\u103a\u101e\u1010\u102c \u101d\u1031\u105a\u103a\u1015\u102b\u1032\u101a\u1032\u1000\u101d\u103a\u101b\u101d\u103a\u1014\u102c\n\n\n\n\n\n\n\n\n\n\n\n\u1000\u103c\u102c\u1010\u103a\u1010\u1032 \u1014\u1000\u1035\u102f \u100d\u102c\u103a \u1000\u1031\u102f\u102c\u1036 \u1017\u1036\u105a\u103a \u101c\u105f\u1031\u105a\u103a\u105a\u103a\u100a\u102d\u104b (\u101f\u103d\u1036\u101e\u1031\u105a\u103a\u1019\u1039\u1002\u1038) \u1000\u103c\u102c\u1010\u103a\u1010\u1032\u101e\u1039\u1021\u1038 \u1014\u1000\u1035\u102f \u100d\u102c\u103a\u1000\u103c\u102c\u1010\u103a\u1010\u1032 \u1019\u1000\u1060\u1031\u102c\u1014\u103a\u101c\u101d\u103a \u1014\u1000\u1035\u102f\u1021\u1031\u101c\u103a\u1002\u102d\u102f\u101c\u103a\u101f\u102d\u102f\u101c\u103a \u100a\u102d\u104b\n\n\n\u101c\u1039\u1015\u101b\u1015\u103a\u101d\u1031\u105a\u103a \u1019\u1010\u103a\u104a \u1019\u102f\u101f\u103a\u104a \u1000\u1031\u102f\u102c\u1036 \u1015\u102b\u105a\u103a \u1010\u1021\u103a\u100a\u102d\u104b\n\n\n\n\u1021\u1000\u103c\u102c \u1019\u105e\u1038 \u1000\u1031\u102f\u102c\u1036 \u100a\u1038\u1010\u105e\u101f\u103a\u1002\u103e\u103a \u1019\u105e\u1038\u1019\u1036\u105a\u103a\u101e\u1039\u105a\u1031\u102c\u1032\u1001\u103c\u102c \u1017\u105e\u1010\u103a (\u1042) \u1019\u1033\u1010\u102c\u100a\u102d\u104b\n\n\u101d\u1031\u105a\u103a\u1015\u102b\u1032\u101a\u1032\u1000\u101d\u103a\u101b\u101d\u103a\u1014\u102c\n\n\n\u1019\u105a\u103a\u1000\u101c\u105a\u103a\u1012\u105f\u1036\u105a\u103a\u1015\u101b\u102d\u102f\u105a\u103a \u1005\u1015\u103a\u1000\u1035\u102f\u1021\u1000\u102c\u1032\u1021\u101b\u102c \u1015\u101b\u1030\u1015\u101b\u102c\u101a\u1032\u1000\u101d\u103a\u101b\u101d\u103a\u1014\u102c \u100a\u102d\u104b \u1012\u1039\u1002\u1031\u1010\u103a\u1017\u1000\u103a\u1021\u1010\u102d\u102f\u105a\u103a \u1000\u101e\u1015\u103a\u101c\u100a\u102c\u1010\u103a \u100a\u1038\u1019\u1019\u105a\u103a\u1019\u103d\u1032\u101c\u103d\u1033\u101c\u103d\u1010\u103a\u1007\u1000\u102f (\u1021\u1039\u1005\u102c\u101e\u101d\u103a\u101d\u1014\u103a) \u100a\u102d\u104b\n\n\n\n\u1021\u1001\u102d\u105a\u103a\u1000\u102c\u101c \u1001\u1039\u100d\u1000\u103a (\u101d\u102b) \u1011\u1021\u103e\u103a \u1019\u1039\u1002\u1038 \u1002\u103c\u1031\u102c\u1015\u103a\u1000\u105f\u102c\u1010\u103a \u1019\u102f\u101f\u103a\u104a \u1015\u102b\u105a\u103a \u1014\u1000\u1035\u102f\u1015\u1039\u105a\u1036\u1000\u103a\u1010\u105a\u103a\u1010\u1032 (\u101d\u102b) \u101a\u102c\u1010\u103a\u1010\u1031\u101e\u103a\u101b\u103e\u1030 \u100a\u102d\u104b \u101a\u102c\u1010\u103a\u1010\u1031\u101e\u103a\u101b\u103e\u1030 \u1019\u101b\u1015\u103a\u1005\u1000\u102c \u101c\u101d\u103a\u1010\u102f\u1032\u1002\u103e\u103a \u1017\u102d\u102f\u1010\u103a\u1000\u1060\u101f\u103a\u1005\u102f\u1010\u103a \u1021\u1015\u1039\u100d\u1032\u1014\u1001\u105f\u102d\u1000\u103a \u1015\u103c\u101f\u103a\u101f\u103a\u100a\u102d\u104b\n\n\n\n\u101a\u101d\u103a\u101b \u1019\u105e\u1038\u1019\u1036\u105a\u103a\u1005\u101f\u103d\u1036\u1019\u102d\u1015\u103a\u1019\u1039\u1002\u1038 \u1007\u1030\u1012\u105f\u1036\u105a\u103a\u1021\u1015\u1039\u100d\u1032\u101e\u1039\u105a\u102d\u100a\u102d\u104b \u101a\u101d\u103a\u101b \u1019\u105e\u1038\u1002\u1019\u1039\u1010\u1030\u1010\u102d\u102f\u1014\u103a\u104a \u1001\u1039\u100d\u1000\u103a\u104a \u1000\u1031\u102f\u102c\u1036 \u101a\u102e\u102f\u101d\u102b\u1010\u103a (\u101a\u102e\u102f\u1002\u103c\u1031\u1000\u103a) \u1012\u103e\u103a\u1000\u1060\u102f\u105a\u103a\u1019\u1039\u1002\u1038 \u1021\u102c\u1005\u1019\u103a\u105c\u1010\u103a\u1005\u105f\u1033\u1005\u105f\u1010\u103a\u101a\u1032 \u1015\u103c\u101f\u103a\u101f\u103a\u100a\u102d\u104b\n\n",
+        "mya": "\n\n\nMehm Rattna\nAdapted by Paul Frank from original, Copyright \u00a9 2020, Illustrations by Elaine Vitikainen https://ev-visuals.com/\n\n\nIllustrations: \u00a0Ari and Elaine Vitikainen Information was taken from WHO websites such as https://www.who.int/emer gencies/diseases/novel-coronavir us-2019/advice-for-public Version 27.3.2020 Literacy for Women in Africa\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "mnw",
+        "mya",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Mehm Rattna",
+    "country": "Myanmar",
+    "credits": "Adapted by Paul Frank from original, Copyright \u00a9 2020, Illustrations by Elaine Vitikainen https://ev-visuals.com/",
+    "district": "Mawlamyine",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "VdjF9eLWTA"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "mnw": "Mon",
+        "my": "Burmese"
+    },
+    "languages": [],
+    "license": "cc-by-nc",
+    "licenseNotes": null,
+    "page-number-style": "Myanmar",
+    "pageCount": 8,
+    "province": "Mon",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This is an A3 poster of Elaine Vitikainen's Avoid COVID-19 book",
+    "tags": [],
+    "title": "\u1015\u101d\u103a\u101e\u1010\u102c \u101d\u1031\u105a\u103a\u1015\u102b\u1032\u101a\u1032\u1000\u101d\u103a\u101b\u101d\u103a\u1014\u102c",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

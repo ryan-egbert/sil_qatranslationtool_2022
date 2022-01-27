@@ -1,0 +1,248 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "4ff4b197-faa1-49f4-887d-8ed0eab0dafb",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Covid-19 bhai yaol phaol nail ganl",
+  "allTitles": "{\"ahk\":\"Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038\",\"kvt\":\"Covid-19 bhai yaol phaol nail ganl\",\"my\":\"Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038\"}",
+  "originalTitle": null,
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+  "downloadSource": "kwemoo@gmail.com/4ff4b197-faa1-49f4-887d-8ed0eab0dafb",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2020, Akeu Literacy",
+  "credits": "",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 12,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "jqwt9dOHpf"
+    }
+  ],
+  "summary": "Avoid covid-19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "China",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "b3xvsSgeg9"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "kvt": "Akeu",
+    "en": "English",
+    "mqt": "Myanmar"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "kvt": "Covid-19 bhai yaol phaol nail ganl",
+    "my": "",
+    "ahk": "\u00a0Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038"
+  },
+  "2": {
+    "kvt": "Covid-19 bhai yaol phaol nail ganl",
+    "my": "",
+    "ahk": "\u00a0Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038"
+  },
+  "3": {
+    "kvt": "Covid-19 bhai yaol phaol nail ganl",
+    "my": "",
+    "ahk": "\u00a0Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038"
+  },
+  "4": {
+    "kvt": "Covid-19 bhai yaol phaol nail ganl",
+    "my": "",
+    "ahk": "\u00a0Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038"
+  },
+  "5": {
+    "kvt": "Covid-19 bhai yaol phaol nail ganl",
+    "my": "",
+    "ahk": "\u00a0Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038"
+  },
+  "18": {
+    "kvt": "Covid-19 bhai yaol phaol nail ganl",
+    "my": "",
+    "ahk": "\u00a0Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038"
+  },
+  "19": {
+    "kvt": "Covid-19 bhai yaol phaol nail ganl",
+    "my": "",
+    "ahk": "\u00a0Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038"
+  },
+  "20": {
+    "kvt": "Covid-19 bhai yaol phaol nail ganl",
+    "my": "",
+    "ahk": "\u00a0Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038"
+  },
+  "21": {
+    "kvt": "Covid-19 bhai yaol phaol nail ganl",
+    "my": "",
+    "ahk": "\u00a0Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038"
+  },
+  "22": {
+    "kvt": "Covid-19 bhai yaol phaol nail ganl",
+    "my": "",
+    "ahk": "\u00a0Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038"
+  },
+  "25": {
+    "en": "Version 27.3.2020"
+  },
+  "26": {
+    "en": "Version 27.3.2020"
+  },
+  "29": {
+    "en": "Literacy for Women in Africa"
+  },
+  "30": {
+    "en": "Literacy for Women in Africa"
+  },
+  "32": {
+    "en": "Translator Julov, Illustrator Ai Yawn Kap"
+  },
+  "33": {
+    "en": "Translator Julov, Illustrator Ai Yawn Kap"
+  },
+  "41": {
+    "kvt": "",
+    "en": ""
+  },
+  "42": {
+    "kvt": "",
+    "en": ""
+  },
+  "43": {
+    "kvt": "",
+    "en": "Aq lavq bhai sav bhaiq-aq mail maq ceiv maq ceiv dai tsiq yaoq maq ngel haq neq, kaoq haol mail lav sav-ai thaq nail aq lavq tsiq nail ul lul-i mail aq meeq meeq dai gaiq gaiq-ail tsiq yaoq.",
+    "z": ""
+  },
+  "44": {
+    "kvt": "",
+    "en": "Aq lavq bhai sav bhaiq-aq mail maq ceiv maq ceiv dai tsiq yaoq maq ngel haq neq, kaoq haol mail lav sav-ai thaq nail aq lavq tsiq nail ul lul-i mail aq meeq meeq dai gaiq gaiq-ail tsiq yaoq.",
+    "z": ""
+  },
+  "45": {
+    "kvt": "",
+    "en": "Aq lavq bhai sav bhaiq-aq mail maq ceiv maq ceiv dai tsiq yaoq maq ngel haq neq, kaoq haol mail lav sav-ai thaq nail aq lavq tsiq nail ul lul-i mail aq meeq meeq dai gaiq gaiq-ail tsiq yaoq.",
+    "z": ""
+  },
+  "46": {
+    "kvt": "Maiv neev/nal bhaoq khi moeq thaoq bhai thaq bhi yao lai.",
+    "en": "",
+    "z": ""
+  },
+  "47": {
+    "kvt": "Maiv neev/nal bhaoq khi moeq thaoq bhai thaq bhi yao lai.",
+    "en": "",
+    "z": ""
+  },
+  "48": {
+    "kvt": "Maiv neev/nal bhaoq khi moeq thaoq bhai thaq bhi yao lai.",
+    "en": "",
+    "z": ""
+  },
+  "49": {
+    "kvt": "tsoiq yaoq. Gil haq neq moeq bhaoq siv nail gal lal al gail lavq tsail mail liv ha gai-aivq yaoq.",
+    "en": "",
+    "z": ""
+  },
+  "50": {
+    "kvt": "tsoiq yaoq. Gil haq neq moeq bhaoq siv nail gal lal al gail lavq tsail mail liv ha gai-aivq yaoq.",
+    "en": "",
+    "z": ""
+  },
+  "51": {
+    "kvt": "tsoiq yaoq. Gil haq neq moeq bhaoq siv nail gal lal al gail lavq tsail mail liv ha gai-aivq yaoq.",
+    "en": "",
+    "z": ""
+  },
+  "52": {
+    "kvt": "Tsaol-aq teevq gaq nee teevq gaq khal theq ma theq nvq lail khaiq nail bha ya jaol nail ngaol.",
+    "en": "",
+    "z": ""
+  },
+  "53": {
+    "kvt": "Tsaol-aq teevq gaq nee teevq gaq khal theq ma theq nvq lail khaiq nail bha ya jaol nail ngaol.",
+    "en": "",
+    "z": ""
+  },
+  "54": {
+    "kvt": "Tsaol-aq teevq gaq nee teevq gaq khal theq ma theq nvq lail khaiq nail bha ya jaol nail ngaol.",
+    "en": "",
+    "z": ""
+  },
+  "55": {
+    "kvt": "aq jail khe jiav nail ja gaq yal nail il khaol bha lavq tsail mail ail khi, bhi hel daiq-ail yaoq.",
+    "en": "",
+    "z": ""
+  },
+  "56": {
+    "kvt": "aq jail khe jiav nail ja gaq yal nail il khaol bha lavq tsail mail ail khi, bhi hel daiq-ail yaoq.",
+    "en": "",
+    "z": ""
+  },
+  "57": {
+    "kvt": "aq jail khe jiav nail ja gaq yal nail il khaol bha lavq tsail mail ail khi, bhi hel daiq-ail yaoq.",
+    "en": "",
+    "z": ""
+  },
+  "58": {
+    "kvt": "\u00a0daiq phail nail juq mail oil dov-ai thaq nail haoq gavq bhai aq meeq meeq dai tsao the khi nal daiq yaoq.",
+    "en": "",
+    "z": ""
+  },
+  "59": {
+    "kvt": "\u00a0daiq phail nail juq mail oil dov-ai thaq nail haoq gavq bhai aq meeq meeq dai tsao the khi nal daiq yaoq.",
+    "en": "",
+    "z": ""
+  },
+  "60": {
+    "kvt": "\u00a0daiq phail nail juq mail oil dov-ai thaq nail haoq gavq bhai aq meeq meeq dai tsao the khi nal daiq yaoq.",
+    "en": "",
+    "z": ""
+  }
+}

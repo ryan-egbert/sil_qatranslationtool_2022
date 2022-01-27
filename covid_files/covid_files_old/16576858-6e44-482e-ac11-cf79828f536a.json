@@ -1,0 +1,285 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "16576858-6e44-482e-ac11-cf79828f536a",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Local-Community",
+  "folio": false,
+  "isRtl": false,
+  "title": "CANCI\u00d3N DEL CORONAVIRUS",
+  "allTitles": "{\"en\":\"CANCION DEL CORONAVIRUS\",\"es\":\"CANCI\u00d3N DEL CORONAVIRUS\"}",
+  "originalTitle": "CANCION DEL CORONAVIRUS",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "1a648b00-1ec0-46a7-be11-b0dec22fa0f4,89e61e07-a0e9-4b65-ae34-9e708ac82b7a",
+  "downloadSource": "cfsblomm@gmail.com/16576858-6e44-482e-ac11-cf79828f536a",
+  "license": "cc-by-nc",
+  "formatVersion": "2.1",
+  "licenseNotes": "",
+  "copyright": null,
+  "credits": "",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 16,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "asUh6dYuEO"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "L5o89HLV0w"
+    }
+  ],
+  "summary": null,
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "fpj1aahDD9"
+  },
+  "tools": [
+    {
+      "name": "signLanguage",
+      "enabled": true,
+      "state": null
+    },
+    {
+      "name": "imageDescription",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "signLanguageTool",
+  "toolboxIsOpen": true,
+  "author": null,
+  "publisher": "",
+  "originalPublisher": "",
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "signLanguage",
+    "signLanguage:csn"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "Ingl\u00e9s",
+    "hds": "Honduran Sign Language",
+    "es": "Spanish",
+    "csn": "LENGUA DE SE\u00d1AS COLOMBIANA (LSC)"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "es": "CANCI\u00d3N DEL CORONAVIRUS",
+    "en": "CANCION DEL CORONAVIRUS"
+  },
+  "2": {
+    "es": "CANCI\u00d3N DEL CORONAVIRUS",
+    "en": "CANCION DEL CORONAVIRUS"
+  },
+  "3": {
+    "es": "CANCI\u00d3N DEL CORONAVIRUS",
+    "en": "CANCION DEL CORONAVIRUS"
+  },
+  "4": {
+    "es": "CANCI\u00d3N DEL CORONAVIRUS",
+    "en": "CANCION DEL CORONAVIRUS"
+  },
+  "14": {
+    "es": "CANCI\u00d3N DEL CORONAVIRUS",
+    "en": "CANCION DEL CORONAVIRUS"
+  },
+  "15": {
+    "es": "CANCI\u00d3N DEL CORONAVIRUS",
+    "en": "CANCION DEL CORONAVIRUS"
+  },
+  "16": {
+    "es": "CANCI\u00d3N DEL CORONAVIRUS",
+    "en": "CANCION DEL CORONAVIRUS"
+  },
+  "17": {
+    "es": "CANCI\u00d3N DEL CORONAVIRUS",
+    "en": "CANCION DEL CORONAVIRUS"
+  },
+  "20": {
+    "csn": "Subtitulaci\u00f3n: Xiomara Mart\u00ednez"
+  },
+  "23": {
+    "csn": "Agradecemos a los generosos donantes que hicieron posible este proyecto."
+  },
+  "31": {
+    "z": "",
+    "es": "\u00a0Canci\u00f3n del Coronavirus",
+    "csn": ""
+  },
+  "32": {
+    "z": "",
+    "es": "\u00a0Canci\u00f3n del Coronavirus",
+    "csn": ""
+  },
+  "33": {
+    "z": "",
+    "es": "\u00a0Canci\u00f3n del Coronavirus",
+    "csn": ""
+  },
+  "34": {
+    "z": "",
+    "es": "\u00a0Canci\u00f3n del Coronavirus",
+    "csn": ""
+  },
+  "35": {
+    "z": "",
+    "es": "\u00a0Canci\u00f3n del Coronavirus",
+    "csn": ""
+  },
+  "36": {
+    "z": "",
+    "es": "\u00a0Canci\u00f3n del Coronavirus",
+    "csn": ""
+  },
+  "37": {
+    "z": "",
+    "es": "Miramos por todos lados escuelas cerradas y trabajos tambi\u00e9n.",
+    "csn": ""
+  },
+  "38": {
+    "z": "",
+    "es": "Miramos por todos lados escuelas cerradas y trabajos tambi\u00e9n.",
+    "csn": ""
+  },
+  "39": {
+    "z": "",
+    "es": "Miramos por todos lados escuelas cerradas y trabajos tambi\u00e9n.",
+    "csn": ""
+  },
+  "40": {
+    "z": "",
+    "es": "Los ni\u00f1os y ni\u00f1as no entienden y siguen sin entender.",
+    "csn": ""
+  },
+  "41": {
+    "z": "",
+    "es": "Los ni\u00f1os y ni\u00f1as no entienden y siguen sin entender.",
+    "csn": ""
+  },
+  "42": {
+    "z": "",
+    "es": "Los ni\u00f1os y ni\u00f1as no entienden y siguen sin entender.",
+    "csn": ""
+  },
+  "43": {
+    "z": "",
+    "es": "La esperanza es nuestro futuro si siempre pensamos en la oraci\u00f3n.",
+    "csn": ""
+  },
+  "44": {
+    "z": "",
+    "es": "La esperanza es nuestro futuro si siempre pensamos en la oraci\u00f3n.",
+    "csn": ""
+  },
+  "45": {
+    "z": "",
+    "es": "La esperanza es nuestro futuro si siempre pensamos en la oraci\u00f3n.",
+    "csn": ""
+  },
+  "46": {
+    "z": "",
+    "es": "\u00a0Lavarse las manos, usar la mascarilla es as\u00ed como las familias y amigos deben estar. Quedarse en casa es mantenerse protegido.",
+    "csn": ""
+  },
+  "47": {
+    "z": "",
+    "es": "\u00a0Lavarse las manos, usar la mascarilla es as\u00ed como las familias y amigos deben estar. Quedarse en casa es mantenerse protegido.",
+    "csn": ""
+  },
+  "48": {
+    "z": "",
+    "es": "\u00a0Lavarse las manos, usar la mascarilla es as\u00ed como las familias y amigos deben estar. Quedarse en casa es mantenerse protegido.",
+    "csn": ""
+  },
+  "49": {
+    "z": "",
+    "es": "Es tiempo de ver a la familia, abrazarnos con amor y compartir juntos actividades con amor, no sentir temor sino abrazarnos nuevamente como familia.",
+    "csn": ""
+  },
+  "50": {
+    "z": "",
+    "es": "Es tiempo de ver a la familia, abrazarnos con amor y compartir juntos actividades con amor, no sentir temor sino abrazarnos nuevamente como familia.",
+    "csn": ""
+  },
+  "51": {
+    "z": "",
+    "es": "Es tiempo de ver a la familia, abrazarnos con amor y compartir juntos actividades con amor, no sentir temor sino abrazarnos nuevamente como familia.",
+    "csn": ""
+  },
+  "52": {
+    "z": "",
+    "es": "Este es el tiempo de quedarse en casa, este es el tiempo de quedarse en casa.",
+    "csn": ""
+  },
+  "53": {
+    "z": "",
+    "es": "Este es el tiempo de quedarse en casa, este es el tiempo de quedarse en casa.",
+    "csn": ""
+  },
+  "54": {
+    "z": "",
+    "es": "Este es el tiempo de quedarse en casa, este es el tiempo de quedarse en casa.",
+    "csn": ""
+  },
+  "55": {
+    "z": "",
+    "es": "Lavarse las manos, usar la mascarilla correctamente es cuidarse a s\u00ed mismo y a la familia; y al ver a los amigos un saludo cordial nos daremos pu\u00f1o a pu\u00f1o y codo a codo. Es tiempo de seguir esperando, de seguir esperando.",
+    "csn": ""
+  },
+  "56": {
+    "z": "",
+    "es": "Lavarse las manos, usar la mascarilla correctamente es cuidarse a s\u00ed mismo y a la familia; y al ver a los amigos un saludo cordial nos daremos pu\u00f1o a pu\u00f1o y codo a codo. Es tiempo de seguir esperando, de seguir esperando.",
+    "csn": ""
+  },
+  "57": {
+    "z": "",
+    "es": "Lavarse las manos, usar la mascarilla correctamente es cuidarse a s\u00ed mismo y a la familia; y al ver a los amigos un saludo cordial nos daremos pu\u00f1o a pu\u00f1o y codo a codo. Es tiempo de seguir esperando, de seguir esperando.",
+    "csn": ""
+  },
+  "58": {
+    "z": "",
+    "es": "Este es el tiempo de quedarse en casa, este es el tiempo de quedarse en casa.",
+    "csn": ""
+  },
+  "59": {
+    "z": "",
+    "es": "Este es el tiempo de quedarse en casa, este es el tiempo de quedarse en casa.",
+    "csn": ""
+  },
+  "60": {
+    "z": "",
+    "es": "Este es el tiempo de quedarse en casa, este es el tiempo de quedarse en casa.",
+    "csn": ""
+  }
+}

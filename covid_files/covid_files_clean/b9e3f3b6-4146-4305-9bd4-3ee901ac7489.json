@@ -1,0 +1,354 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"oki\":\"Ag\u014dpo kuutigoop Koroona\"}",
+    "author": null,
+    "bookInstanceId": "b9e3f3b6-4146-4305-9bd4-3ee901ac7489",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "oki": "Ag\u014dpo kuutigoop Koroona"
+        },
+        "1": {
+            "eng": "",
+            "oki": ""
+        },
+        "2": {
+            "eng": "",
+            "oki": "Translated by: Stephen Leshao, Francis Lesingo, Joyline Chepkoech"
+        },
+        "3": {
+            "oki": ""
+        },
+        "4": {
+            "oki": "Indee kiit ageenge n\u0113 maktaat inay ag\u014dpo kiit n\u0113 kiitooy ing\u0113\u0113noomndooy keey"
+        },
+        "5": {
+            "oki": ""
+        },
+        "6": {
+            "oki": "K\u014d\u014dt\u0113\u0113t"
+        },
+        "7": {
+            "oki": "S\u0113ruun\u0113\u0113k"
+        },
+        "8": {
+            "oki": "Koonyeek,"
+        },
+        "9": {
+            "oki": "Kiit kochut"
+        },
+        "10": {
+            "oki": "\u00a0Chiito n\u0113 \n\u00a0 p\u0113\u0113r\u0113y keey"
+        },
+        "11": {
+            "oki": "Chiito ne mi\u0101ni"
+        },
+        "12": {
+            "oki": "Kinoomndooy keey kuutichu \u0113n p\u0113\u0113k ch\u0113 soitooy ch\u0113po"
+        },
+        "13": {
+            "oki": "Inaaktaa-e, iy\u0113 t\u0113\u0113n Mita-iitsyek o-\u0113\u0113ny si k\u014dmoipiisiin\u00a0 p\u0113\u0113ychoon isooytooy chiichoon po o-\u0113\u0113ny"
+        },
+        "14": {
+            "oki": "1"
+        },
+        "15": {
+            "oki": "Mita-iisyek o-\u0113\u0113ny"
+        },
+        "16": {
+            "oki": "Atisy\u014d\u014d!"
+        },
+        "17": {
+            "oki": "Ko ayny\u014d\u014dn kiit ka isuwe\u00a0 chiito n\u0113 lool\u0113y, n\u0113 iryoon\u0113y n\u0113 mi-\u0101ni k\u014d maktaat:"
+        },
+        "18": {
+            "oki": "Igoochin kiit n\u0113 tuch\u0113\u0113n s\u0113ruun\u0113\u0113k ak k\u014d\u014dt\u0113\u0113t. \u00a0K\u014d paanan k\u014dmuuch\u0113y k\u014dloolchi onoon k\u014dryoonchi\u00a0 si k\u014dmainaamda piik ch\u0113 n\u0113\u0113git\u0113\u0113n"
+        },
+        "19": {
+            "oki": "o-\u0113\u0113ny"
+        },
+        "20": {
+            "oki": "Kiit n\u0113 kituch\u0113\u0113n s\u0113ruun\u0113k iyoon\nkiiryoon\u0113y"
+        },
+        "21": {
+            "oki": "ONOON"
+        },
+        "22": {
+            "oki": "Imuuch\u0113y k\u014dmo mi\u0101ni, k\u014d\u0113k kity\u014d\u00a0 riip\u0113y keey."
+        },
+        "23": {
+            "oki": "Piik ch\u0113 kiigonaamda k\u014dmuuch\u0113y k\u014dmotook k\u014dl\u0113 tiny\u0113y, isk\u014d ais inoomdooy piik."
+        },
+        "24": {
+            "oki": "Isk\u014d k\u014dmy\u0113\u0113y\u00a0 k\u014dmoin\u0113\u0113git\u0113\u00a0 iy\u0113 chaang' piik, ingaap moing\u0113\u0113n il\u0113 ain\u014d\u014dn \u0113n piichoon n\u0113\u00a0 mi\u0101ni."
+        },
+        "25": {
+            "oki": "Siipitik ch\u0113 kigut\u0113\u0113n keeleek"
+        },
+        "26": {
+            "oki": "Chiito n\u0113 p\u0113\u0113r\u0113y keey"
+        },
+        "27": {
+            "oki": "Kiit n\u0113 kin\u0101m\u0113y \u0113n kariitaap maat"
+        },
+        "28": {
+            "oki": "Ki-oon kichiil\u0113y \u0113n lift"
+        },
+        "29": {
+            "oki": "Kartasiit ne tangus"
+        },
+        "30": {
+            "oki": "kigomba-iik"
+        },
+        "31": {
+            "oki": "K\u014dmpuuta ak siimoit"
+        },
+        "32": {
+            "oki": "Ag\u014dt karaastaap kiyoon kiituch\u0113\u0113n\u00a0 k\u014d\u014dt\u0113\u0113t ak s\u0113ruun\u0113k"
+        },
+        "33": {
+            "oki": "Tuguchoon kin\u0101moot\u0113y ing\u0113loony\u0113y patay ko"
+        },
+        "34": {
+            "oki": "Kiit n\u0113 kichiil\u0113\u0113n k\u014dmpuuta"
+        },
+        "35": {
+            "oki": "kilaamit"
+        },
+        "36": {
+            "oki": "Chapii inaan kig\u0113r\u0113\u0113n kurgeet"
+        },
+        "37": {
+            "oki": "\u0112-iin\u0113kyuwaak"
+        },
+        "38": {
+            "oki": "Is k\u014dmuuch\u0113y ais\u00a0 k\u014dsoychiin\u00a0 ng\u2019uleegaap chiito n\u0113 mi-\u0101ni tuuguugoop chiit age\u2026"
+        },
+        "39": {
+            "oki": "K\u014d\u00a0 omuuch\u0113 omi-\u0101s\u0113 t\u014dg\u014dl"
+        },
+        "40": {
+            "oki": "Onoon k\u014d togoitaap tilyonuutiguuk"
+        },
+        "41": {
+            "oki": "Itinytiny konyeeguuk"
+        },
+        "42": {
+            "oki": "K\u014d \u014dt inam tuguuchu komaay inay, is inam togoita,"
+        },
+        "43": {
+            "oki": "K\u014d kiit n\u0113 kiitooy kity\u014d komanamin k\u014d kee-uun e-iinek \u0113n sopuniit, onoon k\u014d tuguuk che kiigitesta rootiik"
+        },
+        "44": {
+            "oki": "Imuuch\u0113y k\u014dsopcho kuutichaan \u0113n patay tuguuk \u0113n tuchuupo saa-isya"
+        },
+        "45": {
+            "oki": "sopuniit"
+        },
+        "46": {
+            "oki": "Riip\u0113\u0113toop keey"
+        },
+        "47": {
+            "oki": "Noon omunee si k\u014dmaktaat k\u0113\u0113sip ng'aleechu"
+        },
+        "48": {
+            "oki": "I-uun\u0113\u0113n\u00a0 sopuniit o\u014dt iitis iyu"
+        },
+        "49": {
+            "oki": "sopuniit"
+        },
+        "50": {
+            "oki": "Tutunytoop \u0113-uut"
+        },
+        "51": {
+            "oki": "Me inam\u00a0 togoitang\u2019uung\u2019. (Onoon k\u014d togoitaap chii aget\u014dg\u014dl.) Kiit kaimach inam, igan i-uun \u0113-iin\u0113guuk k\u014dsiing'\u014d\u014dy \u0113n sopuniit."
+        },
+        "52": {
+            "oki": "Saa-it n\u0113 y\u0101m\u0113y iguurtoo-\u0113 ty\u0113ni por\u0113y\u00a0 \u201cHappy Birthday\u201d kip o-\u0113\u0113ny\u00a0"
+        },
+        "53": {
+            "oki": "Oriitoop siilolik"
+        },
+        "54": {
+            "oki": "segoontiisyek\u00a0 20"
+        },
+        "55": {
+            "oki": "Tooytoop moriik"
+        },
+        "56": {
+            "oki": "I-uun r\u0113p\u0113ito ak patay \u0113-iin\u0113guuk"
+        },
+        "57": {
+            "oki": "K\u014dsiing'\u014d\u014dy k\u014d nee?"
+        },
+        "58": {
+            "oki": "\u014ct inam, k\u014d moimw\u0113y. I-uun \u0113-iin\u0113guuk \u0113n sopuniit."
+        },
+        "59": {
+            "oki": "K\u014dg\u0113ny k\u0113\u0113r il\u0113 maay inam oriit \u0113n\u00a0 maskinaan"
+        },
+        "60": {
+            "oki": "P\u0113\u0113k ch\u0113 soitooy"
+        },
+        "61": {
+            "oki": "Piitun\u0113\u0113n oriitoop masking'uung'\u00a0 kuutik ch\u0113 k\u0113\u0113guur\u0113\u0113n \"bacteria\" kiita kailaach p\u0113sy\u014d\u014dsy\u0113k\u00a0 che chaang'."
+        },
+        "62": {
+            "oki": "M\u0113t\u0113\u0113n maskit\u00a0 iyoon kay komuny. Me ilaach \u014dt isiiris\u00a0 p\u0113sy\u0113\u0113t\u00a0 ageenge!"
+        },
+        "63": {
+            "oki": "Pch\u0113-\u0113\u0113n\u00a0 segeetyet n\u0113 \u014dw"
+        },
+        "64": {
+            "oki": "Laakweet"
+        },
+        "65": {
+            "oki": "Paapa"
+        },
+        "66": {
+            "oki": "\u0112y\u014d\u014d,"
+        },
+        "67": {
+            "oki": "\u014cng\u014dtiny\u0113y chiit\u014dg\u014dl\u00a0 toul\u014dinyiin"
+        },
+        "68": {
+            "oki": "Moam omdit \u0113n saniit ageenge, onoon o-\u0101misi\u0113 kurpeet ageenge onoon \u014dsuch\u0113g\u0113\u0113y toul\u014dit ageenge."
+        },
+        "69": {
+            "oki": "Moimuugoks\u0113y itwaa-e togoitang'uung' tutuunytoop \u0113-uut ag\u014dt inda iy\u014d\u014dt\u0113."
+        },
+        "70": {
+            "oki": "Yaateen kurgeet tutunytoop \u0113-uut onion k\u014d tigikyoot n\u0113 kata iyoot\u0113\u0113n\u0113 \u0113-uut, \u014dt k\u014dmuugoks\u0113y."
+        },
+        "71": {
+            "oki": "Kaaw"
+        },
+        "72": {
+            "oki": "Ak iyoon kay imang'de \u0113n iy\u0113 ind\u0113\u0113 piik."
+        },
+        "73": {
+            "oki": "K\u014dt\u014d\u014dmo i\u0101miisy\u0113"
+        },
+        "74": {
+            "oki": "I-uun\u0113\u0113n sopuniit \u0113-iin\u0113guuk k\u014dt\u0113\u0113n kay\u2026"
+        },
+        "75": {
+            "oki": "N\u0113po l\u0113t,"
+        },
+        "76": {
+            "oki": "Sopuniit"
+        },
+        "77": {
+            "oki": "Riip keey chiit\u014dg\u014dl"
+        },
+        "78": {
+            "oki": "Riip keey chiit\u014dg\u014dl"
+        },
+        "79": {
+            "oki": "Sopuniit"
+        },
+        "80": {
+            "oki": "Sooman siruutik\u00a0 siinay che chaang\u2019!"
+        },
+        "81": {
+            "oki": "1.\u00a0\u00a0\u00a0\u00a0 \u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n"
+        },
+        "82": {
+            "oki": "1.\u00a0\u00a0\u00a0\u00a0 \u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report.\u00a0 (Jan 25, 2020)\n"
+        },
+        "83": {
+            "oki": "1.\u00a0\u00a0\u00a0\u00a0 \u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion.\u00a0 (Jan 28,2020)\n"
+        },
+        "84": {
+            "oki": "Iy\u0113 kiny\u014d\u014drchin ng'aleegaap konyoo-is\u0113\u0113t:\n"
+        },
+        "85": {
+            "oki": "Siruutik alak: Waakta n\u0113yuu ni n\u0113 kimwooyto-\u0113\u0113n ag\u014dpo tiliilindoop p\u014d\u014drto k\u014d siing\u014d\u014dy ag\u014dt \u0113n mwaaytaa-etaap mi\u0101nweek alakch\u0113 yuu ting'\u014d\u014dw\u0113k, isk\u014d maktaat k\u0113\u0113sip \u0113n p\u0113sy\u014d\u014dsy\u0113k t\u014dg\u014dl ag\u014dt iyoon moind\u0113\u0113 mi\u0101ndo n\u0113 yuu ni.\nIy\u0113 kiny\u014d\u014drchin ng'aleek: Ng'aleechu k\u014dyoopu koguuy\u0113\u0113toop COVID19 ot koit 28/2/2020 is k\u0113\u0113ny\u014d\u014drchin iyu: https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nNg'aleek alak: Imuuch\u0113 iny\u0113mu siruutik alak ch\u0113 ind\u0113\u0113 \u0113n PDF k\u014d maay kiyaachin \u0113n iyu: https://gumroad.com/weimankowart\niy\u0113toop yayiisy\u0113\u0113t.\nIyoon igoito-ii ipwaat Ng'aleechu s\u014dm\u014dk: 1) Mogiiy\u0101njin chiito aget\u014dg\u014dl kowal ng'aleek ch\u0113 ind\u0113\u0113 puguuni. 2) Mogiy\u0101y\u0113\u0113n biashara puguuni. 3) \u014ct k\u014d ind\u0113\u0113 internet imwaay chiito n\u0113 kiiy\u0101yu Ng'aleechu il\u0113 @weimankowart onion k\u014d @weimankow\n\u014ct im\u0101che inay kiit n\u0113 kiitooy puguuni, isoom \u0113n comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "oki": "Ag\u014dpo kuutigoop Koroona"
+        },
+        "87": {
+            "eng": "",
+            "oki": ""
+        },
+        "88": {
+            "eng": "\u00a0Bible Translation & Literacy E.A",
+            "oki": ""
+        },
+        "89": {
+            "eng": "Translated by Stephen Leshao, Francis Lesingo, Joyline Chepkoech",
+            "oki": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "oki": ""
+        },
+        "91": {
+            "eng": "",
+            "oki": ""
+        },
+        "92": {
+            "eng": "",
+            "oki": ""
+        },
+        "93": {
+            "eng": "",
+            "oki": ""
+        },
+        "94": {
+            "eng": "",
+            "oki": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\n\u00a0Bible Translation & Literacy E.A\nTranslated by Stephen Leshao, Francis Lesingo, Joyline Chepkoech\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "oki": "Ag\u014dpo kuutigoop Koroona\n\nTranslated by: Stephen Leshao, Francis Lesingo, Joyline Chepkoech\n\nIndee kiit ageenge n\u0113 maktaat inay ag\u014dpo kiit n\u0113 kiitooy ing\u0113\u0113noomndooy keey\n\nK\u014d\u014dt\u0113\u0113t\nS\u0113ruun\u0113\u0113k\nKoonyeek,\nKiit kochut\n\u00a0Chiito n\u0113 \n\u00a0 p\u0113\u0113r\u0113y keey\nChiito ne mi\u0101ni\nKinoomndooy keey kuutichu \u0113n p\u0113\u0113k ch\u0113 soitooy ch\u0113po\nInaaktaa-e, iy\u0113 t\u0113\u0113n Mita-iitsyek o-\u0113\u0113ny si k\u014dmoipiisiin\u00a0 p\u0113\u0113ychoon isooytooy chiichoon po o-\u0113\u0113ny\n1\nMita-iisyek o-\u0113\u0113ny\nAtisy\u014d\u014d!\nKo ayny\u014d\u014dn kiit ka isuwe\u00a0 chiito n\u0113 lool\u0113y, n\u0113 iryoon\u0113y n\u0113 mi-\u0101ni k\u014d maktaat:\nIgoochin kiit n\u0113 tuch\u0113\u0113n s\u0113ruun\u0113\u0113k ak k\u014d\u014dt\u0113\u0113t. \u00a0K\u014d paanan k\u014dmuuch\u0113y k\u014dloolchi onoon k\u014dryoonchi\u00a0 si k\u014dmainaamda piik ch\u0113 n\u0113\u0113git\u0113\u0113n\no-\u0113\u0113ny\nKiit n\u0113 kituch\u0113\u0113n s\u0113ruun\u0113k iyoon\nkiiryoon\u0113y\nONOON\nImuuch\u0113y k\u014dmo mi\u0101ni, k\u014d\u0113k kity\u014d\u00a0 riip\u0113y keey.\nPiik ch\u0113 kiigonaamda k\u014dmuuch\u0113y k\u014dmotook k\u014dl\u0113 tiny\u0113y, isk\u014d ais inoomdooy piik.\nIsk\u014d k\u014dmy\u0113\u0113y\u00a0 k\u014dmoin\u0113\u0113git\u0113\u00a0 iy\u0113 chaang' piik, ingaap moing\u0113\u0113n il\u0113 ain\u014d\u014dn \u0113n piichoon n\u0113\u00a0 mi\u0101ni.\nSiipitik ch\u0113 kigut\u0113\u0113n keeleek\nChiito n\u0113 p\u0113\u0113r\u0113y keey\nKiit n\u0113 kin\u0101m\u0113y \u0113n kariitaap maat\nKi-oon kichiil\u0113y \u0113n lift\nKartasiit ne tangus\nkigomba-iik\nK\u014dmpuuta ak siimoit\nAg\u014dt karaastaap kiyoon kiituch\u0113\u0113n\u00a0 k\u014d\u014dt\u0113\u0113t ak s\u0113ruun\u0113k\nTuguchoon kin\u0101moot\u0113y ing\u0113loony\u0113y patay ko\nKiit n\u0113 kichiil\u0113\u0113n k\u014dmpuuta\nkilaamit\nChapii inaan kig\u0113r\u0113\u0113n kurgeet\n\u0112-iin\u0113kyuwaak\nIs k\u014dmuuch\u0113y ais\u00a0 k\u014dsoychiin\u00a0 ng\u2019uleegaap chiito n\u0113 mi-\u0101ni tuuguugoop chiit age\u2026\nK\u014d\u00a0 omuuch\u0113 omi-\u0101s\u0113 t\u014dg\u014dl\nOnoon k\u014d togoitaap tilyonuutiguuk\nItinytiny konyeeguuk\nK\u014d \u014dt inam tuguuchu komaay inay, is inam togoita,\nK\u014d kiit n\u0113 kiitooy kity\u014d komanamin k\u014d kee-uun e-iinek \u0113n sopuniit, onoon k\u014d tuguuk che kiigitesta rootiik\nImuuch\u0113y k\u014dsopcho kuutichaan \u0113n patay tuguuk \u0113n tuchuupo saa-isya\nsopuniit\nRiip\u0113\u0113toop keey\nNoon omunee si k\u014dmaktaat k\u0113\u0113sip ng'aleechu\nI-uun\u0113\u0113n\u00a0 sopuniit o\u014dt iitis iyu\nsopuniit\nTutunytoop \u0113-uut\nMe inam\u00a0 togoitang\u2019uung\u2019. (Onoon k\u014d togoitaap chii aget\u014dg\u014dl.) Kiit kaimach inam, igan i-uun \u0113-iin\u0113guuk k\u014dsiing'\u014d\u014dy \u0113n sopuniit.\nSaa-it n\u0113 y\u0101m\u0113y iguurtoo-\u0113 ty\u0113ni por\u0113y\u00a0 \u201cHappy Birthday\u201d kip o-\u0113\u0113ny\u00a0\nOriitoop siilolik\nsegoontiisyek\u00a0 20\nTooytoop moriik\nI-uun r\u0113p\u0113ito ak patay \u0113-iin\u0113guuk\nK\u014dsiing'\u014d\u014dy k\u014d nee?\n\u014ct inam, k\u014d moimw\u0113y. I-uun \u0113-iin\u0113guuk \u0113n sopuniit.\nK\u014dg\u0113ny k\u0113\u0113r il\u0113 maay inam oriit \u0113n\u00a0 maskinaan\nP\u0113\u0113k ch\u0113 soitooy\nPiitun\u0113\u0113n oriitoop masking'uung'\u00a0 kuutik ch\u0113 k\u0113\u0113guur\u0113\u0113n \"bacteria\" kiita kailaach p\u0113sy\u014d\u014dsy\u0113k\u00a0 che chaang'.\nM\u0113t\u0113\u0113n maskit\u00a0 iyoon kay komuny. Me ilaach \u014dt isiiris\u00a0 p\u0113sy\u0113\u0113t\u00a0 ageenge!\nPch\u0113-\u0113\u0113n\u00a0 segeetyet n\u0113 \u014dw\nLaakweet\nPaapa\n\u0112y\u014d\u014d,\n\u014cng\u014dtiny\u0113y chiit\u014dg\u014dl\u00a0 toul\u014dinyiin\nMoam omdit \u0113n saniit ageenge, onoon o-\u0101misi\u0113 kurpeet ageenge onoon \u014dsuch\u0113g\u0113\u0113y toul\u014dit ageenge.\nMoimuugoks\u0113y itwaa-e togoitang'uung' tutuunytoop \u0113-uut ag\u014dt inda iy\u014d\u014dt\u0113.\nYaateen kurgeet tutunytoop \u0113-uut onion k\u014d tigikyoot n\u0113 kata iyoot\u0113\u0113n\u0113 \u0113-uut, \u014dt k\u014dmuugoks\u0113y.\nKaaw\nAk iyoon kay imang'de \u0113n iy\u0113 ind\u0113\u0113 piik.\nK\u014dt\u014d\u014dmo i\u0101miisy\u0113\nI-uun\u0113\u0113n sopuniit \u0113-iin\u0113guuk k\u014dt\u0113\u0113n kay\u2026\nN\u0113po l\u0113t,\nSopuniit\nRiip keey chiit\u014dg\u014dl\nRiip keey chiit\u014dg\u014dl\nSopuniit\nSooman siruutik\u00a0 siinay che chaang\u2019!\n1.\u00a0\u00a0\u00a0\u00a0 \u201cThis animation shows how far your sneeze can actually travel\u201d by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\n1.\u00a0\u00a0\u00a0\u00a0 \u201cThe Wuhan Virus: How to stay safe\u201d, by Laurie Garrett, in Foreign policy, Report.\u00a0 (Jan 25, 2020)\n\n1.\u00a0\u00a0\u00a0\u00a0 \u201cHow to avoid the coronavirus? Wash your hands\u201d. By Elizabeth Rosenthal, in the New York Times, opinion.\u00a0 (Jan 28,2020)\n\nIy\u0113 kiny\u014d\u014drchin ng'aleegaap konyoo-is\u0113\u0113t:\n\nSiruutik alak: Waakta n\u0113yuu ni n\u0113 kimwooyto-\u0113\u0113n ag\u014dpo tiliilindoop p\u014d\u014drto k\u014d siing\u014d\u014dy ag\u014dt \u0113n mwaaytaa-etaap mi\u0101nweek alakch\u0113 yuu ting'\u014d\u014dw\u0113k, isk\u014d maktaat k\u0113\u0113sip \u0113n p\u0113sy\u014d\u014dsy\u0113k t\u014dg\u014dl ag\u014dt iyoon moind\u0113\u0113 mi\u0101ndo n\u0113 yuu ni.\nIy\u0113 kiny\u014d\u014drchin ng'aleek: Ng'aleechu k\u014dyoopu koguuy\u0113\u0113toop COVID19 ot koit 28/2/2020 is k\u0113\u0113ny\u014d\u014drchin iyu: https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nNg'aleek alak: Imuuch\u0113 iny\u0113mu siruutik alak ch\u0113 ind\u0113\u0113 \u0113n PDF k\u014d maay kiyaachin \u0113n iyu: https://gumroad.com/weimankowart\niy\u0113toop yayiisy\u0113\u0113t.\nIyoon igoito-ii ipwaat Ng'aleechu s\u014dm\u014dk: 1) Mogiiy\u0101njin chiito aget\u014dg\u014dl kowal ng'aleek ch\u0113 ind\u0113\u0113 puguuni. 2) Mogiy\u0101y\u0113\u0113n biashara puguuni. 3) \u014ct k\u014d ind\u0113\u0113 internet imwaay chiito n\u0113 kiiy\u0101yu Ng'aleechu il\u0113 @weimankowart onion k\u014d @weimankow\n\u014ct im\u0101che inay kiit n\u0113 kiitooy puguuni, isoom \u0113n comicsforgood@gmail.com\nAg\u014dpo kuutigoop Koroona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "oki",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Bible Translation & Literacy, E.A",
+    "country": "Kenya",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "VcI1KDFH7u"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "oki": "Ogiek"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "Maiwal ng'aleegaap puguuni p\u0113\u0113g\u014d imuuche imwaa-e k\u014d\u014dt\u0113\u0113t age, iy\u0101yu kiit n\u0113 kaimach, is igoit\u0113 k\u014dmaach iyaye biashara. Maktaat iriip kayneetaap chiito n\u0113 kiisir\u0113y is kochooran, inee k\u014d: Weiman Kou.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "Ag\u014dpo kuutigoop Koroona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

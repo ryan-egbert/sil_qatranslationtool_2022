@@ -1,0 +1,165 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": true,
+  "bookInstanceId": "50969d4e-6429-46b0-9126-e1dddad0e8e4",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Ima kan CORONAVIRUS niska unkuy",
+  "allTitles": "{\"qvo\":\"Ima kan CORONAVIRUS niska unkuy\"}",
+  "originalTitle": "Ima kan CORONAVIRUS niska unkuy",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,ea43ce61-a752-429d-ad1a-ec282db33328",
+  "downloadSource": "claudia_lazon@sil.org/50969d4e-6429-46b0-9126-e1dddad0e8e4",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2020, Equipo Napo Kichwa",
+  "credits": "#\u00d1ukaWasipiSakirini\r\n#WasipiSakiri",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 10,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "Q3wGST7Du4"
+    }
+  ],
+  "summary": null,
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": {
+    "name": "leveledReader",
+    "enabled": true,
+    "state": "1"
+  },
+  "LeveledReaderLevel": 1,
+  "country": "Peru",
+  "province": "Loreto",
+  "district": "Torres Causana",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "0DxNXFiREu"
+  },
+  "tools": [
+    {
+      "name": "leveledReader",
+      "enabled": true,
+      "state": "1"
+    }
+  ],
+  "currentTool": "leveledReaderTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "qvo": "Napo Kichwa",
+    "es": "espa\u00f1ol"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "2": {
+    "qvo": "Ima kan CORONAVIRUS niska unkuy"
+  },
+  "3": {
+    "qvo": "Ima kan CORONAVIRUS niska unkuy"
+  },
+  "14": {
+    "qvo": "Ima kan CORONAVIRUS niska unkuy"
+  },
+  "15": {
+    "qvo": "Ima kan CORONAVIRUS niska unkuy"
+  },
+  "23": {
+    "es": "Ilustraciones / Dibuha warmi: Claudia Laz\u00f3n E."
+  },
+  "26": {
+    "es": "#WasipiSakiri"
+  },
+  "29": {
+    "z": "",
+    "qvo": "Chay unkuy lumarisushinallata kan. Shukmanta mana unayasa shukunama chimpan. Chaywasha sipishina tukusa mana unayasa wa\u00f1uchinata ushan. Chay unkuy awlukuna mamarukukunaraykupas manchaypa kan. Lumarisuta chari runakunaraykupas manchaypa kan. Chasnallata maykan runa unaymanta yawar mishkiyaska, presion alta niska, killu wa\u00f1uy B, tisiku, VIH, chinikuru unkuyta chari runakuna utkalla wa\u00f1unata ushan."
+  },
+  "30": {
+    "z": "",
+    "qvo": "Chay unkuy lumarisushinallata kan. Shukmanta mana unayasa shukunama chimpan. Chaywasha sipishina tukusa mana unayasa wa\u00f1uchinata ushan. Chay unkuy awlukuna mamarukukunaraykupas manchaypa kan. Lumarisuta chari runakunaraykupas manchaypa kan. Chasnallata maykan runa unaymanta yawar mishkiyaska, presion alta niska, killu wa\u00f1uy B, tisiku, VIH, chinikuru unkuyta chari runakuna utkalla wa\u00f1unata ushan."
+  },
+  "32": {
+    "qvo": ""
+  },
+  "33": {
+    "qvo": ""
+  },
+  "34": {
+    "qvo": ""
+  },
+  "35": {
+    "qvo": ""
+  },
+  "36": {
+    "qvo": ""
+  },
+  "37": {
+    "qvo": ""
+  },
+  "38": {
+    "qvo": "Manara makita yaku jabunwa mayllaska kasa \u00f1awi sinka shimitapas ama llankaychichu."
+  },
+  "39": {
+    "qvo": ""
+  },
+  "40": {
+    "qvo": ""
+  },
+  "41": {
+    "qvo": ""
+  },
+  "42": {
+    "qvo": "Makita unayshtuta jabunwa mayllari."
+  },
+  "43": {
+    "qvo": ""
+  },
+  "44": {
+    "qvo": "Hatun llaktamanta shamu runakunama mana mayayasa ushanchi chay unkuymanta kishpinkapa."
+  },
+  "45": {
+    "qvo": ""
+  },
+  "46": {
+    "qvo": ""
+  },
+  "47": {
+    "z": "",
+    "qvo": "\u00a0 Ashwan yachanayasa Ministerio de Salud rimaskakunata uyay."
+  },
+  "48": {
+    "z": "",
+    "qvo": "\u00a0 Ashwan yachanayasa Ministerio de Salud rimaskakunata uyay."
+  }
+}

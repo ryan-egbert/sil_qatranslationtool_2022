@@ -1,0 +1,175 @@
+{
+    "allTitles": "{\"es\":\"C\u00f3mo evitar el contagio por COVID-19\"}",
+    "author": null,
+    "bookInstanceId": "a919facf-20bb-4298-9bbd-e3b99b70a6a2",
+    "bookLineage": "1a648b00-1ec0-46a7-be11-b0dec22fa0f4,225328cc-8c92-4000-b777-985c05d4141f",
+    "bookSamples": {
+        "0": {
+            "csn": "",
+            "eng": "",
+            "hds": "",
+            "spa": "C\u00f3mo evitar el contagio por COVID-19"
+        },
+        "1": {
+            "csn": "",
+            "spa": ""
+        },
+        "2": {
+            "csn": "",
+            "spa": ""
+        },
+        "3": {
+            "csn": "",
+            "spa": ""
+        },
+        "4": {
+            "csn": "",
+            "eng": "",
+            "hds": "",
+            "spa": "C\u00f3mo evitar el contagio por COVID-19"
+        },
+        "5": {
+            "csn": "\u00a0Lengua de Se\u00f1as Colombiana : Sebastian Nu\u00f1ez\nFilmaci\u00f3n: Kelly Rojas\nEdici\u00f3n: Sebastian Nu\u00f1ez\nIlustraci\u00f3n: Teofilo Padilla\nSubtitulaci\u00f3n:Oneyda Aguilar\n",
+            "spa": ""
+        },
+        "6": {
+            "csn": "Agradecemos a los generosos donantes que hicieron posible este proyecto.",
+            "spa": ""
+        },
+        "7": {
+            "csn": "",
+            "spa": ""
+        },
+        "8": {
+            "csn": "",
+            "spa": ""
+        },
+        "9": {
+            "csn": "",
+            "spa": ""
+        },
+        "10": {
+            "csn": "",
+            "spa": "C\u00f3mo evitar el contagio por COVID-19."
+        },
+        "11": {
+            "csn": "",
+            "spa": "\u00a0En lo posible: quedarse en casa."
+        },
+        "12": {
+            "csn": "",
+            "spa": "Lavarse las manos correctamente."
+        },
+        "13": {
+            "csn": "",
+            "spa": "Usar gel antibacterial."
+        },
+        "14": {
+            "csn": "",
+            "spa": "Utilizar mascarilla."
+        },
+        "15": {
+            "csn": "",
+            "spa": "Cubrirse la cara al toser y estornudar."
+        },
+        "16": {
+            "csn": "",
+            "spa": "Evitar tocarse los ojos, nariz y la boca."
+        },
+        "17": {
+            "csn": "",
+            "spa": "Limpiar y desinfectar las compras."
+        },
+        "18": {
+            "csn": "",
+            "spa": "No compartir vaso, ni utensilios personales."
+        },
+        "19": {
+            "csn": "",
+            "spa": "Procurar mantener 2 metros de distancia entre uno y los d\u00e9mas."
+        },
+        "20": {
+            "csn": "",
+            "spa": "Evita dar la mano, mejor saluda de lejos o codo con codo."
+        },
+        "21": {
+            "csn": "",
+            "spa": "Al llegar del trabajo, desecha la mascarilla; coloca aparte la ropa, b\u00e1\u00f1ate y ponte ropa limpia."
+        },
+        "22": {
+            "csn": "",
+            "spa": "Luego coloca la ropa en detergente, procede a lavarla y tenderla para que est\u00e9 limpia."
+        },
+        "23": {
+            "csn": "",
+            "spa": ""
+        },
+        "24": {
+            "csn": "",
+            "spa": ""
+        }
+    },
+    "bookText": {
+        "csn": "\n\n\n\n\n\u00a0Lengua de Se\u00f1as Colombiana : Sebastian Nu\u00f1ez\nFilmaci\u00f3n: Kelly Rojas\nEdici\u00f3n: Sebastian Nu\u00f1ez\nIlustraci\u00f3n: Teofilo Padilla\nSubtitulaci\u00f3n:Oneyda Aguilar\n\nAgradecemos a los generosos donantes que hicieron posible este proyecto.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "spa": "C\u00f3mo evitar el contagio por COVID-19\n\n\n\nC\u00f3mo evitar el contagio por COVID-19\n\n\n\n\n\nC\u00f3mo evitar el contagio por COVID-19.\n\u00a0En lo posible: quedarse en casa.\nLavarse las manos correctamente.\nUsar gel antibacterial.\nUtilizar mascarilla.\nCubrirse la cara al toser y estornudar.\nEvitar tocarse los ojos, nariz y la boca.\nLimpiar y desinfectar las compras.\nNo compartir vaso, ni utensilios personales.\nProcurar mantener 2 metros de distancia entre uno y los d\u00e9mas.\nEvita dar la mano, mejor saluda de lejos o codo con codo.\nAl llegar del trabajo, desecha la mascarilla; coloca aparte la ropa, b\u00e1\u00f1ate y ponte ropa limpia.\nLuego coloca la ropa en detergente, procede a lavarla y tenderla para que est\u00e9 limpia.\n\n"
+    },
+    "brandingProjectName": "Local-Community",
+    "contentLanguages": [
+        "spa",
+        "csn"
+    ],
+    "copyright": null,
+    "country": "",
+    "credits": "",
+    "district": "",
+    "features": [
+        "signLanguage",
+        "signLanguage:csn",
+        "video"
+    ],
+    "folio": false,
+    "imported-book-source-url": null,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "asUh6dYuEO"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "L5o89HLV0w"
+        }
+    ],
+    "language-display-names": {
+        "csn": "LENGUA DE SE\u00d1AS COLOMBIANA (LSC)",
+        "en": "Ingl\u00e9s",
+        "es": "Spanish",
+        "hds": "Honduran Sign Language"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "originalPublisher": "",
+    "originalTitle": "C\u00f3mo evitar el contagio por COVID-19",
+    "page-number-style": "Decimal",
+    "pageCount": 19,
+    "phashOfFirstContentImage": null,
+    "province": "",
+    "publisher": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": null,
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "C\u00f3mo evitar el contagio por COVID-19",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

@@ -1,0 +1,399 @@
+{
+    "allTitles": "{\"en\":\"What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\",\"fr\":\"Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\",\"xmd\":\"M\u0259s\u0259k\u0259\u014b heni m\u0259 nda i s\u0259\u014bt\u0259 a tala\u014b KWARAWNAVIRUS, Aka s\u0259ku,\nKWAVID-19\"}",
+    "author": null,
+    "bookInstanceId": "4cc5d457-846b-4c43-ba15-a33dd305c8f6",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,4797e2a5-bc4f-48a0-b988-e10ff8deb4bc,5ac3444b-2397-4a3e-ac07-9e4aeaf757b4",
+    "bookSamples": {
+        "0": {
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19",
+            "fra": "",
+            "xmd": "M\u0259s\u0259k\u0259\u014b heni m\u0259 nda i s\u0259\u014bt\u0259 a tala\u014b KWARAWNAVIRUS, Aka s\u0259ku, KWAVID-19"
+        },
+        "1": {
+            "fra": "",
+            "xmd": ""
+        },
+        "2": {
+            "fra": "Association Camerounaise pour \ufeffla Traduction de la Bible et l'Alphab\u00e9tisation",
+            "xmd": "Association Camerounaise pour la Traduction de la Bible et l'Alphab\u00e9tisation"
+        },
+        "3": {
+            "fra": "",
+            "xmd": ""
+        },
+        "4": {
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19",
+            "fra": "",
+            "xmd": "M\u0259s\u0259k\u0259\u014b heni m\u0259 nda i s\u0259\u014bt\u0259 a tala\u014b KWARAWNAVIRUS, Aka s\u0259ku, KWAVID-19"
+        },
+        "5": {
+            "fra": "Les informations contenues dans ce livret \ufeffproviennent du site internet \ufeffde l'Organisation Mondiale de la Sant\u00e9 (OMS). https://www.who.int/fr/home",
+            "xmd": ""
+        },
+        "6": {
+            "fra": "",
+            "xmd": ""
+        },
+        "7": {
+            "fra": "",
+            "xmd": ""
+        },
+        "8": {
+            "fra": "Toutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\n\nContacts CABTAL\n\nWeb : www.cabtal.org\nMail : info_cabtal@cabtal.org\n\nTel : (237) 699 833 535\nWhatsApp : (237) 654 439 659\n\nB.P. : 16 550 Yaound\u00e9, Cameroun",
+            "xmd": ""
+        },
+        "9": {
+            "fra": "",
+            "xmd": ""
+        },
+        "10": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "11": {
+            "eng": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY",
+            "fra": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE",
+            "xmd": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 TALA\u014a T\u018f MA IYI"
+        },
+        "12": {
+            "eng": "- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n",
+            "fra": "- Coronavirus\n- Personnes vuln\u00e9rables\n- Sympto\u0302mes\n- Transmission du coronavirus\n- Comment se prot\u00e9ger?\n- Que faire en cas de contamination?\n- D\u00e9finition des mots difficiles",
+            "xmd": "- Kwarawnavirus\u00a0\n- Hedi iyi fuk, m\u0259c ta a gula i m\u0259lta\n- M\u0259s\u0259k\u0259\u014b m\u0259 giz m\u0259c iyi ta\n- Z\u0259v t\u0259 m\u0259c kwarawnavirus\n- Ley tak m\u0259c ta seh vi\u014bgey?\n- \u018f\u014bgah m\u0259c ta k\u0259m\u0259lah za seh, hwa nda i \u0257al seh vi\u014bgey?\n- P\u0259l t\u0259 ma m\u0259 day fagay iyi\n"
+        },
+        "13": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "14": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "15": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "16": {
+            "eng": "p.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8",
+            "fra": "p.2\np.3\np.4\np.5\np.6\np.7\np.8",
+            "xmd": "p.2\np.3\np.4\np.5\np.6\n\np.8\np.9"
+        },
+        "17": {
+            "eng": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+            "fra": "Le coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.",
+            "xmd": "Kwarawnavirus\n\nKwarawnavirus, baha, i k\u0259\u0257afa\u014b ma KWAVID-19, ar gu\u014bku\u0257 t\u0259 m\u0259c lawaya\u014b. A mar ley t\u0259\u0257aha seh \u0259\u014b hayak t\u0259 Sinewa iyi \u0259\u014b wa\u014b 31 t\u0259 nt\u0259ra t\u0259 m\u0259nfa\u0257 t\u0259 va 2019. A k\u0259t\u0259\u0257aha \u0259\u014b wucum m\u0259na\u014b damar (k\u0259rcah) a gula i ja hedi, \u0259\u014bgah m\u0259c ta k\u0259\u0257al za t\u0259 day day. M\u0259c ta, k\u0259wuwe\u0257 \u0259\u014b m\u0259\u014bhayak fuk. I k\u0259s\u0259\u014b mar t\u0259 m\u0259c ta s\u0259ku ndagwa."
+        },
+        "18": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "19": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "20": {
+            "eng": "Elderly person",
+            "fra": "Personne \u00e2g\u00e9e",
+            "xmd": "Hedi t\u0259 ab\u0259 va"
+        },
+        "21": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "22": {
+            "eng": "Person with a heart condition or disease",
+            "fra": "Personne cardiaque ou souffrant de maladie",
+            "xmd": "Hedi m\u0259 zl\u0259\u014b takwa\u014b t\u0259 ab\u0259\u00a0 m\u0259c"
+        },
+        "23": {
+            "eng": "Vulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+            "fra": "Personnes vuln\u00e9rables\nLes personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.",
+            "xmd": "Hedi iyi fuk m\u0259c ta a m\u0259lta za\n\nHedi s\u0259ndawl ab\u0259 mekedek iyi fuk, m\u0259c t\u0259 gu\u014bku\u0257 lawaya\u014b ta wa, a m\u0259l ta za. Hedi t\u0259 ab\u0259 va iyi li\u014b hedi m\u0259 nja t\u0259 ab\u0259 m\u0259c iyi, mar zlezle (m\u0259na\u014b m\u0259c m\u0259 tak n\u0259p, m\u0259c t\u0259 sukar t\u0259 day \u0259\u014b wucum, m\u0259c m\u0259 d\u0259zl n\u0259f, m\u0259c t\u0259 m\u0259mb\u0259z m\u0259 hiy t\u0259day \u0259\u014b wucum) hedi t\u0259 ab\u0259 m\u0259c ta wa \u0259\u014b wucum, i dal za madawar madawar m\u0259\u014bg\u0259vday a gu\u014bku\u0257 ta wa."
+        },
+        "24": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "25": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "26": {
+            "eng": "Fever\nFatigue",
+            "fra": "- Fi\u00e8vre\n- Fatigue",
+            "xmd": "-Wucum kahaw kwak\n-T\u0259\u0253\u0259l"
+        },
+        "27": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "28": {
+            "eng": "Dry cough\nMuscle aches and pains",
+            "fra": "- Toux s\u00e8che\n- Douleurs musculaires",
+            "xmd": "-J\u0259njah wula \u00a0hwal mu\u014bgurlum\n-D\u0259m t\u0259 zli t\u0259 wucum iyi"
+        },
+        "29": {
+            "eng": "Symptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+            "fra": "Les sympto\u0302mes\nLes sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.",
+            "xmd": "M\u0259s\u0259k\u0259\u014b m\u0259 giz m\u0259c iyi\n\nM\u0259s\u0259k\u0259\u014b m\u0259 giz m\u0259c t\u0259 KWARAWNAVIRUS seh, m\u0259na\u014b m\u0259c t\u0259 damar: wucum kahaw kwak, j\u0259njah wula hwal mu\u014bgurlum, d\u0259m t\u0259 zli t\u0259 wucum, t\u0259\u0253\u0259l. Hedi m\u0259 dal dakayta iyi i k\u0259zlim d\u0259m, t\u0259 \u014bcur m\u0259 hwal, t\u0259 \u014bcur m\u0259 hiyaha, t\u0259 mu\u014bgurlum, aka s\u0259ku, \u014bva la. Hedi dakayta iyi, m\u0259c ta k\u0259m\u0259lta za lawlaw, ama m\u0259c ta k\u0259t\u0259\u0257aha kwa m\u0259s\u0259k\u0259\u014b m\u0259 giz m\u0259c ta halla, i m\u0259 nji lawlaw. Hedi iyi mbeh s\u0259ku i k\u0259mb\u0259l, kwa i k\u0259\u0253\u0259t m\u0259njivek halla."
+        },
+        "30": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "31": {
+            "eng": "Person with a cough",
+            "fra": "Personne qui tousse",
+            "xmd": "Hedi m\u0259 j\u0259njah wula"
+        },
+        "32": {
+            "eng": "Transmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+            "fra": "Transmission du coronavirus\nLe COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.",
+            "xmd": "Z\u0259v t\u0259 KWARAWNAVIRUS\n\nKWAVID-19 a z\u0259v seh, kar hedi t\u0259 ab\u0259 gu\u014bku\u0257 t\u0259 KWARAWNAVIRUS. \u018f\u014bgah hedi t\u0259 ab\u0259 m\u0259c ta, a k\u0259j\u0259njah wula, aka s\u0259ku, a k\u0259\u0257al gwele, a k\u0259pir mesle\u0253 kar pakwam, aka s\u0259ku, kar \u014bcur. \u018f\u014bgah mesle\u0253 ta k\u0259t\u0259\u0257 za \u0259\u014b d\u0259m\u0259s hedi, mbamba seh, m\u0259c ta a z\u0259va\u014b za. \u018f\u014bgah hedi k\u0259ges za ab\u0259 m\u0259s\u0259k\u0259\u014b t\u0259 ab\u0259 mesle\u0253 t\u0259 hedi t\u0259 ab\u0259 m\u0259c t\u0259 KWARAWNAVIRUS t\u0259 a \u0257ek, ab\u0259 dawa\u014b ta, a \u0257ef nd\u0259ra \u0259\u014b nje, \u0259\u014b \u014bcur, \u0259\u014b pakwam, m\u0259c ta, a z\u0259va\u014b za."
+        },
+        "33": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "34": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "35": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "36": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "37": {
+            "eng": "How to protect yourself",
+            "fra": "Comment se prot\u00e9ger ?",
+            "xmd": "Ley tak m\u0259c ta seh vi\u014bgey\u00a0?"
+        },
+        "38": {
+            "eng": "1. Avoid touching eyes, nose, mouth.",
+            "fra": "1. Eviter de se toucher les yeux, le nez, la bouche.",
+            "xmd": "1. Heni mba i \u0257ef nd\u0259ra \u0259\u014b nje, \u0259\u014b \u014bcur, \u0259\u014b pakwam s\u0259ku.\n"
+        },
+        "39": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "40": {
+            "eng": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel.",
+            "fra": "2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.",
+            "xmd": "2. Hi ba\u014b nd\u0259ra ab\u0259 yim li\u014b ab\u0259 sapuna (sava\u014bw).\n"
+        },
+        "41": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "42": {
+            "eng": "3. Cough and sneeze into the crook of your arm.\n",
+            "fra": "3. Tousser et \u00e9ternuer dans le creux de son bras.",
+            "xmd": "3. Hi j\u0259njah wula ab\u0259 ley \u0257al gwele \u0259\u014b z\u0259v t\u0259 madakw nd\u0259ra.\n"
+        },
+        "43": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "44": {
+            "eng": "4. Avoid eating raw meat and touching live animals.",
+            "fra": "4. Eviter de manger de la viande crue et de toucher des animaux vivants.",
+            "xmd": "4. Hi mba i \u0253am zli s\u0259 nde\u0253ek iyi s\u0259ku. Hi mba i ges a m\u0259s\u0259k\u0259\u014b mandaham t\u0259 ab\u0259 nje iyi s\u0259ku."
+        },
+        "45": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "46": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "47": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "48": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "49": {
+            "eng": "5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n",
+            "fra": "5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.",
+            "xmd": "5. Hi nja wala\u014b za\u0257 ab\u0259 hedi m\u0259 j\u0259njah wula li\u014b ab\u0259 hedi m\u0259 \u0257al gwele.\n"
+        },
+        "50": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "51": {
+            "eng": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting.",
+            "fra": "6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.",
+            "xmd": "6. Hi mba i \u0257al mbele nd\u0259ra ab\u0259 nd\u0259ra s\u0259ku, ama hi \u0257al mbele seh ab\u0259 nje dap li\u014b ab\u0259 ley hu\u0253\u0259l tala\u014b."
+        },
+        "52": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "53": {
+            "eng": "7. Avoid gatherings.\n",
+            "fra": "7. Eviter les rassemblements.",
+            "xmd": "7. Hi yak i kwas tala\u014b."
+        },
+        "54": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "55": {
+            "eng": "8. Restrict movement.",
+            "fra": "8. Limiter ses d\u00e9placements.",
+            "xmd": "8. Hi yak pik iyi."
+        },
+        "56": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "57": {
+            "eng": "9. Keep informed and verify the source of information.",
+            "fra": "9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.",
+            "xmd": "9. Hi zlim Labara lawlaw, ama hi s\u0259\u014b ndewere\u014b t\u0259 Labara iyi ta lawlaw."
+        },
+        "58": {
+            "eng": "What to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+            "fra": "Que faire en cas de contamination ?\nSi vous pr\u00e9sentez des sympto\u0302mes :\n- Evitez les contacts avec d'autres personnes. - Restez \u00e0 domicile.\n- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :",
+            "xmd": "Hwa nda I \u0257al \u0259\u014bgah m\u0259c ta k\u0259m\u0259lah za seh vi\u014bgey?\n\u018f\u014bgah m\u0259s\u0259k\u0259\u014b m\u0259 giz m\u0259c iyi ta, a k\u0259gizehe a wucum t\u0259heni seh :\n- Hi mba I ges ab\u0259 hedi dakayta iyi s\u0259ku.\n- Hi nja a ge a ge.\n- Hi \u0257af ma \u0259\u014b lamba wa 1510 li\u014b hi ziber yawa t\u0259 hedi m\u0259 v\u0259l m\u0259njivek iyi. Lamba par iyi ley \u0257af ma baha:"
+        },
+        "59": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "60": {
+            "eng": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979",
+            "fra": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713 979",
+            "xmd": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n"
+        },
+        "61": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "62": {
+            "eng": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761",
+            "fra": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113 761",
+            "xmd": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761"
+        },
+        "63": {
+            "eng": "",
+            "fra": "",
+            "xmd": ""
+        },
+        "64": {
+            "eng": "To date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them.",
+            "fra": "A ce jour, il n'existe aucun m\u00e9dicament capable de gu\u00e9rir du COVID-19 mais les autorit\u00e9s continuent les recherches pour trouver un traitement adapt\u00e9.\nChacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage.",
+            "xmd": "M\u0259njawa, i k\u0259lim\u00a0 m\u0259njivek kwa nta\u0257 ley mb\u0259l hedi \u0259\u014b m\u0259c t\u0259 KWAVID-19 ta seh halla, ama hedi s\u0259ndawl t\u0259 \u0259\u014b hayak iyi i k\u0259t\u0259l ley p\u0259l\u0259k, i limehe m\u0259njivek ley ja m\u0259c ta.\nKwa viyi m\u0259 sla wucum a tala\u014b \u014bga, m\u0259 \u0257iy nja \u014bga lawlaw ley tak tala\u014b \u014bga a m\u0259c li\u014b ley tak hedi t\u0259 kelek t\u0259kwa iyi a m\u0259c ta."
+        },
+        "65": {
+            "eng": "Definition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed",
+            "fra": "D\u00e9finition des mots difficiles\n\nAsthme : maladie respiratoire chronique\nConsignes : ordres, recommandations\nDiab\u00e8te : maladie qui se caract\u00e9rise par un taux de sucre trop \u00e9lev\u00e9 dans le sang\nEcoulement nasal : avoir le nez qui coule\nEtre contamin\u00e9 : e\u0302tre atteint par la maladie\nGrippe : maladie, rhume\nHypertension : augmentation anormale de la pression du sang sur la paroi des art\u00e8res\nInfect\u00e9 : atteint par la maladie\nInfection : maladie, \u00e9pid\u00e9mie\nPatient : malade\nPersistant : permanent, constant, continu\nSusceptible : capable, sensible\nSympto\u0302mes : signes, marques de la maladie\nTraitement : rem\u00e8de, m\u00e9dicaments\nVirus : agent causant la maladie\nVuln\u00e9rable : faible, \u00e0 risque",
+            "xmd": "P\u0259l t\u0259 ma m\u0259 day fagay iyi\n\n\u00a0\nAsthme : Ar m\u0259c m\u0259 tak n\u0259p, m\u0259 nja mbeh s\u0259ku.\nConsignes\u00a0: Ar kataf ley ziber, \u014bg\u0259z.\nDiab\u00e8te\u00a0: Ar m\u0259c t\u0259 sukar t\u0259 day \u0259\u014b wucum.\n\u00c9coulement nasal\u00a0: \u014acur k\u0259hiyaha.\nEtre contamin\u00e9\u00a0: Hedi, m\u0259c k\u0259m\u0259lza za.\nGrippe\u00a0: Ar damar.\nHypertension\u00a0: Ar m\u0259mb\u0259z m\u0259 gwa\u0257 t\u0259 day \u0259\u014b wucum, a k\u0259hiy ab\u0259 fagay.\nInfect\u00e9\u00a0: Ar m\u0259c k\u0259m\u0259l hedi za.\nInfection\u00a0: Ar m\u0259c m\u0259 z\u0259v.\nPatient\u00a0: Hedi m\u0259 dal.\nSympt\u00f4mes\u00a0: m\u0259s\u0259k\u0259\u014b m\u0259 giz m\u0259c iyi ta.\nTraitement\u00a0: Menjivek ley ja m\u0259c iyi ta.\nVirus\u00a0: Gu\u014bku\u0257 t\u0259 m\u0259c.\nVuln\u00e9rable\u00a0: M\u0259s\u0259k\u0259\u014b m\u0259 daya\u014b fagay ley m\u0259l halla.\n"
+        },
+        "66": {
+            "fra": "",
+            "xmd": ""
+        },
+        "67": {
+            "fra": "M\u0259s\u0259k\u0259\u014b heni m\u0259 nda i s\u0259\u014b t\u0259 a tala\u014b KWARAWNAVIRUS, aka s\u0259ku, KWAVID-19\n\u00a9 CABTAL, 2020",
+            "xmd": ""
+        }
+    },
+    "bookText": {
+        "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\n\n\n\nWhat you need to know about the\nCORONAVIRUS\nor\nCOVID-19\n\n\n\n\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY\n- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n\n\n\n\np.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8\nCoronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.\n\n\nElderly person\n\nPerson with a heart condition or disease\nVulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.\n\n\nFever\nFatigue\n\nDry cough\nMuscle aches and pains\nSymptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.\n\nPerson with a cough\nTransmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.\n\n\n\n\nHow to protect yourself\n1. Avoid touching eyes, nose, mouth.\n\n2. Wash your hands frequently with soap and running water. Then dry them with a clean towel.\n\n3. Cough and sneeze into the crook of your arm.\n\n\n4. Avoid eating raw meat and touching live animals.\n\n\n\n\n5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n\n\n6. Avoid shaking hands. Greet each other with a nod or a verbal greeting.\n\n7. Avoid gatherings.\n\n\n8. Restrict movement.\n\n9. Keep informed and verify the source of information.\nWhat to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\nTo date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them.\nDefinition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed\n\n",
+        "fra": "\n\nAssociation Camerounaise pour \ufeffla Traduction de la Bible et l'Alphab\u00e9tisation\n\n\nLes informations contenues dans ce livret \ufeffproviennent du site internet \ufeffde l'Organisation Mondiale de la Sant\u00e9 (OMS). https://www.who.int/fr/home\n\n\nToutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\n\nContacts CABTAL\n\nWeb : www.cabtal.org\nMail : info_cabtal@cabtal.org\n\nTel : (237) 699 833 535\nWhatsApp : (237) 654 439 659\n\nB.P. : 16 550 Yaound\u00e9, Cameroun\n\n\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE\n- Coronavirus\n- Personnes vuln\u00e9rables\n- Sympto\u0302mes\n- Transmission du coronavirus\n- Comment se prot\u00e9ger?\n- Que faire en cas de contamination?\n- D\u00e9finition des mots difficiles\n\n\n\np.2\np.3\np.4\np.5\np.6\np.7\np.8\nLe coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.\n\n\nPersonne \u00e2g\u00e9e\n\nPersonne cardiaque ou souffrant de maladie\nPersonnes vuln\u00e9rables\nLes personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.\n\n\n- Fi\u00e8vre\n- Fatigue\n\n- Toux s\u00e8che\n- Douleurs musculaires\nLes sympto\u0302mes\nLes sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.\n\nPersonne qui tousse\nTransmission du coronavirus\nLe COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.\n\n\n\n\nComment se prot\u00e9ger ?\n1. Eviter de se toucher les yeux, le nez, la bouche.\n\n2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.\n\n3. Tousser et \u00e9ternuer dans le creux de son bras.\n\n4. Eviter de manger de la viande crue et de toucher des animaux vivants.\n\n\n\n\n5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.\n\n6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.\n\n7. Eviter les rassemblements.\n\n8. Limiter ses d\u00e9placements.\n\n9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.\nQue faire en cas de contamination ?\nSi vous pr\u00e9sentez des sympto\u0302mes :\n- Evitez les contacts avec d'autres personnes. - Restez \u00e0 domicile.\n- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713 979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113 761\n\nA ce jour, il n'existe aucun m\u00e9dicament capable de gu\u00e9rir du COVID-19 mais les autorit\u00e9s continuent les recherches pour trouver un traitement adapt\u00e9.\nChacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage.\nD\u00e9finition des mots difficiles\n\nAsthme : maladie respiratoire chronique\nConsignes : ordres, recommandations\nDiab\u00e8te : maladie qui se caract\u00e9rise par un taux de sucre trop \u00e9lev\u00e9 dans le sang\nEcoulement nasal : avoir le nez qui coule\nEtre contamin\u00e9 : e\u0302tre atteint par la maladie\nGrippe : maladie, rhume\nHypertension : augmentation anormale de la pression du sang sur la paroi des art\u00e8res\nInfect\u00e9 : atteint par la maladie\nInfection : maladie, \u00e9pid\u00e9mie\nPatient : malade\nPersistant : permanent, constant, continu\nSusceptible : capable, sensible\nSympto\u0302mes : signes, marques de la maladie\nTraitement : rem\u00e8de, m\u00e9dicaments\nVirus : agent causant la maladie\nVuln\u00e9rable : faible, \u00e0 risque\n\nM\u0259s\u0259k\u0259\u014b heni m\u0259 nda i s\u0259\u014b t\u0259 a tala\u014b KWARAWNAVIRUS, aka s\u0259ku, KWAVID-19\n\u00a9 CABTAL, 2020",
+        "xmd": "M\u0259s\u0259k\u0259\u014b heni m\u0259 nda i s\u0259\u014bt\u0259 a tala\u014b KWARAWNAVIRUS, Aka s\u0259ku, KWAVID-19\n\nAssociation Camerounaise pour la Traduction de la Bible et l'Alphab\u00e9tisation\n\nM\u0259s\u0259k\u0259\u014b heni m\u0259 nda i s\u0259\u014bt\u0259 a tala\u014b KWARAWNAVIRUS, Aka s\u0259ku, KWAVID-19\n\n\n\n\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 TALA\u014a T\u018f MA IYI\n- Kwarawnavirus\u00a0\n- Hedi iyi fuk, m\u0259c ta a gula i m\u0259lta\n- M\u0259s\u0259k\u0259\u014b m\u0259 giz m\u0259c iyi ta\n- Z\u0259v t\u0259 m\u0259c kwarawnavirus\n- Ley tak m\u0259c ta seh vi\u014bgey?\n- \u018f\u014bgah m\u0259c ta k\u0259m\u0259lah za seh, hwa nda i \u0257al seh vi\u014bgey?\n- P\u0259l t\u0259 ma m\u0259 day fagay iyi\n\n\n\n\np.2\np.3\np.4\np.5\np.6\n\np.8\np.9\nKwarawnavirus\n\nKwarawnavirus, baha, i k\u0259\u0257afa\u014b ma KWAVID-19, ar gu\u014bku\u0257 t\u0259 m\u0259c lawaya\u014b. A mar ley t\u0259\u0257aha seh \u0259\u014b hayak t\u0259 Sinewa iyi \u0259\u014b wa\u014b 31 t\u0259 nt\u0259ra t\u0259 m\u0259nfa\u0257 t\u0259 va 2019. A k\u0259t\u0259\u0257aha \u0259\u014b wucum m\u0259na\u014b damar (k\u0259rcah) a gula i ja hedi, \u0259\u014bgah m\u0259c ta k\u0259\u0257al za t\u0259 day day. M\u0259c ta, k\u0259wuwe\u0257 \u0259\u014b m\u0259\u014bhayak fuk. I k\u0259s\u0259\u014b mar t\u0259 m\u0259c ta s\u0259ku ndagwa.\n\n\nHedi t\u0259 ab\u0259 va\n\nHedi m\u0259 zl\u0259\u014b takwa\u014b t\u0259 ab\u0259\u00a0 m\u0259c\nHedi iyi fuk m\u0259c ta a m\u0259lta za\n\nHedi s\u0259ndawl ab\u0259 mekedek iyi fuk, m\u0259c t\u0259 gu\u014bku\u0257 lawaya\u014b ta wa, a m\u0259l ta za. Hedi t\u0259 ab\u0259 va iyi li\u014b hedi m\u0259 nja t\u0259 ab\u0259 m\u0259c iyi, mar zlezle (m\u0259na\u014b m\u0259c m\u0259 tak n\u0259p, m\u0259c t\u0259 sukar t\u0259 day \u0259\u014b wucum, m\u0259c m\u0259 d\u0259zl n\u0259f, m\u0259c t\u0259 m\u0259mb\u0259z m\u0259 hiy t\u0259day \u0259\u014b wucum) hedi t\u0259 ab\u0259 m\u0259c ta wa \u0259\u014b wucum, i dal za madawar madawar m\u0259\u014bg\u0259vday a gu\u014bku\u0257 ta wa.\n\n\n-Wucum kahaw kwak\n-T\u0259\u0253\u0259l\n\n-J\u0259njah wula \u00a0hwal mu\u014bgurlum\n-D\u0259m t\u0259 zli t\u0259 wucum iyi\nM\u0259s\u0259k\u0259\u014b m\u0259 giz m\u0259c iyi\n\nM\u0259s\u0259k\u0259\u014b m\u0259 giz m\u0259c t\u0259 KWARAWNAVIRUS seh, m\u0259na\u014b m\u0259c t\u0259 damar: wucum kahaw kwak, j\u0259njah wula hwal mu\u014bgurlum, d\u0259m t\u0259 zli t\u0259 wucum, t\u0259\u0253\u0259l. Hedi m\u0259 dal dakayta iyi i k\u0259zlim d\u0259m, t\u0259 \u014bcur m\u0259 hwal, t\u0259 \u014bcur m\u0259 hiyaha, t\u0259 mu\u014bgurlum, aka s\u0259ku, \u014bva la. Hedi dakayta iyi, m\u0259c ta k\u0259m\u0259lta za lawlaw, ama m\u0259c ta k\u0259t\u0259\u0257aha kwa m\u0259s\u0259k\u0259\u014b m\u0259 giz m\u0259c ta halla, i m\u0259 nji lawlaw. Hedi iyi mbeh s\u0259ku i k\u0259mb\u0259l, kwa i k\u0259\u0253\u0259t m\u0259njivek halla.\n\nHedi m\u0259 j\u0259njah wula\nZ\u0259v t\u0259 KWARAWNAVIRUS\n\nKWAVID-19 a z\u0259v seh, kar hedi t\u0259 ab\u0259 gu\u014bku\u0257 t\u0259 KWARAWNAVIRUS. \u018f\u014bgah hedi t\u0259 ab\u0259 m\u0259c ta, a k\u0259j\u0259njah wula, aka s\u0259ku, a k\u0259\u0257al gwele, a k\u0259pir mesle\u0253 kar pakwam, aka s\u0259ku, kar \u014bcur. \u018f\u014bgah mesle\u0253 ta k\u0259t\u0259\u0257 za \u0259\u014b d\u0259m\u0259s hedi, mbamba seh, m\u0259c ta a z\u0259va\u014b za. \u018f\u014bgah hedi k\u0259ges za ab\u0259 m\u0259s\u0259k\u0259\u014b t\u0259 ab\u0259 mesle\u0253 t\u0259 hedi t\u0259 ab\u0259 m\u0259c t\u0259 KWARAWNAVIRUS t\u0259 a \u0257ek, ab\u0259 dawa\u014b ta, a \u0257ef nd\u0259ra \u0259\u014b nje, \u0259\u014b \u014bcur, \u0259\u014b pakwam, m\u0259c ta, a z\u0259va\u014b za.\n\n\n\n\nLey tak m\u0259c ta seh vi\u014bgey\u00a0?\n1. Heni mba i \u0257ef nd\u0259ra \u0259\u014b nje, \u0259\u014b \u014bcur, \u0259\u014b pakwam s\u0259ku.\n\n\n2. Hi ba\u014b nd\u0259ra ab\u0259 yim li\u014b ab\u0259 sapuna (sava\u014bw).\n\n\n3. Hi j\u0259njah wula ab\u0259 ley \u0257al gwele \u0259\u014b z\u0259v t\u0259 madakw nd\u0259ra.\n\n\n4. Hi mba i \u0253am zli s\u0259 nde\u0253ek iyi s\u0259ku. Hi mba i ges a m\u0259s\u0259k\u0259\u014b mandaham t\u0259 ab\u0259 nje iyi s\u0259ku.\n\n\n\n\n5. Hi nja wala\u014b za\u0257 ab\u0259 hedi m\u0259 j\u0259njah wula li\u014b ab\u0259 hedi m\u0259 \u0257al gwele.\n\n\n6. Hi mba i \u0257al mbele nd\u0259ra ab\u0259 nd\u0259ra s\u0259ku, ama hi \u0257al mbele seh ab\u0259 nje dap li\u014b ab\u0259 ley hu\u0253\u0259l tala\u014b.\n\n7. Hi yak i kwas tala\u014b.\n\n8. Hi yak pik iyi.\n\n9. Hi zlim Labara lawlaw, ama hi s\u0259\u014b ndewere\u014b t\u0259 Labara iyi ta lawlaw.\nHwa nda I \u0257al \u0259\u014bgah m\u0259c ta k\u0259m\u0259lah za seh vi\u014bgey?\n\u018f\u014bgah m\u0259s\u0259k\u0259\u014b m\u0259 giz m\u0259c iyi ta, a k\u0259gizehe a wucum t\u0259heni seh :\n- Hi mba I ges ab\u0259 hedi dakayta iyi s\u0259ku.\n- Hi nja a ge a ge.\n- Hi \u0257af ma \u0259\u014b lamba wa 1510 li\u014b hi ziber yawa t\u0259 hedi m\u0259 v\u0259l m\u0259njivek iyi. Lamba par iyi ley \u0257af ma baha:\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\nM\u0259njawa, i k\u0259lim\u00a0 m\u0259njivek kwa nta\u0257 ley mb\u0259l hedi \u0259\u014b m\u0259c t\u0259 KWAVID-19 ta seh halla, ama hedi s\u0259ndawl t\u0259 \u0259\u014b hayak iyi i k\u0259t\u0259l ley p\u0259l\u0259k, i limehe m\u0259njivek ley ja m\u0259c ta.\nKwa viyi m\u0259 sla wucum a tala\u014b \u014bga, m\u0259 \u0257iy nja \u014bga lawlaw ley tak tala\u014b \u014bga a m\u0259c li\u014b ley tak hedi t\u0259 kelek t\u0259kwa iyi a m\u0259c ta.\nP\u0259l t\u0259 ma m\u0259 day fagay iyi\n\n\u00a0\nAsthme : Ar m\u0259c m\u0259 tak n\u0259p, m\u0259 nja mbeh s\u0259ku.\nConsignes\u00a0: Ar kataf ley ziber, \u014bg\u0259z.\nDiab\u00e8te\u00a0: Ar m\u0259c t\u0259 sukar t\u0259 day \u0259\u014b wucum.\n\u00c9coulement nasal\u00a0: \u014acur k\u0259hiyaha.\nEtre contamin\u00e9\u00a0: Hedi, m\u0259c k\u0259m\u0259lza za.\nGrippe\u00a0: Ar damar.\nHypertension\u00a0: Ar m\u0259mb\u0259z m\u0259 gwa\u0257 t\u0259 day \u0259\u014b wucum, a k\u0259hiy ab\u0259 fagay.\nInfect\u00e9\u00a0: Ar m\u0259c k\u0259m\u0259l hedi za.\nInfection\u00a0: Ar m\u0259c m\u0259 z\u0259v.\nPatient\u00a0: Hedi m\u0259 dal.\nSympt\u00f4mes\u00a0: m\u0259s\u0259k\u0259\u014b m\u0259 giz m\u0259c iyi ta.\nTraitement\u00a0: Menjivek ley ja m\u0259c iyi ta.\nVirus\u00a0: Gu\u014bku\u0257 t\u0259 m\u0259c.\nVuln\u00e9rable\u00a0: M\u0259s\u0259k\u0259\u014b m\u0259 daya\u014b fagay ley m\u0259l halla.\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "eng",
+        "xmd",
+        "fra"
+    ],
+    "copyright": "Copyright \u00a9 2020, CABTAL",
+    "country": "Cameroun",
+    "credits": "\r\nToutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\r\n\r\nContacts CABTAL\r\n\r\nWeb : www.cabtal.org\r\nMail : info_cabtal@cabtal.org\r\n\r\nTel : (237) 699 833 535\r\nWhatsApp : (237) 654 439 659\r\n\r\nB.P. : 16 550 Yaound\u00e9, Cameroun",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "u91WDClJ4r"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "O4H7hNzC4n"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "Spanish",
+        "fr": "fran\u00e7ais",
+        "xmd": "Langue mbudum"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "page-number-style": "Decimal",
+    "pageCount": 15,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Coronavirus COVID-19",
+    "tags": [],
+    "title": "M\u0259s\u0259k\u0259\u014b heni m\u0259 nda i s\u0259\u014bt\u0259 a tala\u014b KWARAWNAVIRUS, Aka s\u0259ku,\nKWAVID-19",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

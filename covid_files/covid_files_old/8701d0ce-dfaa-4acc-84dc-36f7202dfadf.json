@@ -1,0 +1,244 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "8701d0ce-dfaa-4acc-84dc-36f7202dfadf",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Dave the Dog is Worried about Coronavirus.",
+  "allTitles": "{\"en\":\"Dave the Dog is Worried about Coronavirus.\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+  "downloadSource": "educationforlife@sil.org/8701d0ce-dfaa-4acc-84dc-36f7202dfadf",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2020, SIL-PNG",
+  "credits": "Adapted from original: \u00a9 2019, Molly Watts.\r\n",
+  "tags": [],
+  "pageCount": 32,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": null,
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "fkCfC1xhje"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "tpi": "Tok Pisin"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "en": "Dave the Dog is Worried about Coronavirus."
+  },
+  "2": {
+    "en": "Dave the Dog is Worried about Coronavirus."
+  },
+  "12": {
+    "en": "Dave the Dog is Worried about Coronavirus."
+  },
+  "13": {
+    "en": "Dave the Dog is Worried about Coronavirus."
+  },
+  "16": {
+    "tpi": "Illustrator: Molly Watts"
+  },
+  "24": {
+    "tpi": ""
+  },
+  "27": {
+    "en": ""
+  },
+  "28": {
+    "en": "A nurse with a uniform all spotty."
+  },
+  "29": {
+    "en": ""
+  },
+  "30": {
+    "en": "who are ill."
+  },
+  "31": {
+    "en": ""
+  },
+  "32": {
+    "en": "gives nurse Dotty a wave."
+  },
+  "33": {
+    "en": ""
+  },
+  "34": {
+    "en": "But this morning Dave doesn't have his normal big grin, because there is something really worrying him."
+  },
+  "35": {
+    "en": ""
+  },
+  "36": {
+    "en": "is giving Dave a big scare."
+  },
+  "37": {
+    "en": ""
+  },
+  "38": {
+    "en": "that everything won't be okay."
+  },
+  "39": {
+    "en": ""
+  },
+  "40": {
+    "en": "so she decides to stop for a chat."
+  },
+  "41": {
+    "en": ""
+  },
+  "42": {
+    "en": "so nurse Dotty wants to make sure Dave knows the truth instead."
+  },
+  "43": {
+    "en": ""
+  },
+  "44": {
+    "en": "Nurse Dotty tells Dave that coronavirus is an illness that some people will get, but that most people will not get really poorly from it."
+  },
+  "45": {
+    "en": ""
+  },
+  "46": {
+    "en": "For most it is like a cold or flu they might get when it's colder, but we should be careful to protect ourselves and those who are unwell or older."
+  },
+  "47": {
+    "en": ""
+  },
+  "48": {
+    "en": "is a symptom but it might not be coronavirus that they have got."
+  },
+  "49": {
+    "en": ""
+  },
+  "50": {
+    "en": "symptoms of a cold or flu."
+  },
+  "51": {
+    "en": ""
+  },
+  "52": {
+    "en": "it should be for at least 20 seconds or singing happy birthday twice through."
+  },
+  "53": {
+    "en": ""
+  },
+  "54": {
+    "en": "and it's a way that Dave can help to protect everybody else."
+  },
+  "55": {
+    "en": ""
+  },
+  "56": {
+    "en": "so he would not be alone."
+  },
+  "57": {
+    "en": ""
+  },
+  "58": {
+    "en": "and lots of games and things to do."
+  },
+  "59": {
+    "en": ""
+  },
+  "60": {
+    "en": "at home they may need to stay."
+  },
+  "61": {
+    "en": ""
+  },
+  "62": {
+    "en": "Some schools and shops have also closed to stop lots of people being all together, but just for now to keep people safe; it will not be forever."
+  },
+  "63": {
+    "en": ""
+  },
+  "64": {
+    "en": "Dave has a grandma and he knows she is a little bit old, he is worried because coronavirus is more dangerous for her he has been told."
+  },
+  "65": {
+    "en": ""
+  },
+  "66": {
+    "en": "Nurse Dotty says that it may make her more poorly than it would him or his sister, but that is why she will stay at home and they will take what she needs to her."
+  },
+  "67": {
+    "en": ""
+  },
+  "68": {
+    "en": "If he gets coronavirus, Dave asks, will he need to visit nurse Dotty at the hospital. Nurse Dotty explains that no that's not the case at all."
+  },
+  "69": {
+    "en": ""
+  },
+  "70": {
+    "en": "If he is poorly then home is the best place for him to stay, unless he needs some help; only then would to hospital he make his way."
+  },
+  "71": {
+    "en": ""
+  },
+  "72": {
+    "en": "Nurse Dotty explains that on TV and everywhere people will say lots of things, but no matter what Dave hears we are ready for what coronavirus brings."
+  },
+  "73": {
+    "en": ""
+  },
+  "74": {
+    "en": "all Dave needs to do is stay calm and remember to wash his hands."
+  },
+  "75": {
+    "en": ""
+  },
+  "76": {
+    "en": "Now that Dave knows the truth he is no longer scared, he knows what to do to keep himself prepared."
+  },
+  "77": {
+    "en": ""
+  },
+  "78": {
+    "en": "He knows to keep washing his hands and if poorly at home he has to stay, but most of all; now he knows he is going to be okay."
+  }
+}

@@ -1,0 +1,364 @@
+{
+    "allTitles": "{\"ahk\":\"Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\",\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\"}",
+    "author": null,
+    "bookInstanceId": "ed135b9e-908d-4a28-8801-0cf247d86bea",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,726d708d-535e-47af-8905-ce6e5e0d745c",
+    "bookSamples": {
+        "0": {
+            "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus"
+        },
+        "1": {
+            "ahk": "",
+            "eng": ""
+        },
+        "2": {
+            "ahk": "",
+            "eng": ""
+        },
+        "3": {
+            "ahk": ""
+        },
+        "4": {
+            "ahk": "Ko\u02ec ro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6-ah\u02c7 ta\ua788 le\u02c7-aw\u02c7\ngho\u02c6 shaw hta\u02ec pha\u02ec-eh\u02c7 gheh-eu meh."
+        },
+        "5": {
+            "ahk": "Nyaw\u02ec-i\u02c7-eu"
+        },
+        "6": {
+            "ahk": "Qha\u02ec meh"
+        },
+        "7": {
+            "ahk": "Na\u02c7 meh\u02c7"
+        },
+        "8": {
+            "ahk": "Mya\u02c6 nui\u02c6"
+        },
+        "9": {
+            "ahk": "Ghaw\u02c7 maw\u02c7 la\ua788 qhoe\u02c7 heu\nga\u02c7 neh u\u02c7-i\u02c7-eu meh."
+        },
+        "10": {
+            "ahk": "Jaw\u02c7 sa\u02c7 do\u02c6\n-eu tsaw\u02c7 ha\u02ec"
+        },
+        "11": {
+            "ahk": "Na\u02c7-eu\ntsaw\u02c7 ha\u02ec"
+        },
+        "12": {
+            "ahk": "A\u02c7 dzui\ua788 heu deu\u02ec qha\u02c7 i\u02c7 keu\u02c6 ga\u02c7\nna\u02c7 gaw\u02c7 nyaw\u02ec-i\u02c7-eu meh."
+        },
+        "13": {
+            "ahk": "Tsaw\u02c7 ha\u02ec nyi\u02ec gha\u02ec yaw kha\u02ec hti\u02ec lm\u02c7 dzeh\u02ec\nni kha\u02ec ga\u02c7 jaw\u02c7-eu-a\u02ec, a\u02c7 dzui\ua788 deu\u02ec ma\u02ec\nbi teu\u02c6 sheh\u02ec la\u02c7 ni yah\u02c7 nya meh."
+        },
+        "14": {
+            "ahk": "1"
+        },
+        "15": {
+            "ahk": "Hti\u02ec lm\u02c7 dzeh\u02ec ni"
+        },
+        "16": {
+            "ahk": "Ha\u02c7 cheu\u02ec...."
+        },
+        "17": {
+            "ahk": "Qhoe\u02c7 mi\u02c7 neh u\u02ec tsoe\u02ec tsoe\u02ec-eu, ha\u02c7 cheu\u02ec\ncheu\u02ec-eu, na\u02c7-eu tsaw\u02c7 ha\u02ec deu\u02ec maw\u02c7 na\u02c7"
+        },
+        "18": {
+            "ahk": "A\u02ec yaw\ua788 ma\ua788-ah\u02c7 meh\u02ec tsah\u02ec bi\ua788 neh\u02ec-aw\u02ec. Qhoe\u02c7\nla\ua788 qhoe\u02c7 a\u02ec yaw\ua788 ma\ua788 u\u02ec tsoe\u02ec tsoe\u02ec, ha\u02c7 cheu\u02ec\ncheu\u02ec-eu la\ua788 qhoe\u02c7 daw\u02ec pheh jaw\u02c7-eu tsaw\u02c7 ha\u02ec\ndeu\u02ec-ah\u02c7 ma\u02ec bi nyaw\u02ec-i\u02c7 ni yah\u02c7 nya meh."
+        },
+        "19": {
+            "ahk": "2"
+        },
+        "20": {
+            "ahk": "Gui\u02ec lah\u02ec hui\u02ec mi\u02c7-a.\n"
+        },
+        "21": {
+            "ahk": "Ma\u02ec ngeu\u02c7 na\u02c7"
+        },
+        "22": {
+            "ahk": "A\u02ec yaw\ua788 ma\u02ec na\u02c7 lu\ua788 qaw\ua788 na\u02c7 gaw\u02c7 a\u02ec yaw\ua788-ah\u02c7 ma\u02ec bi nyaw\u02ec la\u02c7 pha\u02ec-eh\u02c7 yah\u02c7-eu pha\u02ec law\u02c7."
+        },
+        "23": {
+            "ahk": "Na\u02c7 gaw\u02c7 a\u02c7 maw\u02c7 u\u02c7 lu\ua788 qaw\ua788 na\u02c7 gaw\u02c7 a\u02c7 gheh\u02c7 ma\u02ec ya maw\u02c7 ni pyeu\ua788 nya meh. Eh\u02c7 qaw\ua788 na\u02c7 gaw\u02c7 qhoe\u02c7 a\u02ec chaw\u02ec-ah\u02c7 pha\u02c7 nyaw\u02ec-i\u02c7 nya meh."
+        },
+        "24": {
+            "ahk": "Yeh\u02ec cheh\u02ec cheh\u02ec-aw\u02c7 ya eh\u02c7 le\ua788 na\u02c7, tsaw\u02c7 ha\u02ec a\u02c7 ma\ua788\njaw\u02c7 ga\u02c7 ma\u02ec i\u02c7 ni yah\u02c7-aw\u02ec. A\u02ec je\u02ec mi\u02c7 neh eh\u02c7 na\u02c7 a\u02ec\ngeu gha\u02ec na\u02c7 lu\ua788-eu a\u02ec dui ma\u02ec si\u02ec nya-a."
+        },
+        "25": {
+            "ahk": "\u00a0 Yu da\u02c7"
+        },
+        "26": {
+            "ahk": "Jaw\u02c7 sa\u02c7 do\u02c6-eu tsaw\u02c7 ha\u02ec"
+        },
+        "27": {
+            "ahk": "Mi\u02ec dza\u02ec la\u02c6 law\u02ec-ah\u02c7 tco\ua788-eu a\u02c7 ca\u02c6"
+        },
+        "28": {
+            "ahk": "Da\u02c7 dzm da\u02c6 le\u02c6-eu na\u02ec ba\ua788 htoe\u02ec du\u02ec"
+        },
+        "29": {
+            "ahk": "Si\u02c6-eu seu\u02ec gha\u02ec\n(ti\u02c7 shu\u02c7)"
+        },
+        "30": {
+            "ahk": "I\u02c7 cu\ua788 qhm\u02ec ma\u02ec"
+        },
+        "31": {
+            "ahk": "Ca\u02c6 kheu kha deu\u02ec"
+        },
+        "32": {
+            "ahk": "Meh\u02ec tsah\u02ec la\ua788 nyi\u02c7 phaw"
+        },
+        "33": {
+            "ahk": "Da\u02c7 dzm a\u02ec la\ua788 nyeh\ua788 hteh\u02ec du\u02ec"
+        },
+        "34": {
+            "ahk": "Mao\u02c6(s)"
+        },
+        "35": {
+            "ahk": "Sah\u02ec du\u02c7"
+        },
+        "36": {
+            "ahk": "La\u02c7 gho\u02c6 phah du\u02ec"
+        },
+        "37": {
+            "ahk": "A\u02ec la\ua788"
+        },
+        "38": {
+            "ahk": "Eh\u02c7 qaw\ua788 na\u02c7-eu tsaw\u02c7 ha\u02ec hti\u02ec gha\u02ec-eu\u02ec du\u02ec qha\u02ec\nm\u02c7 myaw\u02ec nui deu\u02ec-ah\u02c7 leh\ua788-i\u02c7 nya-eu meh."
+        },
+        "39": {
+            "ahk": "Naw ma\ua788 yaw\u02ec gha\u02ec na lu\ua788 na\u02c7 gaw\u02c7 nyaw\u02ec le\u02c7 nya meh."
+        },
+        "40": {
+            "ahk": "(ma\u02ec) naw\u02c7 ga\u02ec-eu gha\u02ec-eu\u02ec mya\u02c6 phyaw\u02ec-ah\u02c7 htoe\u02ec na\u02c7"
+        },
+        "41": {
+            "ahk": "Mya\u02c6 nui\u02c7-ah\u02c7 je\u02ec-eu"
+        },
+        "42": {
+            "ahk": "M\u02c7 myaw\u02ec qhoe\u02c7 deu\u02ec-ah\u02c7 ma\u02ec yeh\ua788 ma\u02c7 yeh\ua788-eh\u02c7 htoe\u02ec tu\u02c6-aw\u02c7 naw\u02ec-eu\u02ec mya\u02c6 phyaw\u02ec-ah\u02c7 pha\u02c7 htoe\u02ec na\u02c7"
+        },
+        "43": {
+            "ahk": "Qhoe\u02c7 mi\u02c7 neh na\u02c7 gaw\u02c7 a\u02c7 maw\u02c7 qhoe\u02c7 deu\u02ec-ah\u02c7 la\u02c6 seh\ua788\nnya ni gha\u02c7 du\u02ec sa\u02c7 bya\u02ec neh yaw mui\u02ec-eh\u02c7 tsi\u02ec shaw\u02c7-aw\u02ec.\n(ma\u02ec) A\u02ec yeh\u02c6 pya\u02ec ah\u02c7-eu tsi\u02ec shaw\u02c7-eu je\u02ec neh tsi\u02ec shaw\u02c7-aw\u02ec."
+        },
+        "44": {
+            "ahk": "Na\u02c7 gaw\u02c7 a\u02c7 maw\u02c7 heu, m\u02c7 myaw\u02ec deu\u02ec la\ua788 qhoe\u02c7 a\u02c7 yam\u02ec ghaw\u02ec myah\u02c7 ni deh\ua788 nya meh."
+        },
+        "45": {
+            "ahk": "Sa\u02c7 bya\u02ec"
+        },
+        "46": {
+            "ahk": ""
+        },
+        "47": {
+            "ahk": "Na\u02c7 gaw\u02c7 ma\u02ec bi pyeu\ua788 la\u02c7 ni lo\ua788 qhm\u02ec-eu"
+        },
+        "48": {
+            "ahk": "Ga\u02c7 kaw\u02c6 heu 5 je\u02ec-ah\u02c7 si\u02ec nya-aw\u02c7 chaw hteh pha\u02ec-eh\u02c7 gheh-eu meh."
+        },
+        "49": {
+            "ahk": "sa\u02c7 bya\u02ec neh heu ga\u02c7 keu\u02c6 ni dzui\ua788-aw\u02ec."
+        },
+        "50": {
+            "ahk": "sa\u02c7 bya\u02ec"
+        },
+        "51": {
+            "ahk": "La\ua788 tcui\ua788"
+        },
+        "52": {
+            "ahk": "Mya\u02c6 phyaw\u02ec-ah\u02c7 hta\u02ec htoe\u02ec ci\u02c6. Ma\u02ec gheh nya-eh\u02c7\nya htoe\u02ec ci\u02c6 law na\u02c7, sa\u02c7 bya\u02ec neh je\u02ec hu a\u02ec la\ua788\nyaw\u02ec mui\u02ec pha\u02ec-eh\u02c7 dzui\ua788-aw\u02ec."
+        },
+        "53": {
+            "ahk": "\"Happy birthday\" daw\u02ec cha\u02c7 nyi\u02ec po\u02c6 cha\u02c7 sa\u02ec nya-eu a\u02c7 yam\u02ec"
+        },
+        "54": {
+            "ahk": "La\ua788 sah\u02ec\nla\ua788 o\u02c6"
+        },
+        "55": {
+            "ahk": "20 pheu"
+        },
+        "56": {
+            "ahk": "La\ua788 noe\u02c7 la\ua788 kha\u02ec"
+        },
+        "57": {
+            "ahk": ""
+        },
+        "58": {
+            "ahk": "\"Yaw mui\u02ec pha\u02ec-eh\u02c7 dzui\ua788-eu\" leh\u02c7 eh\u02c7-eu a\u02ec je\u02ec-ah\u02c7 eh\u02c7 hta."
+        },
+        "59": {
+            "ahk": "Pha\u02c7 htoe\u02ec tu\u02c6 law haw\u02c7-eu\u02ec qaw\ua788 qhah\u02ec hta\u02ec lah\u02c7. Htoe\u02ec ci\u02c6 gha\u02ec-eu\u02ec neh\u02ec-eh\u02c7 a\u02ec la\ua788-ah\u02c7 sa\u02c7 bya\u02ec neh yaw mui\u02ec-eh\u02c7 dzui\ua788 shaw\u02c7-aw\u02ec."
+        },
+        "60": {
+            "ahk": "Gheh nya na\u02c7 meh\u02ec tsah\u02ec la\ua788 nyi\u02c7 phaw ji\u02c7 hta\u02ec htoe\u02ec tu\u02c6."
+        },
+        "61": {
+            "ahk": "A\u02c7 dzui\ua788 deu\u02ec"
+        },
+        "62": {
+            "ahk": "Meh\u02ec tsah\u02ec hti\u02ec hm\u02ec-ah\u02c7 ghaw\u02ec myah\u02c7 ni tsah\u02ec hta\u02ec na\u02c7 meh\u02ec tsah\u02ec la\ua788 qhoe\u02c7 a\u02c7 maw\u02c7 qhoe\u02c7 deu\u02ec deh\ua788 la\u02c7 hui\u02ec la\u02c7 nya-eu meh."
+        },
+        "63": {
+            "ahk": "Meh\u02ec tsah\u02ec hti\u02ec hm\u02ec-ah\u02c7 hti\u02ec nah ta\ua788-eh\u02c7 a\u02c7 dzeh\u02ec hta\u02ec\ngeu\ua788. Ui cui\u02c6 je\u02c7 la\u02c7-eu\u02ec lo\ua788-eh\u02c7 du\u02c7 na\u02c7 bi\u02ec dzeh-aw\u02ec."
+        },
+        "64": {
+            "ahk": "Ghaw\u02ec nyoe\u02c7 khu\u02ec dza\u02ec-eu khu\u02ec tca\ua788 ma zm\u02ec-aw\u02ec."
+        },
+        "65": {
+            "ahk": "Za\u02ec"
+        },
+        "66": {
+            "ahk": "A\u02ec da"
+        },
+        "67": {
+            "ahk": "A\u02ec ma"
+        },
+        "68": {
+            "ahk": "Yaw\u02ec gha\u02ec na lu\ua788 yaw\u02ec\nha-eu\u02ec pha\u02c7 jeh yaw\u02ec ha geu\ua788-aw\u02ec."
+        },
+        "69": {
+            "ahk": "Dza\u02c7, qhm\u02ec ma\u02ec khu\u02ec tca\ua788, i\u02c7 cu\ua788 qhm\u02ec ma haw\u02c7-eu\npha\u02c7 jeh a\u02ec chaw\u02ec neh\u02ec-eh\u02c7 hta\u02ec geu\ua788 ta\ua788."
+        },
+        "70": {
+            "ahk": "La\ua788 tcui\ua788 neh naw\u02ec-eu\u02ec mya\u02c6\nphyaw\u02ec-ah\u02c7 hti\u02ec jo\u02c6-i\u02c7 ma\u02ec la\u02c6 tu\u02c6 nya-a."
+        },
+        "71": {
+            "ahk": "Gheh nya na\u02c7 la\u02c7 gho\u02c6 phah ngeh, la\ua788\ntcui\ua788 (ma\u02ec) ba\ua788 phu neh phah-aw\u02ec."
+        },
+        "72": {
+            "ahk": "I\u02c7 khah\u02c7"
+        },
+        "73": {
+            "ahk": "la\ua788 nyi\u02c7 do\u02c6-i\u02c7-aw\u02c7\ngho\ua788 la\u02c7 ngeh"
+        },
+        "74": {
+            "ahk": "Dza\u02c7 ma\u02ec dza\u02ec mi na\ua788-eh\u02c7"
+        },
+        "75": {
+            "ahk": "Yaw\u02ec jaw\u02c7 na lu\ua788 sa\u02c7 bya\u02ec neh a\u02ec la\ua788 dzui\ua788-aw\u02ec."
+        },
+        "76": {
+            "ahk": "A\u02c7 sa\u02ec sa\u02ec ngeh,"
+        },
+        "77": {
+            "ahk": "sa\u02c7 bya\u02ec"
+        },
+        "78": {
+            "ahk": "Yaw\u02ec gha\u02ec na lu\ua788 yah\u02c7-aw\u02c7 jaw\u02c7-aw\u02ec."
+        },
+        "79": {
+            "ahk": "Yaw\u02ec gha\u02ec na lu\ua788 yah\u02c7-aw\u02c7 jaw\u02c7-aw\u02ec."
+        },
+        "80": {
+            "ahk": "sa\u02c7 bya\u02ec"
+        },
+        "81": {
+            "ahk": ""
+        },
+        "82": {
+            "ahk": ""
+        },
+        "83": {
+            "ahk": ""
+        },
+        "84": {
+            "ahk": ""
+        },
+        "85": {
+            "ahk": ""
+        },
+        "86": {
+            "ahk": ""
+        },
+        "87": {
+            "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus"
+        },
+        "88": {
+            "ahk": "",
+            "eng": ""
+        },
+        "89": {
+            "ahk": "",
+            "eng": ""
+        },
+        "90": {
+            "ahk": "",
+            "eng": ""
+        },
+        "91": {
+            "ahk": "",
+            "eng": "Created by Weiman Kow, instagram: weimankow"
+        },
+        "92": {
+            "ahk": "",
+            "eng": ""
+        },
+        "93": {
+            "ahk": "",
+            "eng": ""
+        },
+        "94": {
+            "ahk": "",
+            "eng": ""
+        },
+        "95": {
+            "ahk": "",
+            "eng": ""
+        }
+    },
+    "bookText": {
+        "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\n\n\n\nKo\u02ec ro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6-ah\u02c7 ta\ua788 le\u02c7-aw\u02c7\ngho\u02c6 shaw hta\u02ec pha\u02ec-eh\u02c7 gheh-eu meh.\nNyaw\u02ec-i\u02c7-eu\nQha\u02ec meh\nNa\u02c7 meh\u02c7\nMya\u02c6 nui\u02c6\nGhaw\u02c7 maw\u02c7 la\ua788 qhoe\u02c7 heu\nga\u02c7 neh u\u02c7-i\u02c7-eu meh.\nJaw\u02c7 sa\u02c7 do\u02c6\n-eu tsaw\u02c7 ha\u02ec\nNa\u02c7-eu\ntsaw\u02c7 ha\u02ec\nA\u02c7 dzui\ua788 heu deu\u02ec qha\u02c7 i\u02c7 keu\u02c6 ga\u02c7\nna\u02c7 gaw\u02c7 nyaw\u02ec-i\u02c7-eu meh.\nTsaw\u02c7 ha\u02ec nyi\u02ec gha\u02ec yaw kha\u02ec hti\u02ec lm\u02c7 dzeh\u02ec\nni kha\u02ec ga\u02c7 jaw\u02c7-eu-a\u02ec, a\u02c7 dzui\ua788 deu\u02ec ma\u02ec\nbi teu\u02c6 sheh\u02ec la\u02c7 ni yah\u02c7 nya meh.\n1\nHti\u02ec lm\u02c7 dzeh\u02ec ni\nHa\u02c7 cheu\u02ec....\nQhoe\u02c7 mi\u02c7 neh u\u02ec tsoe\u02ec tsoe\u02ec-eu, ha\u02c7 cheu\u02ec\ncheu\u02ec-eu, na\u02c7-eu tsaw\u02c7 ha\u02ec deu\u02ec maw\u02c7 na\u02c7\nA\u02ec yaw\ua788 ma\ua788-ah\u02c7 meh\u02ec tsah\u02ec bi\ua788 neh\u02ec-aw\u02ec. Qhoe\u02c7\nla\ua788 qhoe\u02c7 a\u02ec yaw\ua788 ma\ua788 u\u02ec tsoe\u02ec tsoe\u02ec, ha\u02c7 cheu\u02ec\ncheu\u02ec-eu la\ua788 qhoe\u02c7 daw\u02ec pheh jaw\u02c7-eu tsaw\u02c7 ha\u02ec\ndeu\u02ec-ah\u02c7 ma\u02ec bi nyaw\u02ec-i\u02c7 ni yah\u02c7 nya meh.\n2\nGui\u02ec lah\u02ec hui\u02ec mi\u02c7-a.\n\nMa\u02ec ngeu\u02c7 na\u02c7\nA\u02ec yaw\ua788 ma\u02ec na\u02c7 lu\ua788 qaw\ua788 na\u02c7 gaw\u02c7 a\u02ec yaw\ua788-ah\u02c7 ma\u02ec bi nyaw\u02ec la\u02c7 pha\u02ec-eh\u02c7 yah\u02c7-eu pha\u02ec law\u02c7.\nNa\u02c7 gaw\u02c7 a\u02c7 maw\u02c7 u\u02c7 lu\ua788 qaw\ua788 na\u02c7 gaw\u02c7 a\u02c7 gheh\u02c7 ma\u02ec ya maw\u02c7 ni pyeu\ua788 nya meh. Eh\u02c7 qaw\ua788 na\u02c7 gaw\u02c7 qhoe\u02c7 a\u02ec chaw\u02ec-ah\u02c7 pha\u02c7 nyaw\u02ec-i\u02c7 nya meh.\nYeh\u02ec cheh\u02ec cheh\u02ec-aw\u02c7 ya eh\u02c7 le\ua788 na\u02c7, tsaw\u02c7 ha\u02ec a\u02c7 ma\ua788\njaw\u02c7 ga\u02c7 ma\u02ec i\u02c7 ni yah\u02c7-aw\u02ec. A\u02ec je\u02ec mi\u02c7 neh eh\u02c7 na\u02c7 a\u02ec\ngeu gha\u02ec na\u02c7 lu\ua788-eu a\u02ec dui ma\u02ec si\u02ec nya-a.\n\u00a0 Yu da\u02c7\nJaw\u02c7 sa\u02c7 do\u02c6-eu tsaw\u02c7 ha\u02ec\nMi\u02ec dza\u02ec la\u02c6 law\u02ec-ah\u02c7 tco\ua788-eu a\u02c7 ca\u02c6\nDa\u02c7 dzm da\u02c6 le\u02c6-eu na\u02ec ba\ua788 htoe\u02ec du\u02ec\nSi\u02c6-eu seu\u02ec gha\u02ec\n(ti\u02c7 shu\u02c7)\nI\u02c7 cu\ua788 qhm\u02ec ma\u02ec\nCa\u02c6 kheu kha deu\u02ec\nMeh\u02ec tsah\u02ec la\ua788 nyi\u02c7 phaw\nDa\u02c7 dzm a\u02ec la\ua788 nyeh\ua788 hteh\u02ec du\u02ec\nMao\u02c6(s)\nSah\u02ec du\u02c7\nLa\u02c7 gho\u02c6 phah du\u02ec\nA\u02ec la\ua788\nEh\u02c7 qaw\ua788 na\u02c7-eu tsaw\u02c7 ha\u02ec hti\u02ec gha\u02ec-eu\u02ec du\u02ec qha\u02ec\nm\u02c7 myaw\u02ec nui deu\u02ec-ah\u02c7 leh\ua788-i\u02c7 nya-eu meh.\nNaw ma\ua788 yaw\u02ec gha\u02ec na lu\ua788 na\u02c7 gaw\u02c7 nyaw\u02ec le\u02c7 nya meh.\n(ma\u02ec) naw\u02c7 ga\u02ec-eu gha\u02ec-eu\u02ec mya\u02c6 phyaw\u02ec-ah\u02c7 htoe\u02ec na\u02c7\nMya\u02c6 nui\u02c7-ah\u02c7 je\u02ec-eu\nM\u02c7 myaw\u02ec qhoe\u02c7 deu\u02ec-ah\u02c7 ma\u02ec yeh\ua788 ma\u02c7 yeh\ua788-eh\u02c7 htoe\u02ec tu\u02c6-aw\u02c7 naw\u02ec-eu\u02ec mya\u02c6 phyaw\u02ec-ah\u02c7 pha\u02c7 htoe\u02ec na\u02c7\nQhoe\u02c7 mi\u02c7 neh na\u02c7 gaw\u02c7 a\u02c7 maw\u02c7 qhoe\u02c7 deu\u02ec-ah\u02c7 la\u02c6 seh\ua788\nnya ni gha\u02c7 du\u02ec sa\u02c7 bya\u02ec neh yaw mui\u02ec-eh\u02c7 tsi\u02ec shaw\u02c7-aw\u02ec.\n(ma\u02ec) A\u02ec yeh\u02c6 pya\u02ec ah\u02c7-eu tsi\u02ec shaw\u02c7-eu je\u02ec neh tsi\u02ec shaw\u02c7-aw\u02ec.\nNa\u02c7 gaw\u02c7 a\u02c7 maw\u02c7 heu, m\u02c7 myaw\u02ec deu\u02ec la\ua788 qhoe\u02c7 a\u02c7 yam\u02ec ghaw\u02ec myah\u02c7 ni deh\ua788 nya meh.\nSa\u02c7 bya\u02ec\n\nNa\u02c7 gaw\u02c7 ma\u02ec bi pyeu\ua788 la\u02c7 ni lo\ua788 qhm\u02ec-eu\nGa\u02c7 kaw\u02c6 heu 5 je\u02ec-ah\u02c7 si\u02ec nya-aw\u02c7 chaw hteh pha\u02ec-eh\u02c7 gheh-eu meh.\nsa\u02c7 bya\u02ec neh heu ga\u02c7 keu\u02c6 ni dzui\ua788-aw\u02ec.\nsa\u02c7 bya\u02ec\nLa\ua788 tcui\ua788\nMya\u02c6 phyaw\u02ec-ah\u02c7 hta\u02ec htoe\u02ec ci\u02c6. Ma\u02ec gheh nya-eh\u02c7\nya htoe\u02ec ci\u02c6 law na\u02c7, sa\u02c7 bya\u02ec neh je\u02ec hu a\u02ec la\ua788\nyaw\u02ec mui\u02ec pha\u02ec-eh\u02c7 dzui\ua788-aw\u02ec.\n\"Happy birthday\" daw\u02ec cha\u02c7 nyi\u02ec po\u02c6 cha\u02c7 sa\u02ec nya-eu a\u02c7 yam\u02ec\nLa\ua788 sah\u02ec\nla\ua788 o\u02c6\n20 pheu\nLa\ua788 noe\u02c7 la\ua788 kha\u02ec\n\n\"Yaw mui\u02ec pha\u02ec-eh\u02c7 dzui\ua788-eu\" leh\u02c7 eh\u02c7-eu a\u02ec je\u02ec-ah\u02c7 eh\u02c7 hta.\nPha\u02c7 htoe\u02ec tu\u02c6 law haw\u02c7-eu\u02ec qaw\ua788 qhah\u02ec hta\u02ec lah\u02c7. Htoe\u02ec ci\u02c6 gha\u02ec-eu\u02ec neh\u02ec-eh\u02c7 a\u02ec la\ua788-ah\u02c7 sa\u02c7 bya\u02ec neh yaw mui\u02ec-eh\u02c7 dzui\ua788 shaw\u02c7-aw\u02ec.\nGheh nya na\u02c7 meh\u02ec tsah\u02ec la\ua788 nyi\u02c7 phaw ji\u02c7 hta\u02ec htoe\u02ec tu\u02c6.\nA\u02c7 dzui\ua788 deu\u02ec\nMeh\u02ec tsah\u02ec hti\u02ec hm\u02ec-ah\u02c7 ghaw\u02ec myah\u02c7 ni tsah\u02ec hta\u02ec na\u02c7 meh\u02ec tsah\u02ec la\ua788 qhoe\u02c7 a\u02c7 maw\u02c7 qhoe\u02c7 deu\u02ec deh\ua788 la\u02c7 hui\u02ec la\u02c7 nya-eu meh.\nMeh\u02ec tsah\u02ec hti\u02ec hm\u02ec-ah\u02c7 hti\u02ec nah ta\ua788-eh\u02c7 a\u02c7 dzeh\u02ec hta\u02ec\ngeu\ua788. Ui cui\u02c6 je\u02c7 la\u02c7-eu\u02ec lo\ua788-eh\u02c7 du\u02c7 na\u02c7 bi\u02ec dzeh-aw\u02ec.\nGhaw\u02ec nyoe\u02c7 khu\u02ec dza\u02ec-eu khu\u02ec tca\ua788 ma zm\u02ec-aw\u02ec.\nZa\u02ec\nA\u02ec da\nA\u02ec ma\nYaw\u02ec gha\u02ec na lu\ua788 yaw\u02ec\nha-eu\u02ec pha\u02c7 jeh yaw\u02ec ha geu\ua788-aw\u02ec.\nDza\u02c7, qhm\u02ec ma\u02ec khu\u02ec tca\ua788, i\u02c7 cu\ua788 qhm\u02ec ma haw\u02c7-eu\npha\u02c7 jeh a\u02ec chaw\u02ec neh\u02ec-eh\u02c7 hta\u02ec geu\ua788 ta\ua788.\nLa\ua788 tcui\ua788 neh naw\u02ec-eu\u02ec mya\u02c6\nphyaw\u02ec-ah\u02c7 hti\u02ec jo\u02c6-i\u02c7 ma\u02ec la\u02c6 tu\u02c6 nya-a.\nGheh nya na\u02c7 la\u02c7 gho\u02c6 phah ngeh, la\ua788\ntcui\ua788 (ma\u02ec) ba\ua788 phu neh phah-aw\u02ec.\nI\u02c7 khah\u02c7\nla\ua788 nyi\u02c7 do\u02c6-i\u02c7-aw\u02c7\ngho\ua788 la\u02c7 ngeh\nDza\u02c7 ma\u02ec dza\u02ec mi na\ua788-eh\u02c7\nYaw\u02ec jaw\u02c7 na lu\ua788 sa\u02c7 bya\u02ec neh a\u02ec la\ua788 dzui\ua788-aw\u02ec.\nA\u02c7 sa\u02ec sa\u02ec ngeh,\nsa\u02c7 bya\u02ec\nYaw\u02ec gha\u02ec na lu\ua788 yah\u02c7-aw\u02c7 jaw\u02c7-aw\u02ec.\nYaw\u02ec gha\u02ec na lu\ua788 yah\u02c7-aw\u02c7 jaw\u02c7-aw\u02ec.\nsa\u02c7 bya\u02ec\n\n\n\n\n\n\nKo\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\n\n\n\n\n\n\n\n",
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\n\n\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "spa": "Sobre el Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSobre el Coronavirus\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "spa",
+        "ahk",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Akha Literacy Team",
+    "country": "Myanmar",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "D3KBEVUwt9"
+        }
+    ],
+    "language-display-names": {
+        "ahk": "Akha",
+        "en": "English",
+        "es": "Spanish"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "",
+    "originalPublisher": null,
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

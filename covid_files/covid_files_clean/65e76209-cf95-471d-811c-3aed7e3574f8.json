@@ -1,0 +1,108 @@
+{
+    "allTitles": "{\"en\":\"Covid-19 Vaccine\"}",
+    "author": null,
+    "bookInstanceId": "65e76209-cf95-471d-811c-3aed7e3574f8",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+    "bookSamples": {
+        "0": {
+            "eng": "Covid-19 Vaccine"
+        },
+        "1": {
+            "eng": ""
+        },
+        "2": {
+            "eng": ""
+        },
+        "3": {
+            "eng": ""
+        },
+        "4": {
+            "eng": "Covid-19 Vaccine"
+        },
+        "5": {
+            "eng": "Illustrations by Elaine Vitikainen\nOriginal text adapted from WHO by Elaine Vitikainen"
+        },
+        "6": {
+            "eng": ""
+        },
+        "7": {
+            "eng": ""
+        },
+        "8": {
+            "eng": ""
+        },
+        "9": {
+            "eng": ""
+        },
+        "10": {
+            "eng": "What are vaccines?\nWhy should I get vaccinated?"
+        },
+        "11": {
+            "eng": "Vaccines contain antigen.\nAntigen is a part of a pathogen. Pathogen are germs that cause disease.\u00a0\n"
+        },
+        "12": {
+            "eng": "Antigen cause my body to produce antibodies. Antibodies defend my immune system and fight off future pathogen.\u00a0\n"
+        },
+        "13": {
+            "eng": "Being vaccinated won't give me the disease."
+        },
+        "14": {
+            "eng": "Being vaccinated will teach my body to build antibodies to protect me against future disease.\u00a0\n"
+        },
+        "15": {
+            "eng": ""
+        },
+        "16": {
+            "eng": ""
+        }
+    },
+    "bookText": {
+        "eng": "Covid-19 Vaccine\n\n\n\nCovid-19 Vaccine\nIllustrations by Elaine Vitikainen\nOriginal text adapted from WHO by Elaine Vitikainen\n\n\n\n\nWhat are vaccines?\nWhy should I get vaccinated?\nVaccines contain antigen.\nAntigen is a part of a pathogen. Pathogen are germs that cause disease.\u00a0\n\nAntigen cause my body to produce antibodies. Antibodies defend my immune system and fight off future pathogen.\u00a0\n\nBeing vaccinated won't give me the disease.\nBeing vaccinated will teach my body to build antibodies to protect me against future disease.\u00a0\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2021, Elaine Vitikainen",
+    "country": "",
+    "credits": "",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "imported-book-source-url": null,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English"
+    },
+    "languages": [],
+    "license": "cc-by-nc",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "originalTitle": "Covid-19 Vaccine",
+    "page-number-style": "Decimal",
+    "pageCount": 11,
+    "phashOfFirstContentImage": null,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Information about the Covid-19 vaccine",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Covid-19 Vaccine",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

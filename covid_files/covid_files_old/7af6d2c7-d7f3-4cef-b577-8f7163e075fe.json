@@ -1,0 +1,366 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 1,
+  "epub_RemoveFontStyles": true,
+  "bookInstanceId": "7af6d2c7-d7f3-4cef-b577-8f7163e075fe",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "P\u01a1p\u0115 \u0110ua\u012d B\u0115 M\u01a1\u0306ng K\u00f4wid-19 Pra\u0331ng L\u0103ng",
+  "allTitles": "{\"en\":\"Avoid COVID-19 (Africa) Poster\",\"jra\":\"P\u01a1p\u0115 \u0110ua\u012d B\u0115 M\u01a1\u0306ng K\u00f4wid-19 Pra\u0331ng L\u0103ng\"}",
+  "originalTitle": "Avoid COVID-19 (Africa) Poster",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "17848ae4-d76f-4566-9275-b01a0fb16cf4,3d60fcec-f533-4e3b-972e-7110d0b885f5,86057422-bef9-42b2-b3e9-276c4623b559",
+  "downloadSource": "hendyasiu@att.net/7af6d2c7-d7f3-4cef-b577-8f7163e075fe",
+  "license": "cc-by-nc",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2022, J\u01a1rai Bible Association.",
+  "credits": "Adapted by Paul Frank from original, Copyright \u00a9 2020, Illustrations by Elaine Vitikainen https://ev-visuals.com/",
+  "tags": [],
+  "pageCount": 8,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "nyjxzA0REh"
+    }
+  ],
+  "summary": "This is an A3 poster of Elaine Vitikainen's Avoid COVID-19 book (version 2)",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "country": "Viet Nam and United States",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "4wnAOzANTJ"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": "",
+  "originalPublisher": "",
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "an": "Aragon\u00e9s",
+    "jra": "Jarai"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "2": {
+    "jra": "P\u01a1p\u0115 \u0110ua\u012d B\u0115 M\u01a1\u0306ng K\u00f4wid-19 Pra\u0331ng L\u0103ng",
+    "en": "Avoid COVID-19 (Africa) Poster"
+  },
+  "3": {
+    "jra": "P\u01a1p\u0115 \u0110ua\u012d B\u0115 M\u01a1\u0306ng K\u00f4wid-19 Pra\u0331ng L\u0103ng",
+    "en": "Avoid COVID-19 (Africa) Poster"
+  },
+  "14": {
+    "jra": "P\u01a1p\u0115 \u0110ua\u012d B\u0115 M\u01a1\u0306ng K\u00f4wid-19 Pra\u0331ng L\u0103ng",
+    "en": "Avoid COVID-19 (Africa) Poster"
+  },
+  "15": {
+    "jra": "P\u01a1p\u0115 \u0110ua\u012d B\u0115 M\u01a1\u0306ng K\u00f4wid-19 Pra\u0331ng L\u0103ng",
+    "en": "Avoid COVID-19 (Africa) Poster"
+  },
+  "18": {
+    "en": "Image on page Picture for Poster by Ari Vitikainen."
+  },
+  "23": {
+    "en": "Translated by Hendy Siu."
+  },
+  "26": {
+    "en": "Adapted by Paul Frank from original, Copyright \u00a9 2020, Illustrations by Elaine Vitikainen https://ev-visuals.com/"
+  },
+  "29": {
+    "jra": "",
+    "en": ""
+  },
+  "30": {
+    "jra": "",
+    "en": ""
+  },
+  "31": {
+    "jra": "",
+    "en": "How to Create Posters with this Template"
+  },
+  "32": {
+    "jra": "",
+    "en": "How to Create Posters with this Template"
+  },
+  "33": {
+    "an": "",
+    "z": "",
+    "jra": "",
+    "en": "This template is for creating posters. You add pages that contain only a picture. Then you add text boxes to the page by right-clicking on the image and choosing \"Add Text Box to Image\":"
+  },
+  "34": {
+    "an": "",
+    "z": "",
+    "jra": "",
+    "en": "This template is for creating posters. You add pages that contain only a picture. Then you add text boxes to the page by right-clicking on the image and choosing \"Add Text Box to Image\":"
+  },
+  "35": {
+    "an": "",
+    "z": "",
+    "jra": "",
+    "en": "This template is for creating posters. You add pages that contain only a picture. Then you add text boxes to the page by right-clicking on the image and choosing \"Add Text Box to Image\":"
+  },
+  "36": {
+    "an": "",
+    "z": "",
+    "jra": "",
+    "en": "This template is for creating posters. You add pages that contain only a picture. Then you add text boxes to the page by right-clicking on the image and choosing \"Add Text Box to Image\":"
+  },
+  "37": {
+    "jra": "",
+    "en": ""
+  },
+  "38": {
+    "jra": "",
+    "en": ""
+  },
+  "39": {
+    "jra": "",
+    "en": ""
+  },
+  "40": {
+    "jra": "",
+    "en": ""
+  },
+  "41": {
+    "an": "",
+    "jra": "",
+    "en": "Type words into the box. If the box is not big enough, use the mouse to change the size of the box. You can also move the box around the page with the mouse."
+  },
+  "42": {
+    "an": "",
+    "jra": "",
+    "en": "Type words into the box. If the box is not big enough, use the mouse to change the size of the box. You can also move the box around the page with the mouse."
+  },
+  "43": {
+    "an": "",
+    "jra": "",
+    "en": "Type words into the box. If the box is not big enough, use the mouse to change the size of the box. You can also move the box around the page with the mouse."
+  },
+  "44": {
+    "jra": "",
+    "en": ""
+  },
+  "45": {
+    "jra": "",
+    "en": ""
+  },
+  "46": {
+    "jra": "",
+    "en": ""
+  },
+  "47": {
+    "jra": "",
+    "en": ""
+  },
+  "48": {
+    "jra": "",
+    "en": ""
+  },
+  "49": {
+    "jra": "",
+    "en": ""
+  },
+  "50": {
+    "jra": "Rao nanao b\u0115 t\u01a1ngan ih h\u0103ng \u010d\u01a1\u0180u h\u0103ng ia \u0180\u00f4dah rao g\u01a1\u00f1u h\u0103ng ia alkol rao sut.",
+    "en": "Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub."
+  },
+  "51": {
+    "jra": "Rao nanao b\u0115 t\u01a1ngan ih h\u0103ng \u010d\u01a1\u0180u h\u0103ng ia \u0180\u00f4dah rao g\u01a1\u00f1u h\u0103ng ia alkol rao sut.",
+    "en": "Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub."
+  },
+  "52": {
+    "jra": "",
+    "en": ""
+  },
+  "53": {
+    "jra": "",
+    "en": ""
+  },
+  "54": {
+    "jra": "",
+    "en": ""
+  },
+  "55": {
+    "jra": "",
+    "en": ""
+  },
+  "56": {
+    "jra": "An\u0103m t\u0115k k\u01a1\u00f1ir m\u01a1ta, ad\u016dng laih an\u016dn am\u0103ng bah \u00f4h.",
+    "en": "Avoid touching eyes, nose and mouth."
+  },
+  "57": {
+    "jra": "An\u0103m t\u0115k k\u01a1\u00f1ir m\u01a1ta, ad\u016dng laih an\u016dn am\u0103ng bah \u00f4h.",
+    "en": "Avoid touching eyes, nose and mouth."
+  },
+  "58": {
+    "jra": "",
+    "en": ""
+  },
+  "59": {
+    "jra": "",
+    "en": ""
+  },
+  "60": {
+    "jra": "P\u01a1p\u0115 \u0110ua\u012d H\u012d B\u0115 M\u01a1\u0306ng K\u00f4wid-19",
+    "en": "Avoid Covid-19"
+  },
+  "61": {
+    "jra": "P\u01a1p\u0115 \u0110ua\u012d H\u012d B\u0115 M\u01a1\u0306ng K\u00f4wid-19",
+    "en": "Avoid Covid-19"
+  },
+  "62": {
+    "jra": "",
+    "en": ""
+  },
+  "63": {
+    "jra": "",
+    "en": ""
+  },
+  "64": {
+    "jra": "",
+    "en": ""
+  },
+  "65": {
+    "jra": "",
+    "en": ""
+  },
+  "66": {
+    "jra": "D\u014f ataih b\u0115 h\u0103ng t\u01a1dru\u0103 k\u01a1pl\u0103h w\u0103h 2 med \u0180\u00f4dah 6 pl\u0103\u0331.",
+    "en": "Maintain 2 meters distance between yourself and others."
+  },
+  "67": {
+    "jra": "D\u014f ataih b\u0115 h\u0103ng t\u01a1dru\u0103 k\u01a1pl\u0103h w\u0103h 2 med \u0180\u00f4dah 6 pl\u0103\u0331.",
+    "en": "Maintain 2 meters distance between yourself and others."
+  },
+  "68": {
+    "jra": "Tro\u0103 b\u0115 b\u01a1n\u0103l go\u0331m h\u0103ng m\u01a1nuih lu.",
+    "en": "Wear a mask in public."
+  },
+  "69": {
+    "jra": "Tro\u0103 b\u0115 b\u01a1n\u0103l go\u0331m h\u0103ng m\u01a1nuih lu.",
+    "en": "Wear a mask in public."
+  },
+  "70": {
+    "jra": "",
+    "en": ""
+  },
+  "71": {
+    "jra": "",
+    "en": ""
+  },
+  "72": {
+    "jra": "",
+    "en": ""
+  },
+  "73": {
+    "jra": "",
+    "en": ""
+  },
+  "74": {
+    "jra": "D\u014f k\u01a1\u010d\u0103ng h\u01a1m\u01b0\u0306 t\u016d p\u01a1th\u00e2o nanao k\u01a1 t\u01a1l\u01a1i p\u01a1th\u00e2o phr\u00e2o k\u01a1 t\u01a1l\u01a1i K\u00d4WID-19. Ng\u0103 tui b\u0115 t\u01a1l\u01a1i \u0180ing nai p\u01a1jrao djru p\u01a1m\u012dn p\u01a1th\u00e2o br\u01a1i.",
+    "en": "Stay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider."
+  },
+  "75": {
+    "jra": "D\u014f k\u01a1\u010d\u0103ng h\u01a1m\u01b0\u0306 t\u016d p\u01a1th\u00e2o nanao k\u01a1 t\u01a1l\u01a1i p\u01a1th\u00e2o phr\u00e2o k\u01a1 t\u01a1l\u01a1i K\u00d4WID-19. Ng\u0103 tui b\u0115 t\u01a1l\u01a1i \u0180ing nai p\u01a1jrao djru p\u01a1m\u012dn p\u01a1th\u00e2o br\u01a1i.",
+    "en": "Stay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider."
+  },
+  "76": {
+    "jra": "",
+    "en": ""
+  },
+  "77": {
+    "jra": "",
+    "en": ""
+  },
+  "78": {
+    "jra": "",
+    "en": ""
+  },
+  "79": {
+    "jra": "",
+    "en": ""
+  },
+  "80": {
+    "jra": "",
+    "en": ""
+  },
+  "81": {
+    "jra": "",
+    "en": ""
+  },
+  "82": {
+    "jra": "Go\u0331m b\u0115 am\u0103ng bah h\u0103ng ad\u016dng ih h\u0103ng ke\u0331ng t\u01a1ngan ih \u0180\u00f4dah h\u0103ng hla ar t\u01a1dang p\u01a1t\u016dk \u0180\u00f4dah pha\u00f1. Gl\u014fm h\u012d hla ar sut an\u016dn m\u01a1tam b\u0115.",
+    "en": "Cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose of the used tissue immediately."
+  },
+  "83": {
+    "jra": "Go\u0331m b\u0115 am\u0103ng bah h\u0103ng ad\u016dng ih h\u0103ng ke\u0331ng t\u01a1ngan ih \u0180\u00f4dah h\u0103ng hla ar t\u01a1dang p\u01a1t\u016dk \u0180\u00f4dah pha\u00f1. Gl\u014fm h\u012d hla ar sut an\u016dn m\u01a1tam b\u0115.",
+    "en": "Cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose of the used tissue immediately."
+  },
+  "84": {
+    "jra": "",
+    "en": ""
+  },
+  "85": {
+    "jra": "",
+    "en": ""
+  },
+  "86": {
+    "jra": "",
+    "en": ""
+  },
+  "87": {
+    "jra": "",
+    "en": ""
+  },
+  "88": {
+    "jra": "",
+    "en": ""
+  },
+  "89": {
+    "jra": "",
+    "en": ""
+  },
+  "90": {
+    "jra": "D\u014f sang t\u01a1dah ih p\u01a1m\u01b0n \u0180u hiam dr\u01a1i jan. T\u01a1dah ih du\u0103m, p\u01a1t\u016dk laih an\u016dn t\u01a1nap su\u0103 jua, h\u01a1duah ar\u0103ng djru br\u01a1i jrao ta\u00f1 b\u0115.",
+    "en": "Stay home if you feel unwell. If you have fever, cough and difficulty breathing, seek medical attention early."
+  },
+  "91": {
+    "jra": "D\u014f sang t\u01a1dah ih p\u01a1m\u01b0n \u0180u hiam dr\u01a1i jan. T\u01a1dah ih du\u0103m, p\u01a1t\u016dk laih an\u016dn t\u01a1nap su\u0103 jua, h\u01a1duah ar\u0103ng djru br\u01a1i jrao ta\u00f1 b\u0115.",
+    "en": "Stay home if you feel unwell. If you have fever, cough and difficulty breathing, seek medical attention early."
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "8a2a6038-0f08-4c5d-a15c-f4a23e08e2f2",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Mga Paagi Para Malikawan Ta Paglapta Ta COVID-19",
+  "allTitles": "{\"cgc\":\"Mga Paagi Para Malikawan Ta Paglapta Ta COVID-19\",\"en\":\"Ways To Avoid The Spread Of COVID-19\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+  "downloadSource": "melaniefresnillo28@gmail.com/8a2a6038-0f08-4c5d-a15c-f4a23e08e2f2",
+  "license": "cc-by",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2019, Alec P. Estalilla",
+  "credits": "Written in Bisaya by Alec P. Estalilla, Northern Mindanao",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 14,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "fBaaCxf8lH"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "Safety precautions on how to avoid the spread of the COVID-19 virus",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Philippines",
+  "province": "Palawan",
+  "district": "Cagayancillo",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "meaztxtvk1"
+  },
+  "tools": [],
+  "currentTool": "talkingBookTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "cgc": "Kagayanen",
+    "en": "English"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "cgc": "Mga Paagi Para Malikawan Ta Paglapta Ta COVID-19",
+    "en": "Ways To Avoid The Spread Of COVID-19"
+  },
+  "2": {
+    "cgc": "Mga Paagi Para Malikawan Ta Paglapta Ta COVID-19",
+    "en": "Ways To Avoid The Spread Of COVID-19"
+  },
+  "3": {
+    "cgc": "",
+    "z": "",
+    "en": ""
+  },
+  "4": {
+    "cgc": "",
+    "z": "",
+    "en": ""
+  },
+  "5": {
+    "cgc": "",
+    "z": "",
+    "en": ""
+  },
+  "7": {
+    "cgc": "Melanie B. Fresnillo"
+  },
+  "8": {
+    "cgc": "Melanie B. Fresnillo"
+  },
+  "12": {
+    "cgc": "Mga Paagi Para Malikawan Ta Paglapta Ta COVID-19",
+    "en": "Ways To Avoid The Spread Of COVID-19"
+  },
+  "13": {
+    "cgc": "Mga Paagi Para Malikawan Ta Paglapta Ta COVID-19",
+    "en": "Ways To Avoid The Spread Of COVID-19"
+  },
+  "16": {
+    "en": ""
+  },
+  "21": {
+    "en": "Translated into Kagayanen by Melanie B. Fresnillo"
+  },
+  "24": {
+    "en": "Written in Bisaya by Alec P. Estalilla, Northern Mindanao"
+  },
+  "27": {
+    "z": "",
+    "cgc": "Dapat pirmi mag-ugas ta imo na lima gamit ta waig daw sabon ta 20 sigundos.",
+    "en": "Always wash your hands using water and soap for 20 seconds."
+  },
+  "28": {
+    "z": "",
+    "cgc": "Dapat pirmi mag-ugas ta imo na lima gamit ta waig daw sabon ta 20 sigundos.",
+    "en": "Always wash your hands using water and soap for 20 seconds."
+  },
+  "29": {
+    "z": "",
+    "cgc": "Dapat pirmi mag-ugas ta imo na lima gamit ta waig daw sabon ta 20 sigundos.",
+    "en": "Always wash your hands using water and soap for 20 seconds."
+  },
+  "30": {
+    "z": "",
+    "cgc": "Dili no ibitan imo na sura (labi na gid ta imo na mata, irong, baba daw talinga!)",
+    "en": "Don't touch your face (especially your eyes, nose, mouth and ears!)"
+  },
+  "31": {
+    "z": "",
+    "cgc": "Dili no ibitan imo na sura (labi na gid ta imo na mata, irong, baba daw talinga!)",
+    "en": "Don't touch your face (especially your eyes, nose, mouth and ears!)"
+  },
+  "32": {
+    "z": "",
+    "cgc": "Dili no ibitan imo na sura (labi na gid ta imo na mata, irong, baba daw talinga!)",
+    "en": "Don't touch your face (especially your eyes, nose, mouth and ears!)"
+  },
+  "33": {
+    "z": "",
+    "cgc": "Magsuksok ka ta mask daw may anen ka masakit.",
+    "en": "Wear a mask if you are sick."
+  },
+  "34": {
+    "z": "",
+    "cgc": "Magsuksok ka ta mask daw may anen ka masakit.",
+    "en": "Wear a mask if you are sick."
+  },
+  "35": {
+    "z": "",
+    "cgc": "Magsuksok ka ta mask daw may anen ka masakit.",
+    "en": "Wear a mask if you are sick."
+  },
+  "36": {
+    "z": "",
+    "cgc": "Dili no paglipatan limpyuan imo na mga gamit paryo ta cellphone, doorknob ta mga sara, mga lamisaan daw duma pa na paibitan no!",
+    "en": "Don't forget to clean your cellphone, doorknobs, tables, etc."
+  },
+  "37": {
+    "z": "",
+    "cgc": "Dili no paglipatan limpyuan imo na mga gamit paryo ta cellphone, doorknob ta mga sara, mga lamisaan daw duma pa na paibitan no!",
+    "en": "Don't forget to clean your cellphone, doorknobs, tables, etc."
+  },
+  "38": {
+    "z": "",
+    "cgc": "Dili no paglipatan limpyuan imo na mga gamit paryo ta cellphone, doorknob ta mga sara, mga lamisaan daw duma pa na paibitan no!",
+    "en": "Don't forget to clean your cellphone, doorknobs, tables, etc."
+  },
+  "39": {
+    "z": "",
+    "cgc": "Pabiskegen no imo na risistinsya paagi ta pagkaan ta mga prutas, gulay daw pag-inem ta mga bitamina!",
+    "en": "Strengthen your immune system by eating fruits, vegetables and taking vitamins."
+  },
+  "40": {
+    "z": "",
+    "cgc": "Pabiskegen no imo na risistinsya paagi ta pagkaan ta mga prutas, gulay daw pag-inem ta mga bitamina!",
+    "en": "Strengthen your immune system by eating fruits, vegetables and taking vitamins."
+  },
+  "41": {
+    "z": "",
+    "cgc": "Pabiskegen no imo na risistinsya paagi ta pagkaan ta mga prutas, gulay daw pag-inem ta mga bitamina!",
+    "en": "Strengthen your immune system by eating fruits, vegetables and taking vitamins."
+  },
+  "42": {
+    "z": "",
+    "cgc": "Dili ka munta ta mga lugar na may tama na mga ittaw! Magpamadyo ka naan ta mga ittaw mga isya mitro kaadyuon.",
+    "en": "Avoid crowds! Keep a distance from people about one meter."
+  },
+  "43": {
+    "z": "",
+    "cgc": "Dili ka munta ta mga lugar na may tama na mga ittaw! Magpamadyo ka naan ta mga ittaw mga isya mitro kaadyuon.",
+    "en": "Avoid crowds! Keep a distance from people about one meter."
+  },
+  "44": {
+    "z": "",
+    "cgc": "Dili ka munta ta mga lugar na may tama na mga ittaw! Magpamadyo ka naan ta mga ittaw mga isya mitro kaadyuon.",
+    "en": "Avoid crowds! Keep a distance from people about one meter."
+  },
+  "45": {
+    "z": "",
+    "cgc": "Dili ka pirmi magpalit-palit naan ta mga tindaan ta mga kinanglanen no!",
+    "en": "Don't panic buy at the grocery stores!"
+  },
+  "46": {
+    "z": "",
+    "cgc": "Dili ka pirmi magpalit-palit naan ta mga tindaan ta mga kinanglanen no!",
+    "en": "Don't panic buy at the grocery stores!"
+  },
+  "47": {
+    "z": "",
+    "cgc": "Dili ka pirmi magpalit-palit naan ta mga tindaan ta mga kinanglanen no!",
+    "en": "Don't panic buy at the grocery stores!"
+  },
+  "48": {
+    "z": "",
+    "cgc": "Pirmi no basaen daw mamati ta mga anunsyo para makalikaw ka ta mga galapta na balita na dili matuod na yon gaatag ta paglanglasang ta tanan.",
+    "en": "Always read and listen to updates to avoid fake news intended to create panic."
+  },
+  "49": {
+    "z": "",
+    "cgc": "Pirmi no basaen daw mamati ta mga anunsyo para makalikaw ka ta mga galapta na balita na dili matuod na yon gaatag ta paglanglasang ta tanan.",
+    "en": "Always read and listen to updates to avoid fake news intended to create panic."
+  },
+  "50": {
+    "z": "",
+    "cgc": "Pirmi no basaen daw mamati ta mga anunsyo para makalikaw ka ta mga galapta na balita na dili matuod na yon gaatag ta paglanglasang ta tanan.",
+    "en": "Always read and listen to updates to avoid fake news intended to create panic."
+  }
+}

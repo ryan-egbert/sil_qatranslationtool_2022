@@ -1,0 +1,375 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "73eeae30-3e91-41c5-92cc-fbec50a0d62d",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Kovid \u2013 19 lang: yoem\u201d noo",
+  "allTitles": "{\"ahk\":\"Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\",\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"lsi\":\"Kovid \u2013 19 lang: yoem\u201d noo\"}",
+  "originalTitle": "About Coronavirus",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "",
+  "downloadSource": "kwemoo@gmail.com/73eeae30-3e91-41c5-92cc-fbec50a0d62d",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2020, Lacid Literacy",
+  "credits": "Translate by Zone Call",
+  "tags": [],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "Au6o3hacjq"
+    }
+  ],
+  "summary": null,
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Myanmar",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "b3xvsSgeg9"
+  },
+  "tools": [],
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "lsi": "Lacid",
+    "en": "English"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+    "es": "Sobre el Coronavirus",
+    "lsi": "Kovid \u2013 19 lang: yoem\u201d noo",
+    "en": "About Coronavirus"
+  },
+  "2": {
+    "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+    "es": "Sobre el Coronavirus",
+    "lsi": "Kovid \u2013 19 lang: yoem\u201d noo",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+    "es": "Sobre el Coronavirus",
+    "lsi": "Kovid \u2013 19 lang: yoem\u201d noo",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+    "es": "Sobre el Coronavirus",
+    "lsi": "Kovid \u2013 19 lang: yoem\u201d noo",
+    "en": "About Coronavirus"
+  },
+  "5": {
+    "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+    "es": "Sobre el Coronavirus",
+    "lsi": "Kovid \u2013 19 lang: yoem\u201d noo",
+    "en": "About Coronavirus"
+  },
+  "12": {
+    "lsi": ""
+  },
+  "13": {
+    "lsi": ""
+  },
+  "14": {
+    "lsi": "Lang: yoem\u201d noo"
+  },
+  "15": {
+    "lsi": ""
+  },
+  "16": {
+    "lsi": ""
+  },
+  "17": {
+    "lsi": ""
+  },
+  "18": {
+    "lsi": ""
+  },
+  "19": {
+    "lsi": "su:"
+  },
+  "20": {
+    "lsi": ""
+  },
+  "21": {
+    "lsi": ""
+  },
+  "22": {
+    "lsi": "6 pe: koo: vi: moo nyid lang\u201d lang: yoem\u201d noo boug: dab wa jang\u201d moo yo\u201d loid wa."
+  },
+  "23": {
+    "lsi": "1"
+  },
+  "24": {
+    "lsi": ""
+  },
+  "25": {
+    "lsi": "\u00a0 Hab co"
+  },
+  "26": {
+    "lsi": ""
+  },
+  "27": {
+    "lsi": ""
+  },
+  "28": {
+    "lsi": "2"
+  },
+  "29": {
+    "lsi": ""
+  },
+  "30": {
+    "lsi": ""
+  },
+  "31": {
+    "lsi": "Nyang: noo aboo nghoid loug we\u2019 nyang: gung nyang: zid\u201d nyid zi we\u2019 nghoid da:."
+  },
+  "32": {
+    "lsi": ""
+  },
+  "33": {
+    "lsi": ""
+  },
+  "34": {
+    "lsi": ""
+  },
+  "35": {
+    "lsi": "Yang\u201d zain: su:"
+  },
+  "36": {
+    "lsi": "Myi: rheing\u201d- modoo:\u00a0 cang\u2019 lo, zei: tei\u201d"
+  },
+  "37": {
+    "lsi": "Jag zoemlhang: khalug"
+  },
+  "38": {
+    "lsi": "Lo, boid mougsoug\u201d"
+  },
+  "39": {
+    "lsi": ""
+  },
+  "40": {
+    "lsi": ""
+  },
+  "41": {
+    "lsi": "da\u201d nghi: shoid."
+  },
+  "42": {
+    "lsi": ""
+  },
+  "43": {
+    "lsi": ""
+  },
+  "44": {
+    "lsi": "Mhug youg:"
+  },
+  "45": {
+    "lsi": "Khoem: lo, zei:"
+  },
+  "46": {
+    "lsi": ""
+  },
+  "47": {
+    "lsi": "Hau: thang: noo dab su: da\u201d shikain\u201d gi dalheing: lheing: gootu: jonu\u201d atho\u2019 moo lo\u201d jo, da:. Dang: tu\u2019"
+  },
+  "48": {
+    "lsi": "wa \u2013 noo dab wa."
+  },
+  "49": {
+    "lsi": ""
+  },
+  "50": {
+    "lsi": ""
+  },
+  "51": {
+    "lsi": "thung\u201d lang\u201d"
+  },
+  "52": {
+    "lsi": "Hau: gyi mo loid wa shid mo lo, ri sabya: yo\u2019\u00a0 ( angh ) yhid: bo da\u201d mocid\u201d yeing yo\u2019 voin: tang: cid\u201d we\u2019."
+  },
+  "53": {
+    "lsi": ""
+  },
+  "54": {
+    "lsi": ""
+  },
+  "55": {
+    "lsi": ""
+  },
+  "56": {
+    "lsi": "Noo adab wa shidmo zid\u201d lhid ca\u201d khyoo: 5 ja:"
+  },
+  "57": {
+    "lsi": "He: ziri cang\u201d lang\u201d gye ge da:."
+  },
+  "58": {
+    "lsi": ""
+  },
+  "59": {
+    "lsi": "Sapya:"
+  },
+  "60": {
+    "lsi": "Lo, moin\u201d thung\u201d guid\u201d thang:"
+  },
+  "61": {
+    "lsi": "yo\u2019 voin: tang: joid lho: shang\u2019 sho\u2019 cid\u201d we\u2019."
+  },
+  "62": {
+    "lsi": ""
+  },
+  "63": {
+    "lsi": ""
+  },
+  "64": {
+    "lsi": ""
+  },
+  "65": {
+    "lsi": ""
+  },
+  "66": {
+    "lsi": ""
+  },
+  "67": {
+    "lsi": ""
+  },
+  "68": {
+    "lsi": ""
+  },
+  "69": {
+    "lsi": ""
+  },
+  "70": {
+    "lsi": "Ayeing zo,"
+  },
+  "71": {
+    "lsi": ""
+  },
+  "72": {
+    "lsi": "sho\u2019 aci: dajhi\u2019 agi loo: lang\u201d she: pyam\u2019 we\u2019."
+  },
+  "73": {
+    "lsi": "Moidzoo: ri ci: yhung: we\u2019"
+  },
+  "74": {
+    "lsi": ""
+  },
+  "75": {
+    "lsi": ""
+  },
+  "76": {
+    "lsi": "Yhid yhid"
+  },
+  "77": {
+    "lsi": ""
+  },
+  "78": {
+    "lsi": "Zoo: shug \u2013 voem: yhung\u2019 yhoem: moo ci: jonu\u201d \u2013 gyid khu\u2019 yo\u2019 lo, boid ri byu myoo: sho\u2019 dage\u201d aci: wa."
+  },
+  "79": {
+    "lsi": "Re\u201d da: lo, moin\u201d thung\u201d guid\u201d thang: yo\u2019 myonhoo: ri khasu\u201d we\u2019 ayo\u201d zang\u201d thung\u201d nghoid da:."
+  },
+  "80": {
+    "lsi": ""
+  },
+  "81": {
+    "lsi": ""
+  },
+  "82": {
+    "lsi": ""
+  },
+  "83": {
+    "lsi": ""
+  },
+  "84": {
+    "lsi": "Lo, ri ajang\u201d sapya: yo\u2019 cid\u201d we\u2019"
+  },
+  "85": {
+    "lsi": ""
+  },
+  "86": {
+    "lsi": "Sapya:"
+  },
+  "87": {
+    "lsi": "Yug khang\u201d moo\u201d gyi mo loid sho\u2019 nyid we\u2019"
+  },
+  "88": {
+    "lsi": ""
+  },
+  "89": {
+    "lsi": "Sapya:"
+  },
+  "97": {
+    "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+    "es": "Sobre el Coronavirus",
+    "lsi": "Kovid \u2013 19 lang: yoem\u201d noo",
+    "en": "About Coronavirus"
+  },
+  "98": {
+    "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+    "es": "Sobre el Coronavirus",
+    "lsi": "Kovid \u2013 19 lang: yoem\u201d noo",
+    "en": "About Coronavirus"
+  },
+  "99": {
+    "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+    "es": "Sobre el Coronavirus",
+    "lsi": "Kovid \u2013 19 lang: yoem\u201d noo",
+    "en": "About Coronavirus"
+  },
+  "100": {
+    "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+    "es": "Sobre el Coronavirus",
+    "lsi": "Kovid \u2013 19 lang: yoem\u201d noo",
+    "en": "About Coronavirus"
+  },
+  "101": {
+    "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+    "es": "Sobre el Coronavirus",
+    "lsi": "Kovid \u2013 19 lang: yoem\u201d noo",
+    "en": "About Coronavirus"
+  },
+  "109": {
+    "en": "About Coronavirus"
+  },
+  "112": {
+    "en": "Translate by Zone Call"
+  }
+}

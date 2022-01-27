@@ -1,0 +1,140 @@
+{
+    "allTitles": "{\"cgc\":\"Mga Paagi Para Malikawan Ta Paglapta Ta COVID-19\",\"en\":\"Ways To Avoid The Spread Of COVID-19\"}",
+    "author": null,
+    "bookInstanceId": "8a2a6038-0f08-4c5d-a15c-f4a23e08e2f2",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+    "bookSamples": {
+        "0": {
+            "cgc": "Mga Paagi Para Malikawan Ta Paglapta Ta COVID-19",
+            "eng": "Ways To Avoid The Spread Of COVID-19"
+        },
+        "1": {
+            "cgc": "",
+            "eng": ""
+        },
+        "2": {
+            "cgc": "Melanie B. Fresnillo",
+            "eng": ""
+        },
+        "3": {
+            "cgc": "",
+            "eng": ""
+        },
+        "4": {
+            "cgc": "Mga Paagi Para Malikawan Ta Paglapta Ta COVID-19",
+            "eng": "Ways To Avoid The Spread Of COVID-19"
+        },
+        "5": {
+            "cgc": "",
+            "eng": "World Health Organization\n"
+        },
+        "6": {
+            "cgc": "",
+            "eng": ""
+        },
+        "7": {
+            "cgc": "",
+            "eng": "Translated into Kagayanen by Melanie B. Fresnillo"
+        },
+        "8": {
+            "cgc": "",
+            "eng": "Written in Bisaya by Alec P. Estalilla, Northern Mindanao"
+        },
+        "9": {
+            "cgc": "",
+            "eng": ""
+        },
+        "10": {
+            "cgc": "Dapat pirmi mag-ugas ta imo na lima gamit ta waig daw sabon ta 20 sigundos.",
+            "eng": "Always wash your hands using water and soap for 20 seconds."
+        },
+        "11": {
+            "cgc": "Dili no ibitan imo na sura (labi na gid ta imo na mata, irong, baba daw talinga!)",
+            "eng": "Don't touch your face (especially your eyes, nose, mouth and ears!)"
+        },
+        "12": {
+            "cgc": "Magsuksok ka ta mask daw may anen ka masakit.",
+            "eng": "Wear a mask if you are sick."
+        },
+        "13": {
+            "cgc": "Dili no paglipatan limpyuan imo na mga gamit paryo ta cellphone, doorknob ta mga sara, mga lamisaan daw duma pa na paibitan no!",
+            "eng": "Don't forget to clean your cellphone, doorknobs, tables, etc."
+        },
+        "14": {
+            "cgc": "Pabiskegen no imo na risistinsya paagi ta pagkaan ta mga prutas, gulay daw pag-inem ta mga bitamina!",
+            "eng": "Strengthen your immune system by eating fruits, vegetables and taking vitamins."
+        },
+        "15": {
+            "cgc": "Dili ka munta ta mga lugar na may tama na mga ittaw! Magpamadyo ka naan ta mga ittaw mga isya mitro kaadyuon.",
+            "eng": "Avoid crowds! Keep a distance from people about one meter."
+        },
+        "16": {
+            "cgc": "Dili ka pirmi magpalit-palit naan ta mga tindaan ta mga kinanglanen no!",
+            "eng": "Don't panic buy at the grocery stores!"
+        },
+        "17": {
+            "cgc": "Pirmi no basaen daw mamati ta mga anunsyo para makalikaw ka ta mga galapta na balita na dili matuod na yon gaatag ta paglanglasang ta tanan.",
+            "eng": "Always read and listen to updates to avoid fake news intended to create panic."
+        },
+        "18": {
+            "cgc": "",
+            "eng": ""
+        },
+        "19": {
+            "cgc": "",
+            "eng": ""
+        }
+    },
+    "bookText": {
+        "cgc": "Mga Paagi Para Malikawan Ta Paglapta Ta COVID-19\n\nMelanie B. Fresnillo\n\nMga Paagi Para Malikawan Ta Paglapta Ta COVID-19\n\n\n\n\n\nDapat pirmi mag-ugas ta imo na lima gamit ta waig daw sabon ta 20 sigundos.\nDili no ibitan imo na sura (labi na gid ta imo na mata, irong, baba daw talinga!)\nMagsuksok ka ta mask daw may anen ka masakit.\nDili no paglipatan limpyuan imo na mga gamit paryo ta cellphone, doorknob ta mga sara, mga lamisaan daw duma pa na paibitan no!\nPabiskegen no imo na risistinsya paagi ta pagkaan ta mga prutas, gulay daw pag-inem ta mga bitamina!\nDili ka munta ta mga lugar na may tama na mga ittaw! Magpamadyo ka naan ta mga ittaw mga isya mitro kaadyuon.\nDili ka pirmi magpalit-palit naan ta mga tindaan ta mga kinanglanen no!\nPirmi no basaen daw mamati ta mga anunsyo para makalikaw ka ta mga galapta na balita na dili matuod na yon gaatag ta paglanglasang ta tanan.\n\n",
+        "eng": "Ways To Avoid The Spread Of COVID-19\n\n\n\nWays To Avoid The Spread Of COVID-19\nWorld Health Organization\n\n\nTranslated into Kagayanen by Melanie B. Fresnillo\nWritten in Bisaya by Alec P. Estalilla, Northern Mindanao\n\nAlways wash your hands using water and soap for 20 seconds.\nDon't touch your face (especially your eyes, nose, mouth and ears!)\nWear a mask if you are sick.\nDon't forget to clean your cellphone, doorknobs, tables, etc.\nStrengthen your immune system by eating fruits, vegetables and taking vitamins.\nAvoid crowds! Keep a distance from people about one meter.\nDon't panic buy at the grocery stores!\nAlways read and listen to updates to avoid fake news intended to create panic.\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "cgc",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2019, Alec P. Estalilla",
+    "country": "Philippines",
+    "credits": "Written in Bisaya by Alec P. Estalilla, Northern Mindanao",
+    "district": "Cagayancillo",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "fBaaCxf8lH"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "cgc": "Kagayanen",
+        "en": "English"
+    },
+    "languages": [],
+    "license": "cc-by",
+    "licenseNotes": null,
+    "page-number-style": "Decimal",
+    "pageCount": 14,
+    "province": "Palawan",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Safety precautions on how to avoid the spread of the COVID-19 virus",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Mga Paagi Para Malikawan Ta Paglapta Ta COVID-19",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

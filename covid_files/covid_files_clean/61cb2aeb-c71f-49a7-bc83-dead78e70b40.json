@@ -1,0 +1,149 @@
+{
+    "allTitles": "{\"ahk\":\"Covid-19-ah\u02c7 yah\u02c7-eu\",\"en\":\"Avoid Covid-19\",\"lsi\":\"Covid-19 ri zid\u201d lhid khyoo:\",\"my\":\"Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038\"}",
+    "author": null,
+    "bookInstanceId": "61cb2aeb-c71f-49a7-bc83-dead78e70b40",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+    "bookSamples": {
+        "0": {
+            "ahk": "\u00a0Covid-19-ah\u02c7 yah\u02c7-eu",
+            "eng": "Avoid Covid-19",
+            "lsi": "Covid-19 ri zid\u201d lhid khyoo:\n",
+            "mya": "Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038\n"
+        },
+        "1": {
+            "eng": "",
+            "lsi": ""
+        },
+        "2": {
+            "eng": "",
+            "lsi": ""
+        },
+        "3": {
+            "eng": "",
+            "lsi": ""
+        },
+        "4": {
+            "ahk": "\u00a0Covid-19-ah\u02c7 yah\u02c7-eu",
+            "eng": "Avoid Covid-19",
+            "lsi": "Covid-19 ri zid\u201d lhid khyoo:\n",
+            "mya": "Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038\n"
+        },
+        "5": {
+            "eng": "Illustrations:\u00a0 Ari and Elaine Vitikainen\u00a0\n\nInformation was taken from WHO websites such as https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\n\nVersion 27.3.2020",
+            "lsi": ""
+        },
+        "6": {
+            "eng": "Literacy for Women in Africa",
+            "lsi": ""
+        },
+        "7": {
+            "eng": "Translator Lanham: Zung\u201d Khoo\u201d, Illustrator Ai Yawn Kap",
+            "lsi": ""
+        },
+        "8": {
+            "eng": "",
+            "lsi": ""
+        },
+        "9": {
+            "eng": "",
+            "lsi": ""
+        },
+        "10": {
+            "eng": "",
+            "lsi": ""
+        },
+        "11": {
+            "eng": "Lo, ri Sapya: yo\u2019 ajang\u201d cid\u201d ca\u201d (angh ) Yhid: yo\u2019 koid thu\u2019 to\u201d da\u201d lo, cid\u201d yeing yo\u2019 voin: tang: boid lho: cid\u201d ca\u201d.",
+            "lsi": ""
+        },
+        "12": {
+            "eng": "Avoid touching eyes, nose and mouth.\n",
+            "lsi": "Myo, jid\u201d \u2013 nhoo: - nhoid ri azang\u201d thung\u201d."
+        },
+        "13": {
+            "eng": "Cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose\u00a0 the used tissue immediately.\n\n\n",
+            "lsi": "Nhoo\u201d yeing yu: - xam: myhid\u201d noo lang\u201d re\u201d nhoo: yo\u2019 nhoid ri lo, moin\u201d thung\u201d guid\u201d thang: ( angh) lo, boid mougsoug\u201d yo\u2019 nghoeb too\u201d we\u2019. Bain lang\u201d hau: lo, boid mougsoug\u201d ri dalheing dam mhoid khoid pung\u201d moo kaid we\u2019."
+        },
+        "14": {
+            "eng": "Maintain 2 meters distance between yourself and others.\n\n",
+            "lsi": "Byu dayug yo\u2019 dayug agyoo: moo neing: thang\u2019 Dalam ( 6 pe: ) koo: moo nyid we\u2019."
+        },
+        "15": {
+            "eng": "Stay home if you feel unwell.\nIf you have fever, cough and difficulty breathing, seek medical attention early.\n\n",
+            "lsi": "Noo lang\u201d yhoem: moo nyid we\u2019. Zhau\u201d \u2013 so\u2019 shi: yau: ziyo\u2019 nge\u201d no nyid lang\u201d je jhang da\u201d mocid\u201d rung\u201d khyoo: myab thang khyo\u201d lo\u201d byang\u201d we\u2019."
+        },
+        "16": {
+            "eng": "Stay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider.\n\n",
+            "lsi": "COVID-19 yo\u2019 sen: lho: thang: thang\u2019 shoug\u201d gyo: da\u201d kyoo\u201d dang: ri tam\u201d gyoo: we\u2019. Yang\u201d zain: khyoo: shu\u201d ajhung: mo anoo: tid shed nyid da\u201d kyoo\u201d dang: ri voin: tang: cang\u2019 we\u2019."
+        },
+        "17": {
+            "eng": "",
+            "lsi": ""
+        },
+        "18": {
+            "eng": "",
+            "lsi": ""
+        }
+    },
+    "bookText": {
+        "ahk": "\u00a0Covid-19-ah\u02c7 yah\u02c7-eu\n\n\n\n\u00a0Covid-19-ah\u02c7 yah\u02c7-eu\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "eng": "Avoid Covid-19\n\n\n\nAvoid Covid-19\nIllustrations:\u00a0 Ari and Elaine Vitikainen\u00a0\n\nInformation was taken from WHO websites such as https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\n\nVersion 27.3.2020\nLiteracy for Women in Africa\nTranslator Lanham: Zung\u201d Khoo\u201d, Illustrator Ai Yawn Kap\n\n\n\nLo, ri Sapya: yo\u2019 ajang\u201d cid\u201d ca\u201d (angh ) Yhid: yo\u2019 koid thu\u2019 to\u201d da\u201d lo, cid\u201d yeing yo\u2019 voin: tang: boid lho: cid\u201d ca\u201d.\nAvoid touching eyes, nose and mouth.\n\nCover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Dispose\u00a0 the used tissue immediately.\n\n\n\nMaintain 2 meters distance between yourself and others.\n\n\nStay home if you feel unwell.\nIf you have fever, cough and difficulty breathing, seek medical attention early.\n\n\nStay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider.\n\n\n\n",
+        "lsi": "Covid-19 ri zid\u201d lhid khyoo:\n\n\n\n\nCovid-19 ri zid\u201d lhid khyoo:\n\n\n\n\n\n\n\n\nMyo, jid\u201d \u2013 nhoo: - nhoid ri azang\u201d thung\u201d.\nNhoo\u201d yeing yu: - xam: myhid\u201d noo lang\u201d re\u201d nhoo: yo\u2019 nhoid ri lo, moin\u201d thung\u201d guid\u201d thang: ( angh) lo, boid mougsoug\u201d yo\u2019 nghoeb too\u201d we\u2019. Bain lang\u201d hau: lo, boid mougsoug\u201d ri dalheing dam mhoid khoid pung\u201d moo kaid we\u2019.\nByu dayug yo\u2019 dayug agyoo: moo neing: thang\u2019 Dalam ( 6 pe: ) koo: moo nyid we\u2019.\nNoo lang\u201d yhoem: moo nyid we\u2019. Zhau\u201d \u2013 so\u2019 shi: yau: ziyo\u2019 nge\u201d no nyid lang\u201d je jhang da\u201d mocid\u201d rung\u201d khyoo: myab thang khyo\u201d lo\u201d byang\u201d we\u2019.\nCOVID-19 yo\u2019 sen: lho: thang: thang\u2019 shoug\u201d gyo: da\u201d kyoo\u201d dang: ri tam\u201d gyoo: we\u2019. Yang\u201d zain: khyoo: shu\u201d ajhung: mo anoo: tid shed nyid da\u201d kyoo\u201d dang: ri voin: tang: cang\u2019 we\u2019.\n\n",
+        "mya": "Covid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038\n\n\n\n\nCovid-19\u1000\u102d\u102f \u101b\u103e\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1001\u103c\u1004\u103a\u1038\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "mya",
+        "ahk",
+        "lsi",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Lacid Literacy",
+    "country": "Myanmar",
+    "credits": "",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "imported-book-source-url": null,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "Au6o3hacjq"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "lsi": "Lacid"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "originalTitle": "Avoid Covid-19",
+    "page-number-style": "Decimal",
+    "pageCount": 12,
+    "phashOfFirstContentImage": null,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": null,
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Covid-19 ri zid\u201d lhid khyoo:",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

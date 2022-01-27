@@ -1,0 +1,361 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "27ff156e-a168-4b5f-a821-5877e9edbf61",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "O Leleno Virusu Korona",
+  "allTitles": "{\"cia\":\"O Leleno Virusu Korona\",\"en\":\"About Coronavirus\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+  "downloadSource": "media@suluh.org/27ff156e-a168-4b5f-a821-5877e9edbf61",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+  "copyright": "Copyright \u00a9 2020, Weiman Kow",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "WLl1oaEFRP"
+    }
+  ],
+  "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Indonesia",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "c1ceNFU299"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "lts": "Lutachoni",
+    "id": "Indonesian",
+    "cia": "Cia-Cia"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "3": {
+    "cia": "O Leleno Virusu Korona",
+    "en": "About Coronavirus"
+  },
+  "4": {
+    "cia": "O Leleno Virusu Korona",
+    "en": "About Coronavirus"
+  },
+  "5": {
+    "cia": "O Leleno Virusu Korona",
+    "en": "About Coronavirus"
+  },
+  "13": {
+    "cia": "Amea paghalulu kakumonie nakee maimpae virusu korona ana\u00a0 nopikalele"
+  },
+  "14": {
+    "cia": ""
+  },
+  "15": {
+    "cia": "Bhobha"
+  },
+  "16": {
+    "cia": ""
+  },
+  "17": {
+    "cia": "Mata"
+  },
+  "18": {
+    "cia": "Nopisua i lalono"
+  },
+  "19": {
+    "cia": "Mia mantaha"
+  },
+  "20": {
+    "cia": "Mia kopanaki"
+  },
+  "21": {
+    "cia": "Virusu iaana nopikalele nopilala i\u00a0 tampisano ilu"
+  },
+  "22": {
+    "cia": "Ciabhe naghumatoso tampisano ilu sumano cumianda-anda i kambelai ghua meteghe."
+  },
+  "23": {
+    "cia": "1"
+  },
+  "24": {
+    "cia": "0,5 m - 2 m"
+  },
+  "25": {
+    "cia": "\u2018Haaachi\u2019"
+  },
+  "26": {
+    "cia": "Jari, ane cumita mia nakokudha/namiaciho/ nakopananaki, isoo cumimbali uka:"
+  },
+  "27": {
+    "cia": ""
+  },
+  "28": {
+    "cia": "2"
+  },
+  "29": {
+    "cia": "Tarima kasi \u201cSROOT\u201d"
+  },
+  "30": {
+    "cia": "Atawa"
+  },
+  "31": {
+    "cia": "Itaano kabilanga mia iaana cia nakopanaki. Hawite nopajaga kuluno."
+  },
+  "32": {
+    "cia": "Ane mia nokovirusumo agaa cia nacikoni, hawali nopimbali nopolimba panakino (imia agaano \u2018orang lain\u2019)."
+  },
+  "33": {
+    "cia": "Kaumelasano hake, kolie kapoghompu-ghompu hulanomo cia takumonie Inde-indeeno kopanakino."
+  },
+  "34": {
+    "cia": "Maataa"
+  },
+  "35": {
+    "cia": "Mia mantaha"
+  },
+  "36": {
+    "cia": "Kauntaano kereta"
+  },
+  "37": {
+    "cia": "Kaisono lifu"
+  },
+  "38": {
+    "cia": "Tisu"
+  },
+  "39": {
+    "cia": "Tonde"
+  },
+  "40": {
+    "cia": "Paghewano digitala"
+  },
+  "41": {
+    "cia": "Mohake italikuno maskere"
+  },
+  "42": {
+    "cia": "Kauntaano ea"
+  },
+  "43": {
+    "cia": "Mousu"
+  },
+  "44": {
+    "cia": "Pena"
+  },
+  "45": {
+    "cia": "Limano bhobha"
+  },
+  "46": {
+    "cia": "Limano moia"
+  },
+  "47": {
+    "cia": "Hawali, agaa iluno mia kopanaki nopimbali nopika i..."
+  },
+  "48": {
+    "cia": "Siambalimbalisimiu cukakopanaki"
+  },
+  "49": {
+    "cia": ""
+  },
+  "50": {
+    "cia": "Cugigisimo matamu"
+  },
+  "51": {
+    "cia": "Mohake cia cukamaghadhami cukaghumuncu\u00a0 bara-bara longkee pooliwange cukaghumuncumo hulamiu."
+  },
+  "52": {
+    "cia": "Ame-meano Lala dhiaso tamikawulu virusu iaana towanuiisie sabo, pemutih, atawa alkoholo."
+  },
+  "53": {
+    "cia": "Virusu iaana nodhadhi padhai ghua pulu pato jamu i wiwino bara-bara."
+  },
+  "54": {
+    "cia": "Sabo"
+  },
+  "55": {
+    "cia": "lala niumelaaso doghi."
+  },
+  "56": {
+    "cia": "Longkeenomo, umelano pali tahumokoloe"
+  },
+  "57": {
+    "cia": "Wanuiisie sabo padhai kanakee"
+  },
+  "58": {
+    "cia": "Sabo"
+  },
+  "59": {
+    "cia": "Mina i palano lima padha i siku"
+  },
+  "60": {
+    "cia": "Ane ciamo nacitaghai, wanuiepo pangulu limamiu kapakeisie sabo."
+  },
+  "61": {
+    "cia": "Kabilanga topilaguaso \u201cLakadhandio\u201d ghua mpalinga"
+  },
+  "62": {
+    "cia": "I woghuno kunusu"
+  },
+  "63": {
+    "cia": "20 deti"
+  },
+  "64": {
+    "cia": "I lapitano wunga lima"
+  },
+  "65": {
+    "cia": "\u00a0lima"
+  },
+  "66": {
+    "cia": "Maimpae towaanui lima sampe nomongkilo?"
+  },
+  "67": {
+    "cia": "Ane nocidhingkumo, kolie katokinda. Kawanuie maghimba limamiu kapakeisie sabo."
+  },
+  "68": {
+    "cia": "Kolie kaghuncu talikuno maskere."
+  },
+  "69": {
+    "cia": "Tampisano ilu"
+  },
+  "70": {
+    "cia": "topakee nomelengo pali."
+  },
+  "71": {
+    "cia": "Kakabhiemo maskeremiu ane nojahanamo. Kolie kapake maskere nakolabhimo aalo."
+  },
+  "72": {
+    "cia": "pikughi"
+  },
+  "73": {
+    "cia": ""
+  },
+  "74": {
+    "cia": "Ama"
+  },
+  "75": {
+    "cia": "Ina"
+  },
+  "76": {
+    "cia": "amia-amia"
+  },
+  "77": {
+    "cia": "Kolie kapikabhawaaso kamaa, maataa, tonde, mai handu."
+  },
+  "78": {
+    "cia": "Cia cumooli cughumuncu hulamu cupakeisie sikumu.. sobaepo."
+  },
+  "79": {
+    "cia": "Ane namimbali, cukamambe atawa cukahomompo bhobha kapakeiisie siku atawa bhobhose."
+  },
+  "80": {
+    "cia": "I kaana"
+  },
+  "81": {
+    "cia": "Kamina i kaghamaea"
+  },
+  "82": {
+    "cia": "Mina ciapo cukamaa"
+  },
+  "83": {
+    "cia": "Pikaneaisiie wanuie limamu kapakeisie sabo"
+  },
+  "84": {
+    "cia": "Pupusiano"
+  },
+  "85": {
+    "cia": "Sabo"
+  },
+  "86": {
+    "cia": "Kajaganie kamantaha- (miu kalian\u2019)!"
+  },
+  "87": {
+    "cia": "Kajaganie kamantaha- (miu kalian\u2019)!"
+  },
+  "88": {
+    "cia": "Sabo"
+  },
+  "89": {
+    "cia": "Kabacae kopomba agaano dhoghi i wawo"
+  },
+  "90": {
+    "cia": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "91": {
+    "cia": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "92": {
+    "cia": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion (Jan 28, 2020)"
+  },
+  "93": {
+    "cia": "Kapoomba Dhiaaso Tamantahaaso:"
+  },
+  "94": {
+    "cia": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+  },
+  "98": {
+    "cia": "O Leleno Virusu Korona",
+    "en": "About Coronavirus"
+  },
+  "99": {
+    "cia": "O Leleno Virusu Korona",
+    "en": "About Coronavirus"
+  },
+  "100": {
+    "cia": "O Leleno Virusu Korona",
+    "en": "About Coronavirus"
+  },
+  "106": {
+    "en": "Diterjemahkan dalam Bahasa Ciacia oleh La Yani Konisi"
+  },
+  "108": {
+    "en": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org"
+  },
+  "111": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

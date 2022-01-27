@@ -1,0 +1,399 @@
+{
+    "allTitles": "{\"en\":\"What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\",\"fr\":\"Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\",\"mgg\":\"Sa\u0301 \u0253i\u0301 da\u0304la\u0304 n\u025b \u025bgu\u0301 t\u0254\u0302p p\u0254\u0301s \u025bkpay \u025b \u0253\u025b\u0301 jo\u0304o\u0304\nnaa\u0301 Kolo\u0301na \u0254, \u0253\u025b\u0300 \u0253a\u0304ka\u0304 jo\u0304o\u0304\nnaa\u0301 Kovi-19 \u0254\"}",
+    "author": null,
+    "bookInstanceId": "c9d2950f-5055-4eaa-832e-605ae1b5c187",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,4797e2a5-bc4f-48a0-b988-e10ff8deb4bc,5ac3444b-2397-4a3e-ac07-9e4aeaf757b4",
+    "bookSamples": {
+        "0": {
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19",
+            "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+            "mgg": "Sa\u0301 \u0253i\u0301 da\u0304la\u0304 n\u025b \u025bgu\u0301 t\u0254\u0302p p\u0254\u0301s \u025bkpay \u025b \u0253\u025b\u0301 jo\u0304o\u0304\nnaa\u0301 Kolo\u0301na \u0254, \u0253\u025b\u0300 \u0253a\u0304ka\u0304 jo\u0304o\u0304\nnaa\u0301 Kovi-19 \u0254"
+        },
+        "1": {
+            "fra": "",
+            "mgg": ""
+        },
+        "2": {
+            "fra": "Association Camerounaise pour \ufeffla Traduction de la Bible et l'Alphab\u00e9tisation",
+            "mgg": "Go\u0301s \u0253o\u0301t o\u0304 \u0257i\u0301 ti\u0301 \u025btil M\u025bkana\u0301 m\u025b\u0301 Z\u025b\u0301mb n\u025b \u025blyak\u025bl \u0253o\u0301t \u0190la\u0301\u014b n\u025b \u0190til ti\u0301 il\u00fcii \u0253y\u0254\u0304\u0254\u0304 \u0253i\u0304k"
+        },
+        "3": {
+            "fra": "",
+            "mgg": ""
+        },
+        "4": {
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19",
+            "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+            "mgg": "Sa\u0301 \u0253i\u0301 da\u0304la\u0304 n\u025b \u025bgu\u0301 t\u0254\u0302p p\u0254\u0301s \u025bkpay \u025b \u0253\u025b\u0301 jo\u0304o\u0304\nnaa\u0301 Kolo\u0301na \u0254, \u0253\u025b\u0300 \u0253a\u0304ka\u0304 jo\u0304o\u0304\nnaa\u0301 Kovi-19 \u0254"
+        },
+        "5": {
+            "fra": "Les informations contenues dans ce livret \ufeffproviennent du site internet \ufeffde l'Organisation Mondiale de la Sant\u00e9 (OMS). https://www.who.int/fr/home",
+            "mgg": ""
+        },
+        "6": {
+            "fra": "",
+            "mgg": ""
+        },
+        "7": {
+            "fra": "",
+            "mgg": ""
+        },
+        "8": {
+            "fra": "Toutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\n\nContacts CABTAL\n\nWeb : www.cabtal.org\nMail : info_cabtal@cabtal.org\n\nTel : (237) 699 833 535\nWhatsApp : (237) 654 439 659\n\nB.P. : 16 550 Yaound\u00e9, Cameroun",
+            "mgg": ""
+        },
+        "9": {
+            "fra": "",
+            "mgg": ""
+        },
+        "10": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "11": {
+            "eng": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY",
+            "fra": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE",
+            "mgg": "M\u025bkana\u0304 ma\u0301k maa \u0253\u025b ti\u0301 \u025bsu l\u025b \u025b\u0301\u0253\u0254m. Th\u0254k \u025b, n\u0254l mo\u0304t a\u0304a\u0304 da\u0301la n\u025b \u025bcenj sin\u0254\u014b, gu th\u0254k \u025b da ny\u025bl \u025b\u0253\u025bla n\u025b m\u025b\u0301 \u0257ya\u014b ta ny\u025b\u0302 ji \u0253o\u0301t \u0253a kus m\u025bkana\u0301 m\u025bte\u0301k \u0253a\u0304k. Min m\u025b \u0253o\u0301t \u0253a si\u0301msa n\u025b \u025btil isa\u0301 ite\u0301k \u0253ak ma\u0304a\u0304 da\u0301la \u025b\u0257\u00fcisaa."
+        },
+        "12": {
+            "eng": "- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n",
+            "fra": "- Coronavirus\n- Personnes vuln\u00e9rables\n- Sympto\u0302mes\n- Transmission du coronavirus\n- Comment se prot\u00e9ger?\n- Que faire en cas de contamination?\n- D\u00e9finition des mots difficiles",
+            "mgg": "- P\u0254s \u025b\u0301kpay \u025b kolo\u0301na \u0253\u025b\u0301 \u0253a\u0301ka\u0304 jo\u0301o\u0301 naa\u0301 kovi 19 \u0254\n- \u0181ot o \u0257i\u0301 n\u025b khul \u025bnw\u0254\u014b \u025b\u0301kpay \u025bte\u0301k \u0253a\u0302k\n- \u0190do\u014bgla p\u0254\u0301s \u025bkpay \u025b\u0301 kolo\u0301na\n- Mind\u025bm mi \u025b\u0301kpay\n- \u018a\u025b mo\u0301t \u0257i\u0301\u0301 n\u025b khul \u025bkand\u0254\u0254 \u025b\u0301kpay e\u0302\n- Mot \u025b n\u025b khul \u025bsa\u0301 na\u0301 t\u025b\u0301m \u0257i\u0301 \u025b\u0301\u025b\u0301 nw\u0254\u014b \u025b\u0301kpay e\u0302\n- M\u025btia\u0301n m\u025b m\u025b\u0301k\u025b\u0301l m\u025b a\u0257ia\u0301\u0257ia\u0301\n"
+        },
+        "13": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "14": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "15": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "16": {
+            "eng": "p.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8",
+            "fra": "p.2\np.3\np.4\np.5\np.6\np.7\np.8",
+            "mgg": "p.2\n\np.3\np.4\np.5\np.6\np.8\n\np.9\u00a0"
+        },
+        "17": {
+            "eng": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+            "fra": "Le coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.",
+            "mgg": "P\u0254s \u025b\u0301kpay \u025b kolo\u0301na \u0253\u025b\u0301 \u0253a\u0301ka\u0304 jo\u0301o\u0301 naa\u0301 kovi 19 \u0254k\u025b, \u025b myenj p\u0254\u0301s \u025bkpay. \u0181a ny\u025bl \u025bm\u025bt mot n\u025b p\u0254\u0301s \u025bkpay te\u0301k \u0253\u025b Si\u0302n ti\u0301 \u025blu\u0301 m\u025bka\u0301m m\u025bl\u025b\u0304l n\u025b \u014bgwa\u0301t m\u025b \u014bg\u0254\u0301n m\u025bsil m\u025b mbu\u0301 2019. \u0190kpay \u025bte\u0304k li\u0301 m\u025b\u0304t mot \u0257\u025b\u030c k\u0254\u0301s. Li n\u025b khul \u025bkend mo\u0301t ti \u0253i\u0304l i\u0301t\u025b\u0301m \u0253\u025b \u025bs\u00fcee. \u0190kpay \u025b te\u0301k li\u0301i\u0301 dala\u030c thund o\u0301kanda ti\u0301 si\u0302 ny\u025b\u0302s. \u0181ot \u0253a\u0304a\u0304 gu gu\u0301 \u0253\u025b \u025b\u0301kpay \u025b te\u0301k \u025b \u0257\u00fcis e\u0302.\n"
+        },
+        "18": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "19": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "20": {
+            "eng": "Elderly person",
+            "fra": "Personne \u00e2g\u00e9e",
+            "mgg": "Oto\u0304mba\u0301"
+        },
+        "21": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "22": {
+            "eng": "Person with a heart condition or disease",
+            "fra": "Personne cardiaque ou souffrant de maladie",
+            "mgg": "Mot \u0257i n\u025b \u025bkpay \u025b te ti\u0301 lye\u0301m, gu th\u0254\u0301k \u0257i\u0301 n\u025b li\u0304l \u025b\u0301kpay e\u0302"
+        },
+        "23": {
+            "eng": "Vulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+            "fra": "Personnes vuln\u00e9rables\nLes personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.",
+            "mgg": "\u0181ot o \u0257i\u0301 n\u025b khul \u025bnw\u0254\u014b \u025b\u0301kpay \u025bte\u0301k \u0253a\u0302k\n\nMye\u0304nj p\u0254\u0301s \u025bkpay \u025bte\u0301k \u025b n\u025b khul \u025bni\u0301 mo\u0302t ny\u025b\u0302s tat ti\u0301 \u0253wa\u0301ath\u025bmb kum ti\u0301 oto\u0304mba\u0301, ti n\u025b \u0253ot o \u0257i\u0301 n\u025b m\u025b\u0304l m\u025b\u0301kpay \u0253a\u0302k, \u0257ak\u025b:\nK\u0254\u0301s phyo\u0304o\u0304, \u025bkpay \u025b m\u025b\u0301s\u0254s, m\u025bkpay m\u025b te ti\u0301 lye\u0301m ma\u0302k. \u0181i\u0301za\u0302\u014b ote\u0301k \u025b, \u0253\u025b\u0301 n\u025b khul \u025b\u0253il \u025b\u0301kpay \u025blyee lyel, ti t\u0254\u0302p p\u0254\u0301s \u0254n\u0254\u0302\u014b.\n"
+        },
+        "24": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "25": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "26": {
+            "eng": "Fever\nFatigue",
+            "fra": "- Fi\u00e8vre\n- Fatigue",
+            "mgg": "\u0190jwo\u0301\u014b \u025b no\u0302l\n\u0190tyak \u025b no\u0302l"
+        },
+        "27": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "28": {
+            "eng": "Dry cough\nMuscle aches and pains",
+            "fra": "- Toux s\u00e8che\n- Douleurs musculaires",
+            "mgg": "K\u0254\u0301s ta sa\u0301 m\u025bth\u0254mb\n\u0190kpay \u025b no\u0302l ny\u025b\u0302s"
+        },
+        "29": {
+            "eng": "Symptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+            "fra": "Les sympto\u0302mes\nLes sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.",
+            "mgg": "Mind\u025bm mi \u025b\u0301kpay\n\nMind\u025bm mi \u025bkpay \u025b kolona mi n\u0254\u014bla n\u025b mil mi\u0301 k\u0254\u0304sm:\nMil mimb\u025bl mite\u0301k mi ti\u0301 \u025bgwota \u025b\u0301kpay ti\u0301 no\u0302l ny\u025b\u0302s, n\u025b \u025b\u0257yuu \u025b \u0257o\u0302, n\u025b \u025bsyes \u025b \u0257o\u0302, m\u025bkpay m\u025b kho\u014bo\u0304lkho\u014bo\u0304l, n\u025b \u025bna\u0302k. I n\u025b \u0253\u025b\u0301l \u0253o\u0301t \u0257i\u0301 n\u025b p\u0254\u0301s \u025bkpay \u025bte\u0301k \u025b, ta nyen nd\u025bm te\u0301k ti\u0301 no\u0302l ny\u025b mot te\u0301k th\u0254\u0301k ta gwokta lil \u025bkpay ti\u0301 no\u0301 ny\u025b\u0301. Thund \u0253o\u0301t ti\u0301 nd\u0254\u014b w\u0254\u0254 \u0253\u025b\u0301 ti\u0301 \u025bcyuk ti \u025bkpay \u025bte\u0301k ta \u0253\u025b n\u025b \u0257om.\n"
+        },
+        "30": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "31": {
+            "eng": "Person with a cough",
+            "fra": "Personne qui tousse",
+            "mgg": "Mot \u0257i ti\u0301 \u025bk\u0254\u0301s \u0254\u0302"
+        },
+        "32": {
+            "eng": "Transmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+            "fra": "Transmission du coronavirus\nLe COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.",
+            "mgg": "\u018aak\u025b p\u0254\u0301s \u025bkpay \u025b kolo\u0301na do\u014bga e\u0302\n\nI \u0253ot o \u0257i n\u025b p\u0254\u0301s \u025bkpay \u025b\u0304 Kovit 19 \u0253a\u0301k do\u014bga\u0304 \u025b\u0301kpay \u025bte\u0302k. T\u025b\u0301m mb\u025b\u0301l te\u0301k k\u0254\u0302s, gu \u025b t\u0254y ek\u025b, \u025b ti\u0301 \u025bgb\u025b\u0301s i\u0301\u0257i\u0257yuu ti\u0301 \u0257o\u0301, gu\u0301 ti\u0301 nup. Mo\u030ct s\u00fcis i\u0257i\u0257yu\u0304u\u0304 na\u0304a\u0301\u014b nak, a\u0301a\u0301 nw\u0254\u014b \u025b\u0301kpay \u025bte\u0302k. Mo\u030ct wa\u0304 ku\u0301na n\u025b mis m\u025b\u0304, gu\u0301 \u0257o\u0301 l\u025b\u0301, gu\u0301 th\u0254\u0301k nup w\u025b\u0304 \u0254k\u025b, \u025b n\u025b khul \u025bnw\u0254\u014b \u025b\u0301kpay \u025bte\u0302k.\n"
+        },
+        "33": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "34": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "35": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "36": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "37": {
+            "eng": "How to protect yourself",
+            "fra": "Comment se prot\u00e9ger ?",
+            "mgg": "\u018a\u025b mo\u0301t da\u0304la\u0304 n\u025b \u025bka\u0301nd\u0254\u0254 \u025b\u0301kpay \u025btek e\u0302"
+        },
+        "38": {
+            "eng": "1. Avoid touching eyes, nose, mouth.",
+            "fra": "1. Eviter de se toucher les yeux, le nez, la bouche.",
+            "mgg": "1. Mot aa sa\u0301\u014b naa\u0301, \u025b ku\u0301na n\u025b mis m\u025b\u0304, n\u025b \u0257o\u0301 l\u025b\u0304, n\u025b nup w\u025b\u0304.\n"
+        },
+        "39": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "40": {
+            "eng": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel.",
+            "fra": "2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.",
+            "mgg": "2. \u0181i sis\u00fces\u025bl m\u025b\u0301\u0253\u0254\u0301 n\u025b m\u025b\u0257yuu, n\u025b sukla, \u0253i tind m\u025b\u0301 n\u025b tawol \u0257i ti\u0301 fup e\u0302.\n"
+        },
+        "41": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "42": {
+            "eng": "3. Cough and sneeze into the crook of your arm.\n",
+            "fra": "3. Tousser et \u00e9ternuer dans le creux de son bras.",
+            "mgg": "3. Mot \u025b nyu\u0302k mb\u0254\u0301, \u025b k\u0254\u030cs n\u025b \u025bt\u0254y ti\u0301 \u025bnis \u025bte\u0302k."
+        },
+        "43": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "44": {
+            "eng": "4. Avoid eating raw meat and touching live animals.",
+            "fra": "4. Eviter de manger de la viande crue et de toucher des animaux vivants.",
+            "mgg": "4. Kand\u0254\u0254ka\u0301 \u025b\u0257ee \u025b tit ta gu \u0253ee, n\u025b \u025bku\u0301na n\u025b oti\u0304t o \u0257i mikuu\u0301la \u0253a\u0302k. Ka\u0304nd\u0254\u0254ka\u0301 \u025bku\u0301na n\u025b \u0253ot o \u0257i\u0301 \u0253\u025b\u0301\u025b\u0301 to\u0301mba, n\u025b \u0253ot o\u0304 \u0257i\u0301 n\u025b m\u025bkpay \u0253a\u0302k."
+        },
+        "45": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "46": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "47": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "48": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "49": {
+            "eng": "5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n",
+            "fra": "5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.",
+            "mgg": "5. Paka \u0253ya\u0301 n\u025b mot \u0257i\u0301 ti\u0301 \u025bk\u0254\u0304s gu\u0301 \u025bt\u0254y \u0254k\u025b, i dala\u030c n\u025b \u025b\u0253\u025b m\u025bta \u014bgwa\u0301t.\n"
+        },
+        "50": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "51": {
+            "eng": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting.",
+            "fra": "6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.",
+            "mgg": "6. Ka\u0304nd\u0254\u0254ka\u0301 \u025b\u0253ata ti\u0301 \u025bkamb naa\u0301, \u0253yaa \u0253w\u0254\u0254 ku\u0301na. Da s\u00fcesolka\u0301 n\u025b lo\u0302, gu\u0301 th\u0254\u0301k n\u025b nup."
+        },
+        "52": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "53": {
+            "eng": "7. Avoid gatherings.\n",
+            "fra": "7. Eviter les rassemblements.",
+            "mgg": "7. \u0181yaa sa\u0301 igwesla."
+        },
+        "54": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "55": {
+            "eng": "8. Restrict movement.",
+            "fra": "8. Limiter ses d\u00e9placements.",
+            "mgg": "8. Mot aa ka\u0304 \u0253u\u030c ja\u0302\u014b."
+        },
+        "56": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "57": {
+            "eng": "9. Keep informed and verify the source of information.",
+            "fra": "9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.",
+            "mgg": "9. Mot aa da\u0301 m\u025b\u0301l\u0254\u0301 ti\u0301 isa\u0301 i \u0257i\u0301 ti\u0301 \u025bl\u025byaa \u0253i\u0302k. \u0181i\u0304 gu\u0301 timb\u025b\u030cl pyat mil\u0254\u0304\u014b mite\u0301k \u0257\u00fcis e\u0302."
+        },
+        "58": {
+            "eng": "What to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+            "fra": "Que faire en cas de contamination ?\nSi vous pr\u00e9sentez des sympto\u0302mes :\n- Evitez les contacts avec d'autres personnes. - Restez \u00e0 domicile.\n- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :",
+            "mgg": "Mot \u025b n\u025b khul \u025bsa\u0301 na\u0304 t\u025b\u0301m \u0257i \u025b\u0301\u025b\u0301 nw\u0254\u014b \u025bkpay e\u0302?\n\nT\u025b\u0301m \u0253i mu\u0301 n\u025b mind\u025bm mi \u025b\u0301kpay ek\u025b,\n- kand\u0254\u0304\u0254\u0304ka\u0301 \u025bku\u0301na n\u025b \u0253\u025b\u0301l \u0253o\u0304t.\n- \u018aika\u0301 \u0253\u025b minja\u0304a\u0304 myen.\n- Jo\u0304o\u0304ka\u0301 n\u025b l\u0254\u014bl\u0254\u014b ti\u0301 n\u0254mba 1510, \u0253i gwok m\u025blyo\u0304o\u0304 m\u025b od\u0259\u0259 \u0253\u025b i\u0301\u0257\u0254kta.\n\u0181i n\u025b khul \u025b\u0253aka\u0304 jo\u0301o\u0301 th\u0254\u0301k ti\u0301 in\u0254mba \u0253i\u0302k:"
+        },
+        "59": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "60": {
+            "eng": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979",
+            "fra": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713 979",
+            "mgg": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n"
+        },
+        "61": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "62": {
+            "eng": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761",
+            "fra": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113 761",
+            "mgg": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761"
+        },
+        "63": {
+            "eng": "",
+            "fra": "",
+            "mgg": ""
+        },
+        "64": {
+            "eng": "To date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them.",
+            "fra": "A ce jour, il n'existe aucun m\u00e9dicament capable de gu\u00e9rir du COVID-19 mais les autorit\u00e9s continuent les recherches pour trouver un traitement adapt\u00e9.\nChacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage.",
+            "mgg": "I kum ti\u0301 mwes ok\u025b\u0301 mus \u025b, \u0253aa \u0253a \u0253yela\u030c myet \u0257i\u0301 n\u025b khul \u025bjwom \u025b\u0301kpay \u025b\u0301 kolo\u0301na.\nSa\u0301 gwa\u0301t mi\u014bg\u0254\u0301mina mi\u0301 ti\u0301 \u025bt\u0254\u0301 n\u025b \u025bsa\u0301 mis\u0254\u014bo\u0302l mi\u0304 \u0257o\u0301m \u025b da\u0304la\u0304 n\u025b \u025bkpay \u025b te\u0301k e\u0302.\nMot ny\u025b mot te\u0301k \u0257i n\u025b cyuk y\u025b\u0301 ti\u0301 m\u025b\u0253\u0254\u0302. \u0190 dala\u030c n\u025b \u025bsa\u0301 tyaa isa\u0301 i \u0253o\u0301t sa\u0301 ti\u0301 \u025bkan\u0301d\u0254\u0254 \u025b\u0301kpay e\u0302, ti \u025bsu\u0301 l\u025b\u0301, n\u025b ti\u0301 m\u025bsu\u0301 m\u025b \u0253o\u0301t o nd\u0254\u014b y\u025b\u0304."
+        },
+        "65": {
+            "eng": "Definition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed",
+            "fra": "D\u00e9finition des mots difficiles\n\nAsthme : maladie respiratoire chronique\nConsignes : ordres, recommandations\nDiab\u00e8te : maladie qui se caract\u00e9rise par un taux de sucre trop \u00e9lev\u00e9 dans le sang\nEcoulement nasal : avoir le nez qui coule\nEtre contamin\u00e9 : e\u0302tre atteint par la maladie\nGrippe : maladie, rhume\nHypertension : augmentation anormale de la pression du sang sur la paroi des art\u00e8res\nInfect\u00e9 : atteint par la maladie\nInfection : maladie, \u00e9pid\u00e9mie\nPatient : malade\nPersistant : permanent, constant, continu\nSusceptible : capable, sensible\nSympto\u0302mes : signes, marques de la maladie\nTraitement : rem\u00e8de, m\u00e9dicaments\nVirus : agent causant la maladie\nVuln\u00e9rable : faible, \u00e0 risque",
+            "mgg": "M\u025btia\u0301n m\u025b m\u025b\u0301k\u025b\u0301l m\u025b a\u0257ia\u0301\u0257ia\u0301\n\nK\u0254sphyo\u0302: \u025bkpay \u025b \u0257i t\u025b\u0301m y\u025b\u0302sa ti\u0301 \u025bsa\u0301 naa\u0301, mot aa swes \u025bnw\u0254\u0254nw\u0254\u014b e\u0302\nM\u025bches\u025bl: ici\u0302\n\u0190kpay \u025b\u0301 m\u025b\u0301s\u0254s: \u025bkpay \u025b te\u0304k li\u0301 sa\u0301 mot t\u025b\u0301m \u0257i m\u025bs\u0254s m\u025b\u0301\u025b\u0301 lwond \u025b\u0301 ti\u0301 chia\u0301 e\u0302\n\u0190kpay l\u025b \u025b\u0257yat \u025b \u0257o\u0302: \u025bkpay \u025b te\u0301k li\u0301 sa\u0301 naa\u0301, \u0257o\u0301 \u025b mo\u0301t li \u0257i \u025bsyeesyes\n\u0190nw\u0254\u014b \u025b\u0301kpay: t\u025b\u0301m \u025b\u0301kpay \u0257i\u0301 li\u0301i\u0301 m\u025bt \u0254 e\u0302\nK\u0254\u0304s: \u025bkpay \u025b\u0301 k\u0254s \u025b sa\u0301 n\u025b \u025bjwo\u014b \u025b no\u0302l lik\n\u0190kpay \u025b ph\u025b\u0301lye\u0302m: T\u025b\u0301m chia\u0301 lwond ti\u0301 misis \u0257\u025b \u0257i ta dala e\u0302\n\u0190\u0257i n\u025b p\u0254\u0301s \u025bkpay: T\u025b\u0301m u\u0301 mu\u0301 n\u025b \u025bkpay e\u0302\n\u0190kpay: jum\nMb\u025bl: mot \u0257i\u0301 ti\u0301 \u025bkpay \u0254\u0302\nSyen: it\u025b\u0301m \u0253y\u025b\u0302s o\u0257ia o no\u0302l, ta si\nkhul \u025bsa\u0301 sin\u0254\u014b: ta kp\u025bnj i\u0301jum\nMind\u025bm mi \u025b\u0301kpay: isa\u0301 i\u0301 lyak\u025bl naa\u0301, mot \u025b\u0301 mu\u0301 n\u025b \u025bkpay e\u0302\n\u018aom: mimyet\nP\u0254s \u025bkpay: sa\u0301 te \u025bkpay e\u0302\nMot kpas \u025bnw\u0254\u014b \u025b\u0301kpay \u0254\u0302: ta \u0253w\u025by \u025bnw\u0254\u014b \u025b\u0301kpay\n"
+        },
+        "66": {
+            "fra": "",
+            "mgg": ""
+        },
+        "67": {
+            "fra": "Sa\u0301 \u0253i\u0301 da\u0304la\u0304 n\u025b \u025bgu\u0301 t\u0254\u0302p p\u0254\u0301s \u025bkpay \u025b \u0253\u025b\u0301 jo\u0304o\u0304 naa\u0301 Kolo\u0301na \u0254, \u0253\u025b\u0300 \u0253a\u0304ka\u0304 jo\u0304o\u0304 naa\u0301 Kovi-19 \u0254\n\u00a9 CABTAL, 2020",
+            "mgg": ""
+        }
+    },
+    "bookText": {
+        "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\n\n\n\nWhat you need to know about the\nCORONAVIRUS\nor\nCOVID-19\n\n\n\n\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY\n- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n\n\n\n\np.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8\nCoronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.\n\n\nElderly person\n\nPerson with a heart condition or disease\nVulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.\n\n\nFever\nFatigue\n\nDry cough\nMuscle aches and pains\nSymptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.\n\nPerson with a cough\nTransmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.\n\n\n\n\nHow to protect yourself\n1. Avoid touching eyes, nose, mouth.\n\n2. Wash your hands frequently with soap and running water. Then dry them with a clean towel.\n\n3. Cough and sneeze into the crook of your arm.\n\n\n4. Avoid eating raw meat and touching live animals.\n\n\n\n\n5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n\n\n6. Avoid shaking hands. Greet each other with a nod or a verbal greeting.\n\n7. Avoid gatherings.\n\n\n8. Restrict movement.\n\n9. Keep informed and verify the source of information.\nWhat to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\nTo date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them.\nDefinition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed\n\n",
+        "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\n\nAssociation Camerounaise pour \ufeffla Traduction de la Bible et l'Alphab\u00e9tisation\n\nCe que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\nLes informations contenues dans ce livret \ufeffproviennent du site internet \ufeffde l'Organisation Mondiale de la Sant\u00e9 (OMS). https://www.who.int/fr/home\n\n\nToutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\n\nContacts CABTAL\n\nWeb : www.cabtal.org\nMail : info_cabtal@cabtal.org\n\nTel : (237) 699 833 535\nWhatsApp : (237) 654 439 659\n\nB.P. : 16 550 Yaound\u00e9, Cameroun\n\n\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE\n- Coronavirus\n- Personnes vuln\u00e9rables\n- Sympto\u0302mes\n- Transmission du coronavirus\n- Comment se prot\u00e9ger?\n- Que faire en cas de contamination?\n- D\u00e9finition des mots difficiles\n\n\n\np.2\np.3\np.4\np.5\np.6\np.7\np.8\nLe coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.\n\n\nPersonne \u00e2g\u00e9e\n\nPersonne cardiaque ou souffrant de maladie\nPersonnes vuln\u00e9rables\nLes personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.\n\n\n- Fi\u00e8vre\n- Fatigue\n\n- Toux s\u00e8che\n- Douleurs musculaires\nLes sympto\u0302mes\nLes sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.\n\nPersonne qui tousse\nTransmission du coronavirus\nLe COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.\n\n\n\n\nComment se prot\u00e9ger ?\n1. Eviter de se toucher les yeux, le nez, la bouche.\n\n2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.\n\n3. Tousser et \u00e9ternuer dans le creux de son bras.\n\n4. Eviter de manger de la viande crue et de toucher des animaux vivants.\n\n\n\n\n5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.\n\n6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.\n\n7. Eviter les rassemblements.\n\n8. Limiter ses d\u00e9placements.\n\n9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.\nQue faire en cas de contamination ?\nSi vous pr\u00e9sentez des sympto\u0302mes :\n- Evitez les contacts avec d'autres personnes. - Restez \u00e0 domicile.\n- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713 979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113 761\n\nA ce jour, il n'existe aucun m\u00e9dicament capable de gu\u00e9rir du COVID-19 mais les autorit\u00e9s continuent les recherches pour trouver un traitement adapt\u00e9.\nChacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage.\nD\u00e9finition des mots difficiles\n\nAsthme : maladie respiratoire chronique\nConsignes : ordres, recommandations\nDiab\u00e8te : maladie qui se caract\u00e9rise par un taux de sucre trop \u00e9lev\u00e9 dans le sang\nEcoulement nasal : avoir le nez qui coule\nEtre contamin\u00e9 : e\u0302tre atteint par la maladie\nGrippe : maladie, rhume\nHypertension : augmentation anormale de la pression du sang sur la paroi des art\u00e8res\nInfect\u00e9 : atteint par la maladie\nInfection : maladie, \u00e9pid\u00e9mie\nPatient : malade\nPersistant : permanent, constant, continu\nSusceptible : capable, sensible\nSympto\u0302mes : signes, marques de la maladie\nTraitement : rem\u00e8de, m\u00e9dicaments\nVirus : agent causant la maladie\nVuln\u00e9rable : faible, \u00e0 risque\n\nSa\u0301 \u0253i\u0301 da\u0304la\u0304 n\u025b \u025bgu\u0301 t\u0254\u0302p p\u0254\u0301s \u025bkpay \u025b \u0253\u025b\u0301 jo\u0304o\u0304 naa\u0301 Kolo\u0301na \u0254, \u0253\u025b\u0300 \u0253a\u0304ka\u0304 jo\u0304o\u0304 naa\u0301 Kovi-19 \u0254\n\u00a9 CABTAL, 2020",
+        "mgg": "Sa\u0301 \u0253i\u0301 da\u0304la\u0304 n\u025b \u025bgu\u0301 t\u0254\u0302p p\u0254\u0301s \u025bkpay \u025b \u0253\u025b\u0301 jo\u0304o\u0304\nnaa\u0301 Kolo\u0301na \u0254, \u0253\u025b\u0300 \u0253a\u0304ka\u0304 jo\u0304o\u0304\nnaa\u0301 Kovi-19 \u0254\n\nGo\u0301s \u0253o\u0301t o\u0304 \u0257i\u0301 ti\u0301 \u025btil M\u025bkana\u0301 m\u025b\u0301 Z\u025b\u0301mb n\u025b \u025blyak\u025bl \u0253o\u0301t \u0190la\u0301\u014b n\u025b \u0190til ti\u0301 il\u00fcii \u0253y\u0254\u0304\u0254\u0304 \u0253i\u0304k\n\nSa\u0301 \u0253i\u0301 da\u0304la\u0304 n\u025b \u025bgu\u0301 t\u0254\u0302p p\u0254\u0301s \u025bkpay \u025b \u0253\u025b\u0301 jo\u0304o\u0304\nnaa\u0301 Kolo\u0301na \u0254, \u0253\u025b\u0300 \u0253a\u0304ka\u0304 jo\u0304o\u0304\nnaa\u0301 Kovi-19 \u0254\n\n\n\n\n\n\nM\u025bkana\u0304 ma\u0301k maa \u0253\u025b ti\u0301 \u025bsu l\u025b \u025b\u0301\u0253\u0254m. Th\u0254k \u025b, n\u0254l mo\u0304t a\u0304a\u0304 da\u0301la n\u025b \u025bcenj sin\u0254\u014b, gu th\u0254k \u025b da ny\u025bl \u025b\u0253\u025bla n\u025b m\u025b\u0301 \u0257ya\u014b ta ny\u025b\u0302 ji \u0253o\u0301t \u0253a kus m\u025bkana\u0301 m\u025bte\u0301k \u0253a\u0304k. Min m\u025b \u0253o\u0301t \u0253a si\u0301msa n\u025b \u025btil isa\u0301 ite\u0301k \u0253ak ma\u0304a\u0304 da\u0301la \u025b\u0257\u00fcisaa.\n- P\u0254s \u025b\u0301kpay \u025b kolo\u0301na \u0253\u025b\u0301 \u0253a\u0301ka\u0304 jo\u0301o\u0301 naa\u0301 kovi 19 \u0254\n- \u0181ot o \u0257i\u0301 n\u025b khul \u025bnw\u0254\u014b \u025b\u0301kpay \u025bte\u0301k \u0253a\u0302k\n- \u0190do\u014bgla p\u0254\u0301s \u025bkpay \u025b\u0301 kolo\u0301na\n- Mind\u025bm mi \u025b\u0301kpay\n- \u018a\u025b mo\u0301t \u0257i\u0301\u0301 n\u025b khul \u025bkand\u0254\u0254 \u025b\u0301kpay e\u0302\n- Mot \u025b n\u025b khul \u025bsa\u0301 na\u0301 t\u025b\u0301m \u0257i\u0301 \u025b\u0301\u025b\u0301 nw\u0254\u014b \u025b\u0301kpay e\u0302\n- M\u025btia\u0301n m\u025b m\u025b\u0301k\u025b\u0301l m\u025b a\u0257ia\u0301\u0257ia\u0301\n\n\n\n\np.2\n\np.3\np.4\np.5\np.6\np.8\n\np.9\u00a0\nP\u0254s \u025b\u0301kpay \u025b kolo\u0301na \u0253\u025b\u0301 \u0253a\u0301ka\u0304 jo\u0301o\u0301 naa\u0301 kovi 19 \u0254k\u025b, \u025b myenj p\u0254\u0301s \u025bkpay. \u0181a ny\u025bl \u025bm\u025bt mot n\u025b p\u0254\u0301s \u025bkpay te\u0301k \u0253\u025b Si\u0302n ti\u0301 \u025blu\u0301 m\u025bka\u0301m m\u025bl\u025b\u0304l n\u025b \u014bgwa\u0301t m\u025b \u014bg\u0254\u0301n m\u025bsil m\u025b mbu\u0301 2019. \u0190kpay \u025bte\u0304k li\u0301 m\u025b\u0304t mot \u0257\u025b\u030c k\u0254\u0301s. Li n\u025b khul \u025bkend mo\u0301t ti \u0253i\u0304l i\u0301t\u025b\u0301m \u0253\u025b \u025bs\u00fcee. \u0190kpay \u025b te\u0301k li\u0301i\u0301 dala\u030c thund o\u0301kanda ti\u0301 si\u0302 ny\u025b\u0302s. \u0181ot \u0253a\u0304a\u0304 gu gu\u0301 \u0253\u025b \u025b\u0301kpay \u025b te\u0301k \u025b \u0257\u00fcis e\u0302.\n\n\n\nOto\u0304mba\u0301\n\nMot \u0257i n\u025b \u025bkpay \u025b te ti\u0301 lye\u0301m, gu th\u0254\u0301k \u0257i\u0301 n\u025b li\u0304l \u025b\u0301kpay e\u0302\n\u0181ot o \u0257i\u0301 n\u025b khul \u025bnw\u0254\u014b \u025b\u0301kpay \u025bte\u0301k \u0253a\u0302k\n\nMye\u0304nj p\u0254\u0301s \u025bkpay \u025bte\u0301k \u025b n\u025b khul \u025bni\u0301 mo\u0302t ny\u025b\u0302s tat ti\u0301 \u0253wa\u0301ath\u025bmb kum ti\u0301 oto\u0304mba\u0301, ti n\u025b \u0253ot o \u0257i\u0301 n\u025b m\u025b\u0304l m\u025b\u0301kpay \u0253a\u0302k, \u0257ak\u025b:\nK\u0254\u0301s phyo\u0304o\u0304, \u025bkpay \u025b m\u025b\u0301s\u0254s, m\u025bkpay m\u025b te ti\u0301 lye\u0301m ma\u0302k. \u0181i\u0301za\u0302\u014b ote\u0301k \u025b, \u0253\u025b\u0301 n\u025b khul \u025b\u0253il \u025b\u0301kpay \u025blyee lyel, ti t\u0254\u0302p p\u0254\u0301s \u0254n\u0254\u0302\u014b.\n\n\n\n\u0190jwo\u0301\u014b \u025b no\u0302l\n\u0190tyak \u025b no\u0302l\n\nK\u0254\u0301s ta sa\u0301 m\u025bth\u0254mb\n\u0190kpay \u025b no\u0302l ny\u025b\u0302s\nMind\u025bm mi \u025b\u0301kpay\n\nMind\u025bm mi \u025bkpay \u025b kolona mi n\u0254\u014bla n\u025b mil mi\u0301 k\u0254\u0304sm:\nMil mimb\u025bl mite\u0301k mi ti\u0301 \u025bgwota \u025b\u0301kpay ti\u0301 no\u0302l ny\u025b\u0302s, n\u025b \u025b\u0257yuu \u025b \u0257o\u0302, n\u025b \u025bsyes \u025b \u0257o\u0302, m\u025bkpay m\u025b kho\u014bo\u0304lkho\u014bo\u0304l, n\u025b \u025bna\u0302k. I n\u025b \u0253\u025b\u0301l \u0253o\u0301t \u0257i\u0301 n\u025b p\u0254\u0301s \u025bkpay \u025bte\u0301k \u025b, ta nyen nd\u025bm te\u0301k ti\u0301 no\u0302l ny\u025b mot te\u0301k th\u0254\u0301k ta gwokta lil \u025bkpay ti\u0301 no\u0301 ny\u025b\u0301. Thund \u0253o\u0301t ti\u0301 nd\u0254\u014b w\u0254\u0254 \u0253\u025b\u0301 ti\u0301 \u025bcyuk ti \u025bkpay \u025bte\u0301k ta \u0253\u025b n\u025b \u0257om.\n\n\nMot \u0257i ti\u0301 \u025bk\u0254\u0301s \u0254\u0302\n\u018aak\u025b p\u0254\u0301s \u025bkpay \u025b kolo\u0301na do\u014bga e\u0302\n\nI \u0253ot o \u0257i n\u025b p\u0254\u0301s \u025bkpay \u025b\u0304 Kovit 19 \u0253a\u0301k do\u014bga\u0304 \u025b\u0301kpay \u025bte\u0302k. T\u025b\u0301m mb\u025b\u0301l te\u0301k k\u0254\u0302s, gu \u025b t\u0254y ek\u025b, \u025b ti\u0301 \u025bgb\u025b\u0301s i\u0301\u0257i\u0257yuu ti\u0301 \u0257o\u0301, gu\u0301 ti\u0301 nup. Mo\u030ct s\u00fcis i\u0257i\u0257yu\u0304u\u0304 na\u0304a\u0301\u014b nak, a\u0301a\u0301 nw\u0254\u014b \u025b\u0301kpay \u025bte\u0302k. Mo\u030ct wa\u0304 ku\u0301na n\u025b mis m\u025b\u0304, gu\u0301 \u0257o\u0301 l\u025b\u0301, gu\u0301 th\u0254\u0301k nup w\u025b\u0304 \u0254k\u025b, \u025b n\u025b khul \u025bnw\u0254\u014b \u025b\u0301kpay \u025bte\u0302k.\n\n\n\n\n\n\u018a\u025b mo\u0301t da\u0304la\u0304 n\u025b \u025bka\u0301nd\u0254\u0254 \u025b\u0301kpay \u025btek e\u0302\n1. Mot aa sa\u0301\u014b naa\u0301, \u025b ku\u0301na n\u025b mis m\u025b\u0304, n\u025b \u0257o\u0301 l\u025b\u0304, n\u025b nup w\u025b\u0304.\n\n\n2. \u0181i sis\u00fces\u025bl m\u025b\u0301\u0253\u0254\u0301 n\u025b m\u025b\u0257yuu, n\u025b sukla, \u0253i tind m\u025b\u0301 n\u025b tawol \u0257i ti\u0301 fup e\u0302.\n\n\n3. Mot \u025b nyu\u0302k mb\u0254\u0301, \u025b k\u0254\u030cs n\u025b \u025bt\u0254y ti\u0301 \u025bnis \u025bte\u0302k.\n\n4. Kand\u0254\u0254ka\u0301 \u025b\u0257ee \u025b tit ta gu \u0253ee, n\u025b \u025bku\u0301na n\u025b oti\u0304t o \u0257i mikuu\u0301la \u0253a\u0302k. Ka\u0304nd\u0254\u0254ka\u0301 \u025bku\u0301na n\u025b \u0253ot o \u0257i\u0301 \u0253\u025b\u0301\u025b\u0301 to\u0301mba, n\u025b \u0253ot o\u0304 \u0257i\u0301 n\u025b m\u025bkpay \u0253a\u0302k.\n\n\n\n\n5. Paka \u0253ya\u0301 n\u025b mot \u0257i\u0301 ti\u0301 \u025bk\u0254\u0304s gu\u0301 \u025bt\u0254y \u0254k\u025b, i dala\u030c n\u025b \u025b\u0253\u025b m\u025bta \u014bgwa\u0301t.\n\n\n6. Ka\u0304nd\u0254\u0254ka\u0301 \u025b\u0253ata ti\u0301 \u025bkamb naa\u0301, \u0253yaa \u0253w\u0254\u0254 ku\u0301na. Da s\u00fcesolka\u0301 n\u025b lo\u0302, gu\u0301 th\u0254\u0301k n\u025b nup.\n\n7. \u0181yaa sa\u0301 igwesla.\n\n8. Mot aa ka\u0304 \u0253u\u030c ja\u0302\u014b.\n\n9. Mot aa da\u0301 m\u025b\u0301l\u0254\u0301 ti\u0301 isa\u0301 i \u0257i\u0301 ti\u0301 \u025bl\u025byaa \u0253i\u0302k. \u0181i\u0304 gu\u0301 timb\u025b\u030cl pyat mil\u0254\u0304\u014b mite\u0301k \u0257\u00fcis e\u0302.\nMot \u025b n\u025b khul \u025bsa\u0301 na\u0304 t\u025b\u0301m \u0257i \u025b\u0301\u025b\u0301 nw\u0254\u014b \u025bkpay e\u0302?\n\nT\u025b\u0301m \u0253i mu\u0301 n\u025b mind\u025bm mi \u025b\u0301kpay ek\u025b,\n- kand\u0254\u0304\u0254\u0304ka\u0301 \u025bku\u0301na n\u025b \u0253\u025b\u0301l \u0253o\u0304t.\n- \u018aika\u0301 \u0253\u025b minja\u0304a\u0304 myen.\n- Jo\u0304o\u0304ka\u0301 n\u025b l\u0254\u014bl\u0254\u014b ti\u0301 n\u0254mba 1510, \u0253i gwok m\u025blyo\u0304o\u0304 m\u025b od\u0259\u0259 \u0253\u025b i\u0301\u0257\u0254kta.\n\u0181i n\u025b khul \u025b\u0253aka\u0304 jo\u0301o\u0301 th\u0254\u0301k ti\u0301 in\u0254mba \u0253i\u0302k:\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\nI kum ti\u0301 mwes ok\u025b\u0301 mus \u025b, \u0253aa \u0253a \u0253yela\u030c myet \u0257i\u0301 n\u025b khul \u025bjwom \u025b\u0301kpay \u025b\u0301 kolo\u0301na.\nSa\u0301 gwa\u0301t mi\u014bg\u0254\u0301mina mi\u0301 ti\u0301 \u025bt\u0254\u0301 n\u025b \u025bsa\u0301 mis\u0254\u014bo\u0302l mi\u0304 \u0257o\u0301m \u025b da\u0304la\u0304 n\u025b \u025bkpay \u025b te\u0301k e\u0302.\nMot ny\u025b mot te\u0301k \u0257i n\u025b cyuk y\u025b\u0301 ti\u0301 m\u025b\u0253\u0254\u0302. \u0190 dala\u030c n\u025b \u025bsa\u0301 tyaa isa\u0301 i \u0253o\u0301t sa\u0301 ti\u0301 \u025bkan\u0301d\u0254\u0254 \u025b\u0301kpay e\u0302, ti \u025bsu\u0301 l\u025b\u0301, n\u025b ti\u0301 m\u025bsu\u0301 m\u025b \u0253o\u0301t o nd\u0254\u014b y\u025b\u0304.\nM\u025btia\u0301n m\u025b m\u025b\u0301k\u025b\u0301l m\u025b a\u0257ia\u0301\u0257ia\u0301\n\nK\u0254sphyo\u0302: \u025bkpay \u025b \u0257i t\u025b\u0301m y\u025b\u0302sa ti\u0301 \u025bsa\u0301 naa\u0301, mot aa swes \u025bnw\u0254\u0254nw\u0254\u014b e\u0302\nM\u025bches\u025bl: ici\u0302\n\u0190kpay \u025b\u0301 m\u025b\u0301s\u0254s: \u025bkpay \u025b te\u0304k li\u0301 sa\u0301 mot t\u025b\u0301m \u0257i m\u025bs\u0254s m\u025b\u0301\u025b\u0301 lwond \u025b\u0301 ti\u0301 chia\u0301 e\u0302\n\u0190kpay l\u025b \u025b\u0257yat \u025b \u0257o\u0302: \u025bkpay \u025b te\u0301k li\u0301 sa\u0301 naa\u0301, \u0257o\u0301 \u025b mo\u0301t li \u0257i \u025bsyeesyes\n\u0190nw\u0254\u014b \u025b\u0301kpay: t\u025b\u0301m \u025b\u0301kpay \u0257i\u0301 li\u0301i\u0301 m\u025bt \u0254 e\u0302\nK\u0254\u0304s: \u025bkpay \u025b\u0301 k\u0254s \u025b sa\u0301 n\u025b \u025bjwo\u014b \u025b no\u0302l lik\n\u0190kpay \u025b ph\u025b\u0301lye\u0302m: T\u025b\u0301m chia\u0301 lwond ti\u0301 misis \u0257\u025b \u0257i ta dala e\u0302\n\u0190\u0257i n\u025b p\u0254\u0301s \u025bkpay: T\u025b\u0301m u\u0301 mu\u0301 n\u025b \u025bkpay e\u0302\n\u0190kpay: jum\nMb\u025bl: mot \u0257i\u0301 ti\u0301 \u025bkpay \u0254\u0302\nSyen: it\u025b\u0301m \u0253y\u025b\u0302s o\u0257ia o no\u0302l, ta si\nkhul \u025bsa\u0301 sin\u0254\u014b: ta kp\u025bnj i\u0301jum\nMind\u025bm mi \u025b\u0301kpay: isa\u0301 i\u0301 lyak\u025bl naa\u0301, mot \u025b\u0301 mu\u0301 n\u025b \u025bkpay e\u0302\n\u018aom: mimyet\nP\u0254s \u025bkpay: sa\u0301 te \u025bkpay e\u0302\nMot kpas \u025bnw\u0254\u014b \u025b\u0301kpay \u0254\u0302: ta \u0253w\u025by \u025bnw\u0254\u014b \u025b\u0301kpay\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "eng",
+        "mgg",
+        "fra"
+    ],
+    "copyright": "Copyright \u00a9 2020, CABTAL",
+    "country": "Cameroun",
+    "credits": "\r\nToutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\r\n\r\nContacts CABTAL\r\n\r\nWeb : www.cabtal.org\r\nMail : info_cabtal@cabtal.org\r\n\r\nTel : (237) 699 833 535\r\nWhatsApp : (237) 654 439 659\r\n\r\nB.P. : 16 550 Yaound\u00e9, Cameroun",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "TEPbprsn21"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "O4H7hNzC4n"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "Anglais",
+        "es": "Spanish",
+        "fr": "fran\u00e7ais",
+        "mgg": "Langue mpumpong"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "page-number-style": "Decimal",
+    "pageCount": 15,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Coronavirus COVID-19",
+    "tags": [],
+    "title": "Sa\u0301 \u0253i\u0301 da\u0304la\u0304 n\u025b \u025bgu\u0301 t\u0254\u0302p p\u0254\u0301s \u025bkpay \u025b \u0253\u025b\u0301 jo\u0304o\u0304\nnaa\u0301 Kolo\u0301na \u0254, \u0253\u025b\u0300 \u0253a\u0304ka\u0304 jo\u0304o\u0304\nnaa\u0301 Kovi-19 \u0254",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

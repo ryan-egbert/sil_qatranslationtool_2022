@@ -1,0 +1,332 @@
+{
+    "allTitles": "{\"cuh\":\"Mau\u0303ntu\u0303 mari\u0303a u\u0303batii\u0303 ku\u0303menya megii\u0303 mu\u0303rimo wa korona kana\u00a0 COVID-19\",\"en\":\"What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\"}",
+    "author": null,
+    "bookInstanceId": "3a725f58-7688-422e-ad2c-94f6948de3b0",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,4797e2a5-bc4f-48a0-b988-e10ff8deb4bc",
+    "bookSamples": {
+        "0": {
+            "cuh": "Mau\u0303ntu\u0303 mari\u0303a u\u0303batii\u0303 ku\u0303menya megii\u0303 mu\u0303rimo wa korona kana\u00a0 COVID-19",
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19"
+        },
+        "1": {
+            "cuh": "",
+            "eng": ""
+        },
+        "2": {
+            "cuh": "Ki\u0303ama ki\u0303a gu\u0303tau\u0303ra ki\u0303ri\u0303kani\u0303ro gi\u0303a Kameruni",
+            "eng": "Cameroon Association for\nBible Translation and Literacy"
+        },
+        "3": {
+            "cuh": "",
+            "eng": ""
+        },
+        "4": {
+            "cuh": "Mau\u0303ntu\u0303 mari\u0303a u\u0303batii\u0303 ku\u0303menya megii\u0303 mu\u0303rimo wa korona kana\u00a0 COVID-19",
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19"
+        },
+        "5": {
+            "cuh": "",
+            "eng": "The information in this booklet is taken\nfrom the\nWorld Health Organization (WHO)\nwebsite.\nhttps://www.who.int/home\nImages by CABTAL, \u00a9 2020 CABTAL. CC BY-NC-ND 4.0."
+        },
+        "6": {
+            "cuh": "",
+            "eng": "Special thanks to Wycliffe U.S. Bible Translators for funding the translation of this book."
+        },
+        "7": {
+            "cuh": "",
+            "eng": "Special thanks to Bible Translation & Literacy (E.A) and to Justus Mu\u0303gambi for translating this book. Special thanks to Betty Mu\u0303tegi and Kenford Mwi\u0303ti for reviewing and proofreading this book."
+        },
+        "8": {
+            "cuh": "",
+            "eng": "We acknowledge the original authors of this book, Cameroon Association for Bible Translators (CABTAL)."
+        },
+        "9": {
+            "cuh": "",
+            "eng": ""
+        },
+        "10": {
+            "cuh": "",
+            "eng": ""
+        },
+        "11": {
+            "cuh": "",
+            "eng": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY"
+        },
+        "12": {
+            "cuh": "",
+            "eng": "- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n"
+        },
+        "13": {
+            "cuh": "",
+            "eng": ""
+        },
+        "14": {
+            "cuh": "",
+            "eng": ""
+        },
+        "15": {
+            "cuh": "",
+            "eng": ""
+        },
+        "16": {
+            "cuh": "",
+            "eng": "p.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8"
+        },
+        "17": {
+            "cuh": "Mu\u0303rimo wa korona kana COVID-19 ni\u0303 mu\u0303rimo mweru\u0303. Mu\u0303rimo u\u0303yu\u0303 wo-nekanire rita ri\u0303a mbere nthi\u0303 ya Cai\u0303na tari\u0303ki 31 Mweri wa I\u0303ku\u0303mi na I\u0303i\u0303ri\u0303, 2019. Ndariri cia mu\u0303rimo u\u0303yu\u0303 ni\u0303 ta cia ncooma, na nwa u\u0303rage antu\u0303 mari\u0303a makanyagi\u0303ri\u0303rua mu\u0303no ni\u0303 u. Mu\u0303rimo u\u0303yu\u0303 ni\u0303u\u0303tambi\u0303tue nthi\u0303 mi\u0303ngi\u0303 mu\u0303no cia nthi\u0303 i\u0303no. Kaumo ka\u00a0mu\u0303rimo u\u0303yu\u0303 gatici\u0303kene nkinya ri\u0303u.",
+            "eng": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known."
+        },
+        "18": {
+            "cuh": "",
+            "eng": ""
+        },
+        "19": {
+            "cuh": "",
+            "eng": ""
+        },
+        "20": {
+            "cuh": "Mu\u0303ntu\u0303 mu\u0303ku\u0303ru\u0303",
+            "eng": "Elderly person"
+        },
+        "21": {
+            "cuh": "",
+            "eng": ""
+        },
+        "22": {
+            "cuh": "Mu\u0303ntu\u0303 u\u0303ri\u0303 na mu\u0303rimo wa nkoro",
+            "eng": "Person with a heart condition or disease"
+        },
+        "23": {
+            "cuh": "Antu\u0303 mari\u0303a mari\u0303 u\u0303gwatini\nAntu\u0303 ma mi\u0303aka yonthe nwa magwatwe ni\u0303 mu\u0303rimo u\u0303yu\u0303. Antu\u0303 aku\u0303ru\u0303 na mari\u0303a mari\u0303 na mi\u0303rimo i\u0303ngi\u0303 ta beeba, mu\u0303rimo wa cukari, mu\u0303rimo wa nkoro na gu\u0303camu\u0303ka nthakame nwa mabotwe mu\u0303no ni\u0303 mu\u0303rimo u\u0303yu\u0303.",
+            "eng": "Vulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus."
+        },
+        "24": {
+            "cuh": "",
+            "eng": ""
+        },
+        "25": {
+            "cuh": "",
+            "eng": ""
+        },
+        "26": {
+            "cuh": "Ku\u0303gi\u0303a mwanki mwi\u0303ri\u0303 na ku\u0303noga",
+            "eng": "Fever\nFatigue"
+        },
+        "27": {
+            "cuh": "",
+            "eng": ""
+        },
+        "28": {
+            "cuh": "Gu\u0303korora makorora mati\u0303kuuma",
+            "eng": "Dry cough\nMuscle aches and pains"
+        },
+        "29": {
+            "cuh": "Ndariri cia Korona\nNdariri cia mu\u0303rimo wa korona ni\u0303 ta cia ncooma: Ku\u0303gi\u0303a mwanki mwi\u0303ri\u0303, gu\u0303korora makorora mati\u0303kuuma, gu\u0303tuurwa nkiba na ku\u0303noga mwi\u0303ri\u0303 unthe. Arwaru mangi\u0303 megucaga u\u0303ru\u0303ru\u0303 mwi\u0303ri\u0303, makabinganua manyiu\u0303ru\u0303, magetu\u0303ru\u0303ra mamira, makagi\u0303a rwamba mi\u0303mero kana makabarwa. Arwaru mangi\u0303 namo gu\u0303ti\u0303bu megucaga mwi\u0303ri\u0303, wana wegua ni\u0303arwaru. Antu\u0303 engi\u0303 ni\u0303maboraga mati\u0303ku\u0303batara gu\u0303tiritwa ni\u0303 ndagi\u0303tari\u0303.",
+            "eng": "Symptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment."
+        },
+        "30": {
+            "cuh": "",
+            "eng": ""
+        },
+        "31": {
+            "cuh": "Mu\u0303ntu\u0303 u\u0303gu\u0303korora",
+            "eng": "Person with a cough"
+        },
+        "32": {
+            "cuh": "Bu\u0303ri\u0303a mu\u0303rimo wa korona u\u0303tambagua\nMu\u0303rimo wa korona u\u0303tambagua ni\u0303 antu\u0303 mari\u0303a arwaru mu\u0303rimo u\u0303nu. Ri\u0303ri\u0303a mu\u0303ntu\u0303 mu\u0303rwaru akorora kana atiiba, arutaga tu\u0303tanta na kanyua kana nyiu\u0303ru\u0303. Ri\u0303ri\u0303a mu\u0303ntu\u0303 u\u0303ngi\u0303 abeeba tu\u0303tanta tu\u0303u, ri\u0303u ni\u0303ri\u0303o agwatagwa ni\u0303 mu\u0303rimo wa korona. Na ri\u0303ngi\u0303, mu\u0303ntu\u0303 agwatagwa ni\u0303 korona ri\u0303ri\u0303a abu\u0303ru\u0303ria into iri\u0303a iri\u0303 na tu\u0303tanta tu\u0303ri\u0303a tu\u0303ri\u0303 na mu\u0303rimo aki\u0303neambata metho, mu\u0303romo kana nyiu\u0303ru\u0303.",
+            "eng": "Transmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected."
+        },
+        "33": {
+            "cuh": "",
+            "eng": ""
+        },
+        "34": {
+            "cuh": "",
+            "eng": ""
+        },
+        "35": {
+            "cuh": "",
+            "eng": ""
+        },
+        "36": {
+            "cuh": "",
+            "eng": ""
+        },
+        "37": {
+            "cuh": "Kwi\u0303rigi\u0303ri\u0303ria korona",
+            "eng": "How to protect yourself"
+        },
+        "38": {
+            "cuh": "1. U\u0303ti\u0303keambate nyiu\u0303ru\u0303, metho kana kanyua.",
+            "eng": "1. Avoid touching eyes, nose, mouth."
+        },
+        "39": {
+            "cuh": "",
+            "eng": ""
+        },
+        "40": {
+            "cuh": "\u00a02. Thambaga njara maita mengi\u0303 na ru\u0303nci\u0303 na thamuni, u\u0303ki\u0303negiria na gi\u0303tambaa ki\u0303theru na ki\u0303nyaru.",
+            "eng": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel."
+        },
+        "41": {
+            "cuh": "",
+            "eng": ""
+        },
+        "42": {
+            "cuh": "3.\u00a0 Ri\u0303ri\u0303a u\u0303gu\u0303korora kana gu\u0303tiiba, ku\u0303nja njara yaku u\u0303ki\u0303nakorora kana gu\u0303tiiba bo.",
+            "eng": "3. Cough and sneeze into the crook of your arm.\n"
+        },
+        "43": {
+            "cuh": "",
+            "eng": ""
+        },
+        "44": {
+            "cuh": "\u00a04. U\u0303ti\u0303kari\u0303e nyama iti\u0303nduge na u\u0303ti\u0303kambatangage nyamu\u0303 iri\u0303 mwoo.",
+            "eng": "4. Avoid eating raw meat and touching live animals."
+        },
+        "45": {
+            "cuh": "",
+            "eng": ""
+        },
+        "46": {
+            "cuh": "",
+            "eng": ""
+        },
+        "47": {
+            "cuh": "",
+            "eng": ""
+        },
+        "48": {
+            "cuh": "",
+            "eng": ""
+        },
+        "49": {
+            "cuh": "5. I\u0303kara makinywa mai\u0303ri\u0303 baraca na mu\u0303ntu\u0303 u\u0303ri\u0303a u\u0303gu\u0303korora kana u\u0303gu\u0303tiiba.",
+            "eng": "5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n"
+        },
+        "50": {
+            "cuh": "",
+            "eng": ""
+        },
+        "51": {
+            "cuh": "\u00a06. Tiga gu\u0303kethania na njara. I\u0303gania nkeethi cia kanyua aki\u0303.",
+            "eng": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting."
+        },
+        "52": {
+            "cuh": "",
+            "eng": ""
+        },
+        "53": {
+            "cuh": "\u00a07. Tiga ku\u0303thii\u0303 ki\u0303ri\u0303ndi\u0303ni.",
+            "eng": "7. Avoid gatherings.\n"
+        },
+        "54": {
+            "cuh": "",
+            "eng": ""
+        },
+        "55": {
+            "cuh": "8. Tigana na ku\u0303thii\u0303 ru\u0303gendo.",
+            "eng": "8. Restrict movement."
+        },
+        "56": {
+            "cuh": "",
+            "eng": ""
+        },
+        "57": {
+            "cuh": "9. I\u0303karaga u\u0303ki\u0303thikagi\u0303ri\u0303ria mageni megii\u0303 mu\u0303rimo u\u0303yu\u0303.",
+            "eng": "9. Keep informed and verify the source of information."
+        },
+        "58": {
+            "cuh": "U\u0303batii\u0303 ku\u0303ru\u0303tha ati\u0303a u\u0303gaca ku\u0303rwara?\nWegua u\u0303ri\u0303 na ndariri cia mu\u0303rimo:\n\u00a0\u00a0 -Tiga ku\u0303thii\u0303 antu\u0303ni\n\u00a0\u00a0 -I\u0303kara wenka\n\u00a0\u00a0 -I\u0303kara mu\u0303cii\u0303\n\u00a0\u00a0 -Ringa thimu\u0303 719 na u\u0303ki\u0303naru\u0303mi\u0303ri\u0303ra mataaro ma ndagi\u0303tari\u0303.",
+            "eng": "What to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:"
+        },
+        "59": {
+            "cuh": "",
+            "eng": ""
+        },
+        "60": {
+            "cuh": "",
+            "eng": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979"
+        },
+        "61": {
+            "cuh": "",
+            "eng": ""
+        },
+        "62": {
+            "cuh": "",
+            "eng": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761"
+        },
+        "63": {
+            "cuh": "",
+            "eng": ""
+        },
+        "64": {
+            "cuh": "Nkinya riu\u0303, gu\u0303ti\u0303na ndawa ya ku\u0303boria mu\u0303rimo wa korona. I\u0303ndi\u0303 athomi nwaka magu\u0303ceria ndawa iri\u0303a mbega cia ku\u0303ru\u0303a na mu\u0303rimo wa korona\nWa mu\u0303ntu\u0303 nwa nkinya emenyerere na amenyerere antu\u0303 mari\u0303a mari\u0303 bakubi\u0303 nawe.",
+            "eng": "To date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them."
+        },
+        "65": {
+            "cuh": "",
+            "eng": "Definition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed"
+        },
+        "66": {
+            "cuh": "",
+            "eng": ""
+        },
+        "67": {
+            "cuh": "",
+            "eng": "What you need to know about the CORONAVIRUS or COVID-19\n\n\u00a9 CABTAL, 2020\n"
+        }
+    },
+    "bookText": {
+        "cuh": "Mau\u0303ntu\u0303 mari\u0303a u\u0303batii\u0303 ku\u0303menya megii\u0303 mu\u0303rimo wa korona kana\u00a0 COVID-19\n\nKi\u0303ama ki\u0303a gu\u0303tau\u0303ra ki\u0303ri\u0303kani\u0303ro gi\u0303a Kameruni\n\nMau\u0303ntu\u0303 mari\u0303a u\u0303batii\u0303 ku\u0303menya megii\u0303 mu\u0303rimo wa korona kana\u00a0 COVID-19\n\n\n\n\n\n\n\n\n\n\n\n\nMu\u0303rimo wa korona kana COVID-19 ni\u0303 mu\u0303rimo mweru\u0303. Mu\u0303rimo u\u0303yu\u0303 wo-nekanire rita ri\u0303a mbere nthi\u0303 ya Cai\u0303na tari\u0303ki 31 Mweri wa I\u0303ku\u0303mi na I\u0303i\u0303ri\u0303, 2019. Ndariri cia mu\u0303rimo u\u0303yu\u0303 ni\u0303 ta cia ncooma, na nwa u\u0303rage antu\u0303 mari\u0303a makanyagi\u0303ri\u0303rua mu\u0303no ni\u0303 u. Mu\u0303rimo u\u0303yu\u0303 ni\u0303u\u0303tambi\u0303tue nthi\u0303 mi\u0303ngi\u0303 mu\u0303no cia nthi\u0303 i\u0303no. Kaumo ka\u00a0mu\u0303rimo u\u0303yu\u0303 gatici\u0303kene nkinya ri\u0303u.\n\n\nMu\u0303ntu\u0303 mu\u0303ku\u0303ru\u0303\n\nMu\u0303ntu\u0303 u\u0303ri\u0303 na mu\u0303rimo wa nkoro\nAntu\u0303 mari\u0303a mari\u0303 u\u0303gwatini\nAntu\u0303 ma mi\u0303aka yonthe nwa magwatwe ni\u0303 mu\u0303rimo u\u0303yu\u0303. Antu\u0303 aku\u0303ru\u0303 na mari\u0303a mari\u0303 na mi\u0303rimo i\u0303ngi\u0303 ta beeba, mu\u0303rimo wa cukari, mu\u0303rimo wa nkoro na gu\u0303camu\u0303ka nthakame nwa mabotwe mu\u0303no ni\u0303 mu\u0303rimo u\u0303yu\u0303.\n\n\nKu\u0303gi\u0303a mwanki mwi\u0303ri\u0303 na ku\u0303noga\n\nGu\u0303korora makorora mati\u0303kuuma\nNdariri cia Korona\nNdariri cia mu\u0303rimo wa korona ni\u0303 ta cia ncooma: Ku\u0303gi\u0303a mwanki mwi\u0303ri\u0303, gu\u0303korora makorora mati\u0303kuuma, gu\u0303tuurwa nkiba na ku\u0303noga mwi\u0303ri\u0303 unthe. Arwaru mangi\u0303 megucaga u\u0303ru\u0303ru\u0303 mwi\u0303ri\u0303, makabinganua manyiu\u0303ru\u0303, magetu\u0303ru\u0303ra mamira, makagi\u0303a rwamba mi\u0303mero kana makabarwa. Arwaru mangi\u0303 namo gu\u0303ti\u0303bu megucaga mwi\u0303ri\u0303, wana wegua ni\u0303arwaru. Antu\u0303 engi\u0303 ni\u0303maboraga mati\u0303ku\u0303batara gu\u0303tiritwa ni\u0303 ndagi\u0303tari\u0303.\n\nMu\u0303ntu\u0303 u\u0303gu\u0303korora\nBu\u0303ri\u0303a mu\u0303rimo wa korona u\u0303tambagua\nMu\u0303rimo wa korona u\u0303tambagua ni\u0303 antu\u0303 mari\u0303a arwaru mu\u0303rimo u\u0303nu. Ri\u0303ri\u0303a mu\u0303ntu\u0303 mu\u0303rwaru akorora kana atiiba, arutaga tu\u0303tanta na kanyua kana nyiu\u0303ru\u0303. Ri\u0303ri\u0303a mu\u0303ntu\u0303 u\u0303ngi\u0303 abeeba tu\u0303tanta tu\u0303u, ri\u0303u ni\u0303ri\u0303o agwatagwa ni\u0303 mu\u0303rimo wa korona. Na ri\u0303ngi\u0303, mu\u0303ntu\u0303 agwatagwa ni\u0303 korona ri\u0303ri\u0303a abu\u0303ru\u0303ria into iri\u0303a iri\u0303 na tu\u0303tanta tu\u0303ri\u0303a tu\u0303ri\u0303 na mu\u0303rimo aki\u0303neambata metho, mu\u0303romo kana nyiu\u0303ru\u0303.\n\n\n\n\nKwi\u0303rigi\u0303ri\u0303ria korona\n1. U\u0303ti\u0303keambate nyiu\u0303ru\u0303, metho kana kanyua.\n\n\u00a02. Thambaga njara maita mengi\u0303 na ru\u0303nci\u0303 na thamuni, u\u0303ki\u0303negiria na gi\u0303tambaa ki\u0303theru na ki\u0303nyaru.\n\n3.\u00a0 Ri\u0303ri\u0303a u\u0303gu\u0303korora kana gu\u0303tiiba, ku\u0303nja njara yaku u\u0303ki\u0303nakorora kana gu\u0303tiiba bo.\n\n\u00a04. U\u0303ti\u0303kari\u0303e nyama iti\u0303nduge na u\u0303ti\u0303kambatangage nyamu\u0303 iri\u0303 mwoo.\n\n\n\n\n5. I\u0303kara makinywa mai\u0303ri\u0303 baraca na mu\u0303ntu\u0303 u\u0303ri\u0303a u\u0303gu\u0303korora kana u\u0303gu\u0303tiiba.\n\n\u00a06. Tiga gu\u0303kethania na njara. I\u0303gania nkeethi cia kanyua aki\u0303.\n\n\u00a07. Tiga ku\u0303thii\u0303 ki\u0303ri\u0303ndi\u0303ni.\n\n8. Tigana na ku\u0303thii\u0303 ru\u0303gendo.\n\n9. I\u0303karaga u\u0303ki\u0303thikagi\u0303ri\u0303ria mageni megii\u0303 mu\u0303rimo u\u0303yu\u0303.\nU\u0303batii\u0303 ku\u0303ru\u0303tha ati\u0303a u\u0303gaca ku\u0303rwara?\nWegua u\u0303ri\u0303 na ndariri cia mu\u0303rimo:\n\u00a0\u00a0 -Tiga ku\u0303thii\u0303 antu\u0303ni\n\u00a0\u00a0 -I\u0303kara wenka\n\u00a0\u00a0 -I\u0303kara mu\u0303cii\u0303\n\u00a0\u00a0 -Ringa thimu\u0303 719 na u\u0303ki\u0303naru\u0303mi\u0303ri\u0303ra mataaro ma ndagi\u0303tari\u0303.\n\n\n\n\n\nNkinya riu\u0303, gu\u0303ti\u0303na ndawa ya ku\u0303boria mu\u0303rimo wa korona. I\u0303ndi\u0303 athomi nwaka magu\u0303ceria ndawa iri\u0303a mbega cia ku\u0303ru\u0303a na mu\u0303rimo wa korona\nWa mu\u0303ntu\u0303 nwa nkinya emenyerere na amenyerere antu\u0303 mari\u0303a mari\u0303 bakubi\u0303 nawe.\n\n\n",
+        "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\n\nCameroon Association for\nBible Translation and Literacy\n\nWhat you need to know about the\nCORONAVIRUS\nor\nCOVID-19\nThe information in this booklet is taken\nfrom the\nWorld Health Organization (WHO)\nwebsite.\nhttps://www.who.int/home\nImages by CABTAL, \u00a9 2020 CABTAL. CC BY-NC-ND 4.0.\nSpecial thanks to Wycliffe U.S. Bible Translators for funding the translation of this book.\nSpecial thanks to Bible Translation & Literacy (E.A) and to Justus Mu\u0303gambi for translating this book. Special thanks to Betty Mu\u0303tegi and Kenford Mwi\u0303ti for reviewing and proofreading this book.\nWe acknowledge the original authors of this book, Cameroon Association for Bible Translators (CABTAL).\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY\n- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n\n\n\n\np.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8\nCoronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.\n\n\nElderly person\n\nPerson with a heart condition or disease\nVulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.\n\n\nFever\nFatigue\n\nDry cough\nMuscle aches and pains\nSymptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.\n\nPerson with a cough\nTransmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.\n\n\n\n\nHow to protect yourself\n1. Avoid touching eyes, nose, mouth.\n\n2. Wash your hands frequently with soap and running water. Then dry them with a clean towel.\n\n3. Cough and sneeze into the crook of your arm.\n\n\n4. Avoid eating raw meat and touching live animals.\n\n\n\n\n5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n\n\n6. Avoid shaking hands. Greet each other with a nod or a verbal greeting.\n\n7. Avoid gatherings.\n\n\n8. Restrict movement.\n\n9. Keep informed and verify the source of information.\nWhat to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\nTo date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them.\nDefinition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed\n\nWhat you need to know about the CORONAVIRUS or COVID-19\n\n\u00a9 CABTAL, 2020\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "cuh",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Bible Translation & Literacy (E.A) Licenced under CC BY-NC 4.0",
+    "country": "Kenya",
+    "credits": "We acknowledge the original authors of this book, Cameroon Association for Bible Translators (CABTAL).",
+    "district": "Chuka",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "BSGHdP5AWJ"
+        }
+    ],
+    "language-display-names": {
+        "cuh": "Gichuka",
+        "en": "English"
+    },
+    "languages": [],
+    "license": "cc-by-nc",
+    "licenseNotes": null,
+    "originalPublisher": "",
+    "page-number-style": "Decimal",
+    "pageCount": 15,
+    "province": "Tharaka Nithi County",
+    "publisher": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Coronavirus COVID-19",
+    "tags": [],
+    "title": "Mau\u0303ntu\u0303 mari\u0303a u\u0303batii\u0303 ku\u0303menya megii\u0303 mu\u0303rimo wa korona kana\u00a0 COVID-19",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

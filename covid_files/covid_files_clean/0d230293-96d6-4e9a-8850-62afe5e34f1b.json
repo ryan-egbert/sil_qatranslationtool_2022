@@ -1,0 +1,117 @@
+{
+    "allTitles": "{\"en\":\"Imanutaq COVID-19 qishayqa mana aypamashun\",\"es\":\"Como prevenir el COVID-19\",\"quf\":\"Como prevenir el COVID-19\"}",
+    "author": null,
+    "bookInstanceId": "0d230293-96d6-4e9a-8850-62afe5e34f1b",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+    "bookSamples": {
+        "0": {
+            "eng": "Imanutaq COVID-19 qishayqa mana aypamashun",
+            "quf": "Como prevenir el COVID-19",
+            "spa": "Como prevenir el COVID-19\n"
+        },
+        "1": {
+            "eng": "",
+            "quf": "",
+            "spa": ""
+        },
+        "2": {
+            "spa": ""
+        },
+        "3": {
+            "spa": ""
+        },
+        "4": {
+            "eng": "Imanutaq COVID-19 qishayqa mana aypamashun",
+            "quf": "Como prevenir el COVID-19",
+            "spa": "Como prevenir el COVID-19\n"
+        },
+        "5": {
+            "spa": "Ilustraciones:\u00a0 Claudia Rugamas\nOriginal: Imanutaq COVID-19 shutiq qishayqa mana aypamashunchu\nTraducido por: Lambayeque OT translation Team\n\nLa informaci\u00f3n se tom\u00f3 de los sitios web\ufeffde la Organizaci\u00f3n Mundial de la Salud (OMS), como:\ufeffhttps://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\n\nVersi\u00f3n 27.3.2020"
+        },
+        "6": {
+            "spa": "OT Translation Team\u00a0"
+        },
+        "7": {
+            "spa": "Ilustraciones: Claudia Rugamas\nOriginal: Imanutaq COVID-19 shutiq qishayqa mana aypamashunchu\ufeffTraducci\u00f3n: Lambayeque OT Translation Team"
+        },
+        "8": {
+            "spa": ""
+        },
+        "9": {
+            "spa": ""
+        },
+        "10": {
+            "spa": "L\u00e1vese las manos con jabon varias veces. O fr\u00f3tese las manos con alcohol gel."
+        },
+        "11": {
+            "spa": "Si no se ha lavado las manos, no se toque los ojos, la nariz ni la boca."
+        },
+        "12": {
+            "spa": "C\u00fabrase la boca y la nariz con el brazo o con un pa\u00f1uelo de papel cuando tosa o estornude. Deseche el pa\u00f1uelo usado inmediatamente."
+        },
+        "13": {
+            "spa": "Mantenga una distancia de 2 metros entre usted y los dem\u00e1s. No viaje a otros lugares, si no es necesario."
+        },
+        "14": {
+            "spa": "Se siente enfermo, qu\u00e9dese en casa. Si tiene fiebre, tos y dificultades respiratorias, vaya a la posta r\u00e1pidamente."
+        },
+        "15": {
+            "spa": "Mant\u00e9ngase informado sobre las \u00faltimas noticias sobre el COVID-19. Siga los consejos del Ministerio de Salud."
+        },
+        "16": {
+            "spa": ""
+        },
+        "17": {
+            "spa": ""
+        }
+    },
+    "bookText": {
+        "eng": "Imanutaq COVID-19 qishayqa mana aypamashun\n\n\n\nImanutaq COVID-19 qishayqa mana aypamashun\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "quf": "Como prevenir el COVID-19\n\n\n\nComo prevenir el COVID-19\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "spa": "Como prevenir el COVID-19\n\n\n\n\nComo prevenir el COVID-19\n\nIlustraciones:\u00a0 Claudia Rugamas\nOriginal: Imanutaq COVID-19 shutiq qishayqa mana aypamashunchu\nTraducido por: Lambayeque OT translation Team\n\nLa informaci\u00f3n se tom\u00f3 de los sitios web\ufeffde la Organizaci\u00f3n Mundial de la Salud (OMS), como:\ufeffhttps://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\n\nVersi\u00f3n 27.3.2020\nOT Translation Team\u00a0\nIlustraciones: Claudia Rugamas\nOriginal: Imanutaq COVID-19 shutiq qishayqa mana aypamashunchu\ufeffTraducci\u00f3n: Lambayeque OT Translation Team\n\n\nL\u00e1vese las manos con jabon varias veces. O fr\u00f3tese las manos con alcohol gel.\nSi no se ha lavado las manos, no se toque los ojos, la nariz ni la boca.\nC\u00fabrase la boca y la nariz con el brazo o con un pa\u00f1uelo de papel cuando tosa o estornude. Deseche el pa\u00f1uelo usado inmediatamente.\nMantenga una distancia de 2 metros entre usted y los dem\u00e1s. No viaje a otros lugares, si no es necesario.\nSe siente enfermo, qu\u00e9dese en casa. Si tiene fiebre, tos y dificultades respiratorias, vaya a la posta r\u00e1pidamente.\nMant\u00e9ngase informado sobre las \u00faltimas noticias sobre el COVID-19. Siga los consejos del Ministerio de Salud.\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "quf",
+        "spa",
+        "eng"
+    ],
+    "copyright": null,
+    "country": "Per\u00fa",
+    "credits": "",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "OPstilX0pe"
+        }
+    ],
+    "language-display-names": {
+        "es": "Spanish",
+        "quf": "Quechua, Lambayeque"
+    },
+    "languages": [],
+    "license": "cc-by-nc",
+    "licenseNotes": null,
+    "page-number-style": "Decimal",
+    "pageCount": 12,
+    "province": "Lambayeque",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": null,
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Como prevenir el COVID-19",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

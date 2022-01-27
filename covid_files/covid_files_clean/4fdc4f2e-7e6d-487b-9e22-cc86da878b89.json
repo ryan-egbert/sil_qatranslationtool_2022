@@ -1,0 +1,389 @@
+{
+    "allTitles": "{\"ahk\":\"Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\",\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"kvt\":\"Koq loq naq nal goel daq ma nail ganl\"}",
+    "author": null,
+    "bookInstanceId": "4fdc4f2e-7e6d-487b-9e22-cc86da878b89",
+    "bookLineage": "",
+    "bookSamples": {
+        "0": {
+            "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "kvt": "Koq loq naq nal goel daq ma nail ganl",
+            "mqt": "",
+            "spa": "Sobre el Coronavirus"
+        },
+        "1": {
+            "eng": "",
+            "kvt": "",
+            "mqt": ""
+        },
+        "2": {
+            "eng": "",
+            "kvt": "",
+            "mqt": ""
+        },
+        "3": {
+            "kvt": ""
+        },
+        "4": {
+            "kvt": "Koq loq naq nal goel neq khal heel nail nal goel dai\nAq meeq meeq dai heeq kivq nail loq nail ngaol.\n"
+        },
+        "5": {
+            "kvt": "Niaoq lal khi el-ail nia nail ganl."
+        },
+        "6": {
+            "kvt": ""
+        },
+        "7": {
+            "kvt": "Moeq thaoq\n"
+        },
+        "8": {
+            "kvt": "Nal bhaoq\n"
+        },
+        "9": {
+            "kvt": "Maiv neev\n"
+        },
+        "10": {
+            "kvt": "Naoq nail lavq khoel bhai aq duq niil\njuq nee aol-Ail nia nail ngaol.\n"
+        },
+        "11": {
+            "kvt": "Jaol hal dov\nnail tsaol-aq"
+        },
+        "12": {
+            "kvt": "Nal goel aol\nnail tsaol-aq\n"
+        },
+        "13": {
+            "kvt": "Ul lul niil jiav khal ail haq neq nal\ngoel mao dai el-ail nia nail ngaol.\n"
+        },
+        "14": {
+            "kvt": ""
+        },
+        "15": {
+            "kvt": "Liq cav khaiq nail bhai jaol nail bhaq da nee nal\ngoel aq ma bhoel leevq nail nee bhuq-ail lao ail\nnail\u00a0 ngaol."
+        },
+        "16": {
+            "kvt": "1"
+        },
+        "17": {
+            "kvt": "Liq cav"
+        },
+        "18": {
+            "kvt": "Hal tsiq"
+        },
+        "19": {
+            "kvt": "Al heel ngel-i mail tsaol-aq teevq gaq civq nieivq tsiq\u00a0 nail hal tsiq tsiq nail coevq sil nail niil juq bhai moel lal haq\u00a0 neq, pul-nvq khe gevq-ai thaq nail khe-ai ya nl nail ngaol.\n"
+        },
+        "20": {
+            "kvt": "Aq yu juq bhai moeq bhaoq-ai pavq cuvq nail(Mask)\nbivq yaoq. Al moeq bhaoq bhai pavq cuvq nail yuq nail\nbhaq da nee aq yu juq mail hal tsiq tsiq nail civq nieivq\ntsiq nail al juq yu bhai maq niaoq-ail nia-ail.\n"
+        },
+        "21": {
+            "kvt": "2"
+        },
+        "22": {
+            "kvt": "Geeq laoq eeq naol\n(Nal eel dov nail juq)\n"
+        },
+        "23": {
+            "kvt": "Maq ngel haq neq\n"
+        },
+        "24": {
+            "kvt": "Aivq maq coevq sil gaoq neq, aiqv bhai aivq maq bhi niaoq lal dai yaol phaol nail gail pevq nia nail ngaol."
+        },
+        "25": {
+            "kvt": "Nal goel niaoq lal khi ngaol-aoq nal goel nail se khi se laq maq dov lal dai jiav nia nail ngaol. Al hai ngaol-aoq neq nal goel neq niaoq lai nia nail ngaol.\n"
+        },
+        "26": {
+            "kvt": "Khaq sil gaq bhai nal goel niaoq nail dai maq\nheeq kivq Nail ngel-I mail ge gal laq-u bhai\ntsoal-aq bhoi nail aq duq bhai yaol phaol yaoq.\n"
+        },
+        "27": {
+            "kvt": "Thul-nq\n"
+        },
+        "28": {
+            "kvt": "Jaol hal dov nail juq\n"
+        },
+        "29": {
+            "kvt": "Yaq thal/laoq liq nail aq lavq nioi thaiq duq\n"
+        },
+        "30": {
+            "kvt": "Cav nail thaoq joe khe thoiq nail nl maoq\n"
+        },
+        "31": {
+            "kvt": "Moeq bhao siv nail gal lal\n"
+        },
+        "32": {
+            "kvt": "Ul cuvq daol nail khaoq-aq-nq\n"
+        },
+        "33": {
+            "kvt": "Cav nail nl maoq teevq phaq ga nav\n"
+        },
+        "34": {
+            "kvt": "Moeq bhao-ai pavq cuvq nail nil maoq(mask) nail lavq niil phao khe\n"
+        },
+        "35": {
+            "kvt": "Thaoq joe nail lavq heiv\n"
+        },
+        "36": {
+            "kvt": "koq-nq piq-uq taq khe\nyuq nail ov cavq"
+        },
+        "37": {
+            "kvt": "Haoq gaqv gevq nail dail kheq"
+        },
+        "38": {
+            "kvt": "Lol gov gov bhaq"
+        },
+        "39": {
+            "kvt": "Aq yu juq nail aq lavq\n"
+        },
+        "40": {
+            "kvt": "Al uq tavq coevq sil nail juq nail thaiq khaq neq teevq povq ga nav yal kav lov kav bhai gail niaoq nia nail ngaol. Daoq ma uq huq daoq_"
+        },
+        "41": {
+            "kvt": "Nul juq iq sanl mail coevq sill al nia khi nal goel niaoq lal nia nail ngaol."
+        },
+        "42": {
+            "kvt": "Naol gaiq-a nail gaq nail maiv phaoq bhai aq-eel lav yao\nhaq neq\n"
+        },
+        "43": {
+            "kvt": "Maiv neev bhai aq-eel gaiq yaoq lai haq neq\n"
+        },
+        "44": {
+            "kvt": "Ge gal lavq-u bhai nl maoq thoil juq teevq phaq ga nav\n\u00a0Bhai naol nioi thaiq khi naoq nail maiv phaoq bhai gaoq\nbhi yao lai haq neq\n"
+        },
+        "45": {
+            "kvt": "Thoil thai deeq teev yaol phaol nail gal duq neq aq lavq\n\u00a0bhai sav bhaiq-aq mail maq ngel haq kaoq haol kheq nail\nul lul mail aq meeq meeq dai ya tsiq nail ngaol."
+        },
+        "46": {
+            "kvt": "Nal goel aq ma niil neq nl maoq yal kav nail kov tavq bhai Naq li mao dai lavq aq doevq doevq khi jaol niia nail ngaol."
+        },
+        "47": {
+            "kvt": "Sav bhaiq-aq\n"
+        },
+        "48": {
+            "kvt": ""
+        },
+        "49": {
+            "kvt": "Nal goel maq bhiq niaoq lal dai iq moeq ya laiq-nq gai Nail (5) phaq"
+        },
+        "50": {
+            "kvt": "Niil juq bhai tsao the haq neq mail ma-ail meeq nail ngaol.\n\n"
+        },
+        "51": {
+            "kvt": "Niai kev dai sav bhaiq-aq mail tsiq yaoq\n"
+        },
+        "52": {
+            "kvt": "Sav bhaiq-aq\n"
+        },
+        "53": {
+            "kvt": "Lavq ceevq\n"
+        },
+        "54": {
+            "kvt": "Naoq nail maiv phaoq bhai thaq lav yaoq (maq ngel haq)\nyu nail maiv phaoq bhai gail thaq lav yao. Lav yao nail loq\nlal haq neq iq moeq il moeq sav bhaiq-aq mail aq lavq aq\nmeeq meeq dai tsiq yaoq.\n"
+        },
+        "55": {
+            "kvt": "Hail pil bhal deil daoq sel nvq pov gul gaq dan-u kev dai\u00a0 tsiq yaoq"
+        },
+        "56": {
+            "kvt": "Lavq heeq iq govq bhai\n"
+        },
+        "57": {
+            "kvt": "20 seil kanv\n"
+        },
+        "58": {
+            "kvt": "Lavq gaiq juq bhai"
+        },
+        "59": {
+            "kvt": "Lavq pav kov tavq bhai tsiq yaoq\n"
+        },
+        "60": {
+            "kvt": "Maq doi maq doi dai ge nail neq khal heel bhai ge movq Nail.\n"
+        },
+        "61": {
+            "kvt": "Ya lav yao khi mail ngaol-aoq thaq noeq haq naoq nail aq lavq bhai sav bhaiq-aq mail aq meeq meeq dai gaoq\n\u00a0tsiq yaoq.\n"
+        },
+        "62": {
+            "kvt": "Moeq bhaoq-ai pavq cuvq nail lavq niil phao gail maq ya\u00a0 lav-ail.\n"
+        },
+        "63": {
+            "kvt": "Khal kha nail ul lul\n"
+        },
+        "64": {
+            "kvt": "Moeq bhaoq-ai pavq cuvq nail teevq laiq bhai mao dai\nyuq moq ha neq nal goel aq ma neq a bhai gaoq doevq lal\nnail ngaol.\n"
+        },
+        "65": {
+            "kvt": "Moeq bhaoq-ai pavq cuvq nail(mask)teevq laiq neq\n\u00a0teevq-n maq ngel nail neq thaq yuq. Aq nuq nuq-ail haq\nliv ha pivq yaoq.\n"
+        },
+        "66": {
+            "kvt": "Jal tsoiq bhai cav khuq-i mail khuq khi yuq yaoq.\n"
+        },
+        "67": {
+            "kvt": "Yaq noil juq\n"
+        },
+        "68": {
+            "kvt": "Aq bhu\n"
+        },
+        "69": {
+            "kvt": "Aq ma"
+        },
+        "70": {
+            "kvt": "Yaoq gaq yaoq-ao nee yovq ga yovq gaq nail aq lavq siv\n\u00a0nail phal khail yuq yaoq.\n"
+        },
+        "71": {
+            "kvt": "Jaq jaq daol daol/ miq jaq khaol tsil khe yuq nail nl maoq\nUl cuvq khaoq-aq-nq/ aq lavq siv nail phal khail niil juq\nbhai Teevq gaq khe-ai thaq yuq.\n"
+        },
+        "72": {
+            "kvt": "Naoq nail lavq ceevq-i mail maiv phaoq bhai khal hai khi mail ngaol-aoq maq lav yao kivq-ail."
+        },
+        "73": {
+            "kvt": "Lol gov laol phao-u bhai lavq ceevq maq ngel haq bavq\u00a0 Puv-i mail thaoq phao yaoq. Pevq lai kivq ha neq aq lavq-i\u00a0 mail thaq phao.\n"
+        },
+        "74": {
+            "kvt": "Il khaol\n"
+        },
+        "75": {
+            "kvt": "Lavq niil nee mail kovq\nlal nail aq yanq."
+        },
+        "76": {
+            "kvt": "Jaq jaq daol daol maq jaq\nmaq daol nail gaiq laq bhai"
+        },
+        "77": {
+            "kvt": "Aq lavq bhai sav bhaiq-aq-i mail khaq mao gail tsiq yaoq."
+        },
+        "78": {
+            "kvt": "Haoq nao nao saq neq\n"
+        },
+        "79": {
+            "kvt": "Sav bhaiq-aq."
+        },
+        "80": {
+            "kvt": "Tsaol-aq yaq yaoq gaq yaoq-ao\nnee mail ya cov ya lav-ail nail\nphaq nee jel-ail heeq phaq-ail\njaol yaoq.\n"
+        },
+        "81": {
+            "kvt": "Tsaol-aq yaq yaoq gaq yaoq-ao nee mail ya cov ya lav-ail nail phaq nee jel-ail heeq phaq-ail jaol yaoq.\n"
+        },
+        "82": {
+            "kvt": "Sav bhaiq-aq."
+        },
+        "83": {
+            "kvt": ""
+        },
+        "84": {
+            "kvt": ""
+        },
+        "85": {
+            "kvt": ""
+        },
+        "86": {
+            "kvt": ""
+        },
+        "87": {
+            "kvt": ""
+        },
+        "88": {
+            "kvt": ""
+        },
+        "89": {
+            "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6",
+            "eng": "About Coronavirus",
+            "ind": "",
+            "kvt": "Koq loq naq nal goel daq ma nail ganl",
+            "mqt": "",
+            "spa": "Sobre el Coronavirus"
+        },
+        "90": {
+            "eng": "",
+            "kvt": "",
+            "mqt": ""
+        },
+        "91": {
+            "eng": "",
+            "kvt": "",
+            "mqt": ""
+        },
+        "92": {
+            "eng": "",
+            "kvt": "",
+            "mqt": ""
+        },
+        "93": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "kvt": "",
+            "mqt": ""
+        },
+        "94": {
+            "eng": "",
+            "kvt": "",
+            "mqt": ""
+        },
+        "95": {
+            "eng": "",
+            "kvt": "",
+            "mqt": ""
+        },
+        "96": {
+            "eng": "",
+            "kvt": "",
+            "mqt": ""
+        },
+        "97": {
+            "eng": "",
+            "kvt": "",
+            "mqt": ""
+        }
+    },
+    "bookText": {
+        "ahk": "Ko\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKo\u02ecro\u02ec na\u02ec vai\u02c7 ras\u02c6 ga\u02c7 kaw\u02c6\n\n\n\n\n\n\n\n",
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\n\n\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "kvt": "Koq loq naq nal goel daq ma nail ganl\n\n\n\nKoq loq naq nal goel neq khal heel nail nal goel dai\nAq meeq meeq dai heeq kivq nail loq nail ngaol.\n\nNiaoq lal khi el-ail nia nail ganl.\n\nMoeq thaoq\n\nNal bhaoq\n\nMaiv neev\n\nNaoq nail lavq khoel bhai aq duq niil\njuq nee aol-Ail nia nail ngaol.\n\nJaol hal dov\nnail tsaol-aq\nNal goel aol\nnail tsaol-aq\n\nUl lul niil jiav khal ail haq neq nal\ngoel mao dai el-ail nia nail ngaol.\n\n\nLiq cav khaiq nail bhai jaol nail bhaq da nee nal\ngoel aq ma bhoel leevq nail nee bhuq-ail lao ail\nnail\u00a0 ngaol.\n1\nLiq cav\nHal tsiq\nAl heel ngel-i mail tsaol-aq teevq gaq civq nieivq tsiq\u00a0 nail hal tsiq tsiq nail coevq sil nail niil juq bhai moel lal haq\u00a0 neq, pul-nvq khe gevq-ai thaq nail khe-ai ya nl nail ngaol.\n\nAq yu juq bhai moeq bhaoq-ai pavq cuvq nail(Mask)\nbivq yaoq. Al moeq bhaoq bhai pavq cuvq nail yuq nail\nbhaq da nee aq yu juq mail hal tsiq tsiq nail civq nieivq\ntsiq nail al juq yu bhai maq niaoq-ail nia-ail.\n\n2\nGeeq laoq eeq naol\n(Nal eel dov nail juq)\n\nMaq ngel haq neq\n\nAivq maq coevq sil gaoq neq, aiqv bhai aivq maq bhi niaoq lal dai yaol phaol nail gail pevq nia nail ngaol.\nNal goel niaoq lal khi ngaol-aoq nal goel nail se khi se laq maq dov lal dai jiav nia nail ngaol. Al hai ngaol-aoq neq nal goel neq niaoq lai nia nail ngaol.\n\nKhaq sil gaq bhai nal goel niaoq nail dai maq\nheeq kivq Nail ngel-I mail ge gal laq-u bhai\ntsoal-aq bhoi nail aq duq bhai yaol phaol yaoq.\n\nThul-nq\n\nJaol hal dov nail juq\n\nYaq thal/laoq liq nail aq lavq nioi thaiq duq\n\nCav nail thaoq joe khe thoiq nail nl maoq\n\nMoeq bhao siv nail gal lal\n\nUl cuvq daol nail khaoq-aq-nq\n\nCav nail nl maoq teevq phaq ga nav\n\nMoeq bhao-ai pavq cuvq nail nil maoq(mask) nail lavq niil phao khe\n\nThaoq joe nail lavq heiv\n\nkoq-nq piq-uq taq khe\nyuq nail ov cavq\nHaoq gaqv gevq nail dail kheq\nLol gov gov bhaq\nAq yu juq nail aq lavq\n\nAl uq tavq coevq sil nail juq nail thaiq khaq neq teevq povq ga nav yal kav lov kav bhai gail niaoq nia nail ngaol. Daoq ma uq huq daoq_\nNul juq iq sanl mail coevq sill al nia khi nal goel niaoq lal nia nail ngaol.\nNaol gaiq-a nail gaq nail maiv phaoq bhai aq-eel lav yao\nhaq neq\n\nMaiv neev bhai aq-eel gaiq yaoq lai haq neq\n\nGe gal lavq-u bhai nl maoq thoil juq teevq phaq ga nav\n\u00a0Bhai naol nioi thaiq khi naoq nail maiv phaoq bhai gaoq\nbhi yao lai haq neq\n\nThoil thai deeq teev yaol phaol nail gal duq neq aq lavq\n\u00a0bhai sav bhaiq-aq mail maq ngel haq kaoq haol kheq nail\nul lul mail aq meeq meeq dai ya tsiq nail ngaol.\nNal goel aq ma niil neq nl maoq yal kav nail kov tavq bhai Naq li mao dai lavq aq doevq doevq khi jaol niia nail ngaol.\nSav bhaiq-aq\n\n\nNal goel maq bhiq niaoq lal dai iq moeq ya laiq-nq gai Nail (5) phaq\nNiil juq bhai tsao the haq neq mail ma-ail meeq nail ngaol.\n\n\nNiai kev dai sav bhaiq-aq mail tsiq yaoq\n\nSav bhaiq-aq\n\nLavq ceevq\n\nNaoq nail maiv phaoq bhai thaq lav yaoq (maq ngel haq)\nyu nail maiv phaoq bhai gail thaq lav yao. Lav yao nail loq\nlal haq neq iq moeq il moeq sav bhaiq-aq mail aq lavq aq\nmeeq meeq dai tsiq yaoq.\n\nHail pil bhal deil daoq sel nvq pov gul gaq dan-u kev dai\u00a0 tsiq yaoq\nLavq heeq iq govq bhai\n\n20 seil kanv\n\nLavq gaiq juq bhai\nLavq pav kov tavq bhai tsiq yaoq\n\nMaq doi maq doi dai ge nail neq khal heel bhai ge movq Nail.\n\nYa lav yao khi mail ngaol-aoq thaq noeq haq naoq nail aq lavq bhai sav bhaiq-aq mail aq meeq meeq dai gaoq\n\u00a0tsiq yaoq.\n\nMoeq bhaoq-ai pavq cuvq nail lavq niil phao gail maq ya\u00a0 lav-ail.\n\nKhal kha nail ul lul\n\nMoeq bhaoq-ai pavq cuvq nail teevq laiq bhai mao dai\nyuq moq ha neq nal goel aq ma neq a bhai gaoq doevq lal\nnail ngaol.\n\nMoeq bhaoq-ai pavq cuvq nail(mask)teevq laiq neq\n\u00a0teevq-n maq ngel nail neq thaq yuq. Aq nuq nuq-ail haq\nliv ha pivq yaoq.\n\nJal tsoiq bhai cav khuq-i mail khuq khi yuq yaoq.\n\nYaq noil juq\n\nAq bhu\n\nAq ma\nYaoq gaq yaoq-ao nee yovq ga yovq gaq nail aq lavq siv\n\u00a0nail phal khail yuq yaoq.\n\nJaq jaq daol daol/ miq jaq khaol tsil khe yuq nail nl maoq\nUl cuvq khaoq-aq-nq/ aq lavq siv nail phal khail niil juq\nbhai Teevq gaq khe-ai thaq yuq.\n\nNaoq nail lavq ceevq-i mail maiv phaoq bhai khal hai khi mail ngaol-aoq maq lav yao kivq-ail.\nLol gov laol phao-u bhai lavq ceevq maq ngel haq bavq\u00a0 Puv-i mail thaoq phao yaoq. Pevq lai kivq ha neq aq lavq-i\u00a0 mail thaq phao.\n\nIl khaol\n\nLavq niil nee mail kovq\nlal nail aq yanq.\nJaq jaq daol daol maq jaq\nmaq daol nail gaiq laq bhai\nAq lavq bhai sav bhaiq-aq-i mail khaq mao gail tsiq yaoq.\nHaoq nao nao saq neq\n\nSav bhaiq-aq.\nTsaol-aq yaq yaoq gaq yaoq-ao\nnee mail ya cov ya lav-ail nail\nphaq nee jel-ail heeq phaq-ail\njaol yaoq.\n\nTsaol-aq yaq yaoq gaq yaoq-ao nee mail ya cov ya lav-ail nail phaq nee jel-ail heeq phaq-ail jaol yaoq.\n\nSav bhaiq-aq.\n\n\n\n\n\n\nKoq loq naq nal goel daq ma nail ganl\n\n\n\n\n\n\n\n",
+        "spa": "Sobre el Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSobre el Coronavirus\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "kvt",
+        "eng",
+        "ahk",
+        "spa"
+    ],
+    "copyright": "Copyright \u00a9 2020, Akeu Literacy",
+    "country": "China",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "imported-book-source-url": null,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "jqwt9dOHpf"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "kvt": "Akeu",
+        "mqt": "Myanmar"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "originalTitle": "About Coronavirus",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "phashOfFirstContentImage": null,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "about coronavirus",
+    "tags": [],
+    "title": "Koq loq naq nal goel daq ma nail ganl",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

@@ -1,0 +1,341 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "ed261a61-55d2-43d2-a8c4-0b6d35868908",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Local-Community",
+  "nameLocked": false,
+  "folio": false,
+  "isRtl": false,
+  "title": "ORIGEN DE CORONAVIRUS",
+  "allTitles": "{\"es\":\"ORIGEN DE CORONAVIRUS\"}",
+  "originalTitle": "ORIGEN DE CORONAVIRUS",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "1a648b00-1ec0-46a7-be11-b0dec22fa0f4",
+  "downloadSource": "cfsblomm@gmail.com/ed261a61-55d2-43d2-a8c4-0b6d35868908",
+  "license": "cc-by",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2021, ASOCIACI\u00d3N CRISTIANA MANO EN ACCI\u00d3N",
+  "credits": "",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 20,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "asUh6dYuEO"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "L5o89HLV0w"
+    }
+  ],
+  "summary": null,
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "textLangsToPublish": null,
+  "audioLangsToPublish": null,
+  "country": "",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "fpj1aahDD9"
+  },
+  "tools": [
+    {
+      "name": "signLanguage",
+      "enabled": true,
+      "state": null
+    },
+    {
+      "name": "imageDescription",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "signLanguageTool",
+  "toolboxIsOpen": true,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "signLanguage",
+    "signLanguage:csn",
+    "video"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "es": "Spanish",
+    "csn": "LENGUA DE SE\u00d1AS COLOMBIANA (LSC)"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "2": {
+    "es": "ORIGEN DE CORONAVIRUS"
+  },
+  "3": {
+    "es": "ORIGEN DE CORONAVIRUS"
+  },
+  "14": {
+    "es": "ORIGEN DE CORONAVIRUS"
+  },
+  "15": {
+    "es": "ORIGEN DE CORONAVIRUS"
+  },
+  "18": {
+    "csn": "ASESORA: PATTI JONES"
+  },
+  "23": {
+    "csn": "ASOCIACI\u00d3N CRISTIANA MANOS EN ACCI\u00d3N"
+  },
+  "29": {
+    "es": "",
+    "csn": ""
+  },
+  "30": {
+    "es": "",
+    "csn": ""
+  },
+  "31": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "32": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "33": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "34": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "35": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "36": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "37": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "38": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "39": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "40": {
+    "z": "",
+    "es": "El mercado de Wuhan",
+    "csn": ""
+  },
+  "41": {
+    "z": "",
+    "es": "El mercado de Wuhan",
+    "csn": ""
+  },
+  "42": {
+    "z": "",
+    "es": "El mercado de Wuhan",
+    "csn": ""
+  },
+  "43": {
+    "es": "",
+    "csn": ""
+  },
+  "44": {
+    "es": "",
+    "csn": ""
+  },
+  "45": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "46": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "47": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "48": {
+    "z": "",
+    "es": "El informe crey\u00f3 diferentes escenarios como posibles or\u00edgenes del virus",
+    "csn": ""
+  },
+  "49": {
+    "z": "",
+    "es": "El informe crey\u00f3 diferentes escenarios como posibles or\u00edgenes del virus",
+    "csn": ""
+  },
+  "50": {
+    "z": "",
+    "es": "El informe crey\u00f3 diferentes escenarios como posibles or\u00edgenes del virus",
+    "csn": ""
+  },
+  "51": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "52": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "53": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "54": {
+    "z": "",
+    "es": "Luego pas\u00f3 a un animal intermedio a\u00fan no identificado, y de all\u00ed al ser humano. Se especula que el animal intermedio pudo haber sido el pangol\u00edn.",
+    "csn": ""
+  },
+  "55": {
+    "z": "",
+    "es": "Luego pas\u00f3 a un animal intermedio a\u00fan no identificado, y de all\u00ed al ser humano. Se especula que el animal intermedio pudo haber sido el pangol\u00edn.",
+    "csn": ""
+  },
+  "56": {
+    "z": "",
+    "es": "Luego pas\u00f3 a un animal intermedio a\u00fan no identificado, y de all\u00ed al ser humano. Se especula que el animal intermedio pudo haber sido el pangol\u00edn.",
+    "csn": ""
+  },
+  "57": {
+    "z": "",
+    "es": "El tercero es que el virus se haya introducido a trav\u00e9s de alimentos fr\u00edos.",
+    "csn": ""
+  },
+  "58": {
+    "z": "",
+    "es": "El tercero es que el virus se haya introducido a trav\u00e9s de alimentos fr\u00edos.",
+    "csn": ""
+  },
+  "59": {
+    "z": "",
+    "es": "El tercero es que el virus se haya introducido a trav\u00e9s de alimentos fr\u00edos.",
+    "csn": ""
+  },
+  "60": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "61": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "62": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "63": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "64": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "65": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "66": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "67": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "68": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "69": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "70": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "71": {
+    "z": "",
+    "es": "",
+    "csn": ""
+  },
+  "72": {
+    "z": "",
+    "es": "Posible fuga de un laboratorio.",
+    "csn": ""
+  },
+  "73": {
+    "z": "",
+    "es": "Posible fuga de un laboratorio.",
+    "csn": ""
+  },
+  "74": {
+    "z": "",
+    "es": "Posible fuga de un laboratorio.",
+    "csn": ""
+  }
+}

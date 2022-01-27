@@ -1,0 +1,1066 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "25e2b683-ce91-4049-b1bf-bc4f71a40329",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": true,
+  "brandingProjectName": "Juarez-Guatemala",
+  "folio": false,
+  "isRtl": false,
+  "title": "Tzet chi yun komimanil yuj coronavirus",
+  "allTitles": "{\"cak\":\"Ri q'axomal nub'\u00e4n ri\nCOVI D19\",\"es\":\"Coronavirus COVID-19\nS\u00edntomas\",\"kjb\":\"Tzet chi yun komimanil yuj coronavirus\"}",
+  "originalTitle": "Coronavirus COVID-19 S\u00edntomas",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "<p>978-9929-794-28-3</p>",
+  "bookLineage": "1a648b00-1ec0-46a7-be11-b0dec22fa0f4,8ecfd21d-24a1-4e9c-9a79-22e22d70a717",
+  "downloadSource": "mixmata@mineduc.gob.gt/25e2b683-ce91-4049-b1bf-bc4f71a40329",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2021, Ministerio de Educaci\u00f3n de Guatemala y USAID.",
+  "credits": "",
+  "tags": [
+    "bookshelf:Ministerio de Educaci\u00f3n de Guatemala",
+    "topic:NoTopic"
+  ],
+  "pageCount": 21,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "L5o89HLV0w"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "tE8cE6Frpn"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "Fa6uSi2W0F"
+    }
+  ],
+  "summary": "Forma parte de la serie de libros en idiomas mayas para el cuidado y prevenci\u00f3n de contagios por coronavirus, incluye audio y preguntas de comprensi\u00f3n.",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": {
+    "name": "leveledReader",
+    "enabled": false,
+    "state": "1"
+  },
+  "LeveledReaderLevel": 0,
+  "country": "Guatemala",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "JEZIBBMl90"
+  },
+  "tools": [
+    {
+      "name": "signLanguage",
+      "enabled": true,
+      "state": null
+    },
+    {
+      "name": "decodableReader",
+      "enabled": false,
+      "state": "stage:1;sort:alphabetic"
+    },
+    {
+      "name": "imageDescription",
+      "enabled": false,
+      "state": null
+    },
+    {
+      "name": "leveledReader",
+      "enabled": false,
+      "state": "1"
+    },
+    {
+      "name": "impairmentVisualizer",
+      "enabled": false,
+      "state": null
+    }
+  ],
+  "currentTool": "signLanguageTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": "",
+  "originalPublisher": "",
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "talkingBook",
+    "talkingBook:kjb",
+    "talkingBook:es",
+    "signLanguage",
+    "signLanguage:es",
+    "quiz"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "es": "Spanish",
+    "esn": "Salvadoran Sign Language",
+    "sw": "Swahili",
+    "tza": "Tanzanian Sign Language",
+    "cak": "Kaqchikel",
+    "en": "Espa\u00f1ol",
+    "akq": "---",
+    "kjb": "Q\u2019anjob\u2019al"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "kjb": "Tzet chi yun komimanil yuj coronavirus",
+    "es": "S\u00edntomas",
+    "cak": "COVI D19"
+  },
+  "2": {
+    "kjb": "Tzet chi yun komimanil yuj coronavirus",
+    "es": "S\u00edntomas",
+    "cak": "COVI D19"
+  },
+  "3": {
+    "kjb": "Tzet chi yun komimanil yuj coronavirus",
+    "es": "S\u00edntomas",
+    "cak": "COVI D19"
+  },
+  "4": {
+    "kjb": "Tzet chi yun komimanil yuj coronavirus",
+    "es": "S\u00edntomas",
+    "cak": "COVI D19"
+  },
+  "5": {
+    "kjb": "Tzet chi yun komimanil yuj coronavirus",
+    "es": "S\u00edntomas",
+    "cak": "COVI D19"
+  },
+  "6": {
+    "kjb": "Tzet chi yun komimanil yuj coronavirus",
+    "es": "S\u00edntomas",
+    "cak": "COVI D19"
+  },
+  "7": {
+    "kjb": "Tzet chi yun komimanil yuj coronavirus",
+    "es": "S\u00edntomas",
+    "cak": "COVI D19"
+  },
+  "12": {
+    "kjb": "Yajawil Kuyoj yin Kab'ti'ej"
+  },
+  "13": {
+    "kjb": "Yajawil Kuyoj yin Kab'ti'ej"
+  },
+  "17": {
+    "kjb": "Tzet chi yun komimanil yuj coronavirus",
+    "es": "S\u00edntomas",
+    "cak": "COVI D19"
+  },
+  "18": {
+    "kjb": "Tzet chi yun komimanil yuj coronavirus",
+    "es": "S\u00edntomas",
+    "cak": "COVI D19"
+  },
+  "19": {
+    "kjb": "Tzet chi yun komimanil yuj coronavirus",
+    "es": "S\u00edntomas",
+    "cak": "COVI D19"
+  },
+  "20": {
+    "kjb": "Tzet chi yun komimanil yuj coronavirus",
+    "es": "S\u00edntomas",
+    "cak": "COVI D19"
+  },
+  "21": {
+    "kjb": "Tzet chi yun komimanil yuj coronavirus",
+    "es": "S\u00edntomas",
+    "cak": "COVI D19"
+  },
+  "22": {
+    "kjb": "Tzet chi yun komimanil yuj coronavirus",
+    "es": "S\u00edntomas",
+    "cak": "COVI D19"
+  },
+  "23": {
+    "kjb": "Tzet chi yun komimanil yuj coronavirus",
+    "es": "S\u00edntomas",
+    "cak": "COVI D19"
+  },
+  "26": {
+    "es": "Imagen en la p\u00e1gina 12: Elena Maria de Escobar, \u00a9 2020 FUDIPES. CC BY-NC-ND 4.0."
+  },
+  "29": {
+    "es": "Adaptado al idioma Q'anjob'al Guatemala: Leer y Aprender de USAID Guatemala, con el apoyo del Ministerio de Educaci\u00f3n Guatemala."
+  },
+  "31": {
+    "es": "Edici\u00f3n: Sonia Raymundo Gonz\u00e1lez."
+  },
+  "35": {
+    "kjb": "978-9929-794-28-3",
+    "es": "978-9929-794-28-3"
+  },
+  "36": {
+    "kjb": "978-9929-794-28-3",
+    "es": "978-9929-794-28-3"
+  },
+  "37": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "38": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "39": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "40": {
+    "z": "",
+    "cak": "\u00bfAchike nb'\u00e4n ri coronavirus chiqe?",
+    "kjb": "\u00bfTzet chi yun komimanil yuj coronavirus ti'?",
+    "es": "\u00bfCu\u00e1les son los s\u00edntomas del coronavirus?"
+  },
+  "41": {
+    "z": "",
+    "cak": "\u00bfAchike nb'\u00e4n ri coronavirus chiqe?",
+    "kjb": "\u00bfTzet chi yun komimanil yuj coronavirus ti'?",
+    "es": "\u00bfCu\u00e1les son los s\u00edntomas del coronavirus?"
+  },
+  "42": {
+    "z": "",
+    "cak": "\u00bfAchike nb'\u00e4n ri coronavirus chiqe?",
+    "kjb": "\u00bfTzet chi yun komimanil yuj coronavirus ti'?",
+    "es": "\u00bfCu\u00e1les son los s\u00edntomas del coronavirus?"
+  },
+  "43": {
+    "z": "",
+    "cak": "\u00bfAchike nb'\u00e4n ri coronavirus chiqe?",
+    "kjb": "\u00bfTzet chi yun komimanil yuj coronavirus ti'?",
+    "es": "\u00bfCu\u00e1les son los s\u00edntomas del coronavirus?"
+  },
+  "44": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "45": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "46": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "47": {
+    "z": "",
+    "cak": "Chaqi'j ojob'.",
+    "kjb": "Chi tit q'aqach nuq' jin yuj",
+    "es": "Tos"
+  },
+  "48": {
+    "z": "",
+    "cak": "Chaqi'j ojob'.",
+    "kjb": "Chi tit q'aqach nuq' jin yuj",
+    "es": "Tos"
+  },
+  "49": {
+    "z": "",
+    "cak": "Chaqi'j ojob'.",
+    "kjb": "Chi tit q'aqach nuq' jin yuj",
+    "es": "Tos"
+  },
+  "50": {
+    "z": "",
+    "cak": "Chaqi'j ojob'.",
+    "kjb": "Chi tit q'aqach nuq' jin yuj",
+    "es": "Tos"
+  },
+  "51": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "52": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "53": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "54": {
+    "z": "",
+    "cak": "Man yatik\u00efr ta najq'aj awuxla'.",
+    "kjb": "Ijan chi paxay kokaq'eq' yuj",
+    "es": "Dificultad para respirar"
+  },
+  "55": {
+    "z": "",
+    "cak": "Man yatik\u00efr ta najq'aj awuxla'.",
+    "kjb": "Ijan chi paxay kokaq'eq' yuj",
+    "es": "Dificultad para respirar"
+  },
+  "56": {
+    "z": "",
+    "cak": "Man yatik\u00efr ta najq'aj awuxla'.",
+    "kjb": "Ijan chi paxay kokaq'eq' yuj",
+    "es": "Dificultad para respirar"
+  },
+  "57": {
+    "z": "",
+    "cak": "Man yatik\u00efr ta najq'aj awuxla'.",
+    "kjb": "Ijan chi paxay kokaq'eq' yuj",
+    "es": "Dificultad para respirar"
+  },
+  "58": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "59": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "60": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "61": {
+    "z": "",
+    "cak": "Yalan k'at\u00e4n chawij.",
+    "kjb": "Chi tit q'aq' yin komimanil yuj",
+    "es": "Fiebre"
+  },
+  "62": {
+    "z": "",
+    "cak": "Yalan k'at\u00e4n chawij.",
+    "kjb": "Chi tit q'aq' yin komimanil yuj",
+    "es": "Fiebre"
+  },
+  "63": {
+    "z": "",
+    "cak": "Yalan k'at\u00e4n chawij.",
+    "kjb": "Chi tit q'aq' yin komimanil yuj",
+    "es": "Fiebre"
+  },
+  "64": {
+    "z": "",
+    "cak": "Yalan k'at\u00e4n chawij.",
+    "kjb": "Chi tit q'aq' yin komimanil yuj",
+    "es": "Fiebre"
+  },
+  "65": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "66": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "67": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "68": {
+    "z": "",
+    "cak": "Yalan kat\u00e4n chawij.",
+    "kjb": "Chi aj q'aq' yin komimanil yuj",
+    "es": "Fiebre"
+  },
+  "69": {
+    "z": "",
+    "cak": "Yalan kat\u00e4n chawij.",
+    "kjb": "Chi aj q'aq' yin komimanil yuj",
+    "es": "Fiebre"
+  },
+  "70": {
+    "z": "",
+    "cak": "Yalan kat\u00e4n chawij.",
+    "kjb": "Chi aj q'aq' yin komimanil yuj",
+    "es": "Fiebre"
+  },
+  "71": {
+    "z": "",
+    "cak": "Yalan kat\u00e4n chawij.",
+    "kjb": "Chi aj q'aq' yin komimanil yuj",
+    "es": "Fiebre"
+  },
+  "72": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "73": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "74": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "75": {
+    "z": "",
+    "cak": "Nuya' k'at\u00e4n chuqa tew chawij.",
+    "kjb": "Chi tit yaxchew jin yuj, chon b'ilajoq.",
+    "es": "Escalofr\u00edos"
+  },
+  "76": {
+    "z": "",
+    "cak": "Nuya' k'at\u00e4n chuqa tew chawij.",
+    "kjb": "Chi tit yaxchew jin yuj, chon b'ilajoq.",
+    "es": "Escalofr\u00edos"
+  },
+  "77": {
+    "z": "",
+    "cak": "Nuya' k'at\u00e4n chuqa tew chawij.",
+    "kjb": "Chi tit yaxchew jin yuj, chon b'ilajoq.",
+    "es": "Escalofr\u00edos"
+  },
+  "78": {
+    "z": "",
+    "cak": "Nuya' k'at\u00e4n chuqa tew chawij.",
+    "kjb": "Chi tit yaxchew jin yuj, chon b'ilajoq.",
+    "es": "Escalofr\u00edos"
+  },
+  "79": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "80": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "81": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "82": {
+    "z": "",
+    "cak": "Nq'axo' ri ach'akul.",
+    "kjb": "Ya' smasanil komimanil yuj",
+    "es": "Dolor de cuerpo"
+  },
+  "83": {
+    "z": "",
+    "cak": "Nq'axo' ri ach'akul.",
+    "kjb": "Ya' smasanil komimanil yuj",
+    "es": "Dolor de cuerpo"
+  },
+  "84": {
+    "z": "",
+    "cak": "Nq'axo' ri ach'akul.",
+    "kjb": "Ya' smasanil komimanil yuj",
+    "es": "Dolor de cuerpo"
+  },
+  "85": {
+    "z": "",
+    "cak": "Nq'axo' ri ach'akul.",
+    "kjb": "Ya' smasanil komimanil yuj",
+    "es": "Dolor de cuerpo"
+  },
+  "86": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "87": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "88": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "89": {
+    "z": "",
+    "cak": "Nq'axo' ri ajolom.",
+    "kjb": "Chi tit ya'il kojolom yuj.",
+    "es": "Dolor de cabeza"
+  },
+  "90": {
+    "z": "",
+    "cak": "Nq'axo' ri ajolom.",
+    "kjb": "Chi tit ya'il kojolom yuj.",
+    "es": "Dolor de cabeza"
+  },
+  "91": {
+    "z": "",
+    "cak": "Nq'axo' ri ajolom.",
+    "kjb": "Chi tit ya'il kojolom yuj.",
+    "es": "Dolor de cabeza"
+  },
+  "92": {
+    "z": "",
+    "cak": "Nq'axo' ri ajolom.",
+    "kjb": "Chi tit ya'il kojolom yuj.",
+    "es": "Dolor de cabeza"
+  },
+  "93": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "94": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "95": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "96": {
+    "z": "",
+    "cak": "Nqa'xo' ri aqul.",
+    "kjb": "Chi aj ya'il yul konuq' yuj.",
+    "es": "Dolor de garganta"
+  },
+  "97": {
+    "z": "",
+    "cak": "Nqa'xo' ri aqul.",
+    "kjb": "Chi aj ya'il yul konuq' yuj.",
+    "es": "Dolor de garganta"
+  },
+  "98": {
+    "z": "",
+    "cak": "Nqa'xo' ri aqul.",
+    "kjb": "Chi aj ya'il yul konuq' yuj.",
+    "es": "Dolor de garganta"
+  },
+  "99": {
+    "z": "",
+    "cak": "Nqa'xo' ri aqul.",
+    "kjb": "Chi aj ya'il yul konuq' yuj.",
+    "es": "Dolor de garganta"
+  },
+  "100": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "101": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "102": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "103": {
+    "z": "",
+    "cak": "Man jun chik nas\u00ebq.",
+    "kjb": "K'amxa chi jab' sjab'il tzetaq yetal yuj.",
+    "es": "P\u00e9rdida del olfato"
+  },
+  "104": {
+    "z": "",
+    "cak": "Man jun chik nas\u00ebq.",
+    "kjb": "K'amxa chi jab' sjab'il tzetaq yetal yuj.",
+    "es": "P\u00e9rdida del olfato"
+  },
+  "105": {
+    "z": "",
+    "cak": "Man jun chik nas\u00ebq.",
+    "kjb": "K'amxa chi jab' sjab'il tzetaq yetal yuj.",
+    "es": "P\u00e9rdida del olfato"
+  },
+  "106": {
+    "z": "",
+    "cak": "Man jun chik nas\u00ebq.",
+    "kjb": "K'amxa chi jab' sjab'il tzetaq yetal yuj.",
+    "es": "P\u00e9rdida del olfato"
+  },
+  "107": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "108": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "109": {
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "110": {
+    "z": "",
+    "cak": "Man jun nrajo' natij.",
+    "kjb": "K'amxa chi jab' schi'al kolob'ej yuj.",
+    "es": "P\u00e9rdida del gusto"
+  },
+  "111": {
+    "z": "",
+    "cak": "Man jun nrajo' natij.",
+    "kjb": "K'amxa chi jab' schi'al kolob'ej yuj.",
+    "es": "P\u00e9rdida del gusto"
+  },
+  "112": {
+    "z": "",
+    "cak": "Man jun nrajo' natij.",
+    "kjb": "K'amxa chi jab' schi'al kolob'ej yuj.",
+    "es": "P\u00e9rdida del gusto"
+  },
+  "113": {
+    "z": "",
+    "cak": "Man jun nrajo' natij.",
+    "kjb": "K'amxa chi jab' schi'al kolob'ej yuj.",
+    "es": "P\u00e9rdida del gusto"
+  },
+  "114": {
+    "cak": "Totojtob'enik",
+    "kjb": "Q'anleb'al",
+    "es": "Compruebe su comprensi\u00f3n"
+  },
+  "115": {
+    "cak": "Totojtob'enik",
+    "kjb": "Q'anleb'al",
+    "es": "Compruebe su comprensi\u00f3n"
+  },
+  "116": {
+    "cak": "Totojtob'enik",
+    "kjb": "Q'anleb'al",
+    "es": "Compruebe su comprensi\u00f3n"
+  },
+  "117": {
+    "z": "",
+    "kjb": "\u00bfB'aytet komimanil k'amxa chi yab' sjab'il tzetaq yetal yuj coronavirus?",
+    "es": "",
+    "cak": "\u00bfAchike nub'\u00e4n ri coronavirus chiqe?"
+  },
+  "118": {
+    "z": "",
+    "kjb": "\u00bfB'aytet komimanil k'amxa chi yab' sjab'il tzetaq yetal yuj coronavirus?",
+    "es": "",
+    "cak": "\u00bfAchike nub'\u00e4n ri coronavirus chiqe?"
+  },
+  "119": {
+    "z": "",
+    "kjb": "\u00bfB'aytet komimanil k'amxa chi yab' sjab'il tzetaq yetal yuj coronavirus?",
+    "es": "",
+    "cak": "\u00bfAchike nub'\u00e4n ri coronavirus chiqe?"
+  },
+  "120": {
+    "z": "",
+    "kjb": "\u00bfB'aytet komimanil k'amxa chi yab' sjab'il tzetaq yetal yuj coronavirus?",
+    "es": "",
+    "cak": "\u00bfAchike nub'\u00e4n ri coronavirus chiqe?"
+  },
+  "121": {
+    "z": "",
+    "kjb": "Kob'aq'sat",
+    "es": "",
+    "cak": "nuya' \u00fctz qawa'in"
+  },
+  "122": {
+    "z": "",
+    "kjb": "Kob'aq'sat",
+    "es": "",
+    "cak": "nuya' \u00fctz qawa'in"
+  },
+  "123": {
+    "z": "",
+    "kjb": "Kob'aq'sat",
+    "es": "",
+    "cak": "nuya' \u00fctz qawa'in"
+  },
+  "124": {
+    "z": "",
+    "kjb": "Kob'aq'sat",
+    "es": "",
+    "cak": "nuya' \u00fctz qawa'in"
+  },
+  "125": {
+    "z": "",
+    "kjb": "Kotxam",
+    "es": "",
+    "cak": "nuya' k'at\u00e4n chiqij"
+  },
+  "126": {
+    "z": "",
+    "kjb": "Kotxam",
+    "es": "",
+    "cak": "nuya' k'at\u00e4n chiqij"
+  },
+  "127": {
+    "z": "",
+    "kjb": "Kotxam",
+    "es": "",
+    "cak": "nuya' k'at\u00e4n chiqij"
+  },
+  "128": {
+    "z": "",
+    "kjb": "Kotxam",
+    "es": "",
+    "cak": "nuya' k'at\u00e4n chiqij"
+  },
+  "129": {
+    "z": "",
+    "kjb": "Koti'",
+    "es": "",
+    "cak": "nuya' \u00fctz qak'aslem"
+  },
+  "130": {
+    "z": "",
+    "kjb": "Koti'",
+    "es": "",
+    "cak": "nuya' \u00fctz qak'aslem"
+  },
+  "131": {
+    "z": "",
+    "kjb": "Koti'",
+    "es": "",
+    "cak": "nuya' \u00fctz qak'aslem"
+  },
+  "132": {
+    "z": "",
+    "kjb": "Koti'",
+    "es": "",
+    "cak": "nuya' \u00fctz qak'aslem"
+  },
+  "133": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "134": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "135": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "136": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "137": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "138": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "139": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "140": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "141": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "142": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "143": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "144": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "145": {
+    "cak": "Totojtob'enik",
+    "kjb": "Q'anleb'al",
+    "es": "Compruebe su comprensi\u00f3n"
+  },
+  "146": {
+    "cak": "Totojtob'enik",
+    "kjb": "Q'anleb'al",
+    "es": "Compruebe su comprensi\u00f3n"
+  },
+  "147": {
+    "cak": "Totojtob'enik",
+    "kjb": "Q'anleb'al",
+    "es": "Compruebe su comprensi\u00f3n"
+  },
+  "148": {
+    "z": "",
+    "kjb": "\u00bfChi jab' schi'al kolob'ej yet chi jaq'on jun ilya' ti'?",
+    "es": "",
+    "cak": "\u00bfAchike yalan nub'\u00e4n re coronavirus chawe'?"
+  },
+  "149": {
+    "z": "",
+    "kjb": "\u00bfChi jab' schi'al kolob'ej yet chi jaq'on jun ilya' ti'?",
+    "es": "",
+    "cak": "\u00bfAchike yalan nub'\u00e4n re coronavirus chawe'?"
+  },
+  "150": {
+    "z": "",
+    "kjb": "\u00bfChi jab' schi'al kolob'ej yet chi jaq'on jun ilya' ti'?",
+    "es": "",
+    "cak": "\u00bfAchike yalan nub'\u00e4n re coronavirus chawe'?"
+  },
+  "151": {
+    "z": "",
+    "kjb": "\u00bfChi jab' schi'al kolob'ej yet chi jaq'on jun ilya' ti'?",
+    "es": "",
+    "cak": "\u00bfAchike yalan nub'\u00e4n re coronavirus chawe'?"
+  },
+  "152": {
+    "z": "",
+    "kjb": "Ja'",
+    "es": "",
+    "cak": "ruq'axomal aqul"
+  },
+  "153": {
+    "z": "",
+    "kjb": "Ja'",
+    "es": "",
+    "cak": "ruq'axomal aqul"
+  },
+  "154": {
+    "z": "",
+    "kjb": "Ja'",
+    "es": "",
+    "cak": "ruq'axomal aqul"
+  },
+  "155": {
+    "z": "",
+    "kjb": "Ja'",
+    "es": "",
+    "cak": "ruq'axomal aqul"
+  },
+  "156": {
+    "z": "",
+    "kjb": "Teqan",
+    "es": "",
+    "cak": "nuya' akikoten"
+  },
+  "157": {
+    "z": "",
+    "kjb": "Teqan",
+    "es": "",
+    "cak": "nuya' akikoten"
+  },
+  "158": {
+    "z": "",
+    "kjb": "Teqan",
+    "es": "",
+    "cak": "nuya' akikoten"
+  },
+  "159": {
+    "z": "",
+    "kjb": "Teqan",
+    "es": "",
+    "cak": "nuya' akikoten"
+  },
+  "160": {
+    "z": "",
+    "kjb": "K'amaq",
+    "es": "",
+    "cak": "nuya' \u00fctz asamaj"
+  },
+  "161": {
+    "z": "",
+    "kjb": "K'amaq",
+    "es": "",
+    "cak": "nuya' \u00fctz asamaj"
+  },
+  "162": {
+    "z": "",
+    "kjb": "K'amaq",
+    "es": "",
+    "cak": "nuya' \u00fctz asamaj"
+  },
+  "163": {
+    "z": "",
+    "kjb": "K'amaq",
+    "es": "",
+    "cak": "nuya' \u00fctz asamaj"
+  },
+  "164": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "165": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "166": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "167": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "168": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "169": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "170": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "171": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "172": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "173": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "174": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "175": {
+    "z": "",
+    "kjb": "",
+    "es": "",
+    "cak": ""
+  },
+  "176": {
+    "z": "",
+    "cak": "",
+    "kjb": "",
+    "es": ""
+  },
+  "177": {
+    "z": "",
+    "cak": "",
+    "kjb": "",
+    "es": ""
+  },
+  "178": {
+    "z": "",
+    "cak": "",
+    "kjb": "",
+    "es": ""
+  },
+  "179": {
+    "z": "",
+    "cak": "",
+    "kjb": "",
+    "es": ""
+  },
+  "180": {
+    "z": "",
+    "cak": "(abril 2020)",
+    "kjb": "",
+    "es": "(abril 2020)"
+  },
+  "181": {
+    "z": "",
+    "cak": "(abril 2020)",
+    "kjb": "",
+    "es": "(abril 2020)"
+  },
+  "182": {
+    "z": "",
+    "cak": "(abril 2020)",
+    "kjb": "",
+    "es": "(abril 2020)"
+  },
+  "183": {
+    "z": "",
+    "cak": "(abril 2020)",
+    "kjb": "",
+    "es": "(abril 2020)"
+  }
+}

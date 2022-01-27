@@ -1,0 +1,442 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"pkb\":\"Kuhusu virusi vya ug\u2019onjo wa Korona\"}",
+    "author": null,
+    "bookInstanceId": "0bc2ba93-454a-465e-8afc-f6c0b9d07a13",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "pkb": "Kuhusu virusi vya ug\u2019onjo wa Korona"
+        },
+        "1": {
+            "eng": "",
+            "pkb": ""
+        },
+        "2": {
+            "eng": "",
+            "pkb": "Translated by Mr. Gafo Hiribae Suleiman & Mr. Kenneth Yakko Galana"
+        },
+        "3": {
+            "eng": "",
+            "pkb": ""
+        },
+        "4": {
+            "eng": "There's only ONE thing \ufeffyou need to understand about how a coronavirus",
+            "pkb": "Vya lombolo MOJA d\u2019oku ambadyo kwafed\u2019ekanani umanye \u00a0kuhusu e bifa ambayo virusi vya ug\u2019onjo wa korona"
+        },
+        "5": {
+            "eng": "SPREADS",
+            "pkb": "VYADDACH\u2019AA"
+        },
+        "6": {
+            "eng": "Mouth",
+            "pkb": "Miyomoni"
+        },
+        "7": {
+            "eng": "Nose",
+            "pkb": "Mpuyani"
+        },
+        "8": {
+            "eng": "Eyes",
+            "pkb": "Machoni"
+        },
+        "9": {
+            "eng": "Get into your",
+            "pkb": "Yakungia amwo"
+        },
+        "10": {
+            "eng": "Healthy Person",
+            "pkb": "Muntu aiye fayuma"
+        },
+        "11": {
+            "eng": "Sick Person",
+            "pkb": "Muntu mug\u2019onjo"
+        },
+        "12": {
+            "eng": "The virus spreads when \ufeffthese droplets",
+            "pkb": "E virusi avyo vyaddach\u2019aa kona e mahwente yano"
+        },
+        "13": {
+            "eng": "Keep your distance.\ufeff2m to 0.5m will keep you safe from large droplets.",
+            "pkb": "Kaiya kuwe. Mita mbili zakuwezesha usepata mahwente makuyu"
+        },
+        "14": {
+            "eng": "1",
+            "pkb": "1"
+        },
+        "15": {
+            "eng": "2m-0.5m",
+            "pkb": "Mita mbili"
+        },
+        "16": {
+            "eng": "Achoo!",
+            "pkb": "Kohoo!"
+        },
+        "17": {
+            "eng": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:",
+            "pkb": "Ddubha kona kuona muntu kakololani/kabigani myasa/ni mug\u2019onjo unaweza ukaamua ku:"
+        },
+        "18": {
+            "eng": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby",
+            "pkb": "Waphe kib\u2019aiko kya kukingiliza e mpuya ne miyomo. Waweza kukolola au kubiga myasa mude mwe kib\u2019aiko na wawakinge wade wotte waiyo hafuphi nao"
+        },
+        "19": {
+            "eng": "2",
+            "pkb": ""
+        },
+        "20": {
+            "eng": "Thank you\ufeff*sniffles*",
+            "pkb": "Asantta *vittambaa vya kubigia myasa\n*"
+        },
+        "21": {
+            "eng": "OR,",
+            "pkb": "AU"
+        },
+        "22": {
+            "eng": "Maybe she's not sick, just protecting herself",
+            "pkb": "Phangine sapha mug\u2019onjo, kajikingani b\u2019asi."
+        },
+        "23": {
+            "eng": "People who are infected can show no symptoms, but are still\ufeffinfectious",
+            "pkb": "Wantu ambao wakiziywa e ug\u2019onjo ao waweza kuseyagiza d\u2019alili zidezonchi, amo amale waweza kukizia wantu wangine."
+        },
+        "24": {
+            "eng": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick.",
+            "pkb": "Na kwa j\u2019umula, ni vijure zaid\u2019i kujifyula na ttutta ya wantu, koro nkuji kwamba aiye mug\u2019onjo ni ga."
+        },
+        "25": {
+            "eng": "chopsticks",
+            "pkb": "Vijihi vya kuyavia uchafu wa magego"
+        },
+        "26": {
+            "eng": "Healthy person",
+            "pkb": "Muntu aiye fayuma"
+        },
+        "27": {
+            "eng": "Train straps",
+            "pkb": "Nkanda za g\u2019ari ya moshi"
+        },
+        "28": {
+            "eng": "Lift buttons",
+            "pkb": "Vifod\u2019onko ambavyo vyaminywa ili wantu waphae juyu na ngazi ya sitima"
+        },
+        "29": {
+            "eng": "Tissues",
+            "pkb": "Vikarattasi vya kuphangusia mikono"
+        },
+        "30": {
+            "eng": "Cups",
+            "pkb": "Vikombe"
+        },
+        "31": {
+            "eng": "Digital devices",
+            "pkb": "Visaga vyatumia mitandao"
+        },
+        "32": {
+            "eng": "& even on the outside of your face mask",
+            "pkb": "Na hatta battini ye kib\u2019aiko kyako kye uso"
+        },
+        "33": {
+            "eng": "Stair bannisters",
+            "pkb": "Nguzo za ngazi kona kwaphayani d\u2019arini"
+        },
+        "34": {
+            "eng": "Mouse",
+            "pkb": "Kifaa kiikyo\nbifa ya mpanya kyatumika kwa kompyuta"
+        },
+        "35": {
+            "eng": "Pens",
+            "pkb": "Kalamu"
+        },
+        "36": {
+            "eng": "Door knobs",
+            "pkb": "Piki za midyango"
+        },
+        "37": {
+            "eng": "Their hands",
+            "pkb": "E mikono yao"
+        },
+        "38": {
+            "eng": "However, sometimes a sick person's saliva can get on other things\u2026",
+            "pkb": "Cha javyavyo, saa zingine mahe ya muntu mug\u2019onjo yaweza kufikia \u00a0visaga vingine\u2026"
+        },
+        "39": {
+            "eng": "you might all fall sick.",
+            "pkb": "mwaweza kuhenda wag\u2019onjo nyotte\u00a0"
+        },
+        "40": {
+            "eng": "or your loved one's face",
+            "pkb": "au e uso wa yude umujamiyeo"
+        },
+        "41": {
+            "eng": "rub eyes",
+            "pkb": "ujiphokoche e macho"
+        },
+        "42": {
+            "eng": "And if you do touch any of these things by accident, and then touch your face,",
+            "pkb": "Na kona kuddaba kisaga kimoja kahi ya avyo b\u2019ila ya kumanya, kisa ujiddabe e uso,"
+        },
+        "43": {
+            "eng": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.",
+            "pkb": "na e ngia njure zaid\u2019i ya kuvinusa e virusi\navyo ni kuvikosa uviyavye na sab\u2019uni, ddawa ya kuyaga viini vya mag\u2019onjo au utumie ddawa iiyo na tembo."
+        },
+        "44": {
+            "eng": "Viruses can last for quite a few hours on objects,",
+            "pkb": "Virusi vya uwezo wa kukaya rigo juyu ya visaga kwa masaa kachuchu"
+        },
+        "45": {
+            "eng": "soap",
+            "pkb": "Sab\u2019uni"
+        },
+        "46": {
+            "eng": "precautions",
+            "pkb": ""
+        },
+        "47": {
+            "eng": "Which is why it is also good to follow these",
+            "pkb": "Ndo maana ni vijure pia kuyuba e maag\u2019izo yano"
+        },
+        "48": {
+            "eng": "wash with soap up to here",
+            "pkb": "Kosa na sab\u2019uni\nmupaka phano"
+        },
+        "49": {
+            "eng": "soap",
+            "pkb": "Sab\u2019uni"
+        },
+        "50": {
+            "eng": "elbow",
+            "pkb": "Kikorhokorho"
+        },
+        "51": {
+            "eng": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.",
+            "pkb": "Manya usejiddaba e uso. (Au uso wa yudeywonchi.) Kona ni haddi uuddabe, ikose nguzi e mikono yako na sab\u2019uni, ikose na kuigagalia."
+        },
+        "52": {
+            "eng": "Enough time to sing \u201cHappy Birthday\u201d twice",
+            "pkb": "Mala ya kwamba unaweza ukakwimba e wiya ude wa \u201cMwana Mujongosi\u201d mara mbili"
+        },
+        "53": {
+            "eng": "under the nails",
+            "pkb": "mude nyayani"
+        },
+        "54": {
+            "eng": "for 20 seconds",
+            "pkb": "kwa sekunde miongo miwili"
+        },
+        "55": {
+            "eng": "between the fingers",
+            "pkb": "Kahi ye mad\u2019oe"
+        },
+        "56": {
+            "eng": "wash the back of your hands",
+            "pkb": "Kosa e mongo we maganja yako"
+        },
+        "57": {
+            "eng": "What is thoroughly?",
+            "pkb": "Kukosa na kugagalia imaanisha nkega?"
+        },
+        "58": {
+            "eng": "If you did, don't worry. Just wash your hands with soap after.",
+            "pkb": "Kona kuddaba, sijoj\u2019ali. Awe kosa e mikono yako na sab\u2019uni b\u2019aad\u2019a ya kuhenda ja avyo."
+        },
+        "59": {
+            "eng": "Also, don't touch the outside of the mask if you can.",
+            "pkb": "Pia, manya kuddaba e battini ye kibaiko kyako kona unad\u2019una."
+        },
+        "60": {
+            "eng": "droplets",
+            "pkb": "mahwente \u00a0"
+        },
+        "61": {
+            "eng": "*Bacteria grows on the insides of your mask if you wear them too long",
+            "pkb": "Viini vya bakiteria ambavyo vyasab\u2019ab\u2019isha mag\u2019onjo vyamea kizimu ye kib\u2019aiko kyako kona kukivwaya kwa mud\u2019a mulela sana"
+        },
+        "62": {
+            "eng": "Throw away masks once they feel gross. Don't wear them for more than a day!",
+            "pkb": "Fattula e vib\u2019aiko kona vikaya bifa zuka. Manya kuvivwaya zaid\u2019i ya siku moja!"
+        },
+        "63": {
+            "eng": "Use a serving spoon",
+            "pkb": "Tumia kij\u2019iko kya kumolea vintu"
+        },
+        "64": {
+            "eng": "Baby",
+            "pkb": "Mwana"
+        },
+        "65": {
+            "eng": "Daddy",
+            "pkb": "Baba"
+        },
+        "66": {
+            "eng": "Mommy",
+            "pkb": "Mama"
+        },
+        "67": {
+            "eng": "Everyone gets their own towel",
+            "pkb": "Kila mumoja awe na tauli yakwe"
+        },
+        "68": {
+            "eng": "Do not share food, utensils, cups, towels.",
+            "pkb": "Manya kudya sahani moja na muntu, au kutumia phamojani visaga vya jikoni, au kutumia tauli phamoja."
+        },
+        "69": {
+            "eng": "You can't touch your face with your elbow even if you tried",
+            "pkb": "Kuwezi kujiddaba e uso ne kikorhokorho kyako hatta kud\u2019ema"
+        },
+        "70": {
+            "eng": "Open & close doors with your elbows or shoulders instead of hands, if possible.",
+            "pkb": "Funga na kufunguya midyango ne vikorhokorho au vitturo vyako b\u2019ad\u2019ili ye mikono, kona yawezekana."
+        },
+        "71": {
+            "eng": "Home",
+            "pkb": "Nyumbani"
+        },
+        "72": {
+            "eng": "and after being out in the public",
+            "pkb": "Na b\u2019aad\u2019a ya kuyawa na bia ya wantu wangine"
+        },
+        "73": {
+            "eng": "Before you eat",
+            "pkb": "Kab\u2019ula nkujanadya"
+        },
+        "74": {
+            "eng": "Always wash your hands with soap\u2026",
+            "pkb": "Kosa e mikono yako na sab\u2019uni saa zo badda chwe\u2026"
+        },
+        "75": {
+            "eng": "And finally,",
+            "pkb": "Na mwiso,"
+        },
+        "76": {
+            "eng": "soap",
+            "pkb": "Sab\u2019uni"
+        },
+        "77": {
+            "eng": "Stay safe, everyone!",
+            "pkb": "Kila muntu akae salama!"
+        },
+        "78": {
+            "eng": "Stay safe, everyone!",
+            "pkb": "Kila muntu akae salama!"
+        },
+        "79": {
+            "eng": "soap",
+            "pkb": "Sab\u2019uni"
+        },
+        "80": {
+            "eng": "Read the articles for more tips!",
+            "pkb": "Soma e vitab\u2019u avyo upate maelezo zaid\u2019i!"
+        },
+        "81": {
+            "eng": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)",
+            "pkb": "\"This animation shows how far your sneeze can actually travel\" by Chia yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "eng": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)",
+            "pkb": "\"The wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+        },
+        "83": {
+            "eng": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020",
+            "pkb": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion.\u00a0 (Jan 28, 2020)"
+        },
+        "84": {
+            "eng": "Main references for medical info:",
+            "pkb": "Bia maalumu ambazo unaweza kupata odhu za kimattib\u2019ab\u2019u"
+        },
+        "85": {
+            "eng": "Additional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVI 019 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-1O\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com",
+            "pkb": "Maelezo zaid\u2019i: Maag\u2019izo ya usafi katika e vitab\u2019u vino ambavyo vya mapicha na maelezo yakwe vyasaid\u2019ia sana katika kukingiliza aina zingine nyingi za mag\u2019onjo ya kukizia, ja kongo na k\u2019anano, na ni haddi yatumike katika maisha ya kila siku; hatta kona havi mulipuko wa ug\u2019onjo.\nReferences: lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \u00a0https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation A PDF version of the comic is available for free download here: https://gumroad.com/weimankowart\u00a0\nSharing Guidelines This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: 1) No edits to the comics is allowed in any way when sharing. 2) Comics cannot be used for any commercial project 3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\nFor all other uses, please send a request in to: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "pkb": "Kuhusu virusi vya ug\u2019onjo wa Korona"
+        },
+        "87": {
+            "eng": "",
+            "pkb": ""
+        },
+        "88": {
+            "eng": "Mr. Gafo Hiribae Suleiman & Mr. Kenneth Yakko Galana, Bible Translation and Literacy, E.A",
+            "pkb": ""
+        },
+        "89": {
+            "eng": "Translated by Mr. Gafo Hiribae Suleiman & Mr. Kenneth Yakko Galana",
+            "pkb": ""
+        },
+        "90": {
+            "eng": "Created by Weiman Kow, instagram: weimankow",
+            "pkb": ""
+        },
+        "91": {
+            "eng": "",
+            "pkb": ""
+        },
+        "92": {
+            "eng": "",
+            "pkb": ""
+        },
+        "93": {
+            "eng": "",
+            "pkb": ""
+        },
+        "94": {
+            "eng": "",
+            "pkb": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\nThere's only ONE thing \ufeffyou need to understand about how a coronavirus\nSPREADS\nMouth\nNose\nEyes\nGet into your\nHealthy Person\nSick Person\nThe virus spreads when \ufeffthese droplets\nKeep your distance.\ufeff2m to 0.5m will keep you safe from large droplets.\n1\n2m-0.5m\nAchoo!\nSo if you see someone who is visibly coughing/sneezing/sick you can choose to:\nGive them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby\n2\nThank you\ufeff*sniffles*\nOR,\nMaybe she's not sick, just protecting herself\nPeople who are infected can show no symptoms, but are still\ufeffinfectious\nAnd in general, it's a good idea to avoid crowds, because you don't know who might be sick.\nchopsticks\nHealthy person\nTrain straps\nLift buttons\nTissues\nCups\nDigital devices\n& even on the outside of your face mask\nStair bannisters\nMouse\nPens\nDoor knobs\nTheir hands\nHowever, sometimes a sick person's saliva can get on other things\u2026\nyou might all fall sick.\nor your loved one's face\nrub eyes\nAnd if you do touch any of these things by accident, and then touch your face,\nand the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.\nViruses can last for quite a few hours on objects,\nsoap\nprecautions\nWhich is why it is also good to follow these\nwash with soap up to here\nsoap\nelbow\nDo not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.\nEnough time to sing \u201cHappy Birthday\u201d twice\nunder the nails\nfor 20 seconds\nbetween the fingers\nwash the back of your hands\nWhat is thoroughly?\nIf you did, don't worry. Just wash your hands with soap after.\nAlso, don't touch the outside of the mask if you can.\ndroplets\n*Bacteria grows on the insides of your mask if you wear them too long\nThrow away masks once they feel gross. Don't wear them for more than a day!\nUse a serving spoon\nBaby\nDaddy\nMommy\nEveryone gets their own towel\nDo not share food, utensils, cups, towels.\nYou can't touch your face with your elbow even if you tried\nOpen & close doors with your elbows or shoulders instead of hands, if possible.\nHome\nand after being out in the public\nBefore you eat\nAlways wash your hands with soap\u2026\nAnd finally,\nsoap\nStay safe, everyone!\nStay safe, everyone!\nsoap\nRead the articles for more tips!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020\nMain references for medical info:\nAdditional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVI 019 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-1O\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com\nAbout Coronavirus\n\nMr. Gafo Hiribae Suleiman & Mr. Kenneth Yakko Galana, Bible Translation and Literacy, E.A\nTranslated by Mr. Gafo Hiribae Suleiman & Mr. Kenneth Yakko Galana\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "pkb": "Kuhusu virusi vya ug\u2019onjo wa Korona\n\nTranslated by Mr. Gafo Hiribae Suleiman & Mr. Kenneth Yakko Galana\n\nVya lombolo MOJA d\u2019oku ambadyo kwafed\u2019ekanani umanye \u00a0kuhusu e bifa ambayo virusi vya ug\u2019onjo wa korona\nVYADDACH\u2019AA\nMiyomoni\nMpuyani\nMachoni\nYakungia amwo\nMuntu aiye fayuma\nMuntu mug\u2019onjo\nE virusi avyo vyaddach\u2019aa kona e mahwente yano\nKaiya kuwe. Mita mbili zakuwezesha usepata mahwente makuyu\n1\nMita mbili\nKohoo!\nDdubha kona kuona muntu kakololani/kabigani myasa/ni mug\u2019onjo unaweza ukaamua ku:\nWaphe kib\u2019aiko kya kukingiliza e mpuya ne miyomo. Waweza kukolola au kubiga myasa mude mwe kib\u2019aiko na wawakinge wade wotte waiyo hafuphi nao\n\nAsantta *vittambaa vya kubigia myasa\n*\nAU\nPhangine sapha mug\u2019onjo, kajikingani b\u2019asi.\nWantu ambao wakiziywa e ug\u2019onjo ao waweza kuseyagiza d\u2019alili zidezonchi, amo amale waweza kukizia wantu wangine.\nNa kwa j\u2019umula, ni vijure zaid\u2019i kujifyula na ttutta ya wantu, koro nkuji kwamba aiye mug\u2019onjo ni ga.\nVijihi vya kuyavia uchafu wa magego\nMuntu aiye fayuma\nNkanda za g\u2019ari ya moshi\nVifod\u2019onko ambavyo vyaminywa ili wantu waphae juyu na ngazi ya sitima\nVikarattasi vya kuphangusia mikono\nVikombe\nVisaga vyatumia mitandao\nNa hatta battini ye kib\u2019aiko kyako kye uso\nNguzo za ngazi kona kwaphayani d\u2019arini\nKifaa kiikyo\nbifa ya mpanya kyatumika kwa kompyuta\nKalamu\nPiki za midyango\nE mikono yao\nCha javyavyo, saa zingine mahe ya muntu mug\u2019onjo yaweza kufikia \u00a0visaga vingine\u2026\nmwaweza kuhenda wag\u2019onjo nyotte\u00a0\nau e uso wa yude umujamiyeo\nujiphokoche e macho\nNa kona kuddaba kisaga kimoja kahi ya avyo b\u2019ila ya kumanya, kisa ujiddabe e uso,\nna e ngia njure zaid\u2019i ya kuvinusa e virusi\navyo ni kuvikosa uviyavye na sab\u2019uni, ddawa ya kuyaga viini vya mag\u2019onjo au utumie ddawa iiyo na tembo.\nVirusi vya uwezo wa kukaya rigo juyu ya visaga kwa masaa kachuchu\nSab\u2019uni\n\nNdo maana ni vijure pia kuyuba e maag\u2019izo yano\nKosa na sab\u2019uni\nmupaka phano\nSab\u2019uni\nKikorhokorho\nManya usejiddaba e uso. (Au uso wa yudeywonchi.) Kona ni haddi uuddabe, ikose nguzi e mikono yako na sab\u2019uni, ikose na kuigagalia.\nMala ya kwamba unaweza ukakwimba e wiya ude wa \u201cMwana Mujongosi\u201d mara mbili\nmude nyayani\nkwa sekunde miongo miwili\nKahi ye mad\u2019oe\nKosa e mongo we maganja yako\nKukosa na kugagalia imaanisha nkega?\nKona kuddaba, sijoj\u2019ali. Awe kosa e mikono yako na sab\u2019uni b\u2019aad\u2019a ya kuhenda ja avyo.\nPia, manya kuddaba e battini ye kibaiko kyako kona unad\u2019una.\nmahwente \u00a0\nViini vya bakiteria ambavyo vyasab\u2019ab\u2019isha mag\u2019onjo vyamea kizimu ye kib\u2019aiko kyako kona kukivwaya kwa mud\u2019a mulela sana\nFattula e vib\u2019aiko kona vikaya bifa zuka. Manya kuvivwaya zaid\u2019i ya siku moja!\nTumia kij\u2019iko kya kumolea vintu\nMwana\nBaba\nMama\nKila mumoja awe na tauli yakwe\nManya kudya sahani moja na muntu, au kutumia phamojani visaga vya jikoni, au kutumia tauli phamoja.\nKuwezi kujiddaba e uso ne kikorhokorho kyako hatta kud\u2019ema\nFunga na kufunguya midyango ne vikorhokorho au vitturo vyako b\u2019ad\u2019ili ye mikono, kona yawezekana.\nNyumbani\nNa b\u2019aad\u2019a ya kuyawa na bia ya wantu wangine\nKab\u2019ula nkujanadya\nKosa e mikono yako na sab\u2019uni saa zo badda chwe\u2026\nNa mwiso,\nSab\u2019uni\nKila muntu akae salama!\nKila muntu akae salama!\nSab\u2019uni\nSoma e vitab\u2019u avyo upate maelezo zaid\u2019i!\n\"This animation shows how far your sneeze can actually travel\" by Chia yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion.\u00a0 (Jan 28, 2020)\nBia maalumu ambazo unaweza kupata odhu za kimattib\u2019ab\u2019u\nMaelezo zaid\u2019i: Maag\u2019izo ya usafi katika e vitab\u2019u vino ambavyo vya mapicha na maelezo yakwe vyasaid\u2019ia sana katika kukingiliza aina zingine nyingi za mag\u2019onjo ya kukizia, ja kongo na k\u2019anano, na ni haddi yatumike katika maisha ya kila siku; hatta kona havi mulipuko wa ug\u2019onjo.\nReferences: lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \u00a0https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation A PDF version of the comic is available for free download here: https://gumroad.com/weimankowart\u00a0\nSharing Guidelines This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: 1) No edits to the comics is allowed in any way when sharing. 2) Comics cannot be used for any commercial project 3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\nFor all other uses, please send a request in to: comicsforgood@gmail.com\nKuhusu virusi vya ug\u2019onjo wa Korona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "pkb",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Bible Translation and Literacy, E.A",
+    "country": "Kenya",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "EcWT1FcgIM"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "pkb": "Upper Pokomo"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "Kuhusu virusi vya ug\u2019onjo wa Korona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

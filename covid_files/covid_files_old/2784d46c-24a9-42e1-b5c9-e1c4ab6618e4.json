@@ -1,0 +1,778 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "2784d46c-24a9-42e1-b5c9-e1c4ab6618e4",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Olumbe lwa Korona",
+  "allTitles": "{\"en\":\"About Coronavirus\",\"lts\":\"Olumbe lwa Korona\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460",
+  "downloadSource": "ruth_munguti@sil.org/2784d46c-24a9-42e1-b5c9-e1c4ab6618e4",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": "Do not change the text of this work, but you may translate it, adapt it into other forms, and distribute it for non-commercial purposes. You must keep the copyrights and credits for the author and illustrator Weiman Kou.",
+  "copyright": "Copyright \u00a9 2020, Bible Translation and Literacy, E.A",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "rmXwmJexQD"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "vTo23jVYzz"
+    }
+  ],
+  "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Kenya",
+  "province": "",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "oOndbQ23BI"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "lts": "Lutachoni"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "1": {
+    "lts": "Olumbe lwa Korona",
+    "en": "About Coronavirus"
+  },
+  "2": {
+    "lts": "Olumbe lwa Korona",
+    "en": "About Coronavirus"
+  },
+  "3": {
+    "lts": "Olumbe lwa Korona",
+    "en": "About Coronavirus"
+  },
+  "8": {
+    "lts": "Translated by Samson Wanyonyi Ngosia and Tobias Walubengo"
+  },
+  "9": {
+    "lts": "Translated by Samson Wanyonyi Ngosia and Tobias Walubengo"
+  },
+  "11": {
+    "en": ""
+  },
+  "12": {
+    "lts": "Sibeleho buchwa esindu SILALA sia okhoyela omanye khuli ebirusi bia korona",
+    "en": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+  },
+  "13": {
+    "lts": "Sibeleho buchwa esindu SILALA sia okhoyela omanye khuli ebirusi bia korona",
+    "en": "There's only ONE thing \ufeffyou need to understand about how a coronavirus"
+  },
+  "14": {
+    "lts": "BISALANIKHANGA",
+    "en": "SPREADS"
+  },
+  "15": {
+    "lts": "BISALANIKHANGA",
+    "en": "SPREADS"
+  },
+  "16": {
+    "lts": "Naho mu omunwa kukwo",
+    "en": "Mouth"
+  },
+  "17": {
+    "lts": "Naho mu omunwa kukwo",
+    "en": "Mouth"
+  },
+  "18": {
+    "lts": "Mu amolu",
+    "en": "Nose"
+  },
+  "19": {
+    "lts": "Mu amolu",
+    "en": "Nose"
+  },
+  "20": {
+    "lts": "Mu chimoni",
+    "en": "Eyes"
+  },
+  "21": {
+    "lts": "Mu chimoni",
+    "en": "Eyes"
+  },
+  "22": {
+    "lts": "Kenjila",
+    "en": "Get into your"
+  },
+  "23": {
+    "lts": "Kenjila",
+    "en": "Get into your"
+  },
+  "24": {
+    "lts": "Omundu omulamu",
+    "en": "Healthy Person"
+  },
+  "25": {
+    "lts": "Omundu omulamu",
+    "en": "Healthy Person"
+  },
+  "26": {
+    "lts": "Omundu omulwale",
+    "en": "Sick Person"
+  },
+  "27": {
+    "lts": "Omundu omulwale",
+    "en": "Sick Person"
+  },
+  "28": {
+    "lts": "Ebirusi bisalanikhanga lwa amame kano",
+    "en": "The virus spreads when \ufeffthese droplets"
+  },
+  "29": {
+    "lts": "Ebirusi bisalanikhanga lwa amame kano",
+    "en": "The virus spreads when \ufeffthese droplets"
+  },
+  "30": {
+    "lts": "Wasinjila sinaho ninaye. Sinaho sia ofulenje fubili silakhingilila amame okhutuukha wa oli.",
+    "en": "Keep your distance.\ufeff2m to 0.5m will keep you safe from large droplets."
+  },
+  "31": {
+    "lts": "Wasinjila sinaho ninaye. Sinaho sia ofulenje fubili silakhingilila amame okhutuukha wa oli.",
+    "en": "Keep your distance.\ufeff2m to 0.5m will keep you safe from large droplets."
+  },
+  "32": {
+    "lts": "1",
+    "en": "1"
+  },
+  "33": {
+    "lts": "1",
+    "en": "1"
+  },
+  "34": {
+    "lts": "2m",
+    "en": "2m-0.5m"
+  },
+  "35": {
+    "lts": "2m",
+    "en": "2m-0.5m"
+  },
+  "36": {
+    "lts": "Achuu!",
+    "en": "Achoo!"
+  },
+  "37": {
+    "lts": "Achuu!",
+    "en": "Achoo!"
+  },
+  "38": {
+    "lts": "Kho niiba mbo olengela omundu wulolekha ni alakhololanga/ alasimulanga/ naho omulwale onyala:",
+    "en": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+  },
+  "39": {
+    "lts": "Kho niiba mbo olengela omundu wulolekha ni alakhololanga/ alasimulanga/ naho omulwale onyala:",
+    "en": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:"
+  },
+  "40": {
+    "lts": "Omuhelesie emasiki okhukhinga emunwa nende amolu. Anyala wakhololelamo naho wasimulilamo mani siakhingilila buli omundu wuli ahambi okhunyoola ebirusi.",
+    "en": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby"
+  },
+  "41": {
+    "lts": "Omuhelesie emasiki okhukhinga emunwa nende amolu. Anyala wakhololelamo naho wasimulilamo mani siakhingilila buli omundu wuli ahambi okhunyoola ebirusi.",
+    "en": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby"
+  },
+  "42": {
+    "lts": "2",
+    "en": "2"
+  },
+  "43": {
+    "lts": "2",
+    "en": "2"
+  },
+  "44": {
+    "lts": "Orioo muno *Amolu kalekalanga*",
+    "en": "Thank you\ufeff*sniffles*"
+  },
+  "45": {
+    "lts": "Orioo muno *Amolu kalekalanga*",
+    "en": "Thank you\ufeff*sniffles*"
+  },
+  "46": {
+    "lts": "NAHO",
+    "en": "OR,"
+  },
+  "47": {
+    "lts": "NAHO",
+    "en": "OR,"
+  },
+  "48": {
+    "lts": "Aundi sali omulwale ta, alekhinganga buchwa.",
+    "en": "Maybe she's not sick, just protecting herself"
+  },
+  "49": {
+    "lts": "Aundi sali omulwale ta, alekhinganga buchwa.",
+    "en": "Maybe she's not sick, just protecting herself"
+  },
+  "50": {
+    "lts": "Abandu balala bahambisibwa yilali sibechesianga mbo abalwale ta, nabuchwa banyala bahambia abandi obulwale.",
+    "en": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+  },
+  "51": {
+    "lts": "Abandu balala bahambisibwa yilali sibechesianga mbo abalwale ta, nabuchwa banyala bahambia abandi obulwale.",
+    "en": "People who are infected can show no symptoms, but are still\ufeffinfectious"
+  },
+  "52": {
+    "lts": "Khandi bubeele obulayi okhulekha okhutubaana nende abandu mu ebituma, sikila somanya wina wunyala okhuba omulwale ta.",
+    "en": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+  },
+  "53": {
+    "lts": "Khandi bubeele obulayi okhulekha okhutubaana nende abandu mu ebituma, sikila somanya wina wunyala okhuba omulwale ta.",
+    "en": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick."
+  },
+  "54": {
+    "lts": "Chisaala cha yinyama",
+    "en": "chopsticks"
+  },
+  "55": {
+    "lts": "Chisaala cha yinyama",
+    "en": "chopsticks"
+  },
+  "56": {
+    "lts": "Omundu omulamu",
+    "en": "Healthy person"
+  },
+  "57": {
+    "lts": "Omundu omulamu",
+    "en": "Healthy person"
+  },
+  "58": {
+    "lts": "Ofwitililo mu omutuka",
+    "en": "Train straps"
+  },
+  "59": {
+    "lts": "Ofwitililo mu omutuka",
+    "en": "Train straps"
+  },
+  "60": {
+    "lts": "Bia okhumina muchilifuti",
+    "en": "Lift buttons"
+  },
+  "61": {
+    "lts": "Bia okhumina muchilifuti",
+    "en": "Lift buttons"
+  },
+  "62": {
+    "lts": "Chikaratasi cha okhwiyeya amamila",
+    "en": "Tissues"
+  },
+  "63": {
+    "lts": "Chikaratasi cha okhwiyeya amamila",
+    "en": "Tissues"
+  },
+  "64": {
+    "lts": "Ofukombe",
+    "en": "Cups"
+  },
+  "65": {
+    "lts": "Ofukombe",
+    "en": "Cups"
+  },
+  "66": {
+    "lts": "Ofundu fwa tekinolochi",
+    "en": "Digital devices"
+  },
+  "67": {
+    "lts": "Ofundu fwa tekinolochi",
+    "en": "Digital devices"
+  },
+  "68": {
+    "lts": "Yakhaba elwanyi wa emasiki ya okhukhinga omunwa na amolu.",
+    "en": "& even on the outside of your face mask"
+  },
+  "69": {
+    "lts": "Yakhaba elwanyi wa emasiki ya okhukhinga omunwa na amolu.",
+    "en": "& even on the outside of your face mask"
+  },
+  "70": {
+    "lts": "Olupao lwa khu yingasi ya ekorofa",
+    "en": "Stair bannisters"
+  },
+  "71": {
+    "lts": "Olupao lwa khu yingasi ya ekorofa",
+    "en": "Stair bannisters"
+  },
+  "72": {
+    "lts": "emausi ya ekombiuta",
+    "en": "Mouse"
+  },
+  "73": {
+    "lts": "emausi ya ekombiuta",
+    "en": "Mouse"
+  },
+  "74": {
+    "lts": "Chikalamu",
+    "en": "Pens"
+  },
+  "75": {
+    "lts": "Chikalamu",
+    "en": "Pens"
+  },
+  "76": {
+    "lts": "Omukhono kwa olwiki",
+    "en": "Door knobs"
+  },
+  "77": {
+    "lts": "Omukhono kwa olwiki",
+    "en": "Door knobs"
+  },
+  "78": {
+    "lts": "Amakhono kaabo",
+    "en": "Their hands"
+  },
+  "79": {
+    "lts": "Amakhono kaabo",
+    "en": "Their hands"
+  },
+  "80": {
+    "lts": "Kakhaba kario, ofuse fundi amare ka omundu omulwale kanyala karoonya khu ofundu fundi khuli\u2026",
+    "en": "However, sometimes a sick person's saliva can get on other things\u2026"
+  },
+  "81": {
+    "lts": "Kakhaba kario, ofuse fundi amare ka omundu omulwale kanyala karoonya khu ofundu fundi khuli\u2026",
+    "en": "However, sometimes a sick person's saliva can get on other things\u2026"
+  },
+  "82": {
+    "lts": "Enywe munyala mwarachikha okhulwala mwesi.",
+    "en": "you might all fall sick."
+  },
+  "83": {
+    "lts": "Enywe munyala mwarachikha okhulwala mwesi.",
+    "en": "you might all fall sick."
+  },
+  "84": {
+    "lts": "Naho amoni wa abasiime baabo",
+    "en": "or your loved one's face"
+  },
+  "85": {
+    "lts": "Naho amoni wa abasiime baabo",
+    "en": "or your loved one's face"
+  },
+  "86": {
+    "lts": "Osukue chimoni",
+    "en": "rub eyes"
+  },
+  "87": {
+    "lts": "Osukue chimoni",
+    "en": "rub eyes"
+  },
+  "88": {
+    "lts": "Olatiila khu ofundu funo mani wichukhane otiile amoni wuwo,",
+    "en": "And if you do touch any of these things by accident, and then touch your face,"
+  },
+  "89": {
+    "lts": "Olatiila khu ofundu funo mani wichukhane otiile amoni wuwo,",
+    "en": "And if you do touch any of these things by accident, and then touch your face,"
+  },
+  "90": {
+    "lts": "Kho okhusinga ofundu funo nende esabuni naho amachi nende esikelo sia amalwa niyo yinjila yonyene ya okhurusiakho ebirusi bino.",
+    "en": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+  },
+  "91": {
+    "lts": "Kho okhusinga ofundu funo nende esabuni naho amachi nende esikelo sia amalwa niyo yinjila yonyene ya okhurusiakho ebirusi bino.",
+    "en": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol."
+  },
+  "92": {
+    "lts": "Eburusi binyala biekhala khu ofundu khu ofuse ofurambi",
+    "en": "Viruses can last for quite a few hours on objects,"
+  },
+  "93": {
+    "lts": "Eburusi binyala biekhala khu ofundu khu ofuse ofurambi",
+    "en": "Viruses can last for quite a few hours on objects,"
+  },
+  "94": {
+    "lts": "Esabuni",
+    "en": "soap"
+  },
+  "95": {
+    "lts": "Esabuni",
+    "en": "soap"
+  },
+  "96": {
+    "lts": "Okhwikhingilila kano",
+    "en": "precautions"
+  },
+  "97": {
+    "lts": "Okhwikhingilila kano",
+    "en": "precautions"
+  },
+  "98": {
+    "lts": "Niko kakila nibuli obulayi okhulonda amakhuwa ka",
+    "en": "Which is why it is also good to follow these"
+  },
+  "99": {
+    "lts": "Niko kakila nibuli obulayi okhulonda amakhuwa ka",
+    "en": "Which is why it is also good to follow these"
+  },
+  "100": {
+    "lts": "Singa nende esabuni okhutuukha hano",
+    "en": "wash with soap up to here"
+  },
+  "101": {
+    "lts": "Singa nende esabuni okhutuukha hano",
+    "en": "wash with soap up to here"
+  },
+  "102": {
+    "lts": "Esabuni",
+    "en": "soap"
+  },
+  "103": {
+    "lts": "Esabuni",
+    "en": "soap"
+  },
+  "104": {
+    "lts": "Yikhumbo",
+    "en": "elbow"
+  },
+  "105": {
+    "lts": "Yikhumbo",
+    "en": "elbow"
+  },
+  "106": {
+    "lts": "Okhehabasia hamoni wuwo ta. (Naho hamoni wa omundu wundi ta.) Niiba mbo okhoya okhole kano, singa emikhono kikio nende esabuni obulayi bwene mbele.",
+    "en": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+  },
+  "107": {
+    "lts": "Okhehabasia hamoni wuwo ta. (Naho hamoni wa omundu wundi ta.) Niiba mbo okhoya okhole kano, singa emikhono kikio nende esabuni obulayi bwene mbele.",
+    "en": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first."
+  },
+  "108": {
+    "lts": "Ofuse fwolana okwimba \u201cMwana wa mbeli\u201d khabili",
+    "en": "Enough time to sing \u201cHappy Birthday\u201d twice"
+  },
+  "109": {
+    "lts": "Ofuse fwolana okwimba \u201cMwana wa mbeli\u201d khabili",
+    "en": "Enough time to sing \u201cHappy Birthday\u201d twice"
+  },
+  "110": {
+    "lts": "Mu ofutere",
+    "en": "under the nails"
+  },
+  "111": {
+    "lts": "Mu ofutere",
+    "en": "under the nails"
+  },
+  "112": {
+    "lts": "Khu ofuse fwa chisekendi 20",
+    "en": "for 20 seconds"
+  },
+  "113": {
+    "lts": "Khu ofuse fwa chisekendi 20",
+    "en": "for 20 seconds"
+  },
+  "114": {
+    "lts": "Akarikari wa chinjala",
+    "en": "between the fingers"
+  },
+  "115": {
+    "lts": "Akarikari wa chinjala",
+    "en": "between the fingers"
+  },
+  "116": {
+    "lts": "Singa yinyuma wa esikalabo",
+    "en": "wash the back of your hands"
+  },
+  "117": {
+    "lts": "Singa yinyuma wa esikalabo",
+    "en": "wash the back of your hands"
+  },
+  "118": {
+    "lts": "Obulayi bwene nisio sina?",
+    "en": "What is thoroughly?"
+  },
+  "119": {
+    "lts": "Obulayi bwene nisio sina?",
+    "en": "What is thoroughly?"
+  },
+  "120": {
+    "lts": "Nikaba bari otililekho, okhahenda ta. Singa buchwa amakhono kaako nende esabuni.",
+    "en": "If you did, don't worry. Just wash your hands with soap after."
+  },
+  "121": {
+    "lts": "Nikaba bari otililekho, okhahenda ta. Singa buchwa amakhono kaako nende esabuni.",
+    "en": "If you did, don't worry. Just wash your hands with soap after."
+  },
+  "122": {
+    "lts": "Nikanyalikha okhatiila olubeka lwa elwanyi lwa emasiki ta.",
+    "en": "Also, don't touch the outside of the mask if you can."
+  },
+  "123": {
+    "lts": "Nikanyalikha okhatiila olubeka lwa elwanyi lwa emasiki ta.",
+    "en": "Also, don't touch the outside of the mask if you can."
+  },
+  "124": {
+    "lts": "Amame",
+    "en": "droplets"
+  },
+  "125": {
+    "lts": "Amame",
+    "en": "droplets"
+  },
+  "126": {
+    "lts": "Ebirusi bikhulunduanga olubeka lwa mukari lwa emasiki oleboha oluhono.",
+    "en": "*Bacteria grows on the insides of your mask if you wear them too long"
+  },
+  "127": {
+    "lts": "Ebirusi bikhulunduanga olubeka lwa mukari lwa emasiki oleboha oluhono.",
+    "en": "*Bacteria grows on the insides of your mask if you wear them too long"
+  },
+  "128": {
+    "lts": "Sukuna emasiki ya okhukhinga emunwa yilanyira. Okheboha emasiki okhubira yinyinga ndala ta.",
+    "en": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+  },
+  "129": {
+    "lts": "Sukuna emasiki ya okhukhinga emunwa yilanyira. Okheboha emasiki okhubira yinyinga ndala ta.",
+    "en": "Throw away masks once they feel gross. Don't wear them for more than a day!"
+  },
+  "130": {
+    "lts": "Rumikhila esichiko sia okhukabula",
+    "en": "Use a serving spoon"
+  },
+  "131": {
+    "lts": "Rumikhila esichiko sia okhukabula",
+    "en": "Use a serving spoon"
+  },
+  "132": {
+    "lts": "Omwana",
+    "en": "Baby"
+  },
+  "133": {
+    "lts": "Omwana",
+    "en": "Baby"
+  },
+  "134": {
+    "lts": "Tata",
+    "en": "Daddy"
+  },
+  "135": {
+    "lts": "Tata",
+    "en": "Daddy"
+  },
+  "136": {
+    "lts": "Maayi",
+    "en": "Mommy"
+  },
+  "137": {
+    "lts": "Maayi",
+    "en": "Mommy"
+  },
+  "138": {
+    "lts": "Buli omundu abe nende etaulo yiye",
+    "en": "Everyone gets their own towel"
+  },
+  "139": {
+    "lts": "Buli omundu abe nende etaulo yiye",
+    "en": "Everyone gets their own towel"
+  },
+  "140": {
+    "lts": "Mukhasanga ofwakhulia khusililikho silala ta,naho ofukombe naho chitaulo ta.",
+    "en": "Do not share food, utensils, cups, towels."
+  },
+  "141": {
+    "lts": "Mukhasanga ofwakhulia khusililikho silala ta,naho ofukombe naho chitaulo ta.",
+    "en": "Do not share food, utensils, cups, towels."
+  },
+  "142": {
+    "lts": "Sonyala okhutiila hamoni wuwo nende yikhumbo ta ata wakhakhaka.",
+    "en": "You can't touch your face with your elbow even if you tried"
+  },
+  "143": {
+    "lts": "Sonyala okhutiila hamoni wuwo nende yikhumbo ta ata wakhakhaka.",
+    "en": "You can't touch your face with your elbow even if you tried"
+  },
+  "144": {
+    "lts": "Niwikula naho okhwikala olwiki rumikhila yikhumbo naho amabeka nikanyalikha, okharumikhila omukhono ta.",
+    "en": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+  },
+  "145": {
+    "lts": "Niwikula naho okhwikala olwiki rumikhila yikhumbo naho amabeka nikanyalikha, okharumikhila omukhono ta.",
+    "en": "Open & close doors with your elbows or shoulders instead of hands, if possible."
+  },
+  "146": {
+    "lts": "Yingo",
+    "en": "Home"
+  },
+  "147": {
+    "lts": "Yingo",
+    "en": "Home"
+  },
+  "148": {
+    "lts": "Nende niwakharula elwanyi mu abandu abanyinji",
+    "en": "and after being out in the public"
+  },
+  "149": {
+    "lts": "Nende niwakharula elwanyi mu abandu abanyinji",
+    "en": "and after being out in the public"
+  },
+  "150": {
+    "lts": "Nosiili okhulia",
+    "en": "Before you eat"
+  },
+  "151": {
+    "lts": "Nosiili okhulia",
+    "en": "Before you eat"
+  },
+  "152": {
+    "lts": "Singa emikhono kikio buli khase nende esabuni\u2026.",
+    "en": "Always wash your hands with soap\u2026"
+  },
+  "153": {
+    "lts": "Singa emikhono kikio buli khase nende esabuni\u2026.",
+    "en": "Always wash your hands with soap\u2026"
+  },
+  "154": {
+    "lts": "Okhumalilisia",
+    "en": "And finally,"
+  },
+  "155": {
+    "lts": "Okhumalilisia",
+    "en": "And finally,"
+  },
+  "156": {
+    "lts": "Esabuni",
+    "en": "soap"
+  },
+  "157": {
+    "lts": "Esabuni",
+    "en": "soap"
+  },
+  "158": {
+    "lts": "Buli omundu yilinda!",
+    "en": "Stay safe, everyone!"
+  },
+  "159": {
+    "lts": "Buli omundu yilinda!",
+    "en": "Stay safe, everyone!"
+  },
+  "160": {
+    "lts": "Buli omundu yilinda!",
+    "en": "Stay safe, everyone!"
+  },
+  "161": {
+    "lts": "Buli omundu yilinda!",
+    "en": "Stay safe, everyone!"
+  },
+  "162": {
+    "lts": "Esabuni",
+    "en": "soap"
+  },
+  "163": {
+    "lts": "Esabuni",
+    "en": "soap"
+  },
+  "164": {
+    "lts": "Read the articles for more tips!",
+    "en": "Read the articles for more tips!"
+  },
+  "165": {
+    "lts": "Read the articles for more tips!",
+    "en": "Read the articles for more tips!"
+  },
+  "166": {
+    "lts": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020).",
+    "en": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "167": {
+    "lts": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020).",
+    "en": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "168": {
+    "lts": "\"The Wunah Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report (Jan 25, 2020)",
+    "en": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "169": {
+    "lts": "\"The Wunah Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report (Jan 25, 2020)",
+    "en": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)"
+  },
+  "170": {
+    "lts": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosental, in the New York Times, Opinion. (Jan 28, 2020)",
+    "en": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020"
+  },
+  "171": {
+    "lts": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosental, in the New York Times, Opinion. (Jan 28, 2020)",
+    "en": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020"
+  },
+  "172": {
+    "lts": "Main references for medical info:",
+    "en": "Main references for medical info:"
+  },
+  "173": {
+    "lts": "Main references for medical info:",
+    "en": "Main references for medical info:"
+  },
+  "174": {
+    "lts": "For all other uses, please send a request in to: comicsforgood@gmail.com",
+    "en": "\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+  },
+  "175": {
+    "lts": "For all other uses, please send a request in to: comicsforgood@gmail.com",
+    "en": "\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com"
+  },
+  "177": {
+    "lts": "Olumbe lwa Korona",
+    "en": "About Coronavirus"
+  },
+  "178": {
+    "lts": "Olumbe lwa Korona",
+    "en": "About Coronavirus"
+  },
+  "179": {
+    "lts": "Olumbe lwa Korona",
+    "en": "About Coronavirus"
+  },
+  "185": {
+    "en": "Bible Translation and Literacy, E.A"
+  },
+  "190": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

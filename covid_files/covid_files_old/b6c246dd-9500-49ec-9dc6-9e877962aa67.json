@@ -1,0 +1,361 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "b6c246dd-9500-49ec-9dc6-9e877962aa67",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Local-Community",
+  "folio": false,
+  "isRtl": false,
+  "title": "S\u00cdNTOMAS DEL COVID-19",
+  "allTitles": "{\"es\":\"S\u00cdNTOMAS DEL COVID-19\"}",
+  "originalTitle": "S\u00cdNTOMAS DEL COVID-19",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "1a648b00-1ec0-46a7-be11-b0dec22fa0f4,9e760841-f913-4be4-8b74-1fee37936d52",
+  "downloadSource": "cfsblomm@gmail.com/b6c246dd-9500-49ec-9dc6-9e877962aa67",
+  "license": "cc-by-nc",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": null,
+  "credits": "",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 22,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "asUh6dYuEO"
+    },
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "L5o89HLV0w"
+    }
+  ],
+  "summary": null,
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "",
+  "province": "",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "fpj1aahDD9"
+  },
+  "tools": [
+    {
+      "name": "signLanguage",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "signLanguageTool",
+  "toolboxIsOpen": true,
+  "author": null,
+  "publisher": "",
+  "originalPublisher": "",
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "signLanguage",
+    "signLanguage:csn"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "es": "Spanish",
+    "esn": "Salvadoran Sign Language",
+    "csn": "LENGUA DE SE\u00d1AS COLOMBIANA (LSC)"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "es": "S\u00cdNTOMAS DEL COVID-19"
+  },
+  "2": {
+    "es": "S\u00cdNTOMAS DEL COVID-19"
+  },
+  "3": {
+    "es": "S\u00cdNTOMAS DEL COVID-19"
+  },
+  "4": {
+    "es": "S\u00cdNTOMAS DEL COVID-19"
+  },
+  "14": {
+    "es": "S\u00cdNTOMAS DEL COVID-19"
+  },
+  "15": {
+    "es": "S\u00cdNTOMAS DEL COVID-19"
+  },
+  "16": {
+    "es": "S\u00cdNTOMAS DEL COVID-19"
+  },
+  "17": {
+    "es": "S\u00cdNTOMAS DEL COVID-19"
+  },
+  "20": {
+    "csn": "Asesora t\u00e9cnica: Sonia Shannon, SIL GSLT"
+  },
+  "23": {
+    "csn": "Agradecemos a los generosos donantes que hicieron posible este proyecto."
+  },
+  "31": {
+    "z": "",
+    "es": "La se\u00f1a de coronavirus",
+    "csn": ""
+  },
+  "32": {
+    "z": "",
+    "es": "La se\u00f1a de coronavirus",
+    "csn": ""
+  },
+  "33": {
+    "z": "",
+    "es": "La se\u00f1a de coronavirus",
+    "csn": ""
+  },
+  "34": {
+    "z": "",
+    "es": "\u00bfQu\u00e9 es el coronavirus?",
+    "csn": ""
+  },
+  "35": {
+    "z": "",
+    "es": "\u00bfQu\u00e9 es el coronavirus?",
+    "csn": ""
+  },
+  "36": {
+    "z": "",
+    "es": "\u00bfQu\u00e9 es el coronavirus?",
+    "csn": ""
+  },
+  "37": {
+    "z": "",
+    "es": "en humanos como infecciones respiratorias.",
+    "csn": ""
+  },
+  "38": {
+    "z": "",
+    "es": "en humanos como infecciones respiratorias.",
+    "csn": ""
+  },
+  "39": {
+    "z": "",
+    "es": "en humanos como infecciones respiratorias.",
+    "csn": ""
+  },
+  "40": {
+    "z": "",
+    "es": "\u00bfCu\u00e1les son los s\u00edntomas de COVID-19?",
+    "csn": ""
+  },
+  "41": {
+    "z": "",
+    "es": "\u00bfCu\u00e1les son los s\u00edntomas de COVID-19?",
+    "csn": ""
+  },
+  "42": {
+    "z": "",
+    "es": "\u00bfCu\u00e1les son los s\u00edntomas de COVID-19?",
+    "csn": ""
+  },
+  "43": {
+    "z": "",
+    "es": "Fiebre",
+    "csn": ""
+  },
+  "44": {
+    "z": "",
+    "es": "Fiebre",
+    "csn": ""
+  },
+  "45": {
+    "z": "",
+    "es": "Fiebre",
+    "csn": ""
+  },
+  "46": {
+    "z": "",
+    "es": "Tos seca",
+    "csn": ""
+  },
+  "47": {
+    "z": "",
+    "es": "Tos seca",
+    "csn": ""
+  },
+  "48": {
+    "z": "",
+    "es": "Tos seca",
+    "csn": ""
+  },
+  "49": {
+    "z": "",
+    "es": "Cansancio",
+    "csn": ""
+  },
+  "50": {
+    "z": "",
+    "es": "Cansancio",
+    "csn": ""
+  },
+  "51": {
+    "z": "",
+    "es": "Cansancio",
+    "csn": ""
+  },
+  "52": {
+    "z": "",
+    "es": "Dolor de cuerpo",
+    "csn": ""
+  },
+  "53": {
+    "z": "",
+    "es": "Dolor de cuerpo",
+    "csn": ""
+  },
+  "54": {
+    "z": "",
+    "es": "Dolor de cuerpo",
+    "csn": ""
+  },
+  "55": {
+    "z": "",
+    "es": "Dolor de garganta",
+    "csn": ""
+  },
+  "56": {
+    "z": "",
+    "es": "Dolor de garganta",
+    "csn": ""
+  },
+  "57": {
+    "z": "",
+    "es": "Dolor de garganta",
+    "csn": ""
+  },
+  "58": {
+    "z": "",
+    "es": "Diarrea",
+    "csn": ""
+  },
+  "59": {
+    "z": "",
+    "es": "Diarrea",
+    "csn": ""
+  },
+  "60": {
+    "z": "",
+    "es": "Diarrea",
+    "csn": ""
+  },
+  "61": {
+    "z": "",
+    "es": "Conjuntivitis",
+    "csn": ""
+  },
+  "62": {
+    "z": "",
+    "es": "Conjuntivitis",
+    "csn": ""
+  },
+  "63": {
+    "z": "",
+    "es": "Conjuntivitis",
+    "csn": ""
+  },
+  "64": {
+    "z": "",
+    "es": "Dolor de cabeza",
+    "csn": ""
+  },
+  "65": {
+    "z": "",
+    "es": "Dolor de cabeza",
+    "csn": ""
+  },
+  "66": {
+    "z": "",
+    "es": "Dolor de cabeza",
+    "csn": ""
+  },
+  "67": {
+    "z": "",
+    "es": "P\u00e9rdida del sentido del olfato",
+    "csn": ""
+  },
+  "68": {
+    "z": "",
+    "es": "P\u00e9rdida del sentido del olfato",
+    "csn": ""
+  },
+  "69": {
+    "z": "",
+    "es": "P\u00e9rdida del sentido del olfato",
+    "csn": ""
+  },
+  "70": {
+    "z": "",
+    "es": "P\u00e9rdida del sentido del gusto",
+    "csn": ""
+  },
+  "71": {
+    "z": "",
+    "es": "P\u00e9rdida del sentido del gusto",
+    "csn": ""
+  },
+  "72": {
+    "z": "",
+    "es": "P\u00e9rdida del sentido del gusto",
+    "csn": ""
+  },
+  "73": {
+    "z": "",
+    "es": "Dolor en el pecho",
+    "csn": ""
+  },
+  "74": {
+    "z": "",
+    "es": "Dolor en el pecho",
+    "csn": ""
+  },
+  "75": {
+    "z": "",
+    "es": "Dolor en el pecho",
+    "csn": ""
+  },
+  "76": {
+    "z": "",
+    "es": "Dificultad para respirar",
+    "csn": ""
+  },
+  "77": {
+    "z": "",
+    "es": "Dificultad para respirar",
+    "csn": ""
+  },
+  "78": {
+    "z": "",
+    "es": "Dificultad para respirar",
+    "csn": ""
+  }
+}

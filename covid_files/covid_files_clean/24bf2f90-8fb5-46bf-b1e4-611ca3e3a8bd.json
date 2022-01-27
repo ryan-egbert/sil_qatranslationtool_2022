@@ -1,0 +1,346 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\"}",
+    "author": null,
+    "bookInstanceId": "24bf2f90-8fb5-46bf-b1e4-611ca3e3a8bd",
+    "bookLineage": null,
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "und": ""
+        },
+        "1": {
+            "spa": ""
+        },
+        "2": {
+            "spa": ""
+        },
+        "3": {
+            "spa": ""
+        },
+        "4": {
+            "spa": "Hay solo UNA cosa que usted necesita entender de como el coronavirus"
+        },
+        "5": {
+            "spa": "SE PROPAGA"
+        },
+        "6": {
+            "spa": "la boca"
+        },
+        "7": {
+            "spa": "la nariz"
+        },
+        "8": {
+            "spa": "los ojos"
+        },
+        "9": {
+            "spa": "entran en"
+        },
+        "10": {
+            "spa": "Persona Sana"
+        },
+        "11": {
+            "spa": "Persona Enferma"
+        },
+        "12": {
+            "spa": "El virus se propaga cuando estas gotitas"
+        },
+        "13": {
+            "spa": "Mantener distancia. Con una distancia de 2 metros puede evitar contacto con las gotitas."
+        },
+        "14": {
+            "spa": "1"
+        },
+        "15": {
+            "spa": "2m"
+        },
+        "16": {
+            "spa": "\u00a1Ach\u00fa!"
+        },
+        "17": {
+            "spa": "Si ve a alguien que tose, estornuda o est\u00e1 enfermo, puede:"
+        },
+        "18": {
+            "spa": "Darle una mascarilla.\u00a0 As\u00ed, la persona puede toser o estornudar sin poner en riesgo a los dem\u00e1s."
+        },
+        "19": {
+            "spa": "2"
+        },
+        "20": {
+            "spa": "\u00a1\u00a1\u00a1Gracias!!!"
+        },
+        "21": {
+            "spa": "Tambi\u00e9n puede:"
+        },
+        "22": {
+            "spa": "Quiz\u00e1 no est\u00e1 enferma, s\u00f3lo est\u00e1 protegi\u00e9ndose."
+        },
+        "23": {
+            "spa": "Puede que personas infectadas no presenten s\u00edntomas, pero a\u00fan as\u00ed son \ufeffcontagiosas."
+        },
+        "24": {
+            "spa": "En general, le conviene evitar lugares con mucha gente, porque no sabe quien podr\u00eda estar enfermo."
+        },
+        "25": {
+            "spa": "palillos/\ufeffcubiertos"
+        },
+        "26": {
+            "spa": "persona\ufeffsana"
+        },
+        "27": {
+            "spa": "agarraderas"
+        },
+        "28": {
+            "spa": "botones"
+        },
+        "29": {
+            "spa": "pa\u00f1uelos"
+        },
+        "30": {
+            "spa": "vasos"
+        },
+        "31": {
+            "spa": "celulares y computadoras"
+        },
+        "32": {
+            "spa": "hasta en el exterior de la mascarilla"
+        },
+        "33": {
+            "spa": "barandal"
+        },
+        "34": {
+            "spa": "mouse"
+        },
+        "35": {
+            "spa": "lapiceros"
+        },
+        "36": {
+            "spa": "pomos"
+        },
+        "37": {
+            "spa": "manos"
+        },
+        "38": {
+            "spa": "A veces, la saliva de una persona enferma puede pegarse en otras cosas."
+        },
+        "39": {
+            "spa": "todos podr\u00edan enfermarse."
+        },
+        "40": {
+            "spa": "o la de un querido"
+        },
+        "41": {
+            "spa": "frota los ojos"
+        },
+        "42": {
+            "spa": "Si toca cualquiera de estas cosas sin querer y despu\u00e9s se toca la cara,"
+        },
+        "43": {
+            "spa": "La \u00fanica manera eficaz de eliminarlos es lavar los objectos con jab\u00f3n, blanqueador o alcohol medicinal."
+        },
+        "44": {
+            "spa": "Los virus pueden durar muchas horas en los objetos."
+        },
+        "45": {
+            "spa": "jab\u00f3n"
+        },
+        "46": {
+            "spa": "precauciones"
+        },
+        "47": {
+            "spa": "Para evitar contagios, siga estas"
+        },
+        "48": {
+            "spa": "l\u00e1vese con\ufeffjab\u00f3n hasta aqu\u00ed"
+        },
+        "49": {
+            "spa": "jab\u00f3n"
+        },
+        "50": {
+            "spa": "codo"
+        },
+        "51": {
+            "spa": "No toque su cara (o la de alguien m\u00e1s).\ufeffSi tiene que hacerlo, l\u00e1vese completamente las manos"
+        },
+        "52": {
+            "spa": "el tiempo suficiente para cantar \"Cumplea\u00f1os feliz\" dos veces"
+        },
+        "53": {
+            "spa": "debajo de las u\u00f1as"
+        },
+        "54": {
+            "spa": "por 20 segundos"
+        },
+        "55": {
+            "spa": "entre los dedos"
+        },
+        "56": {
+            "spa": "l\u00e1vese la parte de atr\u00e1s"
+        },
+        "57": {
+            "spa": "\u00bfQu\u00e9 quiere decir \"completamente\"?"
+        },
+        "58": {
+            "spa": "Si lo hizo, no se preocupe.\u00a0 Solo l\u00e1vese bien las manos con jab\u00f3n despu\u00e9s.\u00a0 \u00a0\u00a0"
+        },
+        "59": {
+            "spa": "No toque el exterior de la mascarilla."
+        },
+        "60": {
+            "spa": "gotitas"
+        },
+        "61": {
+            "spa": "Si la uses por mucho tiempo la misma mascarilla puede acumular bacterias por dentro."
+        },
+        "62": {
+            "spa": "Tire las mascarillas que est\u00e9n sucios.\ufeff\u00a1No las use m\u00e1s de un d\u00eda!"
+        },
+        "63": {
+            "spa": "Use una cuchara especial para servir."
+        },
+        "64": {
+            "spa": "Beb\u00e9"
+        },
+        "65": {
+            "spa": "Pap\u00e1"
+        },
+        "66": {
+            "spa": "Mam\u00e1"
+        },
+        "67": {
+            "spa": "Todos deben de tener su propia toalla."
+        },
+        "68": {
+            "spa": "No comparta comida, cubiertos, vasos ni toallas."
+        },
+        "69": {
+            "spa": "No puede tocarse la cara con los codos, por m\u00e1s que lo intente."
+        },
+        "70": {
+            "spa": "Abra y cierre las puertas con los hombros o codos. Evite usar las manos."
+        },
+        "71": {
+            "spa": "Hogar"
+        },
+        "72": {
+            "spa": "y despu\u00e9s de estar en la calle."
+        },
+        "73": {
+            "spa": "antes de comer"
+        },
+        "74": {
+            "spa": "Siempre l\u00e1vese las manos..."
+        },
+        "75": {
+            "spa": "Finalmente,"
+        },
+        "76": {
+            "spa": "jab\u00f3n"
+        },
+        "77": {
+            "spa": "\u00a1CU\u00cdDENSE!"
+        },
+        "78": {
+            "spa": "\u00a1CU\u00cdDENSE!"
+        },
+        "79": {
+            "spa": "jab\u00f3n"
+        },
+        "80": {
+            "spa": "Lee estos art\u00edculos para mayor informaci\u00f3n."
+        },
+        "81": {
+            "spa": "\"This animation shows how far your sneeze can actually travel\" por Chia Yi Hou, en Business Insider (21 de enero de 2020)"
+        },
+        "82": {
+            "spa": "\"The Wuhan Virus: How to stay safe\", por Laurie Garrett, en Foreign Policy, Repert. (25 de enero de 2020)"
+        },
+        "83": {
+            "spa": "\"How to avoid the coronavirus? Wash your hands\" por Elizabeth Sosenthal, en The New York Times, Opinion. (28 de enero de 2020)"
+        },
+        "84": {
+            "spa": "Principales referencias m\u00e9dicas:"
+        },
+        "85": {
+            "spa": "Notas adicionales: \u00a0Las precauciones higi\u00e9nicas en este c\u00f3mic son eficaces para prevenir muchas otras infecciones comunes como la gripe y el resfriado, y deben ser aplicados en la vida diaria, incluso cuando no hay una epidemia.\ufeff\ufeffReferencias: La informaci\u00f3n en este c\u00f3mic se basa en lo que sabemos del COVID19 hasta el 28 de febrero de 2020, y principalmente de estas tres referencias:\ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\ufeff\ufeffInformaci\u00f3n adicional: Una versi\u00f3n en PDF del c\u00f3mic est\u00e1 disponible para su descarga gratuita aqu\u00ed:\ufeffhttps://gumroad.com/weimankowart\ufeffDirectrices para compartir: Este c\u00f3mic es gratuito para que el p\u00fablico en general lo comparta en l\u00ednea y a trav\u00e9s de Whatsapp y Telegram, y las descargas son gratuitas para imprimirlas como carteles (p\u00f3sters) para uso personal y educativo en hogares, escuelas y lugares de trabajo.Cuando compartan, por favor recuerden estos 3 puntos:\ufeff\ufeff1) No se permite de ninguna manera editar los c\u00f3mics cuando se compartan\ufeff\ufeff2) Los c\u00f3mics no pueden ser usados para ning\u00fan proyecto comercial\ufeff3) Si en l\u00ednea, acrediten al creador en FB etiquetando @weimankowart, en IG etiquetando @weimankow (IG), o proporcionando un enlace a instagram com/weimankow\n\ufeffPara todos los dem\u00e1s usos, por favor env\u00ede una solicitud a: comicsforgood@gmail.com\ufeff(Est\u00e1 p\u00e1gina fue traducido por Crist\u00f3bal con la ayuda de DeepL)"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "spa": "Sobre el Coronavirus",
+            "und": ""
+        },
+        "87": {
+            "spa": ""
+        },
+        "88": {
+            "spa": ""
+        },
+        "89": {
+            "spa": "Translation by the Embassy of Mexico in the United States, Matthew A. Gray, and others"
+        },
+        "90": {
+            "spa": "Created by Weiman Kow, instagram: weimankow"
+        },
+        "91": {
+            "spa": ""
+        },
+        "92": {
+            "spa": ""
+        },
+        "93": {
+            "spa": ""
+        },
+        "94": {
+            "spa": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\n\n\n\n\n\n\n",
+        "spa": "Sobre el Coronavirus\n\n\n\nHay solo UNA cosa que usted necesita entender de como el coronavirus\nSE PROPAGA\nla boca\nla nariz\nlos ojos\nentran en\nPersona Sana\nPersona Enferma\nEl virus se propaga cuando estas gotitas\nMantener distancia. Con una distancia de 2 metros puede evitar contacto con las gotitas.\n1\n2m\n\u00a1Ach\u00fa!\nSi ve a alguien que tose, estornuda o est\u00e1 enfermo, puede:\nDarle una mascarilla.\u00a0 As\u00ed, la persona puede toser o estornudar sin poner en riesgo a los dem\u00e1s.\n2\n\u00a1\u00a1\u00a1Gracias!!!\nTambi\u00e9n puede:\nQuiz\u00e1 no est\u00e1 enferma, s\u00f3lo est\u00e1 protegi\u00e9ndose.\nPuede que personas infectadas no presenten s\u00edntomas, pero a\u00fan as\u00ed son \ufeffcontagiosas.\nEn general, le conviene evitar lugares con mucha gente, porque no sabe quien podr\u00eda estar enfermo.\npalillos/\ufeffcubiertos\npersona\ufeffsana\nagarraderas\nbotones\npa\u00f1uelos\nvasos\ncelulares y computadoras\nhasta en el exterior de la mascarilla\nbarandal\nmouse\nlapiceros\npomos\nmanos\nA veces, la saliva de una persona enferma puede pegarse en otras cosas.\ntodos podr\u00edan enfermarse.\no la de un querido\nfrota los ojos\nSi toca cualquiera de estas cosas sin querer y despu\u00e9s se toca la cara,\nLa \u00fanica manera eficaz de eliminarlos es lavar los objectos con jab\u00f3n, blanqueador o alcohol medicinal.\nLos virus pueden durar muchas horas en los objetos.\njab\u00f3n\nprecauciones\nPara evitar contagios, siga estas\nl\u00e1vese con\ufeffjab\u00f3n hasta aqu\u00ed\njab\u00f3n\ncodo\nNo toque su cara (o la de alguien m\u00e1s).\ufeffSi tiene que hacerlo, l\u00e1vese completamente las manos\nel tiempo suficiente para cantar \"Cumplea\u00f1os feliz\" dos veces\ndebajo de las u\u00f1as\npor 20 segundos\nentre los dedos\nl\u00e1vese la parte de atr\u00e1s\n\u00bfQu\u00e9 quiere decir \"completamente\"?\nSi lo hizo, no se preocupe.\u00a0 Solo l\u00e1vese bien las manos con jab\u00f3n despu\u00e9s.\u00a0 \u00a0\u00a0\nNo toque el exterior de la mascarilla.\ngotitas\nSi la uses por mucho tiempo la misma mascarilla puede acumular bacterias por dentro.\nTire las mascarillas que est\u00e9n sucios.\ufeff\u00a1No las use m\u00e1s de un d\u00eda!\nUse una cuchara especial para servir.\nBeb\u00e9\nPap\u00e1\nMam\u00e1\nTodos deben de tener su propia toalla.\nNo comparta comida, cubiertos, vasos ni toallas.\nNo puede tocarse la cara con los codos, por m\u00e1s que lo intente.\nAbra y cierre las puertas con los hombros o codos. Evite usar las manos.\nHogar\ny despu\u00e9s de estar en la calle.\nantes de comer\nSiempre l\u00e1vese las manos...\nFinalmente,\njab\u00f3n\n\u00a1CU\u00cdDENSE!\n\u00a1CU\u00cdDENSE!\njab\u00f3n\nLee estos art\u00edculos para mayor informaci\u00f3n.\n\"This animation shows how far your sneeze can actually travel\" por Chia Yi Hou, en Business Insider (21 de enero de 2020)\n\"The Wuhan Virus: How to stay safe\", por Laurie Garrett, en Foreign Policy, Repert. (25 de enero de 2020)\n\"How to avoid the coronavirus? Wash your hands\" por Elizabeth Sosenthal, en The New York Times, Opinion. (28 de enero de 2020)\nPrincipales referencias m\u00e9dicas:\nNotas adicionales: \u00a0Las precauciones higi\u00e9nicas en este c\u00f3mic son eficaces para prevenir muchas otras infecciones comunes como la gripe y el resfriado, y deben ser aplicados en la vida diaria, incluso cuando no hay una epidemia.\ufeff\ufeffReferencias: La informaci\u00f3n en este c\u00f3mic se basa en lo que sabemos del COVID19 hasta el 28 de febrero de 2020, y principalmente de estas tres referencias:\ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\ufeff\ufeffInformaci\u00f3n adicional: Una versi\u00f3n en PDF del c\u00f3mic est\u00e1 disponible para su descarga gratuita aqu\u00ed:\ufeffhttps://gumroad.com/weimankowart\ufeffDirectrices para compartir: Este c\u00f3mic es gratuito para que el p\u00fablico en general lo comparta en l\u00ednea y a trav\u00e9s de Whatsapp y Telegram, y las descargas son gratuitas para imprimirlas como carteles (p\u00f3sters) para uso personal y educativo en hogares, escuelas y lugares de trabajo.Cuando compartan, por favor recuerden estos 3 puntos:\ufeff\ufeff1) No se permite de ninguna manera editar los c\u00f3mics cuando se compartan\ufeff\ufeff2) Los c\u00f3mics no pueden ser usados para ning\u00fan proyecto comercial\ufeff3) Si en l\u00ednea, acrediten al creador en FB etiquetando @weimankowart, en IG etiquetando @weimankow (IG), o proporcionando un enlace a instagram com/weimankow\n\ufeffPara todos los dem\u00e1s usos, por favor env\u00ede una solicitud a: comicsforgood@gmail.com\ufeff(Est\u00e1 p\u00e1gina fue traducido por Crist\u00f3bal con la ayuda de DeepL)\nSobre el Coronavirus\n\n\nTranslation by the Embassy of Mexico in the United States, Matthew A. Gray, and others\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "spa",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, SIL LEAD, Inc.",
+    "country": "",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "8YzEAaA09V"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "espa\u00f1ol"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Do not change the text of this work, but you may translate it, adapt it into other forms, and distribute it for non-commerical purposes. You must keep the copyrights and credits for the author and illustrator Weiman Kow.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Este libro informa sobre el coronavius COVID19",
+    "tags": [],
+    "title": "Sobre el Coronavirus",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

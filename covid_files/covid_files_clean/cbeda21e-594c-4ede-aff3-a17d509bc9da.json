@@ -1,0 +1,364 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"id\":\"Tentang Virus Corona\",\"llg\":\"Na'de Virus Korona\",\"lts\":\"Olumbe lwa Korona\"}",
+    "author": null,
+    "bookInstanceId": "cbeda21e-594c-4ede-aff3-a17d509bc9da",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "Tentang Virus Corona",
+            "llg": "Na'de Virus Korona\u00a0",
+            "lts": "Olumbe lwa Korona"
+        },
+        "1": {
+            "ind": "",
+            "llg": ""
+        },
+        "2": {
+            "ind": "",
+            "llg": ""
+        },
+        "3": {
+            "llg": ""
+        },
+        "4": {
+            "llg": "Hambu kada dalak esa ka fo ei malelak tao leo be de virus korona ana la\u2019e hataholi-la.\n"
+        },
+        "5": {
+            "llg": ""
+        },
+        "6": {
+            "llg": "bafak\n"
+        },
+        "7": {
+            "llg": "iduk\n"
+        },
+        "8": {
+            "llg": "mata\n"
+        },
+        "9": {
+            "llg": "Neni dalek neu nesik\n"
+        },
+        "10": {
+            "llg": "Hataholi neulauk\n"
+        },
+        "11": {
+            "llg": "Hataholi kamahedik\n"
+        },
+        "12": {
+            "llg": "Virus ana la\u2019e hataholi mete ma mbinu-ambe mana lambuk ia\n"
+        },
+        "13": {
+            "llg": "Makadodook.\nMete ma O makadodook meter 2 na mbinu-ambe ta lambu la\u2019e O.\n"
+        },
+        "14": {
+            "llg": "1"
+        },
+        "15": {
+            "llg": "2m-0,5m"
+        },
+        "16": {
+            "llg": "Haaaci !\n"
+        },
+        "17": {
+            "llg": "De mete ma O mita hataholi esa ana bo\u2019o/kisufani/namahedi na:\n"
+        },
+        "18": {
+            "llg": "Fe sala lalapa idu-bafak.\nDe ala kisufani/bo\u2019o nai lalapak dalek, fo suek ndia boso ana dai hataholi manai ba\u2019ianak sila.\n"
+        },
+        "19": {
+            "llg": "2"
+        },
+        "20": {
+            "llg": "Makasi no\u2019uk\n*SROOT*"
+        },
+        "21": {
+            "llg": "DO"
+        },
+        "22": {
+            "llg": "Meda hataholi ia ta kamahedik. Kada ana nanea ao-inan.\n"
+        },
+        "23": {
+            "llg": "Hataholi fo mana hambu virus ia meda ta ana natudu hedis esa boe, tehu ana bisa neni virus fe hataholi fe\u2019ek.\n"
+        },
+        "24": {
+            "llg": "Malole lenak makadodook neme hataholi mana makabubuak ala mai, te O ta bubuluk se ndia kamahedik.\n"
+        },
+        "25": {
+            "llg": "Suluk\n"
+        },
+        "26": {
+            "llg": "Hataholi neulauk\n"
+        },
+        "27": {
+            "llg": "Kereta/oto toto\u2019un\n"
+        },
+        "28": {
+            "llg": "Lift nene\u2019en\n"
+        },
+        "29": {
+            "llg": "Tisu\n"
+        },
+        "30": {
+            "llg": "Nggalaas\n"
+        },
+        "31": {
+            "llg": "Bua elektronik\n"
+        },
+        "32": {
+            "llg": "Boema lalapak dean"
+        },
+        "33": {
+            "llg": "Edak toto\u2019un\n"
+        },
+        "34": {
+            "llg": "komputer mous\n"
+        },
+        "35": {
+            "llg": "Bolpoin\n"
+        },
+        "36": {
+            "llg": "Lelesu toto\u2019un\n"
+        },
+        "37": {
+            "llg": "Sila liman\n"
+        },
+        "38": {
+            "llg": "Hataholi kamahedik mbinu-amben bisa ana la\u2019e\u2026\n"
+        },
+        "39": {
+            "llg": "Ei basanggei bisa mamahedi.\n"
+        },
+        "40": {
+            "llg": "Do hataholi fo O suek ala mata-mbanan\n"
+        },
+        "41": {
+            "llg": "Kokose matak\n"
+        },
+        "42": {
+            "llg": "Mete ma O kame la\u2019e hata sila, boema O kamen neu O mata mbanan ala,\n"
+        },
+        "43": {
+            "llg": "mae tao heni virus ia na dalan kada esa ka, ndia safe henin nenik sabu, pemutih do alkohol."
+        },
+        "44": {
+            "llg": "Ei basanggei bisa mamahedi,"
+        },
+        "45": {
+            "llg": "Sabu"
+        },
+        "46": {
+            "llg": ""
+        },
+        "47": {
+            "llg": "Hu ndia, de malole lenak tao tungga dalak fo nakadodook hedis ia.\n"
+        },
+        "48": {
+            "llg": "Mafui oe munik sabu losa ia.\n"
+        },
+        "49": {
+            "llg": "Sabu"
+        },
+        "50": {
+            "llg": "Lima bu\u2019uk\n"
+        },
+        "51": {
+            "llg": "Boso kame la\u2019e O mata-mbanan (do hataholi fe\u2019ek mata-mbanan).\nMete ma leo ndiak na safe malalao ei limam makahuluk menik sabu."
+        },
+        "52": {
+            "llg": "Samak leo soda sosodak \u201cselamat ulang tahun\u201d la\u2019e dua.\n"
+        },
+        "53": {
+            "llg": "lima fanggak ala\n"
+        },
+        "54": {
+            "llg": "Losa detik\n20"
+        },
+        "55": {
+            "llg": "lima ku\u2019uk tadan ala\n"
+        },
+        "56": {
+            "llg": "Safe lima deak\n"
+        },
+        "57": {
+            "llg": "Nafui oe losa lalaok na tao leo bek?\n"
+        },
+        "58": {
+            "llg": "Mete ma kame la\u2019en na boso bi. Lai-lai fo mafui oe munik sabu."
+        },
+        "59": {
+            "llg": "Boso kame la\u2019e lalapak dean.\n"
+        },
+        "60": {
+            "llg": "Ambe ana mbilu\n"
+        },
+        "61": {
+            "llg": "Mete ma lalapak nanapakek don seli, na bakteri\u00a0la bisa lasoda lai lalapak dalen.\n"
+        },
+        "62": {
+            "llg": "Mete ma O lalapa idu-bafan manggenggeok na nggali henin. Boso pake lalapak lena heni faik esa.\n"
+        },
+        "63": {
+            "llg": "Pake sulu aidoo"
+        },
+        "64": {
+            "llg": "Kakanak"
+        },
+        "65": {
+            "llg": "Amak"
+        },
+        "66": {
+            "llg": "Ina"
+        },
+        "67": {
+            "llg": "Esa ko handun\n"
+        },
+        "68": {
+            "llg": "Boso pake makabubua nana\u2019ak, pingga-suluk, nggalaas, ma handuk.\n"
+        },
+        "69": {
+            "llg": "O ta bisa la\u2019e O matam ma lima bu\u2019um pake lima bu\u2019uk, hena O soba sudik."
+        },
+        "70": {
+            "llg": "Malole lenak soi do kena lelesu pake lima bu\u2019uk do aluk.\n\n"
+        },
+        "71": {
+            "llg": "UMA"
+        },
+        "72": {
+            "llg": "fali neme dea mai\n"
+        },
+        "73": {
+            "llg": "Deifo mu\u2019a-minu\n"
+        },
+        "74": {
+            "llg": "Masanenedak fo mafui oe makahuluk munik sabu\u2026.\n"
+        },
+        "75": {
+            "llg": "Hu ndia de,\n"
+        },
+        "76": {
+            "llg": "Sabu"
+        },
+        "77": {
+            "llg": "Manea O ao-inam!\n"
+        },
+        "78": {
+            "llg": "Manea O ao-inam!\n"
+        },
+        "79": {
+            "llg": "Sabu"
+        },
+        "80": {
+            "llg": "Les basa natutuduk fo manai susulak sila!"
+        },
+        "81": {
+            "llg": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "llg": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+        },
+        "83": {
+            "llg": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "llg": "Susula natutudu hedi-laus:\n"
+        },
+        "85": {
+            "llg": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nInformasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.\nSaat membagikan komik ini, ingat 3 hal berikut: \ufeff1) Dilarang mengedit gambar komik yang akan dibagikan. \ufeff2) Komik ini tidak dapat diperjualbelikan. \ufeff3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0\nUntuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "Tentang Virus Corona",
+            "llg": "Na'de Virus Korona\u00a0",
+            "lts": "Olumbe lwa Korona"
+        },
+        "87": {
+            "ind": "",
+            "llg": ""
+        },
+        "88": {
+            "ind": "Diterjemahkan dalam Bahasa Lole oleh Jermy Balukh",
+            "llg": ""
+        },
+        "89": {
+            "ind": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi bahasa daerah : www.suluh.org",
+            "llg": ""
+        },
+        "90": {
+            "ind": "Created by Weiman Kow, instagram: weimankow",
+            "llg": ""
+        },
+        "91": {
+            "ind": "",
+            "llg": ""
+        },
+        "92": {
+            "ind": "",
+            "llg": ""
+        },
+        "93": {
+            "ind": "",
+            "llg": ""
+        },
+        "94": {
+            "ind": "",
+            "llg": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\n\n\n\n\n\n\n\n",
+        "ind": "Tentang Virus Corona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTentang Virus Corona\n\nDiterjemahkan dalam Bahasa Lole oleh Jermy Balukh\nVersi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi bahasa daerah : www.suluh.org\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "llg": "Na'de Virus Korona\u00a0\n\n\n\nHambu kada dalak esa ka fo ei malelak tao leo be de virus korona ana la\u2019e hataholi-la.\n\n\nbafak\n\niduk\n\nmata\n\nNeni dalek neu nesik\n\nHataholi neulauk\n\nHataholi kamahedik\n\nVirus ana la\u2019e hataholi mete ma mbinu-ambe mana lambuk ia\n\nMakadodook.\nMete ma O makadodook meter 2 na mbinu-ambe ta lambu la\u2019e O.\n\n1\n2m-0,5m\nHaaaci !\n\nDe mete ma O mita hataholi esa ana bo\u2019o/kisufani/namahedi na:\n\nFe sala lalapa idu-bafak.\nDe ala kisufani/bo\u2019o nai lalapak dalek, fo suek ndia boso ana dai hataholi manai ba\u2019ianak sila.\n\n2\nMakasi no\u2019uk\n*SROOT*\nDO\nMeda hataholi ia ta kamahedik. Kada ana nanea ao-inan.\n\nHataholi fo mana hambu virus ia meda ta ana natudu hedis esa boe, tehu ana bisa neni virus fe hataholi fe\u2019ek.\n\nMalole lenak makadodook neme hataholi mana makabubuak ala mai, te O ta bubuluk se ndia kamahedik.\n\nSuluk\n\nHataholi neulauk\n\nKereta/oto toto\u2019un\n\nLift nene\u2019en\n\nTisu\n\nNggalaas\n\nBua elektronik\n\nBoema lalapak dean\nEdak toto\u2019un\n\nkomputer mous\n\nBolpoin\n\nLelesu toto\u2019un\n\nSila liman\n\nHataholi kamahedik mbinu-amben bisa ana la\u2019e\u2026\n\nEi basanggei bisa mamahedi.\n\nDo hataholi fo O suek ala mata-mbanan\n\nKokose matak\n\nMete ma O kame la\u2019e hata sila, boema O kamen neu O mata mbanan ala,\n\nmae tao heni virus ia na dalan kada esa ka, ndia safe henin nenik sabu, pemutih do alkohol.\nEi basanggei bisa mamahedi,\nSabu\n\nHu ndia, de malole lenak tao tungga dalak fo nakadodook hedis ia.\n\nMafui oe munik sabu losa ia.\n\nSabu\nLima bu\u2019uk\n\nBoso kame la\u2019e O mata-mbanan (do hataholi fe\u2019ek mata-mbanan).\nMete ma leo ndiak na safe malalao ei limam makahuluk menik sabu.\nSamak leo soda sosodak \u201cselamat ulang tahun\u201d la\u2019e dua.\n\nlima fanggak ala\n\nLosa detik\n20\nlima ku\u2019uk tadan ala\n\nSafe lima deak\n\nNafui oe losa lalaok na tao leo bek?\n\nMete ma kame la\u2019en na boso bi. Lai-lai fo mafui oe munik sabu.\nBoso kame la\u2019e lalapak dean.\n\nAmbe ana mbilu\n\nMete ma lalapak nanapakek don seli, na bakteri\u00a0la bisa lasoda lai lalapak dalen.\n\nMete ma O lalapa idu-bafan manggenggeok na nggali henin. Boso pake lalapak lena heni faik esa.\n\nPake sulu aidoo\nKakanak\nAmak\nIna\nEsa ko handun\n\nBoso pake makabubua nana\u2019ak, pingga-suluk, nggalaas, ma handuk.\n\nO ta bisa la\u2019e O matam ma lima bu\u2019um pake lima bu\u2019uk, hena O soba sudik.\nMalole lenak soi do kena lelesu pake lima bu\u2019uk do aluk.\n\n\nUMA\nfali neme dea mai\n\nDeifo mu\u2019a-minu\n\nMasanenedak fo mafui oe makahuluk munik sabu\u2026.\n\nHu ndia de,\n\nSabu\nManea O ao-inam!\n\nManea O ao-inam!\n\nSabu\nLes basa natutuduk fo manai susulak sila!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)\nSusula natutudu hedi-laus:\n\nKeterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nInformasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.\nSaat membagikan komik ini, ingat 3 hal berikut: \ufeff1) Dilarang mengedit gambar komik yang akan dibagikan. \ufeff2) Komik ini tidak dapat diperjualbelikan. \ufeff3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0\nUntuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\nNa'de Virus Korona\u00a0\n\n\n\n\n\n\n\n",
+        "lts": "Olumbe lwa Korona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOlumbe lwa Korona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "lts",
+        "eng",
+        "llg",
+        "ind"
+    ],
+    "copyright": "Copyright \u00a9 2020, Yayasan Suluh",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "86MMkyUoiw"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "id": "Indonesian",
+        "llg": "Lole",
+        "lts": "Lutachoni"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "Na'de Virus Korona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

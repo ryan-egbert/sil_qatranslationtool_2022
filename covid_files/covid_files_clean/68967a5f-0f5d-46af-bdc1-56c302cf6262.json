@@ -1,0 +1,435 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"row\":\"So'al Koronavirus\"}",
+    "author": null,
+    "bookInstanceId": "68967a5f-0f5d-46af-bdc1-56c302cf6262",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,726d708d-535e-47af-8905-ce6e5e0d745c",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "row": "So'al Koronavirus",
+            "und": ""
+        },
+        "1": {
+            "row": ""
+        },
+        "2": {
+            "row": ""
+        },
+        "3": {
+            "eng": "",
+            "row": ""
+        },
+        "4": {
+            "eng": "There's only ONE thing \ufeffyou need to understand about how a coronavirus",
+            "row": "Hambu 'aka' 'a dala' ESA fo hei parlu mihine so'al ta'o bee fo koronavirus a"
+        },
+        "5": {
+            "eng": "SPREADS",
+            "row": "dai atahori hetar."
+        },
+        "6": {
+            "eng": "Mouth",
+            "row": "bafa ma"
+        },
+        "7": {
+            "eng": "Nose",
+            "row": "mbana ma"
+        },
+        "8": {
+            "eng": "Eyes",
+            "row": "mata ma"
+        },
+        "9": {
+            "eng": "Get into your",
+            "row": "maso' nisi'"
+        },
+        "10": {
+            "eng": "Healthy Person",
+            "row": "Atahori nda mamahed'i' sa"
+        },
+        "11": {
+            "eng": "Sick Person",
+            "row": "Atahori mamahed'i'"
+        },
+        "12": {
+            "eng": "The virus spreads when \ufeffthese droplets",
+            "row": "Virus a dai atahori, lele' oe titi' ia ra,"
+        },
+        "13": {
+            "eng": "Keep your distance.\ufeff2m will keep you safe from large droplets.",
+            "row": "Mu'ud'od'oo'! Meter 2 fo fe'e na nda dai oe titi monae' sa."
+        },
+        "14": {
+            "eng": "1",
+            "row": "1"
+        },
+        "15": {
+            "eng": "2m",
+            "row": "meter 2"
+        },
+        "16": {
+            "eng": "Achoo!",
+            "row": "Acii!"
+        },
+        "17": {
+            "eng": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:",
+            "row": "Dad'i, mete ma mita atahori esa boo, 'esufani, namahed'i na:"
+        },
+        "18": {
+            "eng": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby.",
+            "row": "Fee se masker. Ara bisa boo do 'esufani neu e, naa fo 'afi' dai atahori mana deka-deka' ra."
+        },
+        "19": {
+            "eng": "2",
+            "row": "2"
+        },
+        "20": {
+            "eng": "Thank you\ufeff*sniffles*",
+            "row": "Makasi nae'!\ufeff*boo ho'u-ho'u*"
+        },
+        "21": {
+            "eng": "OR,",
+            "row": "DO,"
+        },
+        "22": {
+            "eng": "Maybe she's not sick, just protecting herself",
+            "row": "Mbei ma ana nda namahed'i sa te ana \u00a0nanea ao na mia hed'is."
+        },
+        "23": {
+            "eng": "People who are infected can show no symptoms, but are still\ufeffinfectious",
+            "row": "La'e faa na atahori mana dai koronovirus a nda natud'u tanda sa, te ana bisa tao atahori laen dai koronavirus."
+        },
+        "24": {
+            "eng": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick.",
+            "row": "Boe ma, malole lena' mu'ud'odoo' mia atahori mana ma'ab'ub'ue' ra, huu nda muhine atahori bee mamahed'i' sa."
+        },
+        "25": {
+            "eng": "Chopsticks",
+            "row": "Susurut"
+        },
+        "26": {
+            "eng": "Healthy person",
+            "row": "Atahori nda mamahed'i' sa"
+        },
+        "27": {
+            "eng": "Train straps",
+            "row": "Toto'u' sia Kareta do bemo"
+        },
+        "28": {
+            "eng": "Lift buttons",
+            "row": "Lift a tetendes na"
+        },
+        "29": {
+            "eng": "Tissues",
+            "row": "Tisu"
+        },
+        "30": {
+            "eng": "Cups",
+            "row": "Mok"
+        },
+        "31": {
+            "eng": "Digital devices",
+            "row": "Sud'i' a saa elektronik"
+        },
+        "32": {
+            "eng": "& even on the outside of your face mask",
+            "row": "& hita masker na dean boe."
+        },
+        "33": {
+            "eng": "Stair bannisters",
+            "row": "Tangga ra toto'u na"
+        },
+        "34": {
+            "eng": "Mouse",
+            "row": "Mous"
+        },
+        "35": {
+            "eng": "Pens",
+            "row": "Bolpoin"
+        },
+        "36": {
+            "eng": "Door knobs",
+            "row": "Lelesu toto'u na"
+        },
+        "37": {
+            "eng": "Their hands",
+            "row": "Lima na ra"
+        },
+        "38": {
+            "eng": "However, sometimes a sick person's saliva can get on other things\u2026",
+            "row": "Te la'e faa na, atahori mamahed'i' esa mirun bisa dai sud'i a saa laen ra."
+        },
+        "39": {
+            "eng": "you might all fall sick.",
+            "row": "Basa nggi bisa mimihed'i."
+        },
+        "40": {
+            "eng": "or your loved one's face",
+            "row": "do atahori fo hoo sue' ra mata na ra."
+        },
+        "41": {
+            "eng": "rub eyes",
+            "row": "'o'ose mata ma ra,"
+        },
+        "42": {
+            "eng": "And if you do touch any of these things by accident, and then touch your face,",
+            "row": "Ma mete ma, hoo nda sangaja sa, te nggama dai sud'i 'a saa, naa ra, basa ma nggama mata ma,"
+        },
+        "43": {
+            "eng": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.",
+            "row": "ma hambu 'aka' dala malole' esa fo tamopo' virus ra, naeni safe hendi se tendi' sab'u, pemutih, do alkohol."
+        },
+        "44": {
+            "eng": "Viruses can last for quite a few hours on objects,",
+            "row": "Virus ra bisa ra'atataa' losa jam hira sia sud'i 'a saa ra,"
+        },
+        "45": {
+            "eng": "soap",
+            "row": "Sab'u"
+        },
+        "46": {
+            "eng": "precautions",
+            "row": ""
+        },
+        "47": {
+            "eng": "Which is why it is also good to follow these",
+            "row": "Naa de malole lena' ata tao tungga dala-dala pencegahan ia ra."
+        },
+        "48": {
+            "eng": "wash with soap up to here",
+            "row": "Safe mendi' sab'u losa ia."
+        },
+        "49": {
+            "eng": "soap",
+            "row": "Sab'u"
+        },
+        "50": {
+            "eng": "elbow",
+            "row": "Lima buku'"
+        },
+        "51": {
+            "eng": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.",
+            "row": "'Afi' nggama mata ma. (Do atahori laen mata na ra.) Mete ma hoo musi nggama, na, safe malolole basa lima ma ra mendi' sab'u dei."
+        },
+        "52": {
+            "eng": "Enough time to sing \u201cHappy Birthday\u201d twice",
+            "row": "Naa doo na 'ona' hita sod'a sosod'a fai bob'onggi' lao rua."
+        },
+        "53": {
+            "eng": "under the nails",
+            "row": "Lima 'u'u' ra rala na."
+        },
+        "54": {
+            "eng": "for 20 seconds",
+            "row": "Losa detik 20."
+        },
+        "55": {
+            "eng": "between the fingers",
+            "row": "Safe lima 'u'u ma ra talad'a na ra."
+        },
+        "56": {
+            "eng": "wash the back of your hands",
+            "row": "Safe lima ma ra dea na ra."
+        },
+        "57": {
+            "eng": "What is thoroughly?",
+            "row": "Safe malolole na 'ona' bee?"
+        },
+        "58": {
+            "eng": "If you did, don't worry. Just wash your hands with soap after.",
+            "row": "Mete ma nggama dai masker a dea', na, 'afi' dud'ua nae'. Sad'i basa na safe lima ma ra mendi' sab'u."
+        },
+        "59": {
+            "eng": "Also, don't touch the outside of the mask if you can.",
+            "row": "Boe ma, kalo bisa na 'afi' nggama masker a dea'."
+        },
+        "60": {
+            "eng": "droplets",
+            "row": "Oe titi' ra."
+        },
+        "61": {
+            "eng": "*Bacteria grows on the insides of your mask if you wear them too long",
+            "row": "*Bakteri ra mori sia masker ra rala' mete ma hita pake se losa doo' talalu."
+        },
+        "62": {
+            "eng": "Throw away masks once they feel gross. Don't wear them for more than a day!",
+            "row": "Nggari hendi masker ra, mete ma rasa ara manggenggeo' ena. 'Afi' pake se lena' fai esa."
+        },
+        "63": {
+            "eng": "Use a serving spoon",
+            "row": "Pake sosod'et."
+        },
+        "64": {
+            "eng": "Baby",
+            "row": "Anadiki'"
+        },
+        "65": {
+            "eng": "Daddy",
+            "row": "Papa"
+        },
+        "66": {
+            "eng": "Mommy",
+            "row": "Mama"
+        },
+        "67": {
+            "eng": "Everyone gets their own towel",
+            "row": "Esa' handuk na."
+        },
+        "68": {
+            "eng": "Do not share food, utensils, cups, towels.",
+            "row": "'Afi' mia mi'ib'ue nanaat, ma pake mi'ib'ue sud'i 'a sa ra, mok, handuk."
+        },
+        "69": {
+            "eng": "You can't touch your face with your elbow even if you tried",
+            "row": "Mae hoo sob'a o, hoo nda bisa nggama mata ma mendi' lima buku ma sa."
+        },
+        "70": {
+            "eng": "Open & close doors with your elbows or shoulders instead of hands, if possible.",
+            "row": "Kalu bisa na, buka ma 'ena lelesu ra mendi' lima buku ma do mbili ma ra."
+        },
+        "71": {
+            "eng": "Home",
+            "row": "Ume"
+        },
+        "72": {
+            "eng": "and after being out in the public",
+            "row": "ma bali' mia mamana umum."
+        },
+        "73": {
+            "eng": "Before you eat",
+            "row": "Sebelum mua,"
+        },
+        "74": {
+            "eng": "Always wash your hands with soap\u2026",
+            "row": "Safe lima ma ra mendi' sab'u nakandoo 'a."
+        },
+        "75": {
+            "eng": "And finally,",
+            "row": "Dad'i,"
+        },
+        "76": {
+            "eng": "soap",
+            "row": "sab'u"
+        },
+        "77": {
+            "eng": "Stay safe, everyone!",
+            "row": "Basa nggi minea ao ma ra!"
+        },
+        "78": {
+            "eng": "Stay safe, everyone!",
+            "row": "Basa nggi minea ao ma ra!"
+        },
+        "79": {
+            "eng": "soap",
+            "row": "sab'u"
+        },
+        "80": {
+            "eng": "Read the articles for more tips!",
+            "row": "Baca artikel a fo hambu tamba mahine'!"
+        },
+        "81": {
+            "eng": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)",
+            "row": ""
+        },
+        "82": {
+            "eng": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)",
+            "row": ""
+        },
+        "83": {
+            "eng": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020",
+            "row": ""
+        },
+        "84": {
+            "eng": "Main references for medical info:",
+            "row": "Sumber informasi med'is:"
+        },
+        "85": {
+            "eng": "Additional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com",
+            "row": "Catatan tambahan: Dala pencegahan sia komik ia malole' soa' neu hed'i menular nae', 'ona' a masanasi. Dad'i ata musi tao tungga fai-fai esa, mae hed'is ia nese ena.\nReferensi: Informasi sia komik ia lao' mia pemahaman so'al COVID19 losa tanggal 28 Februari 2020, nanaen tungga referensi katelu' ia ra.\u00a0\nhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\u00a0\u00a0\nCatatan tambahan: hita bisa download komik ia versi PDF na sia: https://gumroad.com/weimankowart\nPetunjuk untuk banggi komik ia: Masyarakat umum bisa banggi komik ia\u00a0 online (nda pake bae sa), ma tungga Whatsapp noo Telegram, ma bisa download nda pake bae sa fo print pake soa' neu nenori' sia ume, sakola' ma mamana kerja.\nMete ma tae banggi na tasaned'a dala' katelu' ia ra: 1) 'Afi' ed'it komik a. 2) Nda bole seo komik a sa. 3) Kalu tae banggi online na, tasaned'a fee kredit soa' neu mana tulis a, tungga FB na tag @weimankowart, tungga IG na tag @weimankow (IG), do tungga link instagram com/weimankow.\nMete ma tae pake untuk dala' laen na to'e isin tungga email: comicsforgood@gmail.com"
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "",
+            "row": "So'al Koronavirus",
+            "und": ""
+        },
+        "87": {
+            "row": ""
+        },
+        "88": {
+            "row": ""
+        },
+        "89": {
+            "row": "Translated by Thersia Tamelan"
+        },
+        "90": {
+            "row": "Created by Weiman Kow, instagram: weimankow"
+        },
+        "91": {
+            "row": ""
+        },
+        "92": {
+            "row": ""
+        },
+        "93": {
+            "row": ""
+        },
+        "94": {
+            "row": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\nThere's only ONE thing \ufeffyou need to understand about how a coronavirus\nSPREADS\nMouth\nNose\nEyes\nGet into your\nHealthy Person\nSick Person\nThe virus spreads when \ufeffthese droplets\nKeep your distance.\ufeff2m will keep you safe from large droplets.\n1\n2m\nAchoo!\nSo if you see someone who is visibly coughing/sneezing/sick you can choose to:\nGive them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby.\n2\nThank you\ufeff*sniffles*\nOR,\nMaybe she's not sick, just protecting herself\nPeople who are infected can show no symptoms, but are still\ufeffinfectious\nAnd in general, it's a good idea to avoid crowds, because you don't know who might be sick.\nChopsticks\nHealthy person\nTrain straps\nLift buttons\nTissues\nCups\nDigital devices\n& even on the outside of your face mask\nStair bannisters\nMouse\nPens\nDoor knobs\nTheir hands\nHowever, sometimes a sick person's saliva can get on other things\u2026\nyou might all fall sick.\nor your loved one's face\nrub eyes\nAnd if you do touch any of these things by accident, and then touch your face,\nand the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.\nViruses can last for quite a few hours on objects,\nsoap\nprecautions\nWhich is why it is also good to follow these\nwash with soap up to here\nsoap\nelbow\nDo not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.\nEnough time to sing \u201cHappy Birthday\u201d twice\nunder the nails\nfor 20 seconds\nbetween the fingers\nwash the back of your hands\nWhat is thoroughly?\nIf you did, don't worry. Just wash your hands with soap after.\nAlso, don't touch the outside of the mask if you can.\ndroplets\n*Bacteria grows on the insides of your mask if you wear them too long\nThrow away masks once they feel gross. Don't wear them for more than a day!\nUse a serving spoon\nBaby\nDaddy\nMommy\nEveryone gets their own towel\nDo not share food, utensils, cups, towels.\nYou can't touch your face with your elbow even if you tried\nOpen & close doors with your elbows or shoulders instead of hands, if possible.\nHome\nand after being out in the public\nBefore you eat\nAlways wash your hands with soap\u2026\nAnd finally,\nsoap\nStay safe, everyone!\nStay safe, everyone!\nsoap\nRead the articles for more tips!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020\nMain references for medical info:\nAdditional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com\nAbout Coronavirus\n\n\n\n\n\n\n\n",
+        "row": "So'al Koronavirus\n\n\n\nHambu 'aka' 'a dala' ESA fo hei parlu mihine so'al ta'o bee fo koronavirus a\ndai atahori hetar.\nbafa ma\nmbana ma\nmata ma\nmaso' nisi'\nAtahori nda mamahed'i' sa\nAtahori mamahed'i'\nVirus a dai atahori, lele' oe titi' ia ra,\nMu'ud'od'oo'! Meter 2 fo fe'e na nda dai oe titi monae' sa.\n1\nmeter 2\nAcii!\nDad'i, mete ma mita atahori esa boo, 'esufani, namahed'i na:\nFee se masker. Ara bisa boo do 'esufani neu e, naa fo 'afi' dai atahori mana deka-deka' ra.\n2\nMakasi nae'!\ufeff*boo ho'u-ho'u*\nDO,\nMbei ma ana nda namahed'i sa te ana \u00a0nanea ao na mia hed'is.\nLa'e faa na atahori mana dai koronovirus a nda natud'u tanda sa, te ana bisa tao atahori laen dai koronavirus.\nBoe ma, malole lena' mu'ud'odoo' mia atahori mana ma'ab'ub'ue' ra, huu nda muhine atahori bee mamahed'i' sa.\nSusurut\nAtahori nda mamahed'i' sa\nToto'u' sia Kareta do bemo\nLift a tetendes na\nTisu\nMok\nSud'i' a saa elektronik\n& hita masker na dean boe.\nTangga ra toto'u na\nMous\nBolpoin\nLelesu toto'u na\nLima na ra\nTe la'e faa na, atahori mamahed'i' esa mirun bisa dai sud'i a saa laen ra.\nBasa nggi bisa mimihed'i.\ndo atahori fo hoo sue' ra mata na ra.\n'o'ose mata ma ra,\nMa mete ma, hoo nda sangaja sa, te nggama dai sud'i 'a saa, naa ra, basa ma nggama mata ma,\nma hambu 'aka' dala malole' esa fo tamopo' virus ra, naeni safe hendi se tendi' sab'u, pemutih, do alkohol.\nVirus ra bisa ra'atataa' losa jam hira sia sud'i 'a saa ra,\nSab'u\n\nNaa de malole lena' ata tao tungga dala-dala pencegahan ia ra.\nSafe mendi' sab'u losa ia.\nSab'u\nLima buku'\n'Afi' nggama mata ma. (Do atahori laen mata na ra.) Mete ma hoo musi nggama, na, safe malolole basa lima ma ra mendi' sab'u dei.\nNaa doo na 'ona' hita sod'a sosod'a fai bob'onggi' lao rua.\nLima 'u'u' ra rala na.\nLosa detik 20.\nSafe lima 'u'u ma ra talad'a na ra.\nSafe lima ma ra dea na ra.\nSafe malolole na 'ona' bee?\nMete ma nggama dai masker a dea', na, 'afi' dud'ua nae'. Sad'i basa na safe lima ma ra mendi' sab'u.\nBoe ma, kalo bisa na 'afi' nggama masker a dea'.\nOe titi' ra.\n*Bakteri ra mori sia masker ra rala' mete ma hita pake se losa doo' talalu.\nNggari hendi masker ra, mete ma rasa ara manggenggeo' ena. 'Afi' pake se lena' fai esa.\nPake sosod'et.\nAnadiki'\nPapa\nMama\nEsa' handuk na.\n'Afi' mia mi'ib'ue nanaat, ma pake mi'ib'ue sud'i 'a sa ra, mok, handuk.\nMae hoo sob'a o, hoo nda bisa nggama mata ma mendi' lima buku ma sa.\nKalu bisa na, buka ma 'ena lelesu ra mendi' lima buku ma do mbili ma ra.\nUme\nma bali' mia mamana umum.\nSebelum mua,\nSafe lima ma ra mendi' sab'u nakandoo 'a.\nDad'i,\nsab'u\nBasa nggi minea ao ma ra!\nBasa nggi minea ao ma ra!\nsab'u\nBaca artikel a fo hambu tamba mahine'!\n\n\n\nSumber informasi med'is:\nCatatan tambahan: Dala pencegahan sia komik ia malole' soa' neu hed'i menular nae', 'ona' a masanasi. Dad'i ata musi tao tungga fai-fai esa, mae hed'is ia nese ena.\nReferensi: Informasi sia komik ia lao' mia pemahaman so'al COVID19 losa tanggal 28 Februari 2020, nanaen tungga referensi katelu' ia ra.\u00a0\nhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.html\ufeffhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/\u00a0 \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\u00a0\u00a0\nCatatan tambahan: hita bisa download komik ia versi PDF na sia: https://gumroad.com/weimankowart\nPetunjuk untuk banggi komik ia: Masyarakat umum bisa banggi komik ia\u00a0 online (nda pake bae sa), ma tungga Whatsapp noo Telegram, ma bisa download nda pake bae sa fo print pake soa' neu nenori' sia ume, sakola' ma mamana kerja.\nMete ma tae banggi na tasaned'a dala' katelu' ia ra: 1) 'Afi' ed'it komik a. 2) Nda bole seo komik a sa. 3) Kalu tae banggi online na, tasaned'a fee kredit soa' neu mana tulis a, tungga FB na tag @weimankowart, tungga IG na tag @weimankow (IG), do tungga link instagram com/weimankow.\nMete ma tae pake untuk dala' laen na to'e isin tungga email: comicsforgood@gmail.com\nSo'al Koronavirus\n\n\nTranslated by Thersia Tamelan\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "row",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, Thersia Tamelan",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "VGuBKSdjog"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "Spanish",
+        "row": "Dela-Oenale"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "'Afi' nggati tulisan mana sia buku ia, te bisa terjemahkan e, rub'a e neu bentuk laen, ma bisa banggi, sad'i 'afi' seo. Ata musi fee kredit neu mana sura' noo mana nggambar a, Weiman Kow.",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "So'al Koronavirus",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

@@ -1,0 +1,387 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "23e00ea3-9675-4f1d-9580-1f94c065599a",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Efarkor Kutut Virus Corona",
+  "allTitles": "{\"akc\":\"Efarkor Kutut Virus Corona\",\"en\":\"About Coronavirus\",\"id\":\"Tentang Virus Corona\",\"lts\":\"Olumbe lwa Korona\"}",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+  "downloadSource": "media@suluh.org/23e00ea3-9675-4f1d-9580-1f94c065599a",
+  "license": "custom",
+  "formatVersion": "2.1",
+  "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+  "copyright": "Copyright \u00a9 2020, Weiman Kow",
+  "credits": "Created by Weiman Kow, instagram: weimankow",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 27,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "RUK6FdNWXN"
+    }
+  ],
+  "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Indonesia",
+  "province": "Papua Barat",
+  "district": "",
+  "xmatterName": null,
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "c1ceNFU299"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": "",
+  "originalPublisher": "",
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "comic"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "en": "English",
+    "lts": "Lutachoni",
+    "id": "Indonesian",
+    "akc": "Mpur"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "2": {
+    "lts": "Olumbe lwa Korona",
+    "akc": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "3": {
+    "lts": "Olumbe lwa Korona",
+    "akc": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "4": {
+    "lts": "Olumbe lwa Korona",
+    "akc": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "5": {
+    "lts": "Olumbe lwa Korona",
+    "akc": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "13": {
+    "akc": ""
+  },
+  "14": {
+    "akc": ""
+  },
+  "15": {
+    "akc": "abwa\u00b2to"
+  },
+  "16": {
+    "akc": ""
+  },
+  "17": {
+    "akc": "aya\u00b9mo"
+  },
+  "18": {
+    "akc": "abe\u00b9t, asit na brat yeta fiti, nama abwatrot orem be"
+  },
+  "19": {
+    "akc": "na ser mamir ma wantek janto"
+  },
+  "20": {
+    "akc": ""
+  },
+  "21": {
+    "akc": "Bawantek virus Corona ser mamir fiti ku\u00b9 ma"
+  },
+  "22": {
+    "akc": "Aromangga ei janir be\u00b2m yeta ra\u00b3, fankar meter dokir, na utka bawantek virus mangga woka be\u00b9 ser yek sijar fer jan. Bwa ei du\u2074ma\u2074t aka bawantek ser yek."
+  },
+  "23": {
+    "akc": "1"
+  },
+  "24": {
+    "akc": "2meter"
+  },
+  "25": {
+    "akc": ""
+  },
+  "26": {
+    "akc": ""
+  },
+  "27": {
+    "akc": "Ekutup ma\u00b9r bo\u00b2r ku\u00b9 esa\u00b2n ebwa\u00b2t na fate ka bawantek virus ser yek. Eke ebot ma\u00b9r bo\u00b2r na akutup ku\u00b9 asa\u00b2n abwa\u00b2t na abe\u00b9t asit ku\u00b9 ma\u00b9r bo\u00b2r mangga de\u00b9n na fate ka bawantek ser mamir fiti fer jan."
+  },
+  "28": {
+    "akc": "2"
+  },
+  "29": {
+    "akc": ""
+  },
+  "30": {
+    "akc": ""
+  },
+  "31": {
+    "akc": "Mamir serami ma dewantek jan, be\u00b9 dekutup ma\u00b9r bo\u00b2r ku\u00b9 desa\u00b2n debwa\u00b2t na fate ka bawantek ser der."
+  },
+  "32": {
+    "akc": ""
+  },
+  "33": {
+    "akc": ""
+  },
+  "34": {
+    "akc": ""
+  },
+  "35": {
+    "akc": "Mamir ma wantek jan"
+  },
+  "36": {
+    "akc": "Bar ma na eunjok\u00a0kereta"
+  },
+  "37": {
+    "akc": ""
+  },
+  "38": {
+    "akc": ""
+  },
+  "39": {
+    "akc": ""
+  },
+  "40": {
+    "akc": ""
+  },
+  "41": {
+    "akc": "Ma\u00b9r bo\u00b9r ma ekutup ku\u00b9 eminsan ebwa\u00b2t ka be ye\u2074"
+  },
+  "42": {
+    "akc": ""
+  },
+  "43": {
+    "akc": ""
+  },
+  "44": {
+    "akc": ""
+  },
+  "45": {
+    "akc": ""
+  },
+  "46": {
+    "akc": ""
+  },
+  "47": {
+    "akc": "Bwa mamir ma wantek virus ka abe\u00b9t asit, aka bawantek mangga ser bar masek aro:"
+  },
+  "48": {
+    "akc": "aka bina yek masek ewantek ni ka pa."
+  },
+  "49": {
+    "akc": ""
+  },
+  "50": {
+    "akc": ""
+  },
+  "51": {
+    "akc": ""
+  },
+  "52": {
+    "akc": "Bwa ewamom ka bawantek mangga ser fer ku\u00b9 yek jan, aka eworit bar mangga masek kat bar bwakrit (sabun), janaka murwan ma kwaik ma mu\u00b2k Bayclin janaka alcohol, na jik bawantek mangga."
+  },
+  "53": {
+    "akc": ""
+  },
+  "54": {
+    "akc": ""
+  },
+  "55": {
+    "akc": ""
+  },
+  "56": {
+    "akc": ""
+  },
+  "57": {
+    "akc": "Eworit ewo\u00b9m mim ku\u00b9 ewo\u00b9m kase ra\u00b3."
+  },
+  "58": {
+    "akc": ""
+  },
+  "59": {
+    "akc": "Wo\u00b9m kase"
+  },
+  "60": {
+    "akc": ""
+  },
+  "61": {
+    "akc": ""
+  },
+  "62": {
+    "akc": ""
+  },
+  "63": {
+    "akc": "Ewoka wasren jan. Bwa wasren aka bawantek mangga dam ku\u00b9 ewo\u00b9m ki, sinambair jan."
+  },
+  "64": {
+    "akc": "Eworit ewo\u00b9m bi\u00b3k beam beam masek"
+  },
+  "65": {
+    "akc": ""
+  },
+  "66": {
+    "akc": ""
+  },
+  "67": {
+    "akc": "Be\u00b9 bwa ewo\u00b9m tep be ye\u2074, aka ewoka efururu/ewanaw jan. Kopaw ku\u00b9 manggai eworit ewo\u00b9m\u00a0kat bar bwakrit de\u00b9n."
+  },
+  "68": {
+    "akc": ""
+  },
+  "69": {
+    "akc": "Bwatrot"
+  },
+  "70": {
+    "akc": ""
+  },
+  "71": {
+    "akc": ""
+  },
+  "72": {
+    "akc": ""
+  },
+  "73": {
+    "akc": ""
+  },
+  "74": {
+    "akc": ""
+  },
+  "75": {
+    "akc": ""
+  },
+  "76": {
+    "akc": ""
+  },
+  "77": {
+    "akc": ""
+  },
+  "78": {
+    "akc": ""
+  },
+  "79": {
+    "akc": ""
+  },
+  "80": {
+    "akc": ""
+  },
+  "81": {
+    "akc": ""
+  },
+  "82": {
+    "akc": ""
+  },
+  "83": {
+    "akc": ""
+  },
+  "84": {
+    "akc": ""
+  },
+  "85": {
+    "akc": "Bar bwakrit"
+  },
+  "86": {
+    "akc": ""
+  },
+  "87": {
+    "akc": ""
+  },
+  "88": {
+    "akc": ""
+  },
+  "89": {
+    "akc": ""
+  },
+  "90": {
+    "akc": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+  },
+  "91": {
+    "akc": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+  },
+  "92": {
+    "akc": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+  },
+  "93": {
+    "akc": "Surabwa mafun ma na eunot kutut bawantek virus Corona mangga:"
+  },
+  "94": {
+    "akc": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+  },
+  "97": {
+    "lts": "Olumbe lwa Korona",
+    "akc": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "98": {
+    "lts": "Olumbe lwa Korona",
+    "akc": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "99": {
+    "lts": "Olumbe lwa Korona",
+    "akc": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "100": {
+    "lts": "Olumbe lwa Korona",
+    "akc": "",
+    "en": "About Coronavirus",
+    "id": "Tentang Virus Corona"
+  },
+  "106": {
+    "en": ""
+  },
+  "108": {
+    "en": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org"
+  },
+  "111": {
+    "en": "Created by Weiman Kow, instagram: weimankow"
+  }
+}

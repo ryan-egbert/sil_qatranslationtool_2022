@@ -1,0 +1,368 @@
+{
+    "allTitles": "{\"duq\":\"TENTANG PIRUS CORONA\",\"en\":\"About Coronavirus\",\"id\":\"Tentang Virus Corona\",\"lts\":\"Olumbe lwa Korona\"}",
+    "author": null,
+    "bookInstanceId": "08d88133-6c35-47b3-a80c-e7086997a58e",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,2784d46c-24a9-42e1-b5c9-e1c4ab6618e4,d5ae7c86-0cd9-495e-b312-5b2ba997be27",
+    "bookSamples": {
+        "0": {
+            "duq": "TENTANG PIRUS CORONA",
+            "eng": "About Coronavirus",
+            "ind": "Tentang Virus Corona",
+            "lts": "Olumbe lwa Korona",
+            "und": ""
+        },
+        "1": {
+            "duq": "",
+            "eng": ""
+        },
+        "2": {
+            "duq": "",
+            "eng": ""
+        },
+        "3": {
+            "duq": ""
+        },
+        "4": {
+            "duq": "Naan ISA hal sa perlu kon tanau ngunau awe pirus Corona tau rampit."
+        },
+        "5": {
+            "duq": ""
+        },
+        "6": {
+            "duq": "Mulut\n"
+        },
+        "7": {
+            "duq": "Urung"
+        },
+        "8": {
+            "duq": "Mate"
+        },
+        "9": {
+            "duq": "Huluk tong huang"
+        },
+        "10": {
+            "duq": "Lun sa\nsehat"
+        },
+        "11": {
+            "duq": "Lun sa\nbereten"
+        },
+        "12": {
+            "duq": "Pirus tau rampit hayak pitek iwei ti\n"
+        },
+        "13": {
+            "duq": "Ngajaga jarak.\nNu sagar aman neke prik ranu iwei lukun ngajaga jarak 2 meter."
+        },
+        "14": {
+            "duq": "1"
+        },
+        "15": {
+            "duq": "2m-0,5m"
+        },
+        "16": {
+            "duq": "Haaachii!!\n"
+        },
+        "17": {
+            "duq": "Jari amun kon neau lun sa rahat nguku/wenan/bereten, kon tau medi de:\n"
+        },
+        "18": {
+            "duq": "OKOI IRE MASKER.\nJari ire tau wenan/nguku tei masker-ne lukun ngilindung lun sa naan tei dini-ne.\n"
+        },
+        "19": {
+            "duq": "2"
+        },
+        "20": {
+            "duq": "Terima kasih \u201cSROOT\u201d\n"
+        },
+        "21": {
+            "duq": "ATAWA\n"
+        },
+        "22": {
+            "duq": "Behe ne mo bereten, ne kohoi ngilindung arep-ne gagalo.\n"
+        },
+        "23": {
+            "duq": "Lun sa terinpeksi tau bo awe naan siri-ne, tapi tatap tau rampit.\n"
+        },
+        "24": {
+            "duq": "Sasara umum, pendapat sa asuh de ningkilah gulumuk lun. Gana kon mo tanau hiye subujur-ne sa bereten.\n"
+        },
+        "25": {
+            "duq": "Alat kuman\n"
+        },
+        "26": {
+            "duq": "Lun sa sehat\n"
+        },
+        "27": {
+            "duq": "Panyabut kereta\n"
+        },
+        "28": {
+            "duq": "Tombol lip.\n"
+        },
+        "29": {
+            "duq": "Tisu\n"
+        },
+        "30": {
+            "duq": "Galas"
+        },
+        "31": {
+            "duq": "Parangkat digital\n"
+        },
+        "32": {
+            "duq": "Lukun teituhi ongon masker kon\n"
+        },
+        "33": {
+            "duq": "Soronoyan tukat\n"
+        },
+        "34": {
+            "duq": "Mouse computer\n"
+        },
+        "35": {
+            "duq": "Polpen\n"
+        },
+        "36": {
+            "duq": "Panyabut jawong\n"
+        },
+        "37": {
+            "duq": "Tangan ire\n"
+        },
+        "38": {
+            "duq": "Ngunau awe gin, kakadang ranu iwei sa bereten tau leket tei\u2026.\n"
+        },
+        "39": {
+            "duq": "Kongoreng kon tau kuno reten.\n"
+        },
+        "40": {
+            "duq": "Atawa rai lun sa sanayang kon,\n"
+        },
+        "41": {
+            "duq": "Ngisu mate\n"
+        },
+        "42": {
+            "duq": "Lukun amun kon mo daraga banda-banda sa iroh, tahui tangkui rai kon gagalo,\n"
+        },
+        "43": {
+            "duq": "Lukun isa cara sa asuh de pajawoh ne nehiyo mui ne pakai sabun, pubura, atawa alcohol.\n"
+        },
+        "44": {
+            "duq": "Pirus inuh tau batahan hampe 24 jam tei barang.\n"
+        },
+        "45": {
+            "duq": "Sabun\n"
+        },
+        "46": {
+            "duq": "tindakan pencegahan ngunau ti."
+        },
+        "47": {
+            "duq": "Gana hiyo, sa asuh uma\n"
+        },
+        "48": {
+            "duq": "pui tangan hampe barasih tikas ti."
+        },
+        "49": {
+            "duq": "Sabun\n"
+        },
+        "50": {
+            "duq": "Hiku tangan\n"
+        },
+        "51": {
+            "duq": "Ada tangku rai nu (atawa rai lun lain).\nAmun mela musti, mui barasih dele tangan kon lawan sabun.\n"
+        },
+        "52": {
+            "duq": "Sama ngunau manyanyi lagu \u201cSelamat Ulang Tahun\u2019 rueh kali.\n"
+        },
+        "53": {
+            "duq": "Tei hane kuku\n"
+        },
+        "54": {
+            "duq": "Kengela-ne 20 detik\n"
+        },
+        "55": {
+            "duq": "Tei ekang ingking\n"
+        },
+        "56": {
+            "duq": "Pui likut tangan\n"
+        },
+        "57": {
+            "duq": "Ngunau awe sara mui tangan hampe barasih.\n"
+        },
+        "58": {
+            "duq": "Amun takarasi tangku ne, gelek mui tangan pakai sabun libas-ne.\n"
+        },
+        "59": {
+            "duq": "Ada tangku tuhi ongon masker.\n"
+        },
+        "60": {
+            "duq": "Pitek sa kidik\n"
+        },
+        "61": {
+            "duq": "Bakteri inuh berkembang tei tuhi huang masker amun panakai pahalau ela.\n"
+        },
+        "62": {
+            "duq": "Tampi masker kon amun nanam ne mo barasih, ada pakai masker labih neke erai andrau.\n"
+        },
+        "63": {
+            "duq": "Pakai senuk takar.\n"
+        },
+        "64": {
+            "duq": "Anak\n"
+        },
+        "65": {
+            "duq": "Amai\n"
+        },
+        "66": {
+            "duq": "Inai\n"
+        },
+        "67": {
+            "duq": "Pakai anduk galo-galo.\n"
+        },
+        "68": {
+            "duq": "Ada sabagi pongokan, alat kuman, galas, lukun anduk.\n"
+        },
+        "69": {
+            "duq": "Kon mo inuh tangku rai pakai hiku kon galo, kinam bo.\n"
+        },
+        "70": {
+            "duq": "Tengau atawa tangkep jawong pakai hiku atawa puluke, amun perlu.\n"
+        },
+        "71": {
+            "duq": "Blai"
+        },
+        "72": {
+            "duq": "Libas neke uneng umum.\n"
+        },
+        "73": {
+            "duq": "Samale kuman\n"
+        },
+        "74": {
+            "duq": "Talalahui mui tangan kon pakaisabun \u2026\n"
+        },
+        "75": {
+            "duq": "Ponomporeng,\n"
+        },
+        "76": {
+            "duq": "Sabun"
+        },
+        "77": {
+            "duq": "Jagalei kesehatan!\n"
+        },
+        "78": {
+            "duq": "Jagalei kesehatan!\n"
+        },
+        "79": {
+            "duq": "Sabun"
+        },
+        "80": {
+            "duq": "Basa tips-tips lain ne tei artikel-artikel tei moh!\n"
+        },
+        "81": {
+            "duq": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)"
+        },
+        "82": {
+            "duq": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)"
+        },
+        "83": {
+            "duq": "\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)"
+        },
+        "84": {
+            "duq": "Reperensi utama de inpormasi medis:\n"
+        },
+        "85": {
+            "duq": "Keterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com"
+        },
+        "86": {
+            "duq": "TENTANG PIRUS CORONA",
+            "eng": "About Coronavirus",
+            "ind": "Tentang Virus Corona",
+            "lts": "Olumbe lwa Korona",
+            "und": ""
+        },
+        "87": {
+            "duq": "",
+            "eng": "Diterjemahkan dalam Bahasa Dusun Malang oleh\nHareanto, Elpiano, Sellawati, Bella dan Elisabeth"
+        },
+        "88": {
+            "duq": "",
+            "eng": "Pemeriksa terjemahan oleh\nSasmi dan Sandri"
+        },
+        "89": {
+            "duq": "",
+            "eng": "Versi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org"
+        },
+        "90": {
+            "duq": "",
+            "eng": "Created by Weiman Kow, instagram: weimankow"
+        },
+        "91": {
+            "duq": "",
+            "eng": ""
+        },
+        "92": {
+            "duq": "",
+            "eng": ""
+        },
+        "93": {
+            "duq": "",
+            "eng": ""
+        },
+        "94": {
+            "duq": "",
+            "eng": ""
+        }
+    },
+    "bookText": {
+        "duq": "TENTANG PIRUS CORONA\n\n\n\nNaan ISA hal sa perlu kon tanau ngunau awe pirus Corona tau rampit.\n\nMulut\n\nUrung\nMate\nHuluk tong huang\nLun sa\nsehat\nLun sa\nbereten\nPirus tau rampit hayak pitek iwei ti\n\nNgajaga jarak.\nNu sagar aman neke prik ranu iwei lukun ngajaga jarak 2 meter.\n1\n2m-0,5m\nHaaachii!!\n\nJari amun kon neau lun sa rahat nguku/wenan/bereten, kon tau medi de:\n\nOKOI IRE MASKER.\nJari ire tau wenan/nguku tei masker-ne lukun ngilindung lun sa naan tei dini-ne.\n\n2\nTerima kasih \u201cSROOT\u201d\n\nATAWA\n\nBehe ne mo bereten, ne kohoi ngilindung arep-ne gagalo.\n\nLun sa terinpeksi tau bo awe naan siri-ne, tapi tatap tau rampit.\n\nSasara umum, pendapat sa asuh de ningkilah gulumuk lun. Gana kon mo tanau hiye subujur-ne sa bereten.\n\nAlat kuman\n\nLun sa sehat\n\nPanyabut kereta\n\nTombol lip.\n\nTisu\n\nGalas\nParangkat digital\n\nLukun teituhi ongon masker kon\n\nSoronoyan tukat\n\nMouse computer\n\nPolpen\n\nPanyabut jawong\n\nTangan ire\n\nNgunau awe gin, kakadang ranu iwei sa bereten tau leket tei\u2026.\n\nKongoreng kon tau kuno reten.\n\nAtawa rai lun sa sanayang kon,\n\nNgisu mate\n\nLukun amun kon mo daraga banda-banda sa iroh, tahui tangkui rai kon gagalo,\n\nLukun isa cara sa asuh de pajawoh ne nehiyo mui ne pakai sabun, pubura, atawa alcohol.\n\nPirus inuh tau batahan hampe 24 jam tei barang.\n\nSabun\n\ntindakan pencegahan ngunau ti.\nGana hiyo, sa asuh uma\n\npui tangan hampe barasih tikas ti.\nSabun\n\nHiku tangan\n\nAda tangku rai nu (atawa rai lun lain).\nAmun mela musti, mui barasih dele tangan kon lawan sabun.\n\nSama ngunau manyanyi lagu \u201cSelamat Ulang Tahun\u2019 rueh kali.\n\nTei hane kuku\n\nKengela-ne 20 detik\n\nTei ekang ingking\n\nPui likut tangan\n\nNgunau awe sara mui tangan hampe barasih.\n\nAmun takarasi tangku ne, gelek mui tangan pakai sabun libas-ne.\n\nAda tangku tuhi ongon masker.\n\nPitek sa kidik\n\nBakteri inuh berkembang tei tuhi huang masker amun panakai pahalau ela.\n\nTampi masker kon amun nanam ne mo barasih, ada pakai masker labih neke erai andrau.\n\nPakai senuk takar.\n\nAnak\n\nAmai\n\nInai\n\nPakai anduk galo-galo.\n\nAda sabagi pongokan, alat kuman, galas, lukun anduk.\n\nKon mo inuh tangku rai pakai hiku kon galo, kinam bo.\n\nTengau atawa tangkep jawong pakai hiku atawa puluke, amun perlu.\n\nBlai\nLibas neke uneng umum.\n\nSamale kuman\n\nTalalahui mui tangan kon pakaisabun \u2026\n\nPonomporeng,\n\nSabun\nJagalei kesehatan!\n\nJagalei kesehatan!\n\nSabun\nBasa tips-tips lain ne tei artikel-artikel tei moh!\n\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", Elizabeth Rosenthal, in New York Times, Opinion. (Jan 28, 2020)\nReperensi utama de inpormasi medis:\n\nKeterangan tambahan: Tindakan pencegahan dalam bentuk komik ini sangat efektif untuk mencegah penularan penyakit umum lainnya, seperti flu dan pilek, dan harus diterapkan dalam kehidupan sehari-hari, bahkan ketika tidak ada wabah. Referensi: lnformasi dalam komik ini dibuat berdasarkan pemahaman COVID-19 hingga 28 Februari 2020, dan sebagian besar diambil dari tiga referensi ini. https://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips. htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \u00a0 https://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10 Informasi Tambahan Komik dalam bentuk PDF dapat diunduh di sini:\u00a0 https://gumroad.com/weimankowart Pedoman Menyebarkan Komik Komik ini dapat dibagikan secara gratis melalui media daring, atau melalui Whatsapp dan Telegram, dan dapat diunduh secara gratis untuk dicetak dalam bentuk poster untuk penggunaan pribadi atau sebagai materi edukasi di rumah, sekolah, dan tempat kerja.. Saat membagikan komik ini, ingat 3 hal berikut:\u00a0 1) Dilarang mengedit gambar komik yang akan dibagikan.\u00a0 2) Komik ini tidak dapat diperjualbelikan.\u00a0 3) Jika dibagikan di media sosial FB, cantumkan kredit pengarang dengan menyebut @weimankowart, di IG dengan menyebut @weimankow (IG), atau mencantumkan tautan ke instagram.com/weimankow\u00a0 Untuk penggunaan lainnya, silakan hubungi: comicsforgood@gmail.com\nTENTANG PIRUS CORONA\n\n\n\n\n\n\n\n",
+        "eng": "About Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Coronavirus\nDiterjemahkan dalam Bahasa Dusun Malang oleh\nHareanto, Elpiano, Sellawati, Bella dan Elisabeth\nPemeriksa terjemahan oleh\nSasmi dan Sandri\nVersi bahasa Inggris dibuat oleh Paul Frank (www. sil-lead.org), versi Bahasa Indonesia oleh Nazra Lutfiana (Unicef Indonesia), Penerjemahan dalam beberapa bahasa daerah : www.suluh.org\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "ind": "Tentang Virus Corona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTentang Virus Corona\n\n\n\n\n\n\n\n",
+        "lts": "Olumbe lwa Korona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOlumbe lwa Korona\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "lts",
+        "duq",
+        "eng",
+        "ind"
+    ],
+    "copyright": "Copyright \u00a9 2020, Weiman Kow",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "WJqHiq1VaC"
+        }
+    ],
+    "language-display-names": {
+        "duq": "Dusun Malang",
+        "en": "English",
+        "id": "Indonesian",
+        "lts": "Lutachoni"
+    },
+    "languages": [],
+    "license": "custom",
+    "licenseNotes": "Dilarang mengubah teks materi ini, tetapi Anda dapat menerjemahkan, atau mengadaptasinya ke dalam bentuk lain, dan membagikannya untuk tujuan non-komersial. Cantumkan hak cipta dan kredit penulis dan pelukis komik Weiman Kow.",
+    "originalPublisher": "",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "Kalimantan Tengah",
+    "publisher": "",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Buku ini memberikan saran dasar tentang cara menangani virus coronavirus COVID 19",
+    "tags": [
+        "topic:Health"
+    ],
+    "title": "TENTANG PIRUS CORONA",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

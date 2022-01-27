@@ -1,0 +1,399 @@
+{
+    "allTitles": "{\"en\":\"What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\",\"fr\":\"Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\",\"mlw\":\"Ale am\u0259g\u0259saka am\u0259s\u0259re n\u0259va\u0301 k\u0259 koronav\u0259yr\u0259ws aka\nKoronav\u0259yr\u0259ws b\u0259y\u0257u kov\u0259yd-19\"}",
+    "author": null,
+    "bookInstanceId": "25f39393-9b1c-4fca-8452-1eb966c2be21",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,4797e2a5-bc4f-48a0-b988-e10ff8deb4bc,5ac3444b-2397-4a3e-ac07-9e4aeaf757b4",
+    "bookSamples": {
+        "0": {
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19",
+            "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+            "mlw": "Ale am\u0259g\u0259saka am\u0259s\u0259re n\u0259va\u0301 k\u0259 koronav\u0259yr\u0259ws aka\nKoronav\u0259yr\u0259ws b\u0259y\u0257u kov\u0259yd-19"
+        },
+        "1": {
+            "fra": "",
+            "mlw": ""
+        },
+        "2": {
+            "fra": "Association Camerounaise pour \ufeffla Traduction de la Bible et l'Alphab\u00e9tisation",
+            "mlw": "Association Camerounaise pour la Traduction de la Bible et l'Alphab\u00e9tisation"
+        },
+        "3": {
+            "fra": "",
+            "mlw": ""
+        },
+        "4": {
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19",
+            "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+            "mlw": "Ale am\u0259g\u0259saka am\u0259s\u0259re n\u0259va\u0301 k\u0259 koronav\u0259yr\u0259ws aka\nKoronav\u0259yr\u0259ws b\u0259y\u0257u kov\u0259yd-19"
+        },
+        "5": {
+            "fra": "Les informations contenues dans ce livret \ufeffproviennent du site internet \ufeffde l'Organisation Mondiale de la Sant\u00e9 (OMS). https://www.who.int/fr/home",
+            "mlw": ""
+        },
+        "6": {
+            "fra": "",
+            "mlw": ""
+        },
+        "7": {
+            "fra": "",
+            "mlw": ""
+        },
+        "8": {
+            "fra": "Toutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\n\nContacts CABTAL\n\nWeb : www.cabtal.org\nMail : info_cabtal@cabtal.org\n\nTel : (237) 699 833 535\nWhatsApp : (237) 654 439 659\n\nB.P. : 16 550 Yaound\u00e9, Cameroun",
+            "mlw": ""
+        },
+        "9": {
+            "fra": "",
+            "mlw": ""
+        },
+        "10": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "11": {
+            "eng": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY",
+            "fra": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE",
+            "mlw": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 MA TOFL GA"
+        },
+        "12": {
+            "eng": "- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n",
+            "fra": "- Coronavirus\n- Personnes vuln\u00e9rables\n- Sympto\u0302mes\n- Transmission du coronavirus\n- Comment se prot\u00e9ger?\n- Que faire en cas de contamination?\n- D\u00e9finition des mots difficiles",
+            "mlw": "-Koronav\u0259yr\u0259ws\n-Ndam m\u0259s\u0259ye av\u0259ya ahay\n-M\u0259were ahay\n-M\u0259j\u0259ve anga koronav\u0259yr\u0259ws\n-M\u0259j\u0259gorak\u0259va\u0301 va na\u0301 memey?\n-Asa aj\u0259van ava\u0301 ana m\u0259ze na\u0301 m\u0259g\u0259ye na aha\u0300\u014b na\u0301 memey?\n-M\u0259p\u0259seke ma ahay m\u0259g\u0259ye gar ahayga\u00a0\n"
+        },
+        "13": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "14": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "15": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "16": {
+            "eng": "p.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8",
+            "fra": "p.2\np.3\np.4\np.5\np.6\np.7\np.8",
+            "mlw": "p.2\np.3\np.4\np.5\np.6\n\np.8\np.9"
+        },
+        "17": {
+            "eng": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+            "fra": "Le coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.",
+            "mlw": "Koronav\u0259yr\u0259ws\n\nKoronav\u0259yr\u0259ws na\u0301, sl\u0259may aha\u0301\u014b ese \u0257\u0259w na\u0301, kovid-19. Ndahan ndana v\u0259yr\u0259ws waw\u0259yga, angazlava cec\u0259kem na\u0301 a S\u0259yn, m\u0259nd\u0259ye 31 anga k\u0259ya hazlav m\u0259v\u0259ye 2019. M\u0259were aha\u0300\u014b na\u0301 azava\u0301 n\u0259 anga m\u0259dege\u014b nata a slam enen ava \u0257\u0259w asa ad\u0259la g\u0259dan ava\u0301 na\u0301, azala mem\u0259\u0253\u0259sem. Aw\u0259\u0257\u0259va\u0301 k\u0259 w\u0259yen ahay aka go\u0301bay, h\u0259rw\u0259yen h\u0259ddek. Ale amazala c\u0259je ndana m\u0259s\u0259re va ga bay."
+        },
+        "18": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "19": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "20": {
+            "eng": "Elderly person",
+            "fra": "Personne \u00e2g\u00e9e",
+            "mlw": "M\u0259ze am\u0259gar\u0259va\u0301 m\u0259v\u0259ye"
+        },
+        "21": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "22": {
+            "eng": "Person with a heart condition or disease",
+            "fra": "Personne cardiaque ou souffrant de maladie",
+            "mlw": "M\u0259ze am\u0259gar\u0259va\u0301 c\u0259je a \u0253\u0259rav b\u0259y\u0257\u0259w am\u0259s\u0259ye av\u0259ya n\u0259 c\u0259je"
+        },
+        "23": {
+            "eng": "Vulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+            "fra": "Personnes vuln\u00e9rables\nLes personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.",
+            "mlw": "Ndam m\u0259s\u0259ye av\u0259ya ahay\nM\u0259ze ahay am\u0259gar\u0259va\u0301 m\u0259v\u0259ye ko\u0301 weley weley bom nata bab\u0259za ahay j\u0259yga, v\u0259yr\u0259ws waw\u0259yga nehe na\u0301, anjava\u0301 am\u0259j\u0259vata. M\u0259ze ahay am\u0259gar\u0259va\u0301 m\u0259v\u0259ye nata m\u0259ze ahay amanday am\u0259s\u0259ye av\u0259ya n\u0259 c\u0259je \u0253a\u0301\u0253a fan \u00a0ka\u0301: C\u0259je am\u0259sl\u0259k\u0259ce m\u0259ze (asme), c\u0259je a ale p\u0259\u0257ococga (diabete), c\u0259je a \u0253\u0259rav (cardiaque), c\u0259je am\u0259d\u0259gele (l\u2019hypertention arterielle). M\u0259ze ahay nehe na\u0301 asa v\u0259yr\u0259ws na\u0301, asa agas ta na\u0301, azakataka na\u0301 gam."
+        },
+        "24": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "25": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "26": {
+            "eng": "Fever\nFatigue",
+            "fra": "- Fi\u00e8vre\n- Fatigue",
+            "mlw": "-m\u0259biye oko kavaka\n-m\u0259ye\u0257e"
+        },
+        "27": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "28": {
+            "eng": "Dry cough\nMuscle aches and pains",
+            "fra": "- Toux s\u00e8che\n- Douleurs musculaires",
+            "mlw": "-m\u0259\u0253\u0259sle sas\u0259f\u0259lak ga\n-alm\u0259were am\u0259k\u0259\u0257e h\u0259rva"
+        },
+        "29": {
+            "eng": "Symptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+            "fra": "Les sympto\u0302mes\nLes sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.",
+            "mlw": "M\u0259were ahay\nM\u0259were am\u0259j\u0259ve anga koronav\u0259yr\u0259ws na\u0301 taza\u0257va n\u0259 c\u0259je a m\u0259degen: m\u0259b\u0259ye oko k\u0259 va aka, m\u0259\u0253\u0259sle sas\u0259f\u0259lak ga, alm\u0259were \u00a0am\u0259k\u0259\u0257e h\u0259rva \u0257esl \u0257esl ga n\u0259 m\u0259ye\u0257e. Ndam c\u0259je enen ahay na\u0301 tanday tecen m\u0259were, af\u0259rta a mococo\u014b ava, anday ang\u0259zala n\u0259 h\u0259nder, awar mburlom b\u0259y\u0257u m\u0259v\u0259re azay. M\u0259ze enen ahay n\u0259 c\u0259je ndana am\u0259j\u0259vat\u0259va\u0301 na\u0301, m\u0259were aha\u0300n azl\u0259rav dala bay, t\u0259ta\u0301 p\u0259yecece. Ndam c\u0259je ahay ndana na\u0301, ele malanga tanday tambar m\u0259nja\u0257 h\u0259raf."
+        },
+        "30": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "31": {
+            "eng": "Person with a cough",
+            "fra": "Personne qui tousse",
+            "mlw": "M\u0259ze amanday am\u0259\u0253\u0259sle"
+        },
+        "32": {
+            "eng": "Transmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+            "fra": "Transmission du coronavirus\nLe COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.",
+            "mlw": "M\u0259j\u0259ve anga koronav\u0259yr\u0259ws\n\nKov\u0259yd-19 ajav na\u0301 nav\u0259y a m\u0259ze ahay am\u0259gar\u0259va\u0301 v\u0259yr\u0259ws. Asa m\u0259ze c\u0259je ga anday a\u0253\u0259slay b\u0259y\u0257\u0259w anday ag\u0259\u0253okoy na\u0301, at\u0259lekwey n\u0259 h\u0259nder b\u0259y\u0257\u0259w n\u0259 ma. \u018fnde asa m\u0259ze anday ambesen h\u0259ma\u0257 aha\u0300n at\u0259ran ava a h\u0259nder ava na\u0301, koronav\u0259yr\u0259ws ndana aj\u0259van. Asa m\u0259ze alaman ava\u0301 ana ale a c\u0259je ndana am\u0259t\u0259lekwe aka nata at\u0259lka\u0257ay na ele, alaman ana h\u0259nder b\u0259y\u0257u ana ma na\u0301, c\u0259je ndana aj\u0259van k\u0259len."
+        },
+        "33": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "34": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "35": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "36": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "37": {
+            "eng": "How to protect yourself",
+            "fra": "Comment se prot\u00e9ger ?",
+            "mlw": "M\u0259j\u0259gorak\u0259va\u0301 va na\u0301 memey?"
+        },
+        "38": {
+            "eng": "1. Avoid touching eyes, nose, mouth.",
+            "fra": "1. Eviter de se toucher les yeux, le nez, la bouche.",
+            "mlw": "1. M\u0259g\u0259ye ende\u0253 ana m\u0259t\u0259lke\u0257e ele, m\u0259t\u0259lke\u0257e h\u0259nder nata n\u0259 ma.\n"
+        },
+        "39": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "40": {
+            "eng": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel.",
+            "fra": "2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.",
+            "mlw": "2. M\u0259bele ahar wapaka wapaka na\u0301, n\u0259 yam m\u0259nja\u0257 saban nata n\u0259 saban. Ah\u0259langa na\u0301 m\u0259t\u0259ka\u0257ak\u0259va\u0301."
+        },
+        "41": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "42": {
+            "eng": "3. Cough and sneeze into the crook of your arm.\n",
+            "fra": "3. Tousser et \u00e9ternuer dans le creux de son bras.",
+            "mlw": "3. Asa asok am\u0259\u0253\u0259sle na\u0301, k\u0259g\u0259\u0253okoy; k\u0259\u0253\u0259slay na\u0301 a tapak ahar ava."
+        },
+        "43": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "44": {
+            "eng": "4. Avoid eating raw meat and touching live animals.",
+            "fra": "4. Eviter de manger de la viande crue et de toucher des animaux vivants.",
+            "mlw": "4. M\u0259gye ende\u0253 amepe\u0257e sese jaslay ga\u00a0 n\u0259 m\u0259lamata ana g\u0259n\u0259w ahay nele ahay ga."
+        },
+        "45": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "46": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "47": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "48": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "49": {
+            "eng": "5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n",
+            "fra": "5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.",
+            "mlw": "5. M\u0259g\u0259ye welen n\u0259 m\u0259ze amanday am\u0259\u0253\u0259sle n\u0259 m\u0259g\u0259\u0253ekwe na\u0301, ab\u0259y ab\u0259y na\u0301 m\u0259yt\u0259r b\u0259len.\n"
+        },
+        "50": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "51": {
+            "eng": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting.",
+            "fra": "6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.",
+            "mlw": "6. M\u0259g\u0259ye ende\u0253 ana m\u0259g\u0259se ahar. M\u0259j\u0259ye ma n\u0259 mekete ahar b\u0259y\u0257\u0259w n\u0259 ma."
+        },
+        "52": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "53": {
+            "eng": "7. Avoid gatherings.\n",
+            "fra": "7. Eviter les rassemblements.",
+            "mlw": "7. M\u0259g\u0259ye ende\u0253 n\u0259 m\u0259hele ahay dese\u014bdese\u014b."
+        },
+        "54": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "55": {
+            "eng": "8. Restrict movement.",
+            "fra": "8. Limiter ses d\u00e9placements.",
+            "mlw": "8. M\u0259gulak\u0259va m\u0259tele ahay."
+        },
+        "56": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "57": {
+            "eng": "9. Keep informed and verify the source of information.",
+            "fra": "9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.",
+            "mlw": "9. M\u0259cehe ma nata m\u0259w\u0259njele na\u00a0 slam a ma ahay ndana am\u0259lala na\u0301."
+        },
+        "58": {
+            "eng": "What to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+            "fra": "Que faire en cas de contamination ?\nSi vous pr\u00e9sentez des sympto\u0302mes :\n- Evitez les contacts avec d'autres personnes. - Restez \u00e0 domicile.\n- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :",
+            "mlw": "Asa aj\u0259van ava\u0301 ana m\u0259ze na\u0301 m\u0259g\u0259ye na aha\u0300\u014b na\u0301 memey?\nAsa m\u0259were aha\u014b ahay t\u0259ngazlava k\u0259 l\u0259kw\u0259ye na\u0301: - Gom anan ende\u0253 am\u0259jepe n\u0259 meze enen ahay.\n- H\u0259njom na\u0301 a mogom.\n- Torom anan ma ana lamba 1510 nata d\u0259bom anan guzo ana ma anga dokter ahay.\nLamba ahay terre ahayga ehe k\u0259le\u014b:"
+        },
+        "59": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "60": {
+            "eng": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979",
+            "fra": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713 979",
+            "mlw": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n"
+        },
+        "61": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "62": {
+            "eng": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761",
+            "fra": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113 761",
+            "mlw": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761"
+        },
+        "63": {
+            "eng": "",
+            "fra": "",
+            "mlw": ""
+        },
+        "64": {
+            "eng": "To date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them.",
+            "fra": "A ce jour, il n'existe aucun m\u00e9dicament capable de gu\u00e9rir du COVID-19 mais les autorit\u00e9s continuent les recherches pour trouver un traitement adapt\u00e9.\nChacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage.",
+            "mlw": "C\u0259cengehe na\u0301, h\u0259raf m\u0259njekevaga am\u0259mb\u0259re kovid-19 na\u0301 abay, azl\u0259na ndam gogor a w\u0259yen ahay tanday t\u0259ng\u0259lay amek\u0259we h\u0259raf am\u0259l\u0259ye kavaka haya.\nCum ko\u0301 way \u0257u menje bahayd\u0259ray anga d\u0259ray a va aha\u014b waya am\u0259g\u0259ye ale diday am\u0259j\u0259gw\u0259re d\u0259ray a va aha\u014b nata am\u0259j\u0259gw\u0259re m\u0259ze ahay a masa\u014b vay."
+        },
+        "65": {
+            "eng": "Definition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed",
+            "fra": "D\u00e9finition des mots difficiles\n\nAsthme : maladie respiratoire chronique\nConsignes : ordres, recommandations\nDiab\u00e8te : maladie qui se caract\u00e9rise par un taux de sucre trop \u00e9lev\u00e9 dans le sang\nEcoulement nasal : avoir le nez qui coule\nEtre contamin\u00e9 : e\u0302tre atteint par la maladie\nGrippe : maladie, rhume\nHypertension : augmentation anormale de la pression du sang sur la paroi des art\u00e8res\nInfect\u00e9 : atteint par la maladie\nInfection : maladie, \u00e9pid\u00e9mie\nPatient : malade\nPersistant : permanent, constant, continu\nSusceptible : capable, sensible\nSympto\u0302mes : signes, marques de la maladie\nTraitement : rem\u00e8de, m\u00e9dicaments\nVirus : agent causant la maladie\nVuln\u00e9rable : faible, \u00e0 risque",
+            "mlw": "M\u0259p\u0259seke ma ahay m\u0259g\u0259ye gar ahayga\u00a0\n\n\nAsthme na\u0301: C\u0259je am\u0259sl\u0259kce m\u0259mbese a h\u0259rva.\nDiab\u00e8te na\u0301: C\u0259je amanday am\u0259ngezle va anga ale pu\u0257ococo ga am\u0259sa\u0253\u0259va\u0301 a pembez ava.\nGrippe na\u0301: C\u0259je, m\u0259degen.\nHypertension na\u0301: M\u0259s\u0259ke anga pembez am\u0259s\u0259kaka a elpembez ava.\nInfection na\u0301: C\u0259je.\nPatient na\u0301: Z\u0259r c\u0259je, m\u0259ze c\u0259jega.\nSympto\u0302me na\u0301: Alm\u0259\u0257eke, alm\u0259ngezle c\u0259je.\nTraitement na\u0301: H\u0259raf, alm\u0259mb\u0259re m\u0259ze.\nVirus na\u0301: C\u0259je, amb\u0259lak.\nVuln\u00e9rable na\u0301: B\u0259le, K\u0259 ahar m\u0259je aka.\n"
+        },
+        "66": {
+            "fra": "",
+            "mlw": ""
+        },
+        "67": {
+            "fra": "Ale am\u0259g\u0259saka am\u0259s\u0259re n\u0259va\u0301 k\u0259 koronav\u0259yr\u0259ws aka\nKoronav\u0259yr\u0259ws b\u0259y\u0257u kov\u0259yd- 19\n\u00a9 CABTAL, 2020",
+            "mlw": ""
+        }
+    },
+    "bookText": {
+        "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\n\n\n\nWhat you need to know about the\nCORONAVIRUS\nor\nCOVID-19\n\n\n\n\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY\n- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n\n\n\n\np.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8\nCoronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.\n\n\nElderly person\n\nPerson with a heart condition or disease\nVulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.\n\n\nFever\nFatigue\n\nDry cough\nMuscle aches and pains\nSymptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.\n\nPerson with a cough\nTransmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.\n\n\n\n\nHow to protect yourself\n1. Avoid touching eyes, nose, mouth.\n\n2. Wash your hands frequently with soap and running water. Then dry them with a clean towel.\n\n3. Cough and sneeze into the crook of your arm.\n\n\n4. Avoid eating raw meat and touching live animals.\n\n\n\n\n5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n\n\n6. Avoid shaking hands. Greet each other with a nod or a verbal greeting.\n\n7. Avoid gatherings.\n\n\n8. Restrict movement.\n\n9. Keep informed and verify the source of information.\nWhat to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\nTo date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them.\nDefinition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed\n\n",
+        "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\n\nAssociation Camerounaise pour \ufeffla Traduction de la Bible et l'Alphab\u00e9tisation\n\nCe que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\nLes informations contenues dans ce livret \ufeffproviennent du site internet \ufeffde l'Organisation Mondiale de la Sant\u00e9 (OMS). https://www.who.int/fr/home\n\n\nToutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\n\nContacts CABTAL\n\nWeb : www.cabtal.org\nMail : info_cabtal@cabtal.org\n\nTel : (237) 699 833 535\nWhatsApp : (237) 654 439 659\n\nB.P. : 16 550 Yaound\u00e9, Cameroun\n\n\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOMMAIRE\n- Coronavirus\n- Personnes vuln\u00e9rables\n- Sympto\u0302mes\n- Transmission du coronavirus\n- Comment se prot\u00e9ger?\n- Que faire en cas de contamination?\n- D\u00e9finition des mots difficiles\n\n\n\np.2\np.3\np.4\np.5\np.6\np.7\np.8\nLe coronavirus, aussi appel\u00e9 COVID-19, est un nouveau virus. Il a \u00e9t\u00e9 signal\u00e9 pour la premi\u00e8re fois en Chine le 31 d\u00e9cembre 2019. Il a des sympto\u0302mes semblables \u00e0 ceux de la grippe et peut entra\u00eener la mort dans certains cas graves. Il est r\u00e9pandu dans de nombreux pays dans le monde entier. L\u2019origine de la maladie n\u2019est pas encore connue.\n\n\nPersonne \u00e2g\u00e9e\n\nPersonne cardiaque ou souffrant de maladie\nPersonnes vuln\u00e9rables\nLes personnes de tous \u00e2ges, y compris les enfants, peuvent e\u0302tre infect\u00e9es par ce nouveau virus. Les personnes \u00e2g\u00e9es et les personnes souffrant de maladies pr\u00e9existantes (comme l\u2019asthme, le diab\u00e8te, les maladies cardiaques, l\u2019hypertension art\u00e9rielle) semblent plus susceptibles de tomber gravement malades \u00e0 cause de ce virus.\n\n\n- Fi\u00e8vre\n- Fatigue\n\n- Toux s\u00e8che\n- Douleurs musculaires\nLes sympto\u0302mes\nLes sympto\u0302mes d'une infection au coronavirus ressemblent \u00e0 ceux de la grippe : fi\u00e8vre, toux s\u00e8che, douleurs musculaires, fatigue. Certains patients ont des douleurs, une congestion nasale, un \u00e9coulement nasal, des maux de gorge ou une diarrh\u00e9e. Certaines personnes, bien qu\u2019infect\u00e9es, ne pr\u00e9sentent aucun sympto\u0302me et se sentent bien. La plupart des personnes gu\u00e9rissent sans avoir besoin de traitement particulier.\n\nPersonne qui tousse\nTransmission du coronavirus\nLe COVID-19 est transmis par des personnes porteuses du virus. Quand un malade tousse ou \u00e9ternue, il expulse des gouttelettes par le nez ou la bouche. Si une personne respire ces gouttelettes, elle peut e\u0302tre contamin\u00e9e par le coronavirus. Si une personne touche un objet infect\u00e9 par ces gouttelettes et si elle se touche ensuite les yeux, le nez ou la bouche, elle peut aussi e\u0302tre contamin\u00e9e.\n\n\n\n\nComment se prot\u00e9ger ?\n1. Eviter de se toucher les yeux, le nez, la bouche.\n\n2. Se laver souvent les mains \u00e0 l'eau courante et au savon. Ensuite les s\u00e9cher avec une serviette propre.\n\n3. Tousser et \u00e9ternuer dans le creux de son bras.\n\n4. Eviter de manger de la viande crue et de toucher des animaux vivants.\n\n\n\n\n5. Garder une distance d'au moins un m\u00e8tre avec une personne qui tousse ou qui \u00e9ternue.\n\n6. Eviter de se serrer la main. Se saluer par un signe de te\u0302te ou une salutation verbale.\n\n7. Eviter les rassemblements.\n\n8. Limiter ses d\u00e9placements.\n\n9. Se tenir inform\u00e9 et v\u00e9rifier la source de ses informations.\nQue faire en cas de contamination ?\nSi vous pr\u00e9sentez des sympto\u0302mes :\n- Evitez les contacts avec d'autres personnes. - Restez \u00e0 domicile.\n- Appelez le 1510 et suivez les consignes des m\u00e9decins. Autres num\u00e9ros possibles :\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713 979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113 761\n\nA ce jour, il n'existe aucun m\u00e9dicament capable de gu\u00e9rir du COVID-19 mais les autorit\u00e9s continuent les recherches pour trouver un traitement adapt\u00e9.\nChacun doit e\u0302tre responsable et adopter les bons gestes pour se prot\u00e9ger et prot\u00e9ger son entourage.\nD\u00e9finition des mots difficiles\n\nAsthme : maladie respiratoire chronique\nConsignes : ordres, recommandations\nDiab\u00e8te : maladie qui se caract\u00e9rise par un taux de sucre trop \u00e9lev\u00e9 dans le sang\nEcoulement nasal : avoir le nez qui coule\nEtre contamin\u00e9 : e\u0302tre atteint par la maladie\nGrippe : maladie, rhume\nHypertension : augmentation anormale de la pression du sang sur la paroi des art\u00e8res\nInfect\u00e9 : atteint par la maladie\nInfection : maladie, \u00e9pid\u00e9mie\nPatient : malade\nPersistant : permanent, constant, continu\nSusceptible : capable, sensible\nSympto\u0302mes : signes, marques de la maladie\nTraitement : rem\u00e8de, m\u00e9dicaments\nVirus : agent causant la maladie\nVuln\u00e9rable : faible, \u00e0 risque\n\nAle am\u0259g\u0259saka am\u0259s\u0259re n\u0259va\u0301 k\u0259 koronav\u0259yr\u0259ws aka\nKoronav\u0259yr\u0259ws b\u0259y\u0257u kov\u0259yd- 19\n\u00a9 CABTAL, 2020",
+        "mlw": "Ale am\u0259g\u0259saka am\u0259s\u0259re n\u0259va\u0301 k\u0259 koronav\u0259yr\u0259ws aka\nKoronav\u0259yr\u0259ws b\u0259y\u0257u kov\u0259yd-19\n\nAssociation Camerounaise pour la Traduction de la Bible et l'Alphab\u00e9tisation\n\nAle am\u0259g\u0259saka am\u0259s\u0259re n\u0259va\u0301 k\u0259 koronav\u0259yr\u0259ws aka\nKoronav\u0259yr\u0259ws b\u0259y\u0257u kov\u0259yd-19\n\n\n\n\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 MA TOFL GA\n-Koronav\u0259yr\u0259ws\n-Ndam m\u0259s\u0259ye av\u0259ya ahay\n-M\u0259were ahay\n-M\u0259j\u0259ve anga koronav\u0259yr\u0259ws\n-M\u0259j\u0259gorak\u0259va\u0301 va na\u0301 memey?\n-Asa aj\u0259van ava\u0301 ana m\u0259ze na\u0301 m\u0259g\u0259ye na aha\u0300\u014b na\u0301 memey?\n-M\u0259p\u0259seke ma ahay m\u0259g\u0259ye gar ahayga\u00a0\n\n\n\n\np.2\np.3\np.4\np.5\np.6\n\np.8\np.9\nKoronav\u0259yr\u0259ws\n\nKoronav\u0259yr\u0259ws na\u0301, sl\u0259may aha\u0301\u014b ese \u0257\u0259w na\u0301, kovid-19. Ndahan ndana v\u0259yr\u0259ws waw\u0259yga, angazlava cec\u0259kem na\u0301 a S\u0259yn, m\u0259nd\u0259ye 31 anga k\u0259ya hazlav m\u0259v\u0259ye 2019. M\u0259were aha\u0300\u014b na\u0301 azava\u0301 n\u0259 anga m\u0259dege\u014b nata a slam enen ava \u0257\u0259w asa ad\u0259la g\u0259dan ava\u0301 na\u0301, azala mem\u0259\u0253\u0259sem. Aw\u0259\u0257\u0259va\u0301 k\u0259 w\u0259yen ahay aka go\u0301bay, h\u0259rw\u0259yen h\u0259ddek. Ale amazala c\u0259je ndana m\u0259s\u0259re va ga bay.\n\n\nM\u0259ze am\u0259gar\u0259va\u0301 m\u0259v\u0259ye\n\nM\u0259ze am\u0259gar\u0259va\u0301 c\u0259je a \u0253\u0259rav b\u0259y\u0257\u0259w am\u0259s\u0259ye av\u0259ya n\u0259 c\u0259je\nNdam m\u0259s\u0259ye av\u0259ya ahay\nM\u0259ze ahay am\u0259gar\u0259va\u0301 m\u0259v\u0259ye ko\u0301 weley weley bom nata bab\u0259za ahay j\u0259yga, v\u0259yr\u0259ws waw\u0259yga nehe na\u0301, anjava\u0301 am\u0259j\u0259vata. M\u0259ze ahay am\u0259gar\u0259va\u0301 m\u0259v\u0259ye nata m\u0259ze ahay amanday am\u0259s\u0259ye av\u0259ya n\u0259 c\u0259je \u0253a\u0301\u0253a fan \u00a0ka\u0301: C\u0259je am\u0259sl\u0259k\u0259ce m\u0259ze (asme), c\u0259je a ale p\u0259\u0257ococga (diabete), c\u0259je a \u0253\u0259rav (cardiaque), c\u0259je am\u0259d\u0259gele (l\u2019hypertention arterielle). M\u0259ze ahay nehe na\u0301 asa v\u0259yr\u0259ws na\u0301, asa agas ta na\u0301, azakataka na\u0301 gam.\n\n\n-m\u0259biye oko kavaka\n-m\u0259ye\u0257e\n\n-m\u0259\u0253\u0259sle sas\u0259f\u0259lak ga\n-alm\u0259were am\u0259k\u0259\u0257e h\u0259rva\nM\u0259were ahay\nM\u0259were am\u0259j\u0259ve anga koronav\u0259yr\u0259ws na\u0301 taza\u0257va n\u0259 c\u0259je a m\u0259degen: m\u0259b\u0259ye oko k\u0259 va aka, m\u0259\u0253\u0259sle sas\u0259f\u0259lak ga, alm\u0259were \u00a0am\u0259k\u0259\u0257e h\u0259rva \u0257esl \u0257esl ga n\u0259 m\u0259ye\u0257e. Ndam c\u0259je enen ahay na\u0301 tanday tecen m\u0259were, af\u0259rta a mococo\u014b ava, anday ang\u0259zala n\u0259 h\u0259nder, awar mburlom b\u0259y\u0257u m\u0259v\u0259re azay. M\u0259ze enen ahay n\u0259 c\u0259je ndana am\u0259j\u0259vat\u0259va\u0301 na\u0301, m\u0259were aha\u0300n azl\u0259rav dala bay, t\u0259ta\u0301 p\u0259yecece. Ndam c\u0259je ahay ndana na\u0301, ele malanga tanday tambar m\u0259nja\u0257 h\u0259raf.\n\nM\u0259ze amanday am\u0259\u0253\u0259sle\nM\u0259j\u0259ve anga koronav\u0259yr\u0259ws\n\nKov\u0259yd-19 ajav na\u0301 nav\u0259y a m\u0259ze ahay am\u0259gar\u0259va\u0301 v\u0259yr\u0259ws. Asa m\u0259ze c\u0259je ga anday a\u0253\u0259slay b\u0259y\u0257\u0259w anday ag\u0259\u0253okoy na\u0301, at\u0259lekwey n\u0259 h\u0259nder b\u0259y\u0257\u0259w n\u0259 ma. \u018fnde asa m\u0259ze anday ambesen h\u0259ma\u0257 aha\u0300n at\u0259ran ava a h\u0259nder ava na\u0301, koronav\u0259yr\u0259ws ndana aj\u0259van. Asa m\u0259ze alaman ava\u0301 ana ale a c\u0259je ndana am\u0259t\u0259lekwe aka nata at\u0259lka\u0257ay na ele, alaman ana h\u0259nder b\u0259y\u0257u ana ma na\u0301, c\u0259je ndana aj\u0259van k\u0259len.\n\n\n\n\nM\u0259j\u0259gorak\u0259va\u0301 va na\u0301 memey?\n1. M\u0259g\u0259ye ende\u0253 ana m\u0259t\u0259lke\u0257e ele, m\u0259t\u0259lke\u0257e h\u0259nder nata n\u0259 ma.\n\n\n2. M\u0259bele ahar wapaka wapaka na\u0301, n\u0259 yam m\u0259nja\u0257 saban nata n\u0259 saban. Ah\u0259langa na\u0301 m\u0259t\u0259ka\u0257ak\u0259va\u0301.\n\n3. Asa asok am\u0259\u0253\u0259sle na\u0301, k\u0259g\u0259\u0253okoy; k\u0259\u0253\u0259slay na\u0301 a tapak ahar ava.\n\n4. M\u0259gye ende\u0253 amepe\u0257e sese jaslay ga\u00a0 n\u0259 m\u0259lamata ana g\u0259n\u0259w ahay nele ahay ga.\n\n\n\n\n5. M\u0259g\u0259ye welen n\u0259 m\u0259ze amanday am\u0259\u0253\u0259sle n\u0259 m\u0259g\u0259\u0253ekwe na\u0301, ab\u0259y ab\u0259y na\u0301 m\u0259yt\u0259r b\u0259len.\n\n\n6. M\u0259g\u0259ye ende\u0253 ana m\u0259g\u0259se ahar. M\u0259j\u0259ye ma n\u0259 mekete ahar b\u0259y\u0257\u0259w n\u0259 ma.\n\n7. M\u0259g\u0259ye ende\u0253 n\u0259 m\u0259hele ahay dese\u014bdese\u014b.\n\n8. M\u0259gulak\u0259va m\u0259tele ahay.\n\n9. M\u0259cehe ma nata m\u0259w\u0259njele na\u00a0 slam a ma ahay ndana am\u0259lala na\u0301.\nAsa aj\u0259van ava\u0301 ana m\u0259ze na\u0301 m\u0259g\u0259ye na aha\u0300\u014b na\u0301 memey?\nAsa m\u0259were aha\u014b ahay t\u0259ngazlava k\u0259 l\u0259kw\u0259ye na\u0301: - Gom anan ende\u0253 am\u0259jepe n\u0259 meze enen ahay.\n- H\u0259njom na\u0301 a mogom.\n- Torom anan ma ana lamba 1510 nata d\u0259bom anan guzo ana ma anga dokter ahay.\nLamba ahay terre ahayga ehe k\u0259le\u014b:\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\nC\u0259cengehe na\u0301, h\u0259raf m\u0259njekevaga am\u0259mb\u0259re kovid-19 na\u0301 abay, azl\u0259na ndam gogor a w\u0259yen ahay tanday t\u0259ng\u0259lay amek\u0259we h\u0259raf am\u0259l\u0259ye kavaka haya.\nCum ko\u0301 way \u0257u menje bahayd\u0259ray anga d\u0259ray a va aha\u014b waya am\u0259g\u0259ye ale diday am\u0259j\u0259gw\u0259re d\u0259ray a va aha\u014b nata am\u0259j\u0259gw\u0259re m\u0259ze ahay a masa\u014b vay.\nM\u0259p\u0259seke ma ahay m\u0259g\u0259ye gar ahayga\u00a0\n\n\nAsthme na\u0301: C\u0259je am\u0259sl\u0259kce m\u0259mbese a h\u0259rva.\nDiab\u00e8te na\u0301: C\u0259je amanday am\u0259ngezle va anga ale pu\u0257ococo ga am\u0259sa\u0253\u0259va\u0301 a pembez ava.\nGrippe na\u0301: C\u0259je, m\u0259degen.\nHypertension na\u0301: M\u0259s\u0259ke anga pembez am\u0259s\u0259kaka a elpembez ava.\nInfection na\u0301: C\u0259je.\nPatient na\u0301: Z\u0259r c\u0259je, m\u0259ze c\u0259jega.\nSympto\u0302me na\u0301: Alm\u0259\u0257eke, alm\u0259ngezle c\u0259je.\nTraitement na\u0301: H\u0259raf, alm\u0259mb\u0259re m\u0259ze.\nVirus na\u0301: C\u0259je, amb\u0259lak.\nVuln\u00e9rable na\u0301: B\u0259le, K\u0259 ahar m\u0259je aka.\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "eng",
+        "mlw",
+        "fra"
+    ],
+    "copyright": "Copyright \u00a9 2020, CABTAL",
+    "country": "Cameroun",
+    "credits": "\r\nToutes les photos appartiennent \u00e0 CABTAL, sauf \ufeffp.2 \u00e0 Pixabay \ufeffp.6 (boucher) et p.7 (foule) \u00e0 Wikimedia Commons \ufeffp.7 (gens regardant la TV) \u00e0 United Nations (Photo # 616869 UN Photo/Marco Dormino)\r\n\r\nContacts CABTAL\r\n\r\nWeb : www.cabtal.org\r\nMail : info_cabtal@cabtal.org\r\n\r\nTel : (237) 699 833 535\r\nWhatsApp : (237) 654 439 659\r\n\r\nB.P. : 16 550 Yaound\u00e9, Cameroun",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vEO1WMjCQE"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "O4H7hNzC4n"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "Spanish",
+        "fr": "fran\u00e7ais",
+        "mlw": "Langue moloko"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "page-number-style": "Decimal",
+    "pageCount": 15,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Coronavirus COVID-19",
+    "tags": [],
+    "title": "Ale am\u0259g\u0259saka am\u0259s\u0259re n\u0259va\u0301 k\u0259 koronav\u0259yr\u0259ws aka\nKoronav\u0259yr\u0259ws b\u0259y\u0257u kov\u0259yd-19",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

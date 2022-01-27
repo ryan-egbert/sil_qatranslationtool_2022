@@ -1,0 +1,450 @@
+{
+    "allTitles": "{\"en\":\"About Coronavirus\",\"es\":\"Sobre el Coronavirus\",\"id\":\"Anamanae rerihoni Virus Corona\"}",
+    "author": null,
+    "bookInstanceId": "0b109e55-8d90-43b1-8da3-3e927eed9b0b",
+    "bookLineage": "8ed5e1fc-ca25-4a67-a7bf-f2dd2ca4e768,f4847386-6f08-4513-b8e9-f6c33b7db460,726d708d-535e-47af-8905-ce6e5e0d745c",
+    "bookSamples": {
+        "0": {
+            "eng": "About Coronavirus",
+            "ind": "Anamanae rerihoni Virus Corona",
+            "nxl": "",
+            "spa": "Sobre el Coronavirus"
+        },
+        "1": {
+            "ind": "",
+            "nxl": ""
+        },
+        "2": {
+            "ind": "",
+            "nxl": "Diterjemahkan oleh: Huna Matoke dan Rosemary Bolton"
+        },
+        "3": {
+            "eng": "",
+            "nxl": ""
+        },
+        "4": {
+            "eng": "There's only ONE thing \ufeffyou need to understand about how a coronavirus",
+            "nxl": "Kahurae ianei rerihoni sapani na virus corana"
+        },
+        "5": {
+            "eng": "SPREADS",
+            "nxl": "RENAE"
+        },
+        "6": {
+            "eng": "Mouth",
+            "nxl": "Hohari"
+        },
+        "7": {
+            "eng": "Nose",
+            "nxl": "Okori"
+        },
+        "8": {
+            "eng": "Eyes",
+            "nxl": "Matari"
+        },
+        "9": {
+            "eng": "Get into your",
+            "nxl": "Renusu na pani"
+        },
+        "10": {
+            "eng": "Healthy Person",
+            "nxl": "Ia wain ikupu tewa"
+        },
+        "11": {
+            "eng": "Sick Person",
+            "nxl": "Ia kupue"
+        },
+        "12": {
+            "eng": "The virus spreads when \ufeffthese droplets",
+            "nxl": "Virus renae sani apana na oko tin-tinia rapeu"
+        },
+        "13": {
+            "eng": "Keep your distance.\ufeff2m will keep you safe from large droplets.",
+            "nxl": "\u00a0na isaka ruata arihoni sae waron rapeu"
+        },
+        "14": {
+            "eng": "1",
+            "nxl": ""
+        },
+        "15": {
+            "eng": "2m",
+            "nxl": "Meter 2-0,5"
+        },
+        "16": {
+            "eng": "Achoo!",
+            "nxl": "Haaach!!!"
+        },
+        "17": {
+            "eng": "So if you see someone who is visibly coughing/sneezing/sick you can choose to:",
+            "nxl": "Reiso sani anoo ia isa wain iakihuha te iasinara te ikupui, mo, kahuraesaka na:"
+        },
+        "18": {
+            "eng": "Give them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby.",
+            "nxl": "Rui nipa sinte wani renete hohari na okori (masker). Na oakihuha te iasinara renete hohai na renete ia sia man wain ihainekei."
+        },
+        "19": {
+            "eng": "2",
+            "nxl": ""
+        },
+        "20": {
+            "eng": "Thank you\ufeff*sniffles*",
+            "nxl": "Uainisi iake arihonia ano wani asinara"
+        },
+        "21": {
+            "eng": "OR,",
+            "nxl": ""
+        },
+        "22": {
+            "eng": "Maybe she's not sick, just protecting herself",
+            "nxl": "Kani ikupu tewa, ne hasae nani inete ruai."
+        },
+        "23": {
+            "eng": "People who are infected can show no symptoms, but are still\ufeffinfectious",
+            "nxl": "Ia waini isupu virus rei nea mo, inoo tewa ata wain ikupui. Ne masike san rei bisa renae sinia."
+        },
+        "24": {
+            "eng": "And in general, it's a good idea to avoid crowds, because you don't know who might be sick.",
+            "nxl": "Nene iake mo, hainau arihon mansia hutue. Tau ianei tewa ata ia sia sahoro ikupui."
+        },
+        "25": {
+            "eng": "Chopsticks",
+            "nxl": "Sondo te sae wani ipakei tau iai"
+        },
+        "26": {
+            "eng": "Healthy person",
+            "nxl": "Ia waini ne patane maka-makae"
+        },
+        "27": {
+            "eng": "Train straps",
+            "nxl": "Mamrime noi kereta api"
+        },
+        "28": {
+            "eng": "Lift buttons",
+            "nxl": "Tampa iese na ihuka mitanunue na ihukai"
+        },
+        "29": {
+            "eng": "Tissues",
+            "nxl": "Tisu"
+        },
+        "30": {
+            "eng": "Cups",
+            "nxl": "Koinanae"
+        },
+        "31": {
+            "eng": "Digital devices",
+            "nxl": "Sani Hp te komputer"
+        },
+        "32": {
+            "eng": "& even on the outside of your face mask",
+            "nxl": "Nipa sinte wani ipakei na renete hohari okori rei nene muie."
+        },
+        "33": {
+            "eng": "Stair bannisters",
+            "nxl": "Oane nene mamrime"
+        },
+        "34": {
+            "eng": "Mouse",
+            "nxl": "Maisene tau komputer"
+        },
+        "35": {
+            "eng": "Pens",
+            "nxl": "Pena te pensil"
+        },
+        "36": {
+            "eng": "Door knobs",
+            "nxl": "Mitanunue nene hanae"
+        },
+        "37": {
+            "eng": "Their hands",
+            "nxl": "Hanao atua"
+        },
+        "38": {
+            "eng": "However, sometimes a sick person's saliva can get on other things\u2026",
+            "nxl": "Masike sapan iae sio kupua no tunna mo, bisa rakina tau apia san;"
+        },
+        "39": {
+            "eng": "you might all fall sick.",
+            "nxl": "Pusimo bisa okupumo."
+        },
+        "40": {
+            "eng": "or your loved one's face",
+            "nxl": "Te oakahuu ia isa wain anom runai uai anoe."
+        },
+        "41": {
+            "eng": "rub eyes",
+            "nxl": "Oasioi matamo usena"
+        },
+        "42": {
+            "eng": "And if you do touch any of these things by accident, and then touch your face,",
+            "nxl": "Na sani anei tewa ne akahuu apia waron sinasi rei, oyo akahuu uam anoe."
+        },
+        "43": {
+            "eng": "and the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.",
+            "nxl": "Onina na virus rei tihoniki mo, kahurae osohu apia rai tau saponi, bayklin, te alkohol."
+        },
+        "44": {
+            "eng": "Viruses can last for quite a few hours on objects,",
+            "nxl": "Virus bisa reruei noi apia rai yam nimasa te wanusa san rei."
+        },
+        "45": {
+            "eng": "soap",
+            "nxl": "Saponi"
+        },
+        "46": {
+            "eng": "precautions",
+            "nxl": "arenau waron rakahaita na inete iroha virus rei. Sani rei;"
+        },
+        "47": {
+            "eng": "Which is why it is also good to follow these",
+            "nxl": "Areiso nene iake mo, opusu"
+        },
+        "48": {
+            "eng": "wash with soap up to here",
+            "nxl": "Sohu tau sapon rotu kua rei."
+        },
+        "49": {
+            "eng": "soap",
+            "nxl": "Sapon"
+        },
+        "50": {
+            "eng": "elbow",
+            "nxl": "kua siuri"
+        },
+        "51": {
+            "eng": "Do not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.",
+            "nxl": "Pene akahuu uam anoe. Te ia sia man uai anoe. Ne nesi na akahuui sirinia mo, kahurae asohu hanam atua tau sapon ia-ia ee."
+        },
+        "52": {
+            "eng": "Enough time to sing \u201cHappy Birthday\u201d twice",
+            "nxl": "Noo sani iahina ahina selamat ulang tahun nai ua."
+        },
+        "53": {
+            "eng": "under the nails",
+            "nxl": "Tanikure aikuna"
+        },
+        "54": {
+            "eng": "for 20 seconds",
+            "nxl": "Potuina kani 20 detik"
+        },
+        "55": {
+            "eng": "between the fingers",
+            "nxl": "Hanari nakata tihua"
+        },
+        "56": {
+            "eng": "wash the back of your hands",
+            "nxl": "Sohu hanari hahaya"
+        },
+        "57": {
+            "eng": "What is thoroughly?",
+            "nxl": "Sohu hanari wani iake na kitataya tewa mo, sapan?"
+        },
+        "58": {
+            "eng": "If you did, don't worry. Just wash your hands with soap after.",
+            "nxl": "Sani oakahui nea mo, rapu sohu hanamo tau saponi."
+        },
+        "59": {
+            "eng": "Also, don't touch the outside of the mask if you can.",
+            "nxl": "Pene akahu nipa sinte te masker rei nene muie."
+        },
+        "60": {
+            "eng": "droplets",
+            "nxl": "reroti"
+        },
+        "61": {
+            "eng": "*Bacteria grows on the insides of your mask if you wear them too long",
+            "nxl": "Kupue inae bisa remahaiki pani nipae sinte te masker rei anoe sani ipakei potuina."
+        },
+        "62": {
+            "eng": "Throw away masks once they feel gross. Don't wear them for more than a day!",
+            "nxl": "Pesi te papa nipa sinte (masker) wani ipakei renete hohari na okori sani iahana ikitataie nea. Pene pake nipa sinte te masker rei rotu ranie hatae."
+        },
+        "63": {
+            "eng": "Use a serving spoon",
+            "nxl": "Pake sondo tau ketu utane te ana."
+        },
+        "64": {
+            "eng": "Baby",
+            "nxl": "Ia ikine."
+        },
+        "65": {
+            "eng": "Daddy",
+            "nxl": "Ama"
+        },
+        "66": {
+            "eng": "Mommy",
+            "nxl": "Ina"
+        },
+        "67": {
+            "eng": "Everyone gets their own towel",
+            "nxl": "Pake mamkusa hana sakakau"
+        },
+        "68": {
+            "eng": "Do not share food, utensils, cups, towels.",
+            "nxl": "Pene sama muaine, pirune, kalasi, sondo te mamkusa hana."
+        },
+        "69": {
+            "eng": "You can't touch your face with your elbow even if you tried",
+            "nxl": "Bisa oakahu ruamo uamo anomo tau siumo tewa. Sani bisa mo, rea mana tea."
+        },
+        "70": {
+            "eng": "Open & close doors with your elbows or shoulders instead of hands, if possible.",
+            "nxl": "Huka na raru mitanunue tau siuri te saniri sani bisa una sani rei."
+        },
+        "71": {
+            "eng": "Home",
+            "nxl": "Numa"
+        },
+        "72": {
+            "eng": "and after being out in the public",
+            "nxl": "Onuni on noi mui wani mansia hutue."
+        },
+        "73": {
+            "eng": "Before you eat",
+            "nxl": ""
+        },
+        "74": {
+            "eng": "Always wash your hands with soap\u2026",
+            "nxl": "Sohu hanam tau saponi sui osa."
+        },
+        "75": {
+            "eng": "And finally,",
+            "nxl": "Tau muie"
+        },
+        "76": {
+            "eng": "soap",
+            "nxl": "Saponi"
+        },
+        "77": {
+            "eng": "Stay safe, everyone!",
+            "nxl": "Saka na mo patana maka-makaya"
+        },
+        "78": {
+            "eng": "Stay safe, everyone!",
+            "nxl": "Saka na iamahaita iake."
+        },
+        "79": {
+            "eng": "soap",
+            "nxl": "Saponi"
+        },
+        "80": {
+            "eng": "Read the articles for more tips!",
+            "nxl": "Baca tau nomor 1, 2 na 3 na oanei panesi honu rerihoni virus corona"
+        },
+        "81": {
+            "eng": "\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)",
+            "nxl": ""
+        },
+        "82": {
+            "eng": "\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)",
+            "nxl": ""
+        },
+        "83": {
+            "eng": "\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020",
+            "nxl": ""
+        },
+        "84": {
+            "eng": "Main references for medical info:",
+            "nxl": ""
+        },
+        "85": {
+            "eng": "Additional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com",
+            "nxl": ""
+        },
+        "86": {
+            "eng": "About Coronavirus",
+            "ind": "Anamanae rerihoni Virus Corona",
+            "nxl": "",
+            "spa": "Sobre el Coronavirus"
+        },
+        "87": {
+            "ind": "Diterjemahkan oleh Hunanatu Matoke",
+            "nxl": ""
+        },
+        "88": {
+            "ind": "",
+            "nxl": ""
+        },
+        "89": {
+            "ind": "Diterjemahkan oleh Hunanatu Matoke",
+            "nxl": ""
+        },
+        "90": {
+            "ind": "Created by Weiman Kow, instagram: weimankow",
+            "nxl": ""
+        },
+        "91": {
+            "ind": "",
+            "nxl": ""
+        },
+        "92": {
+            "ind": "",
+            "nxl": ""
+        },
+        "93": {
+            "ind": "",
+            "nxl": ""
+        },
+        "94": {
+            "ind": "",
+            "nxl": ""
+        }
+    },
+    "bookText": {
+        "eng": "About Coronavirus\n\n\n\nThere's only ONE thing \ufeffyou need to understand about how a coronavirus\nSPREADS\nMouth\nNose\nEyes\nGet into your\nHealthy Person\nSick Person\nThe virus spreads when \ufeffthese droplets\nKeep your distance.\ufeff2m will keep you safe from large droplets.\n1\n2m\nAchoo!\nSo if you see someone who is visibly coughing/sneezing/sick you can choose to:\nGive them a mask.\ufeffThey can cough or sneeze in it and protects everyone else nearby.\n2\nThank you\ufeff*sniffles*\nOR,\nMaybe she's not sick, just protecting herself\nPeople who are infected can show no symptoms, but are still\ufeffinfectious\nAnd in general, it's a good idea to avoid crowds, because you don't know who might be sick.\nChopsticks\nHealthy person\nTrain straps\nLift buttons\nTissues\nCups\nDigital devices\n& even on the outside of your face mask\nStair bannisters\nMouse\nPens\nDoor knobs\nTheir hands\nHowever, sometimes a sick person's saliva can get on other things\u2026\nyou might all fall sick.\nor your loved one's face\nrub eyes\nAnd if you do touch any of these things by accident, and then touch your face,\nand the only effective way to get rid of them is to wash them off with soap, bleach, or alcohol.\nViruses can last for quite a few hours on objects,\nsoap\nprecautions\nWhich is why it is also good to follow these\nwash with soap up to here\nsoap\nelbow\nDo not touch your face. (Or anyone else's face.) If you have to, wash your hands with soap thoroughly first.\nEnough time to sing \u201cHappy Birthday\u201d twice\nunder the nails\nfor 20 seconds\nbetween the fingers\nwash the back of your hands\nWhat is thoroughly?\nIf you did, don't worry. Just wash your hands with soap after.\nAlso, don't touch the outside of the mask if you can.\ndroplets\n*Bacteria grows on the insides of your mask if you wear them too long\nThrow away masks once they feel gross. Don't wear them for more than a day!\nUse a serving spoon\nBaby\nDaddy\nMommy\nEveryone gets their own towel\nDo not share food, utensils, cups, towels.\nYou can't touch your face with your elbow even if you tried\nOpen & close doors with your elbows or shoulders instead of hands, if possible.\nHome\nand after being out in the public\nBefore you eat\nAlways wash your hands with soap\u2026\nAnd finally,\nsoap\nStay safe, everyone!\nStay safe, everyone!\nsoap\nRead the articles for more tips!\n\"This animation shows how far your sneeze can actually travel\" by Chia Yi Hou and Andrea Schmitz, in Business Insider (Jan 21, 2020)\n\"The Wuhan Virus: How to stay safe\", by Laurie Garrett, in Foreign Policy, Report. (Jan 25, 2020)\n\"How to avoid the coronavirus? Wash your hands\", by Elizabeth Rosenthal, in the New York Times, Opinion. (Jan 28, 2020\nMain references for medical info:\nAdditional notes:\u00a0 Hygiene precautions in comic are effective in preventing many other common infections such as flu and cold, and should be applied in every day life, even when there is no epidemic.\u00a0\nReferences:\u00a0 lnformation in comic is based on understanding of COVID19 up till 28 Feb 2020, and mainly from these three references. \ufeffhttps://www.nytimes.com/2020/01/28/opinion/coronavirus-prevention-tips.htmlhttps://foreignpolicy.com/2020/01/25/wuhan-coronavirus-safety-china/ \ufeffhttps://www.businessinsider.com/how-far-sneeze-cough-germs-can-travel-2018-10\nAdditonal lnformation\u00a0 A PDF version of the comic is available for free download here:\ufeff\ufeffhttps://gumroad.com/weimankowart\u00a0\nSharing Guidelines\u00a0 This comic is free for the general public to share online and through Whatsapp and Telegram, and the downloads are free for printing out as posters for personal and educational use in homes, schools, and workplaces.\u00a0\nWhen sharing, please remember these 3 points: \ufeff1) No edits to the comics is allowed in any way when sharing.\ufeff2) Comics cannot be used for any commercial project\ufeff3) lf online, credit the creator on FB by tagging @weimankowart, on IG by tagging @weimankow (IG), or providing a link to instagram com/weimankow\n\ufeffFor all other uses, please send a request in to: comicsforgood@gmail.com\nAbout Coronavirus\n\n\n\n\n\n\n\n",
+        "ind": "Anamanae rerihoni Virus Corona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnamanae rerihoni Virus Corona\nDiterjemahkan oleh Hunanatu Matoke\n\nDiterjemahkan oleh Hunanatu Matoke\nCreated by Weiman Kow, instagram: weimankow\n\n\n\n",
+        "nxl": "\n\nDiterjemahkan oleh: Huna Matoke dan Rosemary Bolton\n\nKahurae ianei rerihoni sapani na virus corana\nRENAE\nHohari\nOkori\nMatari\nRenusu na pani\nIa wain ikupu tewa\nIa kupue\nVirus renae sani apana na oko tin-tinia rapeu\n\u00a0na isaka ruata arihoni sae waron rapeu\n\nMeter 2-0,5\nHaaach!!!\nReiso sani anoo ia isa wain iakihuha te iasinara te ikupui, mo, kahuraesaka na:\nRui nipa sinte wani renete hohari na okori (masker). Na oakihuha te iasinara renete hohai na renete ia sia man wain ihainekei.\n\nUainisi iake arihonia ano wani asinara\n\nKani ikupu tewa, ne hasae nani inete ruai.\nIa waini isupu virus rei nea mo, inoo tewa ata wain ikupui. Ne masike san rei bisa renae sinia.\nNene iake mo, hainau arihon mansia hutue. Tau ianei tewa ata ia sia sahoro ikupui.\nSondo te sae wani ipakei tau iai\nIa waini ne patane maka-makae\nMamrime noi kereta api\nTampa iese na ihuka mitanunue na ihukai\nTisu\nKoinanae\nSani Hp te komputer\nNipa sinte wani ipakei na renete hohari okori rei nene muie.\nOane nene mamrime\nMaisene tau komputer\nPena te pensil\nMitanunue nene hanae\nHanao atua\nMasike sapan iae sio kupua no tunna mo, bisa rakina tau apia san;\nPusimo bisa okupumo.\nTe oakahuu ia isa wain anom runai uai anoe.\nOasioi matamo usena\nNa sani anei tewa ne akahuu apia waron sinasi rei, oyo akahuu uam anoe.\nOnina na virus rei tihoniki mo, kahurae osohu apia rai tau saponi, bayklin, te alkohol.\nVirus bisa reruei noi apia rai yam nimasa te wanusa san rei.\nSaponi\narenau waron rakahaita na inete iroha virus rei. Sani rei;\nAreiso nene iake mo, opusu\nSohu tau sapon rotu kua rei.\nSapon\nkua siuri\nPene akahuu uam anoe. Te ia sia man uai anoe. Ne nesi na akahuui sirinia mo, kahurae asohu hanam atua tau sapon ia-ia ee.\nNoo sani iahina ahina selamat ulang tahun nai ua.\nTanikure aikuna\nPotuina kani 20 detik\nHanari nakata tihua\nSohu hanari hahaya\nSohu hanari wani iake na kitataya tewa mo, sapan?\nSani oakahui nea mo, rapu sohu hanamo tau saponi.\nPene akahu nipa sinte te masker rei nene muie.\nreroti\nKupue inae bisa remahaiki pani nipae sinte te masker rei anoe sani ipakei potuina.\nPesi te papa nipa sinte (masker) wani ipakei renete hohari na okori sani iahana ikitataie nea. Pene pake nipa sinte te masker rei rotu ranie hatae.\nPake sondo tau ketu utane te ana.\nIa ikine.\nAma\nIna\nPake mamkusa hana sakakau\nPene sama muaine, pirune, kalasi, sondo te mamkusa hana.\nBisa oakahu ruamo uamo anomo tau siumo tewa. Sani bisa mo, rea mana tea.\nHuka na raru mitanunue tau siuri te saniri sani bisa una sani rei.\nNuma\nOnuni on noi mui wani mansia hutue.\n\nSohu hanam tau saponi sui osa.\nTau muie\nSaponi\nSaka na mo patana maka-makaya\nSaka na iamahaita iake.\nSaponi\nBaca tau nomor 1, 2 na 3 na oanei panesi honu rerihoni virus corona\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "spa": "Sobre el Coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSobre el Coronavirus\n\n\n\n\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "spa",
+        "eng",
+        "nxl",
+        "ind"
+    ],
+    "copyright": "Copyright \u00a9 2020, Badan Penerjemahan Alkitab",
+    "country": "Indonesia",
+    "credits": "Created by Weiman Kow, instagram: weimankow",
+    "district": "",
+    "features": [
+        "comic"
+    ],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": true,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "BEmrTBTqOO"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "vTo23jVYzz"
+        }
+    ],
+    "language-display-names": {
+        "en": "English",
+        "es": "Spanish",
+        "id": "Indonesian",
+        "nxl": "Nuaulu, South"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": "Badan Penerjemahan Alkitab\r\nJl Wolter Mongonsidi\r\nLateri, Ambon",
+    "page-number-style": "Decimal",
+    "pageCount": 27,
+    "province": "Maluku",
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "This book gives basic advice on dealing with the coronavirus COVID 19",
+    "tags": [],
+    "title": "Anamanae rerihoni Virus Corona",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}

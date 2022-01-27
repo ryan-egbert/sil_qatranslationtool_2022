@@ -1,0 +1,221 @@
+{
+  "a11y_NoEssentialInfoByColor": false,
+  "a11y_NoTextIncludedInAnyImages": false,
+  "epub_HowToPublishImageDescriptions": 0,
+  "epub_RemoveFontStyles": false,
+  "bookInstanceId": "f022cbb0-d66e-41ca-a276-094ccb0e3732",
+  "suitableForMakingShells": false,
+  "suitableForMakingTemplates": false,
+  "suitableForVernacularLibrary": true,
+  "bloomdVersion": 0,
+  "experimental": false,
+  "brandingProjectName": "Default",
+  "folio": false,
+  "isRtl": false,
+  "title": "Koronawaairas a Saa?\n(With Audio)",
+  "allTitles": "{\"en\":\"Learn about the Corona virus\",\"tbj\":\"Koronawaairas a Saa?\n(With Audio)\",\"tpi\":\"Coronavirus em i wanem samting?\"}",
+  "originalTitle": "Learn about the Corona virus",
+  "baseUrl": null,
+  "bookOrder": null,
+  "isbn": "",
+  "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3",
+  "downloadSource": "jessie_wright@sil.org/f022cbb0-d66e-41ca-a276-094ccb0e3732",
+  "license": "cc-by-nc-sa",
+  "formatVersion": "2.1",
+  "licenseNotes": null,
+  "copyright": "Copyright \u00a9 2021, SIL PNG",
+  "credits": "Adapted from original copy 'Learn about the coronavirus, coloring book'\r\nby St. Jude Children's Research Hospital\r\n\r\nhttps://together.stjude.org\r\n",
+  "tags": [
+    "topic:Health"
+  ],
+  "pageCount": 14,
+  "languages": [],
+  "langPointers": [
+    {
+      "__type": "Pointer",
+      "className": "language",
+      "objectId": "G3C77ie5dA"
+    }
+  ],
+  "summary": "Learn about Coronavirus",
+  "allowUploadingToBloomLibrary": true,
+  "bookletMakingIsAppropriate": true,
+  "LeveledReaderTool": null,
+  "LeveledReaderLevel": 0,
+  "country": "Papua New Guinea",
+  "province": "New Ireland",
+  "district": "",
+  "uploader": {
+    "__type": "Pointer",
+    "className": "_User",
+    "objectId": "FGST1FcAAa"
+  },
+  "tools": [
+    {
+      "name": "comic",
+      "enabled": true,
+      "state": null
+    }
+  ],
+  "currentTool": "comicTool",
+  "toolboxIsOpen": false,
+  "author": null,
+  "publisher": null,
+  "originalPublisher": null,
+  "subjects": null,
+  "hazards": null,
+  "a11yFeatures": null,
+  "a11yLevel": null,
+  "a11yCertifier": null,
+  "readingLevelDescription": null,
+  "typicalAgeRange": null,
+  "features": [
+    "talkingBook",
+    "talkingBook:tbj"
+  ],
+  "page-number-style": "Decimal",
+  "language-display-names": {
+    "tbj": "Tiaang"
+  },
+  "internetLimits": null,
+  "use-original-copyright": false,
+  "imported-book-source-url": null,
+  "phashOfFirstContentImage": null,
+  "1": {
+    "tbj": "(With Audio)",
+    "tpi": "Coronavirus em i wanem samting?",
+    "en": "Learn about the Corona virus"
+  },
+  "2": {
+    "tbj": "(With Audio)",
+    "tpi": "Coronavirus em i wanem samting?",
+    "en": "Learn about the Corona virus"
+  },
+  "3": {
+    "tbj": "(With Audio)",
+    "tpi": "Coronavirus em i wanem samting?",
+    "en": "Learn about the Corona virus"
+  },
+  "8": {
+    "tbj": ""
+  },
+  "9": {
+    "tbj": "\u00c9k lomon po n\u00f3 ki longoi a kulaau lawa ki kuskus paa Koronawaairas. Koronawaairas a kas niaau biaang ki walai a kulaau ki nasnasam aaisaat."
+  },
+  "10": {
+    "tbj": "Ni\u00e1u a k\u00f3 niaau biaang saat \u00f3n\u00e9n. Is\u00e1k na Koronawaairas. Kas is\u00e1k ala na KOWID-19. KOWID a is\u00e1n tok sik."
+  },
+  "11": {
+    "tbj": ""
+  },
+  "12": {
+    "tbj": ""
+  },
+  "13": {
+    "tbj": "Koronawaairas a is\u00e1n bewe. Malmalasup ina \"korona\" po kangal (crown) sina bakal. Koronawaairas a biaang saat tuna, mot ita saak nong ina r\u00e1ng nan paa matara. Ita a nong ina r\u00e1ng mo paa maaikroskop, a masin ina aabin a bul niaau biaang saat tuna. S\u00e9m\u00e9n tak r\u00e1ng a Koronawaairas paa maaikroskop, ita w\u00f3k r\u00e1ng po nan paa kangal."
+  },
+  "14": {
+    "tbj": ""
+  },
+  "15": {
+    "tbj": "Taamo a kulaau lawa la kasn\u00f3n b\u00e1k la kaakaaul\u00e1t ina kur\u00e1ng a sik a aaisaat Koronawaairas, patina a aaisaat \u00f3n\u00e9n a m\u00e1lu\u00e1i tuna ina kasn\u00f3n kulaau ik sik."
+  },
+  "16": {
+    "tbj": ""
+  },
+  "17": {
+    "tbj": ""
+  },
+  "18": {
+    "tbj": "La iaan a Koronawaairas a k\u00e1r tom k\u00e1l\u00e1 bul niaau k\u00e1p\u00e1i naa ita ki toi, a kas ti\u00e1r a nong ina sik a aaisaat \u00f3n\u00e9n ala s\u00e9m\u00e9n nan ik aatukai lo ik toi a bul niaau \u00f3n\u00e9n."
+  },
+  "19": {
+    "tbj": ""
+  },
+  "20": {
+    "tbj": ""
+  },
+  "21": {
+    "tbj": "Lo lawa ina kulaau, n\u00e9r w\u00f3k paana, sakalan n\u00e9r ki saak aaisaat."
+  },
+  "22": {
+    "tbj": ""
+  },
+  "23": {
+    "tbj": ""
+  },
+  "24": {
+    "tbj": ""
+  },
+  "25": {
+    "tbj": ""
+  },
+  "26": {
+    "tbj": "6.Tom saka la lu, piaau ina ul\u00e1t ga k\u00f3l.",
+    "z": ""
+  },
+  "27": {
+    "tbj": "6.Tom saka la lu, piaau ina ul\u00e1t ga k\u00f3l.",
+    "z": ""
+  },
+  "28": {
+    "tbj": ""
+  },
+  "29": {
+    "tbj": "KAIS LIMA BUL IAAN."
+  },
+  "30": {
+    "tbj": ""
+  },
+  "31": {
+    "tbj": "La iaan n\u00f3 ik kais a limam paa sop, n\u00f3 w\u00f3k kais pus\u00e9n a aaisaat naa tom la limam."
+  },
+  "32": {
+    "tbj": ""
+  },
+  "33": {
+    "tbj": "- Kais a limam la iaan n\u00f3 a g\u00e1n la lu biaang."
+  },
+  "34": {
+    "tbj": ""
+  },
+  "35": {
+    "tbj": "A aaisaat \u00f3r\u00f3 Koronawaairas a aasaang a bul kaalkaalpak saaboraau lantu\u00e1na bul malai. Kasn\u00f3n kulaau a motot saat tuna mot lomlomon lawa, saat a bul aaitama sin\u00e9r saka sik a aaisaat \u00f3n\u00e9n."
+  },
+  "36": {
+    "tbj": ""
+  },
+  "37": {
+    "tbj": "S\u00e9m\u00e9n n\u00f3k bu\u00e1k dij\u00e1i paa Koronawaairas, lo la iaan n\u00f3k nasam aaisaat paa tu\u00e1 ninak, k\u00e1tk\u00e1t\u00e1t, kankanamtu\u00e1n, lo lomomat, kel mo a naamba \u00f3r\u00f3: 1 800 200"
+  },
+  "38": {
+    "tbj": ""
+  },
+  "40": {
+    "tbj": "(With Audio)",
+    "tpi": "Coronavirus em i wanem samting?",
+    "en": "Learn about the Corona virus"
+  },
+  "41": {
+    "tbj": "(With Audio)",
+    "tpi": "Coronavirus em i wanem samting?",
+    "en": "Learn about the Corona virus"
+  },
+  "42": {
+    "tbj": "(With Audio)",
+    "tpi": "Coronavirus em i wanem samting?",
+    "en": "Learn about the Corona virus"
+  },
+  "44": {
+    "tbj": "Education for Life SIL PNG"
+  },
+  "46": {
+    "tbj": "Thank you to SIL PNG for helping to fund this booklet."
+  },
+  "47": {
+    "tbj": "Read by Ephraim & Grace Lomba"
+  },
+  "49": {
+    "tbj": "https://together.stjude.org"
+  }
+}

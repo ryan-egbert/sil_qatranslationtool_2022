@@ -1,0 +1,338 @@
+{
+    "allTitles": "{\"en\":\"What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\",\"fr\":\"Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\",\"lns\":\"Kinyo ke a\u0300 ke\u0301r fo\u0301 kii\u0301y ku\u0300m ya\u0300si\u0301 woo So\u0300v Njo\u014b-19\"}",
+    "author": null,
+    "bookInstanceId": "8774370f-1fdf-4eb3-887a-2de0d42f5029",
+    "bookLineage": "056B6F11-4A6C-4942-B2BC-8861E62B03B3,4797e2a5-bc4f-48a0-b988-e10ff8deb4bc,5ac3444b-2397-4a3e-ac07-9e4aeaf757b4",
+    "bookSamples": {
+        "0": {
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19",
+            "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+            "lns": "Kinyo ke a\u0300 ke\u0301r fo\u0301 kii\u0301y ku\u0300m ya\u0300si\u0301 woo So\u0300v Njo\u014b-19"
+        },
+        "1": {
+            "eng": "",
+            "lns": ""
+        },
+        "2": {
+            "eng": "Cameroon Association for\nBible Translation and Literacy",
+            "lns": "Cameroon Association for Bible Translation and Literacy"
+        },
+        "3": {
+            "eng": "",
+            "lns": ""
+        },
+        "4": {
+            "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19",
+            "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19",
+            "lns": "Kinyo ke a\u0300 ke\u0301r fo\u0301 kii\u0301y ku\u0300m ya\u0300si\u0301 woo So\u0300v Njo\u014b-19"
+        },
+        "5": {
+            "eng": "The information in this booklet is taken\nfrom the\nWorld Health Organization (WHO)\nwebsite.\nhttps://www.who.int/home",
+            "lns": ""
+        },
+        "6": {
+            "eng": "",
+            "lns": ""
+        },
+        "7": {
+            "eng": "",
+            "lns": ""
+        },
+        "8": {
+            "eng": "All pictures belong to CABTAL, except\np.2 belongs to Pixabay\np.6 (butcher) and p.7 (crowd) belong to Wikimedia Commons\np.7 (people watching TV) belongs to United Nations (Photo # 616869 UN Photo/Marco Dormino)\n\nCABTAL Contacts\n\nWeb : www.cabtal.org\nMail : info_cabtal@cabtal.org\n\nTel : (237) 699 833 535\nWhatsApp : (237) 654 439 659\n\nPO Box : 16 550 Yaound\u00e9, Cameroon",
+            "lns": ""
+        },
+        "9": {
+            "eng": "",
+            "lns": ""
+        },
+        "10": {
+            "eng": "",
+            "lns": ""
+        },
+        "11": {
+            "eng": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY",
+            "lns": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 VITU\u0301 VE VINYO\u0300\n"
+        },
+        "12": {
+            "eng": "- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n",
+            "lns": "- So\u0300v Njo\u014b\n- Wi\u0301r ve ke\u0301v ki\u0301 yo\u0300\u02bc dz\u0259\u0259\u0300n\n- Vifi\u02bci\u0300r\n- Mo dz\u0259\u0300 so\u0300v njo\u014b tu\u0300msi\u0301n\n- Mo dz\u0259\u0300 a\u0300 ki\u0300\u014bsi\u0300n kitu\u0301 ke\u0301\n- A ya\u0300si\u0301 v\u0259\u0300n koo\u0300 ne wo\u0300, a ye\u0300e?\n\n"
+        },
+        "13": {
+            "eng": "",
+            "lns": ""
+        },
+        "14": {
+            "eng": "",
+            "lns": ""
+        },
+        "15": {
+            "eng": "",
+            "lns": ""
+        },
+        "16": {
+            "eng": "p.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8",
+            "lns": "p.2\np.3\np.4\np.5\np.6\np.8\n"
+        },
+        "17": {
+            "eng": "Coronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.",
+            "lns": "So\u0300v Njo\u014b\n\nSo\u0300v njo\u014b, wo ba\u0300ra\u02bc kf\u0259\u0300n yo\u014b sa jii, COVID-19 v\u0259\u0300n dz\u0259\u0300 ya\u0301si\u0301, a bo\u0301 wu\u0300 yo\u0300\u02bc-oo\u0300 si\u0300. Ve\u0301-ee\u0300 to\u0300mbi\u0300y, e yu\u0300 le\u0301\u014b ya\u0300si\u0301 v\u0259\u0300n, a dz\u0259\u0300 fo\u0301 Ca\u0300a\u0301yi\u0301na\u0300, kishii\u0301y 31 fo \u014bwee Ntine\u0300n Saa\u0300r, e kiya kee 2019. Vifi\u0301\u02bci\u0300r ve\u0301 ya\u0300si\u0301 v\u0259\u0300n vi dz\u0259\u0300 kishwimne\u0300n kee fi\u0300n yu\u0301y, e\u0301 yi\u0301 wa\u0301a shaa\u0300, e\u0301 kinja\u0300\u02bc ki shu\u0301r, e\u0301 wu\u0301ne wa\u0301a nyar, a we\u0300\u014bri\u0300 we\u0300\u014bri\u0300n. Ya\u0300si\u0301 v\u0259\u0300n tu\u0301y so\u0301\u014b e wi\u0300r wu\u0300n, laa\u0301 wa\u0301a yen, bo ku\u0300 si\u0300 kpu\u0301.Ya\u0300si\u0301 v\u0259\u0300n ram vitu\u0301m vidz\u0259\u0300m e kitu ke nsay. Bo\u0301 a\u0301 yo\u0301\u02bc ne ki\u0300i\u0301y fo wu\u0300 loo\u0300n ghee\u0301y."
+        },
+        "18": {
+            "eng": "",
+            "lns": ""
+        },
+        "19": {
+            "eng": "",
+            "lns": ""
+        },
+        "20": {
+            "eng": "Elderly person",
+            "lns": "Wi\u0301r woo \u014bga\u0300ywi\u0300r"
+        },
+        "21": {
+            "eng": "",
+            "lns": ""
+        },
+        "22": {
+            "eng": "Person with a heart condition or disease",
+            "lns": "Wi\u0301r wo wu\u0300 ke\u0301r ya\u0300si\u0301 woo ku\u0300m shili\u0301v"
+        },
+        "23": {
+            "eng": "Vulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.",
+            "lns": "Wi\u0301r ve ke\u0301v ki\u0301 yo\u0300\u02bc dz\u0259\u0259\u0300n\n\nYa\u0300si\u0301 wo fi\u0301y v\u0259\u0300n ku\u0300 koo\u0301 wir dz\u0259\u0300m, a \u014bga\u0300ywi\u0300r, a\u0300 wa\u0301nle\u0300. Wu\u0300 koo\u0301 \u014bga\u0300y se\u0301 wi\u0300r, ki\u0301 fo\u0300y fo\u0301yin. Ku\u0300 dz\u0259\u0300 sa\u0301 mo ki\u0301 dz\u0259\u0259\u0300n fo wi\u0300r ve a\u0301 si\u0301 ker nyar si\u0301mo\u0301\u02bc si\u0301 moo, kighii\u0301si\u0301 ke nsa\u014b ki, ya\u0300si\u0301 woo da\u0300a\u0301beti\u0300r, ya\u0300si\u0301 shili\u0300v, e li\u0300 ya\u0300si\u0301 mens\u0259 me ko\u02bco\u0301n me\u0300."
+        },
+        "24": {
+            "eng": "",
+            "lns": ""
+        },
+        "25": {
+            "eng": "",
+            "lns": ""
+        },
+        "26": {
+            "eng": "Fever\nFatigue",
+            "lns": "-Kinja\u0300\u02bc\n-Do\u0301r"
+        },
+        "27": {
+            "eng": "",
+            "lns": ""
+        },
+        "28": {
+            "eng": "Dry cough\nMuscle aches and pains",
+            "lns": "-Kighii\u0301si\u0301 ke yume\u0301r ki\u0301\n-Wu\u0301n wo wame\u0301ne\u0301"
+        },
+        "29": {
+            "eng": "Symptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.",
+            "lns": "Vifi\u02bci\u0300r\n\nVifi\u02bci\u0300r ve\u0301 so\u0300v njo\u014b vi shwi\u0301nen ve\u0301 aya\u0300si\u0301 vee moo, kishwimne\u0300n, kinja\u0300\u02bc, kighii\u0301si\u0301i ke yume\u0301r ki\u0301, a\u0300 do\u0301ri. So\u0300v njo\u014b koo\u0301 wi\u0301r a\u0301mo\u0301\u02bco\u0301, wu\u0301ne\u0301 wa\u0300a nyar, yu\u0301yi wa\u0300a fi\u0300ne\u0300n, vibum vi wa\u0300a s\u0259y, kilo\u0300\u014b ki\u0301 taa\u0300m, ki\u0300n bv\u0259\u0301me wa\u0300a du\u0300. So\u0300v njo\u014b koo\u0301 a\u0301mo\u0301\u02bco\u0301 vee wi\u0301r, a\u0301wune wa\u0300a dz\u0259 ke\u0301v kiju\u014b, la vifi\u02bci\u0300r vi\u0301 yo\u0300\u02bc a di\u0300n. Ku\u0300\u02bcu\u0300n wi\u0300r dz\u0259\u0300, aa\u0301 lo, a\u0301 bo\u0300ne\u0301n fo\u0301 so\u0300v njo\u014b, a bo\u0301 yo\u0300\u02bc dz\u0259\u0300 wi\u0300r ki\u0300i\u0301y ji sa\u0300 fe\u0300r kf\u0259\u0301\u0259 shi\u0300v sine\u0301 a\u0301."
+        },
+        "30": {
+            "eng": "",
+            "lns": ""
+        },
+        "31": {
+            "eng": "Person with a cough",
+            "lns": "Wi\u0300r wo wu\u0300 kii\u0301si"
+        },
+        "32": {
+            "eng": "Transmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.",
+            "lns": "Mo dz\u0259\u0300 so\u0300v njo\u014b tu\u0300msi\u0301n\n\nSo\u0300v njo\u014b-19 dz\u0259\u0300 ya\u0300si\u0301, a wu\u0300 lo fo wi\u0300r wo wu\u0300 si\u0301 ke\u0301ri\u0301, wu\u0300 tu\u0300msi\u0301n e wi\u0301r a\u0301mo\u0301\u02bco\u0301. Wi\u0300r wo wu\u0300 si\u0301 ke\u0301r ya\u0300si\u0301 v\u0259\u0300n kii\u0301si, mesa\u0301sa\u0301y me vilii\u0300 me\u0300 f\u0259\u0259\u0300 fo\u0301 shuu\u0300. Wu\u0300 she\u0301me\u0301, mesa\u0301sa\u0301y me vibu\u0300m me\u0300 f\u0259\u0259\u0300 fo\u0301 yuy. A wi\u0300r ku\u0300m kifa\u0301 ke mesa\u0301sa\u0301y me\u0300n me\u0300 la\u02bcamen sho\u0301 e wo\u0301o, e kf\u0259\u0300n li\u0300 wo\u0301 yee shooy, e ku\u0300m si\u0301, ki\u0300n yu\u0301y, a\u0300 shu\u0301u, bo ya\u0300si\u0301 v\u0259\u0300n tu\u0300msi\u0301n ne.\n"
+        },
+        "33": {
+            "eng": "",
+            "lns": ""
+        },
+        "34": {
+            "eng": "",
+            "lns": ""
+        },
+        "35": {
+            "eng": "",
+            "lns": ""
+        },
+        "36": {
+            "eng": "",
+            "lns": ""
+        },
+        "37": {
+            "eng": "How to protect yourself",
+            "lns": "Mo dz\u0259\u0300 a\u0300 ki\u014bsi\u0300n kitu\u0301 ke\u0301"
+        },
+        "38": {
+            "eng": "1. Avoid touching eyes, nose, mouth.",
+            "lns": "1. La\u0301 a\u0300 yo\u0300\u02bc a wa\u0300\u02bcri\u0300, a du\u0300 e kiwo\u0301 ki e\u0301 si, ki\u0300n e\u0301 yuy, a\u030c shuu\u0300."
+        },
+        "39": {
+            "eng": "",
+            "lns": ""
+        },
+        "40": {
+            "eng": "2. Wash your hands frequently with soap and running water. Then dry them with a clean towel.",
+            "lns": "2. Ku\u0301 a wa\u0300\u02bcri\u0300, a su\u0300 wo\u0301 ye\u0301e e shuvi e mendz\u0259\u0300v me me\u0300 le\u0301\u014b le\u014be\u0301n, ki\u0300n me me\u0300 f\u0259\u0259\u0301 f\u0259\u0259\u0301n fo kifa."
+        },
+        "41": {
+            "eng": "",
+            "lns": ""
+        },
+        "42": {
+            "eng": "3. Cough and sneeze into the crook of your arm.\n",
+            "lns": "3. A\u0300 lo\u0301o kiisi\u0301, ki\u0300n a\u0300 she\u0301m sheme\u0301n, a bv\u0259\u0300n ko\u0301y, e s\u0259\u0300ti\u0301 shuu ki\u0300n yu\u0301y ye\u0301 sho."
+        },
+        "43": {
+            "eng": "",
+            "lns": ""
+        },
+        "44": {
+            "eng": "4. Avoid eating raw meat and touching live animals.",
+            "lns": "4. La\u0301 a\u0300 yo\u0300\u02bc a kf\u0259r nya\u0301m e ko\u0301. A\u0300 ye\u0301n nya\u0301m, a yi\u0300 gha\u0301ne\u0301, la\u0300a yo\u0300\u02bc a s\u0259\u02bc wo\u0301 e wu\u0300n wo\u0301."
+        },
+        "45": {
+            "eng": "",
+            "lns": ""
+        },
+        "46": {
+            "eng": "",
+            "lns": ""
+        },
+        "47": {
+            "eng": "",
+            "lns": ""
+        },
+        "48": {
+            "eng": "",
+            "lns": ""
+        },
+        "49": {
+            "eng": "5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n",
+            "lns": "5. Wi\u0300r lo\u0301o kiisi\u0301, ki\u0300n wu\u0300 she\u0301m sheme\u0301n e wo\u0300 gha\u014b, a\u0300 ku\u0300 fo\u0300 nta\u0300m sho moo ko\u0301y e mo\u0300\u02bco\u0301n be\u0300y.\n"
+        },
+        "50": {
+            "eng": "",
+            "lns": ""
+        },
+        "51": {
+            "eng": "6. Avoid shaking hands. Greet each other with a nod or a verbal greeting.",
+            "lns": "6. La\u0301 a\u0300 yo\u0300\u02bc dz\u0259\u0301\u0259 a sha\u0300\u02bcti\u0300 wi\u0301r, a fo kiwo\u0301. Ku\u0301 a sha\u0300\u02bcti\u0300, a dz\u0259\u0300 e shu\u0301u ki\u0300n e kitu\u0301 ki\u0301.\n"
+        },
+        "52": {
+            "eng": "",
+            "lns": ""
+        },
+        "53": {
+            "eng": "7. Avoid gatherings.\n",
+            "lns": "7. Ku ba\u0300\u02bca\u0300r vir\u0259\u0301\u02bc vidz\u0259\u0300m ve wi\u0301ri ta\u0301ti fo vi."
+        },
+        "54": {
+            "eng": "",
+            "lns": ""
+        },
+        "55": {
+            "eng": "8. Restrict movement.",
+            "lns": "8. Ba\u0300\u02bca\u0300r gha\u0301ne, ba\u0301nla\u0300 e\u0301 kitu ke kinyo\u0300 kee\u0301 shii\u0301."
+        },
+        "56": {
+            "eng": "",
+            "lns": ""
+        },
+        "57": {
+            "eng": "9. Keep informed and verify the source of information.",
+            "lns": "9. A\u0301 dz\u0259ti\u0301 asa\u0301\u02bckaa\u0301, yii be\u0300y a\u0300 yu\u0301 kinyo, a\u0300 ta\u0300r ji sa\u0300 ku\u0300 dz\u0259\u0300 suuyru\u0301 a\u0301."
+        },
+        "58": {
+            "eng": "What to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:",
+            "lns": "A ya\u0300si\u0301 v\u0259\u0300n koo\u0300 ne wo\u0300, a ye\u0300e?\n\nA vifi\u02bci\u0300r vi\u0301 lo, a di\u0300n wu\u0301n e wo\u0300 wu\u0300n:\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 A\u0300 wa\u0300a ba\u02bca\u0300r wi\u0301ri fo\u0301 a tume\u0301r\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 A\u0300 go\u0300\u02bc e\u0301 lav, e la\u0300a yo\u0300\u02bc a ghan.\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 A\u0300 ku\u0300m ta\u0300a\u0301do\u0300m e mfi\u0300\u02bc yee jii 1510, a ju\u0300mri\u0300 kinyo ke wu\u0300 ti\u0301r wo\u0300 ji a\u0300 yii.\nMfi\u0300\u02bc si\u0301mo\u0301\u02bc se dz\u0259\u0300 a\u0300 ku\u0300m si\u0301 dz\u0259\u0300 jii:"
+        },
+        "59": {
+            "eng": "",
+            "lns": ""
+        },
+        "60": {
+            "eng": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979",
+            "lns": "699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979"
+        },
+        "61": {
+            "eng": "",
+            "lns": ""
+        },
+        "62": {
+            "eng": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761",
+            "lns": "699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761"
+        },
+        "63": {
+            "eng": "",
+            "lns": ""
+        },
+        "64": {
+            "eng": "To date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them.",
+            "lns": "Wi\u0300r dz\u0259\u0300m ke\u0301r fo\u0301 a tiy e wun shwin, a ju\u0300mri\u0300 dz\u0259\u0301\u0259 see si\u0301 dz\u0259\u0259\u0300n re\u0301\u014b se dz\u0259\u0300 wu\u0300 ki\u0300\u014bsi\u0300n kitu\u0301 kf\u0259\u0301 sho\u0301, e ki\u0300\u014bsi\u0300n sa wi\u0301r vee wun gha\u014b.\n"
+        },
+        "65": {
+            "eng": "Definition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed",
+            "lns": ""
+        },
+        "66": {
+            "eng": "",
+            "lns": ""
+        },
+        "67": {
+            "eng": "Kinyo ke a\u0300 ke\u0301r fo\u0301 kii\u0301y ku\u0300m ya\u0300si\u0301 woo So\u0300v Njo\u014b-19\n\n\u00a9 CABTAL, 2020\n",
+            "lns": ""
+        }
+    },
+    "bookText": {
+        "eng": "What you need to know about the\nCORONAVIRUS\nor\nCOVID-19\n\nCameroon Association for\nBible Translation and Literacy\n\nWhat you need to know about the\nCORONAVIRUS\nor\nCOVID-19\nThe information in this booklet is taken\nfrom the\nWorld Health Organization (WHO)\nwebsite.\nhttps://www.who.int/home\n\n\nAll pictures belong to CABTAL, except\np.2 belongs to Pixabay\np.6 (butcher) and p.7 (crowd) belong to Wikimedia Commons\np.7 (people watching TV) belongs to United Nations (Photo # 616869 UN Photo/Marco Dormino)\n\nCABTAL Contacts\n\nWeb : www.cabtal.org\nMail : info_cabtal@cabtal.org\n\nTel : (237) 699 833 535\nWhatsApp : (237) 654 439 659\n\nPO Box : 16 550 Yaound\u00e9, Cameroon\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMMARY\n- Coronavirus\u00a0\n- Vulnerable people\n- Symptoms\n- Transmission of coronavirus\n- How to protect yourself\n- What to do in case of contamination?\n- Definition of some difficult words\n\n\n\n\np.2\np.3\np.4\np.5\np.6\np.7\n\n\np.8\nCoronavirus, also known as COVID-19, is a new virus. It was first reported in China on 31 December 2019. It has flu-like symptoms and can cause death in some severe cases. It is widespread in many countries around the world. The origin of the disease is not yet known.\n\n\nElderly person\n\nPerson with a heart condition or disease\nVulnerable people\nPeople of all ages can become infected with this new virus. The elderly and people with pre-existing conditions (such as asthma, diabetes, heart disease, high blood pressure) seem more likely to become seriously ill from this virus.\n\n\nFever\nFatigue\n\nDry cough\nMuscle aches and pains\nSymptoms\nThe symptoms of a coronavirus infection are similar to those of the flu: fever, dry cough, muscle aches, fatigue. Some patients have pain, nasal congestion, runny nose, sore throat, or diarrhea. Some people, although infected, have no symptoms and feel fine. Most people recover without needing any special treatment.\n\nPerson with a cough\nTransmission of coronavirus\nCOVID-19 is transmitted by people carrying the virus. When a sick person coughs or sneezes, they expel droplets through their nose or mouth. If a person breathes in these droplets, they can become infected with the coronavirus. If a person touches an object infected with these droplets and then touches their eyes, nose or mouth, they can also become infected.\n\n\n\n\nHow to protect yourself\n1. Avoid touching eyes, nose, mouth.\n\n2. Wash your hands frequently with soap and running water. Then dry them with a clean towel.\n\n3. Cough and sneeze into the crook of your arm.\n\n\n4. Avoid eating raw meat and touching live animals.\n\n\n\n\n5. Keep at least one meter away from a person who is cou- ghing or sneezing.\n\n\n6. Avoid shaking hands. Greet each other with a nod or a verbal greeting.\n\n7. Avoid gatherings.\n\n\n8. Restrict movement.\n\n9. Keep informed and verify the source of information.\nWhat to do in case of contamination?\nIf you have symptoms:\n- Avoid contact with other people.\n- Stay at home.\n- Call 1510 and follow the doctor's instructions. Other possible numbers:\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\nTo date, there is no cure for COVID-19, but authorities are continuing research to find a suitable treatment.\nEveryone must be responsible and take the right steps to protect themselves and those around them.\nDefinition of some difficult words\n\nAsthma: chronic lung disorder\nContamination: infection\nDiabetes: disease that occurs when the body can't use glucose normally\nFlu: cough, influenza\nInfected: affected, touched\nInfection: disease\nInstructions: direction, information\nPatient: person under health care\nPre-existing conditions: long-term disease\nRunny nose: excess nasal drainage\nSymptoms: signs of illness\nTreatment: cure, medication\nVirus: disease agent\nVulnerable: defenseless, exposed\n\nKinyo ke a\u0300 ke\u0301r fo\u0301 kii\u0301y ku\u0300m ya\u0300si\u0301 woo So\u0300v Njo\u014b-19\n\n\u00a9 CABTAL, 2020\n",
+        "fra": "Ce que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\n\n\n\nCe que vous devez \ufeffsavoir \ufeffsur le \ufeffCORONAVIRUS \ufeffou \ufeffCOVID-19\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "lns": "Kinyo ke a\u0300 ke\u0301r fo\u0301 kii\u0301y ku\u0300m ya\u0300si\u0301 woo So\u0300v Njo\u014b-19\n\nCameroon Association for Bible Translation and Literacy\n\nKinyo ke a\u0300 ke\u0301r fo\u0301 kii\u0301y ku\u0300m ya\u0300si\u0301 woo So\u0300v Njo\u014b-19\n\n\n\n\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 VITU\u0301 VE VINYO\u0300\n\n- So\u0300v Njo\u014b\n- Wi\u0301r ve ke\u0301v ki\u0301 yo\u0300\u02bc dz\u0259\u0259\u0300n\n- Vifi\u02bci\u0300r\n- Mo dz\u0259\u0300 so\u0300v njo\u014b tu\u0300msi\u0301n\n- Mo dz\u0259\u0300 a\u0300 ki\u0300\u014bsi\u0300n kitu\u0301 ke\u0301\n- A ya\u0300si\u0301 v\u0259\u0300n koo\u0300 ne wo\u0300, a ye\u0300e?\n\n\n\n\n\np.2\np.3\np.4\np.5\np.6\np.8\n\nSo\u0300v Njo\u014b\n\nSo\u0300v njo\u014b, wo ba\u0300ra\u02bc kf\u0259\u0300n yo\u014b sa jii, COVID-19 v\u0259\u0300n dz\u0259\u0300 ya\u0301si\u0301, a bo\u0301 wu\u0300 yo\u0300\u02bc-oo\u0300 si\u0300. Ve\u0301-ee\u0300 to\u0300mbi\u0300y, e yu\u0300 le\u0301\u014b ya\u0300si\u0301 v\u0259\u0300n, a dz\u0259\u0300 fo\u0301 Ca\u0300a\u0301yi\u0301na\u0300, kishii\u0301y 31 fo \u014bwee Ntine\u0300n Saa\u0300r, e kiya kee 2019. Vifi\u0301\u02bci\u0300r ve\u0301 ya\u0300si\u0301 v\u0259\u0300n vi dz\u0259\u0300 kishwimne\u0300n kee fi\u0300n yu\u0301y, e\u0301 yi\u0301 wa\u0301a shaa\u0300, e\u0301 kinja\u0300\u02bc ki shu\u0301r, e\u0301 wu\u0301ne wa\u0301a nyar, a we\u0300\u014bri\u0300 we\u0300\u014bri\u0300n. Ya\u0300si\u0301 v\u0259\u0300n tu\u0301y so\u0301\u014b e wi\u0300r wu\u0300n, laa\u0301 wa\u0301a yen, bo ku\u0300 si\u0300 kpu\u0301.Ya\u0300si\u0301 v\u0259\u0300n ram vitu\u0301m vidz\u0259\u0300m e kitu ke nsay. Bo\u0301 a\u0301 yo\u0301\u02bc ne ki\u0300i\u0301y fo wu\u0300 loo\u0300n ghee\u0301y.\n\n\nWi\u0301r woo \u014bga\u0300ywi\u0300r\n\nWi\u0301r wo wu\u0300 ke\u0301r ya\u0300si\u0301 woo ku\u0300m shili\u0301v\nWi\u0301r ve ke\u0301v ki\u0301 yo\u0300\u02bc dz\u0259\u0259\u0300n\n\nYa\u0300si\u0301 wo fi\u0301y v\u0259\u0300n ku\u0300 koo\u0301 wir dz\u0259\u0300m, a \u014bga\u0300ywi\u0300r, a\u0300 wa\u0301nle\u0300. Wu\u0300 koo\u0301 \u014bga\u0300y se\u0301 wi\u0300r, ki\u0301 fo\u0300y fo\u0301yin. Ku\u0300 dz\u0259\u0300 sa\u0301 mo ki\u0301 dz\u0259\u0259\u0300n fo wi\u0300r ve a\u0301 si\u0301 ker nyar si\u0301mo\u0301\u02bc si\u0301 moo, kighii\u0301si\u0301 ke nsa\u014b ki, ya\u0300si\u0301 woo da\u0300a\u0301beti\u0300r, ya\u0300si\u0301 shili\u0300v, e li\u0300 ya\u0300si\u0301 mens\u0259 me ko\u02bco\u0301n me\u0300.\n\n\n-Kinja\u0300\u02bc\n-Do\u0301r\n\n-Kighii\u0301si\u0301 ke yume\u0301r ki\u0301\n-Wu\u0301n wo wame\u0301ne\u0301\nVifi\u02bci\u0300r\n\nVifi\u02bci\u0300r ve\u0301 so\u0300v njo\u014b vi shwi\u0301nen ve\u0301 aya\u0300si\u0301 vee moo, kishwimne\u0300n, kinja\u0300\u02bc, kighii\u0301si\u0301i ke yume\u0301r ki\u0301, a\u0300 do\u0301ri. So\u0300v njo\u014b koo\u0301 wi\u0301r a\u0301mo\u0301\u02bco\u0301, wu\u0301ne\u0301 wa\u0300a nyar, yu\u0301yi wa\u0300a fi\u0300ne\u0300n, vibum vi wa\u0300a s\u0259y, kilo\u0300\u014b ki\u0301 taa\u0300m, ki\u0300n bv\u0259\u0301me wa\u0300a du\u0300. So\u0300v njo\u014b koo\u0301 a\u0301mo\u0301\u02bco\u0301 vee wi\u0301r, a\u0301wune wa\u0300a dz\u0259 ke\u0301v kiju\u014b, la vifi\u02bci\u0300r vi\u0301 yo\u0300\u02bc a di\u0300n. Ku\u0300\u02bcu\u0300n wi\u0300r dz\u0259\u0300, aa\u0301 lo, a\u0301 bo\u0300ne\u0301n fo\u0301 so\u0300v njo\u014b, a bo\u0301 yo\u0300\u02bc dz\u0259\u0300 wi\u0300r ki\u0300i\u0301y ji sa\u0300 fe\u0300r kf\u0259\u0301\u0259 shi\u0300v sine\u0301 a\u0301.\n\nWi\u0300r wo wu\u0300 kii\u0301si\nMo dz\u0259\u0300 so\u0300v njo\u014b tu\u0300msi\u0301n\n\nSo\u0300v njo\u014b-19 dz\u0259\u0300 ya\u0300si\u0301, a wu\u0300 lo fo wi\u0300r wo wu\u0300 si\u0301 ke\u0301ri\u0301, wu\u0300 tu\u0300msi\u0301n e wi\u0301r a\u0301mo\u0301\u02bco\u0301. Wi\u0300r wo wu\u0300 si\u0301 ke\u0301r ya\u0300si\u0301 v\u0259\u0300n kii\u0301si, mesa\u0301sa\u0301y me vilii\u0300 me\u0300 f\u0259\u0259\u0300 fo\u0301 shuu\u0300. Wu\u0300 she\u0301me\u0301, mesa\u0301sa\u0301y me vibu\u0300m me\u0300 f\u0259\u0259\u0300 fo\u0301 yuy. A wi\u0300r ku\u0300m kifa\u0301 ke mesa\u0301sa\u0301y me\u0300n me\u0300 la\u02bcamen sho\u0301 e wo\u0301o, e kf\u0259\u0300n li\u0300 wo\u0301 yee shooy, e ku\u0300m si\u0301, ki\u0300n yu\u0301y, a\u0300 shu\u0301u, bo ya\u0300si\u0301 v\u0259\u0300n tu\u0300msi\u0301n ne.\n\n\n\n\n\nMo dz\u0259\u0300 a\u0300 ki\u014bsi\u0300n kitu\u0301 ke\u0301\n1. La\u0301 a\u0300 yo\u0300\u02bc a wa\u0300\u02bcri\u0300, a du\u0300 e kiwo\u0301 ki e\u0301 si, ki\u0300n e\u0301 yuy, a\u030c shuu\u0300.\n\n2. Ku\u0301 a wa\u0300\u02bcri\u0300, a su\u0300 wo\u0301 ye\u0301e e shuvi e mendz\u0259\u0300v me me\u0300 le\u0301\u014b le\u014be\u0301n, ki\u0300n me me\u0300 f\u0259\u0259\u0301 f\u0259\u0259\u0301n fo kifa.\n\n3. A\u0300 lo\u0301o kiisi\u0301, ki\u0300n a\u0300 she\u0301m sheme\u0301n, a bv\u0259\u0300n ko\u0301y, e s\u0259\u0300ti\u0301 shuu ki\u0300n yu\u0301y ye\u0301 sho.\n\n4. La\u0301 a\u0300 yo\u0300\u02bc a kf\u0259r nya\u0301m e ko\u0301. A\u0300 ye\u0301n nya\u0301m, a yi\u0300 gha\u0301ne\u0301, la\u0300a yo\u0300\u02bc a s\u0259\u02bc wo\u0301 e wu\u0300n wo\u0301.\n\n\n\n\n5. Wi\u0300r lo\u0301o kiisi\u0301, ki\u0300n wu\u0300 she\u0301m sheme\u0301n e wo\u0300 gha\u014b, a\u0300 ku\u0300 fo\u0300 nta\u0300m sho moo ko\u0301y e mo\u0300\u02bco\u0301n be\u0300y.\n\n\n6. La\u0301 a\u0300 yo\u0300\u02bc dz\u0259\u0301\u0259 a sha\u0300\u02bcti\u0300 wi\u0301r, a fo kiwo\u0301. Ku\u0301 a sha\u0300\u02bcti\u0300, a dz\u0259\u0300 e shu\u0301u ki\u0300n e kitu\u0301 ki\u0301.\n\n\n7. Ku ba\u0300\u02bca\u0300r vir\u0259\u0301\u02bc vidz\u0259\u0300m ve wi\u0301ri ta\u0301ti fo vi.\n\n8. Ba\u0300\u02bca\u0300r gha\u0301ne, ba\u0301nla\u0300 e\u0301 kitu ke kinyo\u0300 kee\u0301 shii\u0301.\n\n9. A\u0301 dz\u0259ti\u0301 asa\u0301\u02bckaa\u0301, yii be\u0300y a\u0300 yu\u0301 kinyo, a\u0300 ta\u0300r ji sa\u0300 ku\u0300 dz\u0259\u0300 suuyru\u0301 a\u0301.\nA ya\u0300si\u0301 v\u0259\u0300n koo\u0300 ne wo\u0300, a ye\u0300e?\n\nA vifi\u02bci\u0300r vi\u0301 lo, a di\u0300n wu\u0301n e wo\u0300 wu\u0300n:\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 A\u0300 wa\u0300a ba\u02bca\u0300r wi\u0301ri fo\u0301 a tume\u0301r\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 A\u0300 go\u0300\u02bc e\u0301 lav, e la\u0300a yo\u0300\u02bc a ghan.\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 A\u0300 ku\u0300m ta\u0300a\u0301do\u0300m e mfi\u0300\u02bc yee jii 1510, a ju\u0300mri\u0300 kinyo ke wu\u0300 ti\u0301r wo\u0300 ji a\u0300 yii.\nMfi\u0300\u02bc si\u0301mo\u0301\u02bc se dz\u0259\u0300 a\u0300 ku\u0300m si\u0301 dz\u0259\u0300 jii:\n\n699 279 622\n675 308 373\n698 423 929\n655 728 884\n670 713\u00a0979\n\n699 933 725\n677 429 357\n699 986 740\n676 466 797\n670 113\u00a0761\n\nWi\u0300r dz\u0259\u0300m ke\u0301r fo\u0301 a tiy e wun shwin, a ju\u0300mri\u0300 dz\u0259\u0301\u0259 see si\u0301 dz\u0259\u0259\u0300n re\u0301\u014b se dz\u0259\u0300 wu\u0300 ki\u0300\u014bsi\u0300n kitu\u0301 kf\u0259\u0301 sho\u0301, e ki\u0300\u014bsi\u0300n sa wi\u0301r vee wun gha\u014b.\n\n\n\n"
+    },
+    "brandingProjectName": "Default",
+    "contentLanguages": [
+        "fra",
+        "lns",
+        "eng"
+    ],
+    "copyright": "Copyright \u00a9 2020, CABTAL",
+    "country": "Cameroon",
+    "credits": "\r\nAll pictures belong to CABTAL, except\r\np.2 belongs to Pixabay\r\np.6 (butcher) and p.7 (crowd) belong to Wikimedia Commons\r\np.7 (people watching TV) belongs to United Nations (Photo # 616869 UN Photo/Marco Dormino)\r\n\r\nCABTAL Contacts\r\n\r\nWeb : www.cabtal.org\r\nMail : info_cabtal@cabtal.org\r\n\r\nTel : (237) 699 833 535\r\nWhatsApp : (237) 654 439 659\r\n\r\nPO Box : 16 550 Yaound\u00e9, Cameroon",
+    "district": "",
+    "features": [],
+    "folio": false,
+    "internetLimits": null,
+    "isRtl": false,
+    "isbn": "",
+    "langPointers": [
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "ssedkz220W"
+        },
+        {
+            "__type": "Pointer",
+            "className": "language",
+            "objectId": "c9XoIsiYN3"
+        }
+    ],
+    "language-display-names": {
+        "en": "Anglais",
+        "es": "Spanish",
+        "fr": "French",
+        "lns": "Lamnso\u2019 language"
+    },
+    "languages": [],
+    "license": "cc-by-nc-sa",
+    "licenseNotes": null,
+    "originalPublisher": null,
+    "page-number-style": "Decimal",
+    "pageCount": 15,
+    "province": "",
+    "publisher": null,
+    "readingLevelDescription": null,
+    "subjects": null,
+    "suitableForMakingShells": false,
+    "suitableForMakingTemplates": false,
+    "suitableForVernacularLibrary": true,
+    "summary": "Coronavirus COVID-19",
+    "tags": [],
+    "title": "Kinyo ke a\u0300 ke\u0301r fo\u0301 kii\u0301y ku\u0300m ya\u0300si\u0301 woo So\u0300v Njo\u014b-19",
+    "typicalAgeRange": null,
+    "use-original-copyright": false
+}
