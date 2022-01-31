@@ -3,7 +3,7 @@ import os
 import pandas as pd
 from pathlib import Path
 
-path = "/Users/ryanegbert/Desktop/spring22/ip/app/covid_files_clean/"
+path = "/Users/ryanegbert/Desktop/spring22/ip/app/covid_files/covid_files_clean/"
 files = os.listdir(path)
 
 for file in files:
