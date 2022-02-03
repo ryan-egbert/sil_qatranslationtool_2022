@@ -36,5 +36,5 @@ for file in files:
 
             df = pd.DataFrame.from_dict(_data)
             df = df.drop_duplicates()
-            df.to_csv("./csv/{}.{}.csv".format(book_instance_id,title.replace(' ','_')))
+            df.to_csv("/Users/ryanegbert/Desktop/spring22/ip/app/covid_files/csv/{}.csv".format(book_instance_id))
             # break
