@@ -4,11 +4,15 @@ from django.template import loader
 
 # Create your views here.
 def index(request):
-    return HttpResponse("This is the home page")
+    context = {
+        'source_txt': 'This is source text',
+        'trans_txt': 'This is translated text'
+    }
+    return render(request, 'process_text/index.html', context)
 
 def login(request):
     context = {'header': 'Hello 1234'}
     return render(request, 'process_text/login.html', context)
 
-def upload(request):
-    return render(request, 'process_text/upload.html')
+def results(request):
+    return render(request, 'process_text/results.html')
