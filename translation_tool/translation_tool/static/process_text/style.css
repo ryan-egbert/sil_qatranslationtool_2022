@@ -104,3 +104,10 @@ div {
     color: #d19e75;
     width: 75%;
 }
+
+.push-left {
+    padding-left: 30px;
+}
+.push-right {
+    padding-right: 30px;
+} 

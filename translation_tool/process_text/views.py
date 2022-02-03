@@ -16,3 +16,6 @@ def login(request):
 
 def results(request):
     return render(request, 'process_text/results.html')
+
+def similarity(request):
+    return render(request, 'process_text/similarity.html')
