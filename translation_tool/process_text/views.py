@@ -16,12 +16,19 @@ def login(request):
     context = {'header': 'Hello 1234'}
     return render(request, 'process_text/login.html', context)
 
+def register(request):
+    #context = {'header': 'Hello 1234'}
+    return render(request, 'process_text/register.html')
+
 def results(request):
     context = {
         'sidebar': True
     }
     return render(request, 'process_text/results.html', context)
 
+def comprehensibility(request):
+    return render(request, 'process_text/comprehensibility.html')
+    
 def similarity(request):
     red = Color("#ff8585")
     green = Color("#87c985")
@@ -63,3 +70,4 @@ def similarity(request):
         'sidebar': True,
     }
     return render(request, 'process_text/similarity.html', context)
+
