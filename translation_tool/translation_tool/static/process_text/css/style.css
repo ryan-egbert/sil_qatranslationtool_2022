@@ -67,10 +67,17 @@
     margin: 5px;
 }
 
-.results-head {
+.results-head>a {
     font-size: 1.5em;
     text-align: center;
     cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.results-head>a:hover {
+    text-decoration: none;
+    color: black;
 }
 
 .results-body {
