@@ -17,7 +17,10 @@ def login(request):
     return render(request, 'process_text/login.html', context)
 
 def results(request):
-    return render(request, 'process_text/results.html')
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/results.html', context)
 
 def similarity(request):
     red = Color("#ff8585")

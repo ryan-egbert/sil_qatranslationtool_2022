@@ -60,60 +60,69 @@
     flex: 1;
 }
 
+.results-container {
+    max-height: 40vh;
+    cursor: default;
+    background-color: #fff6e8;
+    margin: 5px;
+}
 
-.grid-results {
-    display: grid;
-    grid-template-columns: 50% 50%;
-    /* grid-template-rows: 25% 25%; */
-    grid-template-areas: 
-        "res1 res2"
-        "res3 res4";
-    height: 60%;
+.results-head {
+    font-size: 1.5em;
     text-align: center;
+    cursor: pointer;
 }
 
-.grid-results>div:hover {
-    background-color: #dddddd;
+.results-body {
+    height: 80%;
+    overflow: scroll;
+    color: #d4bc98;
+    /* Hide scrollbar for IE, Edge and Firefox */
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+.results-body::-webkit-scrollbar {
+    display: none;
 }
 
-.grid-results>div>span {
-    font-size: 2em;
-}
-
-.res1 {
+/* .res1 {
     background-color: #fff9a1;
     grid-area: res1;
 }
-.res1>p{
+.res1>div>p{
     color: #d9d26c;
-    width: 75%;
 }
 
 .res2 {
     background-color: #d4fbff;
     grid-area: res2;
 }
-.res2>p{
+.res2>div>p{
     color: #9dc7cc;
-    width: 75%;
 }
 
 .res3 {
     background-color: #b0ffcd;
     grid-area: res3;
 }
-.res3>p{
+.res3>div>p{
     color: #7acc98;
-    width: 75%;
 }
 
 .res4 {
     background-color: #ffd4b0;
     grid-area: res4;
 }
-.res4>p{
+.res4>div>p{
     color: #d19e75;
-    width: 75%;
+} */
+.results-container:hover {
+    background-color: rgb(204, 243, 255);
+}
+
+.results-container:hover p {
+    color: rgba(0,0,0,.5);
 }
 
 /***
