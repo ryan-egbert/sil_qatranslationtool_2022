@@ -2,6 +2,7 @@ $(document).ready(function () {
 
     $('#sidebarCollapse').on('click', function () {
         $('#sidebar').toggleClass('active');
+        console.log('document ready')
         if ($("#toggleSidebar").hasClass("fa-arrow-left")) {
             $("#toggleSidebar").removeClass("fa-arrow-left");
             $("#toggleSidebar").addClass("fa-arrow-right");

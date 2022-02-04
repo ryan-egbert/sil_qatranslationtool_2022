@@ -57,5 +57,6 @@ def similarity(request):
         })
     context = {
         'sentences': all_sentences,
+        'sidebar': True,
     }
     return render(request, 'process_text/similarity.html', context)
