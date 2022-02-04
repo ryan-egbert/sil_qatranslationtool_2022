@@ -1,18 +1,119 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
-    </head>
-    <body>
-        <!--[if lt IE 7]>
-            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-        
-        <script src="" async defer></script>
-    </body>
-</html>
+{% load static %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'process_text/css/style.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static 'boot/css/bootstrap.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static 'boot/css/bootstrap-grid.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static 'boot/css/bootstrap.min.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static 'boot/css/bootstrap-grid.min.css' %}">
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="{% static 'process_text/js/sidebar.js' %}"></script>
+
+<div class="wrapper">
+    <nav id="sidebar">
+        <div class="sidebar-header">
+            <h3>Quality Results</h3>
+        </div>
+        <ul>
+            <li class="active">
+                <a href="#">Home</a>
+            </li>
+            <li>
+                <a href="#page-submenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Metrics</a>
+                <ul class="collapse list-unstyled" id="page-submenu">
+                    <li>
+                        <a href="#">Semantic Similarity</a>
+                    </li>
+                    <li>
+                        <a href="#">Comprehensibility</a>
+                    </li>
+                    <li>
+                        <a href="#">Readability</a>
+                    </li>
+                    <li>
+                        <a href="#">Semantic Domains</a>
+                    </li>
+                </ul>
+            </li>
+            <li><a href="#">About</a></li>
+        </ul>
+    </nav>
+    <div id="content">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <button type="button" id="sidebarCollapse" class="btn btn-info">
+                <i id="toggleSidebar" class="fas fa-arrow-left"></i>
+            </button>
+            <a class="navbar-brand" href="#">Translation Tool</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Upload Translations <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            About Quality Metrics
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Semantic Similarity</a>
+                            <a class="dropdown-item" href="#">Comprehensibility</a>
+                            <a class="dropdown-item" href="#">Readability</a>
+                            <a class="dropdown-item" href="#">Semantic Domains</a>
+                            <!-- <div class="dropdown-divider"></div> -->
+                            <!-- <a class="dropdown-item" href="#">Something else here</a> -->
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">About the Project</a>
+                    </li>
+                    <!-- <li class="nav-item">
+                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                    </li> -->
+                </ul>
+                <ul class="navbar-nav ml-sm-2">
+                    <li class="nav-item"><a class="nav-link" href="#">Login</a></li>
+                    <br>
+                    <li class="nav-item"><a class="nav-link" href="#">Register</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="container">
+            <div class="row">
+                <div class="col-10">
+                    <h1 class="header-center">Semantic Similarity</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-10" id="chart"><h4>Chart goes here</h4></div>
+                <div class="col-2">
+                    <h3 class="header-center">Scoring</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-10 text-scroll">
+                    <div class="row" id="textContainer">
+                        <div class="col">
+                            {% for s in sentences %}
+                            <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-score="{{s.idx}}">{{s.s}}</span>
+                            {% endfor %}
+                        </div>
+                        <div class="col">
+                            {% for s in sentences %}
+                            <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-score="{{s.idx}}">{{s.t}}</span>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-2">Score: <span id="simScore"></span></div>
+            </div>
+        </div>
+    </div>
+</div>

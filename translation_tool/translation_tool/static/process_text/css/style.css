@@ -1,0 +1,261 @@
+/* div {
+    background-color: aliceblue;
+} */
+
+/***
+*
+* Not sure what this is yet
+*
+***/
+
+.header-center {
+    text-align: center;
+    margin: 20 0 20 0;
+}
+
+.container {
+    font-size: 20px;
+}
+
+.grid-upload {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-template-areas: "upload1 upload2"
+}
+
+.upload1 {
+    border: 1px solid black;
+    grid-area: upload1;
+    /* background-color: antiquewhite; */
+    text-align: center;
+    height: 100%;
+    margin-left: 30px;
+}
+
+.upload2 {
+    border: 1px solid black;
+    padding: 20 0 20 0;
+    margin-left: 5px;
+    grid-area: upload2;
+    /* background-color: lightcyan; */
+    text-align: center;
+    margin-right: 30px;
+}
+
+.upload-button {
+    position:relative; 
+    top:50%; 
+}
+
+.upload-text-input>textarea {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.upload-text-container {
+    display: flex;
+}
+
+.upload-text-flex {
+    flex: 1;
+}
+
+
+.grid-results {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    /* grid-template-rows: 25% 25%; */
+    grid-template-areas: 
+        "res1 res2"
+        "res3 res4";
+    height: 60%;
+    text-align: center;
+}
+
+.grid-results>div:hover {
+    background-color: #dddddd;
+}
+
+.grid-results>div>span {
+    font-size: 2em;
+}
+
+.res1 {
+    background-color: #fff9a1;
+    grid-area: res1;
+}
+.res1>p{
+    color: #d9d26c;
+    width: 75%;
+}
+
+.res2 {
+    background-color: #d4fbff;
+    grid-area: res2;
+}
+.res2>p{
+    color: #9dc7cc;
+    width: 75%;
+}
+
+.res3 {
+    background-color: #b0ffcd;
+    grid-area: res3;
+}
+.res3>p{
+    color: #7acc98;
+    width: 75%;
+}
+
+.res4 {
+    background-color: #ffd4b0;
+    grid-area: res4;
+}
+.res4>p{
+    color: #d19e75;
+    width: 75%;
+}
+
+/***
+*
+* Similarity page
+*
+***/
+.wrapper {
+    display: flex;
+    width: 100%;
+    /* align-items: stretch; */
+}
+
+/* For mobile versions */
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+    #sidebar.active {
+        margin-left: 0;
+    }
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    src: url(https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDz8Z1JlFd2JQEl8qw.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #fafafa;
+}
+
+/* p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1em;
+    font-weight: 300;
+    line-height: 1.7em;
+    color: #fff;
+}
+*/
+#content {
+    width: 100%;
+}
+
+
+#navbarDropdown {
+    margin-right: 30px;
+}
+
+
+#sidebar.active {
+    margin-left: -250px;
+}
+
+a[data-toggle="collapse"] {
+    position: relative;
+}
+
+
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+} 
+
+#sidebar a:hover {
+    background-color: #ffffff;
+    color: rgb(36, 122, 148) !important;
+    text-decoration: none !important;
+    transition: all 0.3s;
+}
+
+#sidebar {
+    background: rgb(204, 243, 255);
+    color: #000 ;
+    transition: all 0.3s;
+    min-width: 250px;
+    max-width: 250px;
+    min-height: 100vh;
+
+}
+#sidebar a, a:focus {
+    color: rgba(0,0,0,.5);
+    text-decoration: none;
+    transition: all 0.3s;
+}
+#sidebar .sidebar-header {
+    padding: 20px;
+}
+
+#sidebar ul.components {
+    padding: 20px 0;
+    border-bottom: 1px solid #47748b;
+}
+
+#sidebar ul {
+    color: #fff;
+    padding: 10px;
+}
+
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+}
+
+#sidebar ul li.active > a {
+    color: #000;
+    background: rgb(179, 237, 255);
+}
+
+
+ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: rgb(204, 243, 255);
+} 
+
+.text-scroll {
+    max-height: 80vh;
+    min-height: 80vh;
+    overflow: scroll;
+}
+
+.sentence {
+    cursor: pointer;
+}
+
+#sidebarCollapse {
+    margin-right: 15px;
+}
+
+#chart {
+    height:100px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
