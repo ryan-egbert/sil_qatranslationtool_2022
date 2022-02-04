@@ -27,7 +27,10 @@ def results(request):
     return render(request, 'process_text/results.html', context)
 
 def comprehensibility(request):
-    return render(request, 'process_text/comprehensibility.html')
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/comprehensibility.html', context)
     
 def similarity(request):
     red = Color("#ff8585")

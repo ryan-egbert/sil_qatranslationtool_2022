@@ -7,6 +7,6 @@ urlpatterns = [
     path('login/', views.login, name='login'),
     path('results/', views.results, name='results'),
     path('results/similarity/', views.similarity, name='similarity'),
-    path('comprehensibility/', views.comprehensibility, name='comprehensibility'),
+    path('results/comprehensibility/', views.comprehensibility, name='comprehensibility'),
 
 ]
