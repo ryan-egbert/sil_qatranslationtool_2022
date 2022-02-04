@@ -12,6 +12,12 @@ div {
     grid-template-areas: "upload1 upload2"
 }
 
+.registerdisp {
+    margin-left: 100px;
+    text-align: center;
+
+}
+
 .upload1 {
     border: 1px solid black;
     grid-area: upload1;
@@ -110,4 +116,8 @@ div {
 }
 .push-right {
     padding-right: 30px;
+
 } 
+
+}
+

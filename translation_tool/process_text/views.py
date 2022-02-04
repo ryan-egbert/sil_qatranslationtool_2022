@@ -14,8 +14,17 @@ def login(request):
     context = {'header': 'Hello 1234'}
     return render(request, 'process_text/login.html', context)
 
+def register(request):
+    #context = {'header': 'Hello 1234'}
+    return render(request, 'process_text/register.html')
+
 def results(request):
     return render(request, 'process_text/results.html')
 
+
 def similarity(request):
     return render(request, 'process_text/similarity.html')
+
+def comprehensibility(request):
+    return render(request, 'process_text/comprehensibility.html')
+
