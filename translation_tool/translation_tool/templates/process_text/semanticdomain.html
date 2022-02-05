@@ -3,28 +3,39 @@
 {% block body_content %}
 <div class="container">
     <div class="row">
-        <div class="col-10">
+        <div class="col-9">
             <h1 class="header-center">Semantic Domain</h1>
         </div>
     </div>
     <div class="row">
-        <div class="col-10" id="chart"><h4>Chart goes here</h4></div>
-        <div class="col-2">
+        <div class="col-9" id="chart"><h4>Chart goes here</h4></div>
+        <div class="col-3">
             <h3 class="header-center">Domains Extracted</h3>
         </div>
     </div>
     <div class="row">
-        <div class="col-10 text-scroll">
+        <div class="col-9 text-scroll">
             <div class="row" id="textContainer">
                 <div class="col">
                     {% for s in sentences %}
                     <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-score="{{s.idx}}">{{s.s}}</span>
                     {% endfor %}
                 </div>
-
             </div>
         </div>
-        <div class="col-2">Domain Name: <span id="simScore"></span></div>
+        <div class="col-3">
+            <div class="text-scroll">
+                {% for domain_list in domains %}
+                    <div>
+                        {% for d_a in domain_list %}
+                            <span style=" {{ q_a.color }}"> {{d_a.domain}}</span>
+                        {% endfor %}
+                    </div>
+                    <br>
+                {% endfor %}
+            </div>
+        </div>
     </div>
 </div>
+
 {% endblock %}

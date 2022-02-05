@@ -127,6 +127,13 @@ def semanticdomain(request):
         "He wondered why at 18 he was old enough to go to war, but not old enough to buy cigarettes.",
         "The overpass went under the highway and into a secret world.",
     ]
+
+    random_domains = [
+        'food',
+        'travel',
+        'work',
+        'education'
+    ]
     all_sentences = []
     for i in range(len(sentences_tr)):
         all_sentences.append({
@@ -134,8 +141,17 @@ def semanticdomain(request):
             'color': choice(colors).hex,
             'idx': i,
         })
+    all_domains = []
+    for i in range(len(sentences_tr)):
+        domains = []
+        domains.append({
+            'domain': choice(random_domains),
+            'color': choice(colors)
+        })
+    all_domains.append(domains)
     context = {
         'sentences': all_sentences,
+        'domains': all_domains,
         'sidebar': True,
     }
     return render(request, 'process_text/semanticdomain.html', context)
