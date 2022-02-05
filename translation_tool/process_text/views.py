@@ -70,7 +70,10 @@ def comprehensibility(request):
     return render(request, 'process_text/comprehensibility.html', context)
 
 def readability(request):
-    return render(request, 'process_text/readability.html')
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/readability.html', context)
 
 def similarity(request):
     red = Color("#ff8585")
