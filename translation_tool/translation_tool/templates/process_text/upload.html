@@ -1,0 +1,18 @@
+{% extends 'process_text/base.html' %}
+
+{% block body_content %}
+<div class="container-fluid">
+    <div class="row">
+        <div class="upload1 col-4 upload-button">
+                <button type="submit">Upload</button>
+        </div>
+        <div class="upload2 col-8">
+            <textarea cols="50" rows="20">Source text goes here</textarea>
+            <textarea cols="50" rows="20">Translated text goes here</textarea>
+            <div>
+                <button id="submitTextButton" type="submit"><a href="/index/results/">Submit</a></button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

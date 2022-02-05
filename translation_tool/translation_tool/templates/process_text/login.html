@@ -1,17 +1,26 @@
+{% extends 'process_text/base.html' %}
 
+{% block body_content %}
 <div class="container">
-    <div class="container">
+    <h1 class="header-center">Existing User? Login</h1>
+    <div class="row">
         <div class="col">
-            <h1 class="header-center>a">Existing User? Login</h1>
-
-                <label for="username">Username:</label>
+            <label class="float-right" for="username">Username:</label>
+        </div>
+        <div class="col">
                 <input type="text" id="username">
-                <br>
-                <label for="password">Password</label>
-                <input type="password" id="password">
-                <br>
-                <button type="submit">Submit</button>
-            
         </div>
     </div>
+    <div class="row">
+        <div class="col">
+            <label class="float-right" for="password">Password:</label>
+        </div>
+        <div class="col">
+            <input type="password" id="password">
+        </div>
+    </div>
+    <div class="row header-center">
+        <div class="col"><button type="submit">Submit</button></div>
+    </div>
 </div>
+{% endblock %}
