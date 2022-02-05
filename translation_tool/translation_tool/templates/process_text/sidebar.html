@@ -1,0 +1,30 @@
+{% load static %}
+
+<nav id="sidebar">
+    <div class="sidebar-header">
+        <h3>Quality Results</h3>
+    </div>
+    <ul>
+        <li>
+            <a href="/index/results/">Home</a>
+        </li>
+        <li class="active">
+            <a href="#page-submenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Metrics</a>
+            <ul class="collapse list-unstyled" id="page-submenu">
+                <li class="active">
+                    <a href="/index/results/similarity/">Semantic Similarity</a>
+                </li>
+                <li>
+                    <a href="/index/results/comprehensibility/">Comprehensibility</a>
+                </li>
+                <li>
+                    <a href="#">Readability</a>
+                </li>
+                <li>
+                    <a href="#">Semantic Domains</a>
+                </li>
+            </ul>
+        </li>
+        <li><a href="#">About</a></li>
+    </ul>
+</nav>

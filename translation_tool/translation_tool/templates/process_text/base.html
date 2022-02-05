@@ -1,0 +1,67 @@
+{% load static %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'process_text/css/style.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static 'boot/css/bootstrap.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static 'boot/css/bootstrap-grid.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static 'boot/css/bootstrap.min.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static 'boot/css/bootstrap-grid.min.css' %}">
+
+<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="{% static 'process_text/js/main.js' %}"></script>
+
+<div class="wrapper">
+    {% if sidebar %}
+        {% include 'process_text/sidebar.html' %}
+    {% endif %}
+    <div id="content">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            {% if sidebar %}
+            <button type="button" id="sidebarCollapse" class="btn btn-info">
+                <i id="toggleSidebar" class="fas fa-arrow-left"></i>
+            </button>
+            {% endif %}
+            <a class="navbar-brand" href="#">Translation Tool</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Upload Translations <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            About Quality Metrics
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="/index/results/similarity/">Semantic Similarity</a>
+                            <a class="dropdown-item" href="/index/results/comprehensibility/">Comprehensibility</a>
+                            <a class="dropdown-item" href="#">Readability</a>
+                            <a class="dropdown-item" href="#">Semantic Domains</a>
+                            <!-- <div class="dropdown-divider"></div> -->
+                            <!-- <a class="dropdown-item" href="#">Something else here</a> -->
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">About the Project</a>
+                    </li>
+                    <!-- <li class="nav-item">
+                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                    </li> -->
+                </ul>
+                <ul class="navbar-nav ml-sm-2">
+                    <li class="nav-item"><a class="nav-link" href="/index/login/">Login</a></li>
+                    <br>
+                    <li class="nav-item"><a class="nav-link" href="/index/register/">Register</a></li>
+                </ul>
+            </div>
+        </nav>
+        {% block body_content %}
+        {% endblock %}
+    </div>
+</div>
