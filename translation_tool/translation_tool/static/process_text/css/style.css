@@ -317,3 +317,17 @@ ul ul a {
     float: right;
 }
 
+#submitTextButton>a {
+    color: rgba(0,0,0);
+    text-decoration: none;
+}
+
+/* #submitTextButton>a:hover {
+    text-decoration: none !important;
+} */
+
+/* color: rgba(0,0,0,.5); */
+/* #sidebar a, a:focus {
+    text-decoration: none;
+    transition: all 0.3s;
+} */
