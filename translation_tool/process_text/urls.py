@@ -8,5 +8,9 @@ urlpatterns = [
     path('results/', views.results, name='results'),
     path('results/similarity/', views.similarity, name='similarity'),
     path('results/comprehensibility/', views.comprehensibility, name='comprehensibility'),
+<<<<<<< Updated upstream
 
+=======
+    path('results/semanticdomain/', views.semanticdomain, name='semanticdomain'),
+>>>>>>> Stashed changes
 ]
