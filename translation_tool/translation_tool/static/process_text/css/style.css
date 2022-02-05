@@ -305,3 +305,7 @@ ul ul a {
     border: 1px solid black;
     margin-bottom: 10px;
 }
+
+.float-right {
+    float: right;
+}
