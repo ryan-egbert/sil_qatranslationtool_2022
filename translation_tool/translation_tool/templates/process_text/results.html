@@ -1,29 +1,43 @@
-{% load static %}
+{% extends 'process_text/base.html' %}
 
-<link rel="stylesheet" type="text/css" href="{% static 'process_text/style.css' %}">
-
-<div>
-    <h1 class="header-center">Results</h1>
-    <div class="grid-results">
-        <div class="res1">
-            <span>Similarity</span>
-            <br>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas quis. Elit at imperdiet dui accumsan sit. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Fames ac turpis egestas maecenas pharetra. Vel pharetra vel turpis nunc eget. Arcu vitae elementum curabitur vitae. Et netus et malesuada fames ac turpis egestas. Sit amet commodo nulla facilisi nullam vehicula. Ut eu sem integer vitae justo eget magna. Faucibus nisl tincidunt eget nullam non nisi est. Sed ullamcorper morbi tincidunt ornare massa.</p>
+{% block body_content %}
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h1 class="header-center">Results</h1>
         </div>
-        <div class="res2">
-            <span>Comprehensibility</span>
+    </div>
+    <div class="row">
+        <div class="col res1 results-container">
+            <span class="results-head"><a href="/index/results/similarity/">Similarity</a></span>
             <br>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas quis. Elit at imperdiet dui accumsan sit. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Fames ac turpis egestas maecenas pharetra. Vel pharetra vel turpis nunc eget. Arcu vitae elementum curabitur vitae. Et netus et malesuada fames ac turpis egestas. Sit amet commodo nulla facilisi nullam vehicula. Ut eu sem integer vitae justo eget magna. Faucibus nisl tincidunt eget nullam non nisi est. Sed ullamcorper morbi tincidunt ornare massa.</p>
+            <div class="results-body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas quis. Elit at imperdiet dui accumsan sit. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Fames ac turpis egestas maecenas pharetra. Vel pharetra vel turpis nunc eget. Arcu vitae elementum curabitur vitae. Et netus et malesuada fames ac turpis egestas. Sit amet commodo nulla facilisi nullam vehicula. Ut eu sem integer vitae justo eget magna. Faucibus nisl tincidunt eget nullam non nisi est. Sed ullamcorper morbi tincidunt ornare massa.</p>
+            </div>
         </div>
-        <div class="res3">
-            <span>Readability</span>
+        <div class="col res2 results-container">
+            <span class="results-head"><a href="#">Comprehensibility</a></span>
             <br>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas quis. Elit at imperdiet dui accumsan sit. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Fames ac turpis egestas maecenas pharetra. Vel pharetra vel turpis nunc eget. Arcu vitae elementum curabitur vitae. Et netus et malesuada fames ac turpis egestas. Sit amet commodo nulla facilisi nullam vehicula. Ut eu sem integer vitae justo eget magna. Faucibus nisl tincidunt eget nullam non nisi est. Sed ullamcorper morbi tincidunt ornare massa.</p>
+            <div class="results-body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas quis. Elit at imperdiet dui accumsan sit. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Fames ac turpis egestas maecenas pharetra. Vel pharetra vel turpis nunc eget. Arcu vitae elementum curabitur vitae. Et netus et malesuada fames ac turpis egestas. Sit amet commodo nulla facilisi nullam vehicula. Ut eu sem integer vitae justo eget magna. Faucibus nisl tincidunt eget nullam non nisi est. Sed ullamcorper morbi tincidunt ornare massa.</p>
+            </div>
         </div>
-        <div class="res4">
-            <span>Semantic Domains</span>
+    </div>
+    <div class="row">
+        <div class="col res3 results-container">
+            <span class="results-head"><a href="#">Readability</a></span>
             <br>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas quis. Elit at imperdiet dui accumsan sit. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Fames ac turpis egestas maecenas pharetra. Vel pharetra vel turpis nunc eget. Arcu vitae elementum curabitur vitae. Et netus et malesuada fames ac turpis egestas. Sit amet commodo nulla facilisi nullam vehicula. Ut eu sem integer vitae justo eget magna. Faucibus nisl tincidunt eget nullam non nisi est. Sed ullamcorper morbi tincidunt ornare massa.</p>
+            <div class="results-body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas quis. Elit at imperdiet dui accumsan sit. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Fames ac turpis egestas maecenas pharetra. Vel pharetra vel turpis nunc eget. Arcu vitae elementum curabitur vitae. Et netus et malesuada fames ac turpis egestas. Sit amet commodo nulla facilisi nullam vehicula. Ut eu sem integer vitae justo eget magna. Faucibus nisl tincidunt eget nullam non nisi est. Sed ullamcorper morbi tincidunt ornare massa.</p>
+            </div>
+        </div>
+        <div class="col res4 results-container">
+            <span class="results-head"><a href="#">Semantic Domains</a></span>
+            <br>
+            <div class="results-body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas quis. Elit at imperdiet dui accumsan sit. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Fames ac turpis egestas maecenas pharetra. Vel pharetra vel turpis nunc eget. Arcu vitae elementum curabitur vitae. Et netus et malesuada fames ac turpis egestas. Sit amet commodo nulla facilisi nullam vehicula. Ut eu sem integer vitae justo eget magna. Faucibus nisl tincidunt eget nullam non nisi est. Sed ullamcorper morbi tincidunt ornare massa.</p>
+            </div>
         </div>
     </div>
 </div>
+{% endblock %}
