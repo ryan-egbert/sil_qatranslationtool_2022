@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 from django.template import loader
 from colour import Color
-from random import choice
+from random import choice, shuffle
 
 # Create your views here.
 def index(request):
@@ -20,6 +20,10 @@ def register(request):
     #context = {'header': 'Hello 1234'}
     return render(request, 'process_text/register.html')
 
+def upload(request):
+    context = {}
+    return render(request, 'process_text/upload.html')
+
 def results(request):
     context = {
         'sidebar': True
@@ -30,6 +34,18 @@ def comprehensibility(request):
     red = Color("#ff8585")
     green = Color("#87c985")
     colors = list(red.range_to(green, 10))
+    random_questions = [
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?',
+        'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat?',
+        'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur?',
+        'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum?'
+    ]
+    random_answers = [
+        'consectetur',
+        'enim',
+        'reprehenderit',
+        'proident'
+    ]
     sentences_s = [
         "Handwashing is one of the best ways to protect yourself and your family from getting sick",
         "Look for emergency warning signs - Trouble breathing, Persistent pain or pressure in the chest, New confusion, Inability to wake",
@@ -55,15 +71,26 @@ def comprehensibility(request):
         "Le viaduc est passé sous l'autoroute et dans un monde secret.",
     ]
     all_sentences = []
-    for i in range(10):
+    for i in range(len(sentences_s)):
         all_sentences.append({
             's': sentences_s[i],
             't': sentences_t[i],
             'color': choice(colors).hex,
             'idx': i,
         })
+
+    all_questions = []
+    for i in range(len(sentences_s)):
+        questions = []
+        questions.append({
+            'question': choice(random_questions),
+            'answer': choice(random_answers),
+            'color': choice(colors)
+        })
+        all_questions.append(questions)
     context = {
         'sentences': all_sentences,
+        'questions': all_questions,
         'sidebar': True,
     }
 
