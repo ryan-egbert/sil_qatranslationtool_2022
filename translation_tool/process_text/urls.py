@@ -10,4 +10,5 @@ urlpatterns = [
     path('results/similarity/', views.similarity, name='similarity'),
     path('results/readability/', views.readability, name='readability'),
     path('results/comprehensibility/', views.comprehensibility, name='comprehensibility'),
+    path('results/semanticdomain/', views.semanticdomain, name='semanticdomain'),
 ]
