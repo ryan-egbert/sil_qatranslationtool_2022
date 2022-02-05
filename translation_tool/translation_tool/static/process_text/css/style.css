@@ -60,6 +60,36 @@
     flex: 1;
 }
 
+.login-container {
+    max-height: 40vh;
+    cursor: default;
+    background-color: #fff6e8;
+    margin: 5px;
+}
+
+.login-head>a {
+    font-size: 1.5em;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.login-head>a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.login-body {
+    height: 80%;
+    overflow: scroll;
+    color: #d4bc98;
+    /* Hide scrollbar for IE, Edge and Firefox */
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+
 .results-container {
     max-height: 40vh;
     cursor: default;
