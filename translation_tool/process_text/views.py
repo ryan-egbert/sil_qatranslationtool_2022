@@ -19,3 +19,6 @@ def results(request):
 
 def similarity(request):
     return render(request, 'process_text/similarity.html')
+
+def readability(request):
+    return render(request, 'process_text/readability.html')
