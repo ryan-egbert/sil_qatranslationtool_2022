@@ -17,34 +17,41 @@
     font-size: 20px;
 }
 
-.grid-upload {
+/* .grid-upload {
     display: grid;
     grid-template-columns: 30% 70%;
     grid-template-areas: "upload1 upload2"
-}
+} */
 
 .upload1 {
-    border: 1px solid black;
-    grid-area: upload1;
+    border-bottom: 3px solid black;
+    /* grid-area: upload1; */
     /* background-color: antiquewhite; */
     text-align: center;
     height: 100%;
-    margin-left: 30px;
+    padding-left: 30px;
+    padding-right: 5px;
+    height: 80vh;
 }
 
 .upload2 {
-    border: 1px solid black;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
     padding: 20 0 20 0;
-    margin-left: 5px;
-    grid-area: upload2;
+    padding-left: 5px;
+    /* grid-area: upload2; */
     /* background-color: lightcyan; */
     text-align: center;
-    margin-right: 30px;
+    padding-right: 30px;
+    height: 80vh;
 }
 
 .upload-button {
-    position:relative; 
-    top:50%; 
+    align-items: center;
+    /* vertical-align: middle; */
+}
+.upload-button>button{
+    top: 50%;
 }
 
 .upload-text-input>textarea {
@@ -285,8 +292,8 @@ ul ul a {
 } 
 
 .text-scroll {
-    max-height: 80vh;
-    min-height: 80vh;
+    max-height: 70vh;
+    min-height: 70vh;
     overflow: scroll;
 }
 
@@ -309,3 +316,18 @@ ul ul a {
 .float-right {
     float: right;
 }
+
+#submitTextButton>a {
+    color: rgba(0,0,0);
+    text-decoration: none;
+}
+
+/* #submitTextButton>a:hover {
+    text-decoration: none !important;
+} */
+
+/* color: rgba(0,0,0,.5); */
+/* #sidebar a, a:focus {
+    text-decoration: none;
+    transition: all 0.3s;
+} */
