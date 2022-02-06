@@ -15,18 +15,52 @@
 
 .container {
     font-size: 20px;
+    width: 100%;
+    height: 100%;
 }
+body, html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+  }
 
 /* .grid-upload {
     display: grid;
     grid-template-columns: 30% 70%;
     grid-template-areas: "upload1 upload2"
 } */
+.leftpane {
+    width: 40%;
+    height: 100%;
+    float: left;
+    border-collapse: collapse;
+}
+
+.middlepane {
+    width: 30%;
+    height: 100%;
+    float: left;
+    border-collapse: collapse;
+}
+
+.rightpane {
+  width: 30%;
+  height: 100%;
+  position: relative;
+  float: right;
+  background-color: rose;
+  border-collapse: collapse;
+}
+
+.toppane {
+  width: 100%;
+  height: 100px;
+  border-collapse: collapse;
+  background-color: #4da6ff;
+}
 
 .upload1 {
     border-bottom: 3px solid black;
-    /* grid-area: upload1; */
-    /* background-color: antiquewhite; */
     text-align: center;
     height: 100%;
     padding-left: 30px;
@@ -39,8 +73,6 @@
     border-bottom: 3px solid black;
     padding: 20 0 20 0;
     padding-left: 5px;
-    /* grid-area: upload2; */
-    /* background-color: lightcyan; */
     text-align: center;
     padding-right: 30px;
     height: 80vh;
@@ -48,7 +80,6 @@
 
 .upload-button {
     align-items: center;
-    /* vertical-align: middle; */
 }
 .upload-button>button{
     top: 50%;

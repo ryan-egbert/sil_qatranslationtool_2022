@@ -1,18 +1,29 @@
 {% extends 'process_text/base.html' %}
 
 {% block body_content %}
+<br>
+<br>
 <div class="container-fluid">
-    <div class="row">
-        <div class="upload1 col-4 upload-button">
-                <button type="submit">Upload</button>
-        </div>
-        <div class="upload2 col-8">
-            <textarea cols="50" rows="20">Source text goes here</textarea>
-            <textarea cols="50" rows="20">Translated text goes here</textarea>
-            <div>
-                <button id="submitTextButton" type="submit"><a href="/index/results/">Submit</a></button>
+    <div class="leftpane">
+        <div class="card">
+            <div class="card-header  text-white bg-dark">
+                Would you like to upload a file?
+            </div>
+            <div class="card-body">
+            <div class="custom-file" style="width:500px;">
+                        
+                <input type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01">
+                <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
             </div>
         </div>
+        </div>
+        </div>
+
+      <div class="middlepane">
+        <textarea cols="50" rows="20" placeholder="Source text goes here"></textarea>
+      </div>
+      <div class="rightpane">
+        <textarea cols="50" rows="20" placeholder="Translated text goes here"></textarea>
     </div>
 </div>
 {% endblock %}
