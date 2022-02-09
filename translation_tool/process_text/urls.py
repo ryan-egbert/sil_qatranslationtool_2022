@@ -6,6 +6,7 @@ urlpatterns = [
     path('register/', views.register, name='register'),
     path('login/', views.login, name='login'),
     path('upload/', views.upload, name='upload'),
+    path('upload/file/', views.processFile, name='processFile'),
     path('results/', views.results, name='results'),
     path('results/similarity/', views.similarity, name='similarity'),
     path('results/readability/', views.readability, name='readability'),

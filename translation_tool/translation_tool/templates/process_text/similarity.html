@@ -19,11 +19,13 @@
                 <div class="col">
                     {% for s in sentences %}
                     <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-score="{{s.idx}}">{{s.s}}</span>
+                    <br>
                     {% endfor %}
                 </div>
                 <div class="col">
                     {% for s in sentences %}
                     <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-score="{{s.idx}}">{{s.t}}</span>
+                    <br>
                     {% endfor %}
                 </div>
             </div>
