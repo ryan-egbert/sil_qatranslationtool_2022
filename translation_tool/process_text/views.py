@@ -3,6 +3,8 @@ from django.http import HttpResponse
 from django.template import loader
 from colour import Color
 from random import choice, shuffle
+from . models import CustomUser
+from . forms import UserRegisterForm
 
 # Create your views here.
 def index(request):
@@ -18,7 +20,28 @@ def login(request):
 
 def register(request):
     #context = {'header': 'Hello 1234'}
-    return render(request, 'process_text/register.html')
+    if request.method == 'POST':
+        username = request.POST.get(['username', 'suyash'])
+        password = request.POST.get(['password', 'python'])
+        full_name = request.POST.get(['fullname', 'Suyash Suthankar'])
+        p = CustomUser(username=username, password=password, full_name=full_name)
+        p.save()
+        return HttpResponse("Data saved")
+    else:
+        return render(request, 'process_text/register.html')
+
+
+def insert_data(request):
+    if request.method == 'POST':
+        username = request.POST['username']
+        password = request.POST['password']
+        full_name = request.POST['fullname']
+        p = CustomUser(username=username, password=password, full_name=full_name)
+        p.save()
+        return HttpResponse("Data saved")
+    else:
+        return render(request, 'process_text/register.html')
+
 
 def upload(request):
     context = {}

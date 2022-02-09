@@ -3,7 +3,8 @@
 {% block body_content %}
 <div class="container">
     <h1 class="header-center">New User? Sign Up</h1>
-    <form>
+    <form method="POST" action="">
+        {% csrf_token %}
         <div class="row">
             <div class="col">
                 <label class="float-right" for="username">Username:</label>
@@ -14,10 +15,10 @@
         </div>
         <div class="row">
             <div class="col">
-                <label class="float-right" for="full_name">Full Name:</label>
+                <label class="float-right" for="fullname">Full Name:</label>
             </div>
             <div class="col">
-                <input type="text" id="full_name">
+                <input type="text" id="fullname">
             </div>
         </div>
         <div class="row">
