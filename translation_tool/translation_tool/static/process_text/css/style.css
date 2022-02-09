@@ -275,3 +275,32 @@ ul ul a {
     border: 1px solid black;
     margin-bottom: 10px;
 }
+
+.float-right {
+    float: right;
+}
+
+#submitTextButton>a {
+    color: rgba(0,0,0);
+    text-decoration: none;
+}
+
+/* #submitTextButton>a:hover {
+    text-decoration: none !important;
+} */
+
+/* color: rgba(0,0,0,.5); */
+/* #sidebar a, a:focus {
+    text-decoration: none;
+    transition: all 0.3s;
+} */
+
+.text_resize {
+    resize: none;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.marginTop {
+    margin-top: 20px;
+}

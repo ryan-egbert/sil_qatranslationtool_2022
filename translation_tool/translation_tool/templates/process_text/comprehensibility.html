@@ -85,14 +85,36 @@ Pale, gray, or blue-colored skin, lips, or nail beds, depending on skin tone
     </div>
     <br>
     <div class="row">
-        <div class="col-5 push-left res1">
-                Does COVID-19 affect the heart?
+        <div class="col-9 text-scroll">
+            <div class="row" id="textContainer">
+                <div class="col">
+                    {% for s in sentences %}
+                    <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-score="{{s.idx}}">{{s.s}}</span>
+                    <br>
+                    {% endfor %}
+                </div>
+                <div class="col">
+                    {% for s in sentences %}
+                    <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-score="{{s.idx}}">{{s.t}}</span>
+                    <br>
+                    {% endfor %}
+                </div>
+            </div>
         </div>
-        <div class="col-2 res2">
-                Slightly Correct
-        </div>
-        <div class="col-5 push-right res4">
-                One of the mechanisms that the SARS-CoV-2 virus uses to enter the lungs, called the ACE2 receptors, lives in the heart as well. When the virus enters the heart, it can cause clots, pulmonary embolism, or clots within the arteries of the heart causing a heart attack.
+        <div class="col-3">
+            <div class="text-scroll">
+                {% for question_list in questions %}
+                    <div>
+                        {% for q_a in question_list %}
+                            <span>Q: {{q_a.question}}</span>
+                            <br>
+                            <span style="border-bottom: 2px solid {{ q_a.color }}">A: {{q_a.answer}}</span>
+                        {% endfor %}
+                    </div>
+                    <br>
+                {% endfor %}
+                <span id="simScore"></span>
+            </div>
         </div>
     </div>
 </div>
