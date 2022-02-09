@@ -1,32 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+{% extends 'process_text/base.html' %}
 
-    <div class="registerdisp">
-    <h1>New User? Sign Up</h1>
+{% block body_content %}
+<br>
+<br>
+<div class="container">
+    <div class="col d-flex justify-content-center">
+    
+        <div class="card text-center mb-3" style="width: 40rem;">
+            <div class="card-header  text-white bg-dark">
+                New User? Sign up!
+              </div>
+        <div class="card-body">
+        <h5 class="card-title ">Type in your credentials!</h5>
     <form>
-        <label for="full_name">Full Name:</label>
-        <input type="text" id="full_name">
-        <br>
-        <br>
-        <br>
-        <label for="username">Username:</label>
-        <input type="text" id="username">
-        <br>
-        <br>
-        <br>
-        <label for="password">Password</label>
-        <input type="password" id="password">
-        <br>
-        <br>
-        <button type="submit">Register</button>
+        <div class="row">
+            <div class="col">
+                <label class="float-right" for="username">Username:</label>
+            </div>
+            <div class="col">
+                <input type="text" id="username" placeholder="Username">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <label class="float-right" for="full_name">Full Name:</label>
+            </div>
+            <div class="col">
+                <input type="text" id="full_name" placeholder="Your full name">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <label class="float-right" for="password">Password</label>
+            </div>
+            <div class="col">
+                <input type="password" id="password" placeholder="Password">
+            </div>
+        </div>
+        <div class="row header-center">
+            <div class="col">
+                <button type="submit">Register</button>
+            </div>
+        </div>
     </form>
 </div>
-</head>
-<body>
-
-</body>
-</html>
-
+</div>
+</div>
+</div>
+{% endblock %}

@@ -196,4 +196,3 @@ def similarity(request):
         'sidebar': True,
     }
     return render(request, 'process_text/similarity.html', context)
-

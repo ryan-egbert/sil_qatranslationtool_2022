@@ -9,6 +9,7 @@ urlpatterns = [
     path('upload/file/', views.processFile, name='processFile'),
     path('results/', views.results, name='results'),
     path('results/similarity/', views.similarity, name='similarity'),
-    path('comprehensibility/', views.comprehensibility, name='comprehensibility'),
-
+    path('results/readability/', views.readability, name='readability'),
+    path('results/comprehensibility/', views.comprehensibility, name='comprehensibility'),
+    path('results/semanticdomain/', views.semanticdomain, name='semanticdomain'),
 ]
