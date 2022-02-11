@@ -15,12 +15,16 @@ $(document).ready(function () {
 
     $(".sentence").on('click', function() {
         console.log('clicked');
-        $(".sentence").removeClass("selected").css('background-color', 'inherit');
-    
+        
         let index = parseInt($(this).attr('data-index'));
         let color = $(this).css('border-bottom');
-        console.log(color);
-        $("span[data-index=" + index + "]").addClass('selected').css('background-color', color.match(/rgb(.*)/)[0]);
+        if ($("span[data-index=" + index + "]").hasClass('selected')) {
+            $(".sentence").removeClass("selected").css('background-color', 'inherit');
+        }
+        else {
+            $(".sentence").removeClass("selected").css('background-color', 'inherit');
+            $("span[data-index=" + index + "]").addClass('selected').css('background-color', color.match(/rgb(.*)/)[0]);
+        }
         $("#simScore").text(index);
     });
 

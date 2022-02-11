@@ -7,7 +7,7 @@ from .models import TextPair
 
 LANG1 = []
 LANG2 = []
-ID = 7
+ID = 5
 
 # Create your views here.
 def index(request):
@@ -30,33 +30,33 @@ def upload(request):
     return render(request, 'process_text/upload.html')
 
 def processFile(request):
-    if request.method == 'POST':
-        upload_file = request.FILES['uploadFile']
-        first_line = True
-        lang1_lines = []
-        lang2_lines = []
-        # with open(upload_file, 'r') as f:
-        for line in upload_file:
-            if first_line:
-                langs = line.decode().split(',')
-                lang1 = langs[1]
-                lang2 = langs[2]
-                first_line = False
-                continue
-            lang1_lines.append({'text': line.decode().split(',')[1]})
-            lang2_lines.append({'text': line.decode().split(',')[2]})
+    # if request.method == 'POST':
+    #     upload_file = request.FILES['uploadFile']
+    #     first_line = True
+    #     lang1_lines = []
+    #     lang2_lines = []
+    #     # with open(upload_file, 'r') as f:
+    #     for line in upload_file:
+    #         if first_line:
+    #             langs = line.decode().split(',')
+    #             lang1 = langs[1]
+    #             lang2 = langs[2]
+    #             first_line = False
+    #             continue
+    #         lang1_lines.append({'text': line.decode().split(',')[1]})
+    #         lang2_lines.append({'text': line.decode().split(',')[2]})
 
-    tp = TextPair()
-    tp.text1 = {
-        'sentences': lang1_lines,
-        'lang': 'eng'
-    }
-    tp.text2 = {
-        'sentences': lang2_lines,
-        'lang': 'eng'
-    }
-    tp.tp_id = ID
-    tp.save()
+    # tp = TextPair()
+    # tp.text1 = {
+    #     'sentences': lang1_lines,
+    #     'lang': 'eng'
+    # }
+    # tp.text2 = {
+    #     'sentences': lang2_lines,
+    #     'lang': 'eng'
+    # }
+    # tp.tp_id = ID
+    # tp.save()
     # return redirect('/index/results')
     return results(request)
 
@@ -69,8 +69,8 @@ def results(request):
 
 def comprehensibility(request):
     red = Color("#ff8585")
-    green = Color("#87c985")
-    colors = list(red.range_to(green, 10))
+    white = Color("white")
+    colors = list(red.range_to(white, 3))
     random_questions = [
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?',
         'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat?',
