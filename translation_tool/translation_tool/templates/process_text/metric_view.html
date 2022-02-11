@@ -3,32 +3,55 @@
 {% block body_content %}
 <div class="container">
     <div class="row">
-        <div class="col-10">
-            <h1 class="header-center">Semantic Similarity</h1>
+        <div class="col-12">
+            <h1 class="header-center">Metric View</h1>
         </div>
     </div>
     <div class="row">
-        <div class="col-10" id="chart"><h4>Chart goes here</h4></div>
-        <div class="col-2">
-            <h3 class="header-center">Scoring</h3>
+        <div class="col" id="icons">
+            <button class="btn btn-lg btn-outline-dark icon-btn" id="simBtn">
+                <i class="fas fa-equals"></i>
+            </button>
+            <button class="btn btn-lg btn-outline-dark icon-btn" id="compBtn">
+                <i class="fas fa-glasses"></i>
+            </button>
+            <button class="btn btn-lg btn-outline-dark icon-btn" id="readBtn">
+                <i class="fas fa-book"></i>
+            </button>
+            <button class="btn btn-lg btn-outline-dark icon-btn" id="semdomBtn">
+                <i class="fas fa-sitemap"></i>
+            </button>
         </div>
+        <!-- <div class="col-2">
+            <h3 class="header-center">Scoring</h3>
+        </div> -->
     </div>
     <div class="row">
         <div class="col-10 text-scroll">
-            <div class="row" id="textContainer">
-                <div class="col">
-                    {% for s in sentences %}
-                    <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-score="{{s.idx}}">{{s.s}}</span>
-                    <br>
-                    {% endfor %}
-                </div>
-                <div class="col">
-                    {% for s in sentences %}
-                    <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-score="{{s.idx}}">{{s.t}}</span>
-                    <br>
-                    {% endfor %}
+            <div class="in" id="single">
+                <div class="row" id="textContainer">
+                    <div class="col">
+                        {% for s in sentences %}
+                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-score="{{s.idx}}">{{s.s.1}}</span>
+                        {% endfor %}
+                    </div>
                 </div>
             </div>
+            <div class="in" id="multi">
+                {% for s in sentences %}
+                <div class="row">
+                    <div class="col-6">
+                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="0" data-comp="0" data-read="0" data-semdom="0">{{s.s.0}}</span>
+                        <!-- <br> -->
+                    </div>
+                    <div class="col-6">
+                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="0" data-comp="0" data-read="0" data-semdom="0">{{s.s.1}}</span>
+                        <!-- <br> -->
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <!-- </div> -->
         </div>
         <div class="col-2">Score: <span id="simScore"></span></div>
     </div>

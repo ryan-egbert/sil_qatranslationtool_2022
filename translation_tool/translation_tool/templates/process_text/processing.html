@@ -1,0 +1,15 @@
+{% extends 'process_text/base.html' %}
+
+{% block body_content %}
+<div class="container">
+    <h1 class="header-center">Text is processing...</h1>
+    <div class="row">
+        <form action="{% url 'results' %}">
+            <button class="btn btn-primary btn-lg">Overview</button>
+        </form>
+        <form action="{% url 'view' %}">
+            <button class="btn btn-primary btn-lg">Specifics</button>
+        </form>
+    </div>
+</div>
+{% endblock %}

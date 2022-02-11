@@ -4,10 +4,14 @@ from django.template import loader
 from colour import Color
 from random import choice, shuffle
 from .models import TextPair
+from .classes import TextPairClass
+import csv
+import io
+import random
 
 LANG1 = []
 LANG2 = []
-ID = 5
+ID = 0
 
 # Create your views here.
 def index(request):
@@ -30,38 +34,33 @@ def upload(request):
     return render(request, 'process_text/upload.html')
 
 def processFile(request):
-    # if request.method == 'POST':
-    #     upload_file = request.FILES['uploadFile']
-    #     first_line = True
-    #     lang1_lines = []
-    #     lang2_lines = []
-    #     # with open(upload_file, 'r') as f:
-    #     for line in upload_file:
-    #         if first_line:
-    #             langs = line.decode().split(',')
-    #             lang1 = langs[1]
-    #             lang2 = langs[2]
-    #             first_line = False
-    #             continue
-    #         lang1_lines.append({'text': line.decode().split(',')[1]})
-    #         lang2_lines.append({'text': line.decode().split(',')[2]})
+    global ID
+    if request.method == 'POST':
+        reader = csv.reader(io.StringIO(request.FILES['uploadFile'].read().decode()))
+        first_row = True
+        langs = []
+        source_text = []
+        translated_text = []
+        for row in reader:
+            if first_row:
+                langs = row
+                first_row = False
+                continue
+            source_text.append(row[0])
+            translated_text.append(row[1])
+        ID = random.randint(10000,99999)
+        text_pair = TextPairClass(source_text, translated_text, _id=ID)
+        tp = text_pair.to_model()
+        tp.save()
 
-    # tp = TextPair()
-    # tp.text1 = {
-    #     'sentences': lang1_lines,
-    #     'lang': 'eng'
-    # }
-    # tp.text2 = {
-    #     'sentences': lang2_lines,
-    #     'lang': 'eng'
-    # }
-    # tp.tp_id = ID
-    # tp.save()
-    # return redirect('/index/results')
-    return results(request)
+    return processing(request, text_pair, None)
+
+def processing(request, text_pair, options):
+    context = {}
+    return render(request, 'process_text/processing.html', context)
 
 def results(request):
-    tp = TextPair.objects.get(tp_id=ID)
+    tp = TextPair.objects.get(pair_id=ID)
     context = {
         'sidebar': True
     }
@@ -83,7 +82,7 @@ def comprehensibility(request):
         'reprehenderit',
         'proident'
     ]
-    tp = TextPair.objects.get(tp_id=ID)
+    tp = TextPair.objects.get(pair_id=ID)
     t1_sent = tp.text1['sentences']
     t2_sent = tp.text2['sentences']
     sentences_s = []
@@ -122,7 +121,7 @@ def readability(request):
     red = Color("#ff8585")
     green = Color("#87c985")
     colors = list(red.range_to(green, 10))
-    tp = TextPair.objects.get(tp_id=ID)
+    tp = TextPair.objects.get(pair_id=ID)
     t1_sent = tp.text1['sentences']
     t2_sent = tp.text2['sentences']
     sentences_s = []
@@ -148,7 +147,7 @@ def semanticdomain(request):
     red = Color("#ff8585")
     green = Color("#87c985")
     colors = list(red.range_to(green, 10))
-    tp = TextPair.objects.get(tp_id=ID)
+    tp = TextPair.objects.get(pair_id=ID)
     t1_sent = tp.text1['sentences']
     t2_sent = tp.text2['sentences']
     sentences_s = []
@@ -174,7 +173,7 @@ def similarity(request):
     red = Color("#ff8585")
     green = Color("#87c985")
     colors = list(red.range_to(green,10))
-    tp = TextPair.objects.get(tp_id=ID)
+    tp = TextPair.objects.get(pair_id=ID)
     t1_sent = tp.text1['sentences']
     t2_sent = tp.text2['sentences']
     sentences_s = []
@@ -196,3 +195,30 @@ def similarity(request):
         'sidebar': True,
     }
     return render(request, 'process_text/similarity.html', context)
+
+def metric_view(request):
+    red = Color("#ff8585")
+    green = Color("#87c985")
+    colors = list(red.range_to(green,10))
+    # text_pair = TextPairClass()
+    tp = TextPair.objects.get(pair_id=ID)
+    t1_sent = tp.source['sentences']
+    t2_sent = tp.translated['sentences']
+    sentences_s = []
+    sentences_t = []
+    for text in t1_sent:
+        sentences_s.append(text['text'])
+    for text in t2_sent:
+        sentences_t.append(text['text'])
+    all_sentences = []
+    for i in range(len(sentences_s)):
+        all_sentences.append({
+            's' : (sentences_s[i],sentences_t[i]),
+            'color' : choice(colors).hex,
+            'idx': i,
+        })
+    context = {
+        'sentences': all_sentences,
+        'sidebar': True,
+    }
+    return render(request, 'process_text/metric_view.html', context)

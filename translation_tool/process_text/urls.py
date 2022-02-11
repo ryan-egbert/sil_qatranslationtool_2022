@@ -12,4 +12,6 @@ urlpatterns = [
     path('results/readability/', views.readability, name='readability'),
     path('results/comprehensibility/', views.comprehensibility, name='comprehensibility'),
     path('results/semanticdomain/', views.semanticdomain, name='semanticdomain'),
+    path('results/view/', views.metric_view, name='view'),
+    path('upload/processing/', views.processing, name='processing')
 ]
