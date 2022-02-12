@@ -51,24 +51,26 @@ def upload(request):
     return render(request, 'process_text/upload.html')
 
 def processFile(request):
-    global ID
-    if request.method == 'POST':
-        reader = csv.reader(io.StringIO(request.FILES['uploadFile'].read().decode()))
-        first_row = True
-        langs = []
-        source_text = []
-        translated_text = []
-        for row in reader:
-            if first_row:
-                langs = row
-                first_row = False
-                continue
-            source_text.append(row[0])
-            translated_text.append(row[1])
-        ID = random.randint(10000,99999)
-        text_pair = TextPairClass(source_text, translated_text, _id=ID)
-        tp = text_pair.to_model()
-        tp.save()
+    # global TP
+    # if request.method == 'POST':
+    #     reader = csv.reader(io.StringIO(request.FILES['uploadFile'].read().decode()))
+    #     first_row = True
+    #     langs = []
+    #     source_text = []
+    #     translated_text = []
+    #     for row in reader:
+    #         if first_row:
+    #             langs = row
+    #             first_row = False
+    #             continue
+    #         source_text.append(row[0])
+    #         translated_text.append(row[1])
+    #     ID = random.randint(10000,99999)
+    #     text_pair = TextPairClass(source_text, translated_text, _id=ID)
+    #     tp = text_pair.to_model()
+    #     tp.save()
+
+    text_pair = TP
 
     return processing(request, text_pair, None)
 
