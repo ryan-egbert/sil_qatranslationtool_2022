@@ -13,6 +13,23 @@ LANG1 = []
 LANG2 = []
 ID = 0
 
+
+reader = csv.reader(open('/Users/ryanegbert/Desktop/spring22/ip/app/covid_files/csv/test_file.csv', 'r'))
+first_row = True
+langs = []
+source_text = []
+translated_text = []
+for row in reader:
+    if first_row:
+        langs = row
+        first_row = False
+        continue
+    source_text.append(row[0])
+    translated_text.append(row[1])
+# ID = random.randint(10000,99999)
+TP = TextPairClass(source_text, translated_text, _id=-1)
+
+
 # Create your views here.
 def index(request):
     context = {
@@ -60,7 +77,8 @@ def processing(request, text_pair, options):
     return render(request, 'process_text/processing.html', context)
 
 def results(request):
-    tp = TextPair.objects.get(pair_id=ID)
+    # tp = TextPair.objects.get(pair_id=ID)
+    tp = TP.to_model()
     context = {
         'sidebar': True
     }
@@ -198,10 +216,11 @@ def similarity(request):
 
 def metric_view(request):
     red = Color("#ff8585")
-    green = Color("#87c985")
-    colors = list(red.range_to(green,10))
+    white = Color("#ffffff")
+    colors = list(red.range_to(white,3))
     # text_pair = TextPairClass()
-    tp = TextPair.objects.get(pair_id=ID)
+    # tp = TextPair.objects.get(pair_id=ID)
+    tp = TP.to_model()
     t1_sent = tp.source['sentences']
     t2_sent = tp.translated['sentences']
     sentences_s = []

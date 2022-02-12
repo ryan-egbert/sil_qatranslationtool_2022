@@ -1,4 +1,5 @@
 from .models import TextPair
+from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger 
 
 class TextClass:
     def __init__(self, text, lang=None, section_breaks=False):
