@@ -1,0 +1,9 @@
+LaBSE model for similarity
+User can save texts AND settings
+- Settings include sliders, toggles, etc. for looking at the specific metrics
+Share settings between users
+Different roles (look at what the role WANTS)
+Underline things that need attention. Don't underline everything
+Page by page or section by section
+Multiple translations
+Combined views (icons that toggle on/off the specific view)

@@ -33,12 +33,12 @@ class TextForm(forms.ModelForm):
 
 class TextPair(models.Model):
     _id = models.ObjectIdField()
-    tp_id = models.IntegerField()
-    text1 = models.EmbeddedField(
+    pair_id = models.IntegerField()
+    source = models.EmbeddedField(
         model_container=Text,
         model_form_class=TextForm
     )
-    text2 = models.EmbeddedField(
+    translated = models.EmbeddedField(
         model_container=Text,
         model_form_class=TextForm
     )
