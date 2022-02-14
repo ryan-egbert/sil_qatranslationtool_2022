@@ -217,7 +217,7 @@ def similarity(request):
     return render(request, 'process_text/similarity.html', context)
 
 def metric_view(request):
-    red = Color("#ff8585")
+    red = Color("#ff1212")
     white = Color("#ffffff")
     colors = list(red.range_to(white,3))
     # text_pair = TextPairClass()
