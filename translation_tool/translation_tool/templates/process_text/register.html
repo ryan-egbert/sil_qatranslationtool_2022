@@ -12,13 +12,14 @@
               </div>
         <div class="card-body">
         <h5 class="card-title ">Type in your credentials!</h5>
-    <form>
+    <form action="{% url 'process_registration' %}" method="POST">
+        {% csrf_token %}
         <div class="row">
             <div class="col">
                 <label class="float-right" for="username">Username:</label>
             </div>
             <div class="col">
-                <input type="text" id="username" placeholder="Username">
+                <input name="username" type="text" id="username" placeholder="Username">
             </div>
         </div>
         <div class="row">
@@ -26,7 +27,7 @@
                 <label class="float-right" for="full_name">Full Name:</label>
             </div>
             <div class="col">
-                <input type="text" id="full_name" placeholder="Your full name">
+                <input name="fullname" type="text" id="full_name" placeholder="Your full name">
             </div>
         </div>
         <div class="row">
@@ -34,7 +35,7 @@
                 <label class="float-right" for="password">Password</label>
             </div>
             <div class="col">
-                <input type="password" id="password" placeholder="Password">
+                <input name="password" type="password" id="password" placeholder="Password">
             </div>
         </div>
         <div class="row header-center">

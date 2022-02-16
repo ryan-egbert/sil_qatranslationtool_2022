@@ -3,11 +3,13 @@ from django.http import HttpResponse
 from django.template import loader
 from colour import Color
 from random import choice, shuffle
-from .models import TextPair
+from .models import TextPair, User
 from .classes import TextPairClass
 import csv
 import io
+import os
 import random
+import hashlib
 
 LANG1 = []
 LANG2 = []
@@ -42,33 +44,80 @@ def login(request):
     context = {'header': 'Hello 1234'}
     return render(request, 'process_text/login.html', context)
 
+def hash_pass(password, salt):
+    key = hashlib.pbkdf2_hmac(
+        'sha256', 
+        password.encode('utf-8'), 
+        salt, 100000)
+
+    return list(key)
+
+def process_login(request):
+    username = request.GET['username']
+    password = request.GET['password']
+
+    user = User.objects.get(username=username)
+    user_pass = user.password.split(' ')
+    user_pass_int = [int(i) for i in user_pass]
+    user_salt = user.salt.split(' ')
+    user_salt_bytes = bytes([int(i) for i in user_salt])
+
+    # user_pass
+    key = hash_pass(password, user_salt_bytes)
+    
+    # print(key)
+    # print(user_pass_int[32:])
+
+    if key == user_pass_int[32:]:
+        return redirect('upload')
+    else:
+        return redirect('loginuser')
+
 def register(request):
     #context = {'header': 'Hello 1234'}
     return render(request, 'process_text/register.html')
+
+def process_registration(request):
+    if request.method == 'POST':
+        username = request.POST['username']
+        full_name = request.POST['fullname']
+        password = request.POST['password']
+        salt = os.urandom(32)
+        key = hash_pass(password, salt)
+        salt_list = list(salt)
+        user = User()
+        user.username = username
+        salt_list_str = [str(i) for i in salt_list]
+        key_str = [str(i) for i in key]
+        user.password = ' '.join(salt_list_str + key_str)
+        user.salt = ' '.join(salt_list_str)
+        user.save()
+
+    return redirect('register')
 
 def upload(request):
     context = {}
     return render(request, 'process_text/upload.html')
 
 def processFile(request):
-    # global TP
-    # if request.method == 'POST':
-    #     reader = csv.reader(io.StringIO(request.FILES['uploadFile'].read().decode()))
-    #     first_row = True
-    #     langs = []
-    #     source_text = []
-    #     translated_text = []
-    #     for row in reader:
-    #         if first_row:
-    #             langs = row
-    #             first_row = False
-    #             continue
-    #         source_text.append(row[0])
-    #         translated_text.append(row[1])
-    #     ID = random.randint(10000,99999)
-    #     text_pair = TextPairClass(source_text, translated_text, _id=ID)
-    #     tp = text_pair.to_model()
-    #     tp.save()
+    global TP
+    if request.method == 'POST':
+        reader = csv.reader(io.StringIO(request.FILES['uploadFile'].read().decode()))
+        first_row = True
+        langs = []
+        source_text = []
+        translated_text = []
+        for row in reader:
+            if first_row:
+                langs = row
+                first_row = False
+                continue
+            source_text.append(row[0])
+            translated_text.append(row[1])
+        ID = random.randint(10000,99999)
+        text_pair = TextPairClass(source_text, translated_text, _id=ID)
+        tp = text_pair.to_model()
+        tp.save()
 
     text_pair = TP
 

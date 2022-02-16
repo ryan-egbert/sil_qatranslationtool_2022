@@ -5,7 +5,9 @@ from django import forms
 
 # Create your models here.
 
-# class User(models.Model):
+#####################################################
+##### TextPair Models
+#####################################################
 
 class Sentence(models.Model):
     text = models.TextField()
@@ -20,7 +22,7 @@ class SentenceForm(forms.ModelForm):
 class Text(models.Model):
     sentences = models.ArrayField(
         model_container=Sentence,
-        model_form_class=SentenceForm
+        # model_form_class=SentenceForm
     )
     lang = models.CharField(max_length=255)
     class Meta:
@@ -44,3 +46,29 @@ class TextPair(models.Model):
     )
     objects = models.DjongoManager()
 
+class TextPairForm(forms.ModelForm):
+    class Meta:
+        model = TextPair
+        fields = ('pair_id','source','translated')
+
+#####################################################
+
+#####################################################
+##### User Models
+#####################################################
+
+class User(models.Model):
+    salt = models.CharField(max_length=128)
+    email = models.CharField(max_length=255)
+    username = models.CharField(max_length=255)
+    password = models.CharField(max_length=255)
+    full_name = models.CharField(max_length=255)
+
+    translations = models.ArrayField(
+        model_container=TextPair,
+        model_form_class=TextPairForm
+    )
+
+    objects = models.DjongoManager()
+
+#####################################################
