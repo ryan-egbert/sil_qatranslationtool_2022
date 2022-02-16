@@ -1,6 +1,7 @@
 .DS_Store
 translation_tool/process_text/__pycache__/
 translation_tool/translation_tool/__pycache__/
+translation_tool/migrations/__pycache__/
 .idea
 .ipynb_checkpoints
 *.ipynb
