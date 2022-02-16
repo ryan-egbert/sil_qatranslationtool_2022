@@ -101,6 +101,7 @@ def upload(request):
 
 def processFile(request):
     global TP
+    global ID
     if request.method == 'POST':
         reader = csv.reader(io.StringIO(request.FILES['uploadFile'].read().decode()))
         first_row = True
@@ -121,6 +122,19 @@ def processFile(request):
 
     text_pair = TP
 
+    return processing(request, text_pair, None)
+
+def processText(request):
+    global TP, ID
+    if request.method == "POST":
+        source_text = request.POST['source'].split('\n')
+        translated_text = request.POST['translated'].split('\n')
+        ID = random.randint(10000,99999)
+        text_pair = TextPairClass(source_text, translated_text, _id=ID)
+        tp = text_pair.to_model()
+        tp.save()
+
+    # text_pair = TP
     return processing(request, text_pair, None)
 
 def processing(request, text_pair, options):
@@ -270,8 +284,8 @@ def metric_view(request):
     white = Color("#ffffff")
     colors = list(red.range_to(white,3))
     # text_pair = TextPairClass()
-    # tp = TextPair.objects.get(pair_id=ID)
-    tp = TP.to_model()
+    tp = TextPair.objects.get(pair_id=ID)
+    # tp = TP.to_model()
     t1_sent = tp.source['sentences']
     t2_sent = tp.translated['sentences']
     sentences_s = []
