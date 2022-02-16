@@ -11,9 +11,10 @@ class TextClass:
     def get_lang(self): return self._lang
 
 class TextPairClass:
-    def __init__(self, source, translated, _id=None):
+    def __init__(self, source, translated, scores, _id=None):
         self._source = TextClass(source)
         self._translated = TextClass(translated)
+        self._scores = scores
         self._id = _id
 
     def get_source(self): return self._source
@@ -28,6 +29,11 @@ class TextPairClass:
         for s in self._translated.get_text():
             for_model.append({'text': s})
         return for_model
+    def _get_scores_for_model(self):
+        for_model = []
+        for s in self._scores:
+            for_model.append({'score': round(s*100, 2)})
+        return for_model
     def swap_source(self, new_source): self._source = new_source
     def swap_translated(self, new_translated): self._translated = new_translated
 
@@ -40,6 +46,9 @@ class TextPairClass:
         tp.translated = {
             'sentences': self._get_translated_for_model(),
             'lang': self._translated.get_lang()
+        }
+        tp.scores = {
+            'scores': self._get_scores_for_model()
         }
         tp.pair_id = self._id
 

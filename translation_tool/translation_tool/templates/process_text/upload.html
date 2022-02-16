@@ -21,54 +21,57 @@
             </div>
         </div>
         <div class="col-8">
+            <form action="{% url 'processText' %}" method="POST">
+                {% csrf_token %}
             <div class="card">
                 <div class="card-header">
                     Manually enter translations
                 </div>
-                <div class="row">
-                    <div class="col">
-                        <div class="row text_resize">
-                            <div class="col-5 input-group-prepend">
-                                <label class="input-group-text" for="inputGroupSelect01">Source Language</label>
-                            </div>
-                            <div class="col-5">
-                                <select class="custom-select" name="sourceLang" id="sourceLang">
-                                    <option value="none">---</option>
-                                    <option value="eng">English</option>
-                                    <option value="hin">Hindi</option>
-                                    <option value="fre">French</option>
-                                    <option value="ger">German</option>
-                                    <option value="spa">Spanish</option>
-                                </select>
-                            </div>
+                    <div class="row">
+                        <div class="col">
+                            <!-- <div class="row text_resize">
+                                <div class="col-5 input-group-prepend">
+                                    <label class="input-group-text" for="inputGroupSelect01">Source Language</label>
+                                </div>
+                                <div class="col-5">
+                                    <select class="custom-select" name="sourceLang" id="sourceLang">
+                                        <option value="none">---</option>
+                                        <option value="eng">English</option>
+                                        <option value="hin">Hindi</option>
+                                        <option value="fre">French</option>
+                                        <option value="ger">German</option>
+                                        <option value="spa">Spanish</option>
+                                    </select>
+                                </div>
+                            </div> -->
+                            <textarea name="source" class="text_resize" cols="50" rows="20" placeholder="Source text goes here"></textarea>
                         </div>
-                        <textarea class="text_resize" cols="50" rows="20" placeholder="Source text goes here"></textarea>
-                    </div>
-                    <div class="col">
-                        <div class="row text_resize">
-                            <div class="col-5 input-group-prepend">
-                                <label class="input-group-text" for="inputGroupSelect01">Translated Language</label>
-                            </div>
-                            <div class="col-5">
-                                <select class="custom-select" name="transLang" id="transLang">
-                                    <option value="none">---</option>
-                                    <option value="eng">English</option>
-                                    <option value="hin">Hindi</option>
-                                    <option value="fre">French</option>
-                                    <option value="ger">German</option>
-                                    <option value="spa">Spanish</option>
-                                </select>
-                            </div>
+                        <div class="col">
+                            <!-- <div class="row text_resize">
+                                <div class="col-5 input-group-prepend">
+                                    <label class="input-group-text" for="inputGroupSelect01">Translated Language</label>
+                                </div>
+                                <div class="col-5">
+                                    <select class="custom-select" name="transLang" id="transLang">
+                                        <option value="none">---</option>
+                                        <option value="eng">English</option>
+                                        <option value="hin">Hindi</option>
+                                        <option value="fre">French</option>
+                                        <option value="ger">German</option>
+                                        <option value="spa">Spanish</option>
+                                    </select>
+                                </div>
+                            </div> -->
+                            <textarea name="translated" class="text_resize" cols="50" rows="20" placeholder="Translated text goes here"></textarea>
                         </div>
-                        <textarea class="text_resize" cols="50" rows="20" placeholder="Translated text goes here"></textarea>
                     </div>
-                </div>
-                <br>
-                <div>
-                    <button class="btn btn-secondary" type="submit">Submit</button>
+                    <br>
+                    <div>
+                        <button class="btn btn-secondary" type="submit">Submit</button>
+                    </div>
                 </div>
             </div>
-        </div>
+        </form>
     </div>
 </div>
 {% endblock %}

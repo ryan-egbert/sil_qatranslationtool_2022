@@ -4,8 +4,11 @@ from . import views
 urlpatterns = [
     path('', views.index, name='index'),
     path('register/', views.register, name='register'),
-    path('login/', views.login, name='login'),
+    path('register/process/', views.process_registration, name='process_registration'),
+    path('login/', views.login, name='loginuser'),
+    path('login/process/', views.process_login, name='process_login'),
     path('upload/', views.upload, name='upload'),
+    path('upload/text/', views.processText, name='processText'),
     path('upload/file/', views.processFile, name='processFile'),
     path('results/', views.results, name='results'),
     path('results/similarity/', views.similarity, name='similarity'),
@@ -15,3 +18,4 @@ urlpatterns = [
     path('results/view/', views.metric_view, name='view'),
     path('upload/processing/', views.processing, name='processing')
 ]
+ 
