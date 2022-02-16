@@ -7,3 +7,25 @@ Underline things that need attention. Don't underline everything
 Page by page or section by section
 Multiple translations
 Combined views (icons that toggle on/off the specific view)
+
+
+Feb 16:
+Previous translations (after login) - perhaps on a landing page?
+Loading page
+Login -> Home page (upload page or previous work?)
+Upload page -> progress page
+User roles
+Feature is that it shouldn't change the way things are working currently
+Similarity score (out of 5)
+
+Color	Description		Score Range
+	In our early experiments, we found that some verses that have high semantic similarity are changed to a version with lower semantic similarity to produce a more dynamic translation or more natural expression in the local language. We highlight these as possible opportunities for consultants and translators to look for these trade-offs to improve the translation.		above 4.30
+	Verses in this range are assessed to not have significant semantic differences, but are also not so high that they are likely to be copying expressive forms directly from a reference translation.		3.70 to 4.30
+	Verses in this range are assessed to have significant semantic differences and probably deserve a closer look. Details may be missing or represented differently.		2.90 to 3.69
+	Verses in this range have very significant semantic differences. Information may be missing entirely, either in the evaluated translation or the reference translation. When this range is found only on one reference translation
+
+Similarity score:
+    Add documentatino on languages that it should work on
+    Catch a certain number of tokens that have not been seen
+    Catch languages that may not be supported
+

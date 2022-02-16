@@ -22,7 +22,7 @@ $(document).ready(function () {
         if (!$(this).hasClass('clicked')) {
             $("span[data-index=" + index + "]").css('background-color', color.match(/rgb(.*)/)[0]);
         }
-        $("#simScore").text(index);
+        // $("#simScore").text(index);
     });
 
     $(".sentence").on('mouseout', function() {
@@ -31,12 +31,13 @@ $(document).ready(function () {
         if (!$(this).hasClass('clicked')) {
             $("span[data-index=" + index + "]").removeClass("hovered").css('background-color', 'inherit');
         }
-        $("#simScore").text('');
+        // $("#simScore").text('');
     });
 
     $(".sentence").on('click', function() {
         let index = parseInt($(this).attr('data-index'));
         let color = $(this).css('border-bottom');
+        let score = $(this).attr('data-sim');
         if ($(this).hasClass('clicked')) {
             $(".sentence").removeClass("clicked").css('background-color', 'inherit');
         }
@@ -44,7 +45,7 @@ $(document).ready(function () {
             $(".sentence").removeClass("clicked").css('background-color', 'inherit');
             $("span[data-index=" + index + "]").addClass('clicked').css('background-color', color.match(/rgb(.*)/)[0]);
         }
-        $("#simScore").text('');
+        $("#simScore").text(score);
     });
 
     $(".icon-btn").on('click', function() {

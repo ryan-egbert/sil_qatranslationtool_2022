@@ -33,6 +33,18 @@ class TextForm(forms.ModelForm):
         model = Text
         fields = ('sentences','lang')
 
+class Score(models.Model):
+    score = models.IntegerField()
+    class Meta:
+        abstract=True
+
+class Scores(models.Model):
+    scores = models.ArrayField(
+        model_container=Score
+    )
+    class Meta:
+        abstract=True
+
 class TextPair(models.Model):
     _id = models.ObjectIdField()
     pair_id = models.IntegerField()
@@ -43,6 +55,9 @@ class TextPair(models.Model):
     translated = models.EmbeddedField(
         model_container=Text,
         model_form_class=TextForm
+    )
+    scores = models.EmbeddedField(
+        model_container=Scores,
     )
     objects = models.DjongoManager()
 

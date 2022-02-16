@@ -342,3 +342,7 @@ ul ul a {
 .right {
     float: right;
 }
+
+.clicked {
+    border: 1px solid black;
+}

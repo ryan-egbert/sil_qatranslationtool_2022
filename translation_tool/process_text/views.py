@@ -10,10 +10,23 @@ import io
 import os
 import random
 import hashlib
+from torch import no_grad, matmul
+import torch.nn.functional as F
+import pickle as pck
+with open('model.pck', 'rb') as f:
+    model = pck.load(f)
+with open('tokenizer.pck', 'rb') as f:
+    tokenizer = pck.load(f)
+
+# from transformers import BertModel, BertTokenizerFast
+# tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
+# model = BertModel.from_pretrained("setu4993/LaBSE")
+# model = model.eval()
 
 LANG1 = []
 LANG2 = []
 ID = 0
+
 
 
 reader = csv.reader(open('/Users/ryanegbert/Desktop/spring22/ip/app/covid_files/csv/test_file.csv', 'r'))
@@ -29,7 +42,7 @@ for row in reader:
     source_text.append(row[0])
     translated_text.append(row[1])
 # ID = random.randint(10000,99999)
-TP = TextPairClass(source_text, translated_text, _id=-1)
+# TP = TextPairClass(source_text, translated_text, _id=-1)
 
 
 # Create your views here.
@@ -102,6 +115,7 @@ def upload(request):
 def processFile(request):
     global TP
     global ID
+    global model
     if request.method == 'POST':
         reader = csv.reader(io.StringIO(request.FILES['uploadFile'].read().decode()))
         first_row = True
@@ -120,17 +134,41 @@ def processFile(request):
         tp = text_pair.to_model()
         tp.save()
 
-    text_pair = TP
+    # text_pair = TP
 
     return processing(request, text_pair, None)
 
+def similarity_score(embeddings_1, embeddings_2):
+    normalized_embeddings_1 = F.normalize(embeddings_1, p=2)
+    normalized_embeddings_2 = F.normalize(embeddings_2, p=2)
+    return matmul(
+        normalized_embeddings_1, normalized_embeddings_2.transpose(0, 1)
+    )
+
 def processText(request):
-    global TP, ID
+    global TP, ID, model
     if request.method == "POST":
+        # Get source text and translated text
         source_text = request.POST['source'].split('\n')
         translated_text = request.POST['translated'].split('\n')
+        # TODO: Get id of translation
         ID = random.randint(10000,99999)
-        text_pair = TextPairClass(source_text, translated_text, _id=ID)
+        # Tokenize inputs
+        source_inputs = tokenizer(source_text, return_tensors="pt", padding=True)
+        translated_inputs = tokenizer(translated_text, return_tensors="pt", padding=True)
+        # Convert inputs with LaBSE model
+        with no_grad():
+            source_outputs = model(**source_inputs)
+        with no_grad():
+            translated_outputs = model(**translated_inputs)
+        # Embed outputs
+        source_emb = source_outputs.pooler_output
+        translated_emb = translated_outputs.pooler_output
+        # Cosine similarity between embedded outputs
+        mat = similarity_score(source_emb, translated_emb)
+        scores = mat.diagonal().tolist()
+
+        text_pair = TextPairClass(source_text, translated_text, scores, _id=ID)
         tp = text_pair.to_model()
         tp.save()
 
@@ -143,7 +181,7 @@ def processing(request, text_pair, options):
 
 def results(request):
     # tp = TextPair.objects.get(pair_id=ID)
-    tp = TP.to_model()
+    # tp = TP.to_model()
     context = {
         'sidebar': True
     }
@@ -280,27 +318,41 @@ def similarity(request):
     return render(request, 'process_text/similarity.html', context)
 
 def metric_view(request):
-    red = Color("#ff1212")
-    white = Color("#ffffff")
-    colors = list(red.range_to(white,3))
+    # red = Color("#ff1212")
+    # white = Color("#ffffff")
+    # colors = list(red.range_to(white,3))
     # text_pair = TextPairClass()
     tp = TextPair.objects.get(pair_id=ID)
     # tp = TP.to_model()
     t1_sent = tp.source['sentences']
     t2_sent = tp.translated['sentences']
+    scores_tp = tp.scores['scores']
+    # print(scores_tp)
     sentences_s = []
     sentences_t = []
+    scores = []
     for text in t1_sent:
         sentences_s.append(text['text'])
     for text in t2_sent:
         sentences_t.append(text['text'])
+    for score in scores_tp:
+        scores.append(score)
+    # print(scores)
     all_sentences = []
     for i in range(len(sentences_s)):
+        if scores[i]['score'] < 75:
+            color = '#f00'
+        elif scores[i]['score'] < 85:
+            color = '#ffe587'
+        else:
+            color = '#fff'
         all_sentences.append({
             's' : (sentences_s[i],sentences_t[i]),
-            'color' : choice(colors).hex,
+            'color' : color,
             'idx': i,
+            'score': scores[i]['score'],
         })
+    print(all_sentences)
     context = {
         'sentences': all_sentences,
         'sidebar': True,

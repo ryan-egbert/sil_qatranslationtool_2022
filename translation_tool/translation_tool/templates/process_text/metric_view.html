@@ -46,11 +46,11 @@
                 {% for s in sentences %}
                 <div class="row">
                     <div class="col-6">
-                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="0" data-comp="0" data-read="0" data-semdom="0">{{s.s.0}}</span>
+                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.score}}" data-comp="0" data-read="0" data-semdom="0">{{s.s.0}}</span>
                         <!-- <br> -->
                     </div>
                     <div class="col-6">
-                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="0" data-comp="0" data-read="0" data-semdom="0">{{s.s.1}}</span>
+                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.score}}" data-comp="0" data-read="0" data-semdom="0">{{s.s.1}}</span>
                         <!-- <br> -->
                     </div>
                 </div>
