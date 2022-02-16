@@ -1,3 +1,4 @@
+### Imports
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from django.template import loader
@@ -13,39 +14,35 @@ import hashlib
 from torch import no_grad, matmul
 import torch.nn.functional as F
 import pickle as pck
-with open('model.pck', 'rb') as f:
-    model = pck.load(f)
-with open('tokenizer.pck', 'rb') as f:
-    tokenizer = pck.load(f)
+from transformers import BertModel, BertTokenizerFast
+# with open('model.pck', 'rb') as f:
+#     model = pck.load(f)
+# with open('tokenizer.pck', 'rb') as f:
+#     tokenizer = pck.load(f)
 
-# from transformers import BertModel, BertTokenizerFast
-# tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
-# model = BertModel.from_pretrained("setu4993/LaBSE")
-# model = model.eval()
+### Load similarity model (LaBSE)
+tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
+model = BertModel.from_pretrained("setu4993/LaBSE")
+model = model.eval()
 
-LANG1 = []
-LANG2 = []
-ID = 0
-
-
-
-reader = csv.reader(open('/Users/ryanegbert/Desktop/spring22/ip/app/covid_files/csv/test_file.csv', 'r'))
-first_row = True
-langs = []
-source_text = []
-translated_text = []
-for row in reader:
-    if first_row:
-        langs = row
-        first_row = False
-        continue
-    source_text.append(row[0])
-    translated_text.append(row[1])
+### Read in dummy csv
+# reader = csv.reader(open('/Users/ryanegbert/Desktop/spring22/ip/app/covid_files/csv/test_file.csv', 'r'))
+# first_row = True
+# langs = []
+# source_text = []
+# translated_text = []
+# for row in reader:
+#     if first_row:
+#         langs = row
+#         first_row = False
+#         continue
+#     source_text.append(row[0])
+#     translated_text.append(row[1])
 # ID = random.randint(10000,99999)
 # TP = TextPairClass(source_text, translated_text, _id=-1)
 
 
-# Create your views here.
+# Index page (this is not used, can be deleted)
 def index(request):
     context = {
         'source_txt': 'This is source text',
@@ -53,10 +50,13 @@ def index(request):
     }
     return render(request, 'process_text/index.html', context)
 
+# Login page
 def login(request):
     context = {'header': 'Hello 1234'}
     return render(request, 'process_text/login.html', context)
 
+# Hash passwords during registration
+# Returns list of integers
 def hash_pass(password, salt):
     key = hashlib.pbkdf2_hmac(
         'sha256', 
@@ -65,6 +65,8 @@ def hash_pass(password, salt):
 
     return list(key)
 
+# Process login request
+# TODO: Redirects to upload page if authentication succeeds
 def process_login(request):
     username = request.GET['username']
     password = request.GET['password']
@@ -75,21 +77,20 @@ def process_login(request):
     user_salt = user.salt.split(' ')
     user_salt_bytes = bytes([int(i) for i in user_salt])
 
-    # user_pass
     key = hash_pass(password, user_salt_bytes)
     
-    # print(key)
-    # print(user_pass_int[32:])
-
     if key == user_pass_int[32:]:
         return redirect('upload')
     else:
         return redirect('loginuser')
 
+# Register page
 def register(request):
     #context = {'header': 'Hello 1234'}
     return render(request, 'process_text/register.html')
 
+# Process registration requests
+# TODO: Redirect to home page
 def process_registration(request):
     if request.method == 'POST':
         username = request.POST['username']
@@ -108,10 +109,13 @@ def process_registration(request):
 
     return redirect('register')
 
+# Upload page
 def upload(request):
     context = {}
     return render(request, 'process_text/upload.html')
 
+# Process file upload
+# TODO: Add similarity score implementation
 def processFile(request):
     global TP
     global ID
@@ -138,6 +142,7 @@ def processFile(request):
 
     return processing(request, text_pair, None)
 
+# Compute similarity score between two embedded outputs
 def similarity_score(embeddings_1, embeddings_2):
     normalized_embeddings_1 = F.normalize(embeddings_1, p=2)
     normalized_embeddings_2 = F.normalize(embeddings_2, p=2)
@@ -145,6 +150,7 @@ def similarity_score(embeddings_1, embeddings_2):
         normalized_embeddings_1, normalized_embeddings_2.transpose(0, 1)
     )
 
+# Process manual text input
 def processText(request):
     global TP, ID, model
     if request.method == "POST":
@@ -175,10 +181,14 @@ def processText(request):
     # text_pair = TP
     return processing(request, text_pair, None)
 
+# Processing page
+# TODO: Add progress bars to this page (use AJAX?)
 def processing(request, text_pair, options):
     context = {}
     return render(request, 'process_text/processing.html', context)
 
+# Main grid results page
+# TODO: Add d3 visualizations to each section that was selected
 def results(request):
     # tp = TextPair.objects.get(pair_id=ID)
     # tp = TP.to_model()
@@ -187,6 +197,59 @@ def results(request):
     }
     return render(request, 'process_text/results.html', context)
 
+# Metrics view
+# Displays info from each selected metric
+def metric_view(request):
+    # Get (or create) text pair
+    # text_pair = TextPairClass()
+    tp = TextPair.objects.get(pair_id=ID)
+    # tp = TP.to_model()
+    
+    # Determine sentence groups and scores
+    t1_sent = tp.source['sentences']
+    t2_sent = tp.translated['sentences']
+    scores_tp = tp.scores['scores']
+
+    # Get actual text
+    sentences_s = []
+    sentences_t = []
+    scores = []
+    for text in t1_sent:
+        sentences_s.append(text['text'])
+    for text in t2_sent:
+        sentences_t.append(text['text'])
+    for score in scores_tp:
+        scores.append(score)
+
+    # Add data to all_sentences list
+    all_sentences = []
+    # Determine score for each sentence pair
+    for i in range(len(sentences_s)):
+        if scores[i]['score'] < 75:
+            color = '#f00'
+        elif scores[i]['score'] < 85:
+            color = '#ffe587'
+        else:
+            color = '#fff'
+        # Add info
+        all_sentences.append({
+            's' : (sentences_s[i],sentences_t[i]),
+            'color' : color,
+            'idx': i,
+            'score': scores[i]['score'],
+        })
+
+    context = {
+        'sentences': all_sentences,
+        'sidebar': True,
+    }
+    
+    return render(request, 'process_text/metric_view.html', context)
+
+
+
+###########################################################
+### These four views are not being used and can be deleted
 def comprehensibility(request):
     red = Color("#ff8585")
     white = Color("white")
@@ -317,44 +380,4 @@ def similarity(request):
     }
     return render(request, 'process_text/similarity.html', context)
 
-def metric_view(request):
-    # red = Color("#ff1212")
-    # white = Color("#ffffff")
-    # colors = list(red.range_to(white,3))
-    # text_pair = TextPairClass()
-    tp = TextPair.objects.get(pair_id=ID)
-    # tp = TP.to_model()
-    t1_sent = tp.source['sentences']
-    t2_sent = tp.translated['sentences']
-    scores_tp = tp.scores['scores']
-    # print(scores_tp)
-    sentences_s = []
-    sentences_t = []
-    scores = []
-    for text in t1_sent:
-        sentences_s.append(text['text'])
-    for text in t2_sent:
-        sentences_t.append(text['text'])
-    for score in scores_tp:
-        scores.append(score)
-    # print(scores)
-    all_sentences = []
-    for i in range(len(sentences_s)):
-        if scores[i]['score'] < 75:
-            color = '#f00'
-        elif scores[i]['score'] < 85:
-            color = '#ffe587'
-        else:
-            color = '#fff'
-        all_sentences.append({
-            's' : (sentences_s[i],sentences_t[i]),
-            'color' : color,
-            'idx': i,
-            'score': scores[i]['score'],
-        })
-    print(all_sentences)
-    context = {
-        'sentences': all_sentences,
-        'sidebar': True,
-    }
-    return render(request, 'process_text/metric_view.html', context)
+###########################################################
