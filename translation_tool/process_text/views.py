@@ -4,26 +4,31 @@ from django.http import HttpResponse
 from django.template import loader
 from colour import Color
 from random import choice, shuffle
-from .models import TextPair, User
-from .classes import TextPairClass
+import warnings
+# from .models import TextPair, User
+from .classes import TextPair, User
 import csv
 import io
 import os
 import random
 import hashlib
-from torch import no_grad, matmul
-import torch.nn.functional as F
-import pickle as pck
-from transformers import BertModel, BertTokenizerFast
+import pymongo
+client = pymongo.MongoClient("mongodb+srv://admin1:admin@cluster0.84e6s.mongodb.net/translation_tool?retryWrites=true&w=majority")
+DB = client.translation_tool
+CUR_USER = None
+# from torch import no_grad, matmul
+# import torch.nn.functional as F
+# import pickle as pck
+# from transformers import BertModel, BertTokenizerFast
 # with open('model.pck', 'rb') as f:
 #     model = pck.load(f)
 # with open('tokenizer.pck', 'rb') as f:
 #     tokenizer = pck.load(f)
 
 ### Load similarity model (LaBSE)
-tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
-model = BertModel.from_pretrained("setu4993/LaBSE")
-model = model.eval()
+# tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
+# model = BertModel.from_pretrained("setu4993/LaBSE")
+# model = model.eval()
 
 ### Read in dummy csv
 # reader = csv.reader(open('/Users/ryanegbert/Desktop/spring22/ip/app/covid_files/csv/test_file.csv', 'r'))
@@ -38,13 +43,14 @@ model = model.eval()
 #         continue
 #     source_text.append(row[0])
 #     translated_text.append(row[1])
-# ID = random.randint(10000,99999)
+ID = random.randint(10000,99999)
 # TP = TextPairClass(source_text, translated_text, _id=-1)
 
 
 # Index page (this is not used, can be deleted)
 def index(request):
     context = {
+        'cur_user': CUR_USER,
         'source_txt': 'This is source text',
         'trans_txt': 'This is translated text'
     }
@@ -52,74 +58,100 @@ def index(request):
 
 # Login page
 def login(request):
-    context = {'header': 'Hello 1234'}
+    context = {}
     return render(request, 'process_text/login.html', context)
 
 # Hash passwords during registration
 # Returns list of integers
-def hash_pass(password, salt):
-    key = hashlib.pbkdf2_hmac(
-        'sha256', 
-        password.encode('utf-8'), 
-        salt, 100000)
+# def hash_pass(password, salt):
+#     key = hashlib.pbkdf2_hmac(
+#         'sha256', 
+#         password.encode('utf-8'), 
+#         salt, 100000)
 
-    return list(key)
+#     return list(key)
+
+def verify_pass(user, password):
+    key = hashlib.pbkdf2_hmac(
+        'sha256',
+        password.encode('utf-8'),
+        user['salt'], 100000
+    )
+
+    return user['salt'] + key == user['password']
 
 # Process login request
 # TODO: Redirects to upload page if authentication succeeds
 def process_login(request):
+    global CUR_USER
     username = request.GET['username']
     password = request.GET['password']
+    col = DB.user
+    user = col.find_one({'username':username})
+    if user != None:
+        CUR_USER = user
+        # user_pass = user.password.split(' ')
+        # user_pass_int = [int(i) for i in user_pass]
+        # user_salt = user.salt.split(' ')
+        # user_salt_bytes = bytes([int(i) for i in user_salt])
 
-    user = User.objects.get(username=username)
-    user_pass = user.password.split(' ')
-    user_pass_int = [int(i) for i in user_pass]
-    user_salt = user.salt.split(' ')
-    user_salt_bytes = bytes([int(i) for i in user_salt])
-
-    key = hash_pass(password, user_salt_bytes)
+        # key = hash_pass(password, user_salt_bytes)
     
-    if key == user_pass_int[32:]:
-        return redirect('upload')
-    else:
-        return redirect('loginuser')
+        if verify_pass(user, password):
+            return redirect('upload')
+        else:
+            return redirect('loginuser')
 
 # Register page
 def register(request):
-    #context = {'header': 'Hello 1234'}
-    return render(request, 'process_text/register.html')
+    context = {}
+    return render(request, 'process_text/register.html', context)
 
 # Process registration requests
 # TODO: Redirect to home page
 def process_registration(request):
     if request.method == 'POST':
+        col = DB.user
         username = request.POST['username']
         full_name = request.POST['fullname']
         password = request.POST['password']
-        salt = os.urandom(32)
-        key = hash_pass(password, salt)
-        salt_list = list(salt)
-        user = User()
-        user.username = username
-        salt_list_str = [str(i) for i in salt_list]
-        key_str = [str(i) for i in key]
-        user.password = ' '.join(salt_list_str + key_str)
-        user.salt = ' '.join(salt_list_str)
-        user.save()
+        user = col.find_one({'username':username})
+        if user == None:
+            user = User(username, password)
+            col.insert_one(user.dict)
+        else:
+            warnings.warn("User " + username + " already exists. Please choose a different username.")
+            context = {
+                'warn': 'User \'' + username + '\' already exists. Please choose a different username.'
+            }
+            return render(request, 'process_text/register.html', context)
 
-    return redirect('register')
+        # salt = os.urandom(32)
+        # key = hash_pass(password, salt)
+        # salt_list = list(salt)
+
+        # user = User()
+        # user.username = username
+        # salt_list_str = [str(i) for i in salt_list]
+        # key_str = [str(i) for i in key]
+        # user.password = ' '.join(salt_list_str + key_str)
+        # user.salt = ' '.join(salt_list_str)
+        # user.save()
+
+    return redirect('upload')
 
 # Upload page
 def upload(request):
-    context = {}
-    return render(request, 'process_text/upload.html')
+    context = {'cur_user': CUR_USER,}
+    return render(request, 'process_text/upload.html', context)
 
 # Process file upload
 # TODO: Add similarity score implementation
 def processFile(request):
-    global TP
+    # global TP
     global ID
-    global model
+    # global model
+    global DB
     if request.method == 'POST':
         reader = csv.reader(io.StringIO(request.FILES['uploadFile'].read().decode()))
         first_row = True
@@ -134,7 +166,7 @@ def processFile(request):
             source_text.append(row[0])
             translated_text.append(row[1])
         ID = random.randint(10000,99999)
-        text_pair = TextPairClass(source_text, translated_text, _id=ID)
+        text_pair = TextPair(source_text, translated_text, _id=ID)
         tp = text_pair.to_model()
         tp.save()
 
@@ -152,7 +184,7 @@ def similarity_score(embeddings_1, embeddings_2):
 
 # Process manual text input
 def processText(request):
-    global TP, ID, model
+    global ID, model, DB
     if request.method == "POST":
         # Get source text and translated text
         source_text = request.POST['source'].split('\n')
@@ -160,25 +192,25 @@ def processText(request):
         # TODO: Get id of translation
         ID = random.randint(10000,99999)
         # Tokenize inputs
-        source_inputs = tokenizer(source_text, return_tensors="pt", padding=True)
-        translated_inputs = tokenizer(translated_text, return_tensors="pt", padding=True)
+        # source_inputs = tokenizer(source_text, return_tensors="pt", padding=True)
+        # translated_inputs = tokenizer(translated_text, return_tensors="pt", padding=True)
         # Convert inputs with LaBSE model
-        with no_grad():
-            source_outputs = model(**source_inputs)
-        with no_grad():
-            translated_outputs = model(**translated_inputs)
+        # with no_grad():
+        #     source_outputs = model(**source_inputs)
+        # with no_grad():
+        #     translated_outputs = model(**translated_inputs)
         # Embed outputs
-        source_emb = source_outputs.pooler_output
-        translated_emb = translated_outputs.pooler_output
+        # source_emb = source_outputs.pooler_output
+        # translated_emb = translated_outputs.pooler_output
         # Cosine similarity between embedded outputs
-        mat = similarity_score(source_emb, translated_emb)
-        scores = mat.diagonal().tolist()
+        # mat = similarity_score(source_emb, translated_emb)
+        # scores = mat.diagonal().tolist()
+        scores = [0] * len(source_text)
 
-        text_pair = TextPairClass(source_text, translated_text, scores, _id=ID)
-        tp = text_pair.to_model()
-        tp.save()
+        text_pair = TextPair(source_text, translated_text, scores, _id=ID)
+        col = DB.textpair
+        col.insert_one(text_pair.dict)
 
-    # text_pair = TP
     return processing(request, text_pair, None)
 
 # Processing page
@@ -190,9 +222,8 @@ def processing(request, text_pair, options):
 # Main grid results page
 # TODO: Add d3 visualizations to each section that was selected
 def results(request):
-    # tp = TextPair.objects.get(pair_id=ID)
-    # tp = TP.to_model()
     context = {
+        'cur_user': CUR_USER,
         'sidebar': True
     }
     return render(request, 'process_text/results.html', context)
@@ -201,49 +232,47 @@ def results(request):
 # Displays info from each selected metric
 def metric_view(request):
     # Get (or create) text pair
-    # text_pair = TextPairClass()
-    tp = TextPair.objects.get(pair_id=ID)
-    # tp = TP.to_model()
+    col = DB.textpair
+    tp = col.find_one({'id':ID})
     
     # Determine sentence groups and scores
-    t1_sent = tp.source['sentences']
-    t2_sent = tp.translated['sentences']
-    scores_tp = tp.scores['scores']
+    all_sentences = tp['matches']
 
-    # Get actual text
-    sentences_s = []
-    sentences_t = []
-    scores = []
-    for text in t1_sent:
-        sentences_s.append(text['text'])
-    for text in t2_sent:
-        sentences_t.append(text['text'])
-    for score in scores_tp:
-        scores.append(score)
+    # # Get actual text
+    # sentences_s = []
+    # sentences_t = []
+    # scores = []
+    # for text in t1_sent:
+    #     sentences_s.append(text['text'])
+    # for text in t2_sent:
+    #     sentences_t.append(text['text'])
+    # for score in scores_tp:
+    #     scores.append(score)
 
     # Add data to all_sentences list
-    all_sentences = []
-    # Determine score for each sentence pair
-    for i in range(len(sentences_s)):
-        if scores[i]['score'] < 75:
-            color = '#f00'
-        elif scores[i]['score'] < 85:
-            color = '#ffe587'
-        else:
-            color = '#fff'
-        # Add info
-        all_sentences.append({
-            's' : (sentences_s[i],sentences_t[i]),
-            'color' : color,
-            'idx': i,
-            'score': scores[i]['score'],
-        })
+    # all_sentences = []
+    # # Determine score for each sentence pair
+    # for i in range(len(sentences_s)):
+    #     if scores[i]['score'] < 75:
+    #         color = '#f00'
+    #     elif scores[i]['score'] < 85:
+    #         color = '#ffe587'
+    #     else:
+    #         color = '#fff'
+    #     # Add info
+    #     all_sentences.append({
+    #         's' : (sentences_s[i],sentences_t[i]),
+    #         'color' : color,
+    #         'idx': i,
+    #         'score': scores[i]['score'],
+    #     })
 
     context = {
+        'cur_user': CUR_USER,
         'sentences': all_sentences,
         'sidebar': True,
     }
-    
+
     return render(request, 'process_text/metric_view.html', context)
 
 

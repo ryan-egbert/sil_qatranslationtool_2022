@@ -1,56 +1,66 @@
-from .models import TextPair
-from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger 
+import warnings
+from datetime import datetime
+import hashlib
+import os
 
-class TextClass:
-    def __init__(self, text, lang=None, section_breaks=False):
-        self._text = text
-        self._lang = lang
-        self._breaks = section_breaks
-
-    def get_text(self): return self._text
-    def get_lang(self): return self._lang
-
-class TextPairClass:
-    def __init__(self, source, translated, scores, _id=None):
-        self._source = TextClass(source)
-        self._translated = TextClass(translated)
-        self._scores = scores
+class TextPair:
+    def __init__(self, source_list, translated_list, sim_scores, _id=-1, source_lang=None, translated_lang=None, scores=None):
         self._id = _id
+        self._datetime = datetime.now()
+        self._source = source_list
+        self._translated = translated_list
+        self._sim_scores = sim_scores
+        print(source_list)
 
-    def get_source(self): return self._source
-    def _get_source_for_model(self):
-        for_model = []
-        for s in self._source.get_text():
-            for_model.append({'text': s})
-        return for_model
-    def get_translated(self): return self._translated
-    def _get_translated_for_model(self):
-        for_model = []
-        for s in self._translated.get_text():
-            for_model.append({'text': s})
-        return for_model
-    def _get_scores_for_model(self):
-        for_model = []
-        for s in self._scores:
-            for_model.append({'score': round(s*100, 2)})
-        return for_model
-    def swap_source(self, new_source): self._source = new_source
-    def swap_translated(self, new_translated): self._translated = new_translated
+        self.dict = self.organize()
 
-    def to_model(self):
-        tp = TextPair()
-        tp.source = {
-            'sentences': self._get_source_for_model(),
-            'lang': self._source.get_lang()
-        }
-        tp.translated = {
-            'sentences': self._get_translated_for_model(),
-            'lang': self._translated.get_lang()
-        }
-        tp.scores = {
-            'scores': self._get_scores_for_model()
-        }
-        tp.pair_id = self._id
+    def organize(self):
+        matches = []
+        warn = []
+        if len(self._source) != len(self._translated):
+            warn.append("Source text and translated text have different lengths.")
+            warnings.warn("Source text and translated text have different lengths.")
+        for idx in range(len(self._source)):
+            color = "#fff"
+            if self._sim_scores[idx] < 75:
+                color = "#f00"
+            elif self._sim_scores[idx] < 85:
+                color = "#ffe587"
 
-        return tp
+            matches.append({
+                'source': self._source[idx],
+                'translated': self._translated[idx],
+                'sim_score': self._sim_scores[idx],
+                'idx': idx,
+                'color': color,
+            })
+
+        return {
+            'id': self._id,
+            'datetime': self._datetime,
+            'matches': matches,
+            'warning': warn
+        }
+
+class User:
+    def __init__(self, username, password):
+        self._username = username
+        self._salt = os.urandom(32)
+        self._password = self.hash(password)
+        self._translations = []
+        self.dict = {
+            'username': self._username,
+            'salt': self._salt,
+            'password': self._password,
+            'translations': self._translations
+        }
+    
+    def hash(self, password):
+        key = hashlib.pbkdf2_hmac(
+            'sha256',
+            password.encode('utf-8'),
+            self._salt, 100000
+        )
+        return self._salt + key
+
 
