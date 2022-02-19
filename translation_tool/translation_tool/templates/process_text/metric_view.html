@@ -37,7 +37,7 @@
                 <div class="row" id="textContainer">
                     <div class="col">
                         {% for s in sentences %}
-                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-score="{{s.idx}}">{{s.s.1}}</span>
+                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-score="{{s.idx}}">{{s.translated}}</span>
                         {% endfor %}
                     </div>
                 </div>
@@ -46,11 +46,11 @@
                 {% for s in sentences %}
                 <div class="row">
                     <div class="col-6">
-                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.score}}" data-comp="0" data-read="0" data-semdom="0">{{s.s.0}}</span>
+                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="0" data-read="0" data-semdom="0">{{s.source}}</span>
                         <!-- <br> -->
                     </div>
                     <div class="col-6">
-                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.score}}" data-comp="0" data-read="0" data-semdom="0">{{s.s.1}}</span>
+                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="0" data-read="0" data-semdom="0">{{s.translated}}</span>
                         <!-- <br> -->
                     </div>
                 </div>

@@ -54,11 +54,19 @@
                         <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
                     </li> -->
                 </ul>
+                {% if cur_user %}
+                <ul class="navbar-nav ml-sm-2">
+                    <li class="nav-item"><a class="nav-link">Hello, {{ cur_user.username }}</a></li>
+                    <br>
+                    <li class="nav-item"><a class="nav-link" href="/index/logout/">Logout</a></li>
+                </ul>
+                {% else %}
                 <ul class="navbar-nav ml-sm-2">
                     <li class="nav-item"><a class="nav-link" href="/index/login/">Login</a></li>
                     <br>
                     <li class="nav-item"><a class="nav-link" href="/index/register/">Register</a></li>
                 </ul>
+                {% endif %}
             </div>
         </nav>
         {% block body_content %}
