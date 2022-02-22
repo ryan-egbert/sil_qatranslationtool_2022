@@ -381,7 +381,37 @@ def semanticdomain(request):
         'sidebar': True,
     }
     return render(request, 'process_text/semanticdomain.html', context)
+def aboutcomprehensibility(request):
+    # tp = TextPair.objects.get(pair_id=ID)
+    #tp = TP.to_model()
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/AboutComprehensibilty.html', context)
 
+def aboutreadability(request):
+    # tp = TextPair.objects.get(pair_id=ID)
+    #tp = TP.to_model()
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/AboutReadability.html', context)
+
+def aboutsemanticdomain(request):
+    # tp = TextPair.objects.get(pair_id=ID)
+    #tp = TP.to_model()
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/AboutSemanticDomain.html', context)
+
+def aboutsemanticsimilarity(request):
+    # tp = TextPair.objects.get(pair_id=ID)
+    #tp = TP.to_model()
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/AboutSemanticSimilarity.html', context)   
 def similarity(request):
     red = Color("#ff8585")
     green = Color("#87c985")
