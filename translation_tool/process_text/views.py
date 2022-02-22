@@ -14,7 +14,7 @@ LANG2 = []
 ID = 0
 
 
-reader = csv.reader(open('/Users/ryanegbert/Desktop/spring22/ip/app/covid_files/csv/test_file.csv', 'r'))
+reader = csv.reader(open('C:/Users/17657/Django/sil_qatranslationtool_2022/covid_files/csv/test_file.csv', 'r',encoding='utf-8'))
 first_row = True
 langs = []
 source_text = []
@@ -85,6 +85,38 @@ def results(request):
         'sidebar': True
     }
     return render(request, 'process_text/results.html', context)
+
+def aboutcomprehensibility(request):
+    # tp = TextPair.objects.get(pair_id=ID)
+    tp = TP.to_model()
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/AboutComprehensibilty.html', context)
+
+def aboutreadability(request):
+    # tp = TextPair.objects.get(pair_id=ID)
+    tp = TP.to_model()
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/AboutReadability.html', context)
+
+def aboutsemanticdomain(request):
+    # tp = TextPair.objects.get(pair_id=ID)
+    tp = TP.to_model()
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/AboutSemanticDomain.html', context)
+
+def aboutsemanticsimilarity(request):
+    # tp = TextPair.objects.get(pair_id=ID)
+    tp = TP.to_model()
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/AboutSemanticSimilarity.html', context)    
 
 def comprehensibility(request):
     red = Color("#ff8585")
