@@ -4,13 +4,13 @@ import hashlib
 import os
 
 class TextPair:
-    def __init__(self, source_list, translated_list, sim_scores, _id=-1, source_lang=None, translated_lang=None, scores=None):
+    def __init__(self, source_list, translated_list, sim_scores, _id=-1, options=['s','c','r','d'], source_lang=None, translated_lang=None):
         self._id = _id
         self._datetime = datetime.now()
         self._source = source_list
         self._translated = translated_list
         self._sim_scores = sim_scores
-        print(source_list)
+        self._options = options
 
         self.dict = self.organize()
 
@@ -39,6 +39,7 @@ class TextPair:
             'id': self._id,
             'datetime': self._datetime,
             'matches': matches,
+            'options': self._options,
             'warning': warn
         }
 

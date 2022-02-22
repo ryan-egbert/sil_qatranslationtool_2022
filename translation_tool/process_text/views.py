@@ -186,28 +186,44 @@ def similarity_score(embeddings_1, embeddings_2):
 def processText(request):
     global ID, model, DB
     if request.method == "POST":
+        print(request.user)
         # Get source text and translated text
         source_text = request.POST['source'].split('\n')
         translated_text = request.POST['translated'].split('\n')
+        print(request.POST)
+        sim_check = comp_check = read_check = semdom_check = None
+        if 'sim-check' in request.POST:
+            sim_check = 's'
+        if 'comp-check' in request.POST:
+            comp_check = 'c'
+        if 'read-check' in request.POST:
+            read_check = 'r'
+        if 'semdom-check' in request.POST:
+            semdom_check = 'd'
+
+        options_ = [op for op in [sim_check, comp_check, read_check, semdom_check] if op != None]
+        # print(sim_check, comp_check, read_check, semdom_check)
         # TODO: Get id of translation
         ID = random.randint(10000,99999)
-        # Tokenize inputs
+        while DB.textpair.find_one({'id':ID}) != None:
+            ID = random.randint(10000,99999)
+        # # Tokenize inputs
         # source_inputs = tokenizer(source_text, return_tensors="pt", padding=True)
         # translated_inputs = tokenizer(translated_text, return_tensors="pt", padding=True)
-        # Convert inputs with LaBSE model
+        # # Convert inputs with LaBSE model
         # with no_grad():
         #     source_outputs = model(**source_inputs)
         # with no_grad():
         #     translated_outputs = model(**translated_inputs)
-        # Embed outputs
+        # # Embed outputs
         # source_emb = source_outputs.pooler_output
         # translated_emb = translated_outputs.pooler_output
-        # Cosine similarity between embedded outputs
+        # # Cosine similarity between embedded outputs
         # mat = similarity_score(source_emb, translated_emb)
         # scores = mat.diagonal().tolist()
         scores = [0] * len(source_text)
 
-        text_pair = TextPair(source_text, translated_text, scores, _id=ID)
+        text_pair = TextPair(source_text, translated_text, scores, options=options_, _id=ID)
         col = DB.textpair
         col.insert_one(text_pair.dict)
 
@@ -234,6 +250,7 @@ def metric_view(request):
     # Get (or create) text pair
     col = DB.textpair
     tp = col.find_one({'id':ID})
+    print(tp['options'])
     
     # Determine sentence groups and scores
     all_sentences = tp['matches']
@@ -270,6 +287,7 @@ def metric_view(request):
     context = {
         'cur_user': CUR_USER,
         'sentences': all_sentences,
+        'options': tp['options'],
         'sidebar': True,
     }
 
@@ -279,110 +297,110 @@ def metric_view(request):
 
 ###########################################################
 ### These four views are not being used and can be deleted
-def comprehensibility(request):
-    red = Color("#ff8585")
-    white = Color("white")
-    colors = list(red.range_to(white, 3))
-    random_questions = [
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?',
-        'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat?',
-        'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur?',
-        'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum?'
-    ]
-    random_answers = [
-        'consectetur',
-        'enim',
-        'reprehenderit',
-        'proident'
-    ]
-    tp = TextPair.objects.get(pair_id=ID)
-    t1_sent = tp.text1['sentences']
-    t2_sent = tp.text2['sentences']
-    sentences_s = []
-    sentences_t = []
-    for text in t1_sent:
-        sentences_s.append(text['text'])
-    for text in t2_sent:
-        sentences_t.append(text['text'])
-    all_sentences = []
-    for i in range(len(sentences_s)):
-        all_sentences.append({
-            's': sentences_s[i],
-            't': sentences_t[i],
-            'color': choice(colors).hex,
-            'idx': i,
-        })
+# def comprehensibility(request):
+#     red = Color("#ff8585")
+#     white = Color("white")
+#     colors = list(red.range_to(white, 3))
+#     random_questions = [
+#         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?',
+#         'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat?',
+#         'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur?',
+#         'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum?'
+#     ]
+#     random_answers = [
+#         'consectetur',
+#         'enim',
+#         'reprehenderit',
+#         'proident'
+#     ]
+#     tp = TextPair.objects.get(pair_id=ID)
+#     t1_sent = tp.text1['sentences']
+#     t2_sent = tp.text2['sentences']
+#     sentences_s = []
+#     sentences_t = []
+#     for text in t1_sent:
+#         sentences_s.append(text['text'])
+#     for text in t2_sent:
+#         sentences_t.append(text['text'])
+#     all_sentences = []
+#     for i in range(len(sentences_s)):
+#         all_sentences.append({
+#             's': sentences_s[i],
+#             't': sentences_t[i],
+#             'color': choice(colors).hex,
+#             'idx': i,
+#         })
 
-    all_questions = []
-    for i in range(len(sentences_s)):
-        questions = []
-        questions.append({
-            'question': choice(random_questions),
-            'answer': choice(random_answers),
-            'color': choice(colors)
-        })
-        all_questions.append(questions)
-    context = {
-        'sentences': all_sentences,
-        'questions': all_questions,
-        'sidebar': True,
-    }
+#     all_questions = []
+#     for i in range(len(sentences_s)):
+#         questions = []
+#         questions.append({
+#             'question': choice(random_questions),
+#             'answer': choice(random_answers),
+#             'color': choice(colors)
+#         })
+#         all_questions.append(questions)
+#     context = {
+#         'sentences': all_sentences,
+#         'questions': all_questions,
+#         'sidebar': True,
+#     }
 
-    return render(request, 'process_text/comprehensibility.html', context)
+#     return render(request, 'process_text/comprehensibility.html', context)
 
-def readability(request):
-    red = Color("#ff8585")
-    green = Color("#87c985")
-    colors = list(red.range_to(green, 10))
-    tp = TextPair.objects.get(pair_id=ID)
-    t1_sent = tp.text1['sentences']
-    t2_sent = tp.text2['sentences']
-    sentences_s = []
-    sentences_t = []
-    for text in t1_sent:
-        sentences_s.append(text['text'])
-    for text in t2_sent:
-        sentences_t.append(text['text'])
-    all_sentences = []
-    for i in range(len(sentences_t)):
-        all_sentences.append({
-            's': sentences_t[i],
-            'color': choice(colors).hex,
-            'idx': i,
-        })
-    context = {
-        'sentences': all_sentences,
-        'sidebar': True,
-    }
-    return render(request, 'process_text/readability.html', context)
+# def readability(request):
+#     red = Color("#ff8585")
+#     green = Color("#87c985")
+#     colors = list(red.range_to(green, 10))
+#     tp = TextPair.objects.get(pair_id=ID)
+#     t1_sent = tp.text1['sentences']
+#     t2_sent = tp.text2['sentences']
+#     sentences_s = []
+#     sentences_t = []
+#     for text in t1_sent:
+#         sentences_s.append(text['text'])
+#     for text in t2_sent:
+#         sentences_t.append(text['text'])
+#     all_sentences = []
+#     for i in range(len(sentences_t)):
+#         all_sentences.append({
+#             's': sentences_t[i],
+#             'color': choice(colors).hex,
+#             'idx': i,
+#         })
+#     context = {
+#         'sentences': all_sentences,
+#         'sidebar': True,
+#     }
+#     return render(request, 'process_text/readability.html', context)
 
-def semanticdomain(request):
-    red = Color("#ff8585")
-    green = Color("#87c985")
-    colors = list(red.range_to(green, 10))
-    tp = TextPair.objects.get(pair_id=ID)
-    t1_sent = tp.text1['sentences']
-    t2_sent = tp.text2['sentences']
-    sentences_s = []
-    sentences_t = []
-    for text in t1_sent:
-        sentences_s.append(text['text'])
-    for text in t2_sent:
-        sentences_t.append(text['text'])
-    all_sentences = []
-    for i in range(len(sentences_t)):
-        all_sentences.append({
-            's': sentences_t[i],
-            'color': choice(colors).hex,
-            'idx': i,
-        })
-    context = {
-        'sentences': all_sentences,
-        'sidebar': True,
-    }
-    return render(request, 'process_text/semanticdomain.html', context)
+# def semanticdomain(request):
+#     red = Color("#ff8585")
+#     green = Color("#87c985")
+#     colors = list(red.range_to(green, 10))
+#     tp = TextPair.objects.get(pair_id=ID)
+#     t1_sent = tp.text1['sentences']
+#     t2_sent = tp.text2['sentences']
+#     sentences_s = []
+#     sentences_t = []
+#     for text in t1_sent:
+#         sentences_s.append(text['text'])
+#     for text in t2_sent:
+#         sentences_t.append(text['text'])
+#     all_sentences = []
+#     for i in range(len(sentences_t)):
+#         all_sentences.append({
+#             's': sentences_t[i],
+#             'color': choice(colors).hex,
+#             'idx': i,
+#         })
+#     context = {
+#         'sentences': all_sentences,
+#         'sidebar': True,
+#     }
+#     return render(request, 'process_text/semanticdomain.html', context)
 
-def similarity(request):
+# def similarity(request):
     red = Color("#ff8585")
     green = Color("#87c985")
     colors = list(red.range_to(green,10))
