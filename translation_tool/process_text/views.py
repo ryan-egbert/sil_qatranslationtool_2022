@@ -166,10 +166,10 @@ def processFile(request):
             source_text.append(row[0])
             translated_text.append(row[1])
         ID = random.randint(10000,99999)
-        text_pair = TextPair(source_text, translated_text, _id=ID)
-        tp = text_pair.to_model()
-        tp.save()
-
+        scores = [0]*len(source_text)
+        text_pair = TextPair(source_text, translated_text, sim_scores=scores, _id=ID)
+        col = DB.textpair
+        col.insert_one(text_pair.dict)
     # text_pair = TP
 
     return processing(request, text_pair, None)
