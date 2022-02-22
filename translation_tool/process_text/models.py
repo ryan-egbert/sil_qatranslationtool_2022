@@ -1,4 +1,4 @@
-# # from django.db import models
+from django.db import models
 # # from djongo.models.indexes import TextIndex
 # from djongo import models
 # from django import forms
@@ -87,3 +87,7 @@
 #     objects = models.DjongoManager()
 
 # #####################################################
+class File(models.Model):
+    existingPath = models.CharField(unique=True, max_length=100)
+    name = models.CharField(max_length=50)
+    eof = models.BooleanField()
