@@ -14,18 +14,30 @@
     </div>
     <div class="row">
         <div class="col" id="icons">
+            {% if 's' in options %}
             <button class="btn btn-lg btn-outline-dark icon-btn" id="simBtn">
-                <i class="fas fa-equals"></i>
+                <!-- <i class="fas fa-equals"></i><br> -->
+                Similarity
             </button>
+            {% endif %}
+            {% if 'c' in options %}
             <button class="btn btn-lg btn-outline-dark icon-btn" id="compBtn">
-                <i class="fas fa-glasses"></i>
+                <!-- <i class="fas fa-glasses"></i> -->
+                Comprehensibility
             </button>
+            {% endif %}
+            {% if 'r' in options %}
             <button class="btn btn-lg btn-outline-dark icon-btn" id="readBtn">
-                <i class="fas fa-book"></i>
+                <!-- <i class="fas fa-book"></i> -->
+                Readability
             </button>
+            {% endif %}
+            {% if 'd' in options %}
             <button class="btn btn-lg btn-outline-dark icon-btn" id="semdomBtn">
-                <i class="fas fa-sitemap"></i>
+                <!-- <i class="fas fa-sitemap"></i> -->
+                Semantic Domains
             </button>
+            {% endif %}
         </div>
         <!-- <div class="col-2">
             <h3 class="header-center">Scoring</h3>
