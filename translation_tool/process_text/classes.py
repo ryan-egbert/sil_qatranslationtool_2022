@@ -37,7 +37,7 @@ class TextPair:
 
         return {
             'id': self._id,
-            'datetime': self._datetime,
+            'datetime': str(self._datetime),
             'matches': matches,
             'options': self._options,
             'warning': warn

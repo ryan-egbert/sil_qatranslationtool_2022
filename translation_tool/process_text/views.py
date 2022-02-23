@@ -13,6 +13,7 @@ import os
 import random
 import hashlib
 import pymongo
+import json
 client = pymongo.MongoClient("mongodb+srv://admin1:admin@cluster0.84e6s.mongodb.net/translation_tool?retryWrites=true&w=majority")
 DB = client.translation_tool
 CUR_USER = None
@@ -166,9 +167,12 @@ def processFile(request):
             source_text.append(row[0])
             translated_text.append(row[1])
         ID = random.randint(10000,99999)
-        text_pair = TextPair(source_text, translated_text, _id=ID)
-        tp = text_pair.to_model()
-        tp.save()
+        scores = [0]*len(source_text)
+        text_pair = TextPair(source_text, translated_text, sim_scores=scores, _id=ID)
+        col = DB.textpair
+        # col.insert_one(text_pair.dict)
+        with open("./json/" + str(ID) + ".json", 'w') as f:
+            json.dump(text_pair.dict, f)
 
     # text_pair = TP
 
@@ -205,8 +209,8 @@ def processText(request):
         # print(sim_check, comp_check, read_check, semdom_check)
         # TODO: Get id of translation
         ID = random.randint(10000,99999)
-        while DB.textpair.find_one({'id':ID}) != None:
-            ID = random.randint(10000,99999)
+        # while DB.textpair.find_one({'id':ID}) != None:
+        #     ID = random.randint(10000,99999)
         # # Tokenize inputs
         # source_inputs = tokenizer(source_text, return_tensors="pt", padding=True)
         # translated_inputs = tokenizer(translated_text, return_tensors="pt", padding=True)
@@ -225,7 +229,9 @@ def processText(request):
 
         text_pair = TextPair(source_text, translated_text, scores, options=options_, _id=ID)
         col = DB.textpair
-        col.insert_one(text_pair.dict)
+        # col.insert_one(text_pair.dict)
+        with open("./json/" + str(ID) + ".json", 'w') as f:
+            json.dump(text_pair.dict, f)
 
     return processing(request, text_pair, None)
 
@@ -249,7 +255,9 @@ def results(request):
 def metric_view(request):
     # Get (or create) text pair
     col = DB.textpair
-    tp = col.find_one({'id':ID})
+    # tp = col.find_one({'id':ID})
+    with open("./json/" + str(ID) + ".json", 'r') as f:
+        tp = json.load(f)
     print(tp['options'])
     
     # Determine sentence groups and scores
