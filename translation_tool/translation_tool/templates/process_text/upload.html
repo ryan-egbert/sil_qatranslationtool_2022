@@ -1,4 +1,5 @@
 {% extends 'process_text/base.html' %}
+{% load static %}
 
 {% block body_content %}
 <div class="container-fluid marginTop">
@@ -8,6 +9,13 @@
                 <div class="card-header">
                     Upload a File
                 </div>
+                <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+                <script>
+                    function showProgressBar() {
+                        document.getElementById("PreLoaderBar").style.display = "block"; 
+                        
+                    }
+                </script>
                 <div class="card-body">
                     <form enctype="multipart/form-data" action="{% url 'processFile' %}" method="POST">
                         {% csrf_token %}
@@ -15,9 +23,14 @@
                             <input name="uploadFile" type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01">
                             <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
                         </div>
-                        <button type="submit">Submit</button>
+                        <div class="progress" id="PreLoaderBar">
+                            <div class="indeterminate"></div>
+                        </div>
+                        <button onclick="showProgressBar()" type="submit">Submit</button>
                     </form>
                 </div>
+                <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+                <script src="{% static 'process_text/js/main.js' %}"></script> -->
             </div>
         </div>
         <div class="col-8">
