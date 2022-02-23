@@ -11,15 +11,15 @@ urlpatterns = [
     path('upload/text/', views.processText, name='processText'),
     path('upload/file/', views.processFile, name='processFile'),
     path('results/', views.results, name='results'),
-    path('results/similarity/', views.similarity, name='similarity'),
-    path('results/readability/', views.readability, name='readability'),
-    path('results/comprehensibility/', views.comprehensibility, name='comprehensibility'),
-    path('results/semanticdomain/', views.semanticdomain, name='semanticdomain'),
+    # path('results/similarity/', views.similarity, name='similarity'),
+    # path('results/readability/', views.readability, name='readability'),
+    # path('results/comprehensibility/', views.comprehensibility, name='comprehensibility'),
+    # path('results/semanticdomain/', views.semanticdomain, name='semanticdomain'),
     path('results/view/', views.metric_view, name='view'),
     path('upload/processing/', views.processing, name='processing'),
-    path('results/aboutcomprehensibility/', views.aboutcomprehensibility, name='aboutcomprehensibility'),
-    path('results/aboutreadability/', views.aboutreadability, name='aboutreadability'),
-    path('results/aboutsemanticdomain/', views.aboutsemanticdomain, name='aboutsemanticdomain'),
-    path('results/aboutsemanticsimilarity/', views.aboutsemanticsimilarity, name='aboutsemanticsimilarity')
+    path('about/comprehensibility/', views.aboutcomprehensibility, name='aboutcomprehensibility'),
+    path('about/readability/', views.aboutreadability, name='aboutreadability'),
+    path('about/semanticdomain/', views.aboutsemanticdomain, name='aboutsemanticdomain'),
+    path('about/similarity/', views.aboutsemanticsimilarity, name='aboutsemanticsimilarity')
 ]
  
