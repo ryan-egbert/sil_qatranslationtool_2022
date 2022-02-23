@@ -13,6 +13,7 @@ import os
 import random
 import hashlib
 import pymongo
+import json
 client = pymongo.MongoClient("mongodb+srv://admin1:admin@cluster0.84e6s.mongodb.net/translation_tool?retryWrites=true&w=majority")
 DB = client.translation_tool
 CUR_USER = None
@@ -169,7 +170,10 @@ def processFile(request):
         scores = [0]*len(source_text)
         text_pair = TextPair(source_text, translated_text, sim_scores=scores, _id=ID)
         col = DB.textpair
-        col.insert_one(text_pair.dict)
+
+        # col.insert_one(text_pair.dict)
+        with open("./json/" + str(ID) + ".json", 'w') as f:
+            json.dump(text_pair.dict, f)
     # text_pair = TP
 
     return processing(request, text_pair, None)
@@ -205,8 +209,8 @@ def processText(request):
         # print(sim_check, comp_check, read_check, semdom_check)
         # TODO: Get id of translation
         ID = random.randint(10000,99999)
-        while DB.textpair.find_one({'id':ID}) != None:
-            ID = random.randint(10000,99999)
+        # while DB.textpair.find_one({'id':ID}) != None:
+        #     ID = random.randint(10000,99999)
         # # Tokenize inputs
         # source_inputs = tokenizer(source_text, return_tensors="pt", padding=True)
         # translated_inputs = tokenizer(translated_text, return_tensors="pt", padding=True)
@@ -225,7 +229,9 @@ def processText(request):
 
         text_pair = TextPair(source_text, translated_text, scores, options=options_, _id=ID)
         col = DB.textpair
-        col.insert_one(text_pair.dict)
+        # col.insert_one(text_pair.dict)
+        with open("./json/" + str(ID) + ".json", 'w') as f:
+            json.dump(text_pair.dict, f)
 
     return processing(request, text_pair, None)
 
@@ -249,7 +255,9 @@ def results(request):
 def metric_view(request):
     # Get (or create) text pair
     col = DB.textpair
-    tp = col.find_one({'id':ID})
+    # tp = col.find_one({'id':ID})
+    with open("./json/" + str(ID) + ".json", 'r') as f:
+        tp = json.load(f)
     print(tp['options'])
     
     # Determine sentence groups and scores
@@ -401,30 +409,30 @@ def metric_view(request):
 #     return render(request, 'process_text/semanticdomain.html', context)
 
 # def similarity(request):
-    red = Color("#ff8585")
-    green = Color("#87c985")
-    colors = list(red.range_to(green,10))
-    tp = TextPair.objects.get(pair_id=ID)
-    t1_sent = tp.text1['sentences']
-    t2_sent = tp.text2['sentences']
-    sentences_s = []
-    sentences_t = []
-    for text in t1_sent:
-        sentences_s.append(text['text'])
-    for text in t2_sent:
-        sentences_t.append(text['text'])
-    all_sentences = []
-    for i in range(len(sentences_s)):
-        all_sentences.append({
-            's' : sentences_s[i],
-            't' : sentences_t[i],
-            'color' : choice(colors).hex,
-            'idx': i,
-        })
-    context = {
-        'sentences': all_sentences,
-        'sidebar': True,
-    }
-    return render(request, 'process_text/similarity.html', context)
+#     red = Color("#ff8585")
+#     green = Color("#87c985")
+#     colors = list(red.range_to(green,10))
+#     tp = TextPair.objects.get(pair_id=ID)
+#     t1_sent = tp.text1['sentences']
+#     t2_sent = tp.text2['sentences']
+#     sentences_s = []
+#     sentences_t = []
+#     for text in t1_sent:
+#         sentences_s.append(text['text'])
+#     for text in t2_sent:
+#         sentences_t.append(text['text'])
+#     all_sentences = []
+#     for i in range(len(sentences_s)):
+#         all_sentences.append({
+#             's' : sentences_s[i],
+#             't' : sentences_t[i],
+#             'color' : choice(colors).hex,
+#             'idx': i,
+#         })
+#     context = {
+#         'sentences': all_sentences,
+#         'sidebar': True,
+#     }
+#     return render(request, 'process_text/similarity.html', context)
 
 ###########################################################
