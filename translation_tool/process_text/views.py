@@ -301,10 +301,33 @@ def metric_view(request):
 
     return render(request, 'process_text/metric_view.html', context)
 
+def aboutcomprehensibility(request):
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/AboutComprehensibility.html', context)
 
+def aboutreadability(request):
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/AboutReadability.html', context)
+
+def aboutsemanticdomain(request):
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/AboutSemanticDomain.html', context)
+
+def aboutsemanticsimilarity(request):
+    context = {
+        'sidebar': True
+    }
+    return render(request, 'process_text/AboutSemanticSimilarity.html', context)   
 
 ###########################################################
 ### These four views are not being used and can be deleted
+###########################################################
 # def comprehensibility(request):
 #     red = Color("#ff8585")
 #     white = Color("white")

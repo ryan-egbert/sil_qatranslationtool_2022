@@ -63,5 +63,3 @@ class User:
             self._salt, 100000
         )
         return self._salt + key
-
-
