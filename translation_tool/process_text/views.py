@@ -170,10 +170,10 @@ def processFile(request):
         scores = [0]*len(source_text)
         text_pair = TextPair(source_text, translated_text, sim_scores=scores, _id=ID)
         col = DB.textpair
+
         # col.insert_one(text_pair.dict)
         with open("./json/" + str(ID) + ".json", 'w') as f:
             json.dump(text_pair.dict, f)
-
     # text_pair = TP
 
     return processing(request, text_pair, None)
@@ -409,30 +409,30 @@ def metric_view(request):
 #     return render(request, 'process_text/semanticdomain.html', context)
 
 # def similarity(request):
-    red = Color("#ff8585")
-    green = Color("#87c985")
-    colors = list(red.range_to(green,10))
-    tp = TextPair.objects.get(pair_id=ID)
-    t1_sent = tp.text1['sentences']
-    t2_sent = tp.text2['sentences']
-    sentences_s = []
-    sentences_t = []
-    for text in t1_sent:
-        sentences_s.append(text['text'])
-    for text in t2_sent:
-        sentences_t.append(text['text'])
-    all_sentences = []
-    for i in range(len(sentences_s)):
-        all_sentences.append({
-            's' : sentences_s[i],
-            't' : sentences_t[i],
-            'color' : choice(colors).hex,
-            'idx': i,
-        })
-    context = {
-        'sentences': all_sentences,
-        'sidebar': True,
-    }
-    return render(request, 'process_text/similarity.html', context)
+#     red = Color("#ff8585")
+#     green = Color("#87c985")
+#     colors = list(red.range_to(green,10))
+#     tp = TextPair.objects.get(pair_id=ID)
+#     t1_sent = tp.text1['sentences']
+#     t2_sent = tp.text2['sentences']
+#     sentences_s = []
+#     sentences_t = []
+#     for text in t1_sent:
+#         sentences_s.append(text['text'])
+#     for text in t2_sent:
+#         sentences_t.append(text['text'])
+#     all_sentences = []
+#     for i in range(len(sentences_s)):
+#         all_sentences.append({
+#             's' : sentences_s[i],
+#             't' : sentences_t[i],
+#             'color' : choice(colors).hex,
+#             'idx': i,
+#         })
+#     context = {
+#         'sentences': all_sentences,
+#         'sidebar': True,
+#     }
+#     return render(request, 'process_text/similarity.html', context)
 
 ###########################################################
