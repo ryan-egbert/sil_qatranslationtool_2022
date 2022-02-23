@@ -40,7 +40,7 @@
             {% endif %}
         </div>
         <!-- <div class="col-2">
-            <h3 class="header-center">Scoring</h3>
+            <h4 class="header-center">Scoring</h4>
         </div> -->
     </div>
     <div class="row">
@@ -49,7 +49,7 @@
                 <div class="row" id="textContainer">
                     <div class="col">
                         {% for s in sentences %}
-                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-score="{{s.idx}}">{{s.translated}}</span>
+                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span>
                         {% endfor %}
                     </div>
                 </div>
@@ -58,11 +58,11 @@
                 {% for s in sentences %}
                 <div class="row">
                     <div class="col-6">
-                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="0" data-read="0" data-semdom="0">{{s.source}}</span>
+                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.source}}</span>
                         <!-- <br> -->
                     </div>
                     <div class="col-6">
-                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="0" data-read="0" data-semdom="0">{{s.translated}}</span>
+                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span>
                         <!-- <br> -->
                     </div>
                 </div>
@@ -70,7 +70,36 @@
             </div>
             <!-- </div> -->
         </div>
-        <div class="col-2">Score: <span id="simScore"></span></div>
+        <div class="col-2 text-scroll">
+            {% if 's' in options %}
+            <div class="scores" id="simScoreDiv">
+                <h4 class="spec-score">Similarity Score</h4>
+                Score: <span id="simScore"></span>
+                <hr>
+            </div>
+            {% endif %}
+            {% if 'c' in options %}
+            <div class="scores" id="compScoreDiv">
+                <h4 class="spec-score">Comprehensibility Score</h4>
+                Score: <span id="compScore"></span>
+                <hr>
+            </div>
+            {% endif %}
+            {% if 'r' in options %}
+            <div class="scores" id="readScoreDiv">
+                <h4 class="spec-score">Readability Score</h4>
+                Score: <span id="readScore"></span>
+                <hr>
+            </div>
+            {% endif %}
+            {% if 'd' in options %}
+            <div class="scores" id="semdomScoreDiv">
+                <h4 class="spec-score">Semantic Domain Score</h4>
+                Score: <span id="semdomScore"></span>
+                <hr>
+            </div>
+            {% endif %}
+        </div>
     </div>
 </div>
 {% endblock %}
