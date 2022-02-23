@@ -17,19 +17,19 @@ import json
 client = pymongo.MongoClient("mongodb+srv://admin1:admin@cluster0.84e6s.mongodb.net/translation_tool?retryWrites=true&w=majority")
 DB = client.translation_tool
 CUR_USER = None
-# from torch import no_grad, matmul
-# import torch.nn.functional as F
+from torch import no_grad, matmul
+import torch.nn.functional as F
 # import pickle as pck
-# from transformers import BertModel, BertTokenizerFast
+from transformers import BertModel, BertTokenizerFast
 # with open('model.pck', 'rb') as f:
 #     model = pck.load(f)
 # with open('tokenizer.pck', 'rb') as f:
 #     tokenizer = pck.load(f)
 
 ### Load similarity model (LaBSE)
-# tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
-# model = BertModel.from_pretrained("setu4993/LaBSE")
-# model = model.eval()
+tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
+model = BertModel.from_pretrained("setu4993/LaBSE")
+model = model.eval()
 
 ### Read in dummy csv
 # reader = csv.reader(open('/Users/ryanegbert/Desktop/spring22/ip/app/covid_files/csv/test_file.csv', 'r'))
@@ -146,6 +146,46 @@ def upload(request):
     context = {'cur_user': CUR_USER,}
     return render(request, 'process_text/upload.html', context)
 
+# Compute similarity score between two embedded outputs
+def similarity_score(source, translated):
+    global model, tokenizer
+    ID = random.randint(10000,99999)
+    while DB.textpair.find_one({'id':ID}) != None:
+        ID = random.randint(10000,99999)
+    # Tokenize inputs
+    source_inputs = tokenizer(source, return_tensors="pt", padding=True)
+    translated_inputs = tokenizer(translated, return_tensors="pt", padding=True)
+    # Convert inputs with LaBSE model
+    with no_grad():
+        source_outputs = model(**source_inputs)
+    with no_grad():
+        translated_outputs = model(**translated_inputs)
+    # Embed outputs
+    source_emb = source_outputs.pooler_output
+    translated_emb = translated_outputs.pooler_output
+    # Cosine similarity between embedded outputs
+    # mat = similarity_score(source_emb, translated_emb)
+    normalized_embeddings_s = F.normalize(source_emb, p=2)
+    normalized_embeddings_t = F.normalize(translated_emb, p=2)
+    mat = matmul(normalized_embeddings_s, normalized_embeddings_t.transpose(0, 1))
+    return (5 * mat.diagonal()).tolist()
+
+# Using Flesch–Kincaid readability tests
+def readability_score(text):
+    scores = []
+    for sent in text:
+        if len(sent) == 0:
+            score = 0
+        else:
+            score = len(sent.split()) - (len([char for word in sent.split() for char in word])/len(sent.split()))
+        scores.append(score)
+    # num_sent = len(text)
+    # num_words = len([word for sent in text for word in sent.split()])
+    # num_char = len([char for sent in text for word in sent.split() for char in word])
+    # # print(num_sent, num_words, num_char)
+    # return (num_words/num_sent) - (num_char/num_words)
+    return scores
+
 # Process file upload
 # TODO: Add similarity score implementation
 def processFile(request):
@@ -166,9 +206,9 @@ def processFile(request):
                 continue
             source_text.append(row[0])
             translated_text.append(row[1])
-        ID = random.randint(10000,99999)
-        scores = [0]*len(source_text)
-        text_pair = TextPair(source_text, translated_text, sim_scores=scores, _id=ID)
+        sim_scores = similarity_score(source_text, translated_text)
+        read_scores = readability_score(translated_text)
+        text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, _id=ID)
         col = DB.textpair
 
         # col.insert_one(text_pair.dict)
@@ -178,23 +218,15 @@ def processFile(request):
 
     return processing(request, text_pair, None)
 
-# Compute similarity score between two embedded outputs
-def similarity_score(embeddings_1, embeddings_2):
-    normalized_embeddings_1 = F.normalize(embeddings_1, p=2)
-    normalized_embeddings_2 = F.normalize(embeddings_2, p=2)
-    return matmul(
-        normalized_embeddings_1, normalized_embeddings_2.transpose(0, 1)
-    )
-
 # Process manual text input
 def processText(request):
     global ID, model, DB
     if request.method == "POST":
-        print(request.user)
+        # print(request.user)
         # Get source text and translated text
         source_text = request.POST['source'].split('\n')
         translated_text = request.POST['translated'].split('\n')
-        print(request.POST)
+        # print(request.POST)
         sim_check = comp_check = read_check = semdom_check = None
         if 'sim-check' in request.POST:
             sim_check = 's'
@@ -208,26 +240,11 @@ def processText(request):
         options_ = [op for op in [sim_check, comp_check, read_check, semdom_check] if op != None]
         # print(sim_check, comp_check, read_check, semdom_check)
         # TODO: Get id of translation
-        ID = random.randint(10000,99999)
-        # while DB.textpair.find_one({'id':ID}) != None:
-        #     ID = random.randint(10000,99999)
-        # # Tokenize inputs
-        # source_inputs = tokenizer(source_text, return_tensors="pt", padding=True)
-        # translated_inputs = tokenizer(translated_text, return_tensors="pt", padding=True)
-        # # Convert inputs with LaBSE model
-        # with no_grad():
-        #     source_outputs = model(**source_inputs)
-        # with no_grad():
-        #     translated_outputs = model(**translated_inputs)
-        # # Embed outputs
-        # source_emb = source_outputs.pooler_output
-        # translated_emb = translated_outputs.pooler_output
-        # # Cosine similarity between embedded outputs
-        # mat = similarity_score(source_emb, translated_emb)
-        # scores = mat.diagonal().tolist()
-        scores = [0] * len(source_text)
+        sim_scores = similarity_score(source_text, translated_text)
+        read_scores = readability_score(translated_text)
+        # scores = [0.1] * len(source_text)
 
-        text_pair = TextPair(source_text, translated_text, scores, options=options_, _id=ID)
+        text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, options=options_, _id=ID)
         col = DB.textpair
         # col.insert_one(text_pair.dict)
         with open("./json/" + str(ID) + ".json", 'w') as f:
@@ -258,7 +275,7 @@ def metric_view(request):
     # tp = col.find_one({'id':ID})
     with open("./json/" + str(ID) + ".json", 'r') as f:
         tp = json.load(f)
-    print(tp['options'])
+    # print(tp['options'])
     
     # Determine sentence groups and scores
     all_sentences = tp['matches']

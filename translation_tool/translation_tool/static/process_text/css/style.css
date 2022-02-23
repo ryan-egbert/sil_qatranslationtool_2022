@@ -451,6 +451,13 @@ ul ul a {
     float: right;
 }
 
-.clicked {
+/* .clicked {
     border: 1px solid black;
+} */
+
+div.scores {
+    display: none;
+}
+div.scores.active {
+    display: block;
 }

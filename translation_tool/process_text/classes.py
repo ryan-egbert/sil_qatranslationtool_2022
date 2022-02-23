@@ -4,13 +4,15 @@ import hashlib
 import os
 
 class TextPair:
-    def __init__(self, source_list, translated_list, sim_scores, _id=-1, options=['s','c','r','d'], source_lang=None, translated_lang=None):
+    def __init__(self, source_list, translated_list, sim_scores, read_scores, _id=-1, options=['s','c','r','d'], source_lang=None, translated_lang=None):
         self._id = _id
         self._datetime = datetime.now()
         self._source = source_list
         self._translated = translated_list
         self._sim_scores = sim_scores
+        self._read_scores = read_scores
         self._options = options
+        print(read_scores)
 
         self.dict = self.organize()
 
@@ -22,15 +24,17 @@ class TextPair:
             warnings.warn("Source text and translated text have different lengths.")
         for idx in range(len(self._source)):
             color = "#fff"
-            if self._sim_scores[idx] < 75:
+            if self._sim_scores[idx] < 3.7:
                 color = "#f00"
-            elif self._sim_scores[idx] < 85:
+            elif self._sim_scores[idx] < 4.3:
                 color = "#ffe587"
-
             matches.append({
                 'source': self._source[idx],
                 'translated': self._translated[idx],
-                'sim_score': self._sim_scores[idx],
+                'sim_score': str(round(self._sim_scores[idx],1)),
+                'comp_score': 0,
+                'read_score': str(round(self._read_scores[idx],2)),
+                'semdom_score': 0,
                 'idx': idx,
                 'color': color,
             })

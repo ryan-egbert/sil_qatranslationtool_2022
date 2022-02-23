@@ -148,15 +148,25 @@ $(document).ready(function () {
     $(".sentence").on('click', function () {
         let index = parseInt($(this).attr('data-index'));
         let color = $(this).css('border-bottom');
-        let score = $(this).attr('data-sim');
+        let simScore = $(this).attr('data-sim');
+        let compScore = $(this).attr('data-comp');
+        let readScore = $(this).attr('data-read');
+        let semdomScore = $(this).attr('data-semdom');
         if ($(this).hasClass('clicked')) {
             $(".sentence").removeClass("clicked").css('background-color', 'inherit');
+            $("#simScore").text('');
+            $("#compScore").text('');
+            $("#readScore").text('');
+            $("#semdomScore").text('');
         }
         else {
             $(".sentence").removeClass("clicked").css('background-color', 'inherit');
             $("span[data-index=" + index + "]").addClass('clicked').css('background-color', color.match(/rgb(.*)/)[0]);
         }
-        $("#simScore").text(score);
+        $("#simScore").text(simScore);
+        $("#compScore").text(compScore);
+        $("#readScore").text(readScore);
+        $("#semdomScore").text(semdomScore);
     });
 
     /**
@@ -181,15 +191,19 @@ $(document).ready(function () {
         switch (metric) {
             case 'simBtn':
                 NUMMULTI += inc;
+                $("#simScoreDiv").toggleClass('active');
                 break;
             case 'compBtn':
                 NUMMULTI += inc;
+                $("#compScoreDiv").toggleClass('active');
                 break;
             case 'readBtn':
                 NUMSINGLE += inc;
+                $("#readScoreDiv").toggleClass('active');
                 break;
             case 'semdomBtn':
                 NUMSINGLE += inc;
+                $("#semdomScoreDiv").toggleClass('active');
                 break;
             default:
                 console.log("Unrecognized button id.")
