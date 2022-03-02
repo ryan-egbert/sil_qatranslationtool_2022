@@ -44,12 +44,26 @@
         </div> -->
     </div>
     <div class="row">
+        <div id="viewChartSim" class="col-3 view-chart">
+            <svg id="viewChartSimSvg" height="25vh" width="100%"></svg>
+        </div>
+        <div id="viewChartComp" class="col-3 view-chart">
+            <svg id="viewChartCompSvg" height="25vh" width="100%"></svg>
+        </div>
+        <div id="viewChartRead" class="col-3 view-chart">
+            <svg id="viewChartReadSvg" height="25vh" width="100%"></svg>
+        </div>
+        <div id="viewChartSemdom" class="col-3 view-chart">
+            <svg id="viewChartSemdomSvg" height="25vh" width="100%"></svg>
+        </div>
+    </div>
+    <div class="row">
         <div class="col-10 text-scroll">
             <div class="in" id="single">
                 <div class="row" id="textContainer">
                     <div class="col">
                         {% for s in sentences %}
-                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span>
+                        <span style="border-bottom: 3px solid {{ s.simcolor }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span>
                         {% endfor %}
                     </div>
                 </div>
@@ -58,11 +72,11 @@
                 {% for s in sentences %}
                 <div class="row">
                     <div class="col-6">
-                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.source}}</span>
+                        <span style="border-bottom: 3px solid {{ s.simcolor }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.source}}</span>
                         <!-- <br> -->
                     </div>
                     <div class="col-6">
-                        <span style="border-bottom: 3px solid {{ s.color }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span>
+                        <span style="border-bottom: 3px solid {{ s.simcolor }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span>
                         <!-- <br> -->
                     </div>
                 </div>
@@ -73,28 +87,28 @@
         <div class="col-2 text-scroll">
             {% if 's' in options %}
             <div class="scores" id="simScoreDiv">
-                <h4 class="spec-score">Similarity Score</h4>
+                <h5 class="spec-score">Similarity Score</h5>
                 Score: <span id="simScore"></span>
                 <hr>
             </div>
             {% endif %}
             {% if 'c' in options %}
             <div class="scores" id="compScoreDiv">
-                <h4 class="spec-score">Comprehensibility Score</h4>
+                <h5 class="spec-score">Comprehensibility Score</h5>
                 Score: <span id="compScore"></span>
                 <hr>
             </div>
             {% endif %}
             {% if 'r' in options %}
             <div class="scores" id="readScoreDiv">
-                <h4 class="spec-score">Readability Score</h4>
+                <h5 class="spec-score">Readability Score</h5>
                 Score: <span id="readScore"></span>
                 <hr>
             </div>
             {% endif %}
             {% if 'd' in options %}
             <div class="scores" id="semdomScoreDiv">
-                <h4 class="spec-score">Semantic Domain Score</h4>
+                <h5 class="spec-score">Semantic Domain Score</h5>
                 Score: <span id="semdomScore"></span>
                 <hr>
             </div>

@@ -1,0 +1,1 @@
+{"id": 38205, "datetime": "2022-03-02 16:48:31.228352", "matches": [{"source": "hello", "translated": "world", "sim_score": "2.6", "comp_score": 0, "read_score": "-4.0", "semdom_score": 0, "idx": 0, "color": "#f00"}], "options": ["s", "c", "r", "d"], "warning": []}

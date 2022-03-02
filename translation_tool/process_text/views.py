@@ -1,6 +1,6 @@
 ### Imports
 from django.shortcuts import render, redirect
-from django.http import HttpResponse
+from django.http import HttpResponse, JsonResponse
 from django.template import loader
 from colour import Color
 from random import choice, shuffle
@@ -61,16 +61,6 @@ def index(request):
 def login(request):
     context = {}
     return render(request, 'process_text/login.html', context)
-
-# Hash passwords during registration
-# Returns list of integers
-# def hash_pass(password, salt):
-#     key = hashlib.pbkdf2_hmac(
-#         'sha256', 
-#         password.encode('utf-8'), 
-#         salt, 100000)
-
-#     return list(key)
 
 def verify_pass(user, password):
     key = hashlib.pbkdf2_hmac(
@@ -153,7 +143,9 @@ def similarity_score(source, translated):
     while DB.textpair.find_one({'id':ID}) != None:
         ID = random.randint(10000,99999)
     # Tokenize inputs
+    # print(source.shape)
     source_inputs = tokenizer(source, return_tensors="pt", padding=True)
+    # print(source_inputs.shape)
     translated_inputs = tokenizer(translated, return_tensors="pt", padding=True)
     # Convert inputs with LaBSE model
     with no_grad():
@@ -174,7 +166,7 @@ def similarity_score(source, translated):
 def readability_score(text):
     scores = []
     for sent in text:
-        if len(sent) == 0:
+        if len(sent.split()) == 0:
             score = 0
         else:
             score = len(sent.split()) - (len([char for word in sent.split() for char in word])/len(sent.split()))
@@ -256,7 +248,7 @@ def processText(request):
 # TODO: Add progress bars to this page (use AJAX?)
 def processing(request, text_pair, options):
     context = {}
-    return render(request, 'process_text/processing.html', context)
+    return results(request)
 
 # Main grid results page
 # TODO: Add d3 visualizations to each section that was selected
@@ -342,137 +334,43 @@ def aboutsemanticsimilarity(request):
     }
     return render(request, 'process_text/AboutSemanticSimilarity.html', context)   
 
-###########################################################
-### These four views are not being used and can be deleted
-###########################################################
-# def comprehensibility(request):
-#     red = Color("#ff8585")
-#     white = Color("white")
-#     colors = list(red.range_to(white, 3))
-#     random_questions = [
-#         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?',
-#         'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat?',
-#         'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur?',
-#         'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum?'
-#     ]
-#     random_answers = [
-#         'consectetur',
-#         'enim',
-#         'reprehenderit',
-#         'proident'
-#     ]
-#     tp = TextPair.objects.get(pair_id=ID)
-#     t1_sent = tp.text1['sentences']
-#     t2_sent = tp.text2['sentences']
-#     sentences_s = []
-#     sentences_t = []
-#     for text in t1_sent:
-#         sentences_s.append(text['text'])
-#     for text in t2_sent:
-#         sentences_t.append(text['text'])
-#     all_sentences = []
-#     for i in range(len(sentences_s)):
-#         all_sentences.append({
-#             's': sentences_s[i],
-#             't': sentences_t[i],
-#             'color': choice(colors).hex,
-#             'idx': i,
-#         })
+def get_sim_data(request):
+    data = {'data' : [
+        {'score': 2.5},
+        {'score': 2.5},
+        {'score': 2.5},
+        {'score': 2.5},
+        {'score': 3.5},
+        {'score': 3.5},
+        {'score': 3.5},
+        {'score': 3.5},
+        {'score': 3.5},
+        {'score': 3.5},
+        {'score': 3.5},
+        {'score': 3.5},
+        {'score': 3.5},
+        {'score': 4.5},
+        {'score': 4.5},
+        {'score': 4.5},
+        {'score': 4.5},
+        {'score': 1.5},
+        {'score': 1.5},
+        
+    ]}
+    return JsonResponse(data)
 
-#     all_questions = []
-#     for i in range(len(sentences_s)):
-#         questions = []
-#         questions.append({
-#             'question': choice(random_questions),
-#             'answer': choice(random_answers),
-#             'color': choice(colors)
-#         })
-#         all_questions.append(questions)
-#     context = {
-#         'sentences': all_sentences,
-#         'questions': all_questions,
-#         'sidebar': True,
-#     }
-
-#     return render(request, 'process_text/comprehensibility.html', context)
-
-# def readability(request):
-#     red = Color("#ff8585")
-#     green = Color("#87c985")
-#     colors = list(red.range_to(green, 10))
-#     tp = TextPair.objects.get(pair_id=ID)
-#     t1_sent = tp.text1['sentences']
-#     t2_sent = tp.text2['sentences']
-#     sentences_s = []
-#     sentences_t = []
-#     for text in t1_sent:
-#         sentences_s.append(text['text'])
-#     for text in t2_sent:
-#         sentences_t.append(text['text'])
-#     all_sentences = []
-#     for i in range(len(sentences_t)):
-#         all_sentences.append({
-#             's': sentences_t[i],
-#             'color': choice(colors).hex,
-#             'idx': i,
-#         })
-#     context = {
-#         'sentences': all_sentences,
-#         'sidebar': True,
-#     }
-#     return render(request, 'process_text/readability.html', context)
-
-# def semanticdomain(request):
-#     red = Color("#ff8585")
-#     green = Color("#87c985")
-#     colors = list(red.range_to(green, 10))
-#     tp = TextPair.objects.get(pair_id=ID)
-#     t1_sent = tp.text1['sentences']
-#     t2_sent = tp.text2['sentences']
-#     sentences_s = []
-#     sentences_t = []
-#     for text in t1_sent:
-#         sentences_s.append(text['text'])
-#     for text in t2_sent:
-#         sentences_t.append(text['text'])
-#     all_sentences = []
-#     for i in range(len(sentences_t)):
-#         all_sentences.append({
-#             's': sentences_t[i],
-#             'color': choice(colors).hex,
-#             'idx': i,
-#         })
-#     context = {
-#         'sentences': all_sentences,
-#         'sidebar': True,
-#     }
-#     return render(request, 'process_text/semanticdomain.html', context)
-
-# def similarity(request):
-#     red = Color("#ff8585")
-#     green = Color("#87c985")
-#     colors = list(red.range_to(green,10))
-#     tp = TextPair.objects.get(pair_id=ID)
-#     t1_sent = tp.text1['sentences']
-#     t2_sent = tp.text2['sentences']
-#     sentences_s = []
-#     sentences_t = []
-#     for text in t1_sent:
-#         sentences_s.append(text['text'])
-#     for text in t2_sent:
-#         sentences_t.append(text['text'])
-#     all_sentences = []
-#     for i in range(len(sentences_s)):
-#         all_sentences.append({
-#             's' : sentences_s[i],
-#             't' : sentences_t[i],
-#             'color' : choice(colors).hex,
-#             'idx': i,
-#         })
-#     context = {
-#         'sentences': all_sentences,
-#         'sidebar': True,
-#     }
-#     return render(request, 'process_text/similarity.html', context)
-
-###########################################################
+def get_comp_data(request):
+    data = {'data' : [
+        {'score': 3.5},
+        {'score': 4.3},
+        {'score': 2.4},
+        {'score': 1.4},
+        {'score': 1},
+        {'score': 2.1},
+        {'score': 4.2},
+        {'score': 2.4},
+        {'score': 4.2},
+        {'score': 3},
+        {'score': 3.3},
+    ]}
+    return JsonResponse(data)

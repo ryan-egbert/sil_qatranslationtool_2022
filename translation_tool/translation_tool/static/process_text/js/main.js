@@ -1,5 +1,9 @@
 var NUMSINGLE = 0;
 var NUMMULTI = 0;
+// const mongo = require('mongodb');
+// const MongoClient = mongo.MongoClient;
+// const url = 'mongodb://localhost:27017';
+
 // class FileUpload {
 
 //     constructor(input) {
@@ -173,7 +177,7 @@ $(document).ready(function () {
      * Toggle metric buttons on/off
      * depending on which ones are selected
      */
-    $(".icon-btn").on('click', function () {
+    $(".icon-btn").on('click', async function () {
         let metric = $(this).attr('id');
         let inc = 0;
 
@@ -192,18 +196,170 @@ $(document).ready(function () {
             case 'simBtn':
                 NUMMULTI += inc;
                 $("#simScoreDiv").toggleClass('active');
+                $("#viewChartSim").toggleClass('active');
+                var simResponse = await fetch('/index/api/simData');
+                var simData = await simResponse.json();
+                simData = simData.data;
+                var svg = d3.select('#viewChartSimSvg');
+                var margin = {
+                    left: 15, right: 5,
+                    top: 5, bottom: 5
+                };
+                var width = 200;
+                var height = 175;
+                svg = svg.append('g')
+                        .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
+                var x = d3.scaleLinear()
+                    .domain([0,5])
+                    .range([0,width]);
+                svg.append('g')
+                    .attr('transform','translate(0,' + height + ')')
+                    .call(d3.axisBottom(x));
+                var hist = d3.histogram()
+                    .value(d => { return d.score; })
+                    .domain(x.domain())
+                    .thresholds(x.ticks(5));
+                var bins = hist(simData);
+                var y = d3.scaleLinear()
+                    .range([height, 0]);
+                y.domain([0, d3.max(bins, d => { return d.length })]);
+                svg.append('g')
+                    .call(d3.axisLeft(y));
+                svg.selectAll('rect')
+                    .data(bins)
+                    .enter()
+                    .append('rect')
+                        .attr('x', 1)
+                        .attr('transform', d => { return "translate(" + x(d.x0) + "," + y(d.length) + ")"; })
+                        .attr("width", d => { return x(d.x1) - x(d.x0) ; })
+                        .attr("height", d => { return height - y(d.length); })
+                        .style("fill", "#b3edff");
                 break;
             case 'compBtn':
                 NUMMULTI += inc;
                 $("#compScoreDiv").toggleClass('active');
+                $("#viewChartComp").toggleClass('active');
+                var compResponse = await fetch('/index/api/simData');
+                var compData = await compResponse.json();
+                compData = compData.data;
+                var compsvg = d3.select('#viewChartCompSvg');
+                var margin = {
+                    left: 15, right: 5,
+                    top: 5, bottom: 5
+                };
+                var width = 200;
+                var height = 175;
+                compsvg = compsvg.append('g')
+                        .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
+                var x = d3.scaleLinear()
+                    .domain([0,5])
+                    .range([0,width]);
+                compsvg.append('g')
+                    .attr('transform','translate(0,' + height + ')')
+                    .call(d3.axisBottom(x));
+                var hist = d3.histogram()
+                    .value(d => { return d.score; })
+                    .domain(x.domain())
+                    .thresholds(x.ticks(5));
+                var bins = hist(compData);
+                var y = d3.scaleLinear()
+                    .range([height, 0]);
+                y.domain([0, d3.max(bins, d => { return d.length })]);
+                compsvg.append('g')
+                    .call(d3.axisLeft(y));
+                compsvg.selectAll('rect')
+                    .data(bins)
+                    .enter()
+                    .append('rect')
+                        .attr('x', 1)
+                        .attr('transform', d => { return "translate(" + x(d.x0) + "," + y(d.length) + ")"; })
+                        .attr("width", d => { return x(d.x1) - x(d.x0) ; })
+                        .attr("height", d => { return height - y(d.length); })
+                        .style("fill", "#b3edff");
                 break;
             case 'readBtn':
                 NUMSINGLE += inc;
                 $("#readScoreDiv").toggleClass('active');
+                $("#viewChartRead").toggleClass('active');
+                var simResponse = await fetch('/index/api/simData');
+                var simData = await simResponse.json();
+                simData = simData.data;
+                var svg = d3.select('#viewChartReadSvg');
+                var margin = {
+                    left: 15, right: 5,
+                    top: 5, bottom: 5
+                };
+                var width = 200;
+                var height = 175;
+                svg = svg.append('g')
+                        .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
+                var x = d3.scaleLinear()
+                    .domain([0,5])
+                    .range([0,width]);
+                svg.append('g')
+                    .attr('transform','translate(0,' + height + ')')
+                    .call(d3.axisBottom(x));
+                var hist = d3.histogram()
+                    .value(d => { return d.score; })
+                    .domain(x.domain())
+                    .thresholds(x.ticks(5));
+                var bins = hist(simData);
+                var y = d3.scaleLinear()
+                    .range([height, 0]);
+                y.domain([0, d3.max(bins, d => { return d.length })]);
+                svg.append('g')
+                    .call(d3.axisLeft(y));
+                svg.selectAll('rect')
+                    .data(bins)
+                    .enter()
+                    .append('rect')
+                        .attr('x', 1)
+                        .attr('transform', d => { return "translate(" + x(d.x0) + "," + y(d.length) + ")"; })
+                        .attr("width", d => { return x(d.x1) - x(d.x0) ; })
+                        .attr("height", d => { return height - y(d.length); })
+                        .style("fill", "#b3edff");
                 break;
             case 'semdomBtn':
                 NUMSINGLE += inc;
                 $("#semdomScoreDiv").toggleClass('active');
+                $("#viewChartSemdom").toggleClass('active');
+                var simResponse = await fetch('/index/api/simData');
+                var simData = await simResponse.json();
+                simData = simData.data;
+                var svg = d3.select('#viewChartSemdomSvg');
+                var margin = {
+                    left: 15, right: 5,
+                    top: 5, bottom: 5
+                };
+                var width = 200;
+                var height = 175;
+                svg = svg.append('g')
+                        .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
+                var x = d3.scaleLinear()
+                    .domain([0,5])
+                    .range([0,width]);
+                svg.append('g')
+                    .attr('transform','translate(0,' + height + ')')
+                    .call(d3.axisBottom(x));
+                var hist = d3.histogram()
+                    .value(d => { return d.score; })
+                    .domain(x.domain())
+                    .thresholds(x.ticks(5));
+                var bins = hist(simData);
+                var y = d3.scaleLinear()
+                    .range([height, 0]);
+                y.domain([0, d3.max(bins, d => { return d.length })]);
+                svg.append('g')
+                    .call(d3.axisLeft(y));
+                svg.selectAll('rect')
+                    .data(bins)
+                    .enter()
+                    .append('rect')
+                        .attr('x', 1)
+                        .attr('transform', d => { return "translate(" + x(d.x0) + "," + y(d.length) + ")"; })
+                        .attr("width", d => { return x(d.x1) - x(d.x0) ; })
+                        .attr("height", d => { return height - y(d.length); })
+                        .style("fill", "#b3edff");
                 break;
             default:
                 console.log("Unrecognized button id.")
@@ -218,5 +374,102 @@ $(document).ready(function () {
         }
 
     });
+
+    $('#overviewData').on('click', async function() {
+        console.log('clicked')
+        let simResponse = await fetch('/index/api/simData');
+        let simData = await simResponse.json();
+        simData = simData.data;
+        let compResponse = await fetch('/index/api/compData');
+        let compData = await compResponse.json();
+        compData = compData.data;
+        console.log(simData)
+        $("#results-results").toggleClass('active');
+        $("#results-processing").toggleClass('active');
+        let margin = {
+            left: 10, right: 10,
+            top: 10, bottom: 10
+        };
+        let width = 475;
+        let height = 200;
+
+        /**
+         * Similarity Histogram
+         */
+        let svg = d3.select('#resultsBodySim')
+
+        svg = svg.append('g')
+                .attr('translform', 'translate(' + margin.left + ',' + margin.top + ')');
+
+        let x = d3.scaleLinear()
+            .domain([0,5])
+            .range([0,width]);
+        svg.append('g')
+            .attr('transform','translate(0,' + height + ')')
+            .call(d3.axisBottom(x));
+
+        let hist = d3.histogram()
+            .value(d => { return d.score; })
+            .domain(x.domain())
+            .thresholds(x.ticks(5));
+
+        let bins = hist(simData);
+
+        let y = d3.scaleLinear()
+            .range([height, 0]);
+        y.domain([0, d3.max(bins, d => { return d.length })]);
+
+        svg.append('g')
+            .call(d3.axisLeft(y));
+        
+        svg.selectAll('rect')
+            .data(bins)
+            .enter()
+            .append('rect')
+                .attr('x', 1)
+                .attr('transform', d => { return "translate(" + x(d.x0) + "," + y(d.length) + ")"; })
+                .attr("width", d => { return x(d.x1) - x(d.x0) ; })
+                .attr("height", d => { return height - y(d.length); })
+                .style("fill", "#69b3a2");
+
+        /**
+         * Comprehensibility Histogram
+         */
+        svg = d3.select('#resultsBodyComp')
+
+        svg = svg.append('g')
+                .attr('translform', 'translate(' + margin.left + ',' + margin.top + ')');
+
+        // let x = d3.scaleLinear()
+        //     .domain([0,5])
+        //     .range([0,width]);
+        svg.append('g')
+            .attr('transform','translate(0,' + height + ')')
+            .call(d3.axisBottom(x));
+
+        hist = d3.histogram()
+            .value(d => { return d.score; })
+            .domain(x.domain())
+            .thresholds(x.ticks(5));
+
+        bins = hist(compData);
+
+        y = d3.scaleLinear()
+            .range([height, 0]);
+        y.domain([0, d3.max(bins, d => { return d.length })]);
+
+        svg.append('g')
+            .call(d3.axisLeft(y));
+        
+        svg.selectAll('rect')
+            .data(bins)
+            .enter()
+            .append('rect')
+                .attr('x', 1)
+                .attr('transform', d => { return "translate(" + x(d.x0) + "," + y(d.length) + ")"; })
+                .attr("width", d => { return x(d.x1) - x(d.x0) ; })
+                .attr("height", d => { return height - y(d.length); })
+                .style("fill", "#69b3a2");
+    })
 
 });

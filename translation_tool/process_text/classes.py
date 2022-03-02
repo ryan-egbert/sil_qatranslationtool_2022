@@ -23,11 +23,18 @@ class TextPair:
             warn.append("Source text and translated text have different lengths.")
             warnings.warn("Source text and translated text have different lengths.")
         for idx in range(len(self._source)):
-            color = "#fff"
+            simcolor = "#fff"
+            compcolor = "#fff"
+            readcolor = "#fff"
+            semdomcolor = "#fff"
             if self._sim_scores[idx] < 3.7:
-                color = "#f00"
+                simcolor = "#f00"
             elif self._sim_scores[idx] < 4.3:
-                color = "#ffe587"
+                simcolor = "#ffe587"
+            if self._read_scores[idx] < 8:
+                readcolor = "#f00"
+            elif self._read_scores[idx] < 15:
+                readcolor = "#ffe587"
             matches.append({
                 'source': self._source[idx],
                 'translated': self._translated[idx],
@@ -36,7 +43,10 @@ class TextPair:
                 'read_score': str(round(self._read_scores[idx],2)),
                 'semdom_score': 0,
                 'idx': idx,
-                'color': color,
+                'simcolor': simcolor,
+                'compcolor': compcolor,
+                'readcolor': readcolor,
+                'semdomcolor': semdomcolor,
             })
 
         return {
