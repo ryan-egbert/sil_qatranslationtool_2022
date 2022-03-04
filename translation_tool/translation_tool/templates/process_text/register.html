@@ -16,7 +16,7 @@
                 {{ warn }}
             </div>
             {% endif%}
-        <h5 class="card-title ">Type in your credentials!</h5>
+        <h5 class="card-title ">Enter your credentials</h5>
     <form action="{% url 'process_registration' %}" method="POST">
         {% csrf_token %}
         <div class="row">
@@ -29,10 +29,26 @@
         </div>
         <div class="row">
             <div class="col">
-                <label class="float-right" for="full_name">Full Name:</label>
+                <label class="float-right" for="email">Email Address:</label>
             </div>
             <div class="col">
-                <input name="fullname" type="text" id="full_name" placeholder="Your full name">
+                <input name="email" type="text" id="email" placeholder="example@sil.org">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <label class="float-right" for="first_name">First Name:</label>
+            </div>
+            <div class="col">
+                <input name="firstname" type="text" id="first_name" placeholder="First Name">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <label class="float-right" for="last_name">Last Name:</label>
+            </div>
+            <div class="col">
+                <input name="lastname" type="text" id="last_name" placeholder="Last Name">
             </div>
         </div>
         <div class="row">

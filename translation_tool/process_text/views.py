@@ -1,4 +1,6 @@
 ### Imports
+from django.contrib.auth.models import User
+from django.contrib.auth import authenticate, login, logout 
 from django.shortcuts import render, redirect
 from django.http import HttpResponse, JsonResponse
 from django.template import loader
@@ -6,7 +8,7 @@ from colour import Color
 from random import choice, shuffle
 import warnings
 # from .models import TextPair, User
-from .classes import TextPair, User
+from .classes import TextPair, UserMongo
 import csv
 import io
 import os
@@ -19,34 +21,12 @@ DB = client.translation_tool
 CUR_USER = None
 from torch import no_grad, matmul
 import torch.nn.functional as F
-# import pickle as pck
 from transformers import BertModel, BertTokenizerFast
-# with open('model.pck', 'rb') as f:
-#     model = pck.load(f)
-# with open('tokenizer.pck', 'rb') as f:
-#     tokenizer = pck.load(f)
 
 ### Load similarity model (LaBSE)
-tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
-model = BertModel.from_pretrained("setu4993/LaBSE")
-model = model.eval()
-
-### Read in dummy csv
-# reader = csv.reader(open('/Users/ryanegbert/Desktop/spring22/ip/app/covid_files/csv/test_file.csv', 'r'))
-# first_row = True
-# langs = []
-# source_text = []
-# translated_text = []
-# for row in reader:
-#     if first_row:
-#         langs = row
-#         first_row = False
-#         continue
-#     source_text.append(row[0])
-#     translated_text.append(row[1])
-ID = random.randint(10000,99999)
-# TP = TextPairClass(source_text, translated_text, _id=-1)
-
+# tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
+# model = BertModel.from_pretrained("setu4993/LaBSE")
+# model = model.eval()
 
 # Index page (this is not used, can be deleted)
 def index(request):
@@ -58,40 +38,26 @@ def index(request):
     return render(request, 'process_text/index.html', context)
 
 # Login page
-def login(request):
+def login_view(request):
     context = {}
     return render(request, 'process_text/login.html', context)
-
-def verify_pass(user, password):
-    key = hashlib.pbkdf2_hmac(
-        'sha256',
-        password.encode('utf-8'),
-        user['salt'], 100000
-    )
-
-    return user['salt'] + key == user['password']
 
 # Process login request
 # TODO: Redirects to upload page if authentication succeeds
 def process_login(request):
-    global CUR_USER
     username = request.GET['username']
     password = request.GET['password']
-    col = DB.user
-    user = col.find_one({'username':username})
-    if user != None:
-        CUR_USER = user
-        # user_pass = user.password.split(' ')
-        # user_pass_int = [int(i) for i in user_pass]
-        # user_salt = user.salt.split(' ')
-        # user_salt_bytes = bytes([int(i) for i in user_salt])
+    user = authenticate(request, username=username, password=password)
+    if user is not None:
+        login(request, user)
+        return redirect('upload')
+    else:
+        return redirect('loginuser')
 
-        # key = hash_pass(password, user_salt_bytes)
-    
-        if verify_pass(user, password):
-            return redirect('upload')
-        else:
-            return redirect('loginuser')
+def process_logout(request):
+    if request.user.is_authenticated:
+        logout(request)
+    return redirect('upload')
 
 # Register page
 def register(request):
@@ -104,12 +70,17 @@ def process_registration(request):
     if request.method == 'POST':
         col = DB.user
         username = request.POST['username']
-        full_name = request.POST['fullname']
+        email = request.POST['email']
+        first_name = request.POST['firstname']
+        last_name = request.POST['lastname']
         password = request.POST['password']
         user = col.find_one({'username':username})
         if user == None:
-            user = User(username, password)
-            col.insert_one(user.dict)
+            user = User.objects.create_user(username=username, email=email, password=password, first_name=first_name, last_name=last_name)
+            user.save()
+            userMongo = UserMongo(username, password, email, first_name, last_name)
+            col.insert_one(userMongo.dict)
+            login(request, user)
         else:
             warnings.warn("User " + username + " already exists. Please choose a different username.")
             context = {
@@ -117,23 +88,22 @@ def process_registration(request):
             }
             return render(request, 'process_text/register.html', context)
 
-        # salt = os.urandom(32)
-        # key = hash_pass(password, salt)
-        # salt_list = list(salt)
-
-        # user = User()
-        # user.username = username
-        # salt_list_str = [str(i) for i in salt_list]
-        # key_str = [str(i) for i in key]
-        # user.password = ' '.join(salt_list_str + key_str)
-        # user.salt = ' '.join(salt_list_str)
-        # user.save()
-
     return redirect('upload')
+
+def account_settings(request):
+    context = {}
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        context['cur_user'] = user
+    return render(request, 'process_text/account_settings.html', context)
 
 # Upload page
 def upload(request):
-    context = {'cur_user': CUR_USER,}
+    global DB
+    context = {}
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        context['cur_user'] = user
     return render(request, 'process_text/upload.html', context)
 
 # Compute similarity score between two embedded outputs

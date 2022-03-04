@@ -57,17 +57,23 @@ class TextPair:
             'warning': warn
         }
 
-class User:
-    def __init__(self, username, password):
+class UserMongo:
+    def __init__(self, username, password, email, first_name, last_name):
         self._username = username
         self._salt = os.urandom(32)
         self._password = self.hash(password)
+        self._first_name = first_name
+        self._last_name = last_name
+        self._email = email
         self._translations = []
         self.dict = {
             'username': self._username,
             'salt': self._salt,
             'password': self._password,
-            'translations': self._translations
+            'translations': self._translations,
+            'fname': self._first_name,
+            'lname': self._last_name,
+            'email': self._email
         }
     
     def hash(self, password):
