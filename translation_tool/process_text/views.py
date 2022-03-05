@@ -24,18 +24,19 @@ import torch.nn.functional as F
 from transformers import BertModel, BertTokenizerFast
 
 ### Load similarity model (LaBSE)
-# tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
-# model = BertModel.from_pretrained("setu4993/LaBSE")
-# model = model.eval()
+tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
+model = BertModel.from_pretrained("setu4993/LaBSE")
+model = model.eval()
 
-# Index page (this is not used, can be deleted)
-def index(request):
-    context = {
-        'cur_user': CUR_USER,
-        'source_txt': 'This is source text',
-        'trans_txt': 'This is translated text'
-    }
-    return render(request, 'process_text/index.html', context)
+# Home page
+def home(request):
+    global DB
+    context = {}
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        context['cur_user'] = user
+    
+    return render(request, 'process_text/home.html', context)
 
 # Login page
 def login_view(request):
@@ -50,14 +51,14 @@ def process_login(request):
     user = authenticate(request, username=username, password=password)
     if user is not None:
         login(request, user)
-        return redirect('upload')
+        return redirect('home')
     else:
         return redirect('loginuser')
 
 def process_logout(request):
     if request.user.is_authenticated:
         logout(request)
-    return redirect('upload')
+    return redirect('home')
 
 # Register page
 def register(request):
@@ -88,7 +89,7 @@ def process_registration(request):
             }
             return render(request, 'process_text/register.html', context)
 
-    return redirect('upload')
+    return redirect('home')
 
 def account_settings(request):
     context = {}
@@ -205,6 +206,8 @@ def processText(request):
         sim_scores = similarity_score(source_text, translated_text)
         read_scores = readability_score(translated_text)
         # scores = [0.1] * len(source_text)
+
+        ID = random.randint(10000,99999)
 
         text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, options=options_, _id=ID)
         col = DB.textpair

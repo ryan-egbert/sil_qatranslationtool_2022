@@ -112,13 +112,19 @@ $(document).ready(function () {
     $('#sidebarCollapse').on('click', function () {
         $('#sidebar').toggleClass('active');
         console.log('document ready')
-        if ($("#toggleSidebar").hasClass("fa-arrow-left")) {
-            $("#toggleSidebar").removeClass("fa-arrow-left");
-            $("#toggleSidebar").addClass("fa-arrow-right");
-        }
-        else {
-            $("#toggleSidebar").removeClass("fa-arrow-right");
-            $("#toggleSidebar").addClass("fa-arrow-left");
+        // if ($("#toggleSidebar").hasClass("fa-arrow-left")) {
+        //     $("#toggleSidebar").removeClass("fa-arrow-left");
+        //     $("#toggleSidebar").addClass("fa-arrow-right");
+        // }
+        // else {
+        //     $("#toggleSidebar").removeClass("fa-arrow-right");
+        //     $("#toggleSidebar").addClass("fa-arrow-left");
+        // }
+    });
+
+    $('.account-dropdown').on({
+        "click":function(e){
+          e.stopPropagation();
         }
     });
 

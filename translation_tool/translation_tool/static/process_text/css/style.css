@@ -487,3 +487,23 @@ div.view-chart.active {
     text-align: center; 
     background-color: #bedeff
 }
+
+.info-box {
+    background-color: #005CB9;
+    color: white;
+    padding: 3rem 2rem;
+    border-radius: 0.3rem;
+}
+
+.jumbotron {
+    margin-top: 20px;
+}
+
+.btn-primary {
+    background-color: #00a7e1;
+    border-color: #00a7e1;
+}
+.btn-primary:hover {
+    background-color: #005CB9;
+    border-color: #005CB9;
+}
