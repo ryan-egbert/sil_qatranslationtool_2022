@@ -21,6 +21,7 @@ from torch import no_grad, matmul
 import torch.nn.functional as F
 # import pickle as pck
 from transformers import BertModel, BertTokenizerFast
+from transformers.pipelines import pipeline
 # with open('model.pck', 'rb') as f:
 #     model = pck.load(f)
 # with open('tokenizer.pck', 'rb') as f:
@@ -170,6 +171,19 @@ def similarity_score(source, translated):
     mat = matmul(normalized_embeddings_s, normalized_embeddings_t.transpose(0, 1))
     return (5 * mat.diagonal()).tolist()
 
+def comprehensibility_score(translated,question):
+    req_model = "mrm8488/bert-multi-cased-finetuned-xquadv1"
+    req_tokenizer = "mrm8488/bert-multi-cased-finetuned-xquadv1"
+    hg_comp = pipeline('question-answering', model=req_model, tokenizer=req_tokenizer)
+
+    question = question
+    context = translated
+
+    # compute answer
+    answer = hg_comp({'question': question, 'context': context})
+    return (answer['answer'],answer['score'])
+
+
 # Using Flesch–Kincaid readability tests
 def readability_score(text):
     scores = []
@@ -232,6 +246,7 @@ def processText(request):
             sim_check = 's'
         if 'comp-check' in request.POST:
             comp_check = 'c'
+            question = request.POST['question'].split('\n')
         if 'read-check' in request.POST:
             read_check = 'r'
         if 'semdom-check' in request.POST:
@@ -242,6 +257,8 @@ def processText(request):
         # TODO: Get id of translation
         sim_scores = similarity_score(source_text, translated_text)
         read_scores = readability_score(translated_text)
+        comprehensibility_answer = comprehensibility_score(translated_text, question)[0]
+        comprehensibility_score = comprehensibility_score(translated_text, question)[1]
         # scores = [0.1] * len(source_text)
 
         text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, options=options_, _id=ID)
