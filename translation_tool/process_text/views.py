@@ -247,6 +247,9 @@ def processText(request):
         if 'comp-check' in request.POST:
             comp_check = 'c'
             question = request.POST['question'].split('\n')
+            comprehensibility_answer = comprehensibility_score(translated_text, question)[0]
+            comprehensibility_scores = comprehensibility_score(translated_text, question)[1]
+
         if 'read-check' in request.POST:
             read_check = 'r'
         if 'semdom-check' in request.POST:
@@ -257,15 +260,14 @@ def processText(request):
         # TODO: Get id of translation
         sim_scores = similarity_score(source_text, translated_text)
         read_scores = readability_score(translated_text)
-        comprehensibility_answer = comprehensibility_score(translated_text, question)[0]
-        comprehensibility_score = comprehensibility_score(translated_text, question)[1]
+
         # scores = [0.1] * len(source_text)
 
         text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, options=options_, _id=ID)
         col = DB.textpair
-        # col.insert_one(text_pair.dict)
-        with open("./json/" + str(ID) + ".json", 'w') as f:
-            json.dump(text_pair.dict, f)
+        col.insert_one(text_pair.dict)
+        # with open("./json/" + str(ID) + ".json", 'w') as f:
+        #     json.dump(text_pair.dict, f)
 
     return processing(request, text_pair, None)
 
@@ -289,9 +291,9 @@ def results(request):
 def metric_view(request):
     # Get (or create) text pair
     col = DB.textpair
-    # tp = col.find_one({'id':ID})
-    with open("./json/" + str(ID) + ".json", 'r') as f:
-        tp = json.load(f)
+    tp = col.find_one({'id':ID})
+    # with open("./json/" + str(ID) + ".json", 'r') as f:
+    #     tp = json.load(f)
     # print(tp['options'])
     
     # Determine sentence groups and scores
