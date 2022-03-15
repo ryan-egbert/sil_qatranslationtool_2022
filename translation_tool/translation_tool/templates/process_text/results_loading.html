@@ -1,0 +1,21 @@
+{% extends 'process_text/base.html' %}
+
+{% block body_content %}
+<div class="container">
+    <div id="results-processing" class="results active">
+        <h1 class="header-center">Text is processing...</h1>
+        <div class="row">
+            <div class="col header-center">
+                <!-- <form action="{% url 'results' %}"> -->
+                    <button id="overviewData" class="btn btn-primary btn-lg disabled">Overview</button>
+                <!-- </form> -->
+            </div>
+            <div class="col header-center">
+                <!-- <form action="{% url 'view' %}"> -->
+                    <button id="metricData" class="btn btn-primary btn-lg disabled">Specifics</button>
+                <!-- </form> -->
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

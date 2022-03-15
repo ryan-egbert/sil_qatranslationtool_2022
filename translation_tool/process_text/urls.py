@@ -13,7 +13,7 @@ urlpatterns = [
     path('upload/text/', views.processText, name='processText'),
     path('upload/file/', views.processFile, name='processFile'),
     path('results/', views.results, name='results'),
-    path('results/view/', views.metric_view, name='view'),
+    # path('results/view/', views.metric_view, name='view'),
     # path('upload/processing/', views.processing, name='processing'),
     path('about/comprehensibility/', views.aboutcomprehensibility, name='aboutcomprehensibility'),
     path('about/readability/', views.aboutreadability, name='aboutreadability'),
@@ -21,5 +21,7 @@ urlpatterns = [
     path('about/similarity/', views.aboutsemanticsimilarity, name='aboutsemanticsimilarity'),
     path('api/simData/', views.get_sim_data, name='simData'),
     path('api/compData/', views.get_comp_data, name='compData'),
+    path('api/readData/', views.get_read_data, name='readData'),
+    path('api/semdomData/', views.get_semdom_data, name='semdomData'),
 ]
  

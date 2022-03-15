@@ -507,3 +507,14 @@ div.view-chart.active {
     background-color: #005CB9;
     border-color: #005CB9;
 }
+
+.margin-left-10 {
+    margin-left: 10;
+}
+
+rect.sim-rect {
+    fill: #00a7e1;
+}
+rect.sim-rect.selected {
+    fill: #005CB9;
+}

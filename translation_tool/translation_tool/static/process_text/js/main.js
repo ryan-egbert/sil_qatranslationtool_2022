@@ -1,5 +1,15 @@
 var NUMSINGLE = 0;
 var NUMMULTI = 0;
+
+function minData(arr) {
+    let data = arr.data;
+    return Math.min(data);
+}
+
+function maxData(arr) {
+    let data = arr.data;
+    return Math.max(data);
+}
 // const mongo = require('mongodb');
 // const MongoClient = mongo.MongoClient;
 // const url = 'mongodb://localhost:27017';
@@ -105,21 +115,11 @@ var NUMMULTI = 0;
 
 
 $(document).ready(function () {
-
     /**
      * Sidebar collapse functionality
      */
     $('#sidebarCollapse').on('click', function () {
         $('#sidebar').toggleClass('active');
-        console.log('document ready')
-        // if ($("#toggleSidebar").hasClass("fa-arrow-left")) {
-        //     $("#toggleSidebar").removeClass("fa-arrow-left");
-        //     $("#toggleSidebar").addClass("fa-arrow-right");
-        // }
-        // else {
-        //     $("#toggleSidebar").removeClass("fa-arrow-right");
-        //     $("#toggleSidebar").addClass("fa-arrow-left");
-        // }
     });
 
     $('.account-dropdown').on({
@@ -127,13 +127,6 @@ $(document).ready(function () {
           e.stopPropagation();
         }
     });
-
-    // $('#submit').on('click', (event) => {
-    //     event.preventDefault();
-    //     var uploader = new FileUpload(document.querySelector('#fileupload'))
-    //     console.log(document.querySelector('#fileupload'));
-    //     uploader.upload();
-    // });
 
     /**
      * Mouseover, mouseout, and click events for sentences
@@ -220,11 +213,11 @@ $(document).ready(function () {
                     .range([0,width]);
                 svg.append('g')
                     .attr('transform','translate(0,' + height + ')')
-                    .call(d3.axisBottom(x));
+                    .call(d3.axisBottom(x).ticks(5));
                 var hist = d3.histogram()
-                    .value(d => { return d.score; })
+                    .value(d => { return d; })
                     .domain(x.domain())
-                    .thresholds(x.ticks(5));
+                    .thresholds(x.ticks(10));
                 var bins = hist(simData);
                 var y = d3.scaleLinear()
                     .range([height, 0]);
@@ -236,16 +229,27 @@ $(document).ready(function () {
                     .enter()
                     .append('rect')
                         .attr('x', 1)
-                        .attr('transform', d => { return "translate(" + x(d.x0) + "," + y(d.length) + ")"; })
-                        .attr("width", d => { return x(d.x1) - x(d.x0) ; })
+                        .attr('transform', d => { return "translate(" + (x(d.x0) + 2) + "," + (y(d.length) - 1) + ")"; })
+                        .attr("width", d => { return x(d.x1) - x(d.x0) - 4 ; })
                         .attr("height", d => { return height - y(d.length); })
-                        .style("fill", "#b3edff");
+                        .attr('class', 'sim-rect')
+                        // .style("fill", "#b3edff")
+                        .on('click', function() {
+                            if (d3.select(this).classed('selected')) {
+                                console.log('remove')
+                                d3.select(this).classed('selected', false);
+                            }
+                            else {
+                                // d3.select('rect.sim-rect').classed('selected', null);
+                                d3.select(this).classed('selected', true);
+                            }
+                        })
                 break;
             case 'compBtn':
                 NUMMULTI += inc;
                 $("#compScoreDiv").toggleClass('active');
                 $("#viewChartComp").toggleClass('active');
-                var compResponse = await fetch('/index/api/simData');
+                var compResponse = await fetch('/index/api/compData');
                 var compData = await compResponse.json();
                 compData = compData.data;
                 var compsvg = d3.select('#viewChartCompSvg');
@@ -262,11 +266,11 @@ $(document).ready(function () {
                     .range([0,width]);
                 compsvg.append('g')
                     .attr('transform','translate(0,' + height + ')')
-                    .call(d3.axisBottom(x));
+                    .call(d3.axisBottom(x).ticks(5));
                 var hist = d3.histogram()
-                    .value(d => { return d.score; })
+                    .value(d => { return d; })
                     .domain(x.domain())
-                    .thresholds(x.ticks(5));
+                    .thresholds(x.ticks(10));
                 var bins = hist(compData);
                 var y = d3.scaleLinear()
                     .range([height, 0]);
@@ -278,7 +282,7 @@ $(document).ready(function () {
                     .enter()
                     .append('rect')
                         .attr('x', 1)
-                        .attr('transform', d => { return "translate(" + x(d.x0) + "," + y(d.length) + ")"; })
+                        .attr('transform', d => { return "translate(" + x(d.x0) + "," + (y(d.length) - 1) + ")"; })
                         .attr("width", d => { return x(d.x1) - x(d.x0) ; })
                         .attr("height", d => { return height - y(d.length); })
                         .style("fill", "#b3edff");
@@ -287,9 +291,9 @@ $(document).ready(function () {
                 NUMSINGLE += inc;
                 $("#readScoreDiv").toggleClass('active');
                 $("#viewChartRead").toggleClass('active');
-                var simResponse = await fetch('/index/api/simData');
-                var simData = await simResponse.json();
-                simData = simData.data;
+                var readResponse = await fetch('/index/api/readData');
+                var readData = await readResponse.json();
+                readData = readData.data;
                 var svg = d3.select('#viewChartReadSvg');
                 var margin = {
                     left: 15, right: 5,
@@ -300,16 +304,16 @@ $(document).ready(function () {
                 svg = svg.append('g')
                         .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
                 var x = d3.scaleLinear()
-                    .domain([0,5])
+                    .domain([Math.floor(Math.min(...readData)),Math.ceil(Math.max(...readData))])
                     .range([0,width]);
                 svg.append('g')
                     .attr('transform','translate(0,' + height + ')')
-                    .call(d3.axisBottom(x));
+                    .call(d3.axisBottom(x).ticks(5));
                 var hist = d3.histogram()
-                    .value(d => { return d.score; })
+                    .value(d => { return d; })
                     .domain(x.domain())
-                    .thresholds(x.ticks(5));
-                var bins = hist(simData);
+                    .thresholds(x.ticks(10));
+                var bins = hist(readData);
                 var y = d3.scaleLinear()
                     .range([height, 0]);
                 y.domain([0, d3.max(bins, d => { return d.length })]);
@@ -320,18 +324,28 @@ $(document).ready(function () {
                     .enter()
                     .append('rect')
                         .attr('x', 1)
-                        .attr('transform', d => { return "translate(" + x(d.x0) + "," + y(d.length) + ")"; })
-                        .attr("width", d => { return x(d.x1) - x(d.x0) ; })
+                        .attr('transform', d => { return "translate(" + (x(d.x0) + 2) + "," + (y(d.length) - 1) + ")"; })
+                        .attr("width", d => { return x(d.x1) - x(d.x0) - 4 ; })
                         .attr("height", d => { return height - y(d.length); })
-                        .style("fill", "#b3edff");
+                        .attr('class', 'sim-rect')
+                        .on('click', function() {
+                            if (d3.select(this).classed('selected')) {
+                                console.log('remove')
+                                d3.select(this).classed('selected', false);
+                            }
+                            else {
+                                // d3.select('rect.sim-rect').classed('selected', null);
+                                d3.select(this).classed('selected', true);
+                            }
+                        })
                 break;
             case 'semdomBtn':
                 NUMSINGLE += inc;
                 $("#semdomScoreDiv").toggleClass('active');
                 $("#viewChartSemdom").toggleClass('active');
-                var simResponse = await fetch('/index/api/simData');
-                var simData = await simResponse.json();
-                simData = simData.data;
+                var semdomResponse = await fetch('/index/api/semdomData');
+                var semdomData = await semdomResponse.json();
+                semdomData = semdomData.data;
                 var svg = d3.select('#viewChartSemdomSvg');
                 var margin = {
                     left: 15, right: 5,
@@ -348,10 +362,10 @@ $(document).ready(function () {
                     .attr('transform','translate(0,' + height + ')')
                     .call(d3.axisBottom(x));
                 var hist = d3.histogram()
-                    .value(d => { return d.score; })
+                    .value(d => { return d; })
                     .domain(x.domain())
                     .thresholds(x.ticks(5));
-                var bins = hist(simData);
+                var bins = hist(semdomData);
                 var y = d3.scaleLinear()
                     .range([height, 0]);
                 y.domain([0, d3.max(bins, d => { return d.length })]);
@@ -362,7 +376,7 @@ $(document).ready(function () {
                     .enter()
                     .append('rect')
                         .attr('x', 1)
-                        .attr('transform', d => { return "translate(" + x(d.x0) + "," + y(d.length) + ")"; })
+                        .attr('transform', d => { return "translate(" + x(d.x0) + "," + (y(d.length) - 1) + ")"; })
                         .attr("width", d => { return x(d.x1) - x(d.x0) ; })
                         .attr("height", d => { return height - y(d.length); })
                         .style("fill", "#b3edff");
@@ -381,6 +395,18 @@ $(document).ready(function () {
 
     });
 
+    $('#toMetricView').on('click', function() {
+        console.log('clicked');
+        $("#results-results").toggleClass('active');
+        $("#results-metrics").toggleClass('active');
+    });
+
+    $('#metricData').on('click', function() {
+        console.log('clicked');
+        $("#results-metrics").toggleClass('active');
+        $("#results-processing").toggleClass('active');
+    });
+
     $('#overviewData').on('click', async function() {
         console.log('clicked')
         let simResponse = await fetch('/index/api/simData');
@@ -389,6 +415,12 @@ $(document).ready(function () {
         let compResponse = await fetch('/index/api/compData');
         let compData = await compResponse.json();
         compData = compData.data;
+        let readResponse = await fetch('/index/api/readData');
+        let readData = await readResponse.json();
+        readData = readData.data;
+        let semdomResponse = await fetch('/index/api/semdomData');
+        let semdomData = await semdomResponse.json();
+        semdomData = semdomData.data;
         console.log(simData)
         $("#results-results").toggleClass('active');
         $("#results-processing").toggleClass('active');
@@ -415,7 +447,7 @@ $(document).ready(function () {
             .call(d3.axisBottom(x));
 
         let hist = d3.histogram()
-            .value(d => { return d.score; })
+            .value(d => { return d; })
             .domain(x.domain())
             .thresholds(x.ticks(5));
 
@@ -454,7 +486,7 @@ $(document).ready(function () {
             .call(d3.axisBottom(x));
 
         hist = d3.histogram()
-            .value(d => { return d.score; })
+            .value(d => { return d; })
             .domain(x.domain())
             .thresholds(x.ticks(5));
 
@@ -479,3 +511,4 @@ $(document).ready(function () {
     })
 
 });
+

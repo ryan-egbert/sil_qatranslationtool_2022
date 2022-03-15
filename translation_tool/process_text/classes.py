@@ -4,7 +4,7 @@ import hashlib
 import os
 
 class TextPair:
-    def __init__(self, source_list, translated_list, sim_scores, read_scores, _id=-1, options=['s','c','r','d'], source_lang=None, translated_lang=None):
+    def __init__(self, source_list, translated_list, sim_scores, read_scores, _id=-1, options=['s','c','r','d'], user=None, source_lang=None, translated_lang=None):
         self._id = _id
         self._datetime = datetime.now()
         self._source = source_list
@@ -12,6 +12,7 @@ class TextPair:
         self._sim_scores = sim_scores
         self._read_scores = read_scores
         self._options = options
+        self._user = user
         print(read_scores)
 
         self.dict = self.organize()
@@ -54,7 +55,8 @@ class TextPair:
             'datetime': str(self._datetime),
             'matches': matches,
             'options': self._options,
-            'warning': warn
+            'warning': warn,
+            'user': self._user['username'],
         }
 
 class UserMongo:
