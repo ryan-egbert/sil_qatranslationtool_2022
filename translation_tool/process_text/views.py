@@ -135,17 +135,22 @@ def similarity_score(source, translated):
     mat = matmul(normalized_embeddings_s, normalized_embeddings_t.transpose(0, 1))
     return (5 * mat.diagonal()).tolist()
 
-def comprehensibility_score(translated,question):
+def comprehensibility_score(questions):
     req_model = "mrm8488/bert-multi-cased-finetuned-xquadv1"
     req_tokenizer = "mrm8488/bert-multi-cased-finetuned-xquadv1"
     hg_comp = pipeline('question-answering', model=req_model, tokenizer=req_tokenizer)
 
-    question = question
-    context = translated
+    result = []
+    for question in questions:
+        if question[0]['question'] == None:
+            result.append(None)
+        else:
+            answer = hg_comp(question[0])
+            correct = True if answer['score'] > 0.7 else False
+            result.append({'question': question[0]['question'], 'answer': answer, 'expected': question[1], 'correct': correct})
 
     # compute answer
-    answer = hg_comp({'question': question, 'context': context})
-    return (answer['answer'],answer['score'])
+    return result
 
 
 # Using Flesch–Kincaid readability tests
@@ -160,18 +165,12 @@ def readability_score(text):
             # score = char_per_word / words_in_sent
             score = char_per_word
         scores.append(score)
-    # num_sent = len(text)
-    # num_words = len([word for sent in text for word in sent.split()])
-    # num_char = len([char for sent in text for word in sent.split() for char in word])
-    # return (num_words/num_sent) - (num_char/num_words)
+
     return scores
 
 # Process file upload
 # TODO: Add similarity score implementation
 def processFile(request):
-    # global TP
-    global ID
-    # global model
     global DB
     if request.method == 'POST':
         if request.user.is_authenticated:
@@ -192,13 +191,14 @@ def processFile(request):
                     translated_text.append(row['translated'])
                     questions.append(({
                         'context': row['translated'],
-                        'question': row['question']
-                    }, row['answer']))
+                        'question': row['question'] if row['question'] != '' else None
+                    }, row['answer'] if row['answer'] != '' else None))
 
             sim_scores = similarity_score(source_text, translated_text)
             read_scores = readability_score(translated_text)
+            comp_scores = comprehensibility_score(questions)
             ID = random.randint(10000,99999)
-            text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, user=user, _id=ID)
+            text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, comp_scores=comp_scores, user=user, _id=ID)
             col = DB.textpair
             
             result = col.insert_one(text_pair.dict)
@@ -218,35 +218,32 @@ def processFile(request):
 def processText(request):
     global DB
     if request.method == "POST":
-# <<<<<<< HEAD
         if request.user.is_authenticated:
             user = DB.user.find_one({'username': str(request.user)})
             # Get source text and translated text
             source_text = request.POST['source'].split('\n')
             translated_text = request.POST['translated'].split('\n')
             sim_check = comp_check = read_check = semdom_check = None
+            sim_scores = comp_scores = read_scores = []
+
             if 'sim-check' in request.POST:
                 sim_check = 's'
+                sim_scores = similarity_score(source_text, translated_text)
             if 'comp-check' in request.POST:
                 comp_check = 'c'
                 question = request.POST['question'].split('\n')
-                comprehensibility_answer = comprehensibility_score(translated_text, question)[0]
-                comprehensibility_scores = comprehensibility_score(translated_text, question)[1]
-
+                comp_answer, comp_scores = comprehensibility_score(translated_text, question)
             if 'read-check' in request.POST:
                 read_check = 'r'
+                read_scores = readability_score(translated_text)
             if 'semdom-check' in request.POST:
                 semdom_check = 'd'
 
             options_ = [op for op in [sim_check, comp_check, read_check, semdom_check] if op != None]
             # TODO: Get id of translation
-            sim_scores = similarity_score(source_text, translated_text)
-            read_scores = readability_score(translated_text)
-            # scores = [0.1] * len(source_text)
-
             ID = random.randint(10000,99999)
 
-            text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, options=options_, user=user, _id=ID)
+            text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, comp_scores=comp_scores, options=options_, user=user, _id=ID)
             col = DB.textpair
             result = col.insert_one(text_pair.dict)
             DB.user.update_one(
@@ -287,28 +284,6 @@ def results(request):
             context['options'] = tp['options']
     return render(request, 'process_text/results.html', context)
 
-# Metrics view
-# Displays info from each selected metric
-
-# def metric_view(request):
-#     # Get (or create) text pair
-#     col = DB.textpair
-#     # tp = col.find_one({'id':ID})
-#     with open("./json/" + str(ID) + ".json", 'r') as f:
-#         tp = json.load(f)
-
-    
-#     # Determine sentence groups and scores
-#     all_sentences = tp['matches']
-
-#     context = {
-#         'cur_user': CUR_USER,
-#         'sentences': all_sentences,
-#         'options': tp['options'],
-#         'sidebar': True,
-#     }
-
-#     return render(request, 'process_text/metric_view.html', context)
 
 def aboutcomprehensibility(request):
     context = {
@@ -347,7 +322,7 @@ def get_sim_data(request):
             sim_data.append(float(pair['sim_score']))
     return JsonResponse({'data': sim_data})
 
-def get_comp_data(request):
+def get_comp_data(request, idx):
     global DB
     col = DB.textpair
     comp_data = []
@@ -356,8 +331,25 @@ def get_comp_data(request):
         tpId = user['translations'][-1]
         data = col.find_one({'_id':tpId})
         for pair in data['matches']:
-            comp_data.append(float(pair['comp_score']))
-    return JsonResponse({'data': comp_data})
+            comp_data.append(pair['comp_score'])
+        if idx == 'all':
+            correct = 0
+            incorrect = 0
+            # print(comp_data)
+            idxs = []
+            for i in range(len(comp_data)):
+                data = comp_data[i]
+                if data is not None:
+                    if data['correct']:
+                        correct += 1
+                        idxs.append({'idx': i, 'res': 'c'})
+                    else:
+                        incorrect += 1
+                        idxs.append({'idx': i, 'res': 'i'})
+            return JsonResponse({'data': {'Correct': correct, 'Incorrect': incorrect}, 'idx': idxs})
+        else:
+            return JsonResponse({'data': comp_data[int(idx)]})
+        
 
 def get_read_data(request):
     global DB

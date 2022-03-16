@@ -20,7 +20,7 @@ urlpatterns = [
     path('about/semanticdomain/', views.aboutsemanticdomain, name='aboutsemanticdomain'),
     path('about/similarity/', views.aboutsemanticsimilarity, name='aboutsemanticsimilarity'),
     path('api/simData/', views.get_sim_data, name='simData'),
-    path('api/compData/', views.get_comp_data, name='compData'),
+    path('api/compData/<str:idx>', views.get_comp_data, name='compData'),
     path('api/readData/', views.get_read_data, name='readData'),
     path('api/semdomData/', views.get_semdom_data, name='semdomData'),
 ]

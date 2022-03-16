@@ -4,13 +4,14 @@ import hashlib
 import os
 
 class TextPair:
-    def __init__(self, source_list, translated_list, sim_scores, read_scores, _id=-1, options=['s','c','r','d'], user=None, source_lang=None, translated_lang=None):
+    def __init__(self, source_list, translated_list, sim_scores, read_scores, comp_scores, _id=-1, options=['s','c','r','d'], user=None, source_lang=None, translated_lang=None):
         self._id = _id
         self._datetime = datetime.now()
         self._source = source_list
         self._translated = translated_list
         self._sim_scores = sim_scores
         self._read_scores = read_scores
+        self._comp_scores = comp_scores
         self._options = options
         self._user = user
         print(read_scores)
@@ -42,6 +43,7 @@ class TextPair:
                 'sim_score': str(round(self._sim_scores[idx],1)),
                 'comp_score': 0,
                 'read_score': str(round(self._read_scores[idx],2)),
+                'comp_score': self._comp_scores[idx],
                 'semdom_score': 0,
                 'idx': idx,
                 'simcolor': simcolor,

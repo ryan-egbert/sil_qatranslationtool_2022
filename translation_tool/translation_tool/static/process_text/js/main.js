@@ -1,119 +1,6 @@
 var NUMSINGLE = 0;
 var NUMMULTI = 0;
 
-function minData(arr) {
-    let data = arr.data;
-    return Math.min(data);
-}
-
-function maxData(arr) {
-    let data = arr.data;
-    return Math.max(data);
-}
-// const mongo = require('mongodb');
-// const MongoClient = mongo.MongoClient;
-// const url = 'mongodb://localhost:27017';
-
-// class FileUpload {
-
-//     constructor(input) {
-//         this.input = input
-//         this.max_length = 1024 * 1024 * 10;
-//     }
-//     create_progress_bar() {
-//         var progress = `<div class="file-icon">
-//                         <i class="fa fa-file-o" aria-hidden="true"></i>
-//                     </div>
-//                     <div class="file-details">
-//                         <p class="filename"></p>
-//                         <small class="textbox"></small>
-//                         <div class="progress" style="margin-top: 5px;">
-//                             <div class="progress-bar bg-success" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%">
-//                             </div>
-//                         </div>
-//                     </div>`
-//         document.getElementById('uploaded_files').innerHTML = progress
-//     }
-
-//     upload() {
-//         this.create_progress_bar();
-//         this.initFileUpload();
-//     }
-
-//     initFileUpload() {
-//         this.file = this.input.files[0];
-//         this.upload_file(0, null);
-//     }
-
-//     upload_file(start, model_id) {
-//         var end;
-//         var self = this;
-//         var existingPath = model_id;
-//         var formData = new FormData();
-//         var nextChunk = start + this.max_length + 1;
-//         var currentChunk = this.file.slice(start, nextChunk);
-//         var uploadedChunk = start + currentChunk.size
-//         if (uploadedChunk >= this.file.size) {
-//             end = 1;
-//         } else {
-//             end = 0;
-//         }
-//         formData.append('file', currentChunk)
-//         formData.append('filename', this.file.name)
-//         $('.filename').text(this.file.name)
-//         $('.textbox').text("Uploading file")
-//         formData.append('end', end)
-//         formData.append('existingPath', existingPath);
-//         formData.append('nextSlice', nextChunk);
-//         $.ajaxSetup({
-//             headers: {
-//                 "X-CSRFToken": document.querySelector('[name=csrfmiddlewaretoken]').value,
-//             }
-//         });
-//         $.ajax({
-//             xhr: function () {
-//                 var xhr = new XMLHttpRequest();
-//                 xhr.upload.addEventListener('progress', function (e) {
-//                     if (e.lengthComputable) {
-//                         if (self.file.size < self.max_length) {
-//                             var percent = Math.round((e.loaded / e.total) * 100);
-//                         } else {
-//                             var percent = Math.round((uploadedChunk / self.file.size) * 100);
-//                         }
-//                         $('.progress-bar').css('width', percent + '%')
-//                         $('.progress-bar').text(percent + '%')
-//                     }
-//                 });
-//                 return xhr;
-//             },
-
-//             url: '/fileUploader/',
-//             type: 'POST',
-//             dataType: 'json',
-//             cache: false,
-//             processData: false,
-//             contentType: false,
-//             data: formData,
-//             error: function (xhr) {
-//                 alert(xhr.statusText);
-//             },
-//             success: function (res) {
-//                 if (nextChunk < self.file.size) {
-//                     // upload file in chunks
-//                     existingPath = res.existingPath
-//                     self.upload_file(nextChunk, existingPath);
-//                 } else {
-//                     // upload complete
-//                     $('.textbox').text(res.data);
-//                     alert(res.data)
-//                 }
-//             }
-//         });
-//     };
-
-// }
-
-
 $(document).ready(function () {
     /**
      * Sidebar collapse functionality
@@ -148,9 +35,10 @@ $(document).ready(function () {
     //     }
     // });
 
-    $(".sentence").on('click', function () {
+    $(".sentence").on('click', async function () {
         let index = parseInt($(this).attr('data-index'));
         let color = $(this).css('border-bottom');
+        let idx = $(this).attr('data-index');
         let simScore = $(this).attr('data-sim');
         let compScore = $(this).attr('data-comp');
         let readScore = $(this).attr('data-read');
@@ -170,6 +58,15 @@ $(document).ready(function () {
         $("#compScore").text(compScore);
         $("#readScore").text(readScore);
         $("#semdomScore").text(semdomScore);
+
+        let compResponse = await fetch('/index/api/compData/' + idx);
+        let compData = await compResponse.json();
+        compData = compData.data;
+        if (compData) {
+            console.log(compData);
+            $("#compQ").text(compData.question);
+            $("#compA").text(compData.answer.answer);
+        }
     });
 
     /**
@@ -265,44 +162,107 @@ $(document).ready(function () {
                 NUMMULTI += inc;
                 $("#compScoreDiv").toggleClass('active');
                 $("#viewChartComp").toggleClass('active');
-                var compResponse = await fetch('/index/api/compData');
-                var compData = await compResponse.json();
-                compData = compData.data;
-                var compsvg = d3.select('#viewChartCompSvg');
-                var margin = {
-                    left: 15, right: 5,
-                    top: 5, bottom: 5
-                };
+                var compResponse = await fetch('/index/api/compData/all');
+                var compDataLarge = await compResponse.json();
+                var compData = compDataLarge.data;
+                var compDataIdx = compDataLarge.idx;
+                console.log(compDataIdx)
+
+                // var compsvg = d3.select('#viewChartCompSvg');
+                // var margin = {
+                //     left: 15, right: 5,
+                //     top: 5, bottom: 5
+                // };
+                var margin = 5; 
                 var width = 200;
                 var height = 175;
-                compsvg = compsvg.append('g')
-                        .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
-                var x = d3.scaleLinear()
-                    .domain([0,5])
-                    .range([0,width]);
-                compsvg.append('g')
-                    .attr('transform','translate(0,' + height + ')')
-                    .call(d3.axisBottom(x).ticks(5));
-                var hist = d3.histogram()
-                    .value(d => { return d; })
-                    .domain(x.domain())
-                    .thresholds(x.ticks(10));
-                var bins = hist(compData);
-                var y = d3.scaleLinear()
-                    .range([height, 0]);
-                y.domain([0, d3.max(bins, d => { return d.length })]);
-                compsvg.append('g')
-                    .call(d3.axisLeft(y));
-                compsvg.selectAll('rect')
-                    .data(bins)
-                    .enter()
-                    .append('rect')
-                        .attr('x', 1)
-                        .attr('transform', d => { return "translate(" + x(d.x0) + "," + (y(d.length) - 1) + ")"; })
-                        .attr("width", d => { return x(d.x1) - x(d.x0) ; })
-                        .attr("height", d => { return height - y(d.length); })
-                        .style("fill", "#b3edff");
+                const radius = Math.min(width, height) / 2 - margin;
+                // compsvg = compsvg.append('g')
+                //     .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
+                var svg = d3.select("#viewChartCompSvg")
+                    .append("g")
+                    .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+                
+                // Create dummy data
+                const data = {a: 9, b: 20, c:30, d:8, e:12}
+
+                // set the color scale
+                const color = d3.scaleOrdinal()
+                .range(['#005CB9', '#00a7e1'])
+
+                // Compute the position of each group on the pie:
+                const pie = d3.pie()
+                .value(function(d) {return d[1]})
+                const data_ready = pie(Object.entries(compData))
+
+                const arcGenerator = d3.arc()
+                    .innerRadius(0)
+                    .outerRadius(radius)
+                // Build the pie chart: Basically, each part of the pie is a path that we build using the arc function.
+                svg
+                .selectAll('whatever')
+                .data(data_ready)
+                .join('path')
+                .attr('d', arcGenerator)
+                .attr('class', 'comp-path')
+                // .attr('class', 'test')
+                .attr('class', function(d) { return 'comp-path ' + d.data[0] })
+                .attr('fill', function(d){ return(color(d.data[1])) })
+                .attr("stroke", "black")
+                .attr('data-label', function(d) { return d.data[0] })
+                .style("stroke-width", "1px")
+                .style("opacity", 0.7)
+                .on('click', function() {
+                    if (d3.select(this).classed('selected')) {
+                        d3.select(this).classed('selected', false);
+                        var label = $(this).attr('data-label');
+                        for (let i = 0; i < compDataIdx.length; i++) {
+                            if (label == "Correct") {
+                                if (compDataIdx[i].res == 'c') {
+                                    $('[data-index="' + compDataIdx[i].idx + '"]').css('border-bottom', 'none');
+                                }
+                            }
+                            else if (label == "Incorrect") {
+                                if (compDataIdx[i].res == 'i') {
+                                    $('[data-index="' + compDataIdx[i].idx + '"]').css('border-bottom', 'none');
+                                }
+                            }
+                        }
+                    }
+                    else {
+                        // d3.select('rect.sim-rect').classed('selected', null);
+                        d3.select(this).classed('selected', true);
+                        var label = $(this).attr('data-label');
+                        for (let i = 0; i < compDataIdx.length; i++) {
+                            if (label == "Correct") {
+                                if (compDataIdx[i].res == 'c') {
+                                    $('[data-index="' + compDataIdx[i].idx + '"]').css('border-bottom', '3px solid #005CB9');
+                                }
+                            }
+                            else if (label == "Incorrect") {
+                                if (compDataIdx[i].res == 'i') {
+                                    $('[data-index="' + compDataIdx[i].idx + '"]').css('border-bottom', '3px solid #005CB9');
+                                }
+                            }
+                        }
+                        // $('.sentence').each(function(idx) {
+                        //     var sim_ = parseFloat($(this).attr('data-sim'));
+                        //     if (sim_ < x1 && sim_ >= x0) {
+                        //         $(this).css('border-bottom', '3px solid #005CB9');
+                        //     }
+                        // });
+                    }
+                })
+                svg
+                    .selectAll('mySlices')
+                    .data(data_ready)
+                    .join('text')
+                    .text(function(d){ return d.data[0]})
+                    .attr("transform", function(d) { return `translate(${arcGenerator.centroid(d)})`})
+                    .style("text-anchor", "middle")
+                    .style("font-size", 10)
                 break;
+
             case 'readBtn':
                 NUMSINGLE += inc;
                 $("#readScoreDiv").toggleClass('active');
@@ -443,9 +403,10 @@ $(document).ready(function () {
         let simResponse = await fetch('/index/api/simData');
         let simData = await simResponse.json();
         simData = simData.data;
-        let compResponse = await fetch('/index/api/compData');
-        let compData = await compResponse.json();
-        compData = compData.data;
+        var compResponse = await fetch('/index/api/compData/all');
+        var compDataLarge = await compResponse.json();
+        var compData = compDataLarge.data;
+        var compDataIdx = compDataLarge.idx;
         let readResponse = await fetch('/index/api/readData');
         let readData = await readResponse.json();
         readData = readData.data;
@@ -456,89 +417,140 @@ $(document).ready(function () {
         $("#results-results").toggleClass('active');
         $("#results-processing").toggleClass('active');
         let margin = {
-            left: 10, right: 10,
-            top: 10, bottom: 10
+            left: 15, right: 15,
+            top: 15, bottom: 15
         };
-        let width = 475;
-        let height = 200;
+        let width = 450;
+        let height = 150;
 
         /**
          * Similarity Histogram
          */
-        let svg = d3.select('#resultsBodySim')
-
-        svg = svg.append('g')
-                .attr('translform', 'translate(' + margin.left + ',' + margin.top + ')');
-
-        let x = d3.scaleLinear()
+        var simSvg = d3.select('#resultsBodySim');
+        var marginSim = {
+            left: 15, right: 5,
+            top: 5, bottom: 5
+        };
+        var widthSim = 450;
+        var heightSim = 180;
+        simSvg = simSvg.append('g')
+                .attr('transform', 'translate(' + marginSim.left + ',' + marginSim.top + ')');
+        var xSim = d3.scaleLinear()
             .domain([0,5])
-            .range([0,width]);
-        svg.append('g')
-            .attr('transform','translate(0,' + height + ')')
-            .call(d3.axisBottom(x));
-
-        let hist = d3.histogram()
+            .range([0,widthSim]);
+        simSvg.append('g')
+            .attr('transform','translate(0,' + heightSim + ')')
+            .call(d3.axisBottom(xSim).ticks(5));
+        var histSim = d3.histogram()
             .value(d => { return d; })
-            .domain(x.domain())
-            .thresholds(x.ticks(5));
-
-        let bins = hist(simData);
-
-        let y = d3.scaleLinear()
-            .range([height, 0]);
-        y.domain([0, d3.max(bins, d => { return d.length })]);
-
-        svg.append('g')
-            .call(d3.axisLeft(y));
-        
-        svg.selectAll('rect')
-            .data(bins)
+            .domain(xSim.domain())
+            .thresholds(xSim.ticks(10));
+        var binsSim = histSim(simData);
+        var ySim = d3.scaleLinear()
+            .range([heightSim, 0]);
+        ySim.domain([0, d3.max(binsSim, d => { return d.length })]);
+        simSvg.append('g')
+            .call(d3.axisLeft(ySim));
+        simSvg.selectAll('rect')
+            .data(binsSim)
             .enter()
             .append('rect')
                 .attr('x', 1)
-                .attr('transform', d => { return "translate(" + x(d.x0) + "," + y(d.length) + ")"; })
-                .attr("width", d => { return x(d.x1) - x(d.x0) ; })
-                .attr("height", d => { return height - y(d.length); })
-                .style("fill", "#69b3a2");
+                .attr('transform', d => { return "translate(" + (xSim(d.x0) + 2) + "," + (ySim(d.length) - 1) + ")"; })
+                .attr("width", d => { return xSim(d.x1) - xSim(d.x0) - 4 ; })
+                .attr("height", d => { return heightSim - ySim(d.length); })
+                .attr('data-lo', d => { return d.x0 })
+                .attr('data-hi', d => { return d.x1 })
+                .attr('class', 'sim-rect')
 
         /**
          * Comprehensibility Histogram
          */
-        svg = d3.select('#resultsBodyComp')
+        var marginComp = 5; 
+        var widthComp = 450;
+        var heightComp = 180;
+        const radius = Math.min(widthComp, heightComp) / 2 - marginComp;
+        // compsvg = compsvg.append('g')
+        //     .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
+        var svgComp = d3.select("#resultsBodyComp")
+            .append("g")
+            .attr("transform", "translate(" + widthComp / 2 + "," + heightComp / 2 + ")");
 
-        svg = svg.append('g')
-                .attr('translform', 'translate(' + margin.left + ',' + margin.top + ')');
+        // set the color scale
+        const colorComp = d3.scaleOrdinal()
+        .range(['#005CB9', '#00a7e1'])
 
-        // let x = d3.scaleLinear()
-        //     .domain([0,5])
-        //     .range([0,width]);
-        svg.append('g')
-            .attr('transform','translate(0,' + height + ')')
-            .call(d3.axisBottom(x));
+        // Compute the position of each group on the pie:
+        const pieComp = d3.pie()
+            .value(function(d) {return d[1]})
+        const dataReadyComp = pieComp(Object.entries(compData))
 
-        hist = d3.histogram()
-            .value(d => { return d; })
-            .domain(x.domain())
-            .thresholds(x.ticks(5));
-
-        bins = hist(compData);
-
-        y = d3.scaleLinear()
-            .range([height, 0]);
-        y.domain([0, d3.max(bins, d => { return d.length })]);
-
-        svg.append('g')
-            .call(d3.axisLeft(y));
+        const arcGenerator = d3.arc()
+            .innerRadius(0)
+            .outerRadius(radius)
+        // Build the pie chart: Basically, each part of the pie is a path that we build using the arc function.
+        svgComp
+            .selectAll('whatever')
+            .data(dataReadyComp)
+            .join('path')
+            .attr('d', arcGenerator)
+            .attr('class', 'comp-path')
+            // .attr('class', 'test')
+            .attr('class', function(d) { return 'comp-path ' + d.data[0] })
+            .attr('fill', function(d){ return(colorComp(d.data[1])) })
+            .attr("stroke", "black")
+            .attr('data-label', function(d) { return d.data[0] })
+            .style("stroke-width", "1px")
+            .style("opacity", 0.7)
+        svgComp
+            .selectAll('mySlices')
+            .data(dataReadyComp)
+            .join('text')
+            .text(function(d){ return d.data[0]})
+            .attr("transform", function(d) { return `translate(${arcGenerator.centroid(d)})`})
+            .style("text-anchor", "middle")
+            .style("font-size", 10)
         
-        svg.selectAll('rect')
-            .data(bins)
+        /**
+         * Readability Chart
+         */
+        var svgRead = d3.select('#resultsBodyRead');
+        var marginRead = {
+            left: 15, right: 5,
+            top: 5, bottom: 5
+        };
+        var widthRead = 450;
+        var heightRead = 180;
+        svgRead = svgRead.append('g')
+                .attr('transform', 'translate(' + marginRead.left + ',' + marginRead.top + ')');
+        var xRead = d3.scaleLinear()
+            .domain([Math.floor(Math.min(...readData)),Math.ceil(Math.max(...readData))])
+            .range([0,widthRead]);
+        svgRead.append('g')
+            .attr('transform','translate(0,' + heightRead + ')')
+            .call(d3.axisBottom(xRead).ticks(5));
+        var histRead = d3.histogram()
+            .value(d => { return d; })
+            .domain(xRead.domain())
+            .thresholds(xRead.ticks(10));
+        var binsRead = histRead(readData);
+        var yRead = d3.scaleLinear()
+            .range([heightRead, 0]);
+        yRead.domain([0, d3.max(binsRead, d => { return d.length })]);
+        svgRead.append('g')
+            .call(d3.axisLeft(yRead));
+        svgRead.selectAll('rect')
+            .data(binsRead)
             .enter()
             .append('rect')
                 .attr('x', 1)
-                .attr('transform', d => { return "translate(" + x(d.x0) + "," + y(d.length) + ")"; })
-                .attr("width", d => { return x(d.x1) - x(d.x0) ; })
-                .attr("height", d => { return height - y(d.length); })
-                .style("fill", "#69b3a2");
+                .attr('transform', d => { return "translate(" + (xRead(d.x0) + 2) + "," + (yRead(d.length) - 1) + ")"; })
+                .attr("width", d => { return xRead(d.x1) - xRead(d.x0) - 4 ; })
+                .attr("height", d => { return heightRead - yRead(d.length); })
+                .attr('data-lo', d => { return d.x0 })
+                .attr('data-hi', d => { return d.x1 })
+                .attr('class', 'sim-rect')
+                
     })
 
 });

@@ -143,7 +143,7 @@ small {
     max-height: 35vh;
     min-height: 35vh;
     cursor: default;
-    background-color: #fff6e8;
+    background-color: #ccf3ff;
     margin: 5px;
 }
 
@@ -175,7 +175,7 @@ small {
 }
 
 .results-container:hover {
-    background-color: rgb(204, 243, 255);
+    background-color: #ccf3ff;
 }
 
 .results-container:hover p {
@@ -517,4 +517,18 @@ rect.sim-rect {
 }
 rect.sim-rect.selected {
     fill: #005CB9;
+}
+
+path.comp-path.Correct {
+    fill: #00a7e1;
+}
+path.comp-path.Correct.selected {
+    fill: #005CB9;
+}
+
+path.comp-path.Incorrect {
+    fill: #ff9797;
+}
+path.comp-path.Incorrect.selected {
+    fill: #ce0000;
 }
