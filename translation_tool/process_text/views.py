@@ -22,6 +22,7 @@ CUR_USER = None
 from torch import no_grad, matmul
 import torch.nn.functional as F
 from transformers import BertModel, BertTokenizerFast
+from io import StringIO
 
 ### Load similarity model (LaBSE)
 tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
@@ -114,14 +115,11 @@ def similarity_score(source, translated):
     # while DB.textpair.find_one({'id':ID}) != None:
     #     ID = random.randint(10000,99999)
     # Tokenize inputs
-    # print(source.shape)
-    print(source)
     if len(source) == 0:
         source = ['']
     if len(translated) == 0:
         translated = ['']
     source_inputs = tokenizer(source, return_tensors="pt", padding=True)
-    # print(source_inputs.shape)
     translated_inputs = tokenizer(translated, return_tensors="pt", padding=True)
     # Convert inputs with LaBSE model
     with no_grad():
@@ -153,7 +151,6 @@ def readability_score(text):
     # num_sent = len(text)
     # num_words = len([word for sent in text for word in sent.split()])
     # num_char = len([char for sent in text for word in sent.split() for char in word])
-    # # print(num_sent, num_words, num_char)
     # return (num_words/num_sent) - (num_char/num_words)
     return scores
 
@@ -170,20 +167,21 @@ def processFile(request):
             if request.FILES['uploadFile'].multiple_chunks():
                 pass
             else:
-                file_str = request.FILES['uploadFile'].read()
-                reader = csv.reader(str(file_str).split('\n'), delimiter=',', quotechar='"')
-                first_row = True
+                file_str = request.FILES['uploadFile'].read().decode()
+                print(file_str)
+                file_strio = StringIO(file_str)
+                reader = csv.DictReader(file_strio)
                 langs = []
                 source_text = []
                 translated_text = []
-                for row in list(reader):
-                    print(row)
-                    if first_row:
-                        langs = row
-                        first_row = False
-                        continue
-                    source_text.append(row[0])
-                    translated_text.append(row[1])
+                questions = []
+                for row in reader:
+                    source_text.append(row['source'])
+                    translated_text.append(row['translated'])
+                    questions.append(({
+                        'context': row['translated'],
+                        'question': row['question']
+                    }, row['answer']))
 
             sim_scores = similarity_score(source_text, translated_text)
             read_scores = readability_score(translated_text)
@@ -197,8 +195,6 @@ def processFile(request):
                 {'$push': { 
                     'translations' : result.inserted_id
                 }})
-            
-        
 
         # with open("./json/" + str(ID) + ".json", 'w') as f:
         #     json.dump(text_pair.dict, f)
@@ -212,11 +208,9 @@ def processText(request):
     if request.method == "POST":
         if request.user.is_authenticated:
             user = DB.user.find_one({'username': str(request.user)})
-            # print(request.user)
             # Get source text and translated text
             source_text = request.POST['source'].split('\n')
             translated_text = request.POST['translated'].split('\n')
-            # print(request.POST)
             sim_check = comp_check = read_check = semdom_check = None
             if 'sim-check' in request.POST:
                 sim_check = 's'
@@ -228,7 +222,6 @@ def processText(request):
                 semdom_check = 'd'
 
             options_ = [op for op in [sim_check, comp_check, read_check, semdom_check] if op != None]
-            # print(sim_check, comp_check, read_check, semdom_check)
             # TODO: Get id of translation
             sim_scores = similarity_score(source_text, translated_text)
             read_scores = readability_score(translated_text)
@@ -239,7 +232,6 @@ def processText(request):
             text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, options=options_, user=user, _id=ID)
             col = DB.textpair
             result = col.insert_one(text_pair.dict)
-            print(result)
             DB.user.update_one(
                 {'username': str(request.user)},
                 {'$push': { 
@@ -262,7 +254,6 @@ def results(request):
     context = {}
     if request.user.is_authenticated:
         user = DB.user.find_one({'username': str(request.user)})
-        print(user)
         context['cur_user'] = user
 
         # Get (or create) text pair
@@ -270,10 +261,8 @@ def results(request):
         # tp = col.find_one({'user':user['username']})
         tpId = user['translations'][-1]
         tp = col.find_one({'_id': tpId})
-        print(tp)
         # with open("./json/" + str(ID) + ".json", 'r') as f:
         #     tp = json.load(f)
-        # print(tp['options'])
         
         # Determine sentence groups and scores
         if tp is not None:
@@ -335,8 +324,6 @@ def get_sim_data(request):
         tpId = user['translations'][-1]
         data = col.find_one({'_id':tpId})
 
-        print(user)
-        print(data)
         for pair in data['matches']:
             sim_data.append(float(pair['sim_score']))
     return JsonResponse({'data': sim_data})

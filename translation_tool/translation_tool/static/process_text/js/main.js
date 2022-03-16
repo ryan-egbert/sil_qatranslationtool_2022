@@ -132,21 +132,21 @@ $(document).ready(function () {
      * Mouseover, mouseout, and click events for sentences
      * on metric view page
      */
-    $(".sentence").on('mouseover', function () {
-        let index = parseInt($(this).attr('data-index'));
-        let color = $(this).css('border-bottom');
-        if (!$(this).hasClass('clicked')) {
-            $("span[data-index=" + index + "]").css('background-color', color.match(/rgb(.*)/)[0]);
-        }
-    });
+    // $(".sentence").on('mouseover', function () {
+    //     let index = parseInt($(this).attr('data-index'));
+    //     let color = $(this).css('border-bottom');
+    //     if (!$(this).hasClass('clicked')) {
+    //         $("span[data-index=" + index + "]").css('background-color', color.match(/rgb(.*)/)[0]);
+    //     }
+    // });
 
-    $(".sentence").on('mouseout', function () {
-        console.log('clicked');
-        let index = parseInt($(this).attr('data-index'));
-        if (!$(this).hasClass('clicked')) {
-            $("span[data-index=" + index + "]").removeClass("hovered").css('background-color', 'inherit');
-        }
-    });
+    // $(".sentence").on('mouseout', function () {
+    //     console.log('clicked');
+    //     let index = parseInt($(this).attr('data-index'));
+    //     if (!$(this).hasClass('clicked')) {
+    //         $("span[data-index=" + index + "]").removeClass("hovered").css('background-color', 'inherit');
+    //     }
+    // });
 
     $(".sentence").on('click', function () {
         let index = parseInt($(this).attr('data-index'));
@@ -156,15 +156,15 @@ $(document).ready(function () {
         let readScore = $(this).attr('data-read');
         let semdomScore = $(this).attr('data-semdom');
         if ($(this).hasClass('clicked')) {
-            $(".sentence").removeClass("clicked").css('background-color', 'inherit');
+            $(".sentence").removeClass("clicked").css('background-color', 'inherit').css('color', 'black');
             $("#simScore").text('');
             $("#compScore").text('');
             $("#readScore").text('');
             $("#semdomScore").text('');
         }
         else {
-            $(".sentence").removeClass("clicked").css('background-color', 'inherit');
-            $("span[data-index=" + index + "]").addClass('clicked').css('background-color', color.match(/rgb(.*)/)[0]);
+            $(".sentence").removeClass("clicked").css('background-color', 'inherit').css('color', 'black');
+            $("span[data-index=" + index + "]").addClass('clicked').css('background-color', color.match(/rgb(.*)/)[0]).css('color', 'white');
         }
         $("#simScore").text(simScore);
         $("#compScore").text(compScore);
@@ -232,16 +232,32 @@ $(document).ready(function () {
                         .attr('transform', d => { return "translate(" + (x(d.x0) + 2) + "," + (y(d.length) - 1) + ")"; })
                         .attr("width", d => { return x(d.x1) - x(d.x0) - 4 ; })
                         .attr("height", d => { return height - y(d.length); })
+                        .attr('data-lo', d => { return d.x0 })
+                        .attr('data-hi', d => { return d.x1 })
                         .attr('class', 'sim-rect')
                         // .style("fill", "#b3edff")
                         .on('click', function() {
+                            var x0 = parseFloat($(this).attr('data-lo'));
+                            var x1 = parseFloat($(this).attr('data-hi'));
                             if (d3.select(this).classed('selected')) {
                                 console.log('remove')
                                 d3.select(this).classed('selected', false);
+                                $('.sentence').each(function(idx) {
+                                    var sim_ = parseFloat($(this).attr('data-sim'));
+                                    if (sim_ < x1 && sim_ >= x0) {
+                                        $(this).css('border-bottom', 'none');
+                                    }
+                                });
                             }
                             else {
                                 // d3.select('rect.sim-rect').classed('selected', null);
                                 d3.select(this).classed('selected', true);
+                                $('.sentence').each(function(idx) {
+                                    var sim_ = parseFloat($(this).attr('data-sim'));
+                                    if (sim_ < x1 && sim_ >= x0) {
+                                        $(this).css('border-bottom', '3px solid #005CB9');
+                                    }
+                                });
                             }
                         })
                 break;
@@ -327,15 +343,30 @@ $(document).ready(function () {
                         .attr('transform', d => { return "translate(" + (x(d.x0) + 2) + "," + (y(d.length) - 1) + ")"; })
                         .attr("width", d => { return x(d.x1) - x(d.x0) - 4 ; })
                         .attr("height", d => { return height - y(d.length); })
+                        .attr('data-lo', d => { return d.x0 })
+                        .attr('data-hi', d => { return d.x1 })
                         .attr('class', 'sim-rect')
                         .on('click', function() {
+                            var x0 = parseFloat($(this).attr('data-lo'));
+                            var x1 = parseFloat($(this).attr('data-hi'));
                             if (d3.select(this).classed('selected')) {
-                                console.log('remove')
                                 d3.select(this).classed('selected', false);
+                                $('.sentence').each(function(idx) {
+                                    var read_ = parseFloat($(this).attr('data-read'));
+                                    if (read_ < x1 && read_ >= x0) {
+                                        $(this).css('border-bottom', 'none');
+                                    }
+                                });
                             }
                             else {
                                 // d3.select('rect.sim-rect').classed('selected', null);
                                 d3.select(this).classed('selected', true);
+                                $('.sentence').each(function(idx) {
+                                    var read_ = parseFloat($(this).attr('data-read'));
+                                    if (read_ < x1 && read_ >= x0) {
+                                        $(this).css('border-bottom', '3px solid #005CB9');
+                                    }
+                                });
                             }
                         })
                 break;

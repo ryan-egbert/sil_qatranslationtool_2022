@@ -116,7 +116,8 @@
                     <div class="row" id="textContainer">
                         <div class="col">
                             {% for s in sentences %}
-                            <span style="border-bottom: 3px solid {{ s.simcolor }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span>
+                            <span class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span>
+                            <!-- <span style="border-bottom: 3px solid {{ s.simcolor }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span> -->
                             {% endfor %}
                         </div>
                     </div>
@@ -125,10 +126,12 @@
                     {% for s in sentences %}
                     <div class="row">
                         <div class="col-6">
-                            <span style="border-bottom: 3px solid {{ s.simcolor }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.source}}</span>
+                            <span class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.source}}</span>
+                            <!-- <span style="border-bottom: 3px solid {{ s.simcolor }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.source}}</span> -->
                         </div>
                         <div class="col-6">
-                            <span style="border-bottom: 3px solid {{ s.simcolor }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span>
+                            <span class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span>
+                            <!-- <span style="border-bottom: 3px solid {{ s.simcolor }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span> -->
                         </div>
                     </div>
                     {% endfor %}
