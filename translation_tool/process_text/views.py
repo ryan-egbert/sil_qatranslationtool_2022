@@ -22,12 +22,8 @@ CUR_USER = None
 from torch import no_grad, matmul
 import torch.nn.functional as F
 from transformers import BertModel, BertTokenizerFast
+from transformers.pipelines import pipeline
 from io import StringIO
-
-### Load similarity model (LaBSE)
-tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
-model = BertModel.from_pretrained("setu4993/LaBSE")
-model = model.eval()
 
 # Home page
 def home(request):
@@ -110,7 +106,10 @@ def upload(request):
 
 # Compute similarity score between two embedded outputs
 def similarity_score(source, translated):
-    global model, tokenizer
+    ### Load similarity model (LaBSE)
+    tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
+    model = BertModel.from_pretrained("setu4993/LaBSE")
+    model = model.eval()
     # ID = random.randint(10000,99999)
     # while DB.textpair.find_one({'id':ID}) != None:
     #     ID = random.randint(10000,99999)
@@ -135,6 +134,19 @@ def similarity_score(source, translated):
     normalized_embeddings_t = F.normalize(translated_emb, p=2)
     mat = matmul(normalized_embeddings_s, normalized_embeddings_t.transpose(0, 1))
     return (5 * mat.diagonal()).tolist()
+
+def comprehensibility_score(translated,question):
+    req_model = "mrm8488/bert-multi-cased-finetuned-xquadv1"
+    req_tokenizer = "mrm8488/bert-multi-cased-finetuned-xquadv1"
+    hg_comp = pipeline('question-answering', model=req_model, tokenizer=req_tokenizer)
+
+    question = question
+    context = translated
+
+    # compute answer
+    answer = hg_comp({'question': question, 'context': context})
+    return (answer['answer'],answer['score'])
+
 
 # Using Flesch–Kincaid readability tests
 def readability_score(text):
@@ -204,8 +216,9 @@ def processFile(request):
 
 # Process manual text input
 def processText(request):
-    global ID, model, DB
+    global DB
     if request.method == "POST":
+# <<<<<<< HEAD
         if request.user.is_authenticated:
             user = DB.user.find_one({'username': str(request.user)})
             # Get source text and translated text
@@ -216,6 +229,10 @@ def processText(request):
                 sim_check = 's'
             if 'comp-check' in request.POST:
                 comp_check = 'c'
+                question = request.POST['question'].split('\n')
+                comprehensibility_answer = comprehensibility_score(translated_text, question)[0]
+                comprehensibility_scores = comprehensibility_score(translated_text, question)[1]
+
             if 'read-check' in request.POST:
                 read_check = 'r'
             if 'semdom-check' in request.POST:
@@ -272,12 +289,14 @@ def results(request):
 
 # Metrics view
 # Displays info from each selected metric
+
 # def metric_view(request):
 #     # Get (or create) text pair
 #     col = DB.textpair
 #     # tp = col.find_one({'id':ID})
 #     with open("./json/" + str(ID) + ".json", 'r') as f:
 #         tp = json.load(f)
+
     
 #     # Determine sentence groups and scores
 #     all_sentences = tp['matches']
