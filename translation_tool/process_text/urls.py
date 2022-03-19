@@ -23,5 +23,6 @@ urlpatterns = [
     path('api/compData/<str:idx>', views.get_comp_data, name='compData'),
     path('api/readData/', views.get_read_data, name='readData'),
     path('api/semdomData/', views.get_semdom_data, name='semdomData'),
+    path('api/postQuestion/<str:idx>/', views.post_question, name='postQuestion'),
 ]
  

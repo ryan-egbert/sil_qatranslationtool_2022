@@ -3,7 +3,7 @@
 {% block body_content %}
 <div class="container">
     <div id="results-processing" class="results active">
-        <h1 class="header-center">Text is processing...</h1>
+        <h1 class="header-center">Text has processed</h1>
         <div class="row">
             <div class="col header-center">
                 <button id="overviewData" class="btn btn-primary btn-lg">Overview</button>
@@ -126,11 +126,11 @@
                     {% for s in sentences %}
                     <div class="row">
                         <div class="col-6">
-                            <span class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.source}}</span>
+                            <span class="sentence source" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.source}}</span>
                             <!-- <span style="border-bottom: 3px solid {{ s.simcolor }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.source}}</span> -->
                         </div>
                         <div class="col-6">
-                            <span class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span>
+                            <span class="sentence translated" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span>
                             <!-- <span style="border-bottom: 3px solid {{ s.simcolor }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span> -->
                         </div>
                     </div>
@@ -148,8 +148,10 @@
                 {% if 'c' in options %}
                 <div class="scores" id="compScoreDiv">
                     <h5 class="spec-score">Comprehensibility</h5>
-                        Q: <span id="compQ"></span><br>
-                        A: <span id="compA"></span>
+                    <div id="comp-questions"></div>
+                    <div class="add-question">
+                        <button type="button" data-toggle="modal" data-target="#add-question-modal" id="add-question-btn" class="btn btn-sm btn-primary">Add Question</button>
+                    </div>
                     <hr>
                 </div>
                 {% endif %}
@@ -168,6 +170,40 @@
                 </div>
                 {% endif %}
             </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="add-question-modal" tabindex="-1" role="dialog" aria-labelledby="add-question-modalTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Add a Question</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <!-- <form>
+                {% csrf_token %} -->
+                <div class="modal-body">
+                    <label for="add-question-context"><h5>Context:</h5> </label>
+                    <span id="add-question-context"></span>
+                    <hr>
+                    <label for="add-question-question"><h5>Question: </h5></label>
+                    <input name="add-question-question" id="add-question-question" type="text"/>
+                    <br>
+                    <label for="add-question-answer"><h5>Expected Answer: </h5></label>
+                    <input name="add-question-answer" id="add-question-answer" type="text"/>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <div class="spinner-border save-changes" role="status">
+                        <span class="sr-only">Loading...</span>
+                    </div>
+                    <button id="add-question-submit" type="button" class="save-changes active_ btn btn-primary">
+                        Save changes
+                    </button>
+                </div>
+            <!-- </form> -->
         </div>
     </div>
 </div>

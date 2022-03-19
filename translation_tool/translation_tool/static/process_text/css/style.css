@@ -532,3 +532,17 @@ path.comp-path.Incorrect {
 path.comp-path.Incorrect.selected {
     fill: #ce0000;
 }
+
+.save-changes {
+    display: none;
+}
+.save-changes.active_ {
+    display: block;
+}
+
+.add-question {
+    display: none;
+}
+.add-question.active {
+    display: block;
+}

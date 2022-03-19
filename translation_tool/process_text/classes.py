@@ -43,7 +43,7 @@ class TextPair:
                 'sim_score': str(round(self._sim_scores[idx],1)),
                 'comp_score': 0,
                 'read_score': str(round(self._read_scores[idx],2)),
-                'comp_score': self._comp_scores[idx],
+                'comp_score': [self._comp_scores[idx]] if self._comp_scores[idx] is not None else [],
                 'semdom_score': 0,
                 'idx': idx,
                 'simcolor': simcolor,

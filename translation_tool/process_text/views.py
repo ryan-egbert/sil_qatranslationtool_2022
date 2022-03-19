@@ -4,7 +4,7 @@ from django.contrib.auth import authenticate, login, logout
 from django.shortcuts import render, redirect
 from django.http import HttpResponse, JsonResponse
 from django.template import loader
-from colour import Color
+# from colour import Color
 from random import choice, shuffle
 import warnings
 # from .models import TextPair, User
@@ -24,6 +24,14 @@ import torch.nn.functional as F
 from transformers import BertModel, BertTokenizerFast
 from transformers.pipelines import pipeline
 from io import StringIO
+
+tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
+model = BertModel.from_pretrained("setu4993/LaBSE")
+model = model.eval()
+
+req_model = "mrm8488/bert-multi-cased-finetuned-xquadv1"
+req_tokenizer = "mrm8488/bert-multi-cased-finetuned-xquadv1"
+hg_comp = pipeline('question-answering', model=req_model, tokenizer=req_tokenizer)
 
 # Home page
 def home(request):
@@ -106,12 +114,10 @@ def upload(request):
 
 # Compute similarity score between two embedded outputs
 def similarity_score(source, translated):
+    global tokenizer, model
     ### Load similarity model (LaBSE)
-    tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
-    model = BertModel.from_pretrained("setu4993/LaBSE")
-    model = model.eval()
     # ID = random.randint(10000,99999)
-    # while DB.textpair.find_one({'id':ID}) != None:
+    # while DB.textpair.find_one({'id':ID}) != None: 
     #     ID = random.randint(10000,99999)
     # Tokenize inputs
     if len(source) == 0:
@@ -136,18 +142,16 @@ def similarity_score(source, translated):
     return (5 * mat.diagonal()).tolist()
 
 def comprehensibility_score(questions):
-    req_model = "mrm8488/bert-multi-cased-finetuned-xquadv1"
-    req_tokenizer = "mrm8488/bert-multi-cased-finetuned-xquadv1"
-    hg_comp = pipeline('question-answering', model=req_model, tokenizer=req_tokenizer)
-
+    global hg_comp
     result = []
     for question in questions:
         if question[0]['question'] == None:
             result.append(None)
         else:
             answer = hg_comp(question[0])
-            correct = True if answer['score'] > 0.7 else False
-            result.append({'question': question[0]['question'], 'answer': answer, 'expected': question[1], 'correct': correct})
+            sim = similarity_score(question[1], answer['answer'])
+            correct = True if sim[0] >= 4 else False
+            result.append({'question': question[0]['question'], 'answer': answer, 'expected': question[1], 'correct': correct, 'result_sim': sim})
 
     # compute answer
     return result
@@ -340,12 +344,14 @@ def get_comp_data(request, idx):
             for i in range(len(comp_data)):
                 data = comp_data[i]
                 if data is not None:
-                    if data['correct']:
-                        correct += 1
-                        idxs.append({'idx': i, 'res': 'c'})
-                    else:
-                        incorrect += 1
-                        idxs.append({'idx': i, 'res': 'i'})
+                    for d in data:
+                        print(d)
+                        if d['correct']:
+                            correct += 1
+                            idxs.append({'idx': i, 'res': 'c'})
+                        else:
+                            incorrect += 1
+                            idxs.append({'idx': i, 'res': 'i'})
             return JsonResponse({'data': {'Correct': correct, 'Incorrect': incorrect}, 'idx': idxs})
         else:
             return JsonResponse({'data': comp_data[int(idx)]})
@@ -374,3 +380,34 @@ def get_semdom_data(request):
         for pair in data['matches']:
             semdom_data.append(float(pair['semdom_score']))
     return JsonResponse({'data': semdom_data})
+
+def post_question(request, idx):
+    global DB
+    col = DB.textpair
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        tpId = user['translations'][-1]
+        data = col.find_one({'_id':tpId})
+        if request.method == "POST":
+            print(request.POST)
+            context = request.POST['context']
+            question = request.POST['question']
+            answer = request.POST['answer']
+            data = [({
+                'context': context,
+                'question': question
+            }, answer)]
+
+            result = comprehensibility_score(data)
+
+            response = {
+                'data': result[0],
+            }
+
+            col.update_one(
+                {'_id': tpId},
+                {'$push': { 
+                    f'matches.{int(idx)}.comp_score' : result[0]
+                }})
+
+            return JsonResponse(response)

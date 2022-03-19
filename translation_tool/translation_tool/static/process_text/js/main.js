@@ -1,5 +1,6 @@
 var NUMSINGLE = 0;
 var NUMMULTI = 0;
+var ACTIVESENT = false;
 
 $(document).ready(function () {
     /**
@@ -19,54 +20,105 @@ $(document).ready(function () {
      * Mouseover, mouseout, and click events for sentences
      * on metric view page
      */
-    // $(".sentence").on('mouseover', function () {
-    //     let index = parseInt($(this).attr('data-index'));
-    //     let color = $(this).css('border-bottom');
-    //     if (!$(this).hasClass('clicked')) {
-    //         $("span[data-index=" + index + "]").css('background-color', color.match(/rgb(.*)/)[0]);
-    //     }
-    // });
+    $(".sentence").on('mouseover', function () {
+        let index = parseInt($(this).attr('data-index'));
+        let color = $(this).css('border-bottom');
+        if (!$(this).hasClass('clicked')) {
+            $("span[data-index=" + index + "]").css('background-color', 'rgba(0,0,0,0.05)');
+        }
+    });
 
-    // $(".sentence").on('mouseout', function () {
-    //     console.log('clicked');
-    //     let index = parseInt($(this).attr('data-index'));
-    //     if (!$(this).hasClass('clicked')) {
-    //         $("span[data-index=" + index + "]").removeClass("hovered").css('background-color', 'inherit');
-    //     }
-    // });
+    $(".sentence").on('mouseout', function () {
+        let index = parseInt($(this).attr('data-index'));
+        if (!$(this).hasClass('clicked')) {
+            $("span[data-index=" + index + "]").removeClass("hovered").css('background-color', 'inherit');
+        }
+    });
 
     $(".sentence").on('click', async function () {
         let index = parseInt($(this).attr('data-index'));
         let color = $(this).css('border-bottom');
         let idx = $(this).attr('data-index');
         let simScore = $(this).attr('data-sim');
-        let compScore = $(this).attr('data-comp');
         let readScore = $(this).attr('data-read');
         let semdomScore = $(this).attr('data-semdom');
         if ($(this).hasClass('clicked')) {
+            ACTIVESENT = false;
+            $('.add-question').toggleClass('active');
             $(".sentence").removeClass("clicked").css('background-color', 'inherit').css('color', 'black');
             $("#simScore").text('');
-            $("#compScore").text('');
+            $("#comp-questions").empty();
             $("#readScore").text('');
             $("#semdomScore").text('');
         }
         else {
+            if (!ACTIVESENT) {
+                $('.add-question').toggleClass('active');
+            }
+            ACTIVESENT = true;
+            // $('.add-question').toggleClass('active');
             $(".sentence").removeClass("clicked").css('background-color', 'inherit').css('color', 'black');
             $("span[data-index=" + index + "]").addClass('clicked').css('background-color', color.match(/rgb(.*)/)[0]).css('color', 'white');
+            $("#comp-questions").empty();
+            let compResponse = await fetch('/index/api/compData/' + idx);
+            let compData = await compResponse.json();
+            compData = compData.data;
+            if (compData) {
+                console.log(compData)
+                for (let i = 0; i < compData.length; i++) {
+                    var data = compData[i];
+                    console.log(data);
+                    var q = '<b style="border-bottom: 1px solid black;">Q: </b><span>' + data.question + '</span><br>'
+                    var a = '<b style="border-bottom: 1px solid black;">A: </b><span>' + data.answer.answer  + '</span><br>'
+                    var e = '<b style="border-bottom: 1px solid black;">Expected: </b><span>' + data.expected  + '</span><br><hr>'
+                    $("#comp-questions").append(q + a + e);
+                }
+            }
+            $("#simScore").text(simScore);
+            $("#readScore").text(readScore);
+            $("#semdomScore").text(semdomScore);
         }
-        $("#simScore").text(simScore);
-        $("#compScore").text(compScore);
-        $("#readScore").text(readScore);
-        $("#semdomScore").text(semdomScore);
+    });
 
-        let compResponse = await fetch('/index/api/compData/' + idx);
-        let compData = await compResponse.json();
-        compData = compData.data;
-        if (compData) {
-            console.log(compData);
-            $("#compQ").text(compData.question);
-            $("#compA").text(compData.answer.answer);
-        }
+    $("#add-question-btn").on('click', function () {
+        $("#add-question-context").text($(".sentence.clicked.translated").text());
+    });
+
+    function add_question() {
+        console.log('SUBMIT_FUNC');
+        var idx = $(".sentence.clicked.translated").attr('data-index');
+        $.ajax({
+            url: '/index/api/postQuestion/' + idx + '/',
+            type: 'POST',
+            data: {
+                context: $("#add-question-context").text(),
+                question: $("#add-question-question").val(),
+                answer: $("#add-question-answer").val(),
+            },
+
+            success: function(json) {
+                var data = json.data;
+                console.log(json);
+                var q = '<b style="border-bottom: 1px solid black;">Q: </b><span>' + data.question + '</span><br>'
+                var a = '<b style="border-bottom: 1px solid black;">A: </b><span>' + data.answer.answer + '</span><br>'
+                var e = '<b style="border-bottom: 1px solid black;">Expected: </b><span>' + data.expected + '</span><br><hr>'
+                $("#comp-questions").append(q + a + e);
+                $("#add-question-question").val('');
+                $("#add-question-answer").val('');
+                $('.save-changes').toggleClass('active_');
+            },
+
+            failure: function(xhr, msg, err) {
+                $('.save-changes').toggleClass('active_');
+                console.log(msg);
+            }
+        })
+    }
+
+    $("#add-question-submit").on('click', function () {
+        console.log('SUBMIT');
+        $('.save-changes').toggleClass('active_');
+        add_question();
     });
 
     /**
@@ -102,7 +154,7 @@ $(document).ready(function () {
                     top: 5, bottom: 5
                 };
                 var width = 200;
-                var height = 175;
+                var height = 150;
                 svg = svg.append('g')
                         .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
                 var x = d3.scaleLinear()
@@ -205,7 +257,6 @@ $(document).ready(function () {
                 .join('path')
                 .attr('d', arcGenerator)
                 .attr('class', 'comp-path')
-                // .attr('class', 'test')
                 .attr('class', function(d) { return 'comp-path ' + d.data[0] })
                 .attr('fill', function(d){ return(color(d.data[1])) })
                 .attr("stroke", "black")
@@ -230,7 +281,6 @@ $(document).ready(function () {
                         }
                     }
                     else {
-                        // d3.select('rect.sim-rect').classed('selected', null);
                         d3.select(this).classed('selected', true);
                         var label = $(this).attr('data-label');
                         for (let i = 0; i < compDataIdx.length; i++) {
@@ -245,12 +295,6 @@ $(document).ready(function () {
                                 }
                             }
                         }
-                        // $('.sentence').each(function(idx) {
-                        //     var sim_ = parseFloat($(this).attr('data-sim'));
-                        //     if (sim_ < x1 && sim_ >= x0) {
-                        //         $(this).css('border-bottom', '3px solid #005CB9');
-                        //     }
-                        // });
                     }
                 })
                 svg
@@ -276,7 +320,7 @@ $(document).ready(function () {
                     top: 5, bottom: 5
                 };
                 var width = 200;
-                var height = 175;
+                var height = 150;
                 svg = svg.append('g')
                         .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
                 var x = d3.scaleLinear()
@@ -343,7 +387,7 @@ $(document).ready(function () {
                     top: 5, bottom: 5
                 };
                 var width = 200;
-                var height = 175;
+                var height = 155;
                 svg = svg.append('g')
                         .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
                 var x = d3.scaleLinear()
@@ -387,19 +431,16 @@ $(document).ready(function () {
     });
 
     $('#toMetricView').on('click', function() {
-        console.log('clicked');
         $("#results-results").toggleClass('active');
         $("#results-metrics").toggleClass('active');
     });
 
     $('#metricData').on('click', function() {
-        console.log('clicked');
         $("#results-metrics").toggleClass('active');
         $("#results-processing").toggleClass('active');
     });
 
     $('#overviewData').on('click', async function() {
-        console.log('clicked')
         let simResponse = await fetch('/index/api/simData');
         let simData = await simResponse.json();
         simData = simData.data;
@@ -416,12 +457,6 @@ $(document).ready(function () {
         console.log(simData)
         $("#results-results").toggleClass('active');
         $("#results-processing").toggleClass('active');
-        let margin = {
-            left: 15, right: 15,
-            top: 15, bottom: 15
-        };
-        let width = 450;
-        let height = 150;
 
         /**
          * Similarity Histogram
@@ -432,7 +467,7 @@ $(document).ready(function () {
             top: 5, bottom: 5
         };
         var widthSim = 450;
-        var heightSim = 180;
+        var heightSim = 150;
         simSvg = simSvg.append('g')
                 .attr('transform', 'translate(' + marginSim.left + ',' + marginSim.top + ')');
         var xSim = d3.scaleLinear()
@@ -468,7 +503,7 @@ $(document).ready(function () {
          */
         var marginComp = 5; 
         var widthComp = 450;
-        var heightComp = 180;
+        var heightComp = 150;
         const radius = Math.min(widthComp, heightComp) / 2 - marginComp;
         // compsvg = compsvg.append('g')
         //     .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
@@ -493,15 +528,15 @@ $(document).ready(function () {
             .selectAll('whatever')
             .data(dataReadyComp)
             .join('path')
-            .attr('d', arcGenerator)
-            .attr('class', 'comp-path')
-            // .attr('class', 'test')
-            .attr('class', function(d) { return 'comp-path ' + d.data[0] })
-            .attr('fill', function(d){ return(colorComp(d.data[1])) })
-            .attr("stroke", "black")
-            .attr('data-label', function(d) { return d.data[0] })
-            .style("stroke-width", "1px")
-            .style("opacity", 0.7)
+                .attr('d', arcGenerator)
+                .attr('class', 'comp-path')
+                // .attr('class', 'test')
+                .attr('class', function(d) { return 'comp-path ' + d.data[0] })
+                .attr('fill', function(d){ return(colorComp(d.data[1])) })
+                .attr("stroke", "black")
+                .attr('data-label', function(d) { return d.data[0] })
+                .style("stroke-width", "1px")
+                .style("opacity", 0.7)
         svgComp
             .selectAll('mySlices')
             .data(dataReadyComp)
@@ -520,7 +555,7 @@ $(document).ready(function () {
             top: 5, bottom: 5
         };
         var widthRead = 450;
-        var heightRead = 180;
+        var heightRead = 150;
         svgRead = svgRead.append('g')
                 .attr('transform', 'translate(' + marginRead.left + ',' + marginRead.top + ')');
         var xRead = d3.scaleLinear()
@@ -551,7 +586,58 @@ $(document).ready(function () {
                 .attr('data-hi', d => { return d.x1 })
                 .attr('class', 'sim-rect')
                 
-    })
+    });
+
+    // This function gets cookie with a given name
+    function getCookie(name) {
+        var cookieValue = null;
+        if (document.cookie && document.cookie != '') {
+            var cookies = document.cookie.split(';');
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = jQuery.trim(cookies[i]);
+                // Does this cookie string begin with the name we want?
+                if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                    cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                    break;
+                }
+            }
+        }
+        return cookieValue;
+    }
+    var csrftoken = getCookie('csrftoken');
+
+    /*
+    The functions below will create a header with csrftoken
+    */
+
+    function csrfSafeMethod(method) {
+        // these HTTP methods do not require CSRF protection
+        return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+    }
+    function sameOrigin(url) {
+        // test that a given url is a same-origin URL
+        // url could be relative or scheme relative or absolute
+        var host = document.location.host; // host + port
+        var protocol = document.location.protocol;
+        var sr_origin = '//' + host;
+        var origin = protocol + sr_origin;
+        // Allow absolute or scheme relative URLs to same origin
+        return (url == origin || url.slice(0, origin.length + 1) == origin + '/') ||
+            (url == sr_origin || url.slice(0, sr_origin.length + 1) == sr_origin + '/') ||
+            // or any other URL that isn't scheme relative or absolute i.e relative.
+            !(/^(\/\/|http:|https:).*/.test(url));
+    }
+
+    $.ajaxSetup({
+        beforeSend: function(xhr, settings) {
+            if (!csrfSafeMethod(settings.type) && sameOrigin(settings.url)) {
+                // Send the token to same-origin, relative URLs only.
+                // Send the token only if the method warrants CSRF protection
+                // Using the CSRFToken value acquired earlier
+                xhr.setRequestHeader("X-CSRFToken", csrftoken);
+            }
+        }
+    });
 
 });
 
