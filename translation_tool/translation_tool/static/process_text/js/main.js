@@ -6,23 +6,25 @@ $(document).ready(function () {
     /**
      * Sidebar collapse functionality
      */
-    $('#sidebarCollapse').on('click', function () {
-        $('#sidebar').toggleClass('active');
-    });
+    // $('#sidebarCollapse').on('click', function () {
+    //     $('#sidebar').toggleClass('active');
+    // });
 
-    $('.account-dropdown').on({
-        "click":function(e){
-          e.stopPropagation();
-        }
-    });
+    // $('.account-dropdown').on({
+    //     "click":function(e){
+    //       e.stopPropagation();
+    //     }
+    // });
 
     /**
-     * Mouseover, mouseout, and click events for sentences
-     * on metric view page
+     * SENTENCE SELECTION
+     * Mouseover, mouseout and click events for sentence selection
+     * when selecting different metrics
      */
+    
+    // Grey background when hover over sentence
     $(".sentence").on('mouseover', function () {
         let index = parseInt($(this).attr('data-index'));
-        let color = $(this).css('border-bottom');
         if (!$(this).hasClass('clicked')) {
             $("span[data-index=" + index + "]").css('background-color', 'rgba(0,0,0,0.05)');
         }
@@ -36,12 +38,14 @@ $(document).ready(function () {
     });
 
     $(".sentence").on('click', async function () {
+        // Get attributes
         let index = parseInt($(this).attr('data-index'));
         let color = $(this).css('border-bottom');
         let idx = $(this).attr('data-index');
         let simScore = $(this).attr('data-sim');
         let readScore = $(this).attr('data-read');
         let semdomScore = $(this).attr('data-semdom');
+        // If deselecting current sentence
         if ($(this).hasClass('clicked')) {
             ACTIVESENT = false;
             $('.add-question').toggleClass('active');
@@ -51,18 +55,21 @@ $(document).ready(function () {
             $("#readScore").text('');
             $("#semdomScore").text('');
         }
+        // If selecting new sentence
         else {
             if (!ACTIVESENT) {
                 $('.add-question').toggleClass('active');
             }
             ACTIVESENT = true;
-            // $('.add-question').toggleClass('active');
+            // Change background color to selected color
             $(".sentence").removeClass("clicked").css('background-color', 'inherit').css('color', 'black');
             $("span[data-index=" + index + "]").addClass('clicked').css('background-color', color.match(/rgb(.*)/)[0]).css('color', 'white');
             $("#comp-questions").empty();
+            // Get comprehensibility data
             let compResponse = await fetch('/index/api/compData/' + idx);
             let compData = await compResponse.json();
             compData = compData.data;
+            // Display questions and answers
             if (compData) {
                 console.log(compData)
                 for (let i = 0; i < compData.length; i++) {
@@ -74,18 +81,23 @@ $(document).ready(function () {
                     $("#comp-questions").append(q + a + e);
                 }
             }
+            // Display numerical scores
             $("#simScore").text(simScore);
             $("#readScore").text(readScore);
             $("#semdomScore").text(semdomScore);
         }
     });
 
+    /**
+     * ADD NEW QUESTIONS
+     */
+    // Update modal text
     $("#add-question-btn").on('click', function () {
         $("#add-question-context").text($(".sentence.clicked.translated").text());
     });
 
+    // Ajax function to add question to database
     function add_question() {
-        console.log('SUBMIT_FUNC');
         var idx = $(".sentence.clicked.translated").attr('data-index');
         $.ajax({
             url: '/index/api/postQuestion/' + idx + '/',
@@ -97,6 +109,7 @@ $(document).ready(function () {
             },
 
             success: function(json) {
+                // On success, place question/answer in comprehensibility space
                 var data = json.data;
                 console.log(json);
                 var q = '<b style="border-bottom: 1px solid black;">Q: </b><span>' + data.question + '</span><br>'
@@ -114,33 +127,32 @@ $(document).ready(function () {
             }
         })
     }
-
+    // Submit question button
     $("#add-question-submit").on('click', function () {
-        console.log('SUBMIT');
         $('.save-changes').toggleClass('active_');
         add_question();
     });
 
     /**
-     * Toggle metric buttons on/off
-     * depending on which ones are selected
+     * TOGGLE METRICS
      */
     $(".icon-btn").on('click', async function () {
         let metric = $(this).attr('id');
         let inc = 0;
-
-        if ($(this).hasClass('btn-dark')) {
-            $(this).removeClass('btn-dark');
-            $(this).addClass('btn-outline-dark');
+        // Change display of outline button
+        if ($(this).hasClass('btn-primary')) {
+            $(this).removeClass('btn-primary');
+            $(this).addClass('btn-outline-primary');
             inc = -1;
         }
         else {
-            $(this).removeClass('btn-outline-dark');
-            $(this).addClass('btn-dark');
+            $(this).removeClass('btn-outline-primary');
+            $(this).addClass('btn-primary');
             inc = 1;
         }
-
+        // Add chart based on metric
         switch (metric) {
+            // Similarity Chart
             case 'simBtn':
                 NUMMULTI += inc;
                 $("#simScoreDiv").toggleClass('active');
@@ -184,7 +196,6 @@ $(document).ready(function () {
                         .attr('data-lo', d => { return d.x0 })
                         .attr('data-hi', d => { return d.x1 })
                         .attr('class', 'sim-rect')
-                        // .style("fill", "#b3edff")
                         .on('click', function() {
                             var x0 = parseFloat($(this).attr('data-lo'));
                             var x1 = parseFloat($(this).attr('data-hi'));
@@ -199,7 +210,6 @@ $(document).ready(function () {
                                 });
                             }
                             else {
-                                // d3.select('rect.sim-rect').classed('selected', null);
                                 d3.select(this).classed('selected', true);
                                 $('.sentence').each(function(idx) {
                                     var sim_ = parseFloat($(this).attr('data-sim'));
@@ -210,6 +220,7 @@ $(document).ready(function () {
                             }
                         })
                 break;
+            // Comprehensibility Chart
             case 'compBtn':
                 NUMMULTI += inc;
                 $("#compScoreDiv").toggleClass('active');
@@ -218,25 +229,15 @@ $(document).ready(function () {
                 var compDataLarge = await compResponse.json();
                 var compData = compDataLarge.data;
                 var compDataIdx = compDataLarge.idx;
-                console.log(compDataIdx)
 
-                // var compsvg = d3.select('#viewChartCompSvg');
-                // var margin = {
-                //     left: 15, right: 5,
-                //     top: 5, bottom: 5
-                // };
                 var margin = 5; 
                 var width = 200;
                 var height = 175;
                 const radius = Math.min(width, height) / 2 - margin;
-                // compsvg = compsvg.append('g')
-                //     .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
+                
                 var svg = d3.select("#viewChartCompSvg")
                     .append("g")
                     .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
-                
-                // Create dummy data
-                const data = {a: 9, b: 20, c:30, d:8, e:12}
 
                 // set the color scale
                 const color = d3.scaleOrdinal()
@@ -297,8 +298,7 @@ $(document).ready(function () {
                         }
                     }
                 })
-                svg
-                    .selectAll('mySlices')
+                svg.selectAll('mySlices')
                     .data(data_ready)
                     .join('text')
                     .text(function(d){ return d.data[0]})
@@ -306,7 +306,7 @@ $(document).ready(function () {
                     .style("text-anchor", "middle")
                     .style("font-size", 10)
                 break;
-
+            // Readability Chart
             case 'readBtn':
                 NUMSINGLE += inc;
                 $("#readScoreDiv").toggleClass('active');
@@ -374,52 +374,14 @@ $(document).ready(function () {
                             }
                         })
                 break;
+            // Semantic Domain Chart (TODO)
             case 'semdomBtn':
                 NUMSINGLE += inc;
-                $("#semdomScoreDiv").toggleClass('active');
-                $("#viewChartSemdom").toggleClass('active');
-                var semdomResponse = await fetch('/index/api/semdomData');
-                var semdomData = await semdomResponse.json();
-                semdomData = semdomData.data;
-                var svg = d3.select('#viewChartSemdomSvg');
-                var margin = {
-                    left: 15, right: 5,
-                    top: 5, bottom: 5
-                };
-                var width = 200;
-                var height = 155;
-                svg = svg.append('g')
-                        .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
-                var x = d3.scaleLinear()
-                    .domain([0,5])
-                    .range([0,width]);
-                svg.append('g')
-                    .attr('transform','translate(0,' + height + ')')
-                    .call(d3.axisBottom(x));
-                var hist = d3.histogram()
-                    .value(d => { return d; })
-                    .domain(x.domain())
-                    .thresholds(x.ticks(5));
-                var bins = hist(semdomData);
-                var y = d3.scaleLinear()
-                    .range([height, 0]);
-                y.domain([0, d3.max(bins, d => { return d.length })]);
-                svg.append('g')
-                    .call(d3.axisLeft(y));
-                svg.selectAll('rect')
-                    .data(bins)
-                    .enter()
-                    .append('rect')
-                        .attr('x', 1)
-                        .attr('transform', d => { return "translate(" + x(d.x0) + "," + (y(d.length) - 1) + ")"; })
-                        .attr("width", d => { return x(d.x1) - x(d.x0) ; })
-                        .attr("height", d => { return height - y(d.length); })
-                        .style("fill", "#b3edff");
                 break;
             default:
                 console.log("Unrecognized button id.")
         }
-
+        // Toggle between source&translated or just translated
         $(".in").removeClass('active');
         if (NUMMULTI > 0) {
             $("#multi").addClass('active');
@@ -430,6 +392,9 @@ $(document).ready(function () {
 
     });
 
+    /** 
+     * Processed page buttons
+     */
     $('#toMetricView').on('click', function() {
         $("#results-results").toggleClass('active');
         $("#results-metrics").toggleClass('active');
@@ -440,7 +405,12 @@ $(document).ready(function () {
         $("#results-processing").toggleClass('active');
     });
 
+    /**
+     * Broad overview page.
+     * All the charts displayed in one view
+     */
     $('#overviewData').on('click', async function() {
+        // Get all data
         let simResponse = await fetch('/index/api/simData');
         let simData = await simResponse.json();
         simData = simData.data;
@@ -505,8 +475,6 @@ $(document).ready(function () {
         var widthComp = 450;
         var heightComp = 150;
         const radius = Math.min(widthComp, heightComp) / 2 - marginComp;
-        // compsvg = compsvg.append('g')
-        //     .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
         var svgComp = d3.select("#resultsBodyComp")
             .append("g")
             .attr("transform", "translate(" + widthComp / 2 + "," + heightComp / 2 + ")");
@@ -530,15 +498,13 @@ $(document).ready(function () {
             .join('path')
                 .attr('d', arcGenerator)
                 .attr('class', 'comp-path')
-                // .attr('class', 'test')
                 .attr('class', function(d) { return 'comp-path ' + d.data[0] })
                 .attr('fill', function(d){ return(colorComp(d.data[1])) })
                 .attr("stroke", "black")
                 .attr('data-label', function(d) { return d.data[0] })
                 .style("stroke-width", "1px")
                 .style("opacity", 0.7)
-        svgComp
-            .selectAll('mySlices')
+        svgComp.selectAll('mySlices')
             .data(dataReadyComp)
             .join('text')
             .text(function(d){ return d.data[0]})
@@ -588,6 +554,10 @@ $(document).ready(function () {
                 
     });
 
+    /**
+     * Code was taken from https://github.com/realpython/django-form-fun/blob/master/part1/main.js
+     * Adds csrf_token in JavaScript
+     */
     // This function gets cookie with a given name
     function getCookie(name) {
         var cookieValue = null;
