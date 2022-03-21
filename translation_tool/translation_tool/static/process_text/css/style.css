@@ -507,6 +507,16 @@ div.view-chart.active {
     background-color: #005CB9;
     border-color: #005CB9;
 }
+.btn-outline-primary {
+    color: #00a7e1;
+    border-color: #00a7e1;
+    background-color: #ffffff;
+}
+.btn-outline-primary:hover {
+    background-color: #005CB9;
+    border-color: #005CB9;
+    color: #ffffff;
+}
 
 .margin-left-10 {
     margin-left: 10;
