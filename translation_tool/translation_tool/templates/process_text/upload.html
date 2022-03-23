@@ -26,7 +26,7 @@
                         <div class="progress" id="PreLoaderBar">
                             <div class="indeterminate"></div>
                         </div>
-                        <button onclick="showProgressBar()" type="submit">Submit</button>
+                        <button onclick="showProgressBar()" type="submit" data-toggle="modal" data-target="#processingModal">Submit</button>
                     </form>
                 </div>
                 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -62,49 +62,73 @@
                 </div>
                     <div class="row">
                         <div class="col">
-                            <!-- <div class="row text_resize">
-                                <div class="col-5 input-group-prepend">
-                                    <label class="input-group-text" for="inputGroupSelect01">Source Language</label>
-                                </div>
-                                <div class="col-5">
-                                    <select class="custom-select" name="sourceLang" id="sourceLang">
-                                        <option value="none">---</option>
-                                        <option value="eng">English</option>
-                                        <option value="hin">Hindi</option>
-                                        <option value="fre">French</option>
-                                        <option value="ger">German</option>
-                                        <option value="spa">Spanish</option>
-                                    </select>
-                                </div>
-                            </div> -->
                             <textarea name="source" class="text_resize" cols="50" rows="20" placeholder="Source text goes here"></textarea>
                         </div>
                         <div class="col">
-                            <!-- <div class="row text_resize">
-                                <div class="col-5 input-group-prepend">
-                                    <label class="input-group-text" for="inputGroupSelect01">Translated Language</label>
-                                </div>
-                                <div class="col-5">
-                                    <select class="custom-select" name="transLang" id="transLang">
-                                        <option value="none">---</option>
-                                        <option value="eng">English</option>
-                                        <option value="hin">Hindi</option>
-                                        <option value="fre">French</option>
-                                        <option value="ger">German</option>
-                                        <option value="spa">Spanish</option>
-                                    </select>
-                                </div>
-                            </div> -->
                             <textarea name="translated" class="text_resize" cols="50" rows="20" placeholder="Translated text goes here"></textarea>
                         </div>
                     </div>
                     <br>
                     <div>
-                        <button class="btn btn-secondary" type="submit">Submit</button>
+                        <button class="btn btn-secondary" type="submit" data-toggle="modal" data-target="#processingModal">Submit</button>
                     </div>
                 </div>
             </div>
         </form>
+    </div>
+</div>
+<div class="modal fade" id="processingModal" tabindex="-1" role="dialog" aria-labelledby="processingModalTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Processing...</h5>
+                <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"> -->
+                <!-- <span aria-hidden="true">&times;</span> -->
+                <!-- </button> -->
+            </div>
+            <!-- <form>
+                {% csrf_token %} -->
+                <div class="modal-body">
+                    <div class="metric-processing">
+                        <span>Similarity:</span>
+                        <br>
+                        <div class="spinner-border spinner-border-sm" role="status">
+                            <span class="sr-only">Loading...</span>
+                        </div>
+                    </div>
+                    <div class="metric-processing">
+                        <span>Comprehensibility:</span>
+                        <br>
+                        <div class="spinner-border spinner-border-sm" role="status">
+                            <span class="sr-only">Loading...</span>
+                        </div>
+                    </div>
+                    <div class="metric-processing">
+                        <span>Readability:</span>
+                        <br>
+                        <div class="spinner-border spinner-border-sm" role="status">
+                            <span class="sr-only">Loading...</span>
+                        </div>
+                    </div>
+                    <div class="metric-processing">
+                        <span>Similarity:</span>
+                        <br>
+                        <div class="spinner-border spinner-border-sm" role="status">
+                            <span class="sr-only">Loading...</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <div class="spinner-border save-changes" role="status">
+                        <span class="sr-only">Loading...</span>
+                    </div>
+                    <button id="add-question-submit" type="button" class="save-changes active_ btn btn-primary">
+                        Save changes
+                    </button>
+                </div> -->
+            <!-- </form> -->
+        </div>
     </div>
 </div>
 {% endblock %}

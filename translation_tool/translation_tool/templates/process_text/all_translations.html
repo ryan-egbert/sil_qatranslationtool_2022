@@ -1,0 +1,25 @@
+{% extends 'process_text/base.html' %}
+
+{% block body_content %}
+<div class="container">
+    <h1 class="header-center">Translations</h1>
+    {% for row in translations %}
+    <div class="row">
+        {% for t in row %}
+        <div class="col">
+            <div class="card translation-card">
+                <div class="card-header">Translation ID - <a class="translation-link" href="/index/user/translations/{{t.id}}/">{{ t.id }}</a></div>
+                <div class="card-body">
+                    <p>{{ t.preview }}</p>
+                    <hr>
+                    <p>Average Similarity Score: {{ t.avg_sim }}</p>
+                    <p>Correct Questions: {{ t.num_comp }}</p>
+                    <p>Average Readability Score: {{ t.avg_read }}</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

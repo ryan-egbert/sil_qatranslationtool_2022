@@ -1,0 +1,5 @@
+Django>=3.0,<4.0
+dnspython>=2.0
+pymongo>=4.0
+torch>=1.10
+transformers>=4.16

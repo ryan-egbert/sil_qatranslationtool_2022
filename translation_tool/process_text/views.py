@@ -1,12 +1,14 @@
 ### Imports
+from django.contrib.auth.models import User
+from django.contrib.auth import authenticate, login, logout 
 from django.shortcuts import render, redirect
-from django.http import HttpResponse
+from django.http import HttpResponse, JsonResponse
 from django.template import loader
-from colour import Color
+# from colour import Color
 from random import choice, shuffle
 import warnings
 # from .models import TextPair, User
-from .classes import TextPair, User
+from .classes import TextPair, UserMongo
 import csv
 import io
 import os
@@ -19,90 +21,49 @@ DB = client.translation_tool
 CUR_USER = None
 from torch import no_grad, matmul
 import torch.nn.functional as F
-# import pickle as pck
 from transformers import BertModel, BertTokenizerFast
 from transformers.pipelines import pipeline
-# with open('model.pck', 'rb') as f:
-#     model = pck.load(f)
-# with open('tokenizer.pck', 'rb') as f:
-#     tokenizer = pck.load(f)
+from io import StringIO
 
-### Load similarity model (LaBSE)
 tokenizer = BertTokenizerFast.from_pretrained("setu4993/LaBSE")
 model = BertModel.from_pretrained("setu4993/LaBSE")
 model = model.eval()
 
-### Read in dummy csv
-# reader = csv.reader(open('/Users/ryanegbert/Desktop/spring22/ip/app/covid_files/csv/test_file.csv', 'r'))
-# first_row = True
-# langs = []
-# source_text = []
-# translated_text = []
-# for row in reader:
-#     if first_row:
-#         langs = row
-#         first_row = False
-#         continue
-#     source_text.append(row[0])
-#     translated_text.append(row[1])
-ID = random.randint(10000,99999)
-# TP = TextPairClass(source_text, translated_text, _id=-1)
+req_model = "mrm8488/bert-multi-cased-finetuned-xquadv1"
+req_tokenizer = "mrm8488/bert-multi-cased-finetuned-xquadv1"
+hg_comp = pipeline('question-answering', model=req_model, tokenizer=req_tokenizer)
 
-
-# Index page (this is not used, can be deleted)
-def index(request):
-    context = {
-        'cur_user': CUR_USER,
-        'source_txt': 'This is source text',
-        'trans_txt': 'This is translated text'
-    }
-    return render(request, 'process_text/index.html', context)
+# Home page
+def home(request):
+    global DB
+    context = {}
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        context['cur_user'] = user
+    
+    return render(request, 'process_text/home.html', context)
 
 # Login page
-def login(request):
+def login_view(request):
     context = {}
     return render(request, 'process_text/login.html', context)
-
-# Hash passwords during registration
-# Returns list of integers
-# def hash_pass(password, salt):
-#     key = hashlib.pbkdf2_hmac(
-#         'sha256', 
-#         password.encode('utf-8'), 
-#         salt, 100000)
-
-#     return list(key)
-
-def verify_pass(user, password):
-    key = hashlib.pbkdf2_hmac(
-        'sha256',
-        password.encode('utf-8'),
-        user['salt'], 100000
-    )
-
-    return user['salt'] + key == user['password']
 
 # Process login request
 # TODO: Redirects to upload page if authentication succeeds
 def process_login(request):
-    global CUR_USER
     username = request.GET['username']
     password = request.GET['password']
-    col = DB.user
-    user = col.find_one({'username':username})
-    if user != None:
-        CUR_USER = user
-        # user_pass = user.password.split(' ')
-        # user_pass_int = [int(i) for i in user_pass]
-        # user_salt = user.salt.split(' ')
-        # user_salt_bytes = bytes([int(i) for i in user_salt])
+    user = authenticate(request, username=username, password=password)
+    if user is not None:
+        login(request, user)
+        return redirect('home')
+    else:
+        return redirect('loginuser')
 
-        # key = hash_pass(password, user_salt_bytes)
-    
-        if verify_pass(user, password):
-            return redirect('upload')
-        else:
-            return redirect('loginuser')
+def process_logout(request):
+    if request.user.is_authenticated:
+        logout(request)
+    return redirect('home')
 
 # Register page
 def register(request):
@@ -115,12 +76,17 @@ def process_registration(request):
     if request.method == 'POST':
         col = DB.user
         username = request.POST['username']
-        full_name = request.POST['fullname']
+        email = request.POST['email']
+        first_name = request.POST['firstname']
+        last_name = request.POST['lastname']
         password = request.POST['password']
         user = col.find_one({'username':username})
         if user == None:
-            user = User(username, password)
-            col.insert_one(user.dict)
+            user = User.objects.create_user(username=username, email=email, password=password, first_name=first_name, last_name=last_name)
+            user.save()
+            userMongo = UserMongo(username, password, email, first_name, last_name)
+            col.insert_one(userMongo.dict)
+            login(request, user)
         else:
             warnings.warn("User " + username + " already exists. Please choose a different username.")
             context = {
@@ -128,32 +94,156 @@ def process_registration(request):
             }
             return render(request, 'process_text/register.html', context)
 
-        # salt = os.urandom(32)
-        # key = hash_pass(password, salt)
-        # salt_list = list(salt)
+    return redirect('home')
 
-        # user = User()
-        # user.username = username
-        # salt_list_str = [str(i) for i in salt_list]
-        # key_str = [str(i) for i in key]
-        # user.password = ' '.join(salt_list_str + key_str)
-        # user.salt = ' '.join(salt_list_str)
-        # user.save()
+def account_settings(request):
+    context = {}
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        context['cur_user'] = user
+    return render(request, 'process_text/account_settings.html', context)
 
-    return redirect('upload')
+def preview_translation(matches):
+    if len(matches) < 1:
+        return 'No text available'
+    else:
+        return matches[0]['source'][:25] + '...'
 
+def avg_sim(matches):
+    score = 0
+    num_scores = len(matches)
+    for m in matches:
+        score += float(m['sim_score'])
+
+    if num_scores == 0:
+        return 0
+    return round(score / num_scores, 2)
+
+def avg_read(matches):
+    score = 0
+    num_scores = len(matches)
+    for m in matches:
+        score += float(m['read_score'])
+
+    if num_scores == 0:
+        return 0
+    return round(score / num_scores, 2)
+
+def num_comp(matches):
+    num_correct = 0
+    num_questions = 0
+    for m in matches:
+        if m['comp_score'] is not None and type(m['comp_score']) is not int and len(m['comp_score']) > 0:
+            for question in m['comp_score']:
+                try:
+                    num_questions += 1
+                    if question['correct']:
+                        num_correct += 1
+                except:
+                    pass
+    
+    return f'{num_correct} / {num_questions}'
+
+def user_translations(request):
+    global DB
+    context = {}
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        context['cur_user'] = user
+
+        translations = DB.textpair.find({'user': user['username']}).sort('datetime', -1)
+
+        translation_cols = []
+        translation_row = []
+        for t in translations:
+            translation_row.append({
+                'id': t['id'],
+                'preview': preview_translation(t['matches']),
+                'avg_sim': avg_sim(t['matches']),
+                'avg_read': avg_read(t['matches']),
+                'num_comp': num_comp(t['matches']),
+            })
+            if len(translation_row) == 3:
+                translation_cols.append(translation_row)
+                translation_row = []
+        translation_cols.append(translation_row)
+
+        context['translations'] = translation_cols
+
+    return render(request, 'process_text/all_translations.html', context)
+
+def translation_results(request, t_id):
+    global DB
+    context = {}
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        context['cur_user'] = user
+        tp = DB.textpair.find_one({'id': int(t_id)})
+
+        if tp is not None:
+            context['sentences'] = tp['matches']
+            context['options'] = tp['options']
+
+    return render(request, 'process_text/results.html', context)
+
+'''
+from PIL import Image
+import numpy as np
+import random
+_0 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+_1 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+_2 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+_3 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+_4 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+_5 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+_6 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+_7 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+
+pixels_list = [
+    [_0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0],
+    [_0, _1, _5, _6, _6, _6, _6, _6, _6, _6, _6, _6, _6, _5, _1, _0],
+    [_0, _7, _1, _5, _6, _6, _6, _6, _6, _6, _6, _6, _5, _1, _7, _0],
+    [_0, _7, _7, _1, _5, _5, _6, _6, _6, _6, _5, _5, _1, _7, _7, _0],
+    [_0, _7, _7, _7, _1, _1, _5, _5, _5, _5, _1, _1, _7, _7, _7, _0],
+    [_0, _3, _3, _7, _7, _7, _1, _1, _1, _1, _7, _7, _7, _3, _3, _0],
+    [_0, _4, _4, _7, _7, _7, _2, _2, _2, _2, _7, _7, _7, _4, _4, _0],
+    [_0, _3, _3, _7, _7, _7, _2, _2, _2, _2, _7, _7, _7, _3, _3, _0],
+    [_0, _4, _4, _7, _7, _7, _2, _2, _2, _2, _7, _7, _7, _4, _4, _0],
+    [_0, _3, _3, _7, _7, _7, _2, _2, _2, _2, _7, _7, _7, _3, _3, _0],
+    [_0, _7, _7, _7, _7, _7, _1, _1, _1, _1, _7, _7, _7, _7, _7, _0],
+    [_0, _7, _7, _7, _1, _1, _5, _5, _5, _5, _1, _1, _7, _7, _7, _0],
+    [_0, _7, _7, _1, _5, _5, _6, _6, _6, _6, _5, _5, _1, _7, _7, _0],
+    [_0, _7, _1, _5, _6, _6, _6, _6, _6, _6, _6, _6, _5, _1, _7, _0],
+    [_0, _1, _5, _6, _6, _6, _6, _6, _6, _6, _6, _6, _6, _5, _1, _0],
+    [_0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0]
+]
+
+avatar_array = np.array(pixels_list, dtype=np.uint8)
+avatar_image = Image.fromarray(avatar_array)
+avatar_image = avatar_image.resize((480, 480), resample=Image.NEAREST)
+avatar_image.save("avatar3.png")
+'''
 # Upload page
 def upload(request):
-    context = {'cur_user': CUR_USER,}
+    global DB
+    context = {}
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        context['cur_user'] = user
     return render(request, 'process_text/upload.html', context)
 
 # Compute similarity score between two embedded outputs
 def similarity_score(source, translated):
-    global model, tokenizer
-    ID = random.randint(10000,99999)
-    while DB.textpair.find_one({'id':ID}) != None:
-        ID = random.randint(10000,99999)
+    global tokenizer, model
+    ### Load similarity model (LaBSE)
+    # ID = random.randint(10000,99999)
+    # while DB.textpair.find_one({'id':ID}) != None: 
+    #     ID = random.randint(10000,99999)
     # Tokenize inputs
+    if len(source) == 0:
+        source = ['']
+    if len(translated) == 0:
+        translated = ['']
     source_inputs = tokenizer(source, return_tensors="pt", padding=True)
     translated_inputs = tokenizer(translated, return_tensors="pt", padding=True)
     # Convert inputs with LaBSE model
@@ -171,171 +261,155 @@ def similarity_score(source, translated):
     mat = matmul(normalized_embeddings_s, normalized_embeddings_t.transpose(0, 1))
     return (5 * mat.diagonal()).tolist()
 
-def comprehensibility_score(translated,question):
-    req_model = "mrm8488/bert-multi-cased-finetuned-xquadv1"
-    req_tokenizer = "mrm8488/bert-multi-cased-finetuned-xquadv1"
-    hg_comp = pipeline('question-answering', model=req_model, tokenizer=req_tokenizer)
-
-    question = question
-    context = translated
+def comprehensibility_score(questions):
+    global hg_comp
+    result = []
+    for question in questions:
+        if question[0]['question'] == None:
+            result.append(None)
+        else:
+            answer = hg_comp(question[0])
+            sim = similarity_score(question[1], answer['answer'])
+            correct = True if sim[0] >= 4 else False
+            result.append({'question': question[0]['question'], 'answer': answer, 'expected': question[1], 'correct': correct, 'result_sim': sim})
 
     # compute answer
-    answer = hg_comp({'question': question, 'context': context})
-    return (answer['answer'],answer['score'])
+    return result
 
 
 # Using Flesch–Kincaid readability tests
 def readability_score(text):
     scores = []
     for sent in text:
-        if len(sent) == 0:
+        if len(sent.split()) == 0:
             score = 0
         else:
-            score = len(sent.split()) - (len([char for word in sent.split() for char in word])/len(sent.split()))
+            char_per_word = len([char for word in sent.split() for char in word]) / len(sent.split())
+            words_in_sent = len(sent.split())
+            # score = char_per_word / words_in_sent
+            score = char_per_word
         scores.append(score)
-    # num_sent = len(text)
-    # num_words = len([word for sent in text for word in sent.split()])
-    # num_char = len([char for sent in text for word in sent.split() for char in word])
-    # # print(num_sent, num_words, num_char)
-    # return (num_words/num_sent) - (num_char/num_words)
+
     return scores
 
 # Process file upload
 # TODO: Add similarity score implementation
 def processFile(request):
-    # global TP
-    global ID
-    # global model
     global DB
     if request.method == 'POST':
-        reader = csv.reader(io.StringIO(request.FILES['uploadFile'].read().decode()))
-        first_row = True
-        langs = []
-        source_text = []
-        translated_text = []
-        for row in reader:
-            if first_row:
-                langs = row
-                first_row = False
-                continue
-            source_text.append(row[0])
-            translated_text.append(row[1])
-        sim_scores = similarity_score(source_text, translated_text)
-        read_scores = readability_score(translated_text)
-        text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, _id=ID)
-        col = DB.textpair
+        if request.user.is_authenticated:
+            user = DB.user.find_one({'username': str(request.user)})
+            if request.FILES['uploadFile'].multiple_chunks():
+                pass
+            else:
+                file_str = request.FILES['uploadFile'].read().decode()
+                file_strio = StringIO(file_str)
+                reader = csv.DictReader(file_strio)
+                langs = []
+                source_text = []
+                translated_text = []
+                questions = []
+                for row in reader:
+                    source_text.append(row['source'])
+                    translated_text.append(row['translated'])
+                    questions.append(({
+                        'context': row['translated'],
+                        'question': row['question'] if row['question'] != '' else None
+                    }, row['answer'] if row['answer'] != '' else None))
 
-        # col.insert_one(text_pair.dict)
-        with open("./json/" + str(ID) + ".json", 'w') as f:
-            json.dump(text_pair.dict, f)
+            sim_scores = similarity_score(source_text, translated_text)
+            read_scores = readability_score(translated_text)
+            comp_scores = comprehensibility_score(questions)
+            col = DB.textpair
+            ID = random.randint(10000,99999)
+            while col.find_one({'id': ID}) is None:
+                ID = random.randint(10000,99999)
+
+            text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, comp_scores=comp_scores, user=user, _id=ID)
+            
+            result = col.insert_one(text_pair.dict)
+            DB.user.update_one(
+                {'username': str(request.user)},
+                {'$push': { 
+                    'translations' : result.inserted_id
+                }})
+
+        # with open("./json/" + str(ID) + ".json", 'w') as f:
+        #     json.dump(text_pair.dict, f)
     # text_pair = TP
 
-    return processing(request, text_pair, None)
+    return redirect('results')
 
 # Process manual text input
 def processText(request):
-    global ID, model, DB
+    global DB
     if request.method == "POST":
-        # print(request.user)
-        # Get source text and translated text
-        source_text = request.POST['source'].split('\n')
-        translated_text = request.POST['translated'].split('\n')
-        # print(request.POST)
-        sim_check = comp_check = read_check = semdom_check = None
-        if 'sim-check' in request.POST:
-            sim_check = 's'
-        if 'comp-check' in request.POST:
-            comp_check = 'c'
-            question = request.POST['question'].split('\n')
-            comprehensibility_answer = comprehensibility_score(translated_text, question)[0]
-            comprehensibility_scores = comprehensibility_score(translated_text, question)[1]
+        if request.user.is_authenticated:
+            user = DB.user.find_one({'username': str(request.user)})
+            # Get source text and translated text
+            source_text = request.POST['source'].split('\n')
+            translated_text = request.POST['translated'].split('\n')
+            sim_check = comp_check = read_check = semdom_check = None
+            sim_scores = comp_scores = read_scores = []
 
-        if 'read-check' in request.POST:
-            read_check = 'r'
-        if 'semdom-check' in request.POST:
-            semdom_check = 'd'
+            if 'sim-check' in request.POST:
+                sim_check = 's'
+                sim_scores = similarity_score(source_text, translated_text)
+            if 'comp-check' in request.POST:
+                comp_check = 'c'
+                question = request.POST['question'].split('\n')
+                comp_answer, comp_scores = comprehensibility_score(translated_text, question)
+            if 'read-check' in request.POST:
+                read_check = 'r'
+                read_scores = readability_score(translated_text)
+            if 'semdom-check' in request.POST:
+                semdom_check = 'd'
 
-        options_ = [op for op in [sim_check, comp_check, read_check, semdom_check] if op != None]
-        # print(sim_check, comp_check, read_check, semdom_check)
-        # TODO: Get id of translation
-        sim_scores = similarity_score(source_text, translated_text)
-        read_scores = readability_score(translated_text)
+            options_ = [op for op in [sim_check, comp_check, read_check, semdom_check] if op != None]
+            # TODO: Get id of translation
+            ID = random.randint(10000,99999)
 
-        # scores = [0.1] * len(source_text)
+            text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, comp_scores=comp_scores, options=options_, user=user, _id=ID)
+            col = DB.textpair
+            result = col.insert_one(text_pair.dict)
+            DB.user.update_one(
+                {'username': str(request.user)},
+                {'$push': { 
+                    'translations' : result.inserted_id
+                }})
+            # with open("./json/" + str(ID) + ".json", 'w') as f:
+            #     json.dump(text_pair.dict, f)
 
-        text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, options=options_, _id=ID)
-        col = DB.textpair
-        col.insert_one(text_pair.dict)
-        # with open("./json/" + str(ID) + ".json", 'w') as f:
-        #     json.dump(text_pair.dict, f)
-
-    return processing(request, text_pair, None)
+    return redirect('results')
 
 # Processing page
 # TODO: Add progress bars to this page (use AJAX?)
-def processing(request, text_pair, options):
-    context = {}
-    return render(request, 'process_text/processing.html', context)
+# def processing(request, text_pair, options):
+#     context = {}
+#     return results(request)
 
 # Main grid results page
 # TODO: Add d3 visualizations to each section that was selected
 def results(request):
-    context = {
-        'cur_user': CUR_USER,
-        'sidebar': True
-    }
+    context = {}
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        context['cur_user'] = user
+
+        # Get (or create) text pair
+        col = DB.textpair
+        # tp = col.find_one({'user':user['username']})
+        tpId = user['translations'][-1]
+        tp = col.find_one({'_id': tpId})
+        # with open("./json/" + str(ID) + ".json", 'r') as f:
+        #     tp = json.load(f)
+        
+        # Determine sentence groups and scores
+        if tp is not None:
+            context['sentences'] = tp['matches']
+            context['options'] = tp['options']
     return render(request, 'process_text/results.html', context)
 
-# Metrics view
-# Displays info from each selected metric
-def metric_view(request):
-    # Get (or create) text pair
-    col = DB.textpair
-    tp = col.find_one({'id':ID})
-    # with open("./json/" + str(ID) + ".json", 'r') as f:
-    #     tp = json.load(f)
-    # print(tp['options'])
-    
-    # Determine sentence groups and scores
-    all_sentences = tp['matches']
-
-    # # Get actual text
-    # sentences_s = []
-    # sentences_t = []
-    # scores = []
-    # for text in t1_sent:
-    #     sentences_s.append(text['text'])
-    # for text in t2_sent:
-    #     sentences_t.append(text['text'])
-    # for score in scores_tp:
-    #     scores.append(score)
-
-    # Add data to all_sentences list
-    # all_sentences = []
-    # # Determine score for each sentence pair
-    # for i in range(len(sentences_s)):
-    #     if scores[i]['score'] < 75:
-    #         color = '#f00'
-    #     elif scores[i]['score'] < 85:
-    #         color = '#ffe587'
-    #     else:
-    #         color = '#fff'
-    #     # Add info
-    #     all_sentences.append({
-    #         's' : (sentences_s[i],sentences_t[i]),
-    #         'color' : color,
-    #         'idx': i,
-    #         'score': scores[i]['score'],
-    #     })
-
-    context = {
-        'cur_user': CUR_USER,
-        'sentences': all_sentences,
-        'options': tp['options'],
-        'sidebar': True,
-    }
-
-    return render(request, 'process_text/metric_view.html', context)
 
 def aboutcomprehensibility(request):
     context = {
@@ -361,137 +435,98 @@ def aboutsemanticsimilarity(request):
     }
     return render(request, 'process_text/AboutSemanticSimilarity.html', context)   
 
-###########################################################
-### These four views are not being used and can be deleted
-###########################################################
-# def comprehensibility(request):
-#     red = Color("#ff8585")
-#     white = Color("white")
-#     colors = list(red.range_to(white, 3))
-#     random_questions = [
-#         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?',
-#         'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat?',
-#         'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur?',
-#         'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum?'
-#     ]
-#     random_answers = [
-#         'consectetur',
-#         'enim',
-#         'reprehenderit',
-#         'proident'
-#     ]
-#     tp = TextPair.objects.get(pair_id=ID)
-#     t1_sent = tp.text1['sentences']
-#     t2_sent = tp.text2['sentences']
-#     sentences_s = []
-#     sentences_t = []
-#     for text in t1_sent:
-#         sentences_s.append(text['text'])
-#     for text in t2_sent:
-#         sentences_t.append(text['text'])
-#     all_sentences = []
-#     for i in range(len(sentences_s)):
-#         all_sentences.append({
-#             's': sentences_s[i],
-#             't': sentences_t[i],
-#             'color': choice(colors).hex,
-#             'idx': i,
-#         })
+def get_sim_data(request):
+    global DB
+    col = DB.textpair
+    sim_data = []
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        tpId = user['translations'][-1]
+        data = col.find_one({'_id':tpId})
 
-#     all_questions = []
-#     for i in range(len(sentences_s)):
-#         questions = []
-#         questions.append({
-#             'question': choice(random_questions),
-#             'answer': choice(random_answers),
-#             'color': choice(colors)
-#         })
-#         all_questions.append(questions)
-#     context = {
-#         'sentences': all_sentences,
-#         'questions': all_questions,
-#         'sidebar': True,
-#     }
+        for pair in data['matches']:
+            sim_data.append(float(pair['sim_score']))
+    return JsonResponse({'data': sim_data})
 
-#     return render(request, 'process_text/comprehensibility.html', context)
+def get_comp_data(request, idx):
+    global DB
+    col = DB.textpair
+    comp_data = []
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        tpId = user['translations'][-1]
+        data = col.find_one({'_id':tpId})
+        for pair in data['matches']:
+            comp_data.append(pair['comp_score'])
+        if idx == 'all':
+            correct = 0
+            incorrect = 0
+            idxs = []
+            for i in range(len(comp_data)):
+                data = comp_data[i]
+                if data is not None:
+                    for d in data:
+                        if d['correct']:
+                            correct += 1
+                            idxs.append({'idx': i, 'res': 'c'})
+                        else:
+                            incorrect += 1
+                            idxs.append({'idx': i, 'res': 'i'})
+            return JsonResponse({'data': {'Correct': correct, 'Incorrect': incorrect}, 'idx': idxs})
+        else:
+            return JsonResponse({'data': comp_data[int(idx)]})
+        
 
-# def readability(request):
-#     red = Color("#ff8585")
-#     green = Color("#87c985")
-#     colors = list(red.range_to(green, 10))
-#     tp = TextPair.objects.get(pair_id=ID)
-#     t1_sent = tp.text1['sentences']
-#     t2_sent = tp.text2['sentences']
-#     sentences_s = []
-#     sentences_t = []
-#     for text in t1_sent:
-#         sentences_s.append(text['text'])
-#     for text in t2_sent:
-#         sentences_t.append(text['text'])
-#     all_sentences = []
-#     for i in range(len(sentences_t)):
-#         all_sentences.append({
-#             's': sentences_t[i],
-#             'color': choice(colors).hex,
-#             'idx': i,
-#         })
-#     context = {
-#         'sentences': all_sentences,
-#         'sidebar': True,
-#     }
-#     return render(request, 'process_text/readability.html', context)
+def get_read_data(request):
+    global DB
+    col = DB.textpair
+    read_data = []
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        tpId = user['translations'][-1]
+        data = col.find_one({'_id':tpId})
+        for pair in data['matches']:
+            read_data.append(float(pair['read_score']))
+    return JsonResponse({'data': read_data})
 
-# def semanticdomain(request):
-#     red = Color("#ff8585")
-#     green = Color("#87c985")
-#     colors = list(red.range_to(green, 10))
-#     tp = TextPair.objects.get(pair_id=ID)
-#     t1_sent = tp.text1['sentences']
-#     t2_sent = tp.text2['sentences']
-#     sentences_s = []
-#     sentences_t = []
-#     for text in t1_sent:
-#         sentences_s.append(text['text'])
-#     for text in t2_sent:
-#         sentences_t.append(text['text'])
-#     all_sentences = []
-#     for i in range(len(sentences_t)):
-#         all_sentences.append({
-#             's': sentences_t[i],
-#             'color': choice(colors).hex,
-#             'idx': i,
-#         })
-#     context = {
-#         'sentences': all_sentences,
-#         'sidebar': True,
-#     }
-#     return render(request, 'process_text/semanticdomain.html', context)
+def get_semdom_data(request):
+    global DB
+    col = DB.textpair
+    semdom_data = []
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        tpId = user['translations'][-1]
+        data = col.find_one({'_id':tpId})
+        for pair in data['matches']:
+            semdom_data.append(float(pair['semdom_score']))
+    return JsonResponse({'data': semdom_data})
 
-# def similarity(request):
-#     red = Color("#ff8585")
-#     green = Color("#87c985")
-#     colors = list(red.range_to(green,10))
-#     tp = TextPair.objects.get(pair_id=ID)
-#     t1_sent = tp.text1['sentences']
-#     t2_sent = tp.text2['sentences']
-#     sentences_s = []
-#     sentences_t = []
-#     for text in t1_sent:
-#         sentences_s.append(text['text'])
-#     for text in t2_sent:
-#         sentences_t.append(text['text'])
-#     all_sentences = []
-#     for i in range(len(sentences_s)):
-#         all_sentences.append({
-#             's' : sentences_s[i],
-#             't' : sentences_t[i],
-#             'color' : choice(colors).hex,
-#             'idx': i,
-#         })
-#     context = {
-#         'sentences': all_sentences,
-#         'sidebar': True,
-#     }
-#     return render(request, 'process_text/similarity.html', context)
+def post_question(request, idx):
+    global DB
+    col = DB.textpair
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        tpId = user['translations'][-1]
+        data = col.find_one({'_id':tpId})
+        if request.method == "POST":
+            context = request.POST['context']
+            question = request.POST['question']
+            answer = request.POST['answer']
+            data = [({
+                'context': context,
+                'question': question
+            }, answer)]
 
-###########################################################
+            result = comprehensibility_score(data)
+
+            response = {
+                'data': result[0],
+            }
+
+            col.update_one(
+                {'_id': tpId},
+                {'$push': { 
+                    f'matches.{int(idx)}.comp_score' : result[0]
+                }})
+
+            return JsonResponse(response)
