@@ -62,14 +62,14 @@
                         </a>
                         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
                             <div class="account-dropdown">
-                                <img height="50" width="50" src="{% static 'process_text/images/test.png' %}"/>
+                                <img height="50" width="50" src="{{ cur_user.avatar }}"/>
                                 <br>
                                 <h4>{{ cur_user.fname }}</h4>
                                 <p>{{ cur_user.username }}</p>
                                 <div class="dropdown-divider"></div>
                             </div>
                             <a class="dropdown-item" href="#">Dashboard</a>
-                            <a class="dropdown-item" href="#">Translations</a>
+                            <a class="dropdown-item" href="/index/user/translations/">Translations</a>
                             <a class="dropdown-item" href="/index/user/account/">Account Settings</a>
                             <a class="dropdown-item" href="/index/logout/">Logout</a>
                             <!-- <div class="dropdown-divider"></div> -->

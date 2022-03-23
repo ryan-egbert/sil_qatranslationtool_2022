@@ -2,109 +2,43 @@
 
 {% block body_content %}
 <div class="container">
-    <div id="results-processing" class="results active">
-        <h1 class="header-center">Text has processed</h1>
-        <div class="row">
-            <div class="col header-center">
-                <button id="overviewData" class="btn btn-primary btn-lg">Overview</button>
-            </div>
-            <div class="col header-center">
-                <button id="metricData" class="btn btn-primary btn-lg">Specifics</button>
-            </div>
-        </div>
-    </div>
-    <div id="results-results" class="results">
-        <div class="row">
-            <div class="col">
-                <h1 class="header-center">Results</h1>
-            </div>
-        </div>
-        <div class="row">
-            {% if 's' in options %}
-            <div class="col res1 results-container">
-                <span class="results-head"><a href="#">Similarity</a></span>
-                <br>
-                <div class="results-body">
-                    <svg class="results-svg" height='25vh' width='90%' id="resultsBodySim"></svg>
-                </div>
-            </div>
-            {% endif %}
-            {% if 'c' in options %}
-            <div class="col res2 results-container">
-                <span class="results-head"><a href="#">Comprehensibility</a></span>
-                <br>
-                <div class="results-body">
-                    <svg class="results-svg" height='25vh' width='90%' id="resultsBodyComp"></svg>
-                </div>
-            </div>
-            {% endif %}
-        </div>
-        <div class="row">
-            {% if 'r' in options %}
-            <div class="col res3 results-container">
-                <span class="results-head"><a href="#">Readability</a></span>
-                <br>
-                <div class="results-body">
-                    <svg class="results-svg" height='25vh' width='90%' id="resultsBodyRead"></svg>
-                </div>
-            </div>
-            {% endif %}
-            {% if 'd' in options %}
-            <div class="col res4 results-container">
-                <span class="results-head"><a href="#">Semantic Domains</a></span>
-                <br>
-                <div class="results-body">
-                    <svg class="results-svg" height='25vh' width='90%' id="resultsBodySemdom"></svg>
-                </div>
-            </div>
-            {% endif %}
-        </div>
-        <div class="row">
-            <div class="col results-nav">
-                <button id="toMetricView" class="btn btn-primary right">To Metric View <i class="margin-left-10 fas fa-arrow-right"></i></button>
-            </div>
-        </div>
-    </div>
-    <div id="results-metrics" class="results">
+    <div id="results-metrics" class="results active">
         <div class="row">
             <div class="col-12">
                 <h1 class="header-center">Metric View</h1>
             </div>
         </div>
-        <div class="row">
+        <!-- <div class="row">
             <div class="col results-nav">
                 <a href="{% url 'results' %}"><i class="fas fa-arrow-left"></i> To Main Results</a>
             </div>
-        </div>
+        </div> -->
         <div class="row">
             <div class="col" id="icons">
-                {% if 's' in options %}
+                {% if 's' in translation.options %}
                 <button class="btn btn-lg btn-outline-primary icon-btn" id="simBtn">
                     <!-- <i class="fas fa-equals"></i><br> -->
                     Similarity
                 </button>
                 {% endif %}
-                {% if 'c' in options %}
+                {% if 'c' in translation.options %}
                 <button class="btn btn-lg btn-outline-primary icon-btn" id="compBtn">
                     <!-- <i class="fas fa-glasses"></i> -->
                     Comprehensibility
                 </button>
                 {% endif %}
-                {% if 'r' in options %}
+                {% if 'r' in translation.options %}
                 <button class="btn btn-lg btn-outline-primary icon-btn" id="readBtn">
                     <!-- <i class="fas fa-book"></i> -->
                     Readability
                 </button>
                 {% endif %}
-                {% if 'd' in options %}
+                {% if 'd' in translation.options %}
                 <button class="btn btn-lg btn-outline-primary icon-btn" id="semdomBtn">
                     <!-- <i class="fas fa-sitemap"></i> -->
                     Semantic Domains
                 </button>
                 {% endif %}
-                <button class="btn btn-lg btn-primary icon-btn" id="resetBtn">
-                    Reset
-                </button>
             </div>
         </div>
         <div class="row">
@@ -126,7 +60,7 @@
                 <div class="in" id="single">
                     <div class="row" id="textContainer">
                         <div class="col">
-                            {% for s in sentences %}
+                            {% for s in translation.matches %}
                             <span class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span>
                             <!-- <span style="border-bottom: 3px solid {{ s.simcolor }}" class="sentence" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-comp="{{s.comp_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.translated}}</span> -->
                             {% endfor %}
@@ -134,7 +68,7 @@
                     </div>
                 </div>
                 <div class="in" id="multi">
-                    {% for s in sentences %}
+                    {% for s in translation.matches %}
                     <div class="row">
                         <div class="col-6">
                             <span class="sentence source" data-index="{{s.idx}}" data-sim="{{s.sim_score}}" data-read="{{s.read_score}}" data-semdom="{{s.semdom_score}}">{{s.source}}</span>
@@ -149,14 +83,14 @@
                 </div>
             </div>
             <div class="col-2 text-scroll">
-                {% if 's' in options %}
+                {% if 's' in translation.options %}
                 <div class="scores" id="simScoreDiv">
                     <h5 class="spec-score">Similarity Score</h5>
                     Score: <span id="simScore"></span>
                     <hr>
                 </div>
                 {% endif %}
-                {% if 'c' in options %}
+                {% if 'c' in translation.options %}
                 <div class="scores" id="compScoreDiv">
                     <h5 class="spec-score">Comprehensibility</h5>
                     <div id="comp-questions"></div>
@@ -166,14 +100,14 @@
                     <hr>
                 </div>
                 {% endif %}
-                {% if 'r' in options %}
+                {% if 'r' in translation.options %}
                 <div class="scores" id="readScoreDiv">
                     <h5 class="spec-score">Readability Score</h5>
                     Score: <span id="readScore"></span>
                     <hr>
                 </div>
                 {% endif %}
-                {% if 'd' in options %}
+                {% if 'd' in translation.options %}
                 <div class="scores" id="semdomScoreDiv">
                     <h5 class="spec-score">Semantic Domain Score</h5>
                     Score: <span id="semdomScore"></span>
@@ -193,28 +127,25 @@
                 <span aria-hidden="true">&times;</span>
                 </button>
             </div>
-            <!-- <form>
-                {% csrf_token %} -->
-                <div class="modal-body">
-                    <label for="add-question-context"><h5>Context:</h5> </label>
-                    <span id="add-question-context"></span>
-                    <hr>
-                    <label for="add-question-question"><h5>Question: </h5></label>
-                    <input name="add-question-question" id="add-question-question" type="text"/>
-                    <br>
-                    <label for="add-question-answer"><h5>Expected Answer: </h5></label>
-                    <input name="add-question-answer" id="add-question-answer" type="text"/>
+            <div class="modal-body">
+                <label for="add-question-context"><h5>Context:</h5> </label>
+                <span id="add-question-context"></span>
+                <hr>
+                <label for="add-question-question"><h5>Question: </h5></label>
+                <input name="add-question-question" id="add-question-question" type="text"/>
+                <br>
+                <label for="add-question-answer"><h5>Expected Answer: </h5></label>
+                <input name="add-question-answer" id="add-question-answer" type="text"/>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <div class="spinner-border save-changes" role="status">
+                    <span class="sr-only">Loading...</span>
                 </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                    <div class="spinner-border save-changes" role="status">
-                        <span class="sr-only">Loading...</span>
-                    </div>
-                    <button id="add-question-submit" type="button" class="save-changes active_ btn btn-primary">
-                        Save changes
-                    </button>
-                </div>
-            <!-- </form> -->
+                <button id="add-question-submit" type="button" class="save-changes active_ btn btn-primary">
+                    Save changes
+                </button>
+            </div>
         </div>
     </div>
 </div>

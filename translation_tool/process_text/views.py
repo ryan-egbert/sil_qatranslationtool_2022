@@ -103,6 +103,126 @@ def account_settings(request):
         context['cur_user'] = user
     return render(request, 'process_text/account_settings.html', context)
 
+def preview_translation(matches):
+    if len(matches) < 1:
+        return 'No text available'
+    else:
+        return matches[0]['source'][:25] + '...'
+
+def avg_sim(matches):
+    score = 0
+    num_scores = len(matches)
+    for m in matches:
+        score += float(m['sim_score'])
+
+    if num_scores == 0:
+        return 0
+    return round(score / num_scores, 2)
+
+def avg_read(matches):
+    score = 0
+    num_scores = len(matches)
+    for m in matches:
+        score += float(m['read_score'])
+
+    if num_scores == 0:
+        return 0
+    return round(score / num_scores, 2)
+
+def num_comp(matches):
+    num_correct = 0
+    num_questions = 0
+    for m in matches:
+        if m['comp_score'] is not None and type(m['comp_score']) is not int and len(m['comp_score']) > 0:
+            for question in m['comp_score']:
+                try:
+                    num_questions += 1
+                    if question['correct']:
+                        num_correct += 1
+                except:
+                    pass
+    
+    return f'{num_correct} / {num_questions}'
+
+def user_translations(request):
+    global DB
+    context = {}
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        context['cur_user'] = user
+
+        translations = DB.textpair.find({'user': user['username']}).sort('datetime', -1)
+
+        translation_cols = []
+        translation_row = []
+        for t in translations:
+            translation_row.append({
+                'id': t['id'],
+                'preview': preview_translation(t['matches']),
+                'avg_sim': avg_sim(t['matches']),
+                'avg_read': avg_read(t['matches']),
+                'num_comp': num_comp(t['matches']),
+            })
+            if len(translation_row) == 3:
+                translation_cols.append(translation_row)
+                translation_row = []
+        translation_cols.append(translation_row)
+
+        context['translations'] = translation_cols
+
+    return render(request, 'process_text/all_translations.html', context)
+
+def translation_results(request, t_id):
+    global DB
+    context = {}
+    if request.user.is_authenticated:
+        user = DB.user.find_one({'username': str(request.user)})
+        context['cur_user'] = user
+        tp = DB.textpair.find_one({'id': int(t_id)})
+
+        if tp is not None:
+            context['sentences'] = tp['matches']
+            context['options'] = tp['options']
+
+    return render(request, 'process_text/results.html', context)
+
+'''
+from PIL import Image
+import numpy as np
+import random
+_0 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+_1 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+_2 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+_3 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+_4 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+_5 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+_6 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+_7 = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+
+pixels_list = [
+    [_0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0],
+    [_0, _1, _5, _6, _6, _6, _6, _6, _6, _6, _6, _6, _6, _5, _1, _0],
+    [_0, _7, _1, _5, _6, _6, _6, _6, _6, _6, _6, _6, _5, _1, _7, _0],
+    [_0, _7, _7, _1, _5, _5, _6, _6, _6, _6, _5, _5, _1, _7, _7, _0],
+    [_0, _7, _7, _7, _1, _1, _5, _5, _5, _5, _1, _1, _7, _7, _7, _0],
+    [_0, _3, _3, _7, _7, _7, _1, _1, _1, _1, _7, _7, _7, _3, _3, _0],
+    [_0, _4, _4, _7, _7, _7, _2, _2, _2, _2, _7, _7, _7, _4, _4, _0],
+    [_0, _3, _3, _7, _7, _7, _2, _2, _2, _2, _7, _7, _7, _3, _3, _0],
+    [_0, _4, _4, _7, _7, _7, _2, _2, _2, _2, _7, _7, _7, _4, _4, _0],
+    [_0, _3, _3, _7, _7, _7, _2, _2, _2, _2, _7, _7, _7, _3, _3, _0],
+    [_0, _7, _7, _7, _7, _7, _1, _1, _1, _1, _7, _7, _7, _7, _7, _0],
+    [_0, _7, _7, _7, _1, _1, _5, _5, _5, _5, _1, _1, _7, _7, _7, _0],
+    [_0, _7, _7, _1, _5, _5, _6, _6, _6, _6, _5, _5, _1, _7, _7, _0],
+    [_0, _7, _1, _5, _6, _6, _6, _6, _6, _6, _6, _6, _5, _1, _7, _0],
+    [_0, _1, _5, _6, _6, _6, _6, _6, _6, _6, _6, _6, _6, _5, _1, _0],
+    [_0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0, _0]
+]
+
+avatar_array = np.array(pixels_list, dtype=np.uint8)
+avatar_image = Image.fromarray(avatar_array)
+avatar_image = avatar_image.resize((480, 480), resample=Image.NEAREST)
+avatar_image.save("avatar3.png")
+'''
 # Upload page
 def upload(request):
     global DB
@@ -183,7 +303,6 @@ def processFile(request):
                 pass
             else:
                 file_str = request.FILES['uploadFile'].read().decode()
-                print(file_str)
                 file_strio = StringIO(file_str)
                 reader = csv.DictReader(file_strio)
                 langs = []
@@ -201,9 +320,12 @@ def processFile(request):
             sim_scores = similarity_score(source_text, translated_text)
             read_scores = readability_score(translated_text)
             comp_scores = comprehensibility_score(questions)
-            ID = random.randint(10000,99999)
-            text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, comp_scores=comp_scores, user=user, _id=ID)
             col = DB.textpair
+            ID = random.randint(10000,99999)
+            while col.find_one({'id': ID}) is None:
+                ID = random.randint(10000,99999)
+
+            text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, comp_scores=comp_scores, user=user, _id=ID)
             
             result = col.insert_one(text_pair.dict)
             DB.user.update_one(
@@ -339,13 +461,11 @@ def get_comp_data(request, idx):
         if idx == 'all':
             correct = 0
             incorrect = 0
-            # print(comp_data)
             idxs = []
             for i in range(len(comp_data)):
                 data = comp_data[i]
                 if data is not None:
                     for d in data:
-                        print(d)
                         if d['correct']:
                             correct += 1
                             idxs.append({'idx': i, 'res': 'c'})
@@ -389,7 +509,6 @@ def post_question(request, idx):
         tpId = user['translations'][-1]
         data = col.find_one({'_id':tpId})
         if request.method == "POST":
-            print(request.POST)
             context = request.POST['context']
             question = request.POST['question']
             answer = request.POST['answer']

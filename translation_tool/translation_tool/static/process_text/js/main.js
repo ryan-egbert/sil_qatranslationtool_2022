@@ -140,15 +140,17 @@ $(document).ready(function () {
         let metric = $(this).attr('id');
         let inc = 0;
         // Change display of outline button
-        if ($(this).hasClass('btn-primary')) {
-            $(this).removeClass('btn-primary');
-            $(this).addClass('btn-outline-primary');
-            inc = -1;
-        }
-        else {
-            $(this).removeClass('btn-outline-primary');
-            $(this).addClass('btn-primary');
-            inc = 1;
+        if ($(this).attr('id') != 'resetBtn') {
+            if ($(this).hasClass('btn-primary')) {
+                $(this).removeClass('btn-primary');
+                $(this).addClass('btn-outline-primary');
+                inc = -1;
+            }
+            else {
+                $(this).removeClass('btn-outline-primary');
+                $(this).addClass('btn-primary');
+                inc = 1;
+            }
         }
         // Add chart based on metric
         switch (metric) {
@@ -229,6 +231,7 @@ $(document).ready(function () {
                 var compDataLarge = await compResponse.json();
                 var compData = compDataLarge.data;
                 var compDataIdx = compDataLarge.idx;
+                console.log(compDataIdx)
 
                 var margin = 5; 
                 var width = 200;
@@ -377,6 +380,11 @@ $(document).ready(function () {
             // Semantic Domain Chart (TODO)
             case 'semdomBtn':
                 NUMSINGLE += inc;
+                break;
+            case 'resetBtn':
+                $('.clicked').removeClass('clicked');
+                $('.selected').removeClass('selected');
+                $('.sentence').css('border-bottom', 'none');
                 break;
             default:
                 console.log("Unrecognized button id.")

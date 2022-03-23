@@ -63,6 +63,7 @@ class TextPair:
 
 class UserMongo:
     def __init__(self, username, password, email, first_name, last_name):
+        AVATAR_SIZE = 128
         self._username = username
         self._salt = os.urandom(32)
         self._password = self.hash(password)
@@ -70,6 +71,7 @@ class UserMongo:
         self._last_name = last_name
         self._email = email
         self._translations = []
+        self._avatar = self.avatar(username, AVATAR_SIZE)
         self.dict = {
             'username': self._username,
             'salt': self._salt,
@@ -77,8 +79,13 @@ class UserMongo:
             'translations': self._translations,
             'fname': self._first_name,
             'lname': self._last_name,
-            'email': self._email
+            'email': self._email,
+            'avatar': self._avatar,
         }
+
+    def avatar(self, username, size):
+        hex_ = hashlib.md5(username.lower().encode('utf-8')).hexdigest()
+        return 'https://www.gravatar.com/avatar/{}?d=identicon&s={}'.format(hex_, size)
     
     def hash(self, password):
         key = hashlib.pbkdf2_hmac(

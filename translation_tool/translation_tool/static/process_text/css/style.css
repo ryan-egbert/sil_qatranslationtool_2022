@@ -484,6 +484,7 @@ div.view-chart.active {
 }
 
 .account-dropdown {
+    padding-top: 10px;
     text-align: center; 
     background-color: #bedeff
 }
@@ -555,4 +556,17 @@ path.comp-path.Incorrect.selected {
 }
 .add-question.active {
     display: block;
+}
+
+.translation-card {
+    margin-bottom: 10px;
+}
+
+.translation-link {
+    text-decoration: none;
+    color: #00a7e1;
+}
+.translation-link:hover {
+    text-decoration: none;
+    color: #00a7e1;
 }
