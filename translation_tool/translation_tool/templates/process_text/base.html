@@ -28,24 +28,24 @@
             </button>
             {% endif %}
             <img id="silLogo" height="30" src="{% static 'process_text/images/logo.png' %}"/>
-            <a class="navbar-brand" href="/index/">SIL Translation Quality Tool</a>
+            <a class="navbar-brand" href="/">SIL Translation Quality Tool</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="/index/upload">Upload Translations <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="/upload">Upload Translations <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             About Quality Metrics
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="/index/about/similarity">Semantic Similarity</a>
-                            <a class="dropdown-item" href="/index/about/comprehensibility/">Comprehensibility</a>
-                            <a class="dropdown-item" href="/index/about/readability">Readability</a>
-                            <a class="dropdown-item" href="/index/about/semanticdomain">Semantic Domains</a>
+                            <a class="dropdown-item" href="/about/similarity">Semantic Similarity</a>
+                            <a class="dropdown-item" href="/about/comprehensibility/">Comprehensibility</a>
+                            <a class="dropdown-item" href="/about/readability">Readability</a>
+                            <a class="dropdown-item" href="/about/semanticdomain">Semantic Domains</a>
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="#">Something else here</a>
                         </div>
@@ -69,9 +69,9 @@
                                 <div class="dropdown-divider"></div>
                             </div>
                             <a class="dropdown-item" href="#">Dashboard</a>
-                            <a class="dropdown-item" href="/index/user/translations/">Translations</a>
-                            <a class="dropdown-item" href="/index/user/account/">Account Settings</a>
-                            <a class="dropdown-item" href="/index/logout/">Logout</a>
+                            <a class="dropdown-item" href="/user/translations/">Translations</a>
+                            <a class="dropdown-item" href="/user/account/">Account Settings</a>
+                            <a class="dropdown-item" href="/logout/">Logout</a>
                             <!-- <div class="dropdown-divider"></div> -->
                             <!-- <a class="dropdown-item" href="#">Something else here</a> -->
                         </div>
@@ -79,9 +79,9 @@
                 </ul>
                 {% else %}
                 <ul class="navbar-nav ml-sm-2">
-                    <li class="nav-item"><a class="nav-link" href="/index/login/">Login</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/login/">Login</a></li>
                     <br>
-                    <li class="nav-item"><a class="nav-link" href="/index/register/">Register</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/register/">Register</a></li>
                 </ul>
                 {% endif %}
             </div>
