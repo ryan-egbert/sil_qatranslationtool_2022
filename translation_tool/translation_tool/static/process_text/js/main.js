@@ -67,7 +67,7 @@ $(document).ready(function () {
             $("#comp-questions").empty();
             // Get comprehensibility data
             var id = $("#headerTranslationId").attr('data-id');
-            let compResponse = await fetch('/index/api/compData/' + id + '/' + idx);
+            let compResponse = await fetch('/api/compData/' + id + '/' + idx);
             let compData = await compResponse.json();
             compData = compData.data;
             // Display questions and answers
@@ -102,7 +102,7 @@ $(document).ready(function () {
         var idx = $(".sentence.clicked.translated").attr('data-index');
         var id_ = $("#headerTranslationId").attr('data-id');
         $.ajax({
-            url: '/index/api/postQuestion/' + id_ + '/' + idx + '/',
+            url: '/api/postQuestion/' + id_ + '/' + idx + '/',
             type: 'POST',
             data: {
                 context: $("#add-question-context").text(),
@@ -162,7 +162,7 @@ $(document).ready(function () {
                 NUMMULTI += inc;
                 $("#simScoreDiv").toggleClass('active');
                 $("#viewChartSim").toggleClass('active');
-                var simResponse = await fetch('/index/api/simData/' + id_);
+                var simResponse = await fetch('/api/simData/' + id_);
                 var simData = await simResponse.json();
                 simData = simData.data;
                 var svg = d3.select('#viewChartSimSvg');
@@ -230,7 +230,7 @@ $(document).ready(function () {
                 NUMMULTI += inc;
                 $("#compScoreDiv").toggleClass('active');
                 $("#viewChartComp").toggleClass('active');
-                var compResponse = await fetch('/index/api/compData/' + id_ + '/all/');
+                var compResponse = await fetch('/api/compData/' + id_ + '/all/');
                 var compDataLarge = await compResponse.json();
                 var compData = compDataLarge.data;
                 var compDataIdx = compDataLarge.idx;
@@ -317,7 +317,7 @@ $(document).ready(function () {
                 NUMSINGLE += inc;
                 $("#readScoreDiv").toggleClass('active');
                 $("#viewChartRead").toggleClass('active');
-                var readResponse = await fetch('/index/api/readData/' + id_);
+                var readResponse = await fetch('/api/readData/' + id_);
                 var readData = await readResponse.json();
                 readData = readData.data;
                 var svg = d3.select('#viewChartReadSvg');
@@ -423,17 +423,17 @@ $(document).ready(function () {
     $('#overviewData').on('click', async function() {
         // Get all data
         var id_ = $("#headerTranslationId").attr("data-id");
-        let simResponse = await fetch('/index/api/simData/' + id_);
+        let simResponse = await fetch('/api/simData/' + id_);
         let simData = await simResponse.json();
         simData = simData.data;
-        var compResponse = await fetch('/index/api/compData/' + id_ + '/all');
+        var compResponse = await fetch('/api/compData/' + id_ + '/all');
         var compDataLarge = await compResponse.json();
         var compData = compDataLarge.data;
         var compDataIdx = compDataLarge.idx;
-        let readResponse = await fetch('/index/api/readData' + id_);
+        let readResponse = await fetch('/api/readData' + id_);
         let readData = await readResponse.json();
         readData = readData.data;
-        let semdomResponse = await fetch('/index/api/semdomData');
+        let semdomResponse = await fetch('/api/semdomData');
         let semdomData = await semdomResponse.json();
         semdomData = semdomData.data;
         console.log(simData)
