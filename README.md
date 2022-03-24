@@ -7,6 +7,8 @@ Before running the application, ensure that the following packages are installed
 
 ```pymongo v4.0.1```
 
+```pymongo[srv] v?```
+
 ```torch v1.10.2```
 
 ```transformers v4.16.2```
