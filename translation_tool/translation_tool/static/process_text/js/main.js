@@ -72,10 +72,8 @@ $(document).ready(function () {
             compData = compData.data;
             // Display questions and answers
             if (compData) {
-                console.log(compData)
                 for (let i = 0; i < compData.length; i++) {
                     var data = compData[i];
-                    console.log(data);
                     var q = '<b style="border-bottom: 1px solid black;">Q: </b><span>' + data.question + '</span><br>'
                     var a = '<b style="border-bottom: 1px solid black;">A: </b><span>' + data.answer.answer  + '</span><br>'
                     var e = '<b style="border-bottom: 1px solid black;">Expected: </b><span>' + data.expected  + '</span><br><hr>'
@@ -113,7 +111,6 @@ $(document).ready(function () {
             success: function(json) {
                 // On success, place question/answer in comprehensibility space
                 var data = json.data;
-                console.log(json);
                 var q = '<b style="border-bottom: 1px solid black;">Q: </b><span>' + data.question + '</span><br>'
                 var a = '<b style="border-bottom: 1px solid black;">A: </b><span>' + data.answer.answer + '</span><br>'
                 var e = '<b style="border-bottom: 1px solid black;">Expected: </b><span>' + data.expected + '</span><br><hr>'
@@ -205,7 +202,6 @@ $(document).ready(function () {
                             var x0 = parseFloat($(this).attr('data-lo'));
                             var x1 = parseFloat($(this).attr('data-hi'));
                             if (d3.select(this).classed('selected')) {
-                                console.log('remove')
                                 d3.select(this).classed('selected', false);
                                 $('.sentence').each(function(idx) {
                                     var sim_ = parseFloat($(this).attr('data-sim'));
@@ -234,7 +230,6 @@ $(document).ready(function () {
                 var compDataLarge = await compResponse.json();
                 var compData = compDataLarge.data;
                 var compDataIdx = compDataLarge.idx;
-                console.log(compDataIdx)
 
                 var margin = 5; 
                 var width = 200;
@@ -436,7 +431,6 @@ $(document).ready(function () {
         let semdomResponse = await fetch('/api/semdomData');
         let semdomData = await semdomResponse.json();
         semdomData = semdomData.data;
-        console.log(simData)
         $("#results-results").toggleClass('active');
         $("#results-processing").toggleClass('active');
 

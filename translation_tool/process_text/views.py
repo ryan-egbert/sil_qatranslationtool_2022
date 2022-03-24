@@ -355,16 +355,13 @@ def processText(request):
 
             if 'sim-check' in request.POST:
                 sim_check = 's'
-                print('sim scores')
                 sim_scores = similarity_score(source_text, translated_text)
             if 'comp-check' in request.POST:
                 comp_check = 'c'
-                print('comp scores')
                 # question = request.POST['question'].split('\n')
                 # comp_answer, comp_scores = comprehensibility_score(translated_text, question)
             if 'read-check' in request.POST:
                 read_check = 'r'
-                print('read scores')
                 read_scores = readability_score(translated_text)
             if 'semdom-check' in request.POST:
                 semdom_check = 'd'
@@ -376,10 +373,8 @@ def processText(request):
             while col.find_one({'id': ID}) is not None:
                 ID = random.randint(10000,99999)
 
-            print('generating object')
             text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, comp_scores=[None]*len(source_text), options=options_, user=user, _id=ID)
             col = DB.textpair
-            print('push to db')
             result = col.insert_one(text_pair.dict)
             DB.user.update_one(
                 {'username': str(request.user)},
@@ -518,7 +513,6 @@ def post_question(request, id_, idx):
         user = DB.user.find_one({'username': str(request.user)})
         # tpId = user['translations'][-1]
         data = col.find_one({'id':int(id_)})
-        print(data)
         if request.method == "POST":
             context = request.POST['context']
             question = request.POST['question']
