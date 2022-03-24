@@ -21,10 +21,10 @@ urlpatterns = [
     path('about/readability/', views.aboutreadability, name='aboutreadability'),
     path('about/semanticdomain/', views.aboutsemanticdomain, name='aboutsemanticdomain'),
     path('about/similarity/', views.aboutsemanticsimilarity, name='aboutsemanticsimilarity'),
-    path('api/simData/', views.get_sim_data, name='simData'),
-    path('api/compData/<str:idx>', views.get_comp_data, name='compData'),
-    path('api/readData/', views.get_read_data, name='readData'),
+    path('api/simData/<str:id_>/', views.get_sim_data, name='simData'),
+    path('api/compData/<str:id_>/<str:idx>/', views.get_comp_data, name='compData'),
+    path('api/readData/<str:id_>/', views.get_read_data, name='readData'),
     path('api/semdomData/', views.get_semdom_data, name='semdomData'),
-    path('api/postQuestion/<str:idx>/', views.post_question, name='postQuestion'),
+    path('api/postQuestion/<str:id_>/<str:idx>/', views.post_question, name='postQuestion'),
 ]
  

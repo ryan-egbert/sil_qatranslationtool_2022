@@ -183,6 +183,7 @@ def translation_results(request, t_id):
         if tp is not None:
             context['sentences'] = tp['matches']
             context['options'] = tp['options']
+            context['id'] = tp['id']
 
     return render(request, 'process_text/results.html', context)
 
@@ -322,7 +323,7 @@ def processFile(request):
             comp_scores = comprehensibility_score(questions)
             col = DB.textpair
             ID = random.randint(10000,99999)
-            while col.find_one({'id': ID}) is None:
+            while col.find_one({'id': ID}) is not None:
                 ID = random.randint(10000,99999)
 
             text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, comp_scores=comp_scores, user=user, _id=ID)
@@ -354,23 +355,31 @@ def processText(request):
 
             if 'sim-check' in request.POST:
                 sim_check = 's'
+                print('sim scores')
                 sim_scores = similarity_score(source_text, translated_text)
             if 'comp-check' in request.POST:
                 comp_check = 'c'
-                question = request.POST['question'].split('\n')
-                comp_answer, comp_scores = comprehensibility_score(translated_text, question)
+                print('comp scores')
+                # question = request.POST['question'].split('\n')
+                # comp_answer, comp_scores = comprehensibility_score(translated_text, question)
             if 'read-check' in request.POST:
                 read_check = 'r'
+                print('read scores')
                 read_scores = readability_score(translated_text)
             if 'semdom-check' in request.POST:
                 semdom_check = 'd'
 
             options_ = [op for op in [sim_check, comp_check, read_check, semdom_check] if op != None]
             # TODO: Get id of translation
-            ID = random.randint(10000,99999)
-
-            text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, comp_scores=comp_scores, options=options_, user=user, _id=ID)
             col = DB.textpair
+            ID = random.randint(10000,99999)
+            while col.find_one({'id': ID}) is not None:
+                ID = random.randint(10000,99999)
+
+            print('generating object')
+            text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, comp_scores=[None]*len(source_text), options=options_, user=user, _id=ID)
+            col = DB.textpair
+            print('push to db')
             result = col.insert_one(text_pair.dict)
             DB.user.update_one(
                 {'username': str(request.user)},
@@ -408,6 +417,7 @@ def results(request):
         if tp is not None:
             context['sentences'] = tp['matches']
             context['options'] = tp['options']
+            context['id'] = tp['id']
     return render(request, 'process_text/results.html', context)
 
 
@@ -435,27 +445,27 @@ def aboutsemanticsimilarity(request):
     }
     return render(request, 'process_text/AboutSemanticSimilarity.html', context)   
 
-def get_sim_data(request):
+def get_sim_data(request, id_):
     global DB
     col = DB.textpair
     sim_data = []
     if request.user.is_authenticated:
         user = DB.user.find_one({'username': str(request.user)})
-        tpId = user['translations'][-1]
-        data = col.find_one({'_id':tpId})
+        # tpId = user['translations'][-1]
+        data = col.find_one({'id':int(id_)})
 
         for pair in data['matches']:
             sim_data.append(float(pair['sim_score']))
     return JsonResponse({'data': sim_data})
 
-def get_comp_data(request, idx):
+def get_comp_data(request, id_, idx):
     global DB
     col = DB.textpair
     comp_data = []
     if request.user.is_authenticated:
         user = DB.user.find_one({'username': str(request.user)})
-        tpId = user['translations'][-1]
-        data = col.find_one({'_id':tpId})
+        # tpId = user['translations'][-1]
+        data = col.find_one({'id':int(id_)})
         for pair in data['matches']:
             comp_data.append(pair['comp_score'])
         if idx == 'all':
@@ -477,14 +487,14 @@ def get_comp_data(request, idx):
             return JsonResponse({'data': comp_data[int(idx)]})
         
 
-def get_read_data(request):
+def get_read_data(request, id_):
     global DB
     col = DB.textpair
     read_data = []
     if request.user.is_authenticated:
         user = DB.user.find_one({'username': str(request.user)})
-        tpId = user['translations'][-1]
-        data = col.find_one({'_id':tpId})
+        # tpId = user['translations'][-1]
+        data = col.find_one({'id':int(id_)})
         for pair in data['matches']:
             read_data.append(float(pair['read_score']))
     return JsonResponse({'data': read_data})
@@ -501,13 +511,13 @@ def get_semdom_data(request):
             semdom_data.append(float(pair['semdom_score']))
     return JsonResponse({'data': semdom_data})
 
-def post_question(request, idx):
+def post_question(request, id_, idx):
     global DB
     col = DB.textpair
     if request.user.is_authenticated:
         user = DB.user.find_one({'username': str(request.user)})
-        tpId = user['translations'][-1]
-        data = col.find_one({'_id':tpId})
+        # tpId = user['translations'][-1]
+        data = col.find_one({'id':id_})
         if request.method == "POST":
             context = request.POST['context']
             question = request.POST['question']
@@ -524,7 +534,7 @@ def post_question(request, idx):
             }
 
             col.update_one(
-                {'_id': tpId},
+                {'id': id_},
                 {'$push': { 
                     f'matches.{int(idx)}.comp_score' : result[0]
                 }})
