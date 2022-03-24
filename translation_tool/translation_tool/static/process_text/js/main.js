@@ -159,6 +159,7 @@ $(document).ready(function () {
                 NUMMULTI += inc;
                 $("#simScoreDiv").toggleClass('active');
                 $("#viewChartSim").toggleClass('active');
+                $("#viewChartSimSvg").empty();
                 var simResponse = await fetch('/api/simData/' + id_);
                 var simData = await simResponse.json();
                 simData = simData.data;
@@ -226,6 +227,7 @@ $(document).ready(function () {
                 NUMMULTI += inc;
                 $("#compScoreDiv").toggleClass('active');
                 $("#viewChartComp").toggleClass('active');
+                $("#viewChartCompSvg").empty();
                 var compResponse = await fetch('/api/compData/' + id_ + '/all/');
                 var compDataLarge = await compResponse.json();
                 var compData = compDataLarge.data;
@@ -312,6 +314,7 @@ $(document).ready(function () {
                 NUMSINGLE += inc;
                 $("#readScoreDiv").toggleClass('active');
                 $("#viewChartRead").toggleClass('active');
+                $("#viewChartReadSvg").empty();
                 var readResponse = await fetch('/api/readData/' + id_);
                 var readData = await readResponse.json();
                 readData = readData.data;
