@@ -66,7 +66,8 @@ $(document).ready(function () {
             $("span[data-index=" + index + "]").addClass('clicked').css('background-color', color.match(/rgb(.*)/)[0]).css('color', 'white');
             $("#comp-questions").empty();
             // Get comprehensibility data
-            let compResponse = await fetch('/index/api/compData/' + idx);
+            var id = $("#headerTranslationId").attr('data-id');
+            let compResponse = await fetch('/index/api/compData/' + id + '/' + idx);
             let compData = await compResponse.json();
             compData = compData.data;
             // Display questions and answers
@@ -99,8 +100,9 @@ $(document).ready(function () {
     // Ajax function to add question to database
     function add_question() {
         var idx = $(".sentence.clicked.translated").attr('data-index');
+        var id_ = $("#headerTranslationId").attr('data-id');
         $.ajax({
-            url: '/index/api/postQuestion/' + idx + '/',
+            url: '/index/api/postQuestion/' + id_ + '/' + idx + '/',
             type: 'POST',
             data: {
                 context: $("#add-question-context").text(),
@@ -139,6 +141,7 @@ $(document).ready(function () {
     $(".icon-btn").on('click', async function () {
         let metric = $(this).attr('id');
         let inc = 0;
+        let id_ = $("#headerTranslationId").attr("data-id");
         // Change display of outline button
         if ($(this).attr('id') != 'resetBtn') {
             if ($(this).hasClass('btn-primary')) {
@@ -159,7 +162,7 @@ $(document).ready(function () {
                 NUMMULTI += inc;
                 $("#simScoreDiv").toggleClass('active');
                 $("#viewChartSim").toggleClass('active');
-                var simResponse = await fetch('/index/api/simData');
+                var simResponse = await fetch('/index/api/simData/' + id_);
                 var simData = await simResponse.json();
                 simData = simData.data;
                 var svg = d3.select('#viewChartSimSvg');
@@ -227,7 +230,7 @@ $(document).ready(function () {
                 NUMMULTI += inc;
                 $("#compScoreDiv").toggleClass('active');
                 $("#viewChartComp").toggleClass('active');
-                var compResponse = await fetch('/index/api/compData/all');
+                var compResponse = await fetch('/index/api/compData/' + id_ + '/all/');
                 var compDataLarge = await compResponse.json();
                 var compData = compDataLarge.data;
                 var compDataIdx = compDataLarge.idx;
@@ -314,7 +317,7 @@ $(document).ready(function () {
                 NUMSINGLE += inc;
                 $("#readScoreDiv").toggleClass('active');
                 $("#viewChartRead").toggleClass('active');
-                var readResponse = await fetch('/index/api/readData');
+                var readResponse = await fetch('/index/api/readData/' + id_);
                 var readData = await readResponse.json();
                 readData = readData.data;
                 var svg = d3.select('#viewChartReadSvg');
@@ -419,14 +422,15 @@ $(document).ready(function () {
      */
     $('#overviewData').on('click', async function() {
         // Get all data
-        let simResponse = await fetch('/index/api/simData');
+        var id_ = $("#headerTranslationId").attr("data-id");
+        let simResponse = await fetch('/index/api/simData/' + id_);
         let simData = await simResponse.json();
         simData = simData.data;
-        var compResponse = await fetch('/index/api/compData/all');
+        var compResponse = await fetch('/index/api/compData/' + id_ + '/all');
         var compDataLarge = await compResponse.json();
         var compData = compDataLarge.data;
         var compDataIdx = compDataLarge.idx;
-        let readResponse = await fetch('/index/api/readData');
+        let readResponse = await fetch('/index/api/readData' + id_);
         let readData = await readResponse.json();
         readData = readData.data;
         let semdomResponse = await fetch('/index/api/semdomData');
