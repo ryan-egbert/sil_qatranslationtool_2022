@@ -517,7 +517,8 @@ def post_question(request, id_, idx):
     if request.user.is_authenticated:
         user = DB.user.find_one({'username': str(request.user)})
         # tpId = user['translations'][-1]
-        data = col.find_one({'id':id_})
+        data = col.find_one({'id':int(id_)})
+        print(data)
         if request.method == "POST":
             context = request.POST['context']
             question = request.POST['question']
@@ -534,7 +535,7 @@ def post_question(request, id_, idx):
             }
 
             col.update_one(
-                {'id': id_},
+                {'id': int(id_)},
                 {'$push': { 
                     f'matches.{int(idx)}.comp_score' : result[0]
                 }})
