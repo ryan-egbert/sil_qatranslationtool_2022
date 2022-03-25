@@ -17,6 +17,14 @@ $(document).ready(function () {
     // });
 
     /**
+     * Upload file change name
+     */
+    $('#inputGroupFile01').change(function () {
+        var file = $('#inputGroupFile01')[0].files[0].name;
+        $('#inputFileName').text(file);
+    });
+
+    /**
      * SENTENCE SELECTION
      * Mouseover, mouseout and click events for sentence selection
      * when selecting different metrics
@@ -428,7 +436,7 @@ $(document).ready(function () {
         var compDataLarge = await compResponse.json();
         var compData = compDataLarge.data;
         var compDataIdx = compDataLarge.idx;
-        let readResponse = await fetch('/api/readData' + id_);
+        let readResponse = await fetch('/api/readData/' + id_);
         let readData = await readResponse.json();
         readData = readData.data;
         let semdomResponse = await fetch('/api/semdomData');
