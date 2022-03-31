@@ -311,6 +311,7 @@ def processFile(request):
                 translated_text = []
                 questions = []
                 for row in reader:
+                    print(row)
                     source_text.append(row['source'])
                     translated_text.append(row['translated'])
                     questions.append(({
