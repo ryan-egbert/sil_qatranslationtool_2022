@@ -173,7 +173,7 @@ $(document).ready(function () {
                 simData = simData.data;
                 var svg = d3.select('#viewChartSimSvg');
                 var margin = {
-                    left: 15, right: 5,
+                    left: 30, right: 5,
                     top: 5, bottom: 5
                 };
                 var width = 200;
@@ -195,7 +195,7 @@ $(document).ready(function () {
                     .range([height, 0]);
                 y.domain([0, d3.max(bins, d => { return d.length })]);
                 svg.append('g')
-                    .call(d3.axisLeft(y));
+                    .call(d3.axisLeft(y).ticks(10, "~s"));
                 svg.selectAll('rect')
                     .data(bins)
                     .enter()
@@ -328,7 +328,7 @@ $(document).ready(function () {
                 readData = readData.data;
                 var svg = d3.select('#viewChartReadSvg');
                 var margin = {
-                    left: 15, right: 5,
+                    left: 30, right: 5,
                     top: 5, bottom: 5
                 };
                 var width = 200;
@@ -350,7 +350,7 @@ $(document).ready(function () {
                     .range([height, 0]);
                 y.domain([0, d3.max(bins, d => { return d.length })]);
                 svg.append('g')
-                    .call(d3.axisLeft(y));
+                    .call(d3.axisLeft(y).ticks(10, "~s"));
                 svg.selectAll('rect')
                     .data(bins)
                     .enter()
@@ -450,7 +450,7 @@ $(document).ready(function () {
          */
         var simSvg = d3.select('#resultsBodySim');
         var marginSim = {
-            left: 15, right: 5,
+            left: 30, right: 5,
             top: 5, bottom: 5
         };
         var widthSim = 450;
@@ -472,7 +472,7 @@ $(document).ready(function () {
             .range([heightSim, 0]);
         ySim.domain([0, d3.max(binsSim, d => { return d.length })]);
         simSvg.append('g')
-            .call(d3.axisLeft(ySim));
+            .call(d3.axisLeft(ySim).ticks(10, "~s"));
         simSvg.selectAll('rect')
             .data(binsSim)
             .enter()
@@ -534,7 +534,7 @@ $(document).ready(function () {
          */
         var svgRead = d3.select('#resultsBodyRead');
         var marginRead = {
-            left: 15, right: 5,
+            left: 30, right: 5,
             top: 5, bottom: 5
         };
         var widthRead = 450;
@@ -556,7 +556,7 @@ $(document).ready(function () {
             .range([heightRead, 0]);
         yRead.domain([0, d3.max(binsRead, d => { return d.length })]);
         svgRead.append('g')
-            .call(d3.axisLeft(yRead));
+            .call(d3.axisLeft(yRead).ticks(10, "~s"));
         svgRead.selectAll('rect')
             .data(binsRead)
             .enter()
