@@ -274,7 +274,7 @@ def comprehensibility_score(questions):
         else:
             answer = hg_comp(question[0])
             sim = similarity_score(question[1], answer['answer'])
-            correct = True if sim[0] >= 4 else False
+            correct = True if sim[0] >= 3 else False
             result.append({'question': question[0]['question'], 'answer': answer, 'expected': question[1], 'correct': correct, 'result_sim': sim})
 
     # compute answer
