@@ -7,7 +7,7 @@ Before running the application, ensure that the following packages are installed
 
 ```pymongo v4.0.1```
 
-```pymongo[srv] v?```
+```pymongo[srv]``` (this may require running ```pip install pymongo[srv]``` in addition to installing ```pymongo``` by itself.
 
 ```torch v1.10.2```
 
