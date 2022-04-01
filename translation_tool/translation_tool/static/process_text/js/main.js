@@ -393,7 +393,7 @@ $(document).ready(function () {
             case 'resetBtn':
                 $('.clicked').removeClass('clicked');
                 $('.selected').removeClass('selected');
-                $('.sentence').css('border-bottom', 'none');
+                $(".sentence").removeClass("clicked").css('border-bottom', 'none').css('background-color', 'inherit').css('color', 'black');
                 break;
             default:
                 console.log("Unrecognized button id.")
