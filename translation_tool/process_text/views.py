@@ -225,9 +225,11 @@ avatar_image = avatar_image.resize((480, 480), resample=Image.NEAREST)
 avatar_image.save("avatar3.png")
 '''
 # Upload page
-def upload(request):
+def upload(request, warnings=None):
     global DB
     context = {}
+    if warnings is not None:
+        context['warnings'] = warnings
     if request.user.is_authenticated:
         user = DB.user.find_one({'username': str(request.user)})
         context['cur_user'] = user
@@ -241,12 +243,13 @@ def similarity_score(source, translated):
     # while DB.textpair.find_one({'id':ID}) != None: 
     #     ID = random.randint(10000,99999)
     # Tokenize inputs
+    print(source)
     if len(source) == 0:
         source = ['']
     if len(translated) == 0:
         translated = ['']
-    source_inputs = tokenizer(source, return_tensors="pt", padding=True)
-    translated_inputs = tokenizer(translated, return_tensors="pt", padding=True)
+    source_inputs = tokenizer(source, return_tensors="pt", padding=True, max_length=512, add_special_tokens=False)
+    translated_inputs = tokenizer(translated, return_tensors="pt", padding=True, max_length=512, add_special_tokens=False)
     # Convert inputs with LaBSE model
     with no_grad():
         source_outputs = model(**source_inputs)
@@ -271,7 +274,7 @@ def comprehensibility_score(questions):
         else:
             answer = hg_comp(question[0])
             sim = similarity_score(question[1], answer['answer'])
-            correct = True if sim[0] >= 4 else False
+            correct = True if sim[0] >= 3 else False
             result.append({'question': question[0]['question'], 'answer': answer, 'expected': question[1], 'correct': correct, 'result_sim': sim})
 
     # compute answer
@@ -317,23 +320,30 @@ def processFile(request):
                         'context': row['translated'],
                         'question': row['question'] if row['question'] != '' else None
                     }, row['answer'] if row['answer'] != '' else None))
-
-            sim_scores = similarity_score(source_text, translated_text)
-            read_scores = readability_score(translated_text)
-            comp_scores = comprehensibility_score(questions)
-            col = DB.textpair
-            ID = random.randint(10000,99999)
-            while col.find_one({'id': ID}) is not None:
+            try:
+                sim_scores = similarity_score(source_text, translated_text)
+                read_scores = readability_score(translated_text)
+                comp_scores = comprehensibility_score(questions)
+                col = DB.textpair
                 ID = random.randint(10000,99999)
+                while col.find_one({'id': ID}) is not None:
+                    ID = random.randint(10000,99999)
 
-            text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, comp_scores=comp_scores, user=user, _id=ID)
-            
-            result = col.insert_one(text_pair.dict)
-            DB.user.update_one(
-                {'username': str(request.user)},
-                {'$push': { 
-                    'translations' : result.inserted_id
-                }})
+                text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, comp_scores=comp_scores, user=user, _id=ID)
+                
+                result = col.insert_one(text_pair.dict)
+                DB.user.update_one(
+                    {'username': str(request.user)},
+                    {'$push': { 
+                        'translations' : result.inserted_id
+                    }})
+            except RuntimeError or KeyError:
+                warnings = [
+                    'The file may not be formatted correctly. Try to remove large bits of text from the file.'
+                ]
+                return upload(request, warnings)
+
+
 
         # with open("./json/" + str(ID) + ".json", 'w') as f:
         #     json.dump(text_pair.dict, f)
@@ -350,37 +360,44 @@ def processText(request):
             # Get source text and translated text
             source_text = request.POST['source'].split('\n')
             translated_text = request.POST['translated'].split('\n')
-            sim_check = comp_check = read_check = semdom_check = None
+            sim_check = comp_check = read_check = None
             sim_scores = comp_scores = read_scores = []
 
-            if 'sim-check' in request.POST:
-                sim_check = 's'
-                sim_scores = similarity_score(source_text, translated_text)
-            if 'comp-check' in request.POST:
-                comp_check = 'c'
-                # question = request.POST['question'].split('\n')
-                # comp_answer, comp_scores = comprehensibility_score(translated_text, question)
-            if 'read-check' in request.POST:
-                read_check = 'r'
-                read_scores = readability_score(translated_text)
-            if 'semdom-check' in request.POST:
-                semdom_check = 'd'
+            try:
+                if len(source_text) != len(translated_text):
+                    raise RuntimeError
+                if 'sim-check' in request.POST:
+                    sim_check = 's'
+                    sim_scores = similarity_score(source_text, translated_text)
+                if 'comp-check' in request.POST:
+                    comp_check = 'c'
+                    # question = request.POST['question'].split('\n')
+                    # comp_answer, comp_scores = comprehensibility_score(translated_text, question)
+                if 'read-check' in request.POST:
+                    read_check = 'r'
+                    read_scores = readability_score(translated_text)
 
-            options_ = [op for op in [sim_check, comp_check, read_check, semdom_check] if op != None]
-            # TODO: Get id of translation
-            col = DB.textpair
-            ID = random.randint(10000,99999)
-            while col.find_one({'id': ID}) is not None:
+                options_ = [op for op in [sim_check, comp_check, read_check] if op != None]
+                # TODO: Get id of translation
+                col = DB.textpair
                 ID = random.randint(10000,99999)
+                while col.find_one({'id': ID}) is not None:
+                    ID = random.randint(10000,99999)
 
-            text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, comp_scores=[None]*len(source_text), options=options_, user=user, _id=ID)
-            col = DB.textpair
-            result = col.insert_one(text_pair.dict)
-            DB.user.update_one(
-                {'username': str(request.user)},
-                {'$push': { 
-                    'translations' : result.inserted_id
-                }})
+                text_pair = TextPair(source_text, translated_text, sim_scores=sim_scores, read_scores=read_scores, comp_scores=[None]*len(source_text), options=options_, user=user, _id=ID)
+                col = DB.textpair
+                result = col.insert_one(text_pair.dict)
+                DB.user.update_one(
+                    {'username': str(request.user)},
+                    {'$push': { 
+                        'translations' : result.inserted_id
+                    }})
+            except RuntimeError or IndexError:
+                warnings = [
+                    'Source text and translated text have different lengths. Ensure the source text and translated text have the same number of lines.'
+                ]
+                return upload(request, warnings)
+
             # with open("./json/" + str(ID) + ".json", 'w') as f:
             #     json.dump(text_pair.dict, f)
 

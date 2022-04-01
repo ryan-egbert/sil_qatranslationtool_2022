@@ -3,6 +3,15 @@
 
 {% block body_content %}
 <div class="container-fluid marginTop">
+    {% if warnings %}
+        <div class="row">
+            {% for w in warnings %}
+            <div class="col">
+                <div class="alert alert-danger" role="alert">{{ w }}</div>
+            </div>
+            {% endfor %}
+        </div>
+    {% endif %}
     <div class="row">
         <div class="col-4">
             <div class="card">
@@ -54,10 +63,10 @@
                             <input name="read-check" class="form-check-input" type="checkbox" id="similarity-toggle" checked>
                             <label class="form-check-label">Readability</label>
                         </div>
-                        <div class="form-check form-check-inline">
+                        <!-- <div class="form-check form-check-inline">
                             <input name="semdom-check" class="form-check-input" type="checkbox" id="similarity-toggle" checked>
                             <label class="form-check-label">Semantic Domains</label>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                     <div class="row">
@@ -105,13 +114,6 @@
                     </div>
                     <div class="metric-processing">
                         <span>Readability:</span>
-                        <br>
-                        <div class="spinner-border spinner-border-sm" role="status">
-                            <span class="sr-only">Loading...</span>
-                        </div>
-                    </div>
-                    <div class="metric-processing">
-                        <span>Similarity:</span>
                         <br>
                         <div class="spinner-border spinner-border-sm" role="status">
                             <span class="sr-only">Loading...</span>
