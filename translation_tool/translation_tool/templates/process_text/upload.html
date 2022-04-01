@@ -3,6 +3,15 @@
 
 {% block body_content %}
 <div class="container-fluid marginTop">
+    {% if warnings %}
+        <div class="row">
+            {% for w in warnings %}
+            <div class="col">
+                <div class="alert alert-danger" role="alert">{{ w }}</div>
+            </div>
+            {% endfor %}
+        </div>
+    {% endif %}
     <div class="row">
         <div class="col-4">
             <div class="card">
@@ -105,13 +114,6 @@
                     </div>
                     <div class="metric-processing">
                         <span>Readability:</span>
-                        <br>
-                        <div class="spinner-border spinner-border-sm" role="status">
-                            <span class="sr-only">Loading...</span>
-                        </div>
-                    </div>
-                    <div class="metric-processing">
-                        <span>Similarity:</span>
                         <br>
                         <div class="spinner-border spinner-border-sm" role="status">
                             <span class="sr-only">Loading...</span>

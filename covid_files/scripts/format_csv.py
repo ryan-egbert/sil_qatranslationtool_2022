@@ -27,6 +27,6 @@ for file in files:
                     for i in range(len(lang_dict[0]['sentences'])):
                         s_sen = lang_dict[0]['sentences'][i]
                         t_sen = lang_dict[1]['sentences'][i]
-                        o.write(f'"{s_sen}","{t_sen}",,\n')
+                        o.write(f'\"{s_sen}\",\"{t_sen}\",,\n')
                 except KeyError:
                     print(f'File {file} is not compatible.')
