@@ -14,7 +14,6 @@ class TextPair:
         self._comp_scores = comp_scores
         self._options = options
         self._user = user
-        print(read_scores)
 
         self.dict = self.organize()
 
